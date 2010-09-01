@@ -48,6 +48,11 @@ For the full license text, see the link above.</lic>
             <t pos="v">dïervesjidh</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="v">dåastoehtidh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -58,6 +63,11 @@ For the full license text, see the link above.</lic>
             <t pos="v">dïervesjidh</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="v">råakedh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -66,6 +76,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">fïrnestehtedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">næskoehtidh</t>
          </tg>
       </mg>
    </e>
@@ -108,6 +123,11 @@ For the full license text, see the link above.</lic>
             <t pos="v">gaanestidh</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="v">njååmedidh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -116,6 +136,26 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">gaarvanidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">daajkedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">haajpanidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">haavjodh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">jaavoelidh</t>
          </tg>
       </mg>
    </e>
@@ -158,6 +198,11 @@ For the full license text, see the link above.</lic>
             <t pos="v">heeptedh</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="v">aeredh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -166,6 +211,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">heeptedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">vyjhpestehtedh</t>
          </tg>
       </mg>
    </e>
@@ -188,6 +238,16 @@ For the full license text, see the link above.</lic>
             <t pos="v">jeatjahtehtedh</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="v">jarkoestehtedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">jarkoestidh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -196,6 +256,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">jååkedidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">juakadidh</t>
          </tg>
       </mg>
    </e>
@@ -216,6 +281,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">loedtenidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">gæjhkanidh</t>
          </tg>
       </mg>
    </e>
@@ -276,6 +346,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">skarredh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">ringkedh</t>
          </tg>
       </mg>
    </e>
@@ -368,6 +443,11 @@ For the full license text, see the link above.</lic>
             <t pos="v">sturredh</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="v">hearaldehtedh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -376,6 +456,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">svirredh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">jïjledh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">snjierpehtidh</t>
          </tg>
       </mg>
    </e>
@@ -408,6 +498,11 @@ For the full license text, see the link above.</lic>
             <t pos="v">sïektjedh</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="v">njaakedidh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -426,6 +521,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">sïmmedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">sepkedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">sïmmedadtedh</t>
          </tg>
       </mg>
    </e>
@@ -498,6 +603,11 @@ For the full license text, see the link above.</lic>
             <t pos="v">vaajtelidh</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="v">vajtelidh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -538,6 +648,11 @@ For the full license text, see the link above.</lic>
             <t pos="v">bïevestovvedh</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="v">bïevestidh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -546,6 +661,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">eadtjoestidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">baejhtedh</t>
          </tg>
       </mg>
    </e>
@@ -578,6 +698,16 @@ For the full license text, see the link above.</lic>
             <t pos="v">sjïehtesjadtedh</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="v">eevtjedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">sjïehtesjidh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -588,11 +718,6 @@ For the full license text, see the link above.</lic>
             <t pos="v">aabparidh</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">orke</l>
-      </lg>
       <mg>
          <tg>
             <t pos="v">aabparidh</t>
@@ -648,6 +773,16 @@ For the full license text, see the link above.</lic>
             <t pos="v">aahpeldidh</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="v">aassjoestidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">haeniehtidh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -656,6 +791,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">beenghkedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">njuvtedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">tsaepmedh</t>
          </tg>
       </mg>
    </e>
@@ -676,6 +821,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">njeervedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">murhkedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">njuvtedh</t>
          </tg>
       </mg>
    </e>
@@ -718,6 +873,16 @@ For the full license text, see the link above.</lic>
             <t pos="v">aajhtsedh</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="v">guajhtsadidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">mïerhkesjidh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -726,6 +891,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">aajhtsedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">guajhtsadidh</t>
          </tg>
       </mg>
    </e>
@@ -748,6 +918,11 @@ For the full license text, see the link above.</lic>
             <t pos="v">aanodh</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="v">haanodh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -756,6 +931,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">aanoestidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">birredh</t>
          </tg>
       </mg>
    </e>
@@ -778,6 +958,16 @@ For the full license text, see the link above.</lic>
             <t pos="v">aassjoestehtedh</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="v">aassjoestidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">assjoestehtedh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -786,6 +976,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">aassjoestehtedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">aassjoestidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">assjoestehtedh</t>
          </tg>
       </mg>
    </e>
@@ -798,50 +998,20 @@ For the full license text, see the link above.</lic>
             <t pos="v">aassjoestehtedh</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">avvise</l>
-      </lg>
       <mg>
          <tg>
             <t pos="v">aassjoestidh</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">hate</l>
-      </lg>
       <mg>
          <tg>
-            <t pos="v">aassjoestidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">tilrettevise</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">aassjoestidh</t>
+            <t pos="v">assjoestehtedh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
          <l pos="v">forakte</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">aassjoestidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">håne</l>
       </lg>
       <mg>
          <tg>
@@ -858,6 +1028,11 @@ For the full license text, see the link above.</lic>
             <t pos="v">aassjoestidh</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="v">biehtedh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -866,6 +1041,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">aatskadidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">böörenjestedh</t>
          </tg>
       </mg>
    </e>
@@ -886,16 +1066,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">aelkedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">hefte</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">aeredh</t>
          </tg>
       </mg>
    </e>
@@ -938,6 +1108,26 @@ For the full license text, see the link above.</lic>
             <t pos="v">aerviedidh</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="v">buajhkedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">guarkedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">guejstedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">guerkiehtidh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -978,6 +1168,21 @@ For the full license text, see the link above.</lic>
             <t pos="v">armoedehtedh</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="v">armoedidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">eadtoedidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">iedtedh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -988,54 +1193,9 @@ For the full license text, see the link above.</lic>
             <t pos="v">armoedehtedh</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">fornærme</l>
-      </lg>
       <mg>
          <tg>
             <t pos="v">armoedidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">forarge</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">armoedidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">avvise</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">assjoestehtedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">hate</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">assjoestehtedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">tilrettevise</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">assjoestehtedh</t>
          </tg>
       </mg>
    </e>
@@ -1048,6 +1208,11 @@ For the full license text, see the link above.</lic>
             <t pos="v">åadtjodh</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="v">fihkedh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -1056,6 +1221,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">åajsodh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">håajsodh</t>
          </tg>
       </mg>
    </e>
@@ -1068,6 +1238,11 @@ For the full license text, see the link above.</lic>
             <t pos="v">åajsodh</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="v">håajsodh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -1078,14 +1253,14 @@ For the full license text, see the link above.</lic>
             <t pos="v">åajvahtehtedh</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">formane</l>
-      </lg>
       <mg>
          <tg>
             <t pos="v">åajvahtidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">nihtetjistedh</t>
          </tg>
       </mg>
    </e>
@@ -1098,6 +1273,21 @@ For the full license text, see the link above.</lic>
             <t pos="v">åarajehtedh</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="v">buvvedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">irhkedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">uvhtedh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -1106,6 +1296,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">åarajidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">nahkestidh</t>
          </tg>
       </mg>
    </e>
@@ -1118,6 +1313,16 @@ For the full license text, see the link above.</lic>
             <t pos="v">åarajidh</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="v">jaemedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">jåhtajidh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -1126,6 +1331,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">åarkodh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">håarkodh</t>
          </tg>
       </mg>
    </e>
@@ -1198,6 +1408,11 @@ For the full license text, see the link above.</lic>
             <t pos="v">årrodh</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="v">vearadidh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -1258,6 +1473,11 @@ For the full license text, see the link above.</lic>
             <t pos="v">baajedh</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="v">luhpiedidh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -1278,6 +1498,11 @@ For the full license text, see the link above.</lic>
             <t pos="v">baaveldidh</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="v">slaamperdidh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -1288,6 +1513,11 @@ For the full license text, see the link above.</lic>
             <t pos="v">baaveldidh</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="v">slaamperdidh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -1296,6 +1526,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">baaverdidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">gæmhpodh</t>
          </tg>
       </mg>
    </e>
@@ -1318,6 +1553,11 @@ For the full license text, see the link above.</lic>
             <t pos="v">badtehtidh</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="v">våajoedehtedh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -1328,14 +1568,9 @@ For the full license text, see the link above.</lic>
             <t pos="v">badtjadidh</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">drive</l>
-      </lg>
       <mg>
          <tg>
-            <t pos="v">baejhtedh</t>
+            <t pos="v">bådtjadidh</t>
          </tg>
       </mg>
    </e>
@@ -1346,6 +1581,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">baersieldidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">guaktadidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">reakadehtedh</t>
          </tg>
       </mg>
    </e>
@@ -1388,14 +1633,9 @@ For the full license text, see the link above.</lic>
             <t pos="v">båarastehtedh</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">smøre</l>
-      </lg>
       <mg>
          <tg>
-            <t pos="v">bådtjadidh</t>
+            <t pos="v">buarastehtedh</t>
          </tg>
       </mg>
    </e>
@@ -1416,6 +1656,26 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">båetiejidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">byöredh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">luvhtedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">tjoeredh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">tjoeveridh</t>
          </tg>
       </mg>
    </e>
@@ -1488,6 +1748,11 @@ For the full license text, see the link above.</lic>
             <t pos="v">beavnedh</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="v">biermedh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -1496,6 +1761,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">beerkedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">gorredidh</t>
          </tg>
       </mg>
    </e>
@@ -1518,6 +1788,11 @@ For the full license text, see the link above.</lic>
             <t pos="v">beertedh</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="v">bertedh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -1526,6 +1801,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">beertedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">bertedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">bïejedh</t>
          </tg>
       </mg>
    </e>
@@ -1548,24 +1833,14 @@ For the full license text, see the link above.</lic>
             <t pos="v">beltedh</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">stable</l>
-      </lg>
       <mg>
          <tg>
-            <t pos="v">bertedh</t>
+            <t pos="v">rapkelidh</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">legge</l>
-      </lg>
       <mg>
          <tg>
-            <t pos="v">bertedh</t>
+            <t pos="v">ribnjestidh</t>
          </tg>
       </mg>
    </e>
@@ -1578,6 +1853,16 @@ For the full license text, see the link above.</lic>
             <t pos="v">bertedh</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="v">bïejedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">jadtehtidh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -1586,6 +1871,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">bertedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">vertedh</t>
          </tg>
       </mg>
    </e>
@@ -1608,6 +1898,11 @@ For the full license text, see the link above.</lic>
             <t pos="v">bestedh</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="v">gaetskedh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -1616,6 +1911,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">biehtedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">deerehtidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">eajhkaldehtedh</t>
          </tg>
       </mg>
    </e>
@@ -1641,21 +1946,21 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="v">forråde</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">biehtedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="v">ødelegge</l>
       </lg>
       <mg>
          <tg>
             <t pos="v">biejstedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">earjoehtidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">goerpedehtedh</t>
          </tg>
       </mg>
    </e>
@@ -1681,21 +1986,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="v">mistenke</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">biermedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="v">bøye</l>
       </lg>
       <mg>
          <tg>
             <t pos="v">biesmedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">sojjedh</t>
          </tg>
       </mg>
    </e>
@@ -1726,16 +2026,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">bietskiedidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">svette</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">bïevestidh</t>
          </tg>
       </mg>
    </e>
@@ -1778,6 +2068,11 @@ For the full license text, see the link above.</lic>
             <t pos="v">bigkedh</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="v">daajhtodh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -1786,6 +2081,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">bigkedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">tseegkedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">tsegkedh</t>
          </tg>
       </mg>
    </e>
@@ -1828,6 +2133,16 @@ For the full license text, see the link above.</lic>
             <t pos="v">bïksedh</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="v">dïjpedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">vaeltedh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -1838,14 +2153,9 @@ For the full license text, see the link above.</lic>
             <t pos="v">bïksedh</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">be</l>
-      </lg>
       <mg>
          <tg>
-            <t pos="v">birredh</t>
+            <t pos="v">dïjpedh</t>
          </tg>
       </mg>
    </e>
@@ -1878,20 +2188,30 @@ For the full license text, see the link above.</lic>
             <t pos="v">bïedtedh</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">forby</l>
-      </lg>
       <mg>
          <tg>
             <t pos="v">bïedtedh</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="v">öörnedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">öörnedidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">vaaroehtidh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">advare</l>
+         <l pos="v">forby</l>
       </lg>
       <mg>
          <tg>
@@ -1906,26 +2226,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">bïegkedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">legge</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">bïejedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">sette</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">bïejedh</t>
          </tg>
       </mg>
    </e>
@@ -1958,6 +2258,21 @@ For the full license text, see the link above.</lic>
             <t pos="v">bïeredh</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="v">gærrodh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">gærroedidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">gærroestidh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -1966,6 +2281,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">bïhkedidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">boejhkelidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">tjïelkesidh</t>
          </tg>
       </mg>
    </e>
@@ -1998,6 +2323,26 @@ For the full license text, see the link above.</lic>
             <t pos="v">bïhkedidh</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="v">boejhkelidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">lïerehtidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">lohkehtidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">ööhpehtidh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -2008,11 +2353,6 @@ For the full license text, see the link above.</lic>
             <t pos="v">bïhtjegidh</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">spire</l>
-      </lg>
       <mg>
          <tg>
             <t pos="v">bïhtsegidh</t>
@@ -2031,31 +2371,21 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="v">forklare</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">boejhkelidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">undervise</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">boejhkelidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="v">tilstå</l>
       </lg>
       <mg>
          <tg>
             <t pos="v">boejhkesjidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">bæjhkodh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">mietiehtidh</t>
          </tg>
       </mg>
    </e>
@@ -2078,6 +2408,11 @@ For the full license text, see the link above.</lic>
             <t pos="v">boelnedh</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="v">vyskedidh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -2086,6 +2421,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">boelnedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">boevnjedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">slaamedh</t>
          </tg>
       </mg>
    </e>
@@ -2106,16 +2451,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">boelvestidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">visne</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">boevnjedh</t>
          </tg>
       </mg>
    </e>
@@ -2178,6 +2513,11 @@ For the full license text, see the link above.</lic>
             <t pos="v">bööredh</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="v">böörestidh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -2188,31 +2528,6 @@ For the full license text, see the link above.</lic>
             <t pos="v">bööredh</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">forsøke</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">böörenjestedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">by</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">böörestidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">innby</l>
-      </lg>
       <mg>
          <tg>
             <t pos="v">böörestidh</t>
@@ -2248,6 +2563,11 @@ For the full license text, see the link above.</lic>
             <t pos="v">brorredh</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="v">sjovvedh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -2258,14 +2578,9 @@ For the full license text, see the link above.</lic>
             <t pos="v">buarastehtedh</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">håndhilse</l>
-      </lg>
       <mg>
          <tg>
-            <t pos="v">buarastehtedh</t>
+            <t pos="v">heelsedh</t>
          </tg>
       </mg>
    </e>
@@ -2276,16 +2591,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">budtedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">forstå</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">buajhkedh</t>
          </tg>
       </mg>
    </e>
@@ -2368,6 +2673,11 @@ For the full license text, see the link above.</lic>
             <t pos="v">butnedh</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="v">geartodh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -2378,14 +2688,9 @@ For the full license text, see the link above.</lic>
             <t pos="v">butnedh</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">drepe</l>
-      </lg>
       <mg>
          <tg>
-            <t pos="v">buvvedh</t>
+            <t pos="v">gurredh</t>
          </tg>
       </mg>
    </e>
@@ -2408,6 +2713,11 @@ For the full license text, see the link above.</lic>
             <t pos="v">byjrehtalledh</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="v">bæjroehtidh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -2416,6 +2726,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">byöpmedidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">meksiehtidh</t>
          </tg>
       </mg>
    </e>
@@ -2428,6 +2743,11 @@ For the full license text, see the link above.</lic>
             <t pos="v">byöredh</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="v">edtjedh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -2436,36 +2756,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">byöredh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">måtte</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">byöredh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">tilstå</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">bæjhkodh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">spore</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">bæjroehtidh</t>
          </tg>
       </mg>
    </e>
@@ -2498,6 +2788,31 @@ For the full license text, see the link above.</lic>
             <t pos="v">beelhkedh</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="v">hajkedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">hajkedidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">slearodh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">sleevhkedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">slijredh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -2526,26 +2841,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">daajhtodh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">lage</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">daajhtodh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">forsvinne</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">daajkedh</t>
          </tg>
       </mg>
    </e>
@@ -2598,6 +2893,11 @@ For the full license text, see the link above.</lic>
             <t pos="v">daanhtsodh</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="v">jårredh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -2606,6 +2906,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">daejredh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">guejstedh</t>
          </tg>
       </mg>
    </e>
@@ -2626,6 +2931,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">davvodh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">dåvvodh</t>
          </tg>
       </mg>
    </e>
@@ -2661,26 +2971,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="v">møte</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">dåastoehtidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">reparere</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">dåvvodh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="v">baktale</l>
       </lg>
       <mg>
@@ -2688,14 +2978,29 @@ For the full license text, see the link above.</lic>
             <t pos="v">deablodh</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">baktale</l>
-      </lg>
       <mg>
          <tg>
             <t pos="v">deebledh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">dibledh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">dïeblestehtedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">guvsiedidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">slaarvestidh</t>
          </tg>
       </mg>
    </e>
@@ -2711,16 +3016,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="v">bedra</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">deerehtidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="v">torvlegge</l>
       </lg>
       <mg>
@@ -2728,14 +3023,9 @@ For the full license text, see the link above.</lic>
             <t pos="v">darhvedh</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">baktale</l>
-      </lg>
       <mg>
          <tg>
-            <t pos="v">dibledh</t>
+            <t pos="v">dirhvedh</t>
          </tg>
       </mg>
    </e>
@@ -2748,11 +3038,6 @@ For the full license text, see the link above.</lic>
             <t pos="v">dïerhkestidh</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">diskutere</l>
-      </lg>
       <mg>
          <tg>
             <t pos="v">dïerhkesjidh</t>
@@ -2766,26 +3051,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">dïevedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">torvlegge</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">dirhvedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">baktale</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">dïeblestehtedh</t>
          </tg>
       </mg>
    </e>
@@ -2808,24 +3073,9 @@ For the full license text, see the link above.</lic>
             <t pos="v">dïeredh</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">ta</l>
-      </lg>
       <mg>
          <tg>
-            <t pos="v">dïjpedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">gripe</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">dïjpedh</t>
+            <t pos="v">haeniedidh</t>
          </tg>
       </mg>
    </e>
@@ -2878,6 +3128,11 @@ For the full license text, see the link above.</lic>
             <t pos="v">doeltedh</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="v">voessjedh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -2898,11 +3153,6 @@ For the full license text, see the link above.</lic>
             <t pos="v">domtedh</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">kjennes</l>
-      </lg>
       <mg>
          <tg>
             <t pos="v">dobtedh</t>
@@ -2918,6 +3168,11 @@ For the full license text, see the link above.</lic>
             <t pos="v">dongkedh</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="v">dongkehtidh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -2928,24 +3183,14 @@ For the full license text, see the link above.</lic>
             <t pos="v">dongkedh</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">bestille</l>
-      </lg>
       <mg>
          <tg>
             <t pos="v">dongkehtidh</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">tinge</l>
-      </lg>
       <mg>
          <tg>
-            <t pos="v">dongkehtidh</t>
+            <t pos="v">govlehtidh</t>
          </tg>
       </mg>
    </e>
@@ -2958,21 +3203,11 @@ For the full license text, see the link above.</lic>
             <t pos="v">dorjedidh</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">mime</l>
-      </lg>
       <mg>
          <tg>
             <t pos="v">dorjehtalledh</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">mime</l>
-      </lg>
       <mg>
          <tg>
             <t pos="v">dorjehtidh</t>
@@ -3008,24 +3243,9 @@ For the full license text, see the link above.</lic>
             <t pos="v">eadtjaldehtedh</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">fornærme</l>
-      </lg>
       <mg>
          <tg>
-            <t pos="v">eadtoedidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">bedra</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">eajhkaldehtedh</t>
+            <t pos="v">garmerdehtedh</t>
          </tg>
       </mg>
    </e>
@@ -3071,16 +3291,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="v">ødelegge</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">earjoehtidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="v">beære</l>
       </lg>
       <mg>
@@ -3111,16 +3321,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="v">skulle</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">edtjedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="v">ale</l>
       </lg>
       <mg>
@@ -3138,14 +3338,9 @@ For the full license text, see the link above.</lic>
             <t pos="v">eeledh</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">tilrettelegge</l>
-      </lg>
       <mg>
          <tg>
-            <t pos="v">eevtjedh</t>
+            <t pos="v">bijjiedidh</t>
          </tg>
       </mg>
    </e>
@@ -3156,6 +3351,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">faaledh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">geelkedh</t>
          </tg>
       </mg>
    </e>
@@ -3176,16 +3376,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">fååtesidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">få</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">fihkedh</t>
          </tg>
       </mg>
    </e>
@@ -3248,14 +3438,9 @@ For the full license text, see the link above.</lic>
             <t pos="v">gaerkiehtidh</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">bite</l>
-      </lg>
       <mg>
          <tg>
-            <t pos="v">gaetskedh</t>
+            <t pos="v">velkiehtidh</t>
          </tg>
       </mg>
    </e>
@@ -3268,11 +3453,6 @@ For the full license text, see the link above.</lic>
             <t pos="v">gahkedh</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">stamme</l>
-      </lg>
       <mg>
          <tg>
             <t pos="v">gahkestidh</t>
@@ -3298,6 +3478,21 @@ For the full license text, see the link above.</lic>
             <t pos="v">gajrodh</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="v">geevledh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">gojredh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">njæjhkodh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -3308,6 +3503,21 @@ For the full license text, see the link above.</lic>
             <t pos="v">gajrodh</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="v">gujredh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">njæjhkodh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">pleanjodh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -3316,16 +3526,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">gaptjedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">oppmuntre</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">garmerdehtedh</t>
          </tg>
       </mg>
    </e>
@@ -3358,11 +3558,6 @@ For the full license text, see the link above.</lic>
             <t pos="v">gåaljodh</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">stange</l>
-      </lg>
       <mg>
          <tg>
             <t pos="v">gåaljoestidh</t>
@@ -3386,6 +3581,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">gåaskodh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">gåhtsajehtedh</t>
          </tg>
       </mg>
    </e>
@@ -3431,16 +3631,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="v">vekke</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">gåhtsajehtedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="v">synliggjøre</l>
       </lg>
       <mg>
@@ -3456,16 +3646,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">gårrodh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">tilby</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">geelkedh</t>
          </tg>
       </mg>
    </e>
@@ -3506,16 +3686,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">geerredidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">skrike</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">geevledh</t>
          </tg>
       </mg>
    </e>
@@ -3608,6 +3778,11 @@ For the full license text, see the link above.</lic>
             <t pos="v">gïjkedh</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="v">giltedh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -3632,16 +3807,6 @@ For the full license text, see the link above.</lic>
    <e>
       <lg>
          <l pos="v">glitre</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">giltedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">glinse</l>
       </lg>
       <mg>
          <tg>
@@ -3678,20 +3843,15 @@ For the full license text, see the link above.</lic>
             <t pos="v">gïehtjedidh</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">fortred</l>
-      </lg>
       <mg>
          <tg>
-            <t pos="v">goerpedehtedh</t>
+            <t pos="v">vuejnedh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="v">ødelegge</l>
+         <l pos="v">fortred</l>
       </lg>
       <mg>
          <tg>
@@ -3716,6 +3876,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">goetsedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">goetsedidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">hajkedh</t>
          </tg>
       </mg>
    </e>
@@ -3758,14 +3928,9 @@ For the full license text, see the link above.</lic>
             <t pos="v">goetsedidh</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">løpe</l>
-      </lg>
       <mg>
          <tg>
-            <t pos="v">goetsedidh</t>
+            <t pos="v">hajkedh</t>
          </tg>
       </mg>
    </e>
@@ -3808,14 +3973,9 @@ For the full license text, see the link above.</lic>
             <t pos="v">gojkelovvedh</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">skrike</l>
-      </lg>
       <mg>
          <tg>
-            <t pos="v">gojredh</t>
+            <t pos="v">gojhkelovvedh</t>
          </tg>
       </mg>
    </e>
@@ -3828,6 +3988,11 @@ For the full license text, see the link above.</lic>
             <t pos="v">golteladtedh</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="v">govleskoedtedh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -3836,16 +4001,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">goltelidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">berge</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">gorredidh</t>
          </tg>
       </mg>
    </e>
@@ -3891,26 +4046,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="v">tinge</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">govlehtidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">lytte</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">govleskoedtedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="v">fiske</l>
       </lg>
       <mg>
@@ -3918,44 +4053,9 @@ For the full license text, see the link above.</lic>
             <t pos="v">gööledh</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">merke</l>
-      </lg>
       <mg>
          <tg>
-            <t pos="v">guajhtsadidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">oppdage</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">guajhtsadidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">føde</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">guaktadidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">forstå</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">guarkedh</t>
+            <t pos="v">sigkestidh</t>
          </tg>
       </mg>
    </e>
@@ -3988,6 +4088,11 @@ For the full license text, see the link above.</lic>
             <t pos="v">guedtedh</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="v">sööhpedh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -4001,16 +4106,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="v">forstå</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">guejstedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="v">tro</l>
       </lg>
       <mg>
@@ -4018,14 +4113,14 @@ For the full license text, see the link above.</lic>
             <t pos="v">guejstedh</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">vite</l>
-      </lg>
       <mg>
          <tg>
-            <t pos="v">guejstedh</t>
+            <t pos="v">vïenhtedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">veanhtedh</t>
          </tg>
       </mg>
    </e>
@@ -4038,14 +4133,9 @@ For the full license text, see the link above.</lic>
             <t pos="v">guepmierdidh</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">forstå</l>
-      </lg>
       <mg>
          <tg>
-            <t pos="v">guerkiehtidh</t>
+            <t pos="v">vuhtsedh</t>
          </tg>
       </mg>
    </e>
@@ -4056,16 +4146,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">guhtsedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">pistre</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">gujredh</t>
          </tg>
       </mg>
    </e>
@@ -4121,16 +4201,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="v">spinne</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">gurredh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="v">beundre</l>
       </lg>
       <mg>
@@ -4161,16 +4231,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="v">baktale</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">guvsiedidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="v">havne</l>
       </lg>
       <mg>
@@ -4178,14 +4238,9 @@ For the full license text, see the link above.</lic>
             <t pos="v">gyöntedh</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">revne</l>
-      </lg>
       <mg>
          <tg>
-            <t pos="v">gæjhkanidh</t>
+            <t pos="v">haajpanidh</t>
          </tg>
       </mg>
    </e>
@@ -4202,16 +4257,6 @@ For the full license text, see the link above.</lic>
    <e>
       <lg>
          <l pos="v">slåss</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">gæmhpodh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">streve</l>
       </lg>
       <mg>
          <tg>
@@ -4241,61 +4286,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="v">banne</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">gærrodh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">banne</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">gærroedidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">banne</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">gærroestidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="v">henge</l>
       </lg>
       <mg>
          <tg>
             <t pos="v">gævnjasjidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">forsvinne</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">haajpanidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">havne</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">haajpanidh</t>
          </tg>
       </mg>
    </e>
@@ -4321,26 +4316,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="v">tigge</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">haanodh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">forsvinne</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">haavjodh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="v">forgå</l>
       </lg>
       <mg>
@@ -4361,66 +4336,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="v">mase</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">haeniedidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">håne</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">haeniehtidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">springe</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">hajkedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">løpe</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">hajkedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">kaste</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">hajkedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">kaste</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">hajkedidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="v">forkastes</l>
       </lg>
       <mg>
@@ -4431,61 +4346,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="v">klare</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">håajsodh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">makte</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">håajsodh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">feie</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">håarkodh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="v">håpe</l>
       </lg>
       <mg>
          <tg>
             <t pos="v">håhkesjidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">forstyrre</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">hearaldehtedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">hilse</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">heelsedh</t>
          </tg>
       </mg>
    </e>
@@ -4551,51 +4416,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="v">fornærme</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">iedtedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="v">skuffe</l>
       </lg>
       <mg>
          <tg>
             <t pos="v">iermedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">drepe</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">irhkedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">forsvinne</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">jaavoelidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">dø</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">jaemedh</t>
          </tg>
       </mg>
    </e>
@@ -4621,16 +4446,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="v">forandre</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">jarkoestehtedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="v">oversette</l>
       </lg>
       <mg>
@@ -4638,21 +4453,6 @@ For the full license text, see the link above.</lic>
             <t pos="v">jarkoestehtedh</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">forandre</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">jarkoestidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">oversette</l>
-      </lg>
       <mg>
          <tg>
             <t pos="v">jarkoestidh</t>
@@ -4668,24 +4468,9 @@ For the full license text, see the link above.</lic>
             <t pos="v">jååhkesjidh</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">dø</l>
-      </lg>
       <mg>
          <tg>
-            <t pos="v">jåhtajidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">danse</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">jårredh</t>
+            <t pos="v">nænnoestidh</t>
          </tg>
       </mg>
    </e>
@@ -4698,6 +4483,11 @@ For the full license text, see the link above.</lic>
             <t pos="v">jieledh</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="v">veasodh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -4708,14 +4498,14 @@ For the full license text, see the link above.</lic>
             <t pos="v">jïjledh</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">svi</l>
-      </lg>
       <mg>
          <tg>
-            <t pos="v">jïjledh</t>
+            <t pos="v">saejriedidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">vaarhkedh</t>
          </tg>
       </mg>
    </e>
@@ -4758,14 +4548,14 @@ For the full license text, see the link above.</lic>
             <t pos="v">juhtedh</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">sette</l>
-      </lg>
       <mg>
          <tg>
-            <t pos="v">jadtehtidh</t>
+            <t pos="v">njabpestidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">njalkestidh</t>
          </tg>
       </mg>
    </e>
@@ -4798,6 +4588,11 @@ For the full license text, see the link above.</lic>
             <t pos="v">krovredh</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="v">snirredh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -4816,6 +4611,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">laakedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">reejredh</t>
          </tg>
       </mg>
    </e>
@@ -4846,6 +4646,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">laavkedehtedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">sjïehtesjidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">sjïehtedidh</t>
          </tg>
       </mg>
    </e>
@@ -4886,6 +4696,21 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">laekedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">njuvtedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">tjetskedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">tsaepmedh</t>
          </tg>
       </mg>
    </e>
@@ -4961,16 +4786,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="v">undervise</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">lïerehtidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="v">dressere</l>
       </lg>
       <mg>
@@ -4988,6 +4803,11 @@ For the full license text, see the link above.</lic>
             <t pos="v">loevenidh</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="v">mietedh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -5001,16 +4821,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="v">undervise</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">lohkehtidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="v">låne</l>
       </lg>
       <mg>
@@ -5018,14 +4828,9 @@ For the full license text, see the link above.</lic>
             <t pos="v">löönedh</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">tillate</l>
-      </lg>
       <mg>
          <tg>
-            <t pos="v">luhpiedidh</t>
+            <t pos="v">mïetedh</t>
          </tg>
       </mg>
    </e>
@@ -5036,16 +4841,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">lutnjedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">måtte</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">luvhtedh</t>
          </tg>
       </mg>
    </e>
@@ -5066,6 +4861,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">mådtsoestidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">marngedh</t>
          </tg>
       </mg>
    </e>
@@ -5111,16 +4911,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="v">vrenge</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">marngedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="v">påminne</l>
       </lg>
       <mg>
@@ -5141,57 +4931,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="v">spise</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">meksiehtidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">merke</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">mïerhkesjidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">løsne</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">mietedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">låne</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">mïetedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="v">medgi</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">mietiehtidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">tilstå</l>
       </lg>
       <mg>
          <tg>
@@ -5251,16 +4991,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="v">knuse</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">murhkedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="v">gledes</l>
       </lg>
       <mg>
@@ -5281,21 +5011,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="v">sovne</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">nahkestidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="v">benytte</l>
       </lg>
       <mg>
          <tg>
             <t pos="v">nahtadidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">nuhtjedh</t>
          </tg>
       </mg>
    </e>
@@ -5351,26 +5076,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="v">formane</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">nihtetjistedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">lure</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">njaakedidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="v">skli</l>
       </lg>
       <mg>
@@ -5386,36 +5091,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">njabpestidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">gli</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">njabpestidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">gli</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">njalkestidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">omfavne</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">njååmedidh</t>
          </tg>
       </mg>
    </e>
@@ -5468,6 +5143,11 @@ For the full license text, see the link above.</lic>
             <t pos="v">njovhkedidh</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="v">vijhtsierdidh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -5491,47 +5171,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="v">banke</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">njuvtedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">slå</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">njuvtedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">knuse</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">njuvtedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="v">jamre</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">njæjhkodh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">skrike</l>
       </lg>
       <mg>
          <tg>
@@ -5548,14 +5188,14 @@ For the full license text, see the link above.</lic>
             <t pos="v">njæjhkodh</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">pistre</l>
-      </lg>
       <mg>
          <tg>
-            <t pos="v">njæjhkodh</t>
+            <t pos="v">tjearodh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">tjearoestidh</t>
          </tg>
       </mg>
    </e>
@@ -5586,16 +5226,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">nollelidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">benytte</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">nuhtjedh</t>
          </tg>
       </mg>
    </e>
@@ -5641,26 +5271,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="v">bekrefte</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">nænnoestidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">erte</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">næskoehtidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="v">fornye</l>
       </lg>
       <mg>
@@ -5698,44 +5308,9 @@ For the full license text, see the link above.</lic>
             <t pos="v">öörnedh</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">advare</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">öörnedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">ordne</l>
-      </lg>
       <mg>
          <tg>
             <t pos="v">öörnedidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">advare</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">öörnedidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">pistre</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">pleanjodh</t>
          </tg>
       </mg>
    </e>
@@ -5781,26 +5356,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="v">skremme</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">rapkelidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">treffe</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">råakedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="v">plaskregne</l>
       </lg>
       <mg>
@@ -5818,14 +5373,19 @@ For the full license text, see the link above.</lic>
             <t pos="v">rååpsedidh</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">føde</l>
-      </lg>
       <mg>
          <tg>
-            <t pos="v">reakadehtedh</t>
+            <t pos="v">varhtodh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">varhtodidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">værhtodh</t>
          </tg>
       </mg>
    </e>
@@ -5848,24 +5408,9 @@ For the full license text, see the link above.</lic>
             <t pos="v">reejredh</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">tordne</l>
-      </lg>
       <mg>
          <tg>
-            <t pos="v">reejredh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">skremme</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">ribnjestidh</t>
+            <t pos="v">stååkedidh</t>
          </tg>
       </mg>
    </e>
@@ -5876,26 +5421,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">rïesedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">ringe</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">ringkedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">bygge</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">tseegkedh</t>
          </tg>
       </mg>
    </e>
@@ -5918,6 +5443,16 @@ For the full license text, see the link above.</lic>
             <t pos="v">evtiedidh</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="v">övtiedidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">evtiemdidh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -5926,26 +5461,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">evtiedidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">fremme</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">övtiedidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">fremme</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">evtiemdidh</t>
          </tg>
       </mg>
    </e>
@@ -5968,6 +5483,11 @@ For the full license text, see the link above.</lic>
             <t pos="v">ryövedh</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="v">tjåagkedh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -5976,16 +5496,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">saangerdidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">verke</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">saejriedidh</t>
          </tg>
       </mg>
    </e>
@@ -6031,27 +5541,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="v">hviske</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">sepkedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="v">angle</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">sigkestidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">fiske</l>
       </lg>
       <mg>
          <tg>
@@ -6071,51 +5561,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="v">hviske</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">sïmmedadtedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="v">ville</l>
       </lg>
       <mg>
          <tg>
             <t pos="v">sïjhtedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">tilpasse</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">sjïehtesjidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">tilrettelegge</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">sjïehtesjidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">tilpasse</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">sjïehtedidh</t>
          </tg>
       </mg>
    </e>
@@ -6148,24 +5598,9 @@ For the full license text, see the link above.</lic>
             <t pos="v">sjïdtedh</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">vokse</l>
-      </lg>
       <mg>
          <tg>
             <t pos="v">sjïdtedidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">bruse</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">sjovvedh</t>
          </tg>
       </mg>
    </e>
@@ -6208,11 +5643,6 @@ For the full license text, see the link above.</lic>
             <t pos="v">skaamasjidh</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">skjemmes</l>
-      </lg>
       <mg>
          <tg>
             <t pos="v">skaamesjidh</t>
@@ -6241,71 +5671,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="v">visne</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">slaamedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">plapre</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">slaamperdidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">skvaldre</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">slaamperdidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="v">lyve</l>
       </lg>
       <mg>
          <tg>
             <t pos="v">slaarvestidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">baktale</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">slaarvestidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">kaste</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">slearodh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">kaste</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">sleevhkedh</t>
          </tg>
       </mg>
    </e>
@@ -6321,41 +5691,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="v">kaste</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">slijredh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="v">snuble</l>
       </lg>
       <mg>
          <tg>
             <t pos="v">snåhkaridh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">knurre</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">snirredh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">svi</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">snjierpehtidh</t>
          </tg>
       </mg>
    </e>
@@ -6378,24 +5718,9 @@ For the full license text, see the link above.</lic>
             <t pos="v">soelkedehtedh</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">trøste</l>
-      </lg>
       <mg>
          <tg>
             <t pos="v">soelkehtidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">bøye</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">sojjedh</t>
          </tg>
       </mg>
    </e>
@@ -6416,26 +5741,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">soptsestidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">undervise</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">ööhpehtidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">kalve</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">sööhpedh</t>
          </tg>
       </mg>
    </e>
@@ -6471,21 +5776,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="v">leke</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">stååkedidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="v">sjangle</l>
       </lg>
       <mg>
          <tg>
             <t pos="v">stebpieldidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">svïmtjerdidh</t>
          </tg>
       </mg>
    </e>
@@ -6526,16 +5826,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">suejielidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">sjangle</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">svïmtjerdidh</t>
          </tg>
       </mg>
    </e>
@@ -6611,46 +5901,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="v">røve</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">tjåagkedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">gråte</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">tjearodh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">gråte</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">tjearoestidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">slå</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">tjetskedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="v">sparke</l>
       </lg>
       <mg>
@@ -6698,14 +5948,9 @@ For the full license text, see the link above.</lic>
             <t pos="v">tjïekedh</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">forklare</l>
-      </lg>
       <mg>
          <tg>
-            <t pos="v">tjïelkesidh</t>
+            <t pos="v">vöörhkedh</t>
          </tg>
       </mg>
    </e>
@@ -6716,26 +5961,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">tjïertestidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">måtte</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">tjoeredh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">måtte</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">tjoeveridh</t>
          </tg>
       </mg>
    </e>
@@ -6791,41 +6016,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="v">slå</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">tsaepmedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">banke</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">tsaepmedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="v">knekke</l>
       </lg>
       <mg>
          <tg>
             <t pos="v">tsåapkodh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">bygge</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">tsegkedh</t>
          </tg>
       </mg>
    </e>
@@ -6898,21 +6093,6 @@ For the full license text, see the link above.</lic>
             <t pos="v">ussjedidh</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">akte</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">ussjedidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">tenke</l>
-      </lg>
       <mg>
          <tg>
             <t pos="v">ussjiedidh</t>
@@ -6923,6 +6103,11 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="v">akte</l>
       </lg>
+      <mg>
+         <tg>
+            <t pos="v">ussjedidh</t>
+         </tg>
+      </mg>
       <mg>
          <tg>
             <t pos="v">ussjiedidh</t>
@@ -6938,11 +6123,6 @@ For the full license text, see the link above.</lic>
             <t pos="v">utniedidh</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">holde</l>
-      </lg>
       <mg>
          <tg>
             <t pos="v">utniehtidh</t>
@@ -6962,16 +6142,6 @@ For the full license text, see the link above.</lic>
    <e>
       <lg>
          <l pos="v">makulere</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">uvhtedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">drepe</l>
       </lg>
       <mg>
          <tg>
@@ -7031,16 +6201,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="v">advare</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">vaaroehtidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="v">gå</l>
       </lg>
       <mg>
@@ -7061,71 +6221,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="v">ta</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">vaeltedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="v">svare</l>
       </lg>
       <mg>
          <tg>
             <t pos="v">vaestiedidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">ønske</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">vajtelidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">rødme</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">varhtodh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">rødme</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">varhtodidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">blø</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">vertedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">senke</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">våajoedehtedh</t>
          </tg>
       </mg>
    </e>
@@ -7138,24 +6238,9 @@ For the full license text, see the link above.</lic>
             <t pos="v">veanhtadidh</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">være</l>
-      </lg>
       <mg>
          <tg>
-            <t pos="v">vearadidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">leve</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">veasodh</t>
+            <t pos="v">vuertedh</t>
          </tg>
       </mg>
    </e>
@@ -7178,6 +6263,11 @@ For the full license text, see the link above.</lic>
             <t pos="v">veedtjedh</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="v">vïedtjedh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -7186,26 +6276,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">veeljedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">rakne</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">velkiehtidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">hente</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">vïedtjedh</t>
          </tg>
       </mg>
    </e>
@@ -7226,26 +6296,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">vïenhtedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">tro</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">vïenhtedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">kvitre</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">vijhtsierdidh</t>
          </tg>
       </mg>
    </e>
@@ -7311,26 +6361,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="v">koke</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">voessjedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">gjemme</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">vöörhkedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="v">kjøre</l>
       </lg>
       <mg>
@@ -7346,26 +6376,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="v">vuejiehtidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">se</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">vuejnedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">forvente</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">vuertedh</t>
          </tg>
       </mg>
    </e>
@@ -7391,51 +6401,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="v">galoppere</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">vuhtsedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">oppholde</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">vyjhpestehtedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="v">delta</l>
       </lg>
       <mg>
          <tg>
             <t pos="v">vyöjhkesadtedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">gulne</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">vyskedidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">rødme</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">værhtodh</t>
          </tg>
       </mg>
    </e>
@@ -7471,16 +6441,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="v">skilles</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">juakadidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="v">heve</l>
       </lg>
       <mg>
@@ -7491,41 +6451,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="v">oppdra</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">bijjiedidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">tro</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">veanhtedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="v">avstenge</l>
       </lg>
       <mg>
          <tg>
             <t pos="v">geerelidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">tvinne</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">geartodh</t>
          </tg>
       </mg>
    </e>
@@ -7551,31 +6481,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="v">verke</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">vaarhkedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="v">rispe</l>
       </lg>
       <mg>
          <tg>
             <t pos="v">saaledh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">tørste</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">gojhkelovvedh</t>
          </tg>
       </mg>
    </e>

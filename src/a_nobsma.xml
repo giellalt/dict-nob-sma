@@ -58,11 +58,6 @@ For the full license text, see the link above.</lic>
             <t pos="a">baanhtsan</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">rådløs</l>
-      </lg>
       <mg>
          <tg>
             <t pos="a">baanhtsan</t>
@@ -108,6 +103,11 @@ For the full license text, see the link above.</lic>
             <t pos="a">aarehke</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="a">aareh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -128,6 +128,11 @@ For the full license text, see the link above.</lic>
             <t pos="a">aales</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="a">raeffies</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -136,6 +141,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="a">veaksehks</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="a">nænnoes</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="a">veaksehke</t>
          </tg>
       </mg>
    </e>
@@ -158,14 +173,9 @@ For the full license text, see the link above.</lic>
             <t pos="a">klaeries</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">tidlig</l>
-      </lg>
       <mg>
          <tg>
-            <t pos="a">aareh</t>
+            <t pos="a">tjïelke</t>
          </tg>
       </mg>
    </e>
@@ -178,11 +188,6 @@ For the full license text, see the link above.</lic>
             <t pos="a">måedtiesåårts</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">mangeslags</l>
-      </lg>
       <mg>
          <tg>
             <t pos="a">måedtiesåårhts</t>
@@ -348,6 +353,11 @@ For the full license text, see the link above.</lic>
             <t pos="a">bïjveles</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="a">baahke</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -418,6 +428,11 @@ For the full license text, see the link above.</lic>
             <t pos="a">jïlle</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="a">jolle</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -446,6 +461,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="x">rutjkes</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="a">provne</t>
          </tg>
       </mg>
    </e>
@@ -478,6 +498,16 @@ For the full license text, see the link above.</lic>
             <t pos="a">staeries</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="a">eensi</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="a">rïektes</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -508,6 +538,16 @@ For the full license text, see the link above.</lic>
             <t pos="a">åehpies</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="a">åehpies</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="a">byögkehke</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -526,6 +566,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="a">vietseles</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="a">murreds</t>
          </tg>
       </mg>
    </e>
@@ -578,6 +623,11 @@ For the full license text, see the link above.</lic>
             <t pos="a">dearkoes</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="a">aerkies</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -598,6 +648,11 @@ For the full license text, see the link above.</lic>
             <t pos="a">gåffoeh</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="a">jåasoeh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -606,6 +661,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="a">gïemhpe</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="a">boerehke</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="a">boerehks</t>
          </tg>
       </mg>
    </e>
@@ -756,16 +821,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="a">nåajsan</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">sterk</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">nænnoes</t>
          </tg>
       </mg>
    </e>
@@ -998,6 +1053,16 @@ For the full license text, see the link above.</lic>
             <t pos="a">aejlies</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="a">bissie</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="a">eejles</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -1006,6 +1071,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="a">aelhkies</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="a">geehpes</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="a">gyöhpehke</t>
          </tg>
       </mg>
    </e>
@@ -1031,21 +1106,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="a">nervøs</l>
+         <l pos="a">redd</l>
       </lg>
       <mg>
          <tg>
             <t pos="a">aerkies</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">redd</l>
-      </lg>
       <mg>
          <tg>
-            <t pos="a">aerkies</t>
+            <t pos="a">håjnoes</t>
          </tg>
       </mg>
    </e>
@@ -1088,6 +1158,11 @@ For the full license text, see the link above.</lic>
             <t pos="a">åårmege</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="a">åårmehke</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -1098,34 +1173,9 @@ For the full license text, see the link above.</lic>
             <t pos="a">åårmege</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">nådig</l>
-      </lg>
       <mg>
          <tg>
             <t pos="a">åårmehke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">barmhjertig</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">åårmehke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">kjent</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">åehpies</t>
          </tg>
       </mg>
    </e>
@@ -1171,16 +1221,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="a">varm</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">baahke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="a">naken</l>
       </lg>
       <mg>
@@ -1188,21 +1228,6 @@ For the full license text, see the link above.</lic>
             <t pos="a">båadtsoeh</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">bar</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">båadtsoeh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">naken</l>
-      </lg>
       <mg>
          <tg>
             <t pos="a">båadtsah</t>
@@ -1215,7 +1240,17 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
+            <t pos="a">båadtsoeh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
             <t pos="a">båadtsah</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="a">beavloes</t>
          </tg>
       </mg>
    </e>
@@ -1228,11 +1263,6 @@ For the full license text, see the link above.</lic>
             <t pos="a">båadtsoeh-åejjien</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">barhodet</l>
-      </lg>
       <mg>
          <tg>
             <t pos="a">båadtsoes-åejjien</t>
@@ -1248,14 +1278,9 @@ For the full license text, see the link above.</lic>
             <t pos="a">båeries</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">bar</l>
-      </lg>
       <mg>
          <tg>
-            <t pos="a">beavloes</t>
+            <t pos="a">voeres</t>
          </tg>
       </mg>
    </e>
@@ -1291,21 +1316,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="a">hellig</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">bissie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="a">gavmild</l>
       </lg>
       <mg>
          <tg>
             <t pos="a">boerehke</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="a">boerehks</t>
          </tg>
       </mg>
    </e>
@@ -1318,41 +1338,6 @@ For the full license text, see the link above.</lic>
             <t pos="a">boerehke</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">godhjertet</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">boerehke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">snill</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">boerehke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">gavmild</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">boerehks</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">vennlig</l>
-      </lg>
       <mg>
          <tg>
             <t pos="a">boerehks</t>
@@ -1365,14 +1350,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="a">boerehks</t>
+            <t pos="a">boerehke</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">snill</l>
-      </lg>
       <mg>
          <tg>
             <t pos="a">boerehks</t>
@@ -1398,6 +1378,21 @@ For the full license text, see the link above.</lic>
             <t pos="a">buerie</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="a">hijven</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="a">njåålkehke</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="a">njaelkies</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -1406,6 +1401,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="a">buerie</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="a">hijven</t>
          </tg>
       </mg>
    </e>
@@ -1418,6 +1418,16 @@ For the full license text, see the link above.</lic>
             <t pos="a">byögke</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="a">byögkehke</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="a">byögkeles</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -1426,6 +1436,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="a">byögke</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="a">byögkeles</t>
          </tg>
       </mg>
    </e>
@@ -1441,51 +1456,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="a">berømt</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">byögkehke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="a">navngjeten</l>
       </lg>
       <mg>
          <tg>
             <t pos="a">byögkehke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">kjent</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">byögkehke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">berømt</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">byögkeles</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">omtalt</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">byögkeles</t>
          </tg>
       </mg>
    </e>
@@ -1528,6 +1503,16 @@ For the full license text, see the link above.</lic>
             <t pos="a">dasmoes</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="a">dåsmoes</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="a">viesjies</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -1536,6 +1521,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="a">dasmoes</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="a">dåsmoes</t>
          </tg>
       </mg>
    </e>
@@ -1548,6 +1538,16 @@ For the full license text, see the link above.</lic>
             <t pos="a">dasmoes</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="a">dåsmoes</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="a">mådtan</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -1558,21 +1558,6 @@ For the full license text, see the link above.</lic>
             <t pos="a">dåajmijes</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">høflig</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">dåajmijes</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">forekommende</l>
-      </lg>
       <mg>
          <tg>
             <t pos="a">dåajmijs</t>
@@ -1585,37 +1570,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
+            <t pos="a">dåajmijes</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
             <t pos="a">dåajmijs</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">svak</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">dåsmoes</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">uvel</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">dåsmoes</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">syk</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">dåsmoes</t>
          </tg>
       </mg>
    </e>
@@ -1698,21 +1658,6 @@ For the full license text, see the link above.</lic>
             <t pos="a">dovrehke</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">kostbar</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">dovrehke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">dyr</l>
-      </lg>
       <mg>
          <tg>
             <t pos="a">dovres</t>
@@ -1723,6 +1668,11 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="a">kostbar</l>
       </lg>
+      <mg>
+         <tg>
+            <t pos="a">dovrehke</t>
+         </tg>
+      </mg>
       <mg>
          <tg>
             <t pos="a">dovres</t>
@@ -1748,31 +1698,6 @@ For the full license text, see the link above.</lic>
             <t pos="a">ealjoeh</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">likegyldig</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">ealjoeh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">sløv</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">ealjoeh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">giddesløs</l>
-      </lg>
       <mg>
          <tg>
             <t pos="a">ealjohts</t>
@@ -1785,6 +1710,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
+            <t pos="a">ealjoeh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
             <t pos="a">ealjohts</t>
          </tg>
       </mg>
@@ -1795,27 +1725,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
+            <t pos="a">ealjoeh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
             <t pos="a">ealjohts</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">hellig</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">eejles</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">ordentlig</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">eensi</t>
          </tg>
       </mg>
    </e>
@@ -1868,6 +1783,11 @@ For the full license text, see the link above.</lic>
             <t pos="a">feejjen</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="a">geerjene</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -1916,6 +1836,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="a">gaelhvies</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="a">tjåetskemes</t>
          </tg>
       </mg>
    </e>
@@ -2018,6 +1943,11 @@ For the full license text, see the link above.</lic>
             <t pos="a">gearehke</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="a">gieries</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -2028,14 +1958,9 @@ For the full license text, see the link above.</lic>
             <t pos="a">gearehke</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">lett</l>
-      </lg>
       <mg>
          <tg>
-            <t pos="a">geehpes</t>
+            <t pos="a">gieries</t>
          </tg>
       </mg>
    </e>
@@ -2061,21 +1986,31 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="a">glad</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">geerjene</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="a">dårlig</l>
       </lg>
       <mg>
          <tg>
             <t pos="a">geerve</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="a">madtege</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="a">mådtan</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="a">mådtan</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="a">nåake</t>
          </tg>
       </mg>
    </e>
@@ -2086,6 +2021,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="a">geerve</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="a">praare</t>
          </tg>
       </mg>
    </e>
@@ -2138,6 +2078,11 @@ For the full license text, see the link above.</lic>
             <t pos="a">giefies</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="a">viesjies</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -2146,26 +2091,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="a">gïengeles</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">kjær</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">gieries</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">elsket</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">gieries</t>
          </tg>
       </mg>
    </e>
@@ -2186,6 +2111,31 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="a">govjehke</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="a">gyvjehke</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="a">jåalhkoes</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="a">jåalhkoeh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="a">snååhpehke</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="a">sneehpes</t>
          </tg>
       </mg>
    </e>
@@ -2238,6 +2188,11 @@ For the full license text, see the link above.</lic>
             <t pos="a">gyhtjehke</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="a">stinkes</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -2258,34 +2213,9 @@ For the full license text, see the link above.</lic>
             <t pos="a">gyjhteladtje</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">takknemlig</l>
-      </lg>
       <mg>
          <tg>
             <t pos="a">gæjhteles</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">lett</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">gyöhpehke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">snar</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">gyvjehke</t>
          </tg>
       </mg>
    </e>
@@ -2296,6 +2226,26 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="a">gyvjehke</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="a">jåalhkoes</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="a">jåalhkoeh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="a">snååhpehke</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="a">sneehpes</t>
          </tg>
       </mg>
    </e>
@@ -2328,6 +2278,11 @@ For the full license text, see the link above.</lic>
             <t pos="a">håjnoes</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="a">hujnies</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -2351,51 +2306,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="a">redd</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">håjnoes</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">bra</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">hijven</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">god</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">hijven</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">bedrøvet</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">hujnies</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="a">mismodig</l>
       </lg>
       <mg>
          <tg>
             <t pos="a">hujnies</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="a">njåajjoeh</t>
          </tg>
       </mg>
    </e>
@@ -2408,6 +2328,11 @@ For the full license text, see the link above.</lic>
             <t pos="a">ïskeres</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="a">yskeres</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -2416,6 +2341,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="a">ïskeres</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="a">yskeres</t>
          </tg>
       </mg>
    </e>
@@ -2438,21 +2368,6 @@ For the full license text, see the link above.</lic>
             <t pos="a">jalke</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">slett</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">jalke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">jevnt</l>
-      </lg>
       <mg>
          <tg>
             <t pos="a">jalkede</t>
@@ -2463,6 +2378,11 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="a">slett</l>
       </lg>
+      <mg>
+         <tg>
+            <t pos="a">jalke</t>
+         </tg>
+      </mg>
       <mg>
          <tg>
             <t pos="a">jalkede</t>
@@ -2476,56 +2396,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="a">jarpoeh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">snar</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">jåalhkoes</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">rask</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">jåalhkoes</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">snar</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">jåalhkoeh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">rask</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">jåalhkoeh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">dum</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">jåasoeh</t>
          </tg>
       </mg>
    </e>
@@ -2558,11 +2428,6 @@ For the full license text, see the link above.</lic>
             <t pos="a">jïjnje</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">mye</l>
-      </lg>
       <mg>
          <tg>
             <t pos="a">jeenje</t>
@@ -2571,7 +2436,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="a">mange</l>
+         <l pos="a">mye</l>
       </lg>
       <mg>
          <tg>
@@ -2596,6 +2461,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="a">joekehts</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="a">ovmese</t>
          </tg>
       </mg>
    </e>
@@ -2741,16 +2611,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="a">dårlig</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">madtege</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="a">sint</l>
       </lg>
       <mg>
@@ -2761,41 +2621,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="a">syk</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">mådtan</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">dårlig</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">mådtan</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">dårlig</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">mådtan</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="a">avsides</l>
       </lg>
       <mg>
          <tg>
             <t pos="a">miehtjies</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="a">oktegs</t>
          </tg>
       </mg>
    </e>
@@ -2818,11 +2653,6 @@ For the full license text, see the link above.</lic>
             <t pos="a">möövhkes</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">mjuk</l>
-      </lg>
       <mg>
          <tg>
             <t pos="a">myövhkes</t>
@@ -2836,16 +2666,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="a">mubpie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">god</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">njåålkehke</t>
          </tg>
       </mg>
    </e>
@@ -2868,6 +2688,11 @@ For the full license text, see the link above.</lic>
             <t pos="a">nahkeren</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="a">sæjloes</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -2876,6 +2701,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="a">nahkeren</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="a">sæjloes</t>
          </tg>
       </mg>
    </e>
@@ -2902,16 +2732,6 @@ For the full license text, see the link above.</lic>
    <e>
       <lg>
          <l pos="a">vondt</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">nåake</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">dårlig</l>
       </lg>
       <mg>
          <tg>
@@ -2968,14 +2788,19 @@ For the full license text, see the link above.</lic>
             <t pos="a">nealjede</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">fjerde</l>
-      </lg>
       <mg>
          <tg>
             <t pos="a">nieljede</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="a">njealjede</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="a">njieljede</t>
          </tg>
       </mg>
    </e>
@@ -2986,16 +2811,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="a">njaarpehke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">god</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">njaelkies</t>
          </tg>
       </mg>
    </e>
@@ -3018,11 +2833,6 @@ For the full license text, see the link above.</lic>
             <t pos="a">njalhkedihkie</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">glatt</l>
-      </lg>
       <mg>
          <tg>
             <t pos="a">njalkedihks</t>
@@ -3041,26 +2851,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="a">mismodig</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">njåajjoeh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">fjerde</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">njealjede</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="a">tynn</l>
       </lg>
       <mg>
@@ -3071,31 +2861,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="a">fjerde</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">njieljede</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="a">ung</l>
       </lg>
       <mg>
          <tg>
             <t pos="a">noere</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">avsides</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">oktegs</t>
          </tg>
       </mg>
    </e>
@@ -3118,6 +2888,11 @@ For the full license text, see the link above.</lic>
             <t pos="a">oktegs</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="a">sjïere</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -3126,6 +2901,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="a">ohtje</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="a">onne</t>
          </tg>
       </mg>
    </e>
@@ -3146,16 +2926,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="a">orre</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">forskjellig</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">ovmese</t>
          </tg>
       </mg>
    </e>
@@ -3201,16 +2971,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="a">vanskelig</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">praare</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="a">uforskammet</l>
       </lg>
       <mg>
@@ -3231,16 +2991,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="a">brun</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">provne</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="a">effektiv</l>
       </lg>
       <mg>
@@ -3248,24 +2998,9 @@ For the full license text, see the link above.</lic>
             <t pos="a">radtjoes</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">effektiv</l>
-      </lg>
       <mg>
          <tg>
             <t pos="a">radtjohke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">fredelig</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">raeffies</t>
          </tg>
       </mg>
    </e>
@@ -3276,6 +3011,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="a">raejnies</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="a">tjïelke</t>
          </tg>
       </mg>
    </e>
@@ -3306,6 +3046,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="a">rupmies</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="a">vesties</t>
          </tg>
       </mg>
    </e>
@@ -3346,16 +3091,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="a">sïemes</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">særskilt</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">sjïere</t>
          </tg>
       </mg>
    </e>
@@ -3421,16 +3156,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="a">snar</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">snååhpehke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="a">hurtig</l>
       </lg>
       <mg>
@@ -3438,44 +3163,14 @@ For the full license text, see the link above.</lic>
             <t pos="a">snååhpehke</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">rask</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">snååhpehke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">snar</l>
-      </lg>
       <mg>
          <tg>
             <t pos="a">sneehpes</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">hurtig</l>
-      </lg>
       <mg>
          <tg>
-            <t pos="a">sneehpes</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">rask</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">sneehpes</t>
+            <t pos="a">spaajhte</t>
          </tg>
       </mg>
    </e>
@@ -3496,16 +3191,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="a">söökes</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">hurtig</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">spaajhte</t>
          </tg>
       </mg>
    </e>
@@ -3548,30 +3233,15 @@ For the full license text, see the link above.</lic>
             <t pos="a">stoerre</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="a">stoere</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
          <l pos="a">sliten</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">sæjloes</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">trøtt</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">sæjloes</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">trett</l>
       </lg>
       <mg>
          <tg>
@@ -3598,6 +3268,11 @@ For the full license text, see the link above.</lic>
             <t pos="a">tjamke</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="a">tjarke</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -3606,26 +3281,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="a">tjarke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">hardt</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">tjarke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">kald</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">tjåetskemes</t>
          </tg>
       </mg>
    </e>
@@ -3651,26 +3306,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="a">klar</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">tjïelke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">rein</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">tjïelke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="a">sjuende</l>
       </lg>
       <mg>
@@ -3681,41 +3316,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="a">liten</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">onne</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">sterk</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">veaksehke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="a">verst</l>
       </lg>
       <mg>
          <tg>
             <t pos="a">vearremes</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">stygg</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">vesties</t>
          </tg>
       </mg>
    </e>
@@ -3748,6 +3353,11 @@ For the full license text, see the link above.</lic>
             <t pos="a">vïssjeles</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="a">rudtjege</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -3766,16 +3376,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="a">vïjhtede</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">gammel</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">voeres</t>
          </tg>
       </mg>
    </e>
@@ -3828,11 +3428,6 @@ For the full license text, see the link above.</lic>
             <t pos="a">vælnjah</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">skeiv</l>
-      </lg>
       <mg>
          <tg>
             <t pos="a">vælnjoeh</t>
@@ -3846,26 +3441,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="a">vælnjoeh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">skrekkelig</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">yskeres</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">farlig</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">yskeres</t>
          </tg>
       </mg>
    </e>
@@ -3911,16 +3486,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="a">stor</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">stoere</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="a">riktig</l>
       </lg>
       <mg>
@@ -3942,16 +3507,6 @@ For the full license text, see the link above.</lic>
    <e>
       <lg>
          <l pos="a">ekte</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">rïektes</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">ordentlig</l>
       </lg>
       <mg>
          <tg>
@@ -3991,16 +3546,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="a">flittig</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">rudtjege</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="a">salta</l>
       </lg>
       <mg>
@@ -4021,26 +3566,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="a">stiv</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">stinkes</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">trivelig</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">murreds</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="a">interessant</l>
       </lg>
       <mg>
@@ -4056,16 +3581,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="a">löövles</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">høy</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">jolle</t>
          </tg>
       </mg>
    </e>
@@ -4111,27 +3626,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="a">svak</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">viesjies</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="a">kraftlös</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="a">viesjies</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">fattig</l>
       </lg>
       <mg>
          <tg>
