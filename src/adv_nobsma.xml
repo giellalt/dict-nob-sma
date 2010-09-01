@@ -1,0 +1,1354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
+<?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
+<!DOCTYPE r
+  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<r xml:lang="nob">
+   <lics xml:space="preserve">
+    <lic xml:lang="en">
+This code is made available under a Creative Commons Attribution license
+<a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+
+You are free to copy, distribute and adapt the work, as long as you always give
+proper attribution using the attribution text below.
+
+For the full license text, see the link above.</lic>
+
+     <ref>Work by Giellatekno at UiT, Divvun at the Norwegian Saami Parliament,
+          and members of the language communities. Source code
+          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
+
+     <sourcenote>
+     THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
+     published dictionary. As such it can and
+     will contain unfinished entries, unpublished entries, entries with
+     objectionable translations, etc. If you find any errors or want to add more
+     words, download the file, edit it, and send it back to
+     <a>mailto:divvun@samediggi.no</a> and <a>mailto:giellatekno@hum.uit.no</a>.
+     Please also note that the entries are not necessarily sorted,
+     or could be wrongly sorted.
+     </sourcenote>
+   </lics>
+   <e>
+      <lg>
+         <l pos="adv">over</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">aatsolen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">bakover</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">miehtjelde</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">bakfra</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">miehtjelde</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">snart</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">baaltese</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">snart</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">snaebpie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">med</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">gujmie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">feil</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">båajhtede</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">feilaktig</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">gåarhmede</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">motsols</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">gåarhmede</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">unnskyld</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">gaatesjen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">beklager</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">gaatesjen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">unnskyld</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">ov-gath</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">beklager</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">ov-gath</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">parvis</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">gööktesi-gööktesi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">hardt</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">tjimkeslaakan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">energisk</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">tjimkeslaakan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">sterkt</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">tjamki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">hardt</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">tjamki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">øst</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">luvlene</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">østpå</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">luvlene</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">alltid</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">iktesth</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">engang</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">ikth</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">nettopp</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">ieskien</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">da</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">dle</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">så</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">dle</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">straks</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">dallegh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">tilbake</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">bååstede</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">tilbake</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">bååstide</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">bra</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">boerehkelaakan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">vel</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">boerehkelaakan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">nesten</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">dallahmasten</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">krummet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">gåavede</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">jo</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">nov</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">betydelig</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">faagka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">igjen</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">aajmojne</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">igjen</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">aajmoen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">igjen</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">aajmone</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">bare</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">ajve</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">akkurat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">eevre</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">aldeles</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">eevre</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">akkurat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">öövre</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">aldeles</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">öövre</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">hver</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">fïere</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">likevel</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">læjhkan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">nesten</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">mahte</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">meget</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">sagke</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">før</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">aerebi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">innen</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">aerebi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">tidligere</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">aerebi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">forferdelig</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">alvas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">ennå</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">annje</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">altfor</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">ååpsen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">ute</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">ålkene</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">utenfra</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">ålkode</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">utenfra</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">ålkede</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">litt</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">ånnetji</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">bare</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">barre</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">ovenfra</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">bijjede</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">oppe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">bijjene</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">bedre</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">buerebe</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">utenfor</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">bæjngolen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">stadig</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">daamhtah</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">stadig</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">daamhtaj</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">stadig</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">daamtaj</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">herfra</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">daebpede</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">her</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">daebpene</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">dit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">dahkoe</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">øyeblikkelig</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">dallah</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">da</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">dellie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">derpå</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">dellie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">hit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">diekie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">sammen</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">ektesne</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">sammen</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">ektine</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">ennå</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">ennje</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">plutselig</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">faahketji</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">våken</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">fahkes</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">langt</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">gåhkese</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">når</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">gosse</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">hvorfra</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">gubpede</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">hvor</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">gubpene</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">med</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">guejmie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">lenge</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">guhkiem</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">hvordan</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">guktie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">hvor</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">gusnie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">hvorfra</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">gustie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">sammen</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">ikte</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">alltid</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">iktegisth</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">bestandig</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">iktegisth</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">knapt</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">jallan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">vestover</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">jallese</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">mesteparten</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">jeanasommes</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">mye</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">jïjnje</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">mer</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">jïjnjebe</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">da</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">joem</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">kanskje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">kaanne</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">østover</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">luvlelen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">østafor</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">luvlielisnie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">riktignok</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">maaje</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">med</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">meatan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">bakover</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">mænngese</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">meget</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">sagki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">voldsomt</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">ålvas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">nordom</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">noerhtelen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">nordover</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">noerhtese</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">ut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">olkese</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">vel</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">sån</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">faktisk</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">setnies</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">faktisk</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">ojhte</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">sakte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">soejmi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">forsiktig</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">soejmi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">sammen</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">tjåanghkan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">sammen</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">tjåenghkesne</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">mer</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">vielie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">igjen</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">vihth</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">atter</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">vihth</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">først</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">voestegh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">nedenfor</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">vuelelen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">nedenfra</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">vuelhtie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">nede</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">vuelnie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">lettvint</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">aelhkie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">når</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">gåessie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">omtrent</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">medtie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">cirka</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">medtie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">gratis</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">namhtah</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">likevel</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">lïjhke</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">bestandig</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">ektede</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">slik</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">nemhtie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">slik</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">nimhtie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">igjen</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">viht</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">fort</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">varki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">hvorfra?</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">gåebpielistie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">fort</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="adv">varke</t>
+         </tg>
+      </mg>
+   </e>
+   <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript"
+                 xmlns:xhtml="http://www.w3.org/1999/xhtml"/>
+</r>

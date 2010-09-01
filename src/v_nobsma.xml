@@ -1,0 +1,7604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
+<?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
+<!DOCTYPE r
+  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<r xml:lang="nob">
+   <lics xml:space="preserve">
+    <lic xml:lang="en">
+This code is made available under a Creative Commons Attribution license
+<a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+
+You are free to copy, distribute and adapt the work, as long as you always give
+proper attribution using the attribution text below.
+
+For the full license text, see the link above.</lic>
+
+     <ref>Work by Giellatekno at UiT, Divvun at the Norwegian Saami Parliament,
+          and members of the language communities. Source code
+          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
+
+     <sourcenote>
+     THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
+     published dictionary. As such it can and
+     will contain unfinished entries, unpublished entries, entries with
+     objectionable translations, etc. If you find any errors or want to add more
+     words, download the file, edit it, and send it back to
+     <a>mailto:divvun@samediggi.no</a> and <a>mailto:giellatekno@hum.uit.no</a>.
+     Please also note that the entries are not necessarily sorted,
+     or could be wrongly sorted.
+     </sourcenote>
+   </lics>
+   <e>
+      <lg>
+         <l pos="v">rose</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">girmedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">møte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">dïervesjidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">treffe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">dïervesjidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">erte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">fïrnestehtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tulle</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">fïrnestehtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">berøre</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gaajesjidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">stryke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gaajesjidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">omfavne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gaanestidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">forsvinne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gaarvanidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">svinge</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gajvedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">hende</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">heannadidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">hakke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">heehkedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">hefte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">heeptedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">oppholde</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">heeptedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bryte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">håajpodh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">forandre</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">jeatjahtehtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">skilles</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">jååkedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">sprekke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">loedtenidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">revne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">loedtenidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">plage</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">pleekedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">blande</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">pleentedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">råde</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">raeriestidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">fundere</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">rontestalledh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">trene</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">saavredh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ringe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">skarredh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">klirre</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">skarredh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">skrangle</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">skarredh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">buldre</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">skojjedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">snufse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">snihkiestidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">snufsegråte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">snihkiestidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">planlegge</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">soejkesjidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">røyke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">soevestidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">korrigere</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">staeriedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">forstyrre</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">sturredh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">svi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">svirredh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">brenne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">svirredh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">skjelve</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">svïrredh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">lure</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">sïektjedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">spionere</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">sïektjedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">hviske</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">sïmmedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gjennomføre</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tjïrrehtidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">fullføre</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tjïrrehtidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gjennomgå</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tjïrrehtidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tvinge</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">trumhpiestidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">nøde</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">trumhpiestidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">påtrue</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">trumhpiestidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ønske</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">vaajtelidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">lide</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">vaejviedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">unne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ånnadidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">påstå</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bagkesidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">svette</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bïevestovvedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">drive</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">eadtjoestidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tilskynde</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">eadtjoestidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">likestilles</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">mïrrestalledh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tilrettelegge</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">sjïehtesjadtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">orke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">aabparidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">orke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">aabparidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ape</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">aahpeldidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">spotte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">aahpeldidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">harselere</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">aahpeldidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gjøne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">aahpeldidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">håne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">aahpeldidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">banke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">beenghkedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">chatte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">chattedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">knuse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">njeervedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">male</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">njeervedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tygge</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">soeskedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">spytte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tjalkedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">merke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">aajhtsedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">oppdage</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">aajhtsedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">semske</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">aalhtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tigge</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">aanodh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">be</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">aanoestidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ynkes</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">aarmalestedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">avvise</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">aassjoestehtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">hate</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">aassjoestehtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tilrettevise</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">aassjoestehtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">avvise</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">aassjoestidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">hate</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">aassjoestidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tilrettevise</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">aassjoestidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">forakte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">aassjoestidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">håne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">aassjoestidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">forråde</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">aassjoestidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">forsøke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">aatskadidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">true</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">aejhtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">begynne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">aelkedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">hefte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">aeredh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">hindre</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">aeredh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ane</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">aerviedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">skjønne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">aerviedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">forstå</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">aerviedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">anslå</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">aerviedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">anta</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">aerviedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">støtes</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">laarhkenidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">fornærme</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">armoedehtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">forarge</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">armoedehtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">fornærme</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">armoedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">forarge</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">armoedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">avvise</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">assjoestehtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">hate</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">assjoestehtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tilrettevise</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">assjoestehtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">få</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">åadtjodh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">klare</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">åajsodh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">makte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">åajsodh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">formane</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">åajvahtehtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">formane</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">åajvahtidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">drepe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">åarajehtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">sovne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">åarajidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">dø</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">åarajidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">feie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">åarkodh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">avkorte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">åeniedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">sove</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">åeredh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">handle</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">åesiestidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">kjøpe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">åestedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">berette</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ållermaehtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">omtale</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ållermaehtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">være</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">årrodh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bo</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">årrodh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">benyttes</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">åtnasovvedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">forsere</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">baahtsedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">smelle</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">baahtsedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">la</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">baajedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tillate</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">baajedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">flykte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">baataridh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">plapre</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">baaveldidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">skvaldre</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">baaveldidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">streve</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">baaverdidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">fire</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">badtehtidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">senke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">badtehtidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">smøre</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">badtjadidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">drive</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">baejhtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">føde</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">baersieldidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">røyte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bajkedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">drysse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">barhkedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">arbeide</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">barkedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">håndhilse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">båarastehtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">smøre</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bådtjadidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">komme</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">båetedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">måtte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">båetiejidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">sulte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bårrestohtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">straffes</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">beadtasovvedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">irettesette</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">beadtodh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">villfares</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">beahtahtalledh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">måke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">beavkodh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">spa</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">beavkodh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">mistenke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">beavnedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">berge</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">beerkedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">redde</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">beerkedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">stable</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">beertedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">legge</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">beertedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">avskrekke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">beltedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">skremme</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">beltedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">stable</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bertedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">legge</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bertedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">sette</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bertedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">blø</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bertedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">stikke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bestedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bite</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bestedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bedra</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">biehtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">svike</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">biehtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">snyte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">biehtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">forråde</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">biehtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ødelegge</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">biejstedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">meddele</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bïeljelidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">varsle</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bïeljelidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">mistenke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">biermedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bøye</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">biesmedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">overtale</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">biesmedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">slippe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">biestedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">klippe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bietskiedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">svette</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bïevestidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">betro</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bievnedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">opplyse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bievnedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">informere</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bievnedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">lage</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bigkedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bygge</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bigkedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ribbe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bihkedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">plukke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bihkedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">rive</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bihkedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ta</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bïksedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gripe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bïksedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">be</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">birredh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">påtale</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bïedtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tiltale</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bïedtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">advare</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bïedtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">forby</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bïedtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">advare</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bïedtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">blåse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bïegkedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">legge</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bïejedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">sette</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bïejedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">fore</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bïepmehtidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">mate</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bïepmehtidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">banne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bïeredh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">forklare</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bïhkedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">veilede</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bïhkedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">rettlede</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bïhkedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">undervise</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bïhkedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">spire</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bïhtjegidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">spire</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bïhtsegidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">vaske</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bïssedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">forklare</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">boejhkelidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">undervise</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">boejhkelidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tilstå</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">boejhkesjidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bekjenne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">boejhkesjidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gulne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">boelnedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">visne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">boelnedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gulnes</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">boelnedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">knele</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">boelvestidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">visne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">boevnjedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">humpe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bollerdidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">skumpe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bollerdidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">trille</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bollerdidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">rulle</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bollerdidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">skubbe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bonhkelidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">innby</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bööredh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">by</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bööredh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">forsøke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">böörenjestedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">by</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">böörestidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">innby</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">böörestidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bøtelegge</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">böötedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bråke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">brorredh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bruse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">brorredh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">hilse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">buarastehtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">håndhilse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">buarastehtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">kante</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">budtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">forstå</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">buajhkedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">innse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">buajhkedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bringe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">buektedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">greie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">buektiehtidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">kunne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">buektiehtidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">beskrive</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">buerkiestidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">skildre</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">buerkiestidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">melke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">buhtjedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tvinne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">butnedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">spinne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">butnedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">drepe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">buvvedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">oppspore</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">byjrehtalledh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">spore</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">byjrehtalledh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">spise</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">byöpmedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">skulle</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">byöredh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">burde</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">byöredh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">måtte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">byöredh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tilstå</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bæjhkodh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">spore</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bæjroehtidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">kassere</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">beelhkedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">vrake</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">beelhkedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">kaste</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">beelhkedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">lønne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">beelhkedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">avlønne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">beelhkedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gjøre</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">daajhtodh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">lage</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">daajhtodh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">forsvinne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">daajkedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">farte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">daamhkodh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">vanke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">daamhkodh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">massere</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">daanjehtidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gnugge</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">daanjehtidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">danse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">daanhtsodh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">vite</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">daejredh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">duge</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">dajpedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">reparere</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">davvodh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">love</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">dåajvoehtidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">krige</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">dåarodh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">slåsse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">dåarodh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">møte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">dåastoehtidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">reparere</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">dåvvodh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">baktale</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">deablodh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">baktale</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">deebledh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">temme</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">deemedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bedra</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">deerehtidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">torvlegge</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">darhvedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">baktale</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">dibledh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">diskutere</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">dïerhkestidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">diskutere</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">dïerhkesjidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">fylles</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">dïevedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">torvlegge</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">dirhvedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">baktale</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">dïeblestehtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tjene</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">dïenesjidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">mase</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">dïeredh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ta</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">dïjpedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gripe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">dïjpedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">påvirke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">dïjpedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">angå</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">dïjpedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">virke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">dïjpedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">selge</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">doekedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">koke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">doeltedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">lappe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">doengedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">kjennes</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">domtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">kjennes</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">dobtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bestille</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">dongkedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tinge</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">dongkedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bestille</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">dongkehtidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tinge</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">dongkehtidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">mime</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">dorjedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">mime</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">dorjehtalledh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">mime</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">dorjehtidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tømme</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">döömedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">aktivisere</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">eadtjaldehtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">oppmuntre</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">eadtjaldehtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">fornærme</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">eadtoedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bedra</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">eajhkaldehtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">overraske</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">eajhkaldehtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">forundre</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">eajhkaldehtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">villede</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">eajhkaldehtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">skulke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">eajtodh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ødelegge</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">earjoehtidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">beære</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">earoehtidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">hylle</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">earoehtidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ære</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">earoehtidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">skulle</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">edtjedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ale</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">eeledh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">oppdra</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">eeledh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tilrettelegge</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">eevtjedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tilby</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">faaledh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">våkne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">fahkedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">mangle</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">fååtesidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">få</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">fihkedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">logre</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">fovresjidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">le</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">föörhkedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">vade</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gaalehtjidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">knytte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gaarehtidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">flyte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gabpeldidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">rakne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gaerkiehtidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bite</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gaetskedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">stamme</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gahkedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">stamme</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gahkestidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">falle</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gahtjedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">skrike</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gajrodh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">pistre</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gajrodh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">lukke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gaptjedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">oppmuntre</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">garmerdehtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">lyne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gaskedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ause</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gåajvodh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">stange</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gåaljodh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">stange</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gåaljoestidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">sy</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gåarodh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">vekke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gåaskodh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gjeste</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gåassodh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">traktere</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gåassoehtidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">beverte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gåassoehtidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">beite</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gåatodh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">vekke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gåhtsajehtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">synliggjøre</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gåhtsajehtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gyte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gårrodh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tilby</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">geelkedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">overrekke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">geelkedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">utgreie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">geelkedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v"/>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">geelkedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">sprike</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">geerredidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">skrike</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">geevledh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">fryse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gelmedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">betrakte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gïehtjelidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">sende</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gietskiedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">rekke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gietskiedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">trekke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gïesedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">dra</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gïesedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">spørre</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gihtjedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">takke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gijhtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">glinse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gïjkedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">skinne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gïjkedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">funkle</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gïjkedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">glitre</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">giltedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">glinse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">giltedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">glimre</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">giltedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">pyntet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">giltedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">se</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gïehtjedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">fortred</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">goerpedehtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ødelegge</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">goerpedehtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">spy</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">goesmeridh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">løpe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">goetsedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">hund</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">goetsedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">klatre</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">goetsedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">krype</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">goetsedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">springe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">goetsedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">løpe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">goetsedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">kikke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">goevledh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">besøke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">goevlelidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">kalles</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gohtjesovvedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tørste</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gojkelovvedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">skrike</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gojredh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">lytte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">golteladtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">lystre</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">goltelidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">berge</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gorredidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">frelse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gorredidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">hoste</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gossedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">høre/høres</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">govledh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">forespørre</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">govlehtidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tinge</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">govlehtidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">lytte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">govleskoedtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">fiske</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gööledh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">merke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">guajhtsadidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">oppdage</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">guajhtsadidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">føde</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">guaktadidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">forstå</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">guarkedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tolke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">guarkedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">velte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gubpmiedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">kalve</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">guedtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bære</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">guedtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">forstå</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">guejstedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tro</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">guejstedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">vite</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">guejstedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">galoppere</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">guepmierdidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">forstå</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">guerkiehtidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">våke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">guhtsedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">pistre</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gujredh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">fylle</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gurkedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">strikke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gurredh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">binde</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gurredh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">flette</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gurredh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">veve</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gurredh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">spinne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gurredh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">beundre</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gutnedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">speide</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gutnedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">geipe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">guvsedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">baktale</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">guvsiedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">havne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gyöntedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">revne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gæjhkanidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">rope</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gæljodh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">slåss</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gæmhpodh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">streve</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gæmhpodh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">slite</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gæmhpodh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">stanges</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gæmhpodh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">banne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gærrodh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">banne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gærroedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">banne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gærroestidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">henge</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gævnjasjidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">forsvinne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">haajpanidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">havne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">haajpanidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">mestre</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">haalvedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">hamle</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">haampeldidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tigge</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">haanodh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">forsvinne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">haavjodh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">forgå</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">haavjodh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">fly</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">haeliehtidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">mase</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">haeniedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">håne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">haeniehtidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">springe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">hajkedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">løpe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">hajkedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">kaste</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">hajkedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">kaste</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">hajkedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">forkastes</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">hajkedovvedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">klare</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">håajsodh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">makte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">håajsodh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">feie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">håarkodh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">håpe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">håhkesjidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">forstyrre</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">hearaldehtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">hilse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">heelsedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">klage</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">hïemedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">pese</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">hïetedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">nå</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">hïnnedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">fyke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">hïspedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bjeffe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">huhtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gjø</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">huhtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">fornærme</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">iedtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">skuffe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">iermedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">drepe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">irhkedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">forsvinne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">jaavoelidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">dø</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">jaemedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">slukne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">jamhkedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">slukke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">jamhkelidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">forandre</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">jarkoestehtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">oversette</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">jarkoestehtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">forandre</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">jarkoestidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">oversette</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">jarkoestidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bekrefte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">jååhkesjidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">dø</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">jåhtajidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">danse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">jårredh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">leve</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">jieledh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">verke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">jïjledh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">svi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">jïjledh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">drikke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">jovkedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">begrave</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">jöörtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">dele</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">juekedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gli</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">juhtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">sette</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">jadtehtidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">klomre</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">klommerdidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">kreve</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">krïevedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">knurre</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">krovredh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">skjenne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">krovredh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tordne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">laakedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">dundre</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">laakedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">samarbeide</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">laavenjostedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tilpasse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">laavkedehtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">sammenføye</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">laavkedehtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bade</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">laavkodh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">døpe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">laavkodh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">slå</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">laekedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">pryle</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">laekedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">angripe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">låevtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bytte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">låtnodh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">leie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">leejjedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">slakte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">leekedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">stinke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">libnjiedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">hvile</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">lïegkedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">undervise</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">lïerehtidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">dressere</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">lïerehtidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">løsne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">loevenidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">lese</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">lohkedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">undervise</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">lohkehtidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">låne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">löönedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tillate</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">luhpiedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">løfte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">lutnjedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">måtte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">luvhtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">like</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">lyjhkedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">vrenge</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">mådtsoestidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">smake</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">maejstedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">betale</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">maeksedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">målbinde</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">magkaldehtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">myrde</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">marhkedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">vrenge</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">marngedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">påminne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">måjhtajehtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">skifte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">målsodh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">spise</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">meksiehtidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">merke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">mïerhkesjidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">løsne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">mietedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">låne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">mïetedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">medgi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">mietiehtidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tilstå</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">mietiehtidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gjette</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">moenedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">sammenligne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">mohtedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">minnes</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">mojhtelidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">huske</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">mujhtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">smile</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">mujjehtidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">knuse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">murhkedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gledes</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">murriedehtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">mykgjøre</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">myövhkedehtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">sovne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">nahkestidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">benytte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">nahtadidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">dirigere</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">narhkelidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">spå</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">nåajtodh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ganne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">nåajtodh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">skyve</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">nehkiehtidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">drømme</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">nïekedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">formane</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">nihtetjistedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">lure</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">njaakedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">skli</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">njabpedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">glippe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">njabpestidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gli</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">njabpestidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gli</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">njalkestidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">omfavne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">njååmedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">denge</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">njåvtahtalledh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">mørbanke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">njåvtahtalledh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">spare</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">njoetedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">plystre</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">njorkedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">kvitre</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">njovhkedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">hoppe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">njulhtjedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">pine</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">njuvtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">banke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">njuvtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">slå</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">njuvtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">knuse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">njuvtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">jamre</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">njæjhkodh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">skrike</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">njæjhkodh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gråte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">njæjhkodh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">pistre</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">njæjhkodh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">spikre</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">noeredh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">nagle</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">noeredh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">narre</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">nollelidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">benytte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">nuhtjedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">nekte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">nyöjhkedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">underbygge</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">nænnoedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">vedta</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">nænnoestidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">forsterke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">nænnoestidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bekrefte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">nænnoestidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">erte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">næskoehtidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">fornye</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">orrestidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">slutte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">orrijidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">vantrives</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ovmurriedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ordne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">öörnedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">advare</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">öörnedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ordne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">öörnedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">advare</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">öörnedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">pistre</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">pleanjodh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">skrelle</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">plienedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bruke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">provhkedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">høvle</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">rahkestidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">blunke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ramkelidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">skremme</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">rapkelidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">treffe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">råakedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">plaskregne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">råanjedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">rødme</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">rååpsedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">føde</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">reakadehtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">memorere</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">rebnjedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">leke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">reejredh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tordne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">reejredh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">skremme</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ribnjestidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">blomstre</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">rïesedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ringe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ringkedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bygge</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tseegkedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">rømme</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">rïpmedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">fremme</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">evtiedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">utvikle</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">evtiedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">fremme</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">övtiedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">fremme</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">evtiemdidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gjete</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ryöjnesjidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">røve</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ryövedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">angre</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">saangerdidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">verke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">saejriedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">salte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">såålhtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">vinke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">seavahtidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">strø</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">seejedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">berolige</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">seereldehtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">hviske</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">sepkedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">angle</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">sigkestidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">fiske</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">sigkestidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">skritte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">sïllestidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">hviske</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">sïmmedadtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ville</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">sïjhtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tilpasse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">sjïehtesjidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tilrettelegge</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">sjïehtesjidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tilpasse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">sjïehtedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">smelte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">sjilkehtidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bli</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">sjïdtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">vokse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">sjïdtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">vokse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">sjïdtedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bruse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">sjovvedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">suse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">sjovvedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">sukke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">sjuehkiehtidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">skape</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">sjugniedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">skjemmes</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">skaamasjidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">skjemmes</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">skaamesjidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">skrape</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">skreepedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">hvalpe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">skuarhtjadidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">visne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">slaamedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">plapre</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">slaamperdidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">skvaldre</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">slaamperdidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">lyve</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">slaarvestidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">baktale</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">slaarvestidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">kaste</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">slearodh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">kaste</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">sleevhkedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gjennombløyte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">slïedtjedehtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">kaste</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">slijredh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">snuble</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">snåhkaridh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">knurre</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">snirredh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">svi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">snjierpehtidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">somle</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">snjitjkehtidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">trøste</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">soelkedehtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">trøste</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">soelkehtidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bøye</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">sojjedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">snakke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">soptsestidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">fortelle</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">soptsestidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">undervise</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ööhpehtidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">kalve</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">sööhpedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">sope</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">sööpedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">spille</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">spealadidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">famle</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">staameldidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">leke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">stååkedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">sjangle</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">stebpieldidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">stenge</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">steegkedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">stupe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">stovpedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">stjele</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">sualadidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">sige</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">suejielidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">sjangle</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">svïmtjerdidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">rommes</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tjaakanidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bestige</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tjaavtsestidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">skrive</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tjaeledh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">sitte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tjahkasjidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">dykke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tjarnedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">paralysere</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tjatnestehtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">stå</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tjåadtjodh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">røve</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tjåagkedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gråte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tjearodh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gråte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tjearoestidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">slå</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tjetskedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">sparke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tjïektjedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">klarne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tjïelkedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">forsikre</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tjirkedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">stigmatiseres</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tjirrelgåetedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gjemme</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tjïekedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">forklare</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tjïelkesidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">presisere</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tjïertestidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">måtte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tjoeredh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">måtte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tjoeveridh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">snø</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tjuetsedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">kysse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tjuvliestidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">peke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tjuvtjiedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">karve</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tsaapedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">træ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tsaekedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">slå</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tsaepmedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">banke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tsaepmedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">knekke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tsåapkodh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bygge</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tsegkedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">klipe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tsiptsedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">trave</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tsuvvedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">lunke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tsuvvedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">vedde</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tsygkedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">synes</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tuhtjedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">forminske</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">unniedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tenke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ussjedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">akte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ussjedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tenke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ussjiedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">akte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ussjiedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">holde</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">utniedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">holde</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">utniehtidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">forkaste</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">uvhtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">makulere</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">uvhtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">drepe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">uvhtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">unngå</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">uvtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bortforklare</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">uvtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">foreslå</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">uvtedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">kontrollere</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">vaaksjodh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">luke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">vaaljedehtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">advare</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">vaaroehtidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gå</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">vaedtsedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">spasere</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">vaedtsedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ta</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">vaeltedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">svare</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">vaestiedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ønske</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">vajtelidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">rødme</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">varhtodh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">rødme</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">varhtodidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">blø</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">vertedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">senke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">våajoedehtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">forvente</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">veanhtadidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">være</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">vearadidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">leve</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">veasodh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">vedtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">hente</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">veedtjedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">velge</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">veeljedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">rakne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">velkiehtidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">hente</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">vïedtjedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">hjelpe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">viehkiehtidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">mene</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">vïenhtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tro</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">vïenhtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">kvitre</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">vijhtsierdidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gidde</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">vïssjedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">svømme</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">voejedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">puste</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">voejngehtidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">spikke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">voeledh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">unndra</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">voelkestehtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">forkynne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">voerkelidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">koke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">voessjedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gjemme</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">vöörhkedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">kjøre</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">vuejedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">jage</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">vuejiehtidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">se</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">vuejnedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">forvente</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">vuertedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">vente</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">vuertedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">skyte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">vuetjedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">galoppere</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">vuhtsedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">oppholde</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">vyjhpestehtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">delta</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">vyöjhkesadtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gulne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">vyskedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">rødme</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">værhtodh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">forbedre</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bueriedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">skåte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">earadidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bestemme</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">mieriedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">skilles</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">juakadidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">heve</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bijjiedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">oppdra</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">bijjiedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tro</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">veanhtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">avstenge</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">geerelidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tvinne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">geartodh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gruble</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">ussjedalledh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">kløyve</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">tjïeskedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">verke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">vaarhkedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">rispe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">saaledh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tørste</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">gojhkelovvedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">garve</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">båårhkesjidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">barke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">båårhkesjidh</t>
+         </tg>
+      </mg>
+   </e>
+   <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript"
+                 xmlns:xhtml="http://www.w3.org/1999/xhtml"/>
+</r>
