@@ -1,5 +1,7 @@
 This is a first draft of a nob-sma dictionary, based on the work by several authors, and found here (full history included):
 
+One source type
+===============
 http://www.hemnes.sapmi.net/
 http://www.hemnes.sapmi.net/Gaerjiste-vaalteme_2001.doc (Word document, used here)
 http://www.hemnes.sapmi.net/Gaerjiste-vaalteme_2001.pdf (alternative pdf format)
@@ -11,3 +13,9 @@ The HTML file was then converted to XML/XHTML using the following command:
 tidy -utf8 Gaerjiste-vaalteme_2001-abi.html | tail +2 | xmllint --html --xmlout --dropdtd --format - > Gaerjiste-vaalteme_2001.xhtml
 
 As written by the authors, the text is freely available, and other users are encouraged to use and extend it. That is, it is in the public domain.
+
+
+Another source type
+===================
+
+the *freq files are a list of the nob lemmata with a frequency of 10+ in 24m wikipedia, checked against the dictionary of september 2010
