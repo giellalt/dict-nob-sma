@@ -1,4 +1,3 @@
-
 # Makefile to make nobdict.fst
 # the fst just recognises all lemmas in the nobsma dictionary
 # it does __not__ translate them.
