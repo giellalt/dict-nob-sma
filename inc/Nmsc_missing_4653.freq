@@ -1,3224 +1,462 @@
-å	N	
-om	N	
-anne	N	
-sin	N	
-mel	N#	
-inn	N	
-hans	N	
-opp	N	
-man	N	
-blant	N	
-enn	N	
-isse	N	
-båe	N	
-of	N#	
-of	N	
-tysk	N	
-vise	N	
-kong	N	
-slutt	N	
-verd	N	
-star	N#	
-isse	N	
-eks	N#	
-eksem	N#	
-sønn	N	
-eng	N#	
-engelsk	N	
-gange	N	
-innbygger	N	
-km	N	
-nor	N	
-frem	N	
-person	N	
-for	N#	
-fordi	N	
-ho	N	
-erme	N	
-båe	N	
-album	N	
-ulik	N	
-fransk	N	
-for	N#	
-serie	N	
-state	N	
-kr	N	
-verdenskrig	N	
-fikk	N	
-million	N	
-sesong	N	
-svensk	N	
-pave	N	
-om	N#	
-omkring	N	
-del	N#	
-delstat	N	
-anne	N	
-klubb	N	
-kardinal	N	
-sentral	N	
-president	N	
-or	N	
-regjering	N	
-type	N	
-stasjon	N	
-om	N#	
-befolkning	N	
-århundre	N	
-spiller	N	
-skille	N	
-anne	N	
-aldri	N	
-musikk	N	
-dansk	N	
-gresk	N	
-von	N	
-ho	N#	
-ho	N#	
-ho	N#	
-hoved	N#	
-hovedstad	N	
-kom	N	
-linje	N	
-handling	N	
-bøk	N	
-tittel	N	
-region	N	
-produksjon	N	
-ar	N#	
-eks	N	
-felle	N	
-tross	N	
-biskop	N	
-bak	N#	
-bakgrunn	N	
-di	N#	
-karriere	N	
-ro	N#	
-roman	N	
-versjon	N	
-betegnelse	N	
-lette	N	
-tilfelle	N	
-helle	N	
-italiensk	N	
-gift	N	
-by	N#	
-bydel	N	
-suksess	N	
-park	N	
-politiker	N	
-myndighet	N	
-tjeneste	N	
-republikk	N	
-bane	N	
-spansk	N	
-or	N	
-or	N	
-orden	N	
-mit	N	
-modell	N	
-interesse	N	
-prise	N	
-di	N#	
-divisjon	N	
-roll	N	
-variant	N	
-teori	N	
-fange	N	
-sammenheng	N	
-ledelse	N	
-motor	N	
-prof	N#	
-professor	N	
-prøve	N	
-bevegelse	N	
-foran	N	
-statsminister	N	
-topp	N	
-seier	N	
-avdeling	N	
-cm	N	
-kjempe	N	
-em	N	
-motsetning	N	
-plate	N	
-mm	N	
-sanger	N	
-uk	N	
-utgave	N	
-konflikt	N	
-økonomi	N	
-posisjon	N	
-figur	N	
-hvite	N	
-episode	N	
-vant	N	
-erkebiskop	N	
-general	N	
-skotsk	N	
-bruker	N	
-egenskap	N	
-hendelse	N	
-ve	N#	
-verdi	N	
-status	N	
-kon	N#	
-kontakt	N	
-styr	N#	
-innflytelse	N	
-student	N	
-opprinnelse	N	
-kritikk	N	
-forskjell	N	
-hertug	N	
-stil	N	
-elv	N#	
-flyplass	N	
-utgivelse	N	
-riksvei	N	
-vene	N	
-rift	N	
-kanal	N	
-is	N	
-funksjon	N	
-metode	N	
-rift	N	
-drift	N	
-presse	N	
-studie	N	
-pro	N#	
-prosess	N	
-unge	N	
-revolusjon	N	
-informasjon	N	
-religion	N	
-musiker	N	
-praksis	N	
-japansk	N	
-orre	N	
-effekt	N	
-herre	N	
-meie	N	
-museum	N	
-forskning	N	
-endring	N	
-irsk	N	
-koloni	N	
-jarl	N	
-red	N#	
-red	N#	
-redaktør	N	
-havn	N	
-historiker	N	
-energi	N	
-trone	N	
-festning	N	
-latin	N	
-nærhet	N	
-jobb	N	
-brite	N	
-operasjon	N	
-ni	N	
-scene	N	
-stilling	N	
-stand	N	
-bra	A#	
-brann	N	
-konkurranse	N	
-fotball	N#	
-fotballspiller	N	
-nor	N#	
-fjor	N	
-form	N#	
-motstander	N	
-fjor	N	
-fjord	N	
-score	N	
-utdanning	N	
-bed	N#	
-bedrift	N	
-poeng	N	
-natur	N	
-tank	N	
-forsker	N	
-mengd	N	
-arkitekt	N	
-union	N	
-populær	N	
-temperatur	N	
-kunstner	N	
-tilhenger	N	
-rune	N	
-runde	N	
-handel	N	
-dato	N	
-viss	N	
-kg	N	
-industri	N	
-polsk	N	
-borger	N#	
-borgerkrig	N	
-utdannelse	N	
-invasjon	N	
-streng	N	
-opp	N#	
-kanon	N	
-tropp	N	
-stand	N#	
-standard	N	
-ving	N	
-turnering	N	
-nr	N	
-mit	N	
-kon	N#	
-kontrakt	N	
-mark	N#	
-forening	N	
-års	N	
-rute	N	
-mørk	N	
-bakk	N	
-tilstand	N	
-bygging	N	
-kaptein	N	
-idag	N	
-vekst	N	
-beskrivelse	N	
-militær	N	
-finale	N	
-tur	N	
-ør	N	
-inn	N#	
-inn	N#	
-innsats	N	
-finsk	N	
-pasient	N	
-fabrikk	N	
-ekspedisjon	N	
-ar	N#	
-tunnel	N	
-original	N	
-opp	N#	
-sjel	N	
-sjel	N	
-kreft	N	
-ho	N#	
-ho	N#	
-ho	N#	
-hoved	N#	
-hovedsak	N	
-mangel	N	
-lign	N	
-festival	N	
-hann	N	
-gitar	N	
-enorm	N	
-dal	N	
-for	N#	
-formann	N	
-menighet	N	
-for	N#	
-filosofi	N	
-hunn	N	
-di	N#	
-di	N#	
-direktør	N	
-opp	N#	
-teknikk	N	
-red	N	
-rap	N	
-tier	N	
-hån	N	
-king	N	
-karakter	N	
-luft	N#	
-lufthavn	N	
-ho	N#	
-ho	N#	
-ho	N#	
-hoved	N#	
-hovedrolle	N	
-singel	N	
-oppmerksomhet	N	
-reis	N	
-overgang	N	
-fe	N#	
-maskin	N	
-jakt	N	
-utbredelse	N	
-biografi	N	
-insekt	N	
-leir	N	
-base	N	
-cup	N	
-stad	N#	
-stadion	N	
-byge	N	
-slave	N	
-manager	N	
-eksemplar	N	
-leg	N	
-inn	N#	
-innspilling	N	
-herr	N	
-rune	N	
-var	A#	
-allianse	N	
-jern	N#	
-jernbane	N	
-guvernør	N	
-geografi	N	
-fotball	N#	
-fotballklubb	N	
-deriblant	N	
-stiftelse	N	
-dommer	N	
-celle	N	
-bombe	N	
-definisjon	N	
-kombinasjon	N	
-ferd	N	
-løsning	N	
-mur	N	
-ung	A#	
-ung	A#	
-ung	A#	
-ungdom	N	
-bibel	N	
-kandidat	N	
-kom	N#	
-kommando	N	
-oversettelse	N	
-le	N#	
-leire	N	
-mytologi	N	
-overflate	N	
-organ	N	
-regissør	N	
-frihet	N	
-amerikaner	N	
-min	N	
-bo	N#	
-bosetning	N	
-reform	N	
-press	N	
-prinsesse	N	
-møte	N	
-inn	N#	
-inntekt	N	
-tilgang	N	
-opp	N#	
-opprettelse	N	
-flat	N	
-referanse	N	
-vekk	N	
-kommunikasjon	N	
-dollar	N	
-arkitekt	N#	
-arkitektur	N	
-slette	N	
-sikkerhet	N	
-nasjonal	A#	
-nasjonalpark	N	
-datamaskin	N	
-ve	N	
-mil	N#	
-milliard	N	
-kritiker	N	
-vegg	N	
-mei	N#	
-medisin	N	
-utbygging	N	
-tilknytning	N	
-finn	N	
-andel	N	
-di	N	
-etterkommer	N	
-tabell	N	
-design	N	
-hensyn	N	
-olje	N	
-teknologi	N	
-vinner	N	
-kategori	N	
-rock	N	
-college	N	
-for	N#	
-forsvant	N	
-matematikk	N	
-fase	N	
-rek	N#	
-rekord	N	
-plassering	N	
-fil	N#	
-filosof	N	
-frak	N#	
-utstilling	N	
-for	N#	
-forhandling	N	
-fysikk	N	
-mor	N	
-voks	N	
-sir	N	
-virkelighet	N	
-medalje	N	
-tar	N	
-forestilling	N	
-arm	N	
-hersker	N	
-or	N#	
-or	N#	
-ord	N#	
-ordfører	N	
-uavhengighet	N	
-ulykke	N	
-vitenskap	N	
-hastighet	N	
-grunn	N#	
-bispedømme	N	
-høg	N#	
-høg	A#	
-høgskole	N	
-trafikk	N	
-viking	N	
-ridder	N	
-jord	N#	
-antikk	N	
-bredde	N	
-potte	N	
-erobring	N	
-for	N#	
-fork	N#	
-tromme	N	
-premie	N	
-kongress	N	
-gass	N	
-antenne	N	
-konsekvens	N	
-bor	N#	
-borger	N	
-om	N#	
-omgang	N	
-faktor	N	
-statue	N	
-ri	N	
-le	N#	
-studio	N	
-liberal	N	
-masse	N	
-opp	N#	
-sone	N	
-etterfølger	N	
-konstruksjon	N	
-for	N#	
-forsamling	N	
-bass	N	
-intern	N	
-opp	N#	
-bille	N	
-vers	N#	
-myte	N	
-detalj	N	
-inn	N#	
-inn	N#	
-inn	N#	
-inndeling	N	
-aksjon	N	
-fokus	N	
-sik	N#	
-kur	N	
-kurs	N	
-jevn	N	
-ombord	N	
-mus	N#	
-muslim	N	
-statsråd	N	
-deltaker	N	
-balle	N	
-pro	N#	
-programleder	N	
-program	N#	
-beleiring	N	
-slo	N	
-samisk	N	
-franskmann	N	
-fransk	N#	
-fransk	A#	
-forbi	N	
-trener	N	
-rapport	N	
-kos	N#	
-følelse	N	
-holdning	N	
-vitne	N	
-tyrkisk	N	
-opp	N#	
-oppfatning	N	
-okkupasjon	N	
-fører	N	
-virkning	N	
-ok	N#	
-doktor	N#	
-doktorgrad	N	
-trykk	N	
-tone	N	
-regi	N	
-øvelse	N	
-single	N	
-maler	N	
-kapasitet	N	
-utmerkelse	N	
-trening	N	
-prinsipp	N	
-objekt	N	
-vol	N	
-kjerne	N	
-formel	N	
-kor	N	
-tro	N#	
-mon	N#	
-monark	N	
-etablering	N	
-le	N#	
-islam	N	
-ho	N#	
-ho	N#	
-ho	N#	
-hoved	N#	
-hovedperson	N	
-kongedømme	N	
-doktor	N	
-bronse	N	
-ruin	N	
-hold	N	
-frem	N#	
-fremtid	N	
-trær	N	
-katedral	N	
-avgjørelse	N	
-greker	N	
-frukt	N	
-kopi	N	
-hjerne	N	
-straff	N	
-son	N	
-opp	N#	
-oppløsning	N	
-analyse	N	
-turisme	N	
-misjonær	N	
-co	N	
-nåde	N	
-traktat	N	
-teologi	N	
-fjern	N	
-symptom	N	
-reformasjon	N	
-tilskuer	N	
-stripe	N	
-rang	N	
-vogn	N	
-etasje	N	
-bakterie	N	
-walk	N	
-blanding	N	
-advokat	N	
-utøver	N	
-kom	N#	
-komposisjon	N	
-katolikk	N	
-faktum	N	
-samtid	N	
-tillatelse	N	
-bebyggelse	N	
-don	N	
-opprører	N	
-besetning	N	
-utenom	N	
-krise	N	
-hebraisk	N	
-plattform	N	
-service	N	
-land	N#	
-variasjon	N	
-star	N	
-mr	N	
-organisme	N	
-sammenslåing	N	
-påstand	N	
-greve	N	
-om	N#	
-dom	N#	
-domkirke	N	
-science	N	
-rad	N	
-garde	N	
-landskamp	N	
-væske	N	
-nyhet	N	
-hal	N	
-etappe	N	
-forgjenger	N	
-opposisjon	N	
-bataljon	N	
-atmosfære	N	
-tolkning	N	
-munk	N	
-kampanje	N	
-fanger	N	
-fan	N	
-fans	N	
-spenning	N	
-li	N#	
-live	N	
-sjanger	N	
-piano	N	
-skulptur	N	
-eng	N#	
-engelskmann	N	
-engelsk	N#	
-engelsk	A#	
-inn	N#	
-inngang	N	
-dam	N	
-beslutning	N	
-utvidelse	N	
-tvil	N	
-statistikk	N	
-skikkelse	N	
-jr	N	
-kjennetegn	N	
-for	N#	
-sogn	N	
-kule	N	
-rap	N	
-high	N	
-elektron	N	
-uenighet	N	
-sekretær	N	
-stråle	N	
-kode	N	
-gard	N	
-mei	N	
-territorium	N	
-lit	N	
-utforming	N	
-krig	N#	
-krigføring	N	
-partikkel	N	
-konstant	N	
-lidelse	N	
-opplevelse	N	
-vestside	N	
-flokk	N	
-hjemmebane	N	
-adel	N	
-verdensmester	N	
-historikk	N	
-sel	N#	
-ar	N#	
-arving	N	
-russer	N	
-forkortelse	N	
-spanjol	N	
-hunderase	N	
-risiko	N	
-løve	N	
-beine	N	
-force	N	
-prestegjeld	N	
-restaurant	N	
-baron	N	
-ødeleggelse	N	
-general	N#	
-generalsekretær	N	
-endel	N	
-cand	N	
-borg	N	
-bas	N#	
-basis	N	
-permanent	N	
-ingenting	N	
-erstatning	N	
-bestand	N	
-talent	N	
-forsyning	N	
-admiral	N	
-rest	N#	
-restaurering	N	
-kino	N	
-tilhører	N	
-kompani	N	
-dans	N	
-stadium	N	
-medarbeider	N	
-indianer	N	
-dannelse	N	
-avhandling	N	
-for	N#	
-fortid	N	
-strategi	N	
-jak	N#	
-isotop	N	
-pro	N#	
-program	N#	
-programvare	N	
-kon	N#	
-kon	N#	
-konkurs	N	
-ener	N	
-stortingsrepresentant	N	
-akt	N#	
-aktør	N	
-barneskole	N	
-skuespillerinne	N	
-ambassadør	N	
-kunde	N	
-inn	N#	
-inntrykk	N	
-vol	N	
-vold	N	
-jern	N#	
-jernbane	N#	
-jernbanestasjon	N	
-vak	N#	
-anerkjennelse	N	
-game	N	
-alkohol	N	
-organisering	N	
-beliggenhet	N	
-vinde	N	
-verdensrekord	N	
-etternavn	N	
-material	N	
-smitte	N	
-ingeniør	N	
-begivenhet	N	
-tråd	N	
-komedie	N	
-seremoni	N	
-kom	N#	
-kom	N#	
-kom	N#	
-kommandør	N	
-konkurrent	N	
-myk	N	
-pass	N	
-opp	N#	
-opplæring	N	
-for	N#	
-forstad	N	
-utfordring	N	
-tvers	N	
-flate	N	
-supe	N	
-sann	N	
-novelle	N	
-fyrste	N	
-video	N	
-rekkefølge	N	
-ferge	N	
-vulkan	N	
-legg	N	
-ar	N#	
-regjering	N#	
-regjeringstid	N	
-næring	N	
-lengd	N	
-distanse	N	
-eling	N	
-deling	N	
-avgang	N	
-old	N#	
-oldtid	N	
-demonstrasjon	N	
-kor	N#	
-korrekt	N	
-folkeavstemning	N	
-tørke	N	
-stråling	N	
-forutsetning	N	
-ltd	N	
-begravelse	N	
-selvstendighet	N	
-personlighet	N	
-semifinale	N	
-løper	N	
-senat	N#	
-senator	N	
-rytter	N	
-plikt	N	
-renessanse	N	
-aksje	N	
-betydning	N#	
-barnehage	N	
-betong	N	
-økning	N	
-ideologi	N	
-ungarsk	N	
-tomt	N	
-melding	N	
-hemmelighet	N	
-glass	N	
-emning	N	
-leilighet	N	
-minister	N	
-fan	N	
-sivilisasjon	N	
-nor	N#	
-normal	N	
-kostnad	N	
-komponent	N	
-champion	N	
-emning	N	
-demning	N	
-bevissthet	N	
-inn	N#	
-innom	N	
-besittelse	N	
-vit	N	
-seksjon	N	
-kineser	N	
-gasse	N	
-li	N#	
-gal	A#	
-galle	N#	
-dverg	N	
-beretning	N	
-mile	N	
-skjerm	N	
-testamente	N	
-utgang	N	
-europeer	N	
-alvor	N	
-rival	N	
-atferd	N	
-dekar	N	
-illustrasjon	N	
-fat	N#	
-tredjedel	N	
-tredje	A#	
-partner	N	
-nobel	N#	
-nobelpris	N	
-kor	N#	
-korp	N	
-korps	N	
-katastrofe	N	
-avslutning	N	
-san	N	
-sirkel	N	
-psykologi	N	
-bestemmelse	N	
-søyle	N	
-kollega	N	
-forbrytelse	N	
-verks	N#	
-nasjonal	A#	
-nasjonal	A#	
-nasjonalforsamling	N	
-fjern	N#	
-fjern	A#	
-fjernsyn	N	
-pause	N	
-depresjon	N	
-viking	N#	
-vikingtid	N	
-uttalelse	N	
-atom	N	
-trio	N	
-registrering	N	
-rekke	N#	
-rekkevidde	N	
-pelse	N	
-konferanse	N	
-inn	N#	
-innføring	N	
-gull	N#	
-gullmedalje	N	
-børs	N#	
-børste	N	
-likt	N	
-kul	N	
-begrensning	N	
-anvendelse	N	
-din	N	
-å	N#	
-åpen	A#	
-skri	N#	
-skribent	N	
-pleie	N	
-observasjon	N	
-relasjon	N	
-pro	N#	
-protein	N	
-kanton	N	
-ark	N	
-måling	N	
-bark	N	
-utstrakt	N	
-frem	N#	
-fremstilling	N	
-epoke	N	
-deltager	N	
-etat	N	
-mynte	N	
-regent	N	
-adgang	N	
-sammensetning	N	
-le	N#	
-levetid	N	
-kommunisme	N	
-trefning	N	
-låtskriver	N	
-respekt	N	
-eng	N	
-bas	N	
-ramm	N	
-konsentrasjonsleir	N	
-betingelse	N	
-kommentar	N	
-gudinne	N	
-adelsmann	N	
-hjerte	N	
-driver	N	
-anatomi	N	
-utstrekning	N	
-pol	N	
-major	N	
-vegetasjon	N	
-diplomat	N	
-kr	N#	
-krave	N	
-slang	N	
-turn	N	
-manus	N	
-forfølgelse	N	
-jus	N	
-birolle	N	
-vers	N	
-tsjekkisk	N	
-messe	N	
-taktikk	N	
-pro	N#	
-profil	N	
-nestleder	N	
-dirigent	N	
-om	N#	
-omsetning	N	
-resolusjon	N	
-kon	N#	
-konsul	N	
-pre	N#	
-prestasjon	N	
-kom	N#	
-kommisjon	N	
-land	N#	
-landsdel	N	
-ho	N#	
-tiger	N	
-tyrker	N	
-høy	A#	
-høyskole	N	
-uro	N	
-forberedelse	N	
-ar	N#	
-arbeidsplass	N	
-ekspansjon	N	
-plan	N#	
-planlegging	N	
-krønike	N	
-ar	N#	
-adresse	N	
-spark	N	
-fotografi	N	
-teolog	N	
-magasin	N	
-enighet	N	
-eling	N	
-arkeolog	N	
-omstendighet	N	
-dikt	N#	
-diktsamling	N	
-ytelse	N	
-under	N#	
-under	N#	
-under	N#	
-underveis	N	
-splittelse	N	
-oppfinnelse	N	
-gruppering	N	
-gruppe	N#	
-forsterkning	N	
-symfoni	N	
-slave	N#	
-regime	N	
-palass	N	
-fraksjon	N	
-barnebok	N	
-prototyp	N	
-konsentrasjon	N	
-from	N	
-brigade	N	
-spillefilm	N	
-kvalifisering	N	
-gene	N	
-legeme	N	
-hule	N	
-barn	N#	
-barn	N#	
-barn	N#	
-barndom	N	
-massakre	N	
-file	N	
-anke	N	
-utpekt	N	
-buddhisme	N	
-ave	N	
-reserve	N	
-diagnose	N	
-frukt	N#	
-disiplin	N	
-statsborger	N	
-publikasjon	N	
-investering	N	
-regulering	N	
-opp	N#	
-oppslutning	N	
-begrunnelse	N	
-skøyte	N#	
-skøyteløper	N	
-stopp	N	
-kjemi	N	
-innvandrer	N	
-forretningsmann	N	
-etterspørsel	N	
-nedgang	N	
-reklame	N	
-misjon	N	
-golf	N	
-vararepresentant	N	
-ferdighet	N	
-spredning	N	
-kon	N#	
-biologi	N	
-ambassade	N	
-pirat	N	
-klassiker	N	
-for	N#	
-forretning	N	
-utnevnelse	N	
-konvensjon	N	
-katte	N	
-sjø	N	
-sjøs	N	
-mil	N	
-hall	N	
-poesi	N	
-tegner	N	
-for	N#	
-format	N	
-pel	N	
-kraft	N#	
-kraftstasjon	N	
-hag	N	
-framtid	N	
-tenkning	N	
-mottaker	N	
-frigjøring	N	
-fil	N	
-os	N	
-jeger	N	
-gudstjeneste	N	
-sosialisme	N	
-embetsmann	N	
-pistol	N	
-araber	N	
-volum	N	
-vanskelighet	N	
-slag	N#	
-slagmark	N	
-for	N#	
-for	N#	
-forbedring	N	
-visjon	N	
-magi	N	
-lyriker	N	
-aspekt	N	
-uniform	N	
-telefon	N	
-offentlighet	N	
-diktning	N	
-belønning	N	
-prefekt	N	
-link	N	
-pop	N	
-styre	N#	
-styreleder	N	
-koreansk	N	
-kapital	N	
-musikal	N	
-flanke	N	
-eksplosjon	N	
-stor	A#	
-storm	N#	
-stormakt	N	
-irish	N	
-lenk	N	
-lastebil	N	
-bidro	N	
-statssekretær	N	
-partileder	N	
-parti	N#	
-mag	N	
-landsbygd	N	
-velger	N	
-tsar	N	
-opp	N#	
-oppsetning	N	
-jazzmusiker	N	
-forsvarer	N	
-lunge	N	
-demokrat	N	
-konstitusjon	N	
-gjengjeld	N	
-fotograf	N	
-folkemusikk	N	
-utkant	N	
-stor	A#	
-storhet	N#	
-storhetstid	N	
-for	N#	
-kjenner	N	
-sul	N#	
-sultan	N	
-løytnant	N	
-konklusjon	N	
-herredømme	N	
-formue	N	
-rye	N	
-voss	N	
-tildeling	N	
-taler	N	
-forvandling	N	
-bane	N	
-bande	N	
-kristendom	N	
-tilnærming	N	
-sender	N	
-kompetanse	N	
-pro	N#	
-klipp	N	
-formasjon	N	
-motor	N#	
-motorvei	N	
-lur	N	
-hevd	N	
-elite	N	
-bremse	N	
-leg	N#	
-legion	N	
-inskripsjon	N	
-føde	N#	
-føderasjon	N	
-duo	N	
-gjenforening	N	
-færøysk	N	
-protestant	N	
-menneskehet	N	
-severdighet	N	
-utsagn	N	
-reaksjon	N	
-red	N#	
-redaksjon	N	
-drakt	N	
-artium	N	
-sykkel	N	
-seer	N	
-landing	N	
-fasade	N	
-ar	N#	
-arbeidsgiver	N	
-utenrikspolitikk	N	
-sådan	N	
-orkan	N	
-opp	N#	
-oppførsel	N	
-fusjon	N	
-ho	N#	
-overlege	N	
-koalisjon	N	
-frem	N#	
-fremgang	N	
-samferdsel	N	
-representasjon	N	
-gjeng	N	
-styr	N#	
-styre	N#	
-inn	N#	
-inn	N#	
-innvandring	N	
-styring	N	
-serber	N	
-takt	N	
-humor	N	
-girl	N	
-oppfinner	N	
-om	N#	
-omfang	N	
-streik	N	
-skøyte	N	
-back	N	
-jf	N	
-aluminium	N	
-moral	N	
-langrennsløper	N	
-inn	N#	
-innside	N	
-garnison	N	
-avstemning	N	
-misnøye	N	
-drage	N	
-ambisjon	N	
-vinn	N	
-hån	N#	
-hån	N#	
-hånd	N#	
-håndball	N	
-holme	N	
-halvkule	N	
-dybde	N	
-year	N	
-protokoll	N	
-deltakelse	N	
-blei	N	
-avgift	N	
-rom	N#	
-romantikk	N	
-mo	N#	
-mobil	N	
-fattigdom	N	
-fattig	A#	
-fattig	A#	
-fattig	A#	
-endestasjon	N	
-embete	N	
-bombing	N	
-alter	N#	
-altertavle	N	
-marsj	N	
-mal	N	
-hopp	N	
-ran	N	
-psykolog	N	
-sant	N	
-norm	N	
-terreng	N	
-styre	N#	
-styresmakt	N	
-sjø	N#	
-sjømann	N	
-patriark	N	
-dramatiker	N	
-balanse	N	
-nederlender	N	
-mynde	N	
-for	N#	
-for	N#	
-forhånd	N	
-bosetting	N	
-sammenslutning	N	
-sammenligning	N	
-infeksjon	N	
-yr	N#	
-dyr	N#	
-dyrking	N	
-blokk	N	
-afghansk	N	
-sat	N	
-sats	N	
-passasje	N	
-korrupsjon	N	
-dokumentasjon	N	
-talsmann	N	
-portugiser	N	
-oversetter	N	
-vitenskapsmann	N	
-li	N	
-fangst	N	
-sjah	N	
-for	N#	
-forfatning	N	
-spenn	N	
-mo	N#	
-mobil	N#	
-mobil	A#	
-mobiltelefon	N	
-empire	N	
-astronom	N	
-sjakk	N	
-pumpe	N	
-munning	N	
-inn	N#	
-innstilling	N	
-fane	N	
-etterforskning	N	
-slalåm	N	
-fag	N#	
-fagforening	N	
-ballade	N	
-utside	N	
-nese	N	
-års	N#	
-årsproduksjon	N	
-san	N	
-sans	N	
-litterær	N	
-kryss	N	
-år	N#	
-årrekke	N	
-systematikk	N	
-skri	N#	
-skrivemåte	N	
-lov	N#	
-lovgivning	N	
-geologi	N	
-angriper	N	
-første	A#	
-førsteplass	N	
-dimensjon	N	
-tvang	N	
-svik	N#	
-right	N	
-mussolini	N	
-kobbe	N	
-sommer	N#	
-sommerfugl	N	
-markering	N	
-unik	N	
-sannsynlighet	N	
-kur	N	
-klan	N	
-tredje	A#	
-tredjeplass	N	
-sel	N	
-japaner	N	
-for	N#	
-for	N#	
-for	N#	
-for	N#	
-for	N#	
-syre	N	
-sosial	A#	
-sosialdemokrat	N	
-light	N	
-arbeider	N#	
-arbeiderbevegelse	N	
-stikk	N	
-overføring	N	
-fjær	N	
-ekstern	N	
-ammunisjon	N	
-næringsvei	N	
-nasjonalisme	N	
-om	N#	
-ombygging	N	
-junior	N	
-bo	N#	
-snue	N	
-ri	N	
-ris	N	
-kon	N#	
-konsesjon	N	
-term	N	
-pike	N	
-sup	N	
-sukk	N	
-opp	N#	
-oppbygging	N	
-lise	N	
-drikk	N	
-distribusjon	N	
-tribune	N	
-skanse	N	
-milits	N	
-lo	N	
-los	N	
-inflasjon	N	
-demon	N	
-utgift	N	
-tragedie	N	
-lenin	N	
-klient	N	
-imperium	N	
-li	N#	
-gjennomføring	N	
-ekvator	N	
-diktat	N#	
-diktator	N	
-ar	N#	
-arbeidskraft	N	
-utlending	N	
-sluse	N	
-skygg	N	
-beregning	N	
-barokk	N	
-arkeologi	N	
-økonom	N	
-urin	N	
-tillit	N	
-ladning	N	
-rytme	N	
-ulempe	N	
-sit	N#	
-sitteplass	N	
-pågikk	N	
-grønn	A#	
-grønnsak	N	
-evolusjon	N	
-svakhet	N	
-innehaver	N	
-nybygger	N	
-etymologi	N	
-kvartfinale	N	
-håndverker	N	
-hypotese	N	
-diktat	N#	
-diktatur	N	
-spekulasjon	N	
-skill	N	
-skarp	N	
-rifle	N	
-note	N	
-ar	N#	
-arrangør	N	
-ætt	N	
-terminal	N	
-kon	N#	
-konjakk	N	
-hel	A#	
-bønne	N	
-politi	N#	
-politimann	N	
-gjerning	N	
-send	N	
-grant	N	
-double	N	
-beskytter	N	
-trapp	N	
-for	N#	
-forskrift	N	
-for	N#	
-forkant	N	
-statsvitenskap	N	
-stab	N	
-sjokolade	N	
-lord	N	
-le	N#	
-le	N#	
-le	N#	
-le	N#	
-lever	N#	
-leverandør	N	
-grevinne	N	
-bronse	N#	
-bronsemedalje	N	
-bivirkning	N	
-bekostning	N	
-stift	N	
-stemning	N	
-politi	N#	
-politistyrke	N	
-forventning	N	
-fiske	N#	
-bør	N	
-børs	N	
-bie	N	
-te	N#	
-tennis	N	
-modernisering	N	
-kon	N#	
-konsonant	N	
-henvisning	N	
-dominans	N	
-turistattraksjon	N	
-sum	N	
-substans	N	
-opphavsmann	N	
-mekanisme	N	
-inn	N#	
-innvirkning	N	
-frue	N	
-bak	N#	
-bakside	N	
-topp	N	
-topps	N	
-nær	N#	
-italiener	N	
-by	N#	
-bykommune	N	
-sår	N#	
-mølle	N	
-grammatikk	N	
-fiolin	N	
-bevaring	N	
-valg	N#	
-valgkamp	N	
-såle	N	
-lo	N	
-kre	N#	
-kolonisering	N	
-kai	N	
-for	N#	
-dødsstraff	N	
-utendørs	N	
-tilværelse	N	
-svakt	N	
-oppvarming	N	
-opp	N#	
-opprykk	N	
-minimum	N	
-ho	N#	
-ho	N#	
-ho	N#	
-ho	N#	
-ho	N#	
-ho	N#	
-hoved	N#	
-hoved	N#	
-hovedoppgave	N	
-dekning	N	
-abbed	N	
-utsending	N	
-keeper	N	
-esperanto	N	
-trette	N	
-slag	N#	
-portal	N	
-observatør	N	
-martyr	N	
-delegat	N	
-under	N#	
-tåke	N	
-katolisisme	N	
-general	N#	
-general	N#	
-generalforsamling	N	
-rad	N#	
-radar	N	
-fylkesmann	N	
-styre	N#	
-styre	N#	
-styreformann	N	
-heng	N	
-under	N#	
-underholdning	N	
-bredde	N#	
-breddegrad	N	
-bil	N#	
-bil	N#	
-bil	N#	
-bille	N#	
-bille	N#	
-billedkunstner	N	
-under	N#	
-statskupp	N	
-innendørs	N	
-kon	N#	
-kontrovers	N	
-inn	N#	
-innretning	N	
-idrettsforening	N	
-drøm	N	
-toppscorer	N	
-sosiologi	N	
-skjede	N	
-oval	N	
-ligning	N	
-for	N#	
-for	N#	
-for	N#	
-fordeling	N	
-forlengelse	N	
-radio	N#	
-radiostasjon	N	
-nor	N#	
-nor	N#	
-nord	N#	
-nordsamisk	N	
-grafikk	N	
-dokument	N#	
-dokumentarfilm	N	
-djevel	N	
-di	N#	
-diesel	N#	
-dieselmotor	N	
-billedhugger	N	
-vitamin	N	
-usikkerhet	N	
-tortur	N	
-lynne	N	
-kur	N#	
-fiction	N	
-advarsel	N	
-strekk	N	
-skildring	N	
-reduksjon	N	
-kring	N#	
-katedral	N#	
-katedralskole	N	
-forstås	N	
-eike	N	
-cubansk	N	
-arrestasjon	N	
-anbefaling	N	
-pastor	N	
-allment	N	
-ås	N#	
-variabel	N	
-skytter	N	
-instruktør	N	
-sympati	N	
-sving	N	
-skvadron	N	
-retningslinje	N	
-realisme	N	
-pyramide	N	
-rush	N	
-perfekt	N	
-pensjon	N	
-lokalbefolkning	N	
-immigrant	N	
-hole	N	
-helikopter	N	
-or	N#	
-or	N#	
-ord	N#	
-ordbok	N	
-hjelm	N	
-attraksjon	N	
-syk	N#	
-syk	A#	
-syklon	N	
-skyting	N	
-landsmøte	N	
-kje	N#	
-kjeve	N	
-for	N#	
-avføring	N	
-spis	N	
-klassifisering	N	
-kapitalisme	N	
-introduksjon	N	
-dekorasjon	N	
-trikk	N	
-strie	N	
-innad	N	
-binding	N	
-tre	N#	
-trekant	N	
-metropolitan	N	
-make	N	
-lyrikk	N	
-inn	N#	
-innovasjon	N	
-humle	N	
-danser	N	
-trend	N	
-relikvie	N	
-radikal	N	
-kort	N#	
-kort	A#	
-kortfilm	N	
-skapning	N	
-hungersnød	N	
-tjeneste	N#	
-tjenestemann	N	
-lekt	N#	
-lektor	N	
-hekk	N	
-øde	A#	
-ungdomsorganisasjon	N	
-frase	N	
-trilogi	N	
-supporter	N	
-saksofon	N	
-affære	N	
-tom	N	
-opptegnelse	N	
-motor	N#	
-motorsykkel	N	
-harmoni	N	
-drue	N	
-videreutvikling	N	
-ur	N#	
-urbane	N	
-stabæk	N	
-pub	N	
-ho	N#	
-hole	N#	
-holdeplass	N	
-ekte	A#	
-ektefelle	N	
-pepp	N	
-galei	N	
-sølvmedalje	N	
-legat	N	
-lar	N	
-kompleks	N	
-fantasi	N	
-akse	N	
-tilpasning	N	
-spesifikt	N	
-slapp	N	
-skrue	N	
-rumensk	N	
-chopin	N	
-sanskrit	N	
-proton	N	
-pro	N	
-interiør	N	
-forpliktelse	N	
-bjelke	N	
-bidragsyter	N	
-bensin	N	
-solo	N	
-database	N	
-stavelse	N	
-opp	N#	
-oppstand	N	
-nymfe	N	
-misforståelse	N	
-mit	N#	
-midt	N#	
-midtbanespiller	N	
-løft	N	
-arbeiderklasse	N	
-arbeider	N#	
-orientering	N	
-hin	N	
-full	A#	
-fullmakt	N	
-is	N#	
-dis	N#	
-disposisjon	N	
-akt	N	
-ve	N#	
-veteran	N	
-stor	A#	
-storslalåm	N	
-pro	N#	
-prosess	N#	
-prosessor	N	
-triumf	N	
-genre	N	
-dose	N	
-blind	N	
-ank	N#	
-ankom	N	
-vel	N#	
-velstand	N	
-sykepleier	N	
-skjønnhet	N	
-skandale	N	
-inn	N#	
-innledning	N	
-iblant	N	
-facto	N	
-nøytron	N	
-nominasjon	N	
-indikasjon	N	
-handelshøyskole	N	
-vandal	N	
-mo	N#	
-mote	N	
-etterretning	N	
-berømmelse	N	
-penn	N	
-mottakelse	N	
-maske	N	
-for	N#	
-felle	N#	
-farao	N	
-turistforening	N	
-linse	N	
-virus	N	
-vane	N	
-utslipp	N	
-overlege	N	
-kupp	N	
-jur	N#	
-juris	N#	
-jurisdiksjon	N	
-installasjon	N	
-vann	N#	
-vanndamp	N	
-trakt	N#	
-traktor	N	
-titan	N	
-restriksjon	N	
-operatør	N	
-nakke	N	
-kom	N#	
-kompromiss	N	
-avling	N	
-os	N#	
-oslo	N	
-norgesmester	N	
-mitraljøse	N	
-administrator	N	
-valp	N	
-terror	N	
-karbon	N	
-humanisme	N	
-avskjed	N	
-sag	N#	
-reder	N	
-makt	N#	
-maktkamp	N	
-levning	N	
-kroning	N	
-intensjon	N	
-forvirring	N	
-avhengighet	N	
-underlig	A#	
-syk	N#	
-syk	A#	
-syklus	N	
-oberstløytnant	N	
-lag	N#	
-lagring	N	
-hus	N#	
-husholdning	N	
-for	N#	
-utdeling	N	
-undertrykkelse	N	
-skog	N#	
-lin	N	
-finansiering	N	
-doktrine	N	
-bestilling	N	
-avbildning	N	
-astronomi	N	
-vei	N#	
-veiforbindelse	N	
-utførelse	N	
-reparasjon	N	
-polakk	N	
-markant	N	
-hurtig	A#	
-hurtigrute	N	
-grus	N	
-express	N	
-spalte	N	
-overbevisning	N	
-lærebok	N	
-kilde	N#	
-kildekode	N	
-forelesning	N	
-destinasjon	N	
-ar	N#	
-arbeidsledighet	N	
-åpenbaring	N	
-tenåring	N	
-kule	N	
-kulde	N	
-instruksjon	N	
-samler	N	
-puppe	N	
-materie	N	
-år	N#	
-ventil	N	
-tilsyn	N	
-maksimal	N	
-landsmann	N	
-boksing	N	
-blokade	N	
-anmeldelse	N	
-uran	N	
-under	N#	
-sparebank	N	
-skisse	N	
-fjerde	A#	
-fjerdeplass	N	
-nåtid	N	
-mongol	N	
-hjerte	N#	
-hjerteinfarkt	N	
-fornuft	N	
-betraktning	N	
-stie	N	
-ran	N	
-rand	N	
-ork	N	
-lansering	N	
-lanse	N#	
-kjøper	N	
-fascisme	N	
-byrd	N	
-tilbaketrekning	N	
-intakt	N	
-for	N#	
-amatør	N	
-utvinning	N	
-skald	N	
-rekonstruksjon	N	
-maur	N	
-kje	N#	
-kjendis	N	
-parodi	N	
-medium	N	
-kaos	N	
-ion	N	
-flygning	N	
-fjære	N	
-ed	N	
-arr	N#	
-sil	N	
-rus	N#	
-geometri	N	
-elskerinne	N	
-vand	N#	
-vandring	N	
-sig	N#	
-signatur	N	
-framstilling	N	
-basketball	N	
-turbin	N	
-tornado	N	
-hjalp	N	
-verneplikt	N	
-stang	N	
-overkant	N	
-murer	N	
-for	N#	
-fornavn	N	
-tilslutning	N	
-opp	N#	
-oppskrift	N	
-livsstil	N	
-ull	N	
-te	N#	
-testing	N	
-li	N	
-lid	N	
-ire	N	
-inn	N#	
-innblanding	N	
-hovedfag	N	
-ro	N	
-ros	N	
-kuppel	N	
-egypter	N	
-bistand	N	
-albansk	N	
-toleranse	N	
-synagoge	N	
-retur	N	
-landslagsspiller	N	
-forkjemper	N	
-berlin	N	
-senior	N	
-journalistikk	N	
-især	N	
-fuktighet	N	
-fiske	N#	
-ekstrem	N	
-slipp	N	
-seminar	N	
-nedleggelse	N	
-kr	N#	
-kro	N#	
-krom	N#	
-ferie	N	
-tempo	N	
-spelemann	N	
-plyndring	N	
-plakat	N	
-palestiner	N	
-oransje	N	
-mål	N#	
-måltid	N	
-jag	N	
-for	N#	
-forbruker	N	
-belastning	N	
-storhet	N	
-scoring	N	
-retorikk	N	
-pseudonym	N	
-hin	N	
-hind	N	
-etikk	N	
-buk	N	
-tarm	N	
-sti	N#	
-ski	N#	
-skips	N#	
-skipsreder	N	
-problemstilling	N	
-problem	N#	
-overklasse	N	
-or	N#	
-ordinær	N	
-lojal	N	
-gjenoppbygging	N	
-forurensning	N	
-dyktighet	N	
-software	N	
-rotasjon	N	
-revisjon	N	
-militær	N#	
-militærtjeneste	N	
-heks	N	
-fos	N#	
-fjerdedel	N	
-fjerde	A#	
-diamant	N	
-prosedyre	N	
-oversvømmelse	N	
-motto	N	
-morder	N	
-membran	N	
-framgang	N	
-finans	N	
-byste	N	
-ar	N	
-sånn	N	
-skift	N	
-kjemikalie	N	
-epidemi	N	
-bransje	N	
-avkom	N	
-synonym	N	
-spirit	N	
-mose	N	
-le	N#	
-leting	N	
-ho	N	
-ask	N	
-metamorfose	N	
-marmor	N	
-margin	N	
-likevekt	N	
-drivkraft	N	
-tuberkulose	N	
-tavle	N	
-malm	N	
-kommentator	N	
-klinge	N	
-hukommelse	N	
-skri	N#	
-skriving	N	
-revolusjonær	N	
-refleksjon	N	
-opp	N#	
-oppgradering	N	
-maling	N	
-hvete	N	
-freske	N	
-filmskaper	N	
-bruk	N#	
-viktighet	N	
-utveksling	N	
-skuffelse	N	
-sjef	N#	
-sjef	N#	
-sjef	N#	
-sjefredaktør	N	
-keramikk	N	
-flying	N	
-elektronikk	N	
-dråpe	N	
-vol	N#	
-vol	N#	
-vold	N#	
-voldtekt	N	
-utnyttelse	N	
-taxi	N	
-tankegang	N	
-tanke	N#	
-pådriver	N	
-opus	N	
-opp	N#	
-oppføring	N	
-fløyte	N	
-assistanse	N	
-varighet	N	
-under	N#	
-underkant	N	
-sprøyte	N	
-kapellan	N	
-instans	N	
-farm	N	
-strak	N	
-nazisme	N	
-løype	N	
-logikk	N	
-janeiro	N	
-hybrid	N	
-fritid	N	
-friidrettsutøver	N	
-ferje	N	
-nor	N#	
-nor	N#	
-nord	N#	
-keiserinne	N	
-hin	N#	
-hin	N#	
-hind	N#	
-hindring	N	
-demon	N#	
-demonstrant	N	
-bensin	N#	
-bensinstasjon	N	
-ballong	N	
-sat	N#	
-satire	N	
-reproduksjon	N	
-privatperson	N	
-lensherre	N	
-krystall	N	
-knop	N	
-enzym	N	
-utredning	N	
-uk	N#	
-uklar	N	
-middag	N	
-konfrontasjon	N	
-kabel	N	
-fele	N	
-case	N	
-tilfeldighet	N	
-sekt	N	
-cruise	N	
-rom	N#	
-rom	N#	
-romsonde	N	
-overkommando	N	
-inntektskilde	N	
-alge	N	
-ytringsfrihet	N	
-velg	N	
-univers	N	
-nonne	N	
-mosjon	N	
-grend	N	
-for	N#	
-fortolkning	N	
-ettermæle	N	
-disk	N	
-sangerinne	N	
-rustning	N	
-musikk	N#	
-musikkorps	N	
-marxisme	N	
-kre	N#	
-kredit	N#	
-kreditor	N	
-hørsel	N	
-hyre	N	
-hor	N#	
-hormon	N	
-hopper	N	
-vinter	N#	
-vinterstid	N	
-parlamentarisme	N	
-land	N#	
-landkommune	N	
-forstyrrelse	N	
-fell	N	
-ess	N	
-avstamning	N	
-vann	N#	
-vannkraft	N	
-snegl	N	
-regjeringssjef	N	
-paragraf	N	
-moment	N	
-konvoi	N	
-gåte	N	
-farfar	N	
-far	N#	
-bomme	N	
-vis	A#	
-vis	A#	
-vis	A#	
-visdom	N	
-straffesak	N	
-smed	N	
-herr	N#	
-herre	N	
-datering	N	
-ugle	N	
-svømmer	N	
-stund	N#	
-stundom	N	
-sprekk	N	
-spesifikasjon	N	
-natur	N#	
-naturvitenskap	N	
-lungebetennelse	N	
-lunge	N#	
-konspirasjon	N	
-dykker	N	
-diesel	N	
-utsmykning	N	
-torpedo	N	
-sokkel	N	
-liturgi	N	
-interesse	N#	
-interesseorganisasjon	N	
-human	N	
-guide	N	
-action	N	
-ære	N#	
-patron	N	
-nødvendighet	N	
-konsoll	N	
-kapitulasjon	N	
-japan	N	
-uk	N	
-duk	N	
-vik	N	
-skjær	N#	
-skjærgård	N	
-foreslo	N	
-beskyldning	N	
-algoritme	N	
-varde	N	
-vare	N	
-match	N	
-kort	N#	
-kort	A#	
-kortform	N	
-klør	N	
-hertuginne	N	
-beholder	N	
-stk	N	
-sig	N#	
-sigar	N	
-sal	N#	
-salve	N	
-noir	N	
-mikrofon	N	
-steppe	N	
-skjønn	N#	
-skjønn	N#	
-skjønnlitteratur	N	
-miss	N	
-galle	N	
-flamsk	N	
-diplom	N	
-brant	N	
-unnsetning	N	
-under	N#	
-undergang	N	
-påtale	N#	
-påtalemyndighet	N	
-psykiater	N	
-lei	N	
-leid	N	
-fotball	N#	
-fotballkarriere	N	
-vasall	N	
-unnslapp	N	
-petroleum	N	
-målestokk	N	
-gal	A#	
-galakse	N	
-om	N	
-dom	N	
-by	N#	
-bykjerne	N	
-begeistring	N	
-afrikaner	N	
-vri	N	
-mål	N#	
-målsetning	N	
-koalisjonsregjering	N	
-helleristning	N	
-folks	N	
-din	N#	
-dinosaur	N	
-bulle	N	
-øgle	N	
-ål	N	
-ur	N#	
-urbefolkning	N	
-terapi	N	
-nyvinning	N	
-motivasjon	N	
-karakteristikk	N	
-hekt	N#	
-hektar	N	
-vaksine	N	
-pilegrim	N	
-novelle	N#	
-novellesamling	N	
-liberalisme	N	
-inn	N#	
-inntog	N	
-industrialisering	N	
-for	N#	
-forhistorie	N	
-flyger	N	
-vekt	N#	
-vektor	N	
-tronarving	N	
-sykepleie	N	
-seierherre	N	
-seier	N#	
-mask	N	
-madame	N	
-likestilling	N	
-assosiasjon	N	
-philos	N	
-bragd	N	
-sanksjon	N	
-ravn	N	
-kompensasjon	N	
-kane	N	
-bibliotekar	N	
-bibliotek	N#	
-appell	N	
-tilbakegang	N	
-opp	N#	
-oppsving	N	
-granat	N	
-avl	N	
-ve	N#	
-verdensdel	N	
-vann	N#	
-vannføring	N	
-thriller	N	
-rom	N#	
-romferd	N	
-hei	N	
-heis	N	
-forsinkelse	N	
-flystasjon	N	
-fiasko	N	
-videreføring	N	
-terminologi	N	
-skapelse	N	
-sement	N	
-pupp	N	
-pre	N#	
-premiss	N	
-ovn	N	
-liv	N#	
-livvakt	N	
-kokong	N	
-inkvisisjon	N	
-for	N#	
-formulering	N	
-entre	N	
-bulgarsk	N	
-stor	A#	
-storting	N	
-presentasjon	N	
-natur	N#	
-naturgass	N	
-mekanikk	N	
-mais	N	
-klode	N	
-jungel	N	
-inn	N#	
-innsamling	N	
-illusjon	N	
-hymne	N	
-forvalter	N	
-skute	N	
-sensor	N	
-kr	N#	
-invitasjon	N	
-god	A#	
-godkjennelse	N	
-antisemittisme	N	
-person	N#	
-personbil	N	
-livssyn	N	
-initiativtaker	N	
-cash	N	
-uekte	N	
-troskap	N	
-tilførsel	N	
-satsing	N	
-rådighet	N	
-parade	N	
-okkupant	N	
-nøyaktighet	N	
-lytter	N	
-kroppsbygning	N	
-kar	N#	
-karbon	N#	
-karbondioksid	N	
-gård	N#	
-gårdbruker	N	
-erkjennelse	N	
-cent	N	
-bibliografi	N	
-bensin	N#	
-bensinmotor	N	
-bar	N#	
-bar	A#	
-barskog	N	
-allmennhet	N	
-sigøyner	N	
-erle	N	
-brakk	N	
-betjent	N	
-yard	N	
-ve	N#	
-ve	N#	
-ved	N#	
-vedtekt	N	
-samband	N	
-propell	N	
-makthaver	N	
-kanin	N	
-høg	N	
-hån	N#	
-hån	N#	
-hånd	N#	
-håndtering	N	
-ho	N#	
-ho	N#	
-ho	N#	
-hoved	N#	
-hovedregel	N	
-for	N#	
-egn	N	
-dass	N	
-bryter	N	
-bil	N#	
-bilulykke	N	
-sank	N	
-pedagogikk	N	
-nerve	N	
-lo	N#	
-lon	N#	
-london	N	
-leveranse	N	
-isolasjon	N	
-høy	A#	
-høytid	N	
-garanti	N	
-del	N#	
-deltar	N	
-trombone	N	
-studium	N	
-statskirke	N	
-snute	N	
-skepsis	N	
-panikk	N	
-krysning	N	
-katalog	N	
-halvmåne	N	
-bacon	N	
-vit	N	
-vits	N	
-tårne	N	
-thing	N	
-territorial	N	
-rivalisering	N	
-rant	N	
-opp	N#	
-opp	N#	
-opp	N#	
-oppdeling	N	
-om	N#	
-omkom	N	
-nek	N#	
-nektar	N	
-klang	N	
-ho	N#	
-ho	N#	
-ho	N#	
-hoved	N#	
-hovedvekt	N	
-handelsflåte	N	
-fotfeste	N	
-duell	N	
-chief	N	
-bestykning	N	
-vekkelse	N	
-tenk	N	
-skyskraper	N	
-sketsj	N	
-lingvistikk	N	
-jam	N	
-henvendelse	N	
-filolog	N	
-vanske	N	
-stolpe	N	
-sirkulasjon	N	
-sen	A#	
-regulær	N	
-medvirkning	N	
-mark	N#	
-marked	N#	
-markedsandel	N	
-line	N	
-heft	N	
-bær	N#	
-ambulanse	N	
-venninne	N	
-vampyr	N	
-sersjant	N	
-orm	N	
-mr	N	
-matlaging	N	
-intervensjon	N	
-insulin	N	
-hai	N	
-anstrengelse	N	
-annonse	N	
-abstrakt	N	
-terrasse	N	
-strofe	N	
-silke	N	
-serie	N#	
-seriekamp	N	
-samarbeidspartner	N	
-radius	N	
-radius	N	
-prestisje	N	
-pedagog	N	
-nål	N	
-meie	N#	
-mappe	N	
-kennel	N	
-improvisasjon	N	
-heraldikk	N	
-forespørsel	N	
-bunke	N	
-boble	N	
-befolkningsgruppe	N	
-avvisning	N	
-østerriker	N	
-modifikasjon	N	
-mit	N#	
-midt	N#	
-midtstopper	N	
-klatrer	N	
-kasse	N	
-hedning	N	
-friksjon	N	
-forhandler	N	
-fengselsstraff	N	
-velsignelse	N	
-snur	N	
-overlevering	N	
-nykommer	N	
-mutasjon	N	
-lege	N#	
-legering	N	
-lag	N#	
-lagmann	N	
-kasus	N	
-innbytter	N	
-gummi	N	
-gotikk	N	
-god	A#	
-godkjenning	N	
-animasjon	N	
-straff	N#	
-skråning	N	
-sf	N#	
-sfære	N	
-røyking	N	
-presse	N#	
-pressekonferanse	N	
-grunn	N#	
-grunneier	N	
-fornyelse	N	
-endelse	N	
-diskriminering	N	
-botanikk	N	
-bolsjevik	N	
-tokt	N	
-sør	N#	
-sørsamisk	N	
-sjø	N#	
-sjørøver	N	
-reaktor	N	
-marki	N	
-mak	N	
-kjører	N	
-kartlegging	N	
-hei	N	
-fordypning	N	
-fenrik	N	
-by	N#	
-byte	N	
-brie	N	
-bekjempelse	N	
-veto	N	
-tyrann	N	
-sosiolog	N	
-slager	N	
-rug	N	
-opp	N#	
-oppdragelse	N	
-niese	N	
-mor	N	
-mors	N	
-litterat	N#	
-litteratur	N#	
-litteraturkritiker	N	
-første	A#	
-førsteamanuensis	N	
-due	N	
-blødning	N	
-syn	N#	
-syntese	N	
-starr	N	
-romanse	N	
-pion	N	
-mosaikk	N	
-kobling	N	
-klassifikasjon	N	
-husmannsplass	N	
-frem	N#	
-anseelse	N	
-utryddelse	N	
-synsvinkel	N	
-sponsor	N	
-sen	A#	
-sensur	N	
-rase	N#	
-poll	N	
-plantasje	N	
-inn	N#	
-innbytte	N	
-ho	N#	
-ho	N#	
-ho	N#	
-hoved	N#	
-hovedbase	N	
-ccm	N	
-beundring	N	
-befruktning	N	
-voll	N	
-vifte	N	
-under	N#	
-tese	N	
-sule	N	
-stillhet	N	
-sjokk	N	
-siv	N#	
-sivil	A#	
-sivilingeniør	N	
-sambo	N	
-reportasje	N	
-psykiatri	N	
-pen	A#	
-penis	N	
-mo	N	
-mo	N	
-hank	N	
-fred	N#	
-fredstid	N	
-spiral	N	
-pek	N	
-opp	N#	
-opp	N#	
-opp	N#	
-oppdrift	N	
-kontingent	N	
-kollisjon	N	
-kol	N#	
-kollaps	N	
-jord	N#	
-jordskorpe	N	
-inn	N#	
-innvielse	N	
-geolog	N	
-frem	N#	
-fremføring	N	
-for	N#	
-filmatisering	N	
-fast	A#	
-estetikk	N	
-applikasjon	N	
-anskaffelse	N	
-aks	N#	
-aksjonær	N	
-spring	N	
-speed	N	
-overgivelse	N	
-målsetting	N	
-kostyme	N	
-kiosk	N	
-idrettsutøver	N	
-hop	N	
-spole	N	
-regning	N	
-preke	N	
-ode	N	
-nisse	N	
-mit	N#	
-mit	N#	
-mit	N#	
-midt	N#	
-midt	N#	
-midt	N#	
-midtveis	N	
-låve	N	
-integrasjon	N	
-for	N#	
-forbrenning	N	
-elegant	N	
-dødelighet	N	
-damp	N#	
-dampmaskin	N	
-biolog	N	
-avsløring	N	
-vertikal	N	
-teatersjef	N	
-svovel	N	
-ram	N	
-lavtrykk	N	
-kvalifiseringskamp	N	
-kronprinsesse	N	
-inn	N#	
-innpass	N	
-herjing	N	
-gall	N	
-frakt	N	
-for	N#	
-forlik	N	
-tørr	N#	
-tørr	A#	
-tørrfisk	N	
-stolthet	N	
-skrog	N	
-shipping	N	
-rås	N	
-rehabilitering	N	
-pigg	N	
-modernisme	N	
-lokalisering	N	
-evakuering	N	
-buk	N#	
-brakke	N	
-æresdoktor	N	
-unnskyldning	N	
-politi	N#	
-politistasjon	N	
-mg	N	
-globalisering	N	
-flaggermus	N	
-basse	N	
-amtmann	N	
-topografi	N	
-sink	N	
-salme	N#	
-salmebok	N	
-palle	N	
-muse	N	
-mo	N#	
-modus	N	
-meditasjon	N	
-kølle	N	
-kran	N	
-krans	N	
-korrespondanse	N	
-juledag	N	
-gjengivelse	N	
-forfatterforening	N	
-forfatter	N#	
-flod	N	
-flo	N	
-ferd	N#	
-ferdsel	N	
-drakk	N	
-arbeidstaker	N	
-utforskning	N	
-troll	N#	
-troll	N#	
-troll	N#	
-trolldom	N	
-tangent	N	
-spøk	N	
-rus	N	
-pro	N#	
-proporsjon	N	
-oh	N	
-mandarin	N	
-klatring	N	
-generator	N	
-forsvarsspiller	N	
-for	N#	
-for	N#	
-forsikring	N	
-bukk	N	
-bo	N#	
-boring	N	
-bestanddel	N	
-bestand	N#	
-audition	N	
-abonnent	N	
-utdanningsinstitusjon	N	
-urne	N	
-tamil	N	
-symbolikk	N	
-stengel	N	
-sik	N#	
-sikring	N	
-reprise	N	
-presis	N	
-opp	N#	
-oppblomstring	N	
-om	N#	
-omdreining	N	
-muskulatur	N	
-kurder	N	
-karikatur	N	
-jo	N#	
-entreprenør	N	
-bortgang	N	
-akkord	N	
-tilnavn	N	
-smugling	N	
-smie	N	
-rekruttering	N	
-opinion	N	
-mors	N#	
-lån	N#	
-helium	N	
-filologi	N	
-feide	N	
-betennelse	N	
-auto	N	
-arbeidsløshet	N	
-aggresjon	N	
-world	N	
-vann	N#	
-vannstand	N	
-utfordrer	N	
-utbytte	N	
-trondheim	N	
-torsk	N	
-swing	N	
-sveit	N	
-spørsmålstegn	N	
-sele	N	
-punktum	N	
-pub	N#	
-publisering	N	
-overvekt	N	
-om	N#	
-omorganisering	N	
-kalif	N	
-brenning	N	
-syssel	N#	
-sysselmann	N	
-subjekt	N	
-statsadvokat	N	
-marinebase	N	
-ledning	N	
-kaie	N	
-falanks	N	
-ve	N#	
-ve	N#	
-ved	N#	
-utgraving	N	
-smi	N	
-slynge	N	
-siv	N#	
-sivil	A#	
-sivilbefolkning	N	
-scandinavian	N	
-permisjon	N	
-kroater	N	
-knokkel	N	
-grafiker	N	
-foredragsholder	N	
-dramatikk	N	
-bed	N#	
-bedring	N	
-annal	N	
-æresbevisning	N	
-vene	N	
-toll	N	
-tegl	N	
-suite	N	
-sirkus	N	
-rele	N#	
-relevant	N	
-palme	N	
-nyanse	N	
-lem	N	
-laboratorium	N	
-identifisering	N	
-ho	N#	
-ho	N#	
-ho	N#	
-hoved	N#	
-hovednæring	N	
-fiksjon	N	
-favør	N	
-beredskap	N	
-autonomi	N	
-utrustning	N	
-tolk	N	
-spor	N#	
-sporvei	N	
-spesialisering	N	
-ros	N#	
-redning	N	
-or	N#	
-mein	N	
-maritim	N	
-klinikk	N	
-hird	N	
-ernæring	N	
-drake	N	
-bo	N#	
-bok	N#	
-bokhandel	N	
-bilde	N#	
-bildebok	N	
-bekreftelse	N	
-behandler	N	
-ange	N	
-utvandring	N	
-sertifikat	N	
-politi	N#	
-politimester	N	
-parti	N#	
-partisan	N	
-manual	N	
-lesning	N	
-kalsium	N	
-høyttaler	N	
-giro	N	
-gambling	N	
-folkevise	N	
-celsius	N	
-bygg	N#	
-byggmester	N	
-skipper	N	
-serve	N	
-protestantisme	N	
-prognose	N	
-or	N#	
-ordinasjon	N	
-kvensk	N	
-idrettshall	N	
-hamp	N	
-filming	N	
-erosjon	N	
-entusiasme	N	
-cannabis	N	
-arterie	N	
-ansettelse	N	
-tett	A#	
-tettbebyggelse	N	
-sonate	N	
-røk	N	
-presisjon	N	
-musical	N	
-lend	N#	
-lendmann	N	
-imperialisme	N	
-forkynnelse	N	
-dirk	N	
-vann	N#	
-vannmasse	N	
-utmark	N	
-trosse	N	
-tilbehør	N	
-svingning	N	
-seiling	N	
-prostitusjon	N	
-pil	N#	
-pilar	N	
-mottar	N	
-modul	N	
-kløft	N	
-hurtighet	N	
-energi	N#	
-energikilde	N	
-drosje	N	
-vise	N#	
-vise	N#	
-viseformann	N	
-vending	N	
-tare	N	
-skulptør	N	
-skilpadde	N	
-sikh	N	
-olivenolje	N	
-mr	N	
-mrs	N	
-mon	N#	
-montering	N	
-krig	N#	
-krigstid	N	
-inventar	N	
-harding	N#	
-hardingfele	N	
-frimurer	N	
-blod	N#	
-blodtrykk	N	
-astrologi	N	
-ve	N#	
-veterinær	N	
-stopper	N	
-prikk	N	
-kondensator	N	
-juss	N	
-ironi	N	
-fyll	N	
-frem	N#	
-fall	N#	
-fallskjerm	N	
-beundrer	N	
-avlat	N	
-vik	N#	
-vikar	N	
-under	N#	
-underskrift	N	
-terning	N	
-te	N#	
-tango	N	
-stor	A#	
-storkommune	N	
-samvittighet	N	
-rektangulær	N	
-påpekt	N	
-psykoanalyse	N	
-paraplyorganisasjon	N	
-opsjon	N	
-løpe	N#	
-løpebane	N	
-lin	N	
-lind	N	
-ho	N#	
-ho	N#	
-ho	N#	
-hoved	N#	
-hovedkirke	N	
-gud	N#	
-gudfar	N	
-etterforsker	N	
-drog	N	
-brille	N	
-bestselger	N	
-autonom	N	
-trekk	N#	
-trekkfugl	N	
-slim	N#	
-slimhinne	N	
-ri	N#	
-rett	N#	
-rett	A#	
-rettskrivning	N	
-pant	N	
-om	N#	
-omlegging	N	
-mobilisering	N	
-kringkasting	N	
-estimat	N	
-diagonal	N	
-boulevard	N	
-blomstring	N	
-avskaffelse	N	
-ve	N#	
-veps	N	
-svømming	N	
-stevn	N	
-sesjon	N	
-sekretariat	N	
-rull	N	
-opp	N#	
-opptakt	N	
-ode	N	
-ode	N	
-odde	N	
-minus	N	
-kandidat	N#	
-kandidatur	N	
-granskning	N	
-franc	N	
-bak	N#	
-antologi	N	
-ank	N	
-akse	N#	
-akselerasjon	N	
-vær	N#	
-stilk	N	
-opp	N#	
-oppdatering	N	
-marskalk	N	
-kokain	N	
-injeksjon	N	
-gjæring	N	
-forsterker	N	
-eks	N#	
-eksakt	N	
-dvale	N	
-curling	N	
-cello	N	
-antropologi	N	
-utholdenhet	N	
-påkjenning	N	
-omveltning	N	
-monolog	N	
-løkke	N	
-klimaendring	N	
-king	N#	
-king	N#	
-king	N#	
-kingdom	N	
-katode	N	
-fotball	N#	
-fotball	N#	
-fotballstadion	N	
-femte	A#	
-femteplass	N	
-dyd	N	
-argumentasjon	N	
-tomat	N	
-te	N#	
-tele	N#	
-telekommunikasjon	N	
-siv	N#	
-sivil	A#	
-siviløkonom	N	
-ro	N#	
-pors	N	
-nomade	N	
-frem	N#	
-frem	N#	
-frem	N#	
-fremdrift	N	
-forlovelse	N	
-dogme	N	
-dekor	N	
-bokhandler	N	
-barrier	N	
-banan	N	
-anmodning	N	
-virkemåte	N	
-separat	A#	
-separatutstilling	N	
-samurai	N	
-renhet	N	
-prolog	N	
-otte	N	
-nestformann	N	
-mol	N	
-kjennelse	N	
-kirurgi	N	
-hundekjøring	N	
-fjerning	N	
-dispensasjon	N	
-båt	N#	
-båttype	N	
-arie	N	
+å	N	Msc
+om	N	Msc
+anne	N	Msc
+sin	N	Msc
+inn	N	Msc
+hans	N	Msc
+opp	N	Msc
+man	N	Msc
+blant	N	Msc
+enn	N	Msc
+isse	N	Msc
+båe	N	Msc
+of	N	Msc
+tysk	N	Msc
+vise	N	Msc
+oslo	N	Msc
+kong	N	Msc
+slutt	N	Msc
+verd	N	Msc
+isse	N	Msc
+sønn	N	Msc
+engelsk	N	Msc
+gange	N	Msc
+hans	N	Msc
+innbygger	N	Msc
+km	N	Msc
+nor	N	Msc
+mars	N	Msc
+frem	N	Msc
+person	N	Msc
+fordi	N	Msc
+ho	N	Msc
+erme	N	Msc
+båe	N	Msc
+album	N	Msc
+ulik	N	Msc
+fransk	N	Msc
+serie	N	Msc
+state	N	Msc
+kr	N	Msc
+verdenskrig	N	Msc
+fikk	N	Msc
+million	N	Msc
+sesong	N	Msc
+svensk	N	Msc
+pave	N	Msc
+omkring	N	Msc
+delstat	N	Msc
+anne	N	Msc
+vest	N	Msc
+klubb	N	Msc
+kardinal	N	Msc
+om	N	Msc
+sentral	N	Msc
+opp	N	Msc
+president	N	Msc
+or	N	Msc
+london	N	Msc
+berg	N	Msc
+regjering	N	Msc
+type	N	Msc
+stasjon	N	Msc
+befolkning	N	Msc
+århundre	N	Msc
+spiller	N	Msc
+skille	N	Msc
+anne	N	Msc
+aldri	N	Msc
+musikk	N	Msc
+dansk	N	Msc
+man	N	Msc
+gresk	N	Msc
+von	N	Msc
+hovedstad	N	Msc
+inn	N	Msc
+kom	N	Msc
+linje	N	Msc
+handling	N	Msc
+bøk	N	Msc
+tittel	N	Msc
+york	N	Msc
+region	N	Msc
+produksjon	N	Msc
+norsk	N	Msc
+eks	N	Msc
+felle	N	Msc
+tross	N	Msc
+biskop	N	Msc
+eks	N	Msc
+bakgrunn	N	Msc
+pari	N	Msc
+paris	N	Msc
+karriere	N	Msc
+karriere	N	Msc
+roman	N	Msc
+versjon	N	Msc
+betegnelse	N	Msc
+lette	N	Msc
+tilfelle	N	Msc
+helle	N	Msc
+nor	N	Msc
+italiensk	N	Msc
+gift	N	Msc
+bydel	N	Msc
+provins	N	Msc
+suksess	N	Msc
+trondheim	N	Msc
+park	N	Msc
+politiker	N	Msc
+myndighet	N	Msc
+tjeneste	N	Msc
+republikk	N	Msc
+bane	N	Msc
+spansk	N	Msc
+or	N	Msc
+or	N	Msc
+orden	N	Msc
+sel	N	Msc
+mit	N	Msc
+modell	N	Msc
+berlin	N	Msc
+interesse	N	Msc
+prise	N	Msc
+divisjon	N	Msc
+voks	N	Msc
+roll	N	Msc
+variant	N	Msc
+teori	N	Msc
+fange	N	Msc
+sammenheng	N	Msc
+ledelse	N	Msc
+musikk	N	Msc
+motor	N	Msc
+professor	N	Msc
+prøve	N	Msc
+bevegelse	N	Msc
+foran	N	Msc
+is	N	Msc
+statsminister	N	Msc
+topp	N	Msc
+sei	N	Msc
+seier	N	Msc
+reis	N	Msc
+avdeling	N	Msc
+cm	N	Msc
+kjempe	N	Msc
+em	N	Msc
+motsetning	N	Msc
+gud	N	Msc
+plate	N	Msc
+mm	N	Msc
+sang	N	Msc
+sanger	N	Msc
+uk	N	Msc
+utgave	N	Msc
+konflikt	N	Msc
+økonomi	N	Msc
+posisjon	N	Msc
+figur	N	Msc
+hvite	N	Msc
+episode	N	Msc
+vant	N	Msc
+bestem	N	Msc
+erkebiskop	N	Msc
+pop	N	Msc
+general	N	Msc
+skotsk	N	Msc
+japan	N	Msc
+bruker	N	Msc
+pol	N	Msc
+egenskap	N	Msc
+hendelse	N	Msc
+san	N	Msc
+verdi	N	Msc
+status	N	Msc
+kontakt	N	Msc
+innflytelse	N	Msc
+student	N	Msc
+opprinnelse	N	Msc
+kritikk	N	Msc
+forskjell	N	Msc
+hertug	N	Msc
+stil	N	Msc
+flyplass	N	Msc
+utgivelse	N	Msc
+riksvei	N	Msc
+vene	N	Msc
+rift	N	Msc
+kanal	N	Msc
+is	N	Msc
+funksjon	N	Msc
+metode	N	Msc
+rift	N	Msc
+drift	N	Msc
+københavn	N	Msc
+presse	N	Msc
+studie	N	Msc
+prosess	N	Msc
+unge	N	Msc
+revolusjon	N	Msc
+informasjon	N	Msc
+religion	N	Msc
+musiker	N	Msc
+praksis	N	Msc
+japansk	N	Msc
+orre	N	Msc
+effekt	N	Msc
+herre	N	Msc
+meie	N	Msc
+mexico	N	Msc
+museum	N	Msc
+forskning	N	Msc
+endring	N	Msc
+gran	N	Msc
+irsk	N	Msc
+koloni	N	Msc
+jarl	N	Msc
+redaktør	N	Msc
+havn	N	Msc
+historiker	N	Msc
+energi	N	Msc
+trone	N	Msc
+festning	N	Msc
+latin	N	Msc
+nærhet	N	Msc
+jobb	N	Msc
+brite	N	Msc
+operasjon	N	Msc
+ni	N	Msc
+scene	N	Msc
+stilling	N	Msc
+stand	N	Msc
+brann	N	Msc
+konkurranse	N	Msc
+fotballspiller	N	Msc
+sentral	N	Msc
+fjor	N	Msc
+sentral	N	Msc
+jan	N	Msc
+motstand	N	Msc
+motstander	N	Msc
+stockholm	N	Msc
+fjor	N	Msc
+fjord	N	Msc
+score	N	Msc
+utdanning	N	Msc
+bedrift	N	Msc
+poeng	N	Msc
+fan	N	Msc
+natur	N	Msc
+tank	N	Msc
+forsker	N	Msc
+mengd	N	Msc
+arkitekt	N	Msc
+union	N	Msc
+populær	N	Msc
+temperatur	N	Msc
+kunstner	N	Msc
+tilhenger	N	Msc
+magnus	N	Msc
+rune	N	Msc
+runde	N	Msc
+handel	N	Msc
+kong	N	Msc
+dato	N	Msc
+viss	N	Msc
+kg	N	Msc
+industri	N	Msc
+polsk	N	Msc
+borgerkrig	N	Msc
+pro	N	Msc
+utdannelse	N	Msc
+invasjon	N	Msc
+streng	N	Msc
+kanon	N	Msc
+tropp	N	Msc
+standard	N	Msc
+ving	N	Msc
+turnering	N	Msc
+plate	N	Msc
+nr	N	Msc
+mit	N	Msc
+midt	N	Msc
+kontrakt	N	Msc
+forening	N	Msc
+års	N	Msc
+rute	N	Msc
+washington	N	Msc
+san	N	Msc
+mørk	N	Msc
+bakk	N	Msc
+tilstand	N	Msc
+bygging	N	Msc
+kaptein	N	Msc
+sveit	N	Msc
+klubb	N	Msc
+world	N	Msc
+idag	N	Msc
+vekst	N	Msc
+beskrivelse	N	Msc
+militær	N	Msc
+finale	N	Msc
+tur	N	Msc
+ør	N	Msc
+innsats	N	Msc
+finsk	N	Msc
+pasient	N	Msc
+fabrikk	N	Msc
+gran	N	Msc
+grand	N	Msc
+general	N	Msc
+ekspedisjon	N	Msc
+tunnel	N	Msc
+militær	N	Msc
+original	N	Msc
+sjel	N	Msc
+sjel	N	Msc
+kreft	N	Msc
+hovedsak	N	Msc
+mangel	N	Msc
+lign	N	Msc
+festival	N	Msc
+hann	N	Msc
+gitar	N	Msc
+enorm	N	Msc
+dal	N	Msc
+formann	N	Msc
+anne	N	Msc
+arne	N	Msc
+menighet	N	Msc
+filosofi	N	Msc
+hunn	N	Msc
+direktør	N	Msc
+natur	N	Msc
+industri	N	Msc
+lar	N	Msc
+Lars	N	Msc
+kong	N	Msc
+konge	N	Msc
+teknikk	N	Msc
+tom	N	Msc
+red	N	Msc
+rap	N	Msc
+tier	N	Msc
+hån	N	Msc
+king	N	Msc
+karakter	N	Msc
+lufthavn	N	Msc
+hovedrolle	N	Msc
+jernbane	N	Msc
+singel	N	Msc
+oppmerksomhet	N	Msc
+reis	N	Msc
+overgang	N	Msc
+ve	N	Msc
+øy	N	Msc
+maskin	N	Msc
+jakt	N	Msc
+utbredelse	N	Msc
+biografi	N	Msc
+insekt	N	Msc
+leir	N	Msc
+base	N	Msc
+vise	N	Msc
+cup	N	Msc
+stadion	N	Msc
+byge	N	Msc
+slave	N	Msc
+manager	N	Msc
+eksemplar	N	Msc
+leg	N	Msc
+frem	N	Msc
+innspilling	N	Msc
+herr	N	Msc
+rune	N	Msc
+allianse	N	Msc
+jernbane	N	Msc
+guvernør	N	Msc
+geografi	N	Msc
+fotballklubb	N	Msc
+deriblant	N	Msc
+stiftelse	N	Msc
+dommer	N	Msc
+celle	N	Msc
+bombe	N	Msc
+definisjon	N	Msc
+kombinasjon	N	Msc
+ferd	N	Msc
+borg	N	Msc
+borger	N	Msc
+løsning	N	Msc
+mur	N	Msc
+ungdom	N	Msc
+bibel	N	Msc
+spesial	N	Msc
+lo	N	Msc
+los	N	Msc
+kandidat	N	Msc
+kommando	N	Msc
+oversettelse	N	Msc
+leire	N	Msc
+mytologi	N	Msc
+overflate	N	Msc
+organ	N	Msc
+regissør	N	Msc
+club	N	Msc
+frihet	N	Msc
+amerikaner	N	Msc
+sogn	N	Msc
+min	N	Msc
+bosetning	N	Msc
+reform	N	Msc
+press	N	Msc
+prinsesse	N	Msc
+møte	N	Msc
+inntekt	N	Msc
+tilgang	N	Msc
+opprettelse	N	Msc
+sigurd	N	Msc
+flat	N	Msc
+referanse	N	Msc
+vekk	N	Msc
+kommunikasjon	N	Msc
+dollar	N	Msc
+ar	N	Msc
+arkitektur	N	Msc
+slette	N	Msc
+sikkerhet	N	Msc
+nasjonalpark	N	Msc
+datamaskin	N	Msc
+ve	N	Msc
+milliard	N	Msc
+serie	N	Msc
+kritiker	N	Msc
+vegg	N	Msc
+student	N	Msc
+medisin	N	Msc
+ho	N	Msc
+napoleon	N	Msc
+utbygging	N	Msc
+tilknytning	N	Msc
+iran	N	Msc
+finn	N	Msc
+andel	N	Msc
+universitet	N	Msc
+mit	N	Msc
+of	N	Msc
+di	N	Msc
+afghanistan	N	Msc
+etterkommer	N	Msc
+bayern	N	Msc
+tabell	N	Msc
+design	N	Msc
+hensyn	N	Msc
+olje	N	Msc
+teknologi	N	Msc
+vinn	N	Msc
+vinner	N	Msc
+kategori	N	Msc
+rock	N	Msc
+college	N	Msc
+forsvant	N	Msc

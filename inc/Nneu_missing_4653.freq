@@ -1,789 +1,189 @@
-for	N	
-under	N	
-sted	N	
-føre	N	
-følge	N	
-eksempel	N	
-slag	N	
-lag	N	
-album	N	
-løp	N	
-for	N#	
-forhold	N	
-skip	N	
-antall	N	
-styre	N	
-problem	N	
-lokale	N	
-verk	N	
-le	N	
-led	N	
-resultat	N	
-inn	N#	
-hel	A#	
-sto	N	
-krav	N	
-angrep	N	
-tilde	N#	
-for	N#	
-forsøk	N	
-begrep	N	
-yr	N	
-parlament	N	
-minne	N	
-egen	A#	
-fall	N	
-tap	N	
-for	N#	
-unntak	N	
-sti	N#	
-kraft	N#	
-kraftverk	N	
-museum	N	
-tidspunkt	N	
-opp	N#	
-for	N#	
-forsvar	N	
-opp	N#	
-oppdrag	N	
-behov	N	
-blad	N	
-for	N#	
-formål	N	
-siv	N#	
-nivå	N	
-funn	N	
-materiale	N	
-land	N#	
-landskap	N	
-forbund	N	
-symbol	N	
-marked	N	
-år	N	
-anlegg	N	
-produkt	N	
-frem	N#	
-stoff	N	
-gir	N	
-sykehus	N	
-besøk	N	
-sei	N#	
-hvem	N	
-får	N	
-eng	N#	
-england	N	
-drap	N	
-sete	N	
-land	N#	
-landslag	N	
-salg	N	
-tonn	N	
-maleri	N	
-trekk	N	
-henhold	N	
-sekund	N	
-styr	N	
-yrke	N	
-nederlag	N	
-far	N#	
-fartøy	N	
-kontor	N	
-bevis	N	
-utland	N	
-tiår	N	
-tilsvar	N	
-mesterskap	N	
-mester	N#	
-fyr	N	
-bidrag	N	
-mannskap	N	
-bibliotek	N	
-fast	A#	
-fastland	N	
-utvalg	N	
-rek	N#	
-mord	N	
-preg	N	
-hoff	N	
-høg	N#	
-høg	A#	
-jord	N#	
-jordbruk	N	
-nettverk	N	
-skuespill	N	
-tiltak	N	
-idrettslag	N	
-kommunistparti	N	
-initiativ	N	
-opp	N#	
-opphold	N	
-stab	N#	
-opp	N#	
-bil	N#	
-departement	N	
-strøk	N	
-sverd	N	
-om	N#	
-om	N#	
-il	N	
-statsråd	N	
-bal	N#	
-kontinent	N	
-kjønn	N	
-demokrati	N	
-for	N#	
-inn	N#	
-innslag	N	
-mon	N#	
-team	N	
-is	N#	
-dynasti	N	
-element	N	
-hol	N	
-om	N#	
-senat	N	
-kapell	N	
-ho	N#	
-ho	N#	
-ho	N#	
-hoved	N#	
-hovedkontor	N	
-hol	N	
-eks	N#	
-eksil	N	
-faktum	N	
-hotell	N	
-utløp	N	
-land	N#	
-landbruk	N	
-for	N#	
-forbud	N	
-folketall	N	
-øye	N#	
-øyeblikk	N	
-frem	N#	
-hjem	N#	
-hjemland	N	
-gjel	N	
-høyde	N#	
-høydepunkt	N	
-glo	N#	
-metall	N	
-inn	N#	
-opp	N#	
-opplag	N	
-snakk	N	
-sel	N#	
-selvmord	N	
-arsenal	N	
-dekk	N	
-opp	N#	
-opptak	N	
-ve	N#	
-ve	N#	
-ved	N#	
-vedtak	N	
-tyskland	N	
-tysk	N#	
-tysk	A#	
-boligbyggelag	N	
-kavaleri	N	
-infanteri	N	
-individ	N	
-hjul	N	
-forfatterskap	N	
-forfatter	N#	
-monarki	N	
-pund	N	
-engasjement	N	
-skjold	N	
-regiment	N	
-for	N#	
-råd	N#	
-rådhus	N	
-kull	N	
-verdensmesterskap	N	
-verdensmester	N#	
-signal	N	
-for	N#	
-for	N#	
-forbi	N#	
-forbilde	N	
-fangenskap	N	
-øk	N	
-kommune	N#	
-kommunestyre	N	
-rekke	N#	
-arrangement	N	
-fellesskap	N	
-nederland	N	
-for	N#	
-nedbør	N	
-krigsskip	N	
-kast	N	
-mang	N#	
-dødsfall	N	
-mark	N#	
-marked	N#	
-mel	N#	
-medlem	N#	
-medlemskap	N	
-akademi	N	
-vass	N#	
-vassdrag	N	
-galleri	N	
-artilleri	N	
-yrke	N	
-fotballag	N	
-våpenskjold	N	
-barnebarn	N	
-bruksområde	N	
-seil	N	
-monument	N	
-batteri	N	
-verk	N#	
-verksted	N	
-steg	N	
-by	N#	
-bystyre	N	
-stål	N	
-arbeider	N#	
-arbeiderparti	N	
-personell	N	
-far	N#	
-farvann	N	
-ark	N	
-kul	N#	
-kul	A#	
-kultur	N#	
-kulturminne	N	
-folkeparti	N	
-sinn	N	
-ve	N#	
-venn	N#	
-vennskap	N	
-overhode	N	
-pol	N	
-bryggeri	N	
-prof	N#	
-vilkår	N	
-høy	A#	
-spark	N	
-lager	N	
-slaveri	N	
-fravær	N	
-snitt	N	
-skrift	N#	
-skriftspråk	N	
-konsern	N	
-oppgjør	N	
-ferskvann	N	
-fersk	A#	
-horn	N	
-frø	N	
-synspunkt	N	
-virkemiddel	N	
-avvik	N#	
-hell	N	
-vedlikehold	N	
-datterselskap	N	
-renn	N	
-sig	N	
-vern	N	
-hospital	N	
-for	N#	
-materiell	N	
-kirke	N#	
-kirkesamfunn	N	
-syk	N#	
-syk	A#	
-prosti	N	
-leder	N#	
-lederskap	N	
-attentat	N	
-stortingsvalg	N	
-slekt	N#	
-slektskap	N	
-rederi	N	
-kongehus	N	
-konge	N#	
-apotek	N	
-drivstoff	N	
-utfall	N	
-verft	N	
-vare	N#	
-varemerke	N	
-styre	N#	
-styremedlem	N	
-orgel	N	
-fotball	N#	
-fotballforbund	N	
-minnesmerke	N	
-kon	N	
-overskudd	N	
-bygg	N#	
-byggverk	N	
-ho	N#	
-ho	N#	
-ho	N#	
-hoved	N#	
-hovedsete	N	
-bolig	N#	
-boligområde	N	
-overgrep	N	
-kjøp	N	
-lang	A#	
-langrenn	N	
-troll	N	
-null	N	
-fond	N	
-kår	N	
-skottland	N	
-argument	N	
-statsborgerskap	N	
-statsborger	N#	
-ekte	A#	
-ektepar	N	
-diplomati	N	
-norgesmesterskap	N	
-norgesmester	N#	
-stand	N#	
-standpunkt	N	
-bok	N#	
-bokmål	N	
-aksje	N#	
-aksje	N#	
-aksjeselskap	N	
-nebb	N	
-nabo	N#	
-naboland	N	
-skade	N#	
-skade	N#	
-skade	N#	
-skadedyr	N	
-hån	N#	
-hån	N#	
-hånd	N#	
-håndverk	N	
-bo	N#	
-borettslag	N	
-frank	N#	
-frankrike	N	
-forn	N#	
-bol	N	
-kje	N#	
-kjennskap	N	
-dyreliv	N	
-speil	N	
-ho	N#	
-ho	N#	
-ho	N#	
-hoved	N#	
-hovedverk	N	
-helvete	N	
-utkast	N	
-høyland	N	
-høy	A#	
-etterspill	N	
-segl	N	
-inn	N#	
-inntak	N	
-samtykke	N	
-testament	N	
-fiske	N#	
-fiskevær	N	
-nær	N#	
-nærvær	N	
-slag	N#	
-slagord	N	
-raid	N	
-forum	N	
-bispesete	N	
-utslag	N	
-postkontor	N	
-medlemsland	N	
-beløp	N	
-fundament	N	
-comeback	N	
-arbeider	N#	
-arbeiderblad	N	
-katedral	N#	
-hjem	N#	
-hjemsted	N	
-sitat	N	
-å	N#	
-åsted	N	
-sunn	N	
-kjøl	N#	
-kjølvann	N	
-ho	N#	
-syn	N#	
-syn	N#	
-synd	N#	
-syndrom	N	
-virvel	N#	
-virvel	N#	
-virvel	N#	
-virveldyr	N	
-samsvar	N	
-smug	N#	
-mineral	N	
-sol	N#	
-solsystem	N	
-lov	N#	
-lovverk	N	
-monopol	N	
-kunstverk	N	
-dal	N#	
-dalføre	N	
-kommunevalg	N	
-kommune	N#	
-kapitel	N	
-blikk	N	
-grep	N	
-anslag	N	
-tilhold	N	
-karosseri	N	
-apparat	N	
-inn	N#	
-inngrep	N	
-for	N#	
-forbruk	N	
-fellestrekk	N	
-avvik	N	
-eksperiment	N	
-sær	N#	
-særpreg	N	
-orlogsflagg	N	
-gårdsbruk	N	
-ensemble	N	
-sag	N#	
-sagbruk	N	
-uhell	N	
-skog	N#	
-skogbruk	N	
-hav	N#	
-havområde	N	
-kvad	N	
-radio	N#	
-radio	N#	
-radioprogram	N	
-års	N#	
-årstall	N	
-sentral	N#	
-sentral	A#	
-sentralstyre	N	
-sjø	N#	
-sjøfolk	N	
-hierarki	N	
-eple	N	
-om	N#	
-omslag	N	
-tilskudd	N	
-arrondissement	N	
-trykkeri	N	
-møbel	N	
-smykke	N	
-kvartal	N	
-for	N#	
-forfall	N	
-bil	N#	
-bilmerke	N	
-sko	N#	
-skoleår	N	
-skole	N#	
-ho	N#	
-ho	N#	
-ho	N#	
-hoved	N#	
-misbruk	N	
-teppe	N	
-fiskeri	N	
-mo	N#	
-molekyl	N	
-jag	N	
-under	N#	
-underlag	N	
-tilholdssted	N	
-skjell	N	
-regelverk	N	
-regel	N#	
-sto	N#	
-le	N#	
-gissel	N	
-for	N#	
-forløp	N	
-samspill	N	
-nor	N#	
-nor	N#	
-nord	N#	
-nordland	N	
-menneske	N#	
-menneskeliv	N	
-kosthold	N	
-søk	N	
-stipend	N	
-forræderi	N	
-vene	N#	
-vendepunkt	N	
-avfall	N	
-for	N#	
-formannskap	N	
-fe	N#	
-statsbudsjett	N	
-likn	N	
-irland	N	
-inn	N#	
-inntekt	N#	
-bo	N#	
-bosted	N	
-tak	N#	
-festspill	N	
-drikke	N#	
-drikkevann	N	
-frimerke	N	
-finans	N#	
-finansdepartement	N	
-aristokrati	N	
-far	N#	
-anfall	N	
-utlån	N	
-olje	N#	
-olje	N#	
-oljeselskap	N	
-herred	N	
-fåtall	N	
-fyr	N#	
-fyrtårn	N	
-brorskap	N	
-di	N#	
-lår	N	
-lokallag	N	
-farge	N#	
-fargerike	N	
-æresmedlem	N	
-sakrament	N	
-presteskap	N	
-kon	N#	
-stell	N	
-gjenvalg	N	
-spektrum	N	
-foto	N	
-deutschland	N	
-befal	N	
-gal	A#	
-emblem	N	
-nerve	N#	
-nervesystem	N	
-sunn	N#	
-sunn	N#	
-sunn	A#	
-sunn	A#	
-sunnhordland	N	
-opp	N#	
-oppkjøp	N	
-folk	N	
-søkn	N	
-ansvarsområde	N	
-regn	N#	
-regnskap	N	
-overtak	N	
-lær	N	
-skjul	N	
-tegn	N#	
-tegnspråk	N	
-mit	N#	
-midt	N#	
-midtpunkt	N	
-inn	N#	
-innkjøp	N	
-utdrag	N	
-russ	N#	
-russland	N	
-stor	A#	
-storting	N	
-tyngde	N#	
-tyngdepunkt	N	
-heimevern	N	
-eid	N	
-tro	N#	
-spir	N	
-riksmål	N	
-brensel	N	
-for	N#	
-forord	N	
-års	N#	
-årsskifte	N	
-kul	N#	
-kul	A#	
-kultur	N#	
-kulturråd	N	
-tale	N#	
-talespråk	N	
-professorat	N	
-potensiale	N	
-vertskap	N	
-for	N#	
-vamp	N#	
-tre	N#	
-treverk	N	
-fin	N#	
-fin	A#	
-finland	N	
-vill	A#	
-villsvin	N	
-ski	N#	
-skips	N#	
-skipsverft	N	
-meieri	N	
-le	N#	
-le	N#	
-le	N#	
-le	N#	
-le	N#	
-le	N#	
-led	N#	
-led	N#	
-led	N#	
-led	N#	
-ledd	N#	
-leddyr	N	
-ritual	N	
-idrettsforbund	N	
-belegg	N	
-utall	N	
-beat	N	
-segment	N	
-jorde	N	
-frem	N#	
-fag	N#	
-fagforbund	N	
-ap	N	
-stor	A#	
-storfe	N	
-raseri	N	
-profeti	N	
-mirakel	N	
-enevelde	N	
-under	N#	
-spreng	N#	
-sprengstoff	N	
-ladested	N	
-bolig	N#	
-bolighus	N	
-koll	N#	
-fast	A#	
-uke	N#	
-ukeblad	N	
-lov	N#	
-lov	N#	
-lovforslag	N	
-is	N#	
-island	N	
-hundreår	N	
-tilbakeslag	N	
-kveg	N	
-opp	N#	
-oppland	N	
-verts	N#	
-vertshus	N	
-tank	N#	
-tankskip	N	
-sped	A#	
-spedbarn	N	
-prim	N#	
-primtall	N	
-nyvalg	N	
-nyttår	N	
-tidevann	N	
-teaterstykke	N	
-sokn	N	
-rogaland	N	
-hulrom	N	
-hul	A#	
-samleie	N	
-protektorat	N	
-tam	N#	
-reinsdyr	N	
-fotspor	N	
-asyl	N	
-or	N#	
-or	N#	
-ord	N#	
-ordspill	N	
-lån	N#	
-lånord	N	
-garn	N	
-samhold	N	
-pen	A#	
-pen	A#	
-klubb	N#	
-klubbhus	N	
-barnehjem	N	
-ungdomsforbund	N	
-leide	N	
-idrettsanlegg	N	
-kli	N#	
-intervall	N	
-fossefall	N	
-relieff	N	
-gospel	N	
-østerrike	N	
-skår	N	
-krasj	N	
-avkall	N	
-svangerskap	N	
-overfall	N	
-mo	N#	
-mo	N#	
-mod	N#	
-mikroskop	N	
-fag	N#	
-fagfolk	N	
-ung	A#	
-ung	A#	
-ung	A#	
-ung	A#	
-ung	A#	
-ungdom	N#	
-ungdomslag	N	
-trekk	N#	
-trekkspill	N	
-le	N#	
-leveår	N	
-kvadrat	N	
-harding	N#	
-avslag	N	
-temperament	N	
-stempel	N	
-ikon	N	
-diagram	N	
-arr	N	
-aftenblad	N	
-teorem	N	
-gud	N#	
-dreiemoment	N	
-sameie	N	
-møte	N#	
-møtested	N	
-utviklingsland	N	
-rom	N#	
-romskip	N	
-bak	N#	
-bakhold	N	
-vær	N#	
-vær	N#	
-værforhold	N	
-transportmiddel	N	
-fedreland	N	
-tilløp	N	
-president	N#	
-presidentskap	N	
-landsstyre	N	
-byråkrati	N	
-søksmål	N	
-mytteri	N	
-laug	N	
-fork	N#	
-forkle	N	
-brygg	N	
+for	N	Neu
+for	N	Neu
+under	N	Neu
+sted	N	Neu
+føre	N	Neu
+føre	N	Neu
+følge	N	Neu
+følge	N	Neu
+eksempel	N	Neu
+slag	N	Neu
+slag	N	Neu
+lag	N	Neu
+lag	N	Neu
+england	N	Neu
+england	N	Neu
+album	N	Neu
+album	N	Neu
+løp	N	Neu
+løp	N	Neu
+forhold	N	Neu
+forhold	N	Neu
+tyskland	N	Neu
+tyskland	N	Neu
+hoved	N	Neu
+hoved	N	Neu
+frankrike	N	Neu
+frankrike	N	Neu
+skip	N	Neu
+skip	N	Neu
+antall	N	Neu
+antall	N	Neu
+styre	N	Neu
+problem	N	Neu
+problem	N	Neu
+lokale	N	Neu
+lokale	N	Neu
+band	N	Neu
+verk	N	Neu
+verk	N	Neu
+for	N	Neu
+for	N	Neu
+le	N	Neu
+le	N	Neu
+led	N	Neu
+led	N	Neu
+skottland	N	Neu
+skottland	N	Neu
+resultat	N	Neu
+resultat	N	Neu
+sto	N	Neu
+sto	N	Neu
+krav	N	Neu
+krav	N	Neu
+angrep	N	Neu
+angrep	N	Neu
+forsøk	N	Neu
+forsøk	N	Neu
+russland	N	Neu
+russland	N	Neu
+begrep	N	Neu
+begrep	N	Neu
+yr	N	Neu
+under	N	Neu
+island	N	Neu
+island	N	Neu
+storting	N	Neu
+parlament	N	Neu
+parlament	N	Neu
+minne	N	Neu
+fall	N	Neu
+fall	N	Neu
+tap	N	Neu
+tap	N	Neu
+irland	N	Neu
+irland	N	Neu
+unntak	N	Neu
+unntak	N	Neu
+finland	N	Neu
+finland	N	Neu
+kraftverk	N	Neu
+kraftverk	N	Neu
+museum	N	Neu
+tidspunkt	N	Neu
+østerrike	N	Neu
+østerrike	N	Neu
+nordland	N	Neu
+nordland	N	Neu
+forsvar	N	Neu
+forsvar	N	Neu
+nederland	N	Neu
+nederland	N	Neu
+oppdrag	N	Neu
+oppdrag	N	Neu
+behov	N	Neu
+behov	N	Neu
+blad	N	Neu
+blad	N	Neu
+formål	N	Neu
+formål	N	Neu
+nivå	N	Neu
+nivå	N	Neu
+funn	N	Neu
+funn	N	Neu
+materiale	N	Neu
+materiale	N	Neu
+landskap	N	Neu
+landskap	N	Neu
+forbund	N	Neu
+forbund	N	Neu
+symbol	N	Neu
+symbol	N	Neu
+marked	N	Neu
+marked	N	Neu
+år	N	Neu
+år	N	Neu
+anlegg	N	Neu
+anlegg	N	Neu
+produkt	N	Neu
+stoff	N	Neu
+stoff	N	Neu
+gir	N	Neu
+gir	N	Neu
+sykehus	N	Neu
+sykehus	N	Neu
+hell	N	Neu
+besøk	N	Neu
+besøk	N	Neu
+hvem	N	Neu
+hvem	N	Neu
+får	N	Neu
+får	N	Neu
+england	N	Neu
+england	N	Neu
+drap	N	Neu
+drap	N	Neu
+sete	N	Neu
+landslag	N	Neu
+landslag	N	Neu
+salg	N	Neu
+salg	N	Neu
+rogaland	N	Neu
+rogaland	N	Neu
+tonn	N	Neu
+tonn	N	Neu
+akershus	N	Neu
+akershus	N	Neu
+maleri	N	Neu
+trekk	N	Neu
+trekk	N	Neu
+henhold	N	Neu
+henhold	N	Neu
+sekund	N	Neu
+band	N	Neu
+styr	N	Neu
+styr	N	Neu
+hordaland	N	Neu
+hordaland	N	Neu
+yrke	N	Neu
+yrke	N	Neu
+nederlag	N	Neu
+nederlag	N	Neu
+fartøy	N	Neu
+kontor	N	Neu
+kontor	N	Neu
+bevis	N	Neu
+bevis	N	Neu
+utland	N	Neu
+utland	N	Neu
+tiår	N	Neu
+tiår	N	Neu
+tilsvar	N	Neu
+tilsvar	N	Neu
+land	N	Neu
+land	N	Neu
+tilsvar	N	Neu
+mesterskap	N	Neu
+mesterskap	N	Neu
+fyr	N	Neu
+fyr	N	Neu
+bidrag	N	Neu
+bidrag	N	Neu
+mannskap	N	Neu
+mannskap	N	Neu
+bibliotek	N	Neu
+lager	N	Neu
+fastland	N	Neu
+fastland	N	Neu
+utvalg	N	Neu
+utvalg	N	Neu
