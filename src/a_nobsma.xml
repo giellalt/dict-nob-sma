@@ -32,7 +32,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">andre</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">mubpie</t>
          </tg>
       </mg>
@@ -42,7 +42,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">arbeidssky</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">låagkoeh</t>
          </tg>
       </mg>
@@ -52,7 +52,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">atskillig</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">ovmessie</t>
          </tg>
       </mg>
@@ -62,7 +62,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">avdød</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">åemie</t>
          </tg>
       </mg>
@@ -72,12 +72,12 @@ For the full license text, see the link above.</lic>
          <l pos="a">avsides</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">miehtjies</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">oktegs</t>
          </tg>
       </mg>
@@ -87,17 +87,17 @@ For the full license text, see the link above.</lic>
          <l pos="a">bar</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">båadtsoeh</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">båadtsah</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">beavloes</t>
          </tg>
       </mg>
@@ -107,12 +107,12 @@ For the full license text, see the link above.</lic>
          <l pos="a">barhodet</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">båadtsoeh-åejjien</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">båadtsoes-åejjien</t>
          </tg>
       </mg>
@@ -122,12 +122,12 @@ For the full license text, see the link above.</lic>
          <l pos="a">barmhjertig</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">åårmege</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">åårmehke</t>
          </tg>
       </mg>
@@ -137,12 +137,12 @@ For the full license text, see the link above.</lic>
          <l pos="a">bedrøvet</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">håjnoes</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">hujnies</t>
          </tg>
       </mg>
@@ -152,7 +152,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">bein</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">rïekte</t>
          </tg>
       </mg>
@@ -162,17 +162,17 @@ For the full license text, see the link above.</lic>
          <l pos="a">berømt</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">byögke</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">byögkehke</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">byögkeles</t>
          </tg>
       </mg>
@@ -182,7 +182,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">besværlig</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">vaejvies</t>
          </tg>
       </mg>
@@ -192,7 +192,7 @@ For the full license text, see the link above.</lic>
          <l pos="x">betatt</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">plievhties</t>
          </tg>
       </mg>
@@ -202,7 +202,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">bitter</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">bihtseds</t>
          </tg>
       </mg>
@@ -212,7 +212,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">blyg</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">håjnoes</t>
          </tg>
       </mg>
@@ -222,7 +222,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">blå</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">plaave</t>
          </tg>
       </mg>
@@ -232,7 +232,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">blågrå</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">tjöölle</t>
          </tg>
       </mg>
@@ -242,12 +242,12 @@ For the full license text, see the link above.</lic>
          <l pos="a">bra</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">buerie</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">hijven</t>
          </tg>
       </mg>
@@ -257,7 +257,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">bratt</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">praare</t>
          </tg>
       </mg>
@@ -267,7 +267,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">brei</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">gamte</t>
          </tg>
       </mg>
@@ -277,12 +277,12 @@ For the full license text, see the link above.</lic>
          <l pos="a">brun</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="x">rutjkes</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">provne</t>
          </tg>
       </mg>
@@ -292,7 +292,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">brunaktig</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">rutjehke</t>
          </tg>
       </mg>
@@ -302,7 +302,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">brå</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">harhtsoeh</t>
          </tg>
       </mg>
@@ -312,7 +312,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">butt</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">nåmhpoeh</t>
          </tg>
       </mg>
@@ -322,7 +322,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">dagens</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">daan-beajjetje</t>
          </tg>
       </mg>
@@ -332,7 +332,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">doven</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">aeblehts</t>
          </tg>
       </mg>
@@ -342,7 +342,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">drøy</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">bihtseles</t>
          </tg>
       </mg>
@@ -352,12 +352,12 @@ For the full license text, see the link above.</lic>
          <l pos="a">dum</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">gåffoeh</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">jåasoeh</t>
          </tg>
       </mg>
@@ -367,7 +367,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">dyp</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">gïengeles</t>
          </tg>
       </mg>
@@ -377,12 +377,12 @@ For the full license text, see the link above.</lic>
          <l pos="a">dyr</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">dovrehke</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">dovres</t>
          </tg>
       </mg>
@@ -392,27 +392,27 @@ For the full license text, see the link above.</lic>
          <l pos="a">dårlig</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">geerve</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">madtege</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">mådtan</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">mådtan</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">nåake</t>
          </tg>
       </mg>
@@ -422,7 +422,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">død</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">jaame</t>
          </tg>
       </mg>
@@ -432,7 +432,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">døv</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">bieljehts</t>
          </tg>
       </mg>
@@ -442,12 +442,12 @@ For the full license text, see the link above.</lic>
          <l pos="a">effektiv</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">radtjoes</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">radtjohke</t>
          </tg>
       </mg>
@@ -457,7 +457,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">ekte</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">rïektes</t>
          </tg>
       </mg>
@@ -467,7 +467,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">elementært</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">aelhkies</t>
          </tg>
       </mg>
@@ -477,7 +477,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">ellevte</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">luhkievoestes</t>
          </tg>
       </mg>
@@ -487,12 +487,12 @@ For the full license text, see the link above.</lic>
          <l pos="a">elsket</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">gearehke</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">gieries</t>
          </tg>
       </mg>
@@ -502,7 +502,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">enbåren</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">aajnege</t>
          </tg>
       </mg>
@@ -512,7 +512,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">enig</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">sïemes</t>
          </tg>
       </mg>
@@ -522,7 +522,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">enkel</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">aelhkies</t>
          </tg>
       </mg>
@@ -532,7 +532,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">ensom</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">oktegs</t>
          </tg>
       </mg>
@@ -542,7 +542,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">farkåt</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">slovves</t>
          </tg>
       </mg>
@@ -552,12 +552,12 @@ For the full license text, see the link above.</lic>
          <l pos="a">farlig</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">ïskeres</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">yskeres</t>
          </tg>
       </mg>
@@ -567,12 +567,12 @@ For the full license text, see the link above.</lic>
          <l pos="a">fattig</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">giefies</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">viesjies</t>
          </tg>
       </mg>
@@ -582,7 +582,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">feit</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">buajtehks</t>
          </tg>
       </mg>
@@ -592,7 +592,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">femte</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">vïjhtede</t>
          </tg>
       </mg>
@@ -602,7 +602,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">femtiende</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">vïjhtelåhkede</t>
          </tg>
       </mg>
@@ -612,7 +612,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">ferdig</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">riejries</t>
          </tg>
       </mg>
@@ -622,7 +622,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">fin</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">tjaebpies</t>
          </tg>
       </mg>
@@ -632,7 +632,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">fisfull</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">byögkehke</t>
          </tg>
       </mg>
@@ -642,22 +642,22 @@ For the full license text, see the link above.</lic>
          <l pos="a">fjerde</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">nealjede</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">nieljede</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">njealjede</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">njieljede</t>
          </tg>
       </mg>
@@ -667,7 +667,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">flerdobbelt</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">gellien-gïerts</t>
          </tg>
       </mg>
@@ -677,7 +677,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">flink</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">væjkeles</t>
          </tg>
       </mg>
@@ -687,12 +687,12 @@ For the full license text, see the link above.</lic>
          <l pos="a">flittig</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">vïssjeles</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">rudtjege</t>
          </tg>
       </mg>
@@ -702,12 +702,12 @@ For the full license text, see the link above.</lic>
          <l pos="a">forekommende</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">dåajmijes</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">dåajmijs</t>
          </tg>
       </mg>
@@ -717,7 +717,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">forferdelig</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">isveligks</t>
          </tg>
       </mg>
@@ -727,7 +727,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">fornuftig</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">jïermijes</t>
          </tg>
       </mg>
@@ -737,12 +737,12 @@ For the full license text, see the link above.</lic>
          <l pos="a">forskjellig</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">joekehts</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">ovmese</t>
          </tg>
       </mg>
@@ -752,7 +752,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">forstandig</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">jïermijes</t>
          </tg>
       </mg>
@@ -762,7 +762,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">fort</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">varki</t>
          </tg>
       </mg>
@@ -772,7 +772,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">fortvilet</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">njåajjan</t>
          </tg>
       </mg>
@@ -782,12 +782,12 @@ For the full license text, see the link above.</lic>
          <l pos="a">fredelig</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">aales</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">raeffies</t>
          </tg>
       </mg>
@@ -797,7 +797,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">frekk</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">prarrohke</t>
          </tg>
       </mg>
@@ -807,7 +807,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">fremmed</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">ammes</t>
          </tg>
       </mg>
@@ -817,7 +817,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">fuktig</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">låpsoes</t>
          </tg>
       </mg>
@@ -827,7 +827,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">full</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">ellies</t>
          </tg>
       </mg>
@@ -837,7 +837,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">fullstendig</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">ellies</t>
          </tg>
       </mg>
@@ -847,7 +847,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">første</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">voestes</t>
          </tg>
       </mg>
@@ -857,7 +857,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">førtiende</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">njïeljelåhkede</t>
          </tg>
       </mg>
@@ -867,7 +867,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">gal</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">båajhtoeh</t>
          </tg>
       </mg>
@@ -877,7 +877,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">gamling</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">voeres</t>
          </tg>
       </mg>
@@ -887,12 +887,12 @@ For the full license text, see the link above.</lic>
          <l pos="a">gammel</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">båeries</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">voeres</t>
          </tg>
       </mg>
@@ -902,7 +902,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">gammeldags</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">dejpeladtje</t>
          </tg>
       </mg>
@@ -912,12 +912,12 @@ For the full license text, see the link above.</lic>
          <l pos="a">gavmild</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">boerehke</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">boerehks</t>
          </tg>
       </mg>
@@ -927,12 +927,12 @@ For the full license text, see the link above.</lic>
          <l pos="a">giddesløs</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">ealjoeh</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">ealjohts</t>
          </tg>
       </mg>
@@ -942,7 +942,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">gjerrig</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">gaahtsehke</t>
          </tg>
       </mg>
@@ -952,7 +952,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">gjestfri</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">gåassehks</t>
          </tg>
       </mg>
@@ -962,12 +962,12 @@ For the full license text, see the link above.</lic>
          <l pos="a">glad</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">feejjen</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">geerjene</t>
          </tg>
       </mg>
@@ -977,12 +977,12 @@ For the full license text, see the link above.</lic>
          <l pos="a">glatt</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">njalhkedihkie</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">njalkedihks</t>
          </tg>
       </mg>
@@ -992,22 +992,22 @@ For the full license text, see the link above.</lic>
          <l pos="a">god</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">buerie</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">hijven</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">njåålkehke</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">njaelkies</t>
          </tg>
       </mg>
@@ -1017,12 +1017,12 @@ For the full license text, see the link above.</lic>
          <l pos="a">godhjertet</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">boerehke</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">boerehks</t>
          </tg>
       </mg>
@@ -1032,7 +1032,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">gravid</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">nåajsan</t>
          </tg>
       </mg>
@@ -1042,7 +1042,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">grei</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">vietseles</t>
          </tg>
       </mg>
@@ -1052,7 +1052,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">gretten</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">krænkoeh</t>
          </tg>
       </mg>
@@ -1062,7 +1062,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">grå</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">kraevies</t>
          </tg>
       </mg>
@@ -1072,7 +1072,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">grådig</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">gaahtsehke</t>
          </tg>
       </mg>
@@ -1082,7 +1082,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">grønn</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">kruana</t>
          </tg>
       </mg>
@@ -1092,7 +1092,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">gudelig</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">jupmeles</t>
          </tg>
       </mg>
@@ -1102,7 +1102,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">gul</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">vïskes</t>
          </tg>
       </mg>
@@ -1112,7 +1112,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">gyselig</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">isveligks</t>
          </tg>
       </mg>
@@ -1122,7 +1122,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">hard</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">garre</t>
          </tg>
       </mg>
@@ -1132,7 +1132,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">hardhendt</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">harhtsoeh</t>
          </tg>
       </mg>
@@ -1142,12 +1142,12 @@ For the full license text, see the link above.</lic>
          <l pos="a">hardt</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">tjamke</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">tjarke</t>
          </tg>
       </mg>
@@ -1157,7 +1157,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">hel</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">ellies</t>
          </tg>
       </mg>
@@ -1167,7 +1167,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">heldig</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">læhkoeladtje</t>
          </tg>
       </mg>
@@ -1177,17 +1177,17 @@ For the full license text, see the link above.</lic>
          <l pos="a">hellig</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">aejlies</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">bissie</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">eejles</t>
          </tg>
       </mg>
@@ -1197,7 +1197,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">hemmelig</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">tjeakoes</t>
          </tg>
       </mg>
@@ -1207,7 +1207,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">hes</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">seakoes</t>
          </tg>
       </mg>
@@ -1217,7 +1217,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">hugen</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">njaarpehke</t>
          </tg>
       </mg>
@@ -1227,7 +1227,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">hundrede</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">tjuatede</t>
          </tg>
       </mg>
@@ -1237,17 +1237,17 @@ For the full license text, see the link above.</lic>
          <l pos="a">hurtig</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">snååhpehke</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">sneehpes</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">spaajhte</t>
          </tg>
       </mg>
@@ -1257,7 +1257,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">hvit</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">veelkes</t>
          </tg>
       </mg>
@@ -1267,12 +1267,12 @@ For the full license text, see the link above.</lic>
          <l pos="a">høflig</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">dåajmijes</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">dåajmijs</t>
          </tg>
       </mg>
@@ -1282,7 +1282,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">høvelig</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">sjiehteles</t>
          </tg>
       </mg>
@@ -1292,12 +1292,12 @@ For the full license text, see the link above.</lic>
          <l pos="a">høy</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">jïlle</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">jolle</t>
          </tg>
       </mg>
@@ -1307,7 +1307,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">høyre</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">åelkies</t>
          </tg>
       </mg>
@@ -1317,7 +1317,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">intelligent</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">væjkeles</t>
          </tg>
       </mg>
@@ -1327,7 +1327,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">interessant</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">murreds</t>
          </tg>
       </mg>
@@ -1337,7 +1337,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">ivrig</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">eadtjohke</t>
          </tg>
       </mg>
@@ -1347,12 +1347,12 @@ For the full license text, see the link above.</lic>
          <l pos="a">jevnt</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">jalke</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">jalkede</t>
          </tg>
       </mg>
@@ -1362,12 +1362,12 @@ For the full license text, see the link above.</lic>
          <l pos="a">kald</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">gaelhvies</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">tjåetskemes</t>
          </tg>
       </mg>
@@ -1377,7 +1377,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">kantet</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">skaavhtege</t>
          </tg>
       </mg>
@@ -1387,17 +1387,17 @@ For the full license text, see the link above.</lic>
          <l pos="a">kjent</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">åehpies</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">åehpies</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">byögkehke</t>
          </tg>
       </mg>
@@ -1407,12 +1407,12 @@ For the full license text, see the link above.</lic>
          <l pos="a">kjær</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">gearehke</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">gieries</t>
          </tg>
       </mg>
@@ -1422,7 +1422,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">kjølig</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">jueskies</t>
          </tg>
       </mg>
@@ -1432,7 +1432,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">klagende</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">låagkoeh</t>
          </tg>
       </mg>
@@ -1442,12 +1442,12 @@ For the full license text, see the link above.</lic>
          <l pos="a">klar</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">klaeries</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">tjïelke</t>
          </tg>
       </mg>
@@ -1457,7 +1457,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">klok</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">væjsehke</t>
          </tg>
       </mg>
@@ -1467,7 +1467,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">klossete</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">gaajpeles</t>
          </tg>
       </mg>
@@ -1477,7 +1477,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">klønete</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">gaajpeles</t>
          </tg>
       </mg>
@@ -1487,7 +1487,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">kort</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">åenehks</t>
          </tg>
       </mg>
@@ -1497,12 +1497,12 @@ For the full license text, see the link above.</lic>
          <l pos="a">kostbar</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">dovrehke</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">dovres</t>
          </tg>
       </mg>
@@ -1512,7 +1512,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">kraftig</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">veaksehks</t>
          </tg>
       </mg>
@@ -1522,7 +1522,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">kraftlös</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">viesjies</t>
          </tg>
       </mg>
@@ -1532,7 +1532,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">kry</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">garmeres</t>
          </tg>
       </mg>
@@ -1542,7 +1542,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">kvass</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">besteles</t>
          </tg>
       </mg>
@@ -1552,7 +1552,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">kyndig</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">maehteles</t>
          </tg>
       </mg>
@@ -1562,7 +1562,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">lam</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">laemies</t>
          </tg>
       </mg>
@@ -1572,7 +1572,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">lang</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">guhkies</t>
          </tg>
       </mg>
@@ -1582,7 +1582,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">lat</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">aeblehts</t>
          </tg>
       </mg>
@@ -1592,7 +1592,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">leietam</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">geeles</t>
          </tg>
       </mg>
@@ -1602,7 +1602,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">lemster</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">gyhtjehke</t>
          </tg>
       </mg>
@@ -1612,17 +1612,17 @@ For the full license text, see the link above.</lic>
          <l pos="a">lett</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">aelhkies</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">geehpes</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">gyöhpehke</t>
          </tg>
       </mg>
@@ -1632,7 +1632,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">lettskremt</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">dearkoeh</t>
          </tg>
       </mg>
@@ -1642,12 +1642,12 @@ For the full license text, see the link above.</lic>
          <l pos="a">likegyldig</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">ealjoeh</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">ealjohts</t>
          </tg>
       </mg>
@@ -1657,7 +1657,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">liketil</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">vietseles</t>
          </tg>
       </mg>
@@ -1667,7 +1667,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">listig</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">slovves</t>
          </tg>
       </mg>
@@ -1677,12 +1677,12 @@ For the full license text, see the link above.</lic>
          <l pos="a">liten</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">ohtje</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">onne</t>
          </tg>
       </mg>
@@ -1692,7 +1692,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">lunken</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">lïene</t>
          </tg>
       </mg>
@@ -1702,7 +1702,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">lydig</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">luvrege</t>
          </tg>
       </mg>
@@ -1712,7 +1712,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">lys</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">tjuavkeds</t>
          </tg>
       </mg>
@@ -1722,7 +1722,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">lyseblå</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">tjöölle</t>
          </tg>
       </mg>
@@ -1732,7 +1732,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">lysegrå</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">jovje</t>
          </tg>
       </mg>
@@ -1742,7 +1742,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">løs</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">loeves</t>
          </tg>
       </mg>
@@ -1752,12 +1752,12 @@ For the full license text, see the link above.</lic>
          <l pos="a">mange</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">jïjnje</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">jeenje</t>
          </tg>
       </mg>
@@ -1767,12 +1767,12 @@ For the full license text, see the link above.</lic>
          <l pos="a">mangeslags</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">måedtiesåårts</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">måedtiesåårhts</t>
          </tg>
       </mg>
@@ -1782,7 +1782,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">medlidende</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">aarmogs</t>
          </tg>
       </mg>
@@ -1792,7 +1792,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">mektig</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">faamehke</t>
          </tg>
       </mg>
@@ -1802,7 +1802,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">mellomste</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">gaskemes</t>
          </tg>
       </mg>
@@ -1812,12 +1812,12 @@ For the full license text, see the link above.</lic>
          <l pos="a">mismodig</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">hujnies</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">njåajjoeh</t>
          </tg>
       </mg>
@@ -1827,12 +1827,12 @@ For the full license text, see the link above.</lic>
          <l pos="a">mjuk</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">möövhkes</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">myövhkes</t>
          </tg>
       </mg>
@@ -1842,7 +1842,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">moderne</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">daaletje</t>
          </tg>
       </mg>
@@ -1852,7 +1852,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">moro</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">lustes</t>
          </tg>
       </mg>
@@ -1862,7 +1862,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">munter</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">feejjen</t>
          </tg>
       </mg>
@@ -1872,7 +1872,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">muntlig</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">njaalmeldh</t>
          </tg>
       </mg>
@@ -1882,7 +1882,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">mye</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">jeenje</t>
          </tg>
       </mg>
@@ -1892,12 +1892,12 @@ For the full license text, see the link above.</lic>
          <l pos="a">naken</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">båadtsoeh</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">båadtsah</t>
          </tg>
       </mg>
@@ -1907,7 +1907,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">navngjeten</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">byögkehke</t>
          </tg>
       </mg>
@@ -1917,12 +1917,12 @@ For the full license text, see the link above.</lic>
          <l pos="a">nervøs</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">dearkoes</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">aerkies</t>
          </tg>
       </mg>
@@ -1932,7 +1932,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">niende</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">åktsede</t>
          </tg>
       </mg>
@@ -1942,7 +1942,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">nifs</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">isveligks</t>
          </tg>
       </mg>
@@ -1952,7 +1952,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">nittiende</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">uktsielåhkede</t>
          </tg>
       </mg>
@@ -1962,7 +1962,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">ny</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">orre</t>
          </tg>
       </mg>
@@ -1972,7 +1972,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">nyttig</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">aevhkies</t>
          </tg>
       </mg>
@@ -1982,12 +1982,12 @@ For the full license text, see the link above.</lic>
          <l pos="a">nådig</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">åårmege</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">åårmehke</t>
          </tg>
       </mg>
@@ -1997,7 +1997,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">nåtidens</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">daaletje</t>
          </tg>
       </mg>
@@ -2007,7 +2007,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">nåværende</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">daaletje</t>
          </tg>
       </mg>
@@ -2017,7 +2017,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">nær</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">gietskies</t>
          </tg>
       </mg>
@@ -2027,7 +2027,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">nærliggende</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">lïhkes</t>
          </tg>
       </mg>
@@ -2037,7 +2037,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">nødvendig</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">daerpies</t>
          </tg>
       </mg>
@@ -2047,7 +2047,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">offentlig</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">byjjes</t>
          </tg>
       </mg>
@@ -2057,7 +2057,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">olding</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">voeres</t>
          </tg>
       </mg>
@@ -2067,12 +2067,12 @@ For the full license text, see the link above.</lic>
          <l pos="a">omtalt</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">byögke</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">byögkeles</t>
          </tg>
       </mg>
@@ -2082,7 +2082,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">ond</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">vesties</t>
          </tg>
       </mg>
@@ -2092,7 +2092,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">opprinnelig</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">staeries</t>
          </tg>
       </mg>
@@ -2102,17 +2102,17 @@ For the full license text, see the link above.</lic>
          <l pos="a">ordentlig</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">staeries</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">eensi</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">rïektes</t>
          </tg>
       </mg>
@@ -2122,7 +2122,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">passelig</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">madtege</t>
          </tg>
       </mg>
@@ -2132,7 +2132,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">passelige</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">sjiehteles</t>
          </tg>
       </mg>
@@ -2142,7 +2142,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">passende</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">madtege</t>
          </tg>
       </mg>
@@ -2152,7 +2152,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">prektig</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">göögkeles</t>
          </tg>
       </mg>
@@ -2162,7 +2162,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">rar</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">rovnegs</t>
          </tg>
       </mg>
@@ -2172,27 +2172,27 @@ For the full license text, see the link above.</lic>
          <l pos="a">rask</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">gyvjehke</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">jåalhkoes</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">jåalhkoeh</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">snååhpehke</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">sneehpes</t>
          </tg>
       </mg>
@@ -2202,12 +2202,12 @@ For the full license text, see the link above.</lic>
          <l pos="a">redd</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">aerkies</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">håjnoes</t>
          </tg>
       </mg>
@@ -2217,12 +2217,12 @@ For the full license text, see the link above.</lic>
          <l pos="a">rein</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">raejnies</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">tjïelke</t>
          </tg>
       </mg>
@@ -2232,7 +2232,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">rett</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">rïekte</t>
          </tg>
       </mg>
@@ -2242,7 +2242,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">rette</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">rïektes</t>
          </tg>
       </mg>
@@ -2252,7 +2252,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">rik</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">ræjhkoes</t>
          </tg>
       </mg>
@@ -2262,7 +2262,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">riktig</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">rïektes</t>
          </tg>
       </mg>
@@ -2272,7 +2272,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">rolig</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">stååvehke</t>
          </tg>
       </mg>
@@ -2282,7 +2282,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">rund</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">jarpoeh</t>
          </tg>
       </mg>
@@ -2292,12 +2292,12 @@ For the full license text, see the link above.</lic>
          <l pos="a">rådløs</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">baanhtsan</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">baanhtsan</t>
          </tg>
       </mg>
@@ -2307,7 +2307,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">rød</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">rööpses</t>
          </tg>
       </mg>
@@ -2317,7 +2317,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">salta</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">saelhties</t>
          </tg>
       </mg>
@@ -2327,7 +2327,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">sektstiende</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">govhtelåhkede</t>
          </tg>
       </mg>
@@ -2337,7 +2337,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">selvsikker</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">garmeres</t>
          </tg>
       </mg>
@@ -2347,7 +2347,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">sikker</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">vihties</t>
          </tg>
       </mg>
@@ -2357,7 +2357,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">sint</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">måarehks</t>
          </tg>
       </mg>
@@ -2367,7 +2367,7 @@ For the full license text, see the link above.</lic>
          <l pos="x">sittende</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">tjahkan</t>
          </tg>
       </mg>
@@ -2377,7 +2377,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">sjette</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">govhtede</t>
          </tg>
       </mg>
@@ -2387,7 +2387,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">sjuende</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">tjïjhtjede</t>
          </tg>
       </mg>
@@ -2397,7 +2397,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">sjuk</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">skïemtje</t>
          </tg>
       </mg>
@@ -2407,12 +2407,12 @@ For the full license text, see the link above.</lic>
          <l pos="a">skeiv</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">vælnjah</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">vælnjoeh</t>
          </tg>
       </mg>
@@ -2422,7 +2422,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">skjult</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">tjeakoes</t>
          </tg>
       </mg>
@@ -2432,12 +2432,12 @@ For the full license text, see the link above.</lic>
          <l pos="a">skrekkelig</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">ïskeres</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">yskeres</t>
          </tg>
       </mg>
@@ -2447,7 +2447,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">skrytende</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">garmeres</t>
          </tg>
       </mg>
@@ -2457,7 +2457,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">skrå</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">vælnjoeh</t>
          </tg>
       </mg>
@@ -2467,7 +2467,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">skvetten</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">dearkoeh</t>
          </tg>
       </mg>
@@ -2477,12 +2477,12 @@ For the full license text, see the link above.</lic>
          <l pos="a">slett</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">jalke</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">jalkede</t>
          </tg>
       </mg>
@@ -2492,7 +2492,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">sliten</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">sæjloes</t>
          </tg>
       </mg>
@@ -2502,7 +2502,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">slitesterk</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">nannoes</t>
          </tg>
       </mg>
@@ -2512,7 +2512,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">slu</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">slovves</t>
          </tg>
       </mg>
@@ -2522,12 +2522,12 @@ For the full license text, see the link above.</lic>
          <l pos="a">sløv</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">ealjoeh</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">ealjohts</t>
          </tg>
       </mg>
@@ -2537,7 +2537,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">smal</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">giedtsies</t>
          </tg>
       </mg>
@@ -2547,7 +2547,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">små</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">smaave</t>
          </tg>
       </mg>
@@ -2557,32 +2557,32 @@ For the full license text, see the link above.</lic>
          <l pos="a">snar</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">govjehke</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">gyvjehke</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">jåalhkoes</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">jåalhkoeh</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">snååhpehke</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">sneehpes</t>
          </tg>
       </mg>
@@ -2592,7 +2592,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">snaraktig</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">govjehke</t>
          </tg>
       </mg>
@@ -2602,17 +2602,17 @@ For the full license text, see the link above.</lic>
          <l pos="a">snill</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">gïemhpe</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">boerehke</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">boerehks</t>
          </tg>
       </mg>
@@ -2622,7 +2622,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">solid</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">nannoes</t>
          </tg>
       </mg>
@@ -2632,7 +2632,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">spredt</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">barras</t>
          </tg>
       </mg>
@@ -2642,7 +2642,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">stadfestede</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">staeries</t>
          </tg>
       </mg>
@@ -2652,7 +2652,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">stadig</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">staeries</t>
          </tg>
       </mg>
@@ -2662,7 +2662,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">staselig</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">göögkeles</t>
          </tg>
       </mg>
@@ -2672,17 +2672,17 @@ For the full license text, see the link above.</lic>
          <l pos="a">sterk</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">veaksehks</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">nænnoes</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">veaksehke</t>
          </tg>
       </mg>
@@ -2692,7 +2692,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">sterkt</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">tjarke</t>
          </tg>
       </mg>
@@ -2702,7 +2702,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">stille</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">sjeavohth</t>
          </tg>
       </mg>
@@ -2712,12 +2712,12 @@ For the full license text, see the link above.</lic>
          <l pos="a">stiv</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">gyhtjehke</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">stinkes</t>
          </tg>
       </mg>
@@ -2727,7 +2727,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">stolt</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">garmeres</t>
          </tg>
       </mg>
@@ -2737,12 +2737,12 @@ For the full license text, see the link above.</lic>
          <l pos="a">stor</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">stoerre</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">stoere</t>
          </tg>
       </mg>
@@ -2752,7 +2752,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">stump</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">nåmhpoeh</t>
          </tg>
       </mg>
@@ -2762,12 +2762,12 @@ For the full license text, see the link above.</lic>
          <l pos="a">stygg</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">rupmies</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">vesties</t>
          </tg>
       </mg>
@@ -2777,7 +2777,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">stående</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">tjåadtjoeh</t>
          </tg>
       </mg>
@@ -2787,7 +2787,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">stødig</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">stinkes</t>
          </tg>
       </mg>
@@ -2797,7 +2797,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">støl</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">gyhtjehke</t>
          </tg>
       </mg>
@@ -2807,7 +2807,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">sur</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">krænkoeh</t>
          </tg>
       </mg>
@@ -2817,7 +2817,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">sutrete</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">låagkoeh</t>
          </tg>
       </mg>
@@ -2827,17 +2827,17 @@ For the full license text, see the link above.</lic>
          <l pos="a">svak</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">dasmoes</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">dåsmoes</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">viesjies</t>
          </tg>
       </mg>
@@ -2847,7 +2847,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">svart</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">tjeehpes</t>
          </tg>
       </mg>
@@ -2857,17 +2857,17 @@ For the full license text, see the link above.</lic>
          <l pos="a">syk</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">dasmoes</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">dåsmoes</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">mådtan</t>
          </tg>
       </mg>
@@ -2877,7 +2877,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">syttiende</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">tjïjhtjelåhkede</t>
          </tg>
       </mg>
@@ -2887,7 +2887,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">særegen</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">sjïere</t>
          </tg>
       </mg>
@@ -2897,12 +2897,12 @@ For the full license text, see the link above.</lic>
          <l pos="a">særskilt</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">oktegs</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">sjïere</t>
          </tg>
       </mg>
@@ -2912,7 +2912,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">sør</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">åarjel</t>
          </tg>
       </mg>
@@ -2922,7 +2922,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">søt</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">sieties</t>
          </tg>
       </mg>
@@ -2932,7 +2932,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">søvnig</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">nahkeren</t>
          </tg>
       </mg>
@@ -2942,12 +2942,12 @@ For the full license text, see the link above.</lic>
          <l pos="a">takknemlig</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">gyjhteladtje</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">gæjhteles</t>
          </tg>
       </mg>
@@ -2957,7 +2957,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">tam</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">geeles</t>
          </tg>
       </mg>
@@ -2967,7 +2967,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">tett</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">duvhties</t>
          </tg>
       </mg>
@@ -2977,12 +2977,12 @@ For the full license text, see the link above.</lic>
          <l pos="a">tidlig</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">aarehke</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">aareh</t>
          </tg>
       </mg>
@@ -2992,7 +2992,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">tiende</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">låhkede</t>
          </tg>
       </mg>
@@ -3002,7 +3002,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">tillitsfull</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">jearsoes</t>
          </tg>
       </mg>
@@ -3012,7 +3012,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">tjuende</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">gööktelåhkede</t>
          </tg>
       </mg>
@@ -3022,7 +3022,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">tolvte</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">luhkiemubpie</t>
          </tg>
       </mg>
@@ -3032,7 +3032,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">toskete</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">jåasoeh</t>
          </tg>
       </mg>
@@ -3042,7 +3042,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">trang</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">gaertjies</t>
          </tg>
       </mg>
@@ -3052,7 +3052,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">tredje</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">gåalmede</t>
          </tg>
       </mg>
@@ -3062,12 +3062,12 @@ For the full license text, see the link above.</lic>
          <l pos="a">trett</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">nahkeren</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">sæjloes</t>
          </tg>
       </mg>
@@ -3077,7 +3077,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">trettiende</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">golmelåhkede</t>
          </tg>
       </mg>
@@ -3087,7 +3087,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">trist</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">håjnoes</t>
          </tg>
       </mg>
@@ -3097,12 +3097,12 @@ For the full license text, see the link above.</lic>
          <l pos="a">trivelig</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">vietseles</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">murreds</t>
          </tg>
       </mg>
@@ -3112,7 +3112,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">trygg</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">jearsoes</t>
          </tg>
       </mg>
@@ -3122,12 +3122,12 @@ For the full license text, see the link above.</lic>
          <l pos="a">trøtt</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">nahkeren</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">sæjloes</t>
          </tg>
       </mg>
@@ -3137,7 +3137,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">tulladjektiv</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">tulloes</t>
          </tg>
       </mg>
@@ -3147,7 +3147,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">tullete</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">jåasoeh</t>
          </tg>
       </mg>
@@ -3157,7 +3157,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">tung</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">löövles</t>
          </tg>
       </mg>
@@ -3167,7 +3167,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">tverr</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">nåmhpoeh</t>
          </tg>
       </mg>
@@ -3177,7 +3177,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">tykk</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">söökes</t>
          </tg>
       </mg>
@@ -3187,7 +3187,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">tyktflytende</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">söökes</t>
          </tg>
       </mg>
@@ -3197,7 +3197,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">tynn</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">njeerpes</t>
          </tg>
       </mg>
@@ -3207,7 +3207,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">tyst</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">sjeavohth</t>
          </tg>
       </mg>
@@ -3217,7 +3217,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">tålmodig</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">vïssjeles</t>
          </tg>
       </mg>
@@ -3227,7 +3227,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">tørr</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">gejhkie</t>
          </tg>
       </mg>
@@ -3237,7 +3237,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">udannet</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">tjålhpoeh</t>
          </tg>
       </mg>
@@ -3247,7 +3247,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">uforskammet</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">prarrohke</t>
          </tg>
       </mg>
@@ -3257,7 +3257,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">ukjent</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">ammes</t>
          </tg>
       </mg>
@@ -3267,7 +3267,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">ulovlig</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">ov-luhpehts</t>
          </tg>
       </mg>
@@ -3277,7 +3277,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">ulydig</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">neahkoeh</t>
          </tg>
       </mg>
@@ -3287,7 +3287,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">umulig</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">ovnuvhtege</t>
          </tg>
       </mg>
@@ -3297,7 +3297,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">underlig</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">rovnegs</t>
          </tg>
       </mg>
@@ -3307,7 +3307,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">ung</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">noere</t>
          </tg>
       </mg>
@@ -3317,7 +3317,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">uskikkelig</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">ovnuvhtege</t>
          </tg>
       </mg>
@@ -3327,7 +3327,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">utholdende</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">saavrehke</t>
          </tg>
       </mg>
@@ -3337,7 +3337,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">utålmodig</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">ov-vïssjeles</t>
          </tg>
       </mg>
@@ -3347,12 +3347,12 @@ For the full license text, see the link above.</lic>
          <l pos="a">uvel</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">dasmoes</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">dåsmoes</t>
          </tg>
       </mg>
@@ -3362,7 +3362,7 @@ For the full license text, see the link above.</lic>
          <l pos="n">uværs-</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">elmies</t>
          </tg>
       </mg>
@@ -3372,7 +3372,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">vanlig</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">sïejhme</t>
          </tg>
       </mg>
@@ -3382,12 +3382,12 @@ For the full license text, see the link above.</lic>
          <l pos="a">vanskelig</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">geerve</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">praare</t>
          </tg>
       </mg>
@@ -3397,12 +3397,12 @@ For the full license text, see the link above.</lic>
          <l pos="a">varm</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">bïjveles</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">baahke</t>
          </tg>
       </mg>
@@ -3412,7 +3412,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">vek</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">viesjies</t>
          </tg>
       </mg>
@@ -3422,7 +3422,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">velsmakende</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">njaelkies</t>
          </tg>
       </mg>
@@ -3432,7 +3432,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">velstående</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">jealamadtje</t>
          </tg>
       </mg>
@@ -3442,12 +3442,12 @@ For the full license text, see the link above.</lic>
          <l pos="a">vennlig</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">boerehke</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">boerehks</t>
          </tg>
       </mg>
@@ -3457,7 +3457,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">vennligsinnet</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">vietseles</t>
          </tg>
       </mg>
@@ -3467,7 +3467,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">venstre</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">gårroeh</t>
          </tg>
       </mg>
@@ -3477,7 +3477,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">verdt</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">seatadihks</t>
          </tg>
       </mg>
@@ -3487,7 +3487,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">verkende</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">bååktjehke</t>
          </tg>
       </mg>
@@ -3497,7 +3497,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">verst</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">vearremes</t>
          </tg>
       </mg>
@@ -3507,7 +3507,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">vindstille</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">låedtjie</t>
          </tg>
       </mg>
@@ -3517,7 +3517,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">voksen</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">geerve</t>
          </tg>
       </mg>
@@ -3527,7 +3527,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">vond</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">bååktjehke</t>
          </tg>
       </mg>
@@ -3537,7 +3537,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">vondt</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">nåake</t>
          </tg>
       </mg>
@@ -3547,7 +3547,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">våt</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">lovves</t>
          </tg>
       </mg>
@@ -3557,7 +3557,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">ymse</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">ovmessie</t>
          </tg>
       </mg>
@@ -3567,7 +3567,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">ynkelig</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">låagkoeh</t>
          </tg>
       </mg>
@@ -3577,7 +3577,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">åpen</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">latjkes</t>
          </tg>
       </mg>
@@ -3587,7 +3587,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">årvåken</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">aarehke</t>
          </tg>
       </mg>
@@ -3597,7 +3597,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">åttende</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">gaaktsede</t>
          </tg>
       </mg>
@@ -3607,7 +3607,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">åttiende</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">gaektsielåhkede</t>
          </tg>
       </mg>
@@ -3617,7 +3617,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">øde</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">miehtjies</t>
          </tg>
       </mg>
@@ -3627,7 +3627,7 @@ For the full license text, see the link above.</lic>
          <l pos="a">øst-</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="a">luvlie</t>
          </tg>
       </mg>
