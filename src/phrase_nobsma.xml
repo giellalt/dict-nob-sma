@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
+<?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
+"../../scripts/gt_dictionary.dtd">
+<r id="nobsma" xml:lang="nob">
+   <lics xml:space="preserve">
+      <lic xml:lang="en">
+This code is made available under a Creative Commons Attribution license
+<a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+
+You are free to copy, distribute and adapt the work, as long as you always give
+proper attribution using the attribution text below.
+
+For the full license text, see the link above.</lic>
+      <ref>Work by Giellatekno at UiT, Divvun at the Norwegian Saami Parliament,
+          and members of the language communities. Source code
+          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
+      <sourcenote>
+     THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
+     published dictionary. As such it can and
+     will contain unfinished entries, unpublished entries, entries with
+     objectionable translations, etc. If you find any errors or want to add more
+     words, download the file, edit it, and send it back to
+     <a>mailto:divvun@samediggi.no</a> and <a>mailto:giellatekno@hum.uit.no</a>.
+     Please also note that the entries are not necessarily sorted,
+     or could be wrongly sorted.
+     </sourcenote>
+   </lics>
+   <e>
+      <lg>
+         <l t_type="expl" pos="phrase">egenskapen til barkelåg som trekker godt inn i skinn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A" stem="3syll">raavtehtje</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A" stem="3syll">raavteres</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase" type="Indef">et eller annet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Indef">mij akt</t>
+            <xg>
+               <x>Der borte i skogen var det et eller annet som rørte på seg.</x>
+               <xt>Dunnie skåajjesne mij akt svïhtji.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Indef">maam akt</t>
+            <xg>
+               <x>Vi må jo gjøre et eller annet.</x>
+               <xt>Mijjieh hov tjoeveribie maam akt darjodh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Indef">man akt</t>
+            <xg>
+               <x>Og så begynte læreren å fortelle om ett eller annet, men jeg forsto ingenting av det.</x>
+               <xt>Dellie dïhte lohkehtæjja eelki man akt bïjre soptsestidh, men idtjim manne maamkh destie guarkah.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase" type="Indef">til et eller annet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Indef">mïsse akt</t>
+            <xg>
+               <x>Det går sikkert an å bruke dette til et eller annet også.</x>
+               <xt>Nov gujht gåarede dam aaj mïsse akt nuhtjedh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Indef">masse akt</t>
+            <xg>
+               <x>Det går sikkert an å bruke dette til et eller annet også.</x>
+               <xt>Nov gujht gåarede dam aaj masse akt nuhtjedh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase" type="Indef">i et eller annet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Indef">mesnie akt</t>
+            <xg>
+               <x>Jeg husker ikke om det var i eska eller i sekken, men jeg husker at det var i et eller annet på
+               kjøkkenet.</x>
+               <xt>Im mujhtieh mejtie lij aeskesne vuj voessesne, men manne måjhtam dïhte lij mesnie akt tjöökesne.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase" type="Indef">fra et eller annet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Indef">mestie akt</t>
+            <xg>
+               <x>Jeg vet ikke hva jeg skal sy veska av, men jeg må nok sy av et eller annet som jeg har i denne
+               posen.</x>
+               <xt>Im annje daejrieh mestie galkem veaskoem gåarodh, men tjoerem gujht gåarodh mestie akt mij daennie
+               voessetjisnie.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase" type="Indef">med et eller annet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Indef">mejnie akt</t>
+            <xg>
+               <x>Han kom til meg med et eller annet, og ba meg gi det til Laara.</x>
+               <xt>Dïhte mejnie akt mov gåajkoe bööti jïh mannem stilli dam Laarese vedtedh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase" type="Indef">en eller annen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Indef">gie akt</t>
+            <xg>
+               <x>Her har det nok vært noen tidligere.</x>
+               <xt>Daesnie gujht gie akt aarebi orreme.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Indef">gïem akt</t>
+            <xg>
+               <x>Jeg hørte en eller annen i fra det huset.</x>
+               <xt>Manne gïem akt dehtie gåeteste govlim.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Indef">geam akt</t>
+            <xg>
+               <x>Jeg hørte en eller annen i fra det huset.</x>
+               <xt>Manne geam akt dehtie gåeteste govlim.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase" type="Indef">en eller annens</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Indef">gïen akt</t>
+            <xg>
+               <x>Jeg vet ikke hvem sin dette her er, men en eller annens er det.</x>
+               <xt>Im daejrieh gïen daate lea, men gïen akt lea.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Indef">gean akt</t>
+            <xg>
+               <x>Jeg vet ikke hvem sin dette her er, men en eller annens er det.</x>
+               <xt>Im daejrieh gean daate lea, men gean akt lea.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase" type="Indef">til en eller annen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Indef">gïese akt</t>
+            <xg>
+               <x>Jeg må ringe til en eller annen.</x>
+               <xt>Manne tjoeverem gïese akt ringkedh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Indef">gease akt</t>
+            <xg>
+               <x>Jeg må ringe til en eller annen.</x>
+               <xt>Manne tjoeverem gease akt ringkedh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase" type="Indef">hos en eller annen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Indef">giesnie akt</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase" type="Indef">fra en eller annen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Indef">giestie akt</t>
+            <xg>
+               <x>Jeg hørte det fra en eller annen på skolen.</x>
+               <xt>Manne dam giestie akt skuvlesne govlim.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase" type="Indef">med en eller annen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Indef">giejnie akt</t>
+            <xg>
+               <x>Behøver du en eller annen å prate med?</x>
+               <xt>Daarpesjh goh giejnie akt soptsestidh?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l t_type="expl" pos="phrase">uttrykker formodning eller forundring</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>ved subjekt 1.p. entall</re>
+            <t pos="pcle">mån</t>
+            <xg>
+               <x>I morgen kommer jeg vel.</x>
+               <xt>Jirreden mån båatam.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>ved subjekt 2.p. entall</re>
+            <t pos="pcle">dån</t>
+            <xg>
+               <x>Du vet vel. Kjære julenisse. Du glemmer vel ikke mine barn?</x>
+               <xt>Datne dån daajrah. Gieries jåvle-aajja. Ih dån datne mov maanide åajaldehtieh?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>ved subjekt 3.p. entall</re>
+            <t pos="pcle">sån</t>
+            <xg>
+               <x>Piere vet vel.</x>
+               <xt>Piere sån daajra.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>ved subjekt 1.p. totall</re>
+            <t pos="pcle">min</t>
+            <xg>
+               <x>Vi to kommer vel i morgen.</x>
+               <xt>Jirreden min båetien.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>ved subjekt 2.p. totall</re>
+            <t pos="pcle">din</t>
+            <xg>
+               <x>Dere to kommer vel også?</x>
+               <xt>Dåtnoeh din aaj båeteden?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>ved subjekt 3.p. totall</re>
+            <t pos="pcle">sin</t>
+            <xg>
+               <x>De to var vel også der.</x>
+               <xt>Dah guaktah sin aaj desnie.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>ved subjekt 1.p. flertall</re>
+            <t pos="pcle">mih</t>
+            <xg>
+               <x>Også vi kan vel lære noe av dem.</x>
+               <xt>Mijjieh mih aaj maehtebe maam akt dejstie lïeredh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>ved subjekt 2.p. flertall</re>
+            <t pos="pcle">dih</t>
+            <xg>
+               <x>Dere får vel også høre hvordan det blir.</x>
+               <xt>Dijjieh dih aaj åadtjoejidie govledh guktie sjædta.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>ved subjekt 3.p. flertall</re>
+            <t pos="pcle">sih</t>
+            <xg>
+               <x>De sa at nå kommer vel de også.</x>
+               <xt>Jeehtin, nov sih sijjieh aaj båetieh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l t_type="expl" pos="phrase">uttrykker utålmodighet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="pcle">mihk</t>
+            <xg>
+               <x>Kanskje du nå gjør det.</x>
+               <xt>Datne mihk dam darjoeh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l t_type="expl" pos="phrase">står til nektingsverbet og innebærer at taleren forventer et positivt svar</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="pcle">goh</t>
+            <xg>
+               <x>Har ikke du hørt det?</x>
+               <xt>Ih goh datne dam govleme?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l t_type="expl" pos="phrase">uttrykker selvfølge eller visshet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="pcle">badth</t>
+            <xg>
+               <x>Slik tenker de, ja. I smug da vel. A nei, da!</x>
+               <xt>Nimhtie badth dah ussjedieh. Suelien badth. Aellieh badth!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase">seg mellom</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Po">gaskemsh</t>
+            <xg>
+               <x>Mellom dem er det slik.</x>
+               <xt>Dej gaskemsh lea nimhtie.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase">så mye</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Po">jarke</t>
+            <xg>
+               <x>Det er ikke så mye.</x>
+               <xt>Ij leah man jarke.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l t_type="expl" pos="phrase">simla og kalven grynter når de kaller på hverandre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t class="IV" context="3pers" minip="notSg1" p3p="råavka" pos="V" stem="2syll"
+               vow="åa">råavkedh</t>
+         </tg>
+      </mg>
+   </e>
+   <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript"
+                 xmlns:xhtml="http://www.w3.org/1999/xhtml"/>
+</r>

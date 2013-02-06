@@ -1,0 +1,7732 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
+<?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
+"../../scripts/gt_dictionary.dtd">
+<r id="nobsma" xml:lang="nob">
+   <lics xml:space="preserve">
+      <lic xml:lang="en">
+This code is made available under a Creative Commons Attribution license
+<a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+
+You are free to copy, distribute and adapt the work, as long as you always give
+proper attribution using the attribution text below.
+
+For the full license text, see the link above.</lic>
+      <ref>Work by Giellatekno at UiT, Divvun at the Norwegian Saami Parliament,
+          and members of the language communities. Source code
+          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
+      <sourcenote>
+     THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
+     published dictionary. As such it can and
+     will contain unfinished entries, unpublished entries, entries with
+     objectionable translations, etc. If you find any errors or want to add more
+     words, download the file, edit it, and send it back to
+     <a>mailto:divvun@samediggi.no</a> and <a>mailto:giellatekno@hum.uit.no</a>.
+     Please also note that the entries are not necessarily sorted,
+     or could be wrongly sorted.
+     </sourcenote>
+   </lics>
+   <e>
+      <lg>
+         <l pos="Adv">i langvarig solskinn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">guakedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">i trykkende vær</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">amhkedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">i godvær</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">buaredh</t>
+            <xg>
+               <x>Når myggen kommer tidlig, så blir det govær og en fin sommer.</x>
+               <xt>Gosse tjoejhkh aareh båetieh, dellie maa buaredh jïh buerie giesie sjædta.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">i oppholdsvær</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">buaredh</t>
+            <xg>
+               <x>Når myggen kommer tidlig, så blir det govær og en fin sommer.</x>
+               <xt>Gosse tjoejhkh aareh båetieh, dellie maa buaredh jïh buerie giesie sjædta.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">på slutten av brunsttiden</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">golkedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ved ustadig vind</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">klååmsehth</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ved klarvær</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">moenjehth</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ved oppklarning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">moenjehth</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ved usikkert vær på grunn av solrøyk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">samhkedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">vinglende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv" stem="2syll">vïdtjele</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">sittende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv" stem="2syll">tjahkan</t>
+            <xg>
+               <x>Bestemor var sittende der på sitt rom.</x>
+               <xt>Aahka lij tjahkan dennie sov tjïehtjelisnie.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">sterkt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv" stem="2syll">tjarke</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A" stem="2syll">tjarki</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">tjamki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">hardt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv" stem="2syll">tjarke</t>
+            <xg>
+               <x>Du må rope kraftig hvis de skal høre deg. Det er nødvendig å holde det fast hardt, så at det ikke faller sammen.</x>
+               <xt>Datne tjoerh tjarke gæljodh jis dah edtjieh datnem govledh. Daerpies hov dam tjarke steeredh olles slaamkh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A" stem="2syll">tjarki</t>
+            <xg>
+               <x>Det er nødvendig å holde det fast hardt, så at det ikke faller sammen. Du må rope kraftig hvis de skal høre deg.</x>
+               <xt>Daerpies hov dam tjarki steeredh olles slaamkh. Datne tjoerh tjarki gæljodh jis dah edtjieh datnem govledh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">tjamki</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">tjimkeslaakan</t>
+            <xg>
+               <x>Når man jobber hardt, er det også viktig å hvile litt.</x>
+               <xt>Gosse tjimkeslaakan barkedh dellie aaj vihkele lïegkestidh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kraftig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv" stem="2syll">tjarke</t>
+            <xg>
+               <x>Du må rope kraftig hvis de skal høre deg. Det er nødvendig å holde det fast hardt, så at det ikke faller sammen.</x>
+               <xt>Datne tjoerh tjarke gæljodh jis dah edtjieh datnem govledh. Daerpies hov dam tjarke steeredh olles slaamkh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A" stem="2syll">tjarki</t>
+            <xg>
+               <x>Det er nødvendig å holde det fast hardt, så at det ikke faller sammen. Du må rope kraftig hvis de skal høre deg.</x>
+               <xt>Daerpies hov dam tjarki steeredh olles slaamkh. Datne tjoerh tjarki gæljodh jis dah edtjieh datnem govledh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">seinere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>om tid</re>
+            <t pos="Adv">minngielistie</t>
+            <xg>
+               <x>Jeg kom seinere.</x>
+               <xt>Böötim minngielistie.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">bakfra</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">minngielistie</t>
+            <xg>
+               <x>grep henne bakfra</x>
+               <xt>minngielistie veelti</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">miehtjelde</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Po">minngielistie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">nettopp</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">aadtjege</t>
+            <xg>
+               <x>nyfødt kalv</x>
+               <xt>aadtjege guedteme miesie</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">aadtjegh</t>
+            <xg>
+               <x>Hun kom nettopp.</x>
+               <xt>Dïhte aadtjegh bööti.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">aadtjen</t>
+            <xg>
+               <x>Hva var det jeg nettopp sa?</x>
+               <xt>Maam aadtjen jis jeehtim?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dasth</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">hojhte</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">ieskien</t>
+            <xg>
+               <x>Fortell at bestemor nettopp har dratt til sykehuset.</x>
+               <xt>Saarnoeh, ihke aahka ieskien skïemtjegåatan vualkeme.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">raakth</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">iskan</t>
+            <xg>
+               <x>Aanta ringte nettopp til meg.</x>
+               <xt>Aanta iskan munnjien rïngki.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">easkan</t>
+            <xg>
+               <x>Fortell hva som skjedde i sted.</x>
+               <xt>Soptsesth mij easkan deahpadi.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">nylig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">aadtjege</t>
+            <xg>
+               <x>nyfødt kalv</x>
+               <xt>aadtjege guedteme miesie</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">aadtjegh</t>
+            <xg>
+               <x>Hun kom nettopp.</x>
+               <xt>Dïhte aadtjegh bööti.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">også</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">aaj</t>
+            <xg>
+               <x>Også bestemor er hjemme. Laara gjør det på nytt.</x>
+               <xt>Aahka aaj gåetesne. Laara aaj vihth.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dovne</t>
+            <xg>
+               <x>endog vise til hele verden til og med behov for i tillegg må man Noen ganger får vi til og med høre at ... Hun kan både skrive og lese.</x>
+               <xt>dovne abpe eatnamasse vuesiehtidh dovne daerpies dovne tjuara Muvhtene dovne åadtjoejibie govledh ahte... Dihte maahta dovne tjaeledh jïh lohkedh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">igjen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">aaj</t>
+            <xg>
+               <x>Også bestemor er hjemme. Laara gjør det på nytt.</x>
+               <xt>Aahka aaj gåetesne. Laara aaj vihth.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">aajmene</t>
+            <xg>
+               <x>Det er ikke mer igjen.</x>
+               <xt>Ij leah vielie aajmene.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">aajmoen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">aajmojne</t>
+            <xg>
+               <x>Alt som er igjen er mitt.</x>
+               <xt>Gaajhke mij aajmojne lea mov.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">aajmone</t>
+            <xg>
+               <x>Alt som er igjen er mitt.</x>
+               <xt>Gaajhke mij aajmone lea mov.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">vihth</t>
+            <xg>
+               <x>Det er din tur igjen! Laara gjør det på nytt.</x>
+               <xt>Dov våaroe vihth! Laara aaj vihth.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="pcle">jis</t>
+            <xg>
+               <x>Hun har i sin tur blitt til stor hjelp for mange.</x>
+               <xt>Dïhte jis dle jïjnjesidie stoerre viehkine sjïdteme.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">i behold</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">aajmene</t>
+            <xg>
+               <x>Det er ikke mer igjen.</x>
+               <xt>Ij leah vielie aajmene.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">aajmoen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">aajmojne</t>
+            <xg>
+               <x>Alt som er igjen er mitt.</x>
+               <xt>Gaajhke mij aajmojne lea mov.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">aajmone</t>
+            <xg>
+               <x>Alt som er igjen er mitt.</x>
+               <xt>Gaajhke mij aajmone lea mov.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">skikkelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">aajmoen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">som det skal være</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">aajmoen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">uforstyrret</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">aakedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">over</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">aatsolen</t>
+            <xg>
+               <x>Legg denne over.</x>
+               <xt>Bïejh dam aatsolen.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>om tid</re>
+            <t pos="Adv">bijjelen</t>
+            <xg>
+               <x>Brunsttiden er forbi. Klokka er kvart over sju.</x>
+               <xt>Rïhkedahke bijjelen. Tsåahka lea njealjehts bijjelen tjïjhtje.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">lett</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">aelhkie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">lettvint</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">aelhkie</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">aelhkieslaakan</t>
+            <xg>
+               <x>Legg regnklær, kniv, kopp og annet viktig utstyr slik at du når de på en lett måte.</x>
+               <xt>Bïejh ebrievaarjoeh, nejpiem, guksiem jïh jeatjah vihkeles deerpegh guktie dejtie aelhkieslaakan
+               jaksh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">litt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">ahtjetje</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">ånnetji</t>
+            <xg>
+               <x>Vent litt!</x>
+               <xt>Vuertieh ånnetji!</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">ånnetje</t>
+            <xg>
+               <x>Fortell nå litt om deg selv.</x>
+               <xt>Soptsesth dellie ånnetje dov bïjre.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">før</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">aarebi</t>
+            <xg>
+               <x>Vi kunne ikke begynne å arbeide med noe før budsjettet var ferdig.</x>
+               <xt>Idtjimh maehtieh mejnie aelkedh aarebi goh budsjedte lij riejries.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">innen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">aarebi</t>
+            <xg>
+               <x>Vi kunne ikke begynne å arbeide med noe før budsjettet var ferdig.</x>
+               <xt>Idtjimh maehtieh mejnie aelkedh aarebi goh budsjedte lij riejries.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">tidligere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">aarebi</t>
+            <xg>
+               <x>Tidligere arbeidet han i skolen. Tidligere het den byen «Luse».</x>
+               <xt>Dïhte lij aarebi voenen skuvlesne barkeme. Aarebi daan staaren nomme «Luse».</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">åvtesne</t>
+            <xg>
+               <x>Før i tiden bodde det mye folk i dette området.</x>
+               <xt>Åvtesne dellie jïjnjh almetjh daennie dajvesne lin årroeminie.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">åvtetje</t>
+            <xg>
+               <x>sted hvor en har vært før, forrige sted</x>
+               <xt>åvtetje mehkie</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">ovtetje</t>
+            <xg>
+               <x>sted hvor en har vært før, forrige sted</x>
+               <xt>ovtetje mehkie</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">for evig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">ahkedh</t>
+            <xg>
+               <x>Bestefar døde.</x>
+               <xt>Aajja ahkedh vöölki.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">bare</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">ajve</t>
+            <xg>
+               <x>I min klasse er det bare ti elever.</x>
+               <xt>Mov klaassesne ajve luhkie learohkh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">barre</t>
+            <xg>
+               <x>Du bare tuller med meg!</x>
+               <xt>Datne barre mannem joptsestahtah!</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="pcle">badth</t>
+            <xg>
+               <x>Slik tenker de, ja. I smug da vel. A nei, da!</x>
+               <xt>Nimhtie badth dah ussjedieh. Suelien badth. Aellieh badth!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">sammen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">aktene</t>
+            <xg>
+               <x>Det er ikke morsomt å være sammen med de menneskene.</x>
+               <xt>Ij leah luste dej almetjigujmie aktene årrodh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">ektesne</t>
+            <xg>
+               <x>Vi to er ikke lenger sammen.</x>
+               <xt>Ean vielie ektesne.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">ektine</t>
+            <xg>
+               <x>sammen med de folkene</x>
+               <xt>ektine dej almetjigujmie</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">ikte</t>
+            <xg>
+               <x>Jeg lukker barmåpningen på kofta med en syl av horn.</x>
+               <xt>Gåptan ohtsem ikte sampeldehtem.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">tjåanghkan</t>
+            <xg>
+               <x>Alle sammen er samlet.</x>
+               <xt>Gaajhkesh leah tjåanghkan.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">tjåenghkesne</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">sammen med</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">aktene</t>
+            <xg>
+               <x>Det er ikke morsomt å være sammen med de menneskene.</x>
+               <xt>Ij leah luste dej almetjigujmie aktene årrodh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">meatan</t>
+            <xg>
+               <x>Du har glemt å ta med sekken.</x>
+               <xt>Datne åajaldahteme voessem meatan vaeltedh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">én for én</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">akti-akti</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">én og én</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">akti-akti</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">forferdelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">alvas</t>
+            <xg>
+               <x>Når han hørte det ble han forferdelig sint.</x>
+               <xt>Gosse dam govli ålvas måarahtovvi.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">gaajh</t>
+            <xg>
+               <x>Dette er en forferdelig stygg hund.</x>
+               <xt>Daate gaajh vesties bïenje.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">vestieslaakan</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">ålvoes</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">isveligke</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">alvorlig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">alvas</t>
+            <xg>
+               <x>Når han hørte det ble han forferdelig sint.</x>
+               <xt>Gosse dam govli ålvas måarahtovvi.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ennå</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">annje</t>
+            <xg>
+               <x>Slik at hun ikke engang kunne komme forbi.</x>
+               <xt>Guktie ij annje baahtsh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">ennje</t>
+            <xg>
+               <x>Har han ikke kommet ennå?</x>
+               <xt>Ij leah ennje båateme?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">før i tiden</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">avtesne</t>
+            <xg>
+               <x>Før i tiden brukte samene å bo i en torvgamme.</x>
+               <xt>Avtesne saemieh provhkin derhviegåetesne årrodh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dejbeeli</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">åvtesne</t>
+            <xg>
+               <x>Før i tiden bodde det mye folk i dette området.</x>
+               <xt>Åvtesne dellie jïjnjh almetjh daennie dajvesne lin årroeminie.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">åvtetji</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dejpeli</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">forbi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">baaltese</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>om tid</re>
+            <t pos="Adv">bijjelen</t>
+            <xg>
+               <x>Brunsttiden er forbi. Klokka er kvart over sju.</x>
+               <xt>Rïhkedahke bijjelen. Tsåahka lea njealjehts bijjelen tjïjhtje.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">snarere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">baaltese</t>
+            <xg>
+               <x>Han er snarere harm.</x>
+               <xt>Irmesne baaltese lea.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">om dagene</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">biejjegi</t>
+            <xg>
+               <x>Om dagene er Jåvva i barnehagen.</x>
+               <xt>Biejjegi Jåvva maanagïertesne.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">østfra</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">lulhtie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">oppe</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">bijjege</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">bijjene</t>
+            <xg>
+               <x>Ungene er allerede oppe.</x>
+               <xt>Maana joe bijjene.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">oventil</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">bijjege</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">i øst</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">lulnie</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">luvlene</t>
+            <xg>
+               <x>De er jo østpå nå.</x>
+               <xt>Dah hov luvlene daelie.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">østover</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">loksese</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">låvlese</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">luvlelen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">vestfra</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">jillede</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">jillelde</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ovenfra</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">bijjelde</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">bijjede</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">bijjelistie</t>
+            <xg>
+               <x>Vi vet ikke hva som kan komme ovenfra.</x>
+               <xt>Ibie daejrieh mij maahta bijjelistie båetedh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">fra ovenfor</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">bijjelistie</t>
+            <xg>
+               <x>Vi vet ikke hva som kan komme ovenfra.</x>
+               <xt>Ibie daejrieh mij maahta bijjelistie båetedh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">lenger opp</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">bijjiebasse</t>
+            <xg>
+               <x>Vi må løfte det lenger opp.</x>
+               <xt>Tjoerebe dam bijjiebasse lutnjedh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">på kne</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">boelvhjöölki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">bedre og bedre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">buerie-buerebe</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">naken</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">båadtsode</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">skåalvode</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">uten klær</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">båadtsode</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">bra</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">boerehkelaakan</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">buerielaakan</t>
+            <xg>
+               <x>Nåtidens menneske lever godt.</x>
+               <xt>Daaletje almetje buerielaakan jeala</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">godt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">boerehkelaakan</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">buerielaakan</t>
+            <xg>
+               <x>Nåtidens menneske lever godt.</x>
+               <xt>Daaletje almetje buerielaakan jeala</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">hijvenlaakan</t>
+            <xg>
+               <x>Det føles godt.</x>
+               <xt>Hijvenlaakan domtoe.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">njaelkieslaakan</t>
+            <xg>
+               <x>Har du sovet godt?</x>
+               <xt>Datne njaelkieslaakan åareme?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">bedre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">buerebe</t>
+            <xg>
+               <x>Det er nok bedre å gjøre det slik.</x>
+               <xt>Buerebe gujht naemhtie darjodh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">feil</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">båajhtede</t>
+            <xg>
+               <x>Nå har jeg gjort feil.</x>
+               <xt>Daelie manne båajhtede dorjeme.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">galt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">båajhtode</t>
+            <xg>
+               <x>Nå har jeg gjort feil.</x>
+               <xt>Daelie manne båajhtode dorjeme.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">misvisende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">båajhtode</t>
+            <xg>
+               <x>Nå har jeg gjort feil.</x>
+               <xt>Daelie manne båajhtode dorjeme.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">tilbake</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">bååstede</t>
+            <xg>
+               <x>Jeg kommer aldri tilbake.</x>
+               <xt>Im manne gåessie bååstede båetieh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">bååstide</t>
+            <xg>
+               <x>Jeg kommer aldri tilbake.</x>
+               <xt>Im manne gåessie bååstide båetieh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">opp</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">bæjjese</t>
+            <xg>
+               <x>Løft opp barnet!</x>
+               <xt>Lutnjh dam maanam bæjjese!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">oppover</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">bæjjese</t>
+            <xg>
+               <x>Løft opp barnet!</x>
+               <xt>Lutnjh dam maanam bæjjese!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">oppover mot fjellet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">bæjjesvåårte</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">på yttersiden</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">bæjngolen</t>
+            <xg>
+               <x>De vil holde oss utenfor.</x>
+               <xt>Dah sijhtieh mijjem bæjngolen utnedh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">utenfor</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">bæjngolen</t>
+            <xg>
+               <x>De vil holde oss utenfor.</x>
+               <xt>Dah sijhtieh mijjem bæjngolen utnedh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">ålkoelisnie</t>
+            <xg>
+               <x>Hvem er det som står utenfor?</x>
+               <xt>Gie ålkoelisnie tjåadtjoeminie?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">her</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">daagkoe</t>
+            <xg>
+               <x>Her har jeg aldri gått.</x>
+               <xt>Im leah aarebi daagkoe vaadtseme.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">daelie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">forbi her</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">daagkoe</t>
+            <xg>
+               <x>Her har jeg aldri gått.</x>
+               <xt>Im leah aarebi daagkoe vaadtseme.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">her omkring</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">daajkoe</t>
+            <xg>
+               <x>Her omkring er det fremdeles barmark.</x>
+               <xt>Daajkoe annje bïevle.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">daajka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">nåtidens</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">daaletje</t>
+            <xg>
+               <x>Er nåtidens samfunn bedre enn før i tiden?</x>
+               <xt>Daaletje siebriedahke buerebe goh åvtesne?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">stadig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">daamhtah</t>
+            <xg>
+               <x>Store fisker setter seg ofte fast med tennene.</x>
+               <xt>Stoerre guelieh daamhtah baenijste dabranieh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">daamhtaj</t>
+            <xg>
+               <x>Store fisker setter seg ofte fast med tennene.</x>
+               <xt>Stoerre guelieh daamhtaj baenijste dabranieh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">daamtaj</t>
+            <xg>
+               <x>Det snør i ett. Store fisker setter seg ofte fast med tennene.</x>
+               <xt>Tjuatsa daamtaj. Stoerre guelieh daamtaj baenijste dabranieh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">iktemearan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ofte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">daamtaj</t>
+            <xg>
+               <x>Det snør i ett. Store fisker setter seg ofte fast med tennene.</x>
+               <xt>Tjuatsa daamtaj. Stoerre guelieh daamtaj baenijste dabranieh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">sittende fast</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dabran</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">akkurat der borte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dabpanahkh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">herfra</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">daebpede</t>
+            <xg>
+               <x>Han er ikke herfra.</x>
+               <xt>Ij leah dïhte daebpede.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">hitover</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">daebpelen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Po">duebpelen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">her borte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">daebpene</t>
+            <xg>
+               <x>Samene har lenge bodd her i sør.</x>
+               <xt>Saemieh guhkiem daebpene åarjene orreme.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">nærmere her</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">daebpielisnie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">nå</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">daelie</t>
+            <xg>
+               <x>Hvem er det som kommer nå? Nå for tiden er det annerledes.</x>
+               <xt>Gie daelie båata? Daelie lea jeatjahlaakan.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">die</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="pcle">mihk</t>
+            <xg>
+               <x>Kanskje du nå gjør det.</x>
+               <xt>Datne mihk dam darjoeh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">nå for tiden</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">daelie</t>
+            <xg>
+               <x>Hvem er det som kommer nå? Nå for tiden er det annerledes.</x>
+               <xt>Gie daelie båata? Daelie lea jeatjahlaakan.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">om vinteren</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">daelvege</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">i dag</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">daenbiejjien</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">daenbien</t>
+            <xg>
+               <x>Idag er det fint vær.</x>
+               <xt>Daenbien buaredh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">daanbien</t>
+            <xg>
+               <x>Kommer du i dag?</x>
+               <xt>Daanbien båatah?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">der</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dagka</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dagkoe</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Po">debpielisnie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">dit</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dahkoe</t>
+            <xg>
+               <x>Har du flyttet dit?</x>
+               <xt>Datne dahkoe juhteme?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>om tid</re>
+            <t pos="Adv">doekoe</t>
+            <xg>
+               <x>utover ettermiddagen utover vinteren</x>
+               <xt>iehkedsbiejjie doekoe daelvie doekoe</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dohkoe</t>
+            <xg>
+               <x>Ikke gå dit bort!</x>
+               <xt>Aellieh vaedtsieh dohkoe!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">de tiders</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dajbeeli</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">der omkring</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dajkoe</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">doejkoe</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dojkoe</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">gojkoe</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">doejka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">øyeblikkelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dallah</t>
+            <xg>
+               <x>Nå med en gang! Det kom en fisk i båten med en gang.</x>
+               <xt>Daelie dallah! Dallah akte guelie vïnhtsese båata.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">snart</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dallahmasten</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">varke</t>
+            <xg>
+               <x>Hun kommer gående fort.</x>
+               <xt>Dïhte varke båata vaedtsien.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">varki</t>
+            <xg>
+               <x>Hun kommer gående fort.</x>
+               <xt>Dïhte varki båata vaedtsien.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">nesten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dallahmasten</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">mahte</t>
+            <xg>
+               <x>Den lille reinkalven bar nesten fast i hullet.</x>
+               <xt>Measetje mahte raajkan dabrani.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">ovrehte</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="pcle">raakte</t>
+            <xg>
+               <x>Jeg falt jo nesten.</x>
+               <xt>Manne hov raakte gahtjim.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">med én gang</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dallatjinie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">straks</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dallegh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">raakth</t>
+            <xg>
+               <x>Det var på høstvinteren, straks før jul. De første snøflakene kom straks etter at vi hadde spent på oss skia.</x>
+               <xt>Daate tjaktjedaelvie, raakth jåvli åvtelen. Dah voestes lopmetjelmieh böötin raakth mænngan goh libie joksedamme.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">så snart som</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dallegh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">derfor</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dannasinie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">akkurat idet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dasth</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">utover</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">davvese</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>om tid</re>
+            <t pos="Adv">doekoe</t>
+            <xg>
+               <x>utover ettermiddagen utover vinteren</x>
+               <xt>iehkedsbiejjie doekoe daelvie doekoe</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dåvvese</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ut fra land</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">davvese</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dåvvese</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ut mot kysten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">davvese</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dåvvese</t>
+            <xg>
+               <x>Om vinteren flytter vi ut mot kysten.</x>
+               <xt>Daelvege dåvvese juhtebe.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">derfra</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">debpede</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dubpelde</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Po">debpielistie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">der borte fra</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">debpede</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dubpede</t>
+            <xg>
+               <x>Lyden kom der borte fra.</x>
+               <xt>Dïhte tjoeje dubpede bööti.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">der borte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">debpene</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dogkoe</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dojkoe</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dubpene</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dogka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">i gamle dager</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dejbeeli</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dejpeli</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">da</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dellie</t>
+            <xg>
+               <x>Det var synd. Det var en fin vårdag da gjesten kom.</x>
+               <xt>Ov dellie gaatesjen. Tjaebpies gïjrebiejjien, dellie goh guessie bööti.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">die</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dle</t>
+            <xg>
+               <x>Noaidien tok opp runebomma fra sekken, og så trommet han litt og joiket. Da de kom til stevneplassen, fikk de vite det.</x>
+               <xt>Nåejtie gievriem vuerpievoesseste jïh dle ånnetji meevri, joejkesti. Goh sjaltan böötin dle åadtjoejin daejredh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">joem</t>
+            <xg>
+               <x>Hvor hen da? Noen steds hen, men hvor hen? Hva da? noen, en eller annen for et eller annet</x>
+               <xt>Gåabpoeh joem? Maam joem? gïem joem mestie joem</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dillie</t>
+            <xg>
+               <x>Da bestemor var liten...</x>
+               <xt>Dillie goh aahka lij onne...</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="pcle">hov</t>
+            <xg>
+               <x>Det var bra! Det er ruskevær med sludd, men så er det jo høst. Nei, Sagka er jo den yngste av oss.</x>
+               <xt>Hijven hov! Sliehtieelmie, mohte tjaktje hov lea. Ijje, Sagka hov dïhte nööremes mijjeste.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="pcle">jam</t>
+            <xg>
+               <x>Og hvem skal da passe kyrne?</x>
+               <xt>Gie jam galka govside geehtedh?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="pcle">darhkan</t>
+            <xg>
+               <x>Hvordan da?</x>
+               <xt>Guktie darhkan?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="pcle">badth</t>
+            <xg>
+               <x>Slik tenker de, ja. I smug da vel. A nei, da!</x>
+               <xt>Nimhtie badth dah ussjedieh. Suelien badth. Aellieh badth!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">derpå</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dellie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">så</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dellie</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">die</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dle</t>
+            <xg>
+               <x>Noaidien tok opp runebomma fra sekken, og så trommet han litt og joiket. Da de kom til stevneplassen, fikk de vite det.</x>
+               <xt>Nåejtie gievriem vuerpievoesseste jïh dle ånnetji meevri, joejkesti. Goh sjaltan böötin dle åadtjoejin daejredh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="pcle">dan</t>
+            <xg>
+               <x>For meg er det så dårlig å bo alene.</x>
+               <xt>Munnjien dan nåake oktegh årrodh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="pcle">darhke</t>
+            <xg>
+               <x>Hvem leser egentlig du for? Hvordan gjør du så det? Hvordan gjør så dere det? / Hva gjør så dere? Hvordan så ... ?</x>
+               <xt>Gïese darhke datne jis lohkh? Guktie darhke darjoeh? Guktie darhke dijjieh darjoejidie? Guktie darhke ... ?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">hit</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">diekie</t>
+            <xg>
+               <x>Kom hit! hit og dit</x>
+               <xt>Båetieh diekie! dohkh diekie</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">der hos deg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">doejkoe</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">bortover</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>om tid</re>
+            <t pos="Adv">doekoe</t>
+            <xg>
+               <x>utover ettermiddagen utover vinteren</x>
+               <xt>iehkedsbiejjie doekoe daelvie doekoe</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">i den retningen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dogkoe</t>
+            <xg>
+               <x>Den dro i den retningen.</x>
+               <xt>Dogkoe vöölki.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">fram og tilbake</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dohk-diekie</t>
+            <xg>
+               <x>Øynene beveger seg fram og tilbake.</x>
+               <xt>Tjelmieh vååjnoeh dohkh diekie juhtieh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dohkh diekie</t>
+            <xg>
+               <x>Øynene beveger seg fram og tilbake.</x>
+               <xt>Tjelmieh vååjnoeh dohkh diekie juhtieh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">hit og dit</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dohk-diekie</t>
+            <xg>
+               <x>Øynene beveger seg fram og tilbake.</x>
+               <xt>Tjelmieh vååjnoeh dohkh diekie juhtieh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dohkh diekie</t>
+            <xg>
+               <x>Øynene beveger seg fram og tilbake.</x>
+               <xt>Tjelmieh vååjnoeh dohkh diekie juhtieh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">til og med</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dovne</t>
+            <xg>
+               <x>endog vise til hele verden til og med behov for i tillegg må man Noen ganger får vi til og med høre at ... Hun kan både skrive og lese.</x>
+               <xt>dovne abpe eatnamasse vuesiehtidh dovne daerpies dovne tjuara Muvhtene dovne åadtjoejibie govledh ahte... Dihte maahta dovne tjaeledh jïh lohkedh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">alt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dovne</t>
+            <xg>
+               <x>endog vise til hele verden til og med behov for i tillegg må man Noen ganger får vi til og med høre at ... Hun kan både skrive og lese.</x>
+               <xt>dovne abpe eatnamasse vuesiehtidh dovne daerpies dovne tjuara Muvhtene dovne åadtjoejibie govledh ahte... Dihte maahta dovne tjaeledh jïh lohkedh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">både</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dovne</t>
+            <xg>
+               <x>endog vise til hele verden til og med behov for i tillegg må man Noen ganger får vi til og med høre at ... Hun kan både skrive og lese.</x>
+               <xt>dovne abpe eatnamasse vuesiehtidh dovne daerpies dovne tjuara Muvhtene dovne åadtjoejibie govledh ahte... Dihte maahta dovne tjaeledh jïh lohkedh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">litt lenger bortifra</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dubpelde</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">se der</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">duelie</t>
+            <xg>
+               <x>Vær så god og ta denne. Der ser du min mors øyne. Se, der kommer gjester.</x>
+               <xt>Duelie daam. Duelie mov tjidtjien tjelmieh. Duelie guessieh båetieh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">duvlie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">vær så god</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">duelie</t>
+            <xg>
+               <x>Vær så god og ta denne. Der ser du min mors øyne. Se, der kommer gjester.</x>
+               <xt>Duelie daam. Duelie mov tjidtjien tjelmieh. Duelie guessieh båetieh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">der har du</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">duvlie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">til lenger bort</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dubpiebasse</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">bortenfor</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dubpielisnie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">lenger bort</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dubpielisnie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">bak</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">duekie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">rommet bak</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">duekie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">langt utpå</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">duvvene</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">langt fra land</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">duvvene</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ut til kysten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">duvvene</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">på høvisk vis</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dåajmetjelaakan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">i fjor</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dæjman</t>
+            <xg>
+               <x>I fjor var det mye bær.</x>
+               <xt>Dæjman jïjnjh muerjieh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dæjmetje</t>
+            <xg>
+               <x>Jeg kjøpte denne bilen i fjor sommer.</x>
+               <xt>Dæjmetje giesien dam bïjlem ööstim.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">på en ivrig måte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">eadtjohkelaakan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">på en modig måte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">eadtjohkelaakan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ens ærend</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">eanghkoen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">med vilje</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">eanghkoen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">først da</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">easkah</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">først nå</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">easkah</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ordentlig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">eensilaakan</t>
+            <xg>
+               <x>Husk å gjør det skikkelig!</x>
+               <xt>Mujhtieh dam eensilaakan darjodh!</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">geesjelelaakan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">grundig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">eensilaakan</t>
+            <xg>
+               <x>Husk å gjør det skikkelig!</x>
+               <xt>Mujhtieh dam eensilaakan darjodh!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">akkurat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">eevre</t>
+            <xg>
+               <x>Lillebarnet blir aldeles trøtt av gåingen.</x>
+               <xt>Maanetje vaedtsiemistie eevre syjle.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">öövre</t>
+            <xg>
+               <x>Og så ble jeg helt alene.</x>
+               <xt>Jïh dellie manne öövre oktegh sjïdtim.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">aldeles</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">eevre</t>
+            <xg>
+               <x>Lillebarnet blir aldeles trøtt av gåingen.</x>
+               <xt>Maanetje vaedtsiemistie eevre syjle.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">öövre</t>
+            <xg>
+               <x>Og så ble jeg helt alene.</x>
+               <xt>Jïh dellie manne öövre oktegh sjïdtim.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="pcle">ov</t>
+            <xg>
+               <x>Å så fin!</x>
+               <xt>Ov man tjaebpies!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">bestandig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">ektede</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">iktegisth</t>
+            <xg>
+               <x>Hun gjør det bestandig på samme måte.</x>
+               <xt>Iktegisth seammalaakan dorje.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">iktesth</t>
+            <xg>
+               <x>Hun har alltid trodd at jeg kommer fra Snåsa.</x>
+               <xt>Dïhte iktesth vïenhteme manne Snåaseste båatam.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">eejnegen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">i samme retning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">ektelen</t>
+            <xg>
+               <x>Hvis man skal komme noen vei i noe samme retning, må man jobbe på samme måte.</x>
+               <xt>Jis edtja ektelen gåabph båetedh dle hov daarah tjoevere sïemeslaakan barkedh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">ektielisnie</t>
+            <xg>
+               <x>Folkene jobber i samme retning.</x>
+               <xt>Almetjh ektielisnie berkieh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">i en retning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">ektelen</t>
+            <xg>
+               <x>Hvis man skal komme noen vei i noe samme retning, må man jobbe på samme måte.</x>
+               <xt>Jis edtja ektelen gåabph båetedh dle hov daarah tjoevere sïemeslaakan barkedh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">ektielisnie</t>
+            <xg>
+               <x>Folkene jobber i samme retning.</x>
+               <xt>Almetjh ektielisnie berkieh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">lenger nå</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>ved nektelse</re>
+            <t pos="Adv">ennje</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">på noen måte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>ved nektelse</re>
+            <t pos="Adv">ennje</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">særlig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">gaaje</t>
+            <xg>
+               <x>Det var veldig morsomt å prate med deg.</x>
+               <xt>Gaaje luste datnine soptsestidh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">veldig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">gaaje</t>
+            <xg>
+               <x>Det var veldig morsomt å prate med deg.</x>
+               <xt>Gaaje luste datnine soptsestidh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">vöölle</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">vanvittig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">gaajh</t>
+            <xg>
+               <x>Dette er en forferdelig stygg hund.</x>
+               <xt>Daate gaajh vesties bïenje.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">litt for</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">faagka</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">faagkan</t>
+            <xg>
+               <x>Kofta er litt for kort.</x>
+               <xt>Gaeptie faagkan åenehks.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">nesten for</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">faagka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">betydelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">faagka</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">faagkan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">plutselig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">faahketji</t>
+            <xg>
+               <x>Plutselig hørte han et eller annet.</x>
+               <xt>Faahketji maam akt govli.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">hver</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">fïere</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">unnskyld</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">gaatesjen</t>
+            <xg>
+               <x>Det var synd. barn man ber om unnskyldning for</x>
+               <xt>Ov dellie gaatesjen. gaatesjen maana</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">beklager</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">gaatesjen</t>
+            <xg>
+               <x>Det var synd. barn man ber om unnskyldning for</x>
+               <xt>Ov dellie gaatesjen. gaatesjen maana</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="i">gaath</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="i">ovgaath</t>
+            <xg>
+               <x>Uff, det barnet!</x>
+               <xt>Ovgaath maana!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">på midten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">gaskoeh</t>
+            <xg>
+               <x>Skal jeg dele på midten?</x>
+               <xt>Edtjem gaskoeh juekedh?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">etter vegen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">geajnoeraejkien</t>
+            <xg>
+               <x>De kommer gående etter vegen. </x>
+               <xt>Geajnoeraejkien båetieh vaedtsien.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">på skikkelig vis</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">geesjelelaakan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">bakpå</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">genhtsiemisnie</t>
+            <xg>
+               <x>Bakpå er det dusker.</x>
+               <xt>Genhtsiemisnie duahpah.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">nemlig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">gidtjh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">sikkert</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">gidtjh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="pcle">gujht</t>
+            <xg>
+               <x>jo visst Brita kom iallfall.</x>
+               <xt>nov gujht Brita gujht bööti.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">om sommeren</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">giesege</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">hvilken veg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">gogkoe</t>
+            <xg>
+               <x>Jeg kommer her hvor du har gått.</x>
+               <xt>Båatam dagkoe gogkoe datne vaadtseme.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">hvor nærmere bestemt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">gogkoe</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">gogka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">til</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>om tid</re>
+            <t pos="Adv">goske</t>
+            <xg>
+               <x>Vent til Birje kommer, du får høre fra henne.</x>
+               <xt>Vuertieh goske Birje båata, destie åadtjoeh govledh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">når</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">gosse</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">gåessie</t>
+            <xg>
+               <x>Når går bussen? Aldri.</x>
+               <xt>Gåessie busse jåhta? Ij gåessie gan.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">hvor hen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">gosse</t>
+            <xg>
+               <x>Hvor har du lagt det?</x>
+               <xt>Gosse dam bïejeme?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">hvorfra</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">gubpede</t>
+            <xg>
+               <x>Hvor kommer du fra?</x>
+               <xt>Gubpede båatah?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">gustie</t>
+            <xg>
+               <x>Hvorfra har du tatt det?</x>
+               <xt>Gustie datne dam vaalteme?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">gåebpielistie</t>
+            <xg>
+               <x>Hvorfra kom hun?</x>
+               <xt>Gåebpielistie bööti?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">fra hvilken kant</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">gubpede</t>
+            <xg>
+               <x>Hvor kommer du fra?</x>
+               <xt>Gubpede båatah?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">hvor</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">gubpene</t>
+            <xg>
+               <x>Hvor er reinhjorden nå?</x>
+               <xt>Gubpene krievvie daelie?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">gusnie</t>
+            <xg>
+               <x>Hvor er hunden?</x>
+               <xt>Gusnie bïenje?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">gåabph</t>
+            <xg>
+               <x>Jeg vet ikke hvor han gikk. Hvor skal du?</x>
+               <xt>Im manne daejrieh gåabph veedtsi. Gåabph edtjh?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">gåebpelen</t>
+            <xg>
+               <x>Jeg vet ikke ennå hvorhen de har flyttet reinsflokken.</x>
+               <xt>Im annje daejrieh gåebpelen dah leah krievviem juhteme.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">man</t>
+            <xg>
+               <x>Hvorfor? Hvor lenge skal du være her?</x>
+               <xt>Man åvteste? Man guhkiem edtjh daesnie årrodh?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">gogka</t>
+            <xg>
+               <x>Jeg kommer her hvor du har gått.</x>
+               <xt>Båatam dagka gogka datne vaadtseme.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">på hvilken kant</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">gubpene</t>
+            <xg>
+               <x>Hvor er reinhjorden nå?</x>
+               <xt>Gubpene krievvie daelie?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">langt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">guhkie</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">gåhkese</t>
+            <xg>
+               <x>Den dro langt av sted.</x>
+               <xt>Dïhte gåhkese vöölki.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">lenge</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">guhkiem</t>
+            <xg>
+               <x>Du ble jo så lenge borte.</x>
+               <xt>Guhkiem hov sjïdtih.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">med</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">gujmie</t>
+            <xg>
+               <x>Hun fikk nå ikke reise med.</x>
+               <xt>Idtji badth dïhte fihkh vuelkijh gujmie.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">meatan</t>
+            <xg>
+               <x>Du har glemt å ta med sekken.</x>
+               <xt>Datne åajaldahteme voessem meatan vaeltedh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">hvordan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">guktie</t>
+            <xg>
+               <x>Hva heter du? Hvordan går det med deg?</x>
+               <xt>Guktie dov nomme? Guktie datnine?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">nåtsh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">gumhtie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">slik at</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">guktie</t>
+            <xg>
+               <x>De sauene lå samlet og hvilte, slik at ingen kom seg forbi.</x>
+               <xt>Dah sïrvh lin tjåenghkesne lovvesjeminie guktie idtji gie gænnah baahtsh vaedtsedh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">i hvilken retning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>om to</re>
+            <t pos="Adv">gåabpelen</t>
+            <xg>
+               <x>I hvilken av de to retningene dro hun?</x>
+               <xt>Gåabpelen vöölki?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">gåabph</t>
+            <xg>
+               <x>Jeg vet ikke hvor han gikk. Hvor skal du?</x>
+               <xt>Im manne daejrieh gåabph veedtsi. Gåabph edtjh?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">feilaktig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">gåarhmede</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">vrangt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">gåarhmede</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">bakvendt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">gåarhmede</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">motsols</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">gåarhmede</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">vrangvillig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">gåarhmede</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">krummet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">gåavede</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">gåavode</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">hvorhen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">gåebpelen</t>
+            <xg>
+               <x>Jeg vet ikke ennå hvorhen de har flyttet reinsflokken.</x>
+               <xt>Im annje daejrieh gåebpelen dah leah krievviem juhteme.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">langt av sted</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">gåhkese</t>
+            <xg>
+               <x>Den dro langt av sted.</x>
+               <xt>Dïhte gåhkese vöölki.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">om våren</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">gïjrege</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">parvis</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">gööktesi gööktesi</t>
+            <xg>
+               <x>De gikk parvis framover.</x>
+               <xt>Gööktesi gööktesi åvtese veedtsin.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">to og to</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">gööktesi gööktesi</t>
+            <xg>
+               <x>De gikk parvis framover.</x>
+               <xt>Gööktesi gööktesi åvtese veedtsin.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">på en bra måte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">hijvenlaakan</t>
+            <xg>
+               <x>Det føles godt.</x>
+               <xt>Hijvenlaakan domtoe.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">faktisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">hojhte</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">ojhte</t>
+            <xg>
+               <x>Berit klarte faktisk å gjennomføre studiene. Og det ble faktisk slik.</x>
+               <xt>Birje ojhte buektiehti dam learoem tjïrrehtidh. Jïh ojhte sjïdti.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">heldigvis</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">hågkh</t>
+            <xg>
+               <x>Nå holder han vel fast. / Nå holder det heldigvis.</x>
+               <xt>Dellie hågkh utnehte.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">maaje</t>
+            <xg>
+               <x>De sniker seg riktignok stille ut, men likevel er også barna alt oppe. Piere falt pladask på ryggen i bekken enda han hadde med seg stav. riktignok</x>
+               <xt>Dah maaje sjeavodslaakan njaakijægan olkese, læjhkan leah maanah aaj joe bijjene. Piere pleahkan johkese gahtji maaje klaahkine meatan. nov maaje</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dellie maajetjh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="pcle">hogkh</t>
+            <xg>
+               <x>Heldigvis kom han til hjelp. Det var godt at du ikke var redd.</x>
+               <xt>Veajkoej hogkh dïhte bööti viehkine. Joe hogkh idtjih bïllh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">vel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">hågkh</t>
+            <xg>
+               <x>Nå holder han vel fast. / Nå holder det heldigvis.</x>
+               <xt>Dellie hågkh utnehte.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">veele</t>
+            <xg>
+               <x>Forklar nøyaktig hvordan du har gjort det.</x>
+               <xt>Buerkesth veele guktie dam dorjeme.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>ved subjekt 1.p. entall</re>
+            <t pos="pcle">mån</t>
+            <xg>
+               <x>I morgen kommer jeg vel.</x>
+               <xt>Jirreden mån båatam.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>ved subjekt 2.p. entall</re>
+            <t pos="pcle">dån</t>
+            <xg>
+               <x>Du vet vel. Kjære julenisse. Du glemmer vel ikke mine barn?</x>
+               <xt>Datne dån daajrah. Gieries jåvle-aajja. Ih dån datne mov maanide åajaldehtieh?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>ved subjekt 3.p. entall</re>
+            <t pos="pcle">sån</t>
+            <xg>
+               <x>Piere vet vel.</x>
+               <xt>Piere sån daajra.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>ved subjekt 1.p. totall</re>
+            <t pos="pcle">min</t>
+            <xg>
+               <x>Vi to kommer vel i morgen.</x>
+               <xt>Jirreden min båetien.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>ved subjekt 2.p. totall</re>
+            <t pos="pcle">din</t>
+            <xg>
+               <x>Dere to kommer vel også?</x>
+               <xt>Dåtnoeh din aaj båeteden?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>ved subjekt 3.p. totall</re>
+            <t pos="pcle">sin</t>
+            <xg>
+               <x>De to var vel også der.</x>
+               <xt>Dah guaktah sin aaj desnie.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>ved subjekt 1.p. flertall</re>
+            <t pos="pcle">mih</t>
+            <xg>
+               <x>Også vi kan vel lære noe av dem.</x>
+               <xt>Mijjieh mih aaj maehtebe maam akt dejstie lïeredh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>ved subjekt 2.p. flertall</re>
+            <t pos="pcle">dih</t>
+            <xg>
+               <x>Dere får vel også høre hvordan det blir.</x>
+               <xt>Dijjieh dih aaj åadtjoejidie govledh guktie sjædta.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>ved subjekt 3.p. flertall</re>
+            <t pos="pcle">sih</t>
+            <xg>
+               <x>De sa at nå kommer vel de også.</x>
+               <xt>Jeehtin, nov sih sijjieh aaj båetieh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="pcle">hogkh</t>
+            <xg>
+               <x>Heldigvis kom han til hjelp. Det var godt at du ikke var redd.</x>
+               <xt>Veajkoej hogkh dïhte bööti viehkine. Joe hogkh idtjih bïllh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">på naturlig vis</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">iemielaakan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">for kort tid siden</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">ieskien</t>
+            <xg>
+               <x>Fortell at bestemor nettopp har dratt til sykehuset.</x>
+               <xt>Saarnoeh, ihke aahka ieskien skïemtjegåatan vualkeme.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">en gang</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">ikth</t>
+            <xg>
+               <x>En gang så kom han til meg, og spurte om jeg hadde hørt nyheten.</x>
+               <xt>Ikth dellie munnjien bööti gihtji mejtie manne saerniem govleme.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">uavlatelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">iktemearan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">etter hverandre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">iktemearan</t>
+            <xg>
+               <x>Hun skal dekke til ljoren og alle åpninger tre kvelder etter hverandre.</x>
+               <xt>Galka riehpenem jïh gaajhkide raejkide gaptjedh golme iehkedh iktemearan.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">alltid</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">iktegisth</t>
+            <xg>
+               <x>Hun gjør det bestandig på samme måte.</x>
+               <xt>Iktegisth seammalaakan dorje.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">iktesth</t>
+            <xg>
+               <x>Hun har alltid trodd at jeg kommer fra Snåsa.</x>
+               <xt>Dïhte iktesth vïenhteme manne Snåaseste båatam.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">eejnegen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">spesielt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">inhtsie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">utelukkende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">inhtsie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">o.s.v.</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">j.n.v.</t>
+            <xg>
+               <x>og så videre</x>
+               <xt>jïh nimhtie vijriebasse</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">knapt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">jallan</t>
+            <xg>
+               <x>Lillebror er knapt to år gammel.</x>
+               <xt>Onnevïelle lea jallan göökten jaepien båeries.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">så vidt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">jallan</t>
+            <xg>
+               <x>Lillebror er knapt to år gammel.</x>
+               <xt>Onnevïelle lea jallan göökten jaepien båeries.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">vestover</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">jallese</t>
+            <xg>
+               <x>Utover vinteren så flytter vi vestover.</x>
+               <xt>Daelvie doekoe jallese juhtebe.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">på en levelig måte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">jielijelaakan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">mesteparten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">jeanasommes</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">nede</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">vuelege</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">vuelnie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">nedentil</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">vuelege</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">i vestlig retning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">jillege</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">i vest</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">jillene</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">vestpå</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">jillene</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">i morgen tidlig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">jirredeaereden</t>
+            <xg>
+               <x>I morgen tidlig kommer bestemor.</x>
+               <xt>Jirredeaereden aahka båata.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">i morgen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">jirreden</t>
+            <xg>
+               <x>Jeg kommer sannsynligvis i morgen.</x>
+               <xt>Jirreden mån båatam.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">allerede</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">joe</t>
+            <xg>
+               <x>Er du allerede ferdig?</x>
+               <xt>Joe galhkeme?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">særdeles</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">joekoen</t>
+            <xg>
+               <x>Det var særdeles morsomt å treffe deg. særdeles lodden særlig ansvar</x>
+               <xt>Joekoen luste datnem råakedh. joekoen bååvteres joekoen dïedte</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">særskilt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">joekoen</t>
+            <xg>
+               <x>Det var særdeles morsomt å treffe deg. særdeles lodden særlig ansvar</x>
+               <xt>Joekoen luste datnem råakedh. joekoen bååvteres joekoen dïedte</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ned etter elva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">johkebealam</t>
+            <xg>
+               <x>Birje begynner å gå langs elvebredden.</x>
+               <xt>Birje johkebealam vaadtsije.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">opp etter elva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">johkebealam</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">i går</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">jååktan</t>
+            <xg>
+               <x>Jeg kom i går.</x>
+               <xt>Jååktan böötim.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">don biejjien</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kanskje</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">kaanne</t>
+            <xg>
+               <x>Kanskje du også vil være med?</x>
+               <xt>Kaanne datne aaj sïjhth meatan årrodh?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="pcle">vuj</t>
+            <xg>
+               <x>Kanskje du blir igjen hjemme?</x>
+               <xt>Vuj datne gåatan baatsah?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">tro om</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">ledtjie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">østpå</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">luvlene</t>
+            <xg>
+               <x>De er jo østpå nå.</x>
+               <xt>Dah hov luvlene daelie.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">østafor</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">luvlielisnie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">likevel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">læjhkan</t>
+            <xg>
+               <x>Til sommeren får hun likevel mulighet til å jobbe med hester.</x>
+               <xt>Geasan læjhkan nuepiem åådtje hierkiejgujmie barkedh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">lïjhke</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">riktignok</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">maaje</t>
+            <xg>
+               <x>De sniker seg riktignok stille ut, men likevel er også barna alt oppe. Piere falt pladask på ryggen i bekken enda han hadde med seg stav. riktignok</x>
+               <xt>Dah maaje sjeavodslaakan njaakijægan olkese, læjhkan leah maanah aaj joe bijjene. Piere pleahkan johkese gahtji maaje klaahkine meatan. nov maaje</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="pcle">darhkan</t>
+            <xg>
+               <x>Hvordan da?</x>
+               <xt>Guktie darhkan?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">hvorfor</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">man</t>
+            <xg>
+               <x>Hvorfor? Hvor lenge skal du være her?</x>
+               <xt>Man åvteste? Man guhkiem edtjh daesnie årrodh?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">man åvteste</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">omtrent</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">medtie</t>
+            <xg>
+               <x>Det er ca. 7 mil dit.</x>
+               <xt>Dahkoe leah medtie tjïjhtje mïjlh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">madte</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">ovrehte</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">cirka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">medtie</t>
+            <xg>
+               <x>Det er ca. 7 mil dit.</x>
+               <xt>Dahkoe leah medtie tjïjhtje mïjlh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">bakover</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">miehtjelde</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">mænngese</t>
+            <xg>
+               <x>Ikke titt bakover!</x>
+               <xt>Aellieh mænngese vïjlelh!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">til slutt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">minngemes</t>
+            <xg>
+               <x>Hvordan skal det vel gå til sist?</x>
+               <xt>Guktie sån sjædta minngemes?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">på det siste</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">minngemes</t>
+            <xg>
+               <x>Hvordan skal det vel gå til sist?</x>
+               <xt>Guktie sån sjædta minngemes?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ved et uhell</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">miste</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">uten vilje</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">miste</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">med omtanke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">mojhteleslaakan</t>
+            <xg>
+               <x>Kjør forsiktig!</x>
+               <xt>Vuejieh mojhteleslaakan!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">forsiktig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">mojhteleslaakan</t>
+            <xg>
+               <x>Kjør forsiktig!</x>
+               <xt>Vuejieh mojhteleslaakan!</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">soejmetje</t>
+            <xg>
+               <x>Forsiktig begynner jeg å sløye den lille fisken.</x>
+               <xt>Soejmetje aalkam tjööledh dam onne gualetjem.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">soejmetji</t>
+            <xg>
+               <x>Forsiktig begynner jeg å sløye den lille fisken.</x>
+               <xt>Soejmetji aalkam tjööledh dam onne gualetjem.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">soejmi</t>
+            <xg>
+               <x>Forsiktig!</x>
+               <xt>Soejmi!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">trivelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">murrie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">nå og da</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">muvhtene</t>
+            <xg>
+               <x>Noen ganger får vi høre at ...</x>
+               <xt>Muvhtene åadtjoejibie govledh ahte ...</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">av og til</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">muvhtine</t>
+            <xg>
+               <x>Noen ganger får vi høre at ...</x>
+               <xt>Muvhtine åadtjoejibie govledh ahte...</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">noen ganger</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">muvhtine</t>
+            <xg>
+               <x>Noen ganger får vi høre at ...</x>
+               <xt>Muvhtine åadtjoejibie govledh ahte...</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">naan aejkien</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">nokså</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">naa</t>
+            <xg>
+               <x>Den er temmelig stor.</x>
+               <xt>Dïhte naa stoerre.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">na</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">temmelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">naa</t>
+            <xg>
+               <x>Den er temmelig stor.</x>
+               <xt>Dïhte naa stoerre.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">slik som denne</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">naemhtemes</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">på denne måten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">naemhtie</t>
+            <xg>
+               <x>Slik går det også an å gjøre det.</x>
+               <xt>Naemhtie gåarede aaj darjodh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">nemhtie</t>
+            <xg>
+               <x>Gjør det slik som din søster gjorde.</x>
+               <xt>Darjoeh nemhtie guktie dov åabpa darjoeji.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">nimhtie</t>
+            <xg>
+               <x>Bestefar viste på denne måte hvordan det var. og så videre Sånn får du ikke lov til! / Nå må du gi deg! Å ja, sånn.</x>
+               <xt>Aajja jis nimhtie vuesiehti guktie lij. jïh nimhtie vijriebasse Ih åadtjodh nimhtie! Å ja, nimhtie.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">slik</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">naemhtie</t>
+            <xg>
+               <x>Slik går det også an å gjøre det.</x>
+               <xt>Naemhtie gåarede aaj darjodh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">nemhtie</t>
+            <xg>
+               <x>Gjør det slik som din søster gjorde.</x>
+               <xt>Darjoeh nemhtie guktie dov åabpa darjoeji.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">nimhtie</t>
+            <xg>
+               <x>Bestefar viste på denne måte hvordan det var. og så videre Sånn får du ikke lov til! / Nå må du gi deg! Å ja, sånn.</x>
+               <xt>Aajja jis nimhtie vuesiehti guktie lij. jïh nimhtie vijriebasse Ih åadtjodh nimhtie! Å ja, nimhtie.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">numhtegh</t>
+            <xg>
+               <x>På den måten fløy den ut.</x>
+               <xt>Jïh numhtegh frurkehte olkese.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">numhtie</t>
+            <xg>
+               <x>På den der måten går det også an å gjøre det. </x>
+               <xt>Numhtie aaj gåarede darjodh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">uten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">namhtah</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">uten videre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">namhtah</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">numhtegh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">uten å ha spist</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">namhtah</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">gratis</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">namhtah</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Po">namhtegh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">på en behagelig måte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">njaelkieslaakan</t>
+            <xg>
+               <x>Har du sovet godt?</x>
+               <xt>Datne njaelkieslaakan åareme?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">nord om</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">noerhtelen</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">i nord</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">noerhtene</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">nordpå</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">noerhtene</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">nordover</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">noerhtese</t>
+            <xg>
+               <x>Når reiser dere nordover?</x>
+               <xt>Gåessie dijjieh noerhtese vuelkede?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">jo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">nov</t>
+            <xg>
+               <x>Jo visst er det plass til deg også.</x>
+               <xt>Nov amma sijjie dutnjien aaj.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="pcle">hov</t>
+            <xg>
+               <x>Det var bra! Det er ruskevær med sludd, men så er det jo høst. Nei, Sagka er jo den yngste av oss.</x>
+               <xt>Hijven hov! Sliehtieelmie, mohte tjaktje hov lea. Ijje, Sagka hov dïhte nööremes mijjeste.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="pcle">van</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">novh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">jo visst</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">novh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="pcle">maa</t>
+            <xg>
+               <x>Da ble det sannelig bra.</x>
+               <xt>Dellie maa hijven sjïdti.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">nok</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">novh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">nuekies</t>
+            <xg>
+               <x>Nå er det nok!</x>
+               <xt>Daelie hov nuekies!</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="pcle">nagkh</t>
+            <xg>
+               <x>I vårt språk er det nok slike ord.</x>
+               <xt>Mijjen gïelesne nagkh dagkerh baakoeh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="pcle">badth</t>
+            <xg>
+               <x>Slik tenker de, ja. I smug da vel. A nei, da!</x>
+               <xt>Nimhtie badth dah ussjedieh. Suelien badth. Aellieh badth!</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="pcle">gujht</t>
+            <xg>
+               <x>jo visst Brita kom iallfall.</x>
+               <xt>nov gujht Brita gujht bööti.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">tilstrekkelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">nuekies</t>
+            <xg>
+               <x>Nå er det nok!</x>
+               <xt>Daelie hov nuekies!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">på den måten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">numhtegh</t>
+            <xg>
+               <x>På den måten fløy den ut.</x>
+               <xt>Jïh numhtegh frurkehte olkese.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">på den der måten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">numhtie</t>
+            <xg>
+               <x>På den der måten går det også an å gjøre det. </x>
+               <xt>Numhtie aaj gåarede darjodh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">dårlig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">nåakelaakan</t>
+            <xg>
+               <x>I natt har jeg sovet dårlig.</x>
+               <xt>Daan jïjjen manne nåakelaakan åareme.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">som ventet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">ojhte</t>
+            <xg>
+               <x>Berit klarte faktisk å gjennomføre studiene. Og det ble faktisk slik.</x>
+               <xt>Birje ojhte buektiehti dam learoem tjïrrehtidh. Jïh ojhte sjïdti.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">alene</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">oktebisnie</t>
+            <xg>
+               <x>Jeg liker ikke å være for meg selv.</x>
+               <xt>Im lyjhkh oktebisnie årrodh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">oktegh</t>
+            <xg>
+               <x>Jeg vil ikke bli igjen her alene.</x>
+               <xt>Im manne sïjhth daase oktegh baetsedh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">oktegimse</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">for seg selv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">oktebisnie</t>
+            <xg>
+               <x>Jeg liker ikke å være for meg selv.</x>
+               <xt>Im lyjhkh oktebisnie årrodh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">oktegims</t>
+            <xg>
+               <x>Han liker nok å bo for seg selv.</x>
+               <xt>Dïhte gujht lyjhkoe oktegims årrodh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">oktegimsie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ensomt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">oktegh</t>
+            <xg>
+               <x>Jeg vil ikke bli igjen her alene.</x>
+               <xt>Im manne sïjhth daase oktegh baetsedh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">oktegimse</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ut</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">olkese</t>
+            <xg>
+               <x>Gå ut!</x>
+               <xt>Vaedtsieh olkese!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">slettes ikke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">raakth</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">riktig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">raaktan</t>
+            <xg>
+               <x>Vi vet ikke riktig hva som er nødvendig å dele ut.</x>
+               <xt>Ibie raaktan daejrieh daelie mejtie lea daerpies joekedidh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">reaktoe</t>
+            <xg>
+               <x>Helt riktig!</x>
+               <xt>Eevre reaktoe!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">helt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">raaktan</t>
+            <xg>
+               <x>Vi vet ikke riktig hva som er nødvendig å dele ut.</x>
+               <xt>Ibie raaktan daejrieh daelie mejtie lea daerpies joekedidh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">aejvie</t>
+            <xg>
+               <x>Helt riktig!</x>
+               <xt>Aejvie reaktoe!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">rett</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">rïekte</t>
+            <xg>
+               <x>Du kommer vel ikke slaskende beint over myrene?</x>
+               <xt>Ih dån rïekte båetieh laabjehten pluevieh?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">beint</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">rïekte</t>
+            <xg>
+               <x>Du kommer vel ikke slaskende beint over myrene?</x>
+               <xt>Ih dån rïekte båetieh laabjehten pluevieh?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">på en utholdende måte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">saavrehkelaakan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">meget</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">sagke</t>
+            <xg>
+               <x>Og da ble det meget bedre.</x>
+               <xt>Jïh dellie sagke buerebe sjïdti.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">sagki</t>
+            <xg>
+               <x>Laara er mye eldre enn Anne.</x>
+               <xt>Laara sagki båarasåbpoe Aanneste.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">samme</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">seamma</t>
+            <xg>
+               <x>Hun er like gammel som meg. like mange som fingrene dine</x>
+               <xt>Dïhte seamma båeries manneste. seamma gellieh dov soermijste</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">like</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">seamma</t>
+            <xg>
+               <x>Hun er like gammel som meg. like mange som fingrene dine</x>
+               <xt>Dïhte seamma båeries manneste. seamma gellieh dov soermijste</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">på samme vis</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">seammalaakan</t>
+            <xg>
+               <x>Hver gang gjør vi på samme vis.</x>
+               <xt>Fïerhten aejkien seammalaakan darjobe.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">likedan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">seammalaakan</t>
+            <xg>
+               <x>Hver gang gjør vi på samme vis.</x>
+               <xt>Fïerhten aejkien seammalaakan darjobe.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">sent</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">seenhte</t>
+            <xg>
+               <x>Det ble så sent i går.</x>
+               <xt>Jååktan dan seenhte sjïdti.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">på en lydløs måte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">sjeavodslaakan</t>
+            <xg>
+               <x>Katten smyger seg stille frem.</x>
+               <xt>Gaahtoe sjeavodslaakan njaakeminie.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">på skrå</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">slahkode</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">raskt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">snaebpie</t>
+            <xg>
+               <x>Det er raskt å gå der.</x>
+               <xt>Snaebpie doegkoe vaedtsedh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">sneehpeslaakan</t>
+            <xg>
+               <x>Han springer sannelig raskt.</x>
+               <xt>Dïhte hov sneehpeslaakan vaarra.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">på en rask måte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">sneehpeslaakan</t>
+            <xg>
+               <x>Han springer sannelig raskt.</x>
+               <xt>Dïhte hov sneehpeslaakan vaarra.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ganske sakte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">soejmetje</t>
+            <xg>
+               <x>Forsiktig begynner jeg å sløye den lille fisken.</x>
+               <xt>Soejmetje aalkam tjööledh dam onne gualetjem.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">soejmetji</t>
+            <xg>
+               <x>Forsiktig begynner jeg å sløye den lille fisken.</x>
+               <xt>Soejmetji aalkam tjööledh dam onne gualetjem.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">sakte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">soejmi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">imot</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">sontere</t>
+            <xg>
+               <x>Han hugger flere kvister, men plutselig glir kniven og kommer imot pekefingeren.</x>
+               <xt>Jienebh åeksieh tjuahpa, mohte faahketji nejpie njalkeste jïh tjovtjehken sontere båata.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">i smug</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">suelede</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">suelien</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">sueleden</t>
+            <xg>
+               <x>De hadde gjort det i smug.</x>
+               <xt>Dam lin sueleden dorjeme.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">fint</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">tjaebpieslaakan</t>
+            <xg>
+               <x>Han skriver så fint til meg.</x>
+               <xt>Dïhte dan tjaebpieslaakan munnjien tjaala.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">tjaebpiesligke</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">på en fin måte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">tjaebpieslaakan</t>
+            <xg>
+               <x>Han skriver så fint til meg.</x>
+               <xt>Dïhte dan tjaebpieslaakan munnjien tjaala.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">i høy grad</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">tjamki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">på dyktig måte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">tjiehpieslaakan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">omhyggelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">tjiehpieslaakan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">netthendt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">tjiehpieslaakan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">for seg sjøl</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">tjietjele</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">tjietjelen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">energisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">tjimkeslaakan</t>
+            <xg>
+               <x>Når man jobber hardt, er det også viktig å hvile litt.</x>
+               <xt>Gosse tjimkeslaakan barkedh dellie aaj vihkele lïegkestidh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">fort</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">varke</t>
+            <xg>
+               <x>Hun kommer gående fort.</x>
+               <xt>Dïhte varke båata vaedtsien.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">varki</t>
+            <xg>
+               <x>Hun kommer gående fort.</x>
+               <xt>Dïhte varki båata vaedtsien.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">stygt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">vestieslaakan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">mer</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">vielie</t>
+            <xg>
+               <x>Vil dere ha mer kaffe?</x>
+               <xt>Sïjhtede vielie prïhtjegem?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">i tillegg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">vielie</t>
+            <xg>
+               <x>Vil dere ha mer kaffe?</x>
+               <xt>Sïjhtede vielie prïhtjegem?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">lenger</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>ved nektelse</re>
+            <t pos="Adv">vielie</t>
+            <xg>
+               <x>Vi to er ikke lenger sammen.</x>
+               <xt>Ean vielie ektesne.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">atter</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">vihth</t>
+            <xg>
+               <x>Det er din tur igjen! Laara gjør det på nytt.</x>
+               <xt>Dov våaroe vihth! Laara aaj vihth.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">først</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">voestegh</t>
+            <xg>
+               <x>Jeg kommer, men først må jeg rydde.</x>
+               <xt>Manne gujht båatam, men voestegh tjoerem sjeakodh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Po">åvtene</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">nedenfor</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">vuelelen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">nedenfra</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">vuelhtie</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">vuelielistie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">lenger ned</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">vueliebasse</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">lenger nede</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">vueliebasse</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">fra nedenfor</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">vuelielistie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ser ut til</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">vååjnoes</t>
+            <xg>
+               <x>Etter uværet ser det ut til å klarne opp.</x>
+               <xt>Elmien mænngan vååjnoes böövti.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ned</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">våålese</t>
+            <xg>
+               <x>Ikke se nedover!</x>
+               <xt>Aellieh våålese gïehtjh!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">nedover</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">våålese</t>
+            <xg>
+               <x>Ikke se nedover!</x>
+               <xt>Aellieh våålese gïehtjh!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">på en flink måte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">væjkeleslaakan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">flink</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">væjkeleslaakan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">på en tålmodig og utholdende måte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">vïssjeleslaakan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">til overs</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">åebrelen</t>
+            <xg>
+               <x>Noe har blitt til overs. Jeg ga mer en nok.</x>
+               <xt>Mij akt åebrelen sjïdteme. Vedtim åebrelen.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">satt til sides</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">åebrelen</t>
+            <xg>
+               <x>Noe har blitt til overs. Jeg ga mer en nok.</x>
+               <xt>Mij akt åebrelen sjïdteme. Vedtim åebrelen.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">i sør</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">åarjene</t>
+            <xg>
+               <x>Samene har lenge bodd her i sør.</x>
+               <xt>Saemieh guhkiem daebpene åarjene orreme.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">sørpå</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">åarjene</t>
+            <xg>
+               <x>Samene har lenge bodd her i sør.</x>
+               <xt>Saemieh guhkiem daebpene åarjene orreme.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">utenfra</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">ålkede</t>
+            <xg>
+               <x>Barnet kommer utenfra.</x>
+               <xt>Maana ålkede båata.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">ålkode</t>
+            <xg>
+               <x>Barnet kommer utenfra.</x>
+               <xt>Maana ålkode båata.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ute</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">ålkene</t>
+            <xg>
+               <x>De er ute.</x>
+               <xt>Dah leah ålkene.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">ålkone</t>
+            <xg>
+               <x>Ungene er ute.</x>
+               <xt>Maanah leah ålkone.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">på utsiden</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">ålkoelisnie</t>
+            <xg>
+               <x>Hvem er det som står utenfor?</x>
+               <xt>Gie ålkoelisnie tjåadtjoeminie?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">utenpå</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">ålkolde</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">utvendig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">ålkolde</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">fryktelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">ålvas</t>
+            <xg>
+               <x>voldsomt stor</x>
+               <xt>ålvas stoerre</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">voldsomt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">ålvas</t>
+            <xg>
+               <x>voldsomt stor</x>
+               <xt>ålvas stoerre</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">fremover</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">åvtese</t>
+            <xg>
+               <x>Når skal det sørsamiske språket føres fremover?</x>
+               <xt>Gosse edtja åarjelsaemien gïelem åvtese lutnjedh?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">foran</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">åvtine</t>
+            <xg>
+               <x>Skal du sitte foran?</x>
+               <xt>Edtjh åvtine tjahkasjidh?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">framme</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">åvtine</t>
+            <xg>
+               <x>Skal du sitte foran?</x>
+               <xt>Edtjh åvtine tjahkasjidh?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">altfor</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">ååpsen</t>
+            <xg>
+               <x>Kofta er altfor kort.</x>
+               <xt>Gaeptie ååpsen åenehke.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">fra nord</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">noerhtelistie</t>
+            <xg>
+               <x>Det er lenge siden man har hørt nyheter i fra nord.</x>
+               <xt>Guhkiem mænngan saernieh noerhtelistie govleme.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">på liksom</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">låssas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">lenger bakom</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">miehtjiebasse</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">bar på hals og bryst</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">pleaksjode</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">innenfor</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">sisnjelen</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">på innsida</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">sisnjelen</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">sisnjielisnie</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">sjisjnjielisnie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">om høsten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">tjaktjege</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">varsomt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">tjeapetji</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">som helst</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">saaht</t>
+            <xg>
+               <x>Hva man enn sier, så er det ingen som forstår noe. Legg det hvor som helst. hvem som helst hva som helst</x>
+               <xt>Saaht guktie jeahta, ij gie maam gænnah guarkah. Bïejh dam saaht sæjjan. saaht gie saaht mij</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">med vinden</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">bïegkeraejkien</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">om dagen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">biejjege</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">hornløs</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">nåljode</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">sant</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">reaktoe</t>
+            <xg>
+               <x>Helt riktig!</x>
+               <xt>Eevre reaktoe!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l gen="m" pos="Adv">kvalm</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">tjööjjeste</t>
+            <xg>
+               <x>Jeg er kvalm.</x>
+               <xt>Manne tjööjjeste.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">krumrygget</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">kråavvoehrudtjen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">dragende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">giesien</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">fra en retning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">ektielistie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">mer enn nok</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">åebrielisnie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">fra det som er til overs</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">åebrielistie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">om kvelden</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">iehkeden</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">såpass</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">devverde</t>
+            <xg>
+               <x>Han var så pass til kar. Han var så pass til å springe (at han klarte seg). Den er da så pass utholdende (at det går an å flytte).</x>
+               <xt>Devverde lij. Devverde lij vaarredh. Devverde hov gaarsje.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">rart</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">rovnege</t>
+            <xg>
+               <x>Det ser rart ut.</x>
+               <xt>Rovnege vååjnoe.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">underlig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">rovnege</t>
+            <xg>
+               <x>Det ser rart ut.</x>
+               <xt>Rovnege vååjnoe.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">langt borte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">guhkene</t>
+            <xg>
+               <x>Hytta hans er langt oppe til fjells, ved siden av Steinvatnet.</x>
+               <xt>Dan hæhtjoe lea guhkene bijjene vaeresne, Gierkiejaevrien lïhke.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">langt borte fra</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">guhkede</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">langveis fra</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">guhkede</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">mangfoldig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">gellielaaketje</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">på mange måter</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">gellielaakan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">på en bedre måte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">buerebelaakan</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">sørover</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">åarjese</t>
+            <xg>
+               <x>Når reiser du sørover igjen?</x>
+               <xt>Gåessie datne viht åarjese vualkah?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">om somrene</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">giesegi</t>
+            <xg>
+               <x>Om somrene hadde vi det alltid travelt.</x>
+               <xt>Giesegi iktesth fuehpiem utnimh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">i sørlig retning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">åarjege</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">sørfra</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">åarjede</t>
+            <xg>
+               <x>Jeg kommer sørfra.</x>
+               <xt>Manne åarjede båatam.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">den der veien</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dogka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">på det stedet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">gojkoe</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">på dette stedet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">daajka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">borte hos deg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">doejka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">der du vet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">doejka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">på alle måter</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">gaajhkelaakan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">på forskjellige måter</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">joekehtslaakan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">på forhånd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">åvtelhbodti</t>
+            <xg>
+               <x>Noen mennesker kan nok se på forhånd hva som skal skje.</x>
+               <xt>Naaken almetjh gujht maehtieh åvtelhbodti vuejnedh mij edtja deahpadidh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">avtelbodti</t>
+            <xg>
+               <x>Noen mennesker kan nok se på forhånd hva som skal skje.</x>
+               <xt>Naaken almetjh gujht maehtieh avtelbodti vuejnedh mij edtja deahpadidh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">nordfra</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">noerhtede</t>
+            <xg>
+               <x>Hvem av dere er nordfra?</x>
+               <xt>Guhte dijjeste noerhtede?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">hvilken vei</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">gogka</t>
+            <xg>
+               <x>Jeg kommer her hvor du har gått.</x>
+               <xt>Båatam dagka gogka datne vaadtseme.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">på hvilken del</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">gogka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">med gjensidig hjelp</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">ektesevyöki</t>
+            <xg>
+               <x>Det er morsomt å jobbe i felleskap.</x>
+               <xt>Luste hov ektesevyöki barkedh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">i felleskap</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">ektesevyöki</t>
+            <xg>
+               <x>Det er morsomt å jobbe i felleskap.</x>
+               <xt>Luste hov ektesevyöki barkedh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">på en vakker måte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dåajmijeslaakan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">på en høvisk måte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dåajmijeslaakan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">høflig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dåajmijeslaakan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">forekommende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dåajmijeslaakan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">punktlig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dåajmijeslaakan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">enn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">nååts</t>
+            <xg>
+               <x>Enn du da?</x>
+               <xt>Nååts datne dellie?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="cs">goh</t>
+            <xg>
+               <x>Den er meget større enn den.</x>
+               <xt>Dïhte sagki stuerebe enn goh dïhte.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">fra i går</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">jååktetje</t>
+            <xg>
+               <x>Dette er brød fra i går.</x>
+               <xt>Daate lea jååktetje laejpie.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">som hører til i går</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">jååktetje</t>
+            <xg>
+               <x>I går kveld la vi ut garn.</x>
+               <xt>Jååktetje iehkeden mijjieh viermieh jadtehti.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">som ikke følger god skikk og orden</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">tjuerpieslaakan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">hardhendt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">tjuerpieslaakan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">som er uregjerlig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">tjuerpieslaakan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">om en kort stund</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">ånnetje</t>
+            <xg>
+               <x>Om en kort stund hviler vi litt.</x>
+               <xt>Ånnetje dellie lïegkestibie.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">nøyaktig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">veele</t>
+            <xg>
+               <x>Forklar nøyaktig hvordan du har gjort det.</x>
+               <xt>Buerkesth veele guktie dam dorjeme.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">på annen måte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">jeatjahlaakan</t>
+            <xg>
+               <x>Hvis vi skal klare det, må vi tenke annerledes.</x>
+               <xt>Jis edtjebe dam gaegniedidh, tjoerebe jeatjahlaakan ussjedidh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">annerledes</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">jeatjahlaakan</t>
+            <xg>
+               <x>Hvis vi skal klare det, må vi tenke annerledes.</x>
+               <xt>Jis edtjebe dam gaegniedidh, tjoerebe jeatjahlaakan ussjedidh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">gyselig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">isveligke</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">nifst</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">isveligke</t>
+            <xg>
+               <x>Når det er mørkt, så ser alt så nifst ut.</x>
+               <xt>Gosse jemhkelde, dellie gaajhke dan isveligke vååjnoe.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">i sted</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">iskan</t>
+            <xg>
+               <x>Aanta ringte nettopp til meg.</x>
+               <xt>Aanta iskan munnjien rïngki.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">easkan</t>
+            <xg>
+               <x>Fortell hva som skjedde i sted.</x>
+               <xt>Soptsesth mij easkan deahpadi.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">åpen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">gaahpode</t>
+            <xg>
+               <x>Er døren åpen, eller?</x>
+               <xt>Okse lea gaahpode, vuj?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">spredt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">bårrode</t>
+            <xg>
+               <x>Reinene er så spredte nå når det er høst.</x>
+               <xt>Dah bovtsh dan bårrode daelie gosse tjaktje.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">fra øst</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">luvlede</t>
+            <xg>
+               <x>Uværet kommer fra øst.</x>
+               <xt>Elmie luvlede båata.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">østafra</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">luvlede</t>
+            <xg>
+               <x>Uværet kommer fra øst.</x>
+               <xt>Elmie luvlede båata.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">forrige</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">åvtetje</t>
+            <xg>
+               <x>sted hvor en har vært før, forrige sted</x>
+               <xt>åvtetje mehkie</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">ovtetje</t>
+            <xg>
+               <x>sted hvor en har vært før, forrige sted</x>
+               <xt>ovtetje mehkie</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">samtidig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">seammasïenten</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">behendig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dujmieslaakan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">pent og forsiktig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dujmieslaakan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">like der borte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">doegkoe</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">duagka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">utmerket</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">åajvoehlaakan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">på fortreffelig vis</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">åajvoehlaakan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">på en fet og i godt hold måte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>om rein</re>
+            <t pos="Adv">tjirkeslaakan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">på en tett og fast måte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>om skinn, tøy og lign.</re>
+            <t pos="Adv">tjirkeslaakan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">stramt og riktig godt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>om skinn, tøy og lign.</re>
+            <t pos="Adv">tjirkeslaakan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">på en pålitelig måte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>om tjener</re>
+            <t pos="Adv">tjirkeslaakan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">på en ordentlig måte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">tjirkeslaakan</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">sjiehteleslaakan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">på en passelig måte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">sjiehteleslaakan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">på en forunderlig måte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">ipmieslaakan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">på en varsom</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">vååregelaakan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">forsiktig måte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">vååregelaakan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">raskt og effektivt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">radtjoeslaakan</t>
+            <xg>
+               <x>De må nok arbeide raskt og effektivt hvis de skal bli ferdig med det før jul.</x>
+               <xt>Dah gujht tjuerieh radtjoeslaakan barkedh, jis dah edtjieh dejnie galhkedh jåvli åvtelen.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">uvørent og uforsiktig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">radtjoeslaakan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">langs ved strandkanten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">gaedtiebealam</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">på en klar og ren måte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">tjïelkeslaakan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">hemmelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">sueleden</t>
+            <xg>
+               <x>De hadde gjort det i smug.</x>
+               <xt>Dam lin sueleden dorjeme.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">som</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="cs">goh</t>
+            <xg>
+               <x>Hun går på ski som en gal.</x>
+               <xt>Tjuajka goh gaajege.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">liksom</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="cs">goh</t>
+            <xg>
+               <x>Hun går på ski som en gal.</x>
+               <xt>Tjuajka goh gaajege.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ha deg vekk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>til hund</re>
+            <t pos="Adv">assh dohkoe</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">fra dag til dag</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">biejjeste måbpan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">så mye som helst</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dan man jïjnjem</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">så mye</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dan man jïjnjem</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">alldeles</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dan soe</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">på denne tiden</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dej taahki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">endelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dellie maajetjh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="pcle">mihk</t>
+            <xg>
+               <x>Så drar han da endelig.</x>
+               <xt>Dellie mihk vualka.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">nå endelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dellie maajetjh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">forrige dag</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">don biejjien</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">der borte på den andre siden</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dunnie bealesne</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">her og der</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">dusnie daesnie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">overalt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">gaajhkene lehkesne</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">på mange steder</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">gellene lehkesne</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">i to</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">guektien haerien</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">utover våren</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">gïjre doekoe</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">i to deler</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">göökten haaran</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Po">guektelen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">innen rekkevidde</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">jakseme mieresne</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">knapt nok</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">madtan laakan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">i hvilken hensikt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">man gaavhtan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">hva er i veien</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A">mij faatoes</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">altså</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="i">novh amma</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="pcle">nagke</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="pcle">nagkh</t>
+            <xg>
+               <x>I vårt språk er det nok slike ord.</x>
+               <xt>Mijjen gïelesne nagkh dagkerh baakoeh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="pcle">badth</t>
+            <xg>
+               <x>Slik tenker de, ja. I smug da vel. A nei, da!</x>
+               <xt>Nimhtie badth dah ussjedieh. Suelien badth. Aellieh badth!</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="pcle">amma</t>
+            <xg>
+               <x>Ja, selvfølgelig! Hvem i all verden er hun? Hva i all verden er dette?</x>
+               <xt>Jaa nov amma! Gie amma dïhte? Mij amma daate?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">sannelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="i">novh amma</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="pcle">maa</t>
+            <xg>
+               <x>Da ble det sannelig bra.</x>
+               <xt>Dellie maa hijven sjïdti.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">selvfølgelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="i">novh hævvi</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="pcle">hævvi</t>
+            <xg>
+               <x>ja selvfølgelig</x>
+               <xt>jaa hævvi</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">til forveksling</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">vihth masten</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">i førstningen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">voestes gietjeste</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">mon tro</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="pcle">mejtie</t>
+            <xg>
+               <x>Er hun her mon tro?</x>
+               <xt>Mejtie dïhte daesnie?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="pcle">mah</t>
+            <xg>
+               <x>Mon tro om det er varmt?</x>
+               <xt>Mah bïjvele?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">så visst</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="pcle">hov</t>
+            <xg>
+               <x>Det var bra! Det er ruskevær med sludd, men så er det jo høst. Nei, Sagka er jo den yngste av oss.</x>
+               <xt>Hijven hov! Sliehtieelmie, mohte tjaktje hov lea. Ijje, Sagka hov dïhte nööremes mijjeste.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ja til og med</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="pcle">ov</t>
+            <xg>
+               <x>Å så fin!</x>
+               <xt>Ov man tjaebpies!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">allikevel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="pcle">havkh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="pcle">van</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="pcle">darhkan</t>
+            <xg>
+               <x>Hvordan da?</x>
+               <xt>Guktie darhkan?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">nå igjen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="pcle">bist</t>
+            <xg>
+               <x>Hvordan var det nå igjen?</x>
+               <xt>Guktie bist lij?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">i sin tur</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="pcle">jis</t>
+            <xg>
+               <x>Hun har i sin tur blitt til stor hjelp for mange.</x>
+               <xt>Dïhte jis dle jïjnjesidie stoerre viehkine sjïdteme.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">er det slik at</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="pcle">dagke</t>
+            <xg>
+               <x>Er det slik at han sjøl fulgte etter ut?</x>
+               <xt>Dagke dïhte jïjtje olkese dåålve?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">jaså</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="pcle">dagke</t>
+            <xg>
+               <x>Er det slik at han sjøl fulgte etter ut?</x>
+               <xt>Dagke dïhte jïjtje olkese dåålve?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="pcle">nåå</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">endog</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="pcle">raakte</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">skal tro</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="pcle">hogkh</t>
+            <xg>
+               <x>Heldigvis kom han til hjelp. Det var godt at du ikke var redd.</x>
+               <xt>Veajkoej hogkh dïhte bööti viehkine. Joe hogkh idtjih bïllh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">slik nå jeg forstår</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="pcle">nagke</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">virkelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="pcle">darhkan</t>
+            <xg>
+               <x>Hvordan da?</x>
+               <xt>Guktie darhkan?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="pcle">badth</t>
+            <xg>
+               <x>Slik tenker de, ja. I smug da vel. A nei, da!</x>
+               <xt>Nimhtie badth dah ussjedieh. Suelien badth. Aellieh badth!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">egentlig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="pcle">darhke</t>
+            <xg>
+               <x>Hvem leser egentlig du for? Hvordan gjør du så det? Hvordan gjør så dere det? / Hva gjør så dere? Hvordan så ... ?</x>
+               <xt>Gïese darhke datne jis lohkh? Guktie darhke darjoeh? Guktie darhke dijjieh darjoejidie? Guktie darhke ... ?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">visst</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="pcle">amma</t>
+            <xg>
+               <x>Ja, selvfølgelig! Hvem i all verden er hun? Hva i all verden er dette?</x>
+               <xt>Jaa nov amma! Gie amma dïhte? Mij amma daate?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">heller</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>står til nektingsverbet og innebærer at det er flere andre ting som også blir negert</re>
+            <t pos="pcle">gænnah</t>
+            <xg>
+               <x>Du skal ikke snakke stygt om dyr engang.</x>
+               <xt>Ih galkh juvren bïjre gænnah vestieslaakan soptsestidh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">engang</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>står til nektingsverbet og innebærer at det er flere andre ting som også blir negert</re>
+            <t pos="pcle">gænnah</t>
+            <xg>
+               <x>Du skal ikke snakke stygt om dyr engang.</x>
+               <xt>Ih galkh juvren bïjre gænnah vestieslaakan soptsestidh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">iallfall</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="pcle">gujht</t>
+            <xg>
+               <x>jo visst Brita kom iallfall.</x>
+               <xt>nov gujht Brita gujht bööti.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">framover</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Po">åvtese</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ditover</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>om flere</re>
+            <t pos="Po">debpeli</t>
+            <xg>
+               <x>Reinflokken har spredt seg i retningen mot fjellene.</x>
+               <xt>Dïhte krievvie lea barranamme vaeriej debpeli.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">der bortenfor</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Po">duebpielisnie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">der bortenfra</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Po">duebpielistie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">i to retninger</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Po">guektelen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">siden</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>om tid</re>
+            <t pos="Po">juassah</t>
+            <xg>
+               <x>Det er allerede en uke siden.</x>
+               <xt>Joe våhkoen juassah.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">borte i det fjerne</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Po">miehtjielisnie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">baketter</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Po">minngelde</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ikke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="V">ij</t>
+            <xg>
+               <x>Hun kan ikke sy.</x>
+               <xt>Ij dïhte maehtieh gåarodh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="V">im</t>
+            <xg>
+               <x>Jeg tenker aldri på den måten.</x>
+               <xt>Im manne gåessie gænnah nimhtie ussjedh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="V">ih</t>
+            <xg>
+               <x>Du veit ikke.</x>
+               <xt>Ih datne daejrieh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="V">ean</t>
+            <xg>
+               <x>Vi to er ikke der når du kommer.</x>
+               <xt>Ean leah månnoeh desnie gosse datne båatah.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="V">idien</t>
+            <xg>
+               <x>Hvorfor er dere to ikke på skolen?</x>
+               <xt>Man åvteste idien dåtnoeh skuvlesne?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="V">eakan</t>
+            <xg>
+               <x>De to blir ikke enig.</x>
+               <xt>Eakan sïemes sjïdth gænnah.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="V">ibie</t>
+            <xg>
+               <x>Vi drikker ikke øl.</x>
+               <xt>Ibie mijjieh voelegem jovhkh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="V">idie</t>
+            <xg>
+               <x>Blir dere ikke med til Majavatn?</x>
+               <xt>Idie dijjieh dåeredh Maajehjaavran?.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="V">eah</t>
+            <xg>
+               <x>De fisker jo ikke i det lille vannet.</x>
+               <xt>Eah maa dah dennie jaavratjisnie göölh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="V">idtji</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="V">idtjim</t>
+            <xg>
+               <x>Riktignok sa jeg det, men jeg bestilte det ikke.</x>
+               <xt>Novh maaje dam jeehtim, mohte idtjim dængkoeh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="V">idtjih</t>
+            <xg>
+               <x>De trodde på deg, du bedro dem aldri.</x>
+               <xt>Dutnjien jaehkiejin, idtjih datne dejtie gåessie gænnah biehtieh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="V">idtjimen</t>
+            <xg>
+               <x>Vi to gikk ikke til fjells.</x>
+               <xt>Idtjimen månnoeh vaaran vaedtsieh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="V">idtjiden</t>
+            <xg>
+               <x>Dere to kunne ikke.</x>
+               <xt>Idtjiden dåtnoeh maehtieh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="V">idtjigan</t>
+            <xg>
+               <x>Slik fikk ikke de to unge gifte seg.</x>
+               <xt>Nimhtie dah noerh idtjigan åadtjoeh pruvredh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="V">idtjimh</t>
+            <xg>
+               <x>Tok vi ikke med Saajve-Lisa allerede i fjor sommer?</x>
+               <xt>Guktie idtjimh goh Saajve-Læjsam joe dæjmetje giesien meatan vaeltieh?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="V">idtjidh</t>
+            <xg>
+               <x>Likevel kunne de ikke tale til dere.</x>
+               <xt>Læjhkan idtjidh maehtieh dijjese håalodh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="V">idtjin</t>
+            <xg>
+               <x>Det var så mørkt at de så ikke hendene engang.</x>
+               <xt>Dan jemhkelde idtjin gïetide gænnah vuejnieh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>ved forbud eller avvisning</re>
+            <t pos="V">aellies</t>
+            <xg>
+               <x>Pass på så den ikke går ned.</x>
+               <xt>Geehth aellies våålese tjaangh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>ved forbud eller avvisning</re>
+            <t pos="V">aelliem</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>ved forbud eller avvisning</re>
+            <t pos="V">aellieh</t>
+            <xg>
+               <x>Ta ikke den! Du må passe på så du ikke går vill. Du må ikke vente å finne noe luksushotell. Ikke svikt din ektefelle, ikke stjel, ikke lyv på andre eller forbann andre. Å nei da!</x>
+               <xt>Aellieh dam vaeltieh! Tjoerh geehtedidh aellieh tjaajenh. Aellieh vuertieh luksushotellem gaavnedh. Aellieh paarre-bieliem biehtieh, aellieh sualedh, aellieh slognine mubpien vööste våarnoeh. Aellieh badth!</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>ved forbud eller avvisning</re>
+            <t pos="V">aellien</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>ved forbud eller avvisning</re>
+            <t pos="V">aelleden</t>
+            <xg>
+               <x>Når dere kommer dit, må dere ikke oppføre dere slik at jeg må komme å hente dere tilbake igjen.</x>
+               <xt>Gosse dahkoe båetede, aelleden dellie nimhtie dåemiedidh guktie ahte tjoeverem båetedh vïedtjedh
+               dotnem bååstide viht.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>ved forbud eller avvisning</re>
+            <t pos="V">aellebe</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>ved forbud eller avvisning</re>
+            <t pos="V">aellede</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>ved advarsel</re>
+            <t pos="V">olles</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>ved advarsel</re>
+            <t pos="V">ollem</t>
+            <xg>
+               <x>Bare jeg ikke faller!</x>
+               <xt>Ollem gahtjh!</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>ved advarsel</re>
+            <t pos="V">ollh</t>
+            <xg>
+               <x>Ikke drikk!</x>
+               <xt>Ollh jovkh!</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>ved advarsel</re>
+            <t pos="V">ollen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>ved advarsel</re>
+            <t pos="V">olleden</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>ved advarsel</re>
+            <t pos="V">ollebe</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>ved advarsel</re>
+            <t pos="V">ollede</t>
+         </tg>
+      </mg>
+   </e>
+   <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript"
+                 xmlns:xhtml="http://www.w3.org/1999/xhtml"/>
+</r>

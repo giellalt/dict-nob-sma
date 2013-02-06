@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
+<?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
+"../../scripts/gt_dictionary.dtd">
+<r id="nobsma" xml:lang="nob">
+   <lics xml:space="preserve">
+      <lic xml:lang="en">
+This code is made available under a Creative Commons Attribution license
+<a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+
+You are free to copy, distribute and adapt the work, as long as you always give
+proper attribution using the attribution text below.
+
+For the full license text, see the link above.</lic>
+      <ref>Work by Giellatekno at UiT, Divvun at the Norwegian Saami Parliament,
+          and members of the language communities. Source code
+          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
+      <sourcenote>
+     THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
+     published dictionary. As such it can and
+     will contain unfinished entries, unpublished entries, entries with
+     objectionable translations, etc. If you find any errors or want to add more
+     words, download the file, edit it, and send it back to
+     <a>mailto:divvun@samediggi.no</a> and <a>mailto:giellatekno@hum.uit.no</a>.
+     Please also note that the entries are not necessarily sorted,
+     or could be wrongly sorted.
+     </sourcenote>
+   </lics>
+   <e>
+      <lg>
+         <l pos="cs">innen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="cs">eannan</t>
+            <xg>
+               <x>Det er best å drikke vann før man blir veldig tørst.</x>
+               <xt>Bööremes tjaetsiem jovkedh eannan eevre gojhkelåvva.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="cs">før</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="cs">eannan</t>
+            <xg>
+               <x>Det er best å drikke vann før man blir veldig tørst.</x>
+               <xt>Bööremes tjaetsiem jovkedh eannan eevre gojhkelåvva.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="cs">når</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="cs">gosse</t>
+            <xg>
+               <x>Når man skal kløyve ved, er en kvass øks nødvendig.</x>
+               <xt>Gosse moerh låadtodh, dellie besteles aaksjoem daerpies utnedh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="cs">da</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="cs">goh</t>
+            <xg>
+               <x>Da bestemor var ung, bodde hun i en torvgamme. Jeg er ikke like gammel som deg. Du må vaske hendene før du spiser.</x>
+               <xt>Goh aahka noere lij, dellie derhviegåetesne årroeji. Im leah manne seamma båeries goh datne. Tjoeverh gïetide bïssedh aarebi goh byöpmedh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="cs">den gangen da</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="cs">goh</t>
+            <xg>
+               <x>Da bestemor var ung, bodde hun i en torvgamme. Jeg er ikke like gammel som deg. Du må vaske hendene før du spiser.</x>
+               <xt>Goh aahka noere lij, dellie derhviegåetesne årroeji. Im leah manne seamma båeries goh datne. Tjoeverh gïetide bïssedh aarebi goh byöpmedh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="cs">som om</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="cs">goh</t>
+            <xg>
+               <x>Hun går på ski som en gal.</x>
+               <xt>Tjuajka goh gaajege.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="cs">at</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="cs">ahte</t>
+            <xg>
+               <x>Så er det slik at man må diskutere med dem.</x>
+               <xt>Die lea naemhtie ahte tjuara digkiedidh dejgujmie.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="cs">ihke</t>
+            <xg>
+               <x>Fortell at bestemor nettopp har dratt til sykehuset. Takk for at dere hørte på meg og til lykke med seminaret!</x>
+               <xt>Saarnoeh, ihke aahka ieskien skïemtjegåatan vualkeme. Gæjhtoe ihke mannem goltelidh jïh læhkoe seminaarine!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="cs">fordi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="cs">ahte</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="cs">ihke</t>
+            <xg>
+               <x>Han bare måtte gjøre det slik, fordi det var nødvendig.</x>
+               <xt>Tjoeri hov barre nimhtie darjodh, ihke daerpies lij.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="cs">jihkie</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="cs">juhkoe</t>
+            <xg>
+               <x>Mor skryter av far fordi han finner råd.</x>
+               <xt>Tjidtjie aehtjiem girmie juhkoe raeriem gaavna.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="cs">juktie</t>
+            <xg>
+               <x>Kle på deg skikkelig fordi det er kaldt ute!</x>
+               <xt>Gåårvedh eensilaakan juktie tjåetskeme ålkene!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="cs">for</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="cs">ahte</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="cs">selv om</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="cs">ihkie</t>
+            <xg>
+               <x>selv om jeg ikke ser det De klarte ikke å forklare barna sine det, skjønt de gjerne ville.</x>
+               <xt>ihkie im vuejnieh Idtjin buektehth sijjen maanide dam boejhkelidh, ihkie maaje sïjhtin.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="cs">jalhts</t>
+            <xg>
+               <x>Hodet verker selv om jeg har sovet godt.</x>
+               <xt>Åejjieh saejriedieh jalhts manne njaelkieslaakan åareme.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="cs">jalts</t>
+            <xg>
+               <x>Nå skal du få se om du får det til, selv om jeg tror at du ikke får det bedre til enn broren
+               din.</x>
+               <xt>Nov edtjh åadtjodh vuejnedh mejtie buektehth, jalts manne straavvem ih datne buerebh buektehth goh
+               vïelledh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="cs">jïlhts</t>
+            <xg>
+               <x>Nå skal du få se om om du får det til, selv om jeg tror at du ikke får det bedre til enn broren
+               din.</x>
+               <xt>Nov edtjh åadtjodh vuejnedh mejtie buektehth, jïlhts manne straavvem ih datne buerebh buektehth goh
+               vïelledh</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="cs">skjønt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="cs">ihkie</t>
+            <xg>
+               <x>selv om jeg ikke ser det De klarte ikke å forklare barna sine det, skjønt de gjerne ville.</x>
+               <xt>ihkie im vuejnieh Idtjin buektehth sijjen maanide dam boejhkelidh, ihkie maaje sïjhtin.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="cs">om enn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="cs">ihkie</t>
+            <xg>
+               <x>selv om jeg ikke ser det De klarte ikke å forklare barna sine det, skjønt de gjerne ville.</x>
+               <xt>ihkie im vuejnieh Idtjin buektehth sijjen maanide dam boejhkelidh, ihkie maaje sïjhtin.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="cs">slik at</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="cs">juktie</t>
+            <xg>
+               <x>Best å hvile seg slik at man blir opplagt til arbeidet.</x>
+               <xt>Bööremes lïegkedidh juktie barkose madtjeles sjïdtedh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="cs">mens</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="cs">mearan</t>
+            <xg>
+               <x>Jeg skriver mens kjøttgryta koker.</x>
+               <xt>Manne tjaalam mearan bearkoekrovhte dualta.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="cs">hvis</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="cs">dastegh</t>
+            <xg>
+               <x>Regntøy er nødvendig i tilfelle det begynner å regne.</x>
+               <xt>Ebrievaarjoeh daerpies dastegh obreje.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="cs">jis</t>
+            <xg>
+               <x>Jeg vil plukke bær hvis du også gjør det.</x>
+               <xt>Sïjhtem muerjieh tjöönghkedh, jis datne aaj tjöönghkh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="cs">i tilfelle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="cs">dastegh</t>
+            <xg>
+               <x>Regntøy er nødvendig i tilfelle det begynner å regne.</x>
+               <xt>Ebrievaarjoeh daerpies dastegh obreje.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="cs">heller ikke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="cs">vaallah</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="cs">jo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="cs">bene</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="cs">vel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="cs">bene</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="cs">kanskje</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="cs">bene</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="cs">aller helst</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="cs">eeremes</t>
+            <xg>
+               <x>Aller helst vil jeg takke...</x>
+               <xt>Eeremes sïjhtem gijhtedh...</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="cs">enn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="cs">enn</t>
+            <xg>
+               <x>Jeg hadde trivdes bedre der enn her nede i denne kråa.</x>
+               <xt>Manne lim debpene buerebe murriedamme enn vuelnie daennie kråavesne.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="cs">om</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="cs">jis</t>
+            <xg>
+               <x>Jeg vil plukke bær hvis du også gjør det.</x>
+               <xt>Sïjhtem muerjieh tjöönghkedh, jis datne aaj tjöönghkh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript"
+                 xmlns:xhtml="http://www.w3.org/1999/xhtml"/>
+</r>

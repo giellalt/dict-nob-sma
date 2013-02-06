@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
+<?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
+"../../scripts/gt_dictionary.dtd">
+<r id="nobsma" xml:lang="nob">
+   <lics xml:space="preserve">
+      <lic xml:lang="en">
+This code is made available under a Creative Commons Attribution license
+<a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+
+You are free to copy, distribute and adapt the work, as long as you always give
+proper attribution using the attribution text below.
+
+For the full license text, see the link above.</lic>
+      <ref>Work by Giellatekno at UiT, Divvun at the Norwegian Saami Parliament,
+          and members of the language communities. Source code
+          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
+      <sourcenote>
+     THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
+     published dictionary. As such it can and
+     will contain unfinished entries, unpublished entries, entries with
+     objectionable translations, etc. If you find any errors or want to add more
+     words, download the file, edit it, and send it back to
+     <a>mailto:divvun@samediggi.no</a> and <a>mailto:giellatekno@hum.uit.no</a>.
+     Please also note that the entries are not necessarily sorted,
+     or could be wrongly sorted.
+     </sourcenote>
+   </lics>
+   <e>
+      <lg>
+         <l pos="Num">de to</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">guaktah</t>
+            <xg>
+               <x>de to far og barn mor og barn</x>
+               <xt>dah guaktah aahtjetje-guaktah tjædtjetje-guaktah</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num" value="0">mange</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Num">gellie</t>
+            <xg>
+               <x>Vi var ofte i byen.</x>
+               <xt>Mijjieh limh gellien aejkien staaresne.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num" value="0">null</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Num">nulle</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num" value="1">en</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Num">akte</t>
+            <xg>
+               <x>ett par sko ett og annet ord, noen ord én og én</x>
+               <xt>akth gaamegh akth baakoeh akti akti</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num" value="2">to</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Num">göökte</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num" value="3">tre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Num">golme</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num" value="4">fire</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Num">nieljie</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Num">njieljie</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Num">njielje</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Num">nielje</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num" value="5">fem</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Num">vïjhte</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num" value="6">seks</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Num">govhte</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num" value="7">sju</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Num">tjïjhtje</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num" value="8">åtte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Num">gaektsie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num" value="9">ni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Num">uktsie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num" value="10">ti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Num">luhkie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num" value="11">elleve</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Num">luhkieakte</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num" value="12">tolv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Num">luhkiegöökte</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num" value="13">tretten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Num">luhkiegolme</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num" value="14">fjorten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Num">luhkienieljie</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Num">luhkienjieljie</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Num">luhkienjielje</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Num">luhkienielje</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num" value="15">femten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Num">luhkievïjhte</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num" value="16">seksten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Num">luhkiegovhte</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num" value="17">sytten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Num">luhkietjïjhtje</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num" value="18">atten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Num">luhkiegaektsie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num" value="19">nitten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Num">luhkieuktsie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num" value="100">hundre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Num">stoereluhkie</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Num">stoerreluhkie</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Num">tjuetie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num" value="1000">tusen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Num">stoeretjuetie</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Num">stoerretjuetie</t>
+         </tg>
+      </mg>
+   </e>
+   <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript"
+                 xmlns:xhtml="http://www.w3.org/1999/xhtml"/>
+</r>

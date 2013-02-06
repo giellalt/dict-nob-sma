@@ -1,0 +1,4996 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
+<?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
+"../../scripts/gt_dictionary.dtd">
+<r id="nobsma" xml:lang="nob">
+   <lics xml:space="preserve">
+      <lic xml:lang="en">
+This code is made available under a Creative Commons Attribution license
+<a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+
+You are free to copy, distribute and adapt the work, as long as you always give
+proper attribution using the attribution text below.
+
+For the full license text, see the link above.</lic>
+      <ref>Work by Giellatekno at UiT, Divvun at the Norwegian Saami Parliament,
+          and members of the language communities. Source code
+          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
+      <sourcenote>
+     THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
+     published dictionary. As such it can and
+     will contain unfinished entries, unpublished entries, entries with
+     objectionable translations, etc. If you find any errors or want to add more
+     words, download the file, edit it, and send it back to
+     <a>mailto:divvun@samediggi.no</a> and <a>mailto:giellatekno@hum.uit.no</a>.
+     Please also note that the entries are not necessarily sorted,
+     or could be wrongly sorted.
+     </sourcenote>
+   </lics>
+   <e>
+      <lg>
+         <l pos="Pron">ditt og datt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron">dom daam</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">forskjellig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron">dom daam</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">alle sammen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>om mennesker</re>
+            <t pos="Pron">gaajhkesh dovnesh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">en eller annen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron">gie joem</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pg="no" pos="Pron" type="Indef">såemies</t>
+            <xg>
+               <x>Noen skoler skal tilby undervisning i samisk.</x>
+               <xt>Såemies skuvlh edtjieh ööhpehtimmiem saemiengïelesne faaledh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">ett eller annet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron">maam joem</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">hvor mange</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron">man gellie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Dem">den</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">dïhte</t>
+            <xg>
+               <x>Er den lua di?</x>
+               <xt>Dïhte tjohpe lea dov?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">dam</t>
+            <xg>
+               <x>Har du strikket den lua sjøl?</x>
+               <xt>Dam tjohpem jïjtje gårreme?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">dan</t>
+            <xg>
+               <x>Den lua har ingen dusk.</x>
+               <xt>Dan tjohpen ij naan duahpa.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>nærmere deg enn meg</re>
+            <t pos="Pron" type="Dem">doete</t>
+            <xg>
+               <x>Det bordet ved siden av deg er nytt.</x>
+               <xt>Doete buertie orre.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>nærmere deg enn meg</re>
+            <t pos="Pron" type="Dem">doem</t>
+            <xg>
+               <x>Det bordet der brakte bestefar hit.</x>
+               <xt>Doem buertiem aajja böökti diekie.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">dïhte</t>
+            <xg>
+               <x>Hun er kommet.</x>
+               <xt>Dïhte lea båateme.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">dam</t>
+            <xg>
+               <x>Jeg ser henne.</x>
+               <xt>Manne dam vuajnam.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Dem">til den</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">dan</t>
+            <xg>
+               <x>Til den lua må du knytte en dusk.</x>
+               <xt>Dan tjohpese tjoeverh duahpam gårredidh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>nærmere deg enn meg</re>
+            <t pos="Pron" type="Dem">doen</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>nærmere deg enn meg</re>
+            <t pos="Pron" type="Dem">doese</t>
+            <xg>
+               <x>Legg boka på det bordet!</x>
+               <xt>Bïejh gærjam doen buartan!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Dem">i den</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">dennie</t>
+            <xg>
+               <x>Vi to skulle se hva som var i den store pakken.</x>
+               <xt>Månnoeh edtjimen goevlestidh mij dennie stoerre pahkesne.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Dem">fra den</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">dehtie</t>
+            <xg>
+               <x>Av den lua ser du hvem det er.</x>
+               <xt>Dehtie tjohpeste vuajna gie lea.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>nærmere deg enn meg</re>
+            <t pos="Pron" type="Dem">duestie</t>
+            <xg>
+               <x>Det kom fra den.</x>
+               <xt>Duestie bööti.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>nærmere deg enn meg</re>
+            <t pos="Pron" type="Dem">duehtie</t>
+            <xg>
+               <x>Det kom fra det bordet.</x>
+               <xt>Duehtie buerteste bööti.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Dem">med den</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t nr="sg" pos="Pron" type="Dem">dejnie</t>
+            <xg>
+               <x>Du kan gå til skolen med den lua.</x>
+               <xt>Dejnie tjohpine maahta skuvlese vaedtsedh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>nærmere deg enn meg</re>
+            <t nr="sg" pos="Pron" type="Dem">duejnie</t>
+            <xg>
+               <x>Det blir fint med det bordet.</x>
+               <xt>Tjaebpie sjædta duejnie buertine.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Dem">de</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">dah</t>
+            <xg>
+               <x>De husene er våre!</x>
+               <xt>Dah gåetieh leah mijjen!</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">dejtie</t>
+            <xg>
+               <x>Du må vaske de husene!</x>
+               <xt>Dejtie gåetide tjoeverh bïssedh!</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">dah</t>
+            <xg>
+               <x>De er kommet.</x>
+               <xt>Dah leah båateme.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Dem">til dem</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">dejtie</t>
+            <xg>
+               <x>Til de nye husene skal jeg kjøpe nye dører.</x>
+               <xt>Dejtie gåetide edtjem orre oksh åestedh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">dejtie</t>
+            <xg>
+               <x>Du må sende den til dem.</x>
+               <xt>Tjoeverh dam dejtie seedtedh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Dem">deres</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">dej</t>
+            <xg>
+               <x>Jeg måtte natt og dag være i nærheten av de reinsimlene.</x>
+               <xt>Tjïehtim jïjjh biejjieh dej aaltoej lïhke.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>om to, 2. person</re>
+            <t pos="Pron" type="Pers">dotnen</t>
+            <xg>
+               <x>Er det deres barn?</x>
+               <xt>Dotnen maana dïhte?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>2. person</re>
+            <t pos="Pron" type="Pers">dijjen</t>
+            <xg>
+               <x>Er disse deres klær?</x>
+               <xt>Dijjen vaarjoeh daah?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>3. person</re>
+            <t pos="Pron" type="Pers">dej</t>
+            <xg>
+               <x>Disse er deres klær.</x>
+               <xt>Daah leah dej vaarjoeh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>om to, 3. person</re>
+            <t pos="Pron" type="Pers">daj guaktaj</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>om to, 3. person</re>
+            <t pos="Pron" type="Pers">dej guaktaj</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Dem">med dem</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">dej</t>
+            <xg>
+               <x>Mor skal snakke med de folkene.</x>
+               <xt>Tjidtjie edtja soptsestidh dej almetjigujmie.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">dejgujmie</t>
+            <xg>
+               <x>Det er bare bra med dem.</x>
+               <xt>Dejgujmie barre hijven.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Dem">i dem</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t nr="pl" pos="Pron" type="Dem">dejnie</t>
+            <xg>
+               <x>I de husene er det mye å gjøre.</x>
+               <xt>Dejnie gåetine jïjnjem darjodh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">dejstie</t>
+            <xg>
+               <x>Man får stor glede av de husene.</x>
+               <xt>Dejstie gåetijste jïjnje aavoem åådtje.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Logo">sijjesne</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Dem">denne</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">daate</t>
+            <xg>
+               <x>Dette huset er mitt.</x>
+               <xt>Daate gåetie lea mov.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">daam</t>
+            <xg>
+               <x>Dette huset har jeg kjøpt.</x>
+               <xt>Daam gåetiem leam åasteme.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">daan</t>
+            <xg>
+               <x>Dette huset har to dører og tre vinduer.</x>
+               <xt>Daan gåetien göökte oksh jïh golme klaash.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Dem">til denne</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">daan</t>
+            <xg>
+               <x>Til dette huset flyttet jeg i fjor.</x>
+               <xt>Daan gåatan dæjman juhtiejim.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">daase</t>
+            <xg>
+               <x>Til dette flyttet jeg i fjor.</x>
+               <xt>Daase dæjman juhtiejim.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Dem">i denne</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">daesnie</t>
+            <xg>
+               <x>Til dette flyttet jeg i fjor.</x>
+               <xt>Daase dæjman juhtiejim.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">daennie</t>
+            <xg>
+               <x>I dette huset trives jeg.</x>
+               <xt>Daennie gåetesne murredem.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t nr="pl" pos="Pron" type="Dem">daejnie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Dem">fra denne</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">daestie</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">daehtie</t>
+            <xg>
+               <x>Fra dette huset er det langt til byen.</x>
+               <xt>Daehtie gåeteste lea gåhkese staarese.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Dem">med denne</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t nr="sg" pos="Pron" type="Dem">daejnie</t>
+            <xg>
+               <x>Med dette huset berges jeg lenge.</x>
+               <xt>Daejnie gåetine guhkiem bearkedem.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Dem">disse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">daah</t>
+            <xg>
+               <x>Disse vottene er mine.</x>
+               <xt>Daah vaanhtsh leah mov.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">daejtie</t>
+            <xg>
+               <x>Disse vottene kjøpte jeg i fjor.</x>
+               <xt>Daejtie vaanhtside dæjman ööstim.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Dem">til disse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">daejtie</t>
+            <xg>
+               <x>Jeg skal sy lommer i disse buksene.</x>
+               <xt>Manne edtjem daejtie måvhkide låammah gåarodh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Dem">disses</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">daaj</t>
+            <xg>
+               <x>Disse vottene har dusker på hver finger!</x>
+               <xt>Daaj vaanhtsi leah duahpah fïereguhtine soermine!</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">daej</t>
+            <xg>
+               <x>Disse vottene har dusker på hver finger!</x>
+               <xt>Daej vaanhtsi leah duahpah fïereguhtine soermine!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Dem">med disse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">daaj</t>
+            <xg>
+               <x>Jeg berges lenge med disse vottene.</x>
+               <xt>Daaj vaanhtsigujmie guhkiem bearkedem.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">daej</t>
+            <xg>
+               <x>Jeg berges lenge med disse vottene.</x>
+               <xt>Daej vaanhtsigujmie guhkiem bearkedem.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">daajgujmie</t>
+            <xg>
+               <x>Jeg drar hjem med disse.</x>
+               <xt>Manne gåatan vualkam daajgujmie.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">daejgujmie</t>
+            <xg>
+               <x>Jeg drar hjem med disse.</x>
+               <xt>Manne gåatan vualkam daejgujmie.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Dem">fra disse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">daejstie</t>
+            <xg>
+               <x>Fra disse husene er det ganske langt til butikken.</x>
+               <xt>Daejstie gåetijste lea naa gåhkese bovrese.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Dem">den sitt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>nærmere deg enn meg</re>
+            <t pos="Pron" type="Dem">doen</t>
+            <xg>
+               <x>Det bordet har svarte bein.</x>
+               <xt>Doen buertien tjeehpes juelkieh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Dem">hos den</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>nærmere deg enn meg</re>
+            <t pos="Pron" type="Dem">duesnie</t>
+            <xg>
+               <x>I den der borte er koppen.</x>
+               <xt>Duesnie lea dïhte kåahpe.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>nærmere deg enn meg</re>
+            <t pos="Pron" type="Dem">duennie</t>
+            <xg>
+               <x>På det bordet er koppen.</x>
+               <xt>Duennie buertesne lea dïhte kåahpe.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Dem">de der</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>nærmere deg enn meg</re>
+            <t pos="Pron" type="Dem">doeh</t>
+            <xg>
+               <x>De der buksene er nye.</x>
+               <xt>Doeh måvhkah orre.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>nærmere deg enn meg</re>
+            <t pos="Pron" type="Dem">duejtie</t>
+            <xg>
+               <x>La de der buksene være!</x>
+               <xt>Baajh duejtie måvhkide årrodh!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Dem">til de der</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>nærmere deg enn meg_SWE</re>
+            <t pos="Pron" type="Dem">duejtie</t>
+            <xg>
+               <x>Jeg skal kjøpe nye knapper til de buksene.</x>
+               <xt>Manne edtjem duejtie måvhkide orre båaloeh åestedh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Dem">de der sine</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>nærmere deg enn meg</re>
+            <t pos="Pron" type="Dem">doej</t>
+            <xg>
+               <x>De buksene har også lommer.</x>
+               <xt>Doej måvhkaj leah aaj låammah.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Dem">med de der</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>nærmere deg enn meg</re>
+            <t pos="Pron" type="Dem">doej</t>
+            <xg>
+               <x>Det er behagelig å gå med de buksene.</x>
+               <xt>Doj måvhkajgujmie hijven vaedtsedh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>nærmere deg enn meg</re>
+            <t pos="Pron" type="Dem">doejgujmie</t>
+            <xg>
+               <x>Det er behagelig å gå med de der.</x>
+               <xt>Doejgujmie hijven vaedtsedh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Dem">hos de der</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>nærmere deg enn meg</re>
+            <t nr="pl" pos="Pron" type="Dem">duejnie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Dem">fra de der</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>nærmere deg enn meg</re>
+            <t pos="Pron" type="Dem">duejstie</t>
+            <xg>
+               <x>Av de nyvaskede buksene lukter det godt.</x>
+               <xt>Duejstie bïsseldihkie måvhkijste njaelkieslaakan hapsoe.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Dem">den der borte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">dohte</t>
+            <xg>
+               <x>Den der tønna ser så full ut.</x>
+               <xt>Dohte geegke dan dïeves vååjnoe.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">dom</t>
+            <xg>
+               <x>Bring den tønna hit!</x>
+               <xt>Buektieh dom geegkem diekie!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">den der</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">dohte</t>
+            <xg>
+               <x>Å, den der ungen!</x>
+               <xt>Å dohte maana jis!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Dem">den der borte sin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">don</t>
+            <xg>
+               <x>Dette er den der tønnas lokk.</x>
+               <xt>Daate lea don geegken luehkie.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Dem">til den der borte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">don</t>
+            <xg>
+               <x>Disse skal til den tønna der borte.</x>
+               <xt>Dah edtjieh don geegkese.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">dosse</t>
+            <xg>
+               <x>Disse skal til den der borte.</x>
+               <xt>Dah edtjieh dosse.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Dem">i den der borte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">dusnie</t>
+            <xg>
+               <x>I den der borte er det kjøtt.</x>
+               <xt>Dusnie leah bearkoeh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">dunnie</t>
+            <xg>
+               <x>I den tønna der borte er det kjøtt. Vi skulle gå på ski og treffe de andre på den bortre siden av reinflokken.</x>
+               <xt>Dunnie geegkesne leah bearkoeh. Galkimh tjoejkedh jïh dunnie raedtesne råakedidh mubpigujmie.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Dem">fra den der borte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">dustie</t>
+            <xg>
+               <x>Fra den der borte skal jeg tømme kjøtt.</x>
+               <xt>Dustie geegkeste edtjem bearkoeh döömedh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">duhtie</t>
+            <xg>
+               <x>Fra den tønna skal jeg tømme kjøtt.</x>
+               <xt>Duhtie geegkeste edtjem bearkoeh döömedh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Dem">med den der borte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t nr="sg" pos="Pron" type="Dem">dujnie</t>
+            <xg>
+               <x>Jeg skal gå med den tønna der borte.</x>
+               <xt>Manne edtjem dujnie geegkine vaedtsedh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Dem">de der borte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">doh</t>
+            <xg>
+               <x>De koftene der borte er mine. Så kommer også folkene i de husene der borte.</x>
+               <xt>Doh gåptoeh leah mov. Dellie doh gåetieh almetjh aaj båetieh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">dujtie</t>
+            <xg>
+               <x>Bring de koftene der borte.</x>
+               <xt>Buektieh meatan dujtie gåptojde.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Dem">til dem der borte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">dujtie</t>
+            <xg>
+               <x>Jeg skal sy nye kantebånd til de koftene der borte.</x>
+               <xt>Dujtie gåptojde edtjem orre budtestahkh gåarodh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Dem">de der borte sine</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">doj</t>
+            <xg>
+               <x>De koftene der borte har så fine farger.</x>
+               <xt>Doj gåptoej dan tjaebpies klaerieh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">dyj</t>
+            <xg>
+               <x>De koftene der borte har så fine farger.</x>
+               <xt>Dyj gåptoej dan tjaebpies klaerieh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Dem">med dem der borte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">doj</t>
+            <xg>
+               <x>Jeg drar hjem med de koftene der borte.</x>
+               <xt>Manne gåatan vualkam doj gåptoejgujmie.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">dyj</t>
+            <xg>
+               <x>Jeg drar hjem med de koftene der borte.</x>
+               <xt>Manne gåatan vualkam dyj gåptoejgujmie.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">dojgujmie</t>
+            <xg>
+               <x>Jeg drar hjem med dem der borte.</x>
+               <xt>Manne gåatan vualkam dojgujmie.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">dyjgujmie</t>
+            <xg>
+               <x>Jeg drar hjem med dem der borte.</x>
+               <xt>Manne gåatan vualkam dyjgujmie.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Dem">i de der borte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t nr="pl" pos="Pron" type="Dem">dujnie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Dem">fra de der borte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">dujstie</t>
+            <xg>
+               <x>Det lukter godt av de nyvaskede kjolene der borte.</x>
+               <xt>Dujstie bïsseldihkie gåptojste njaelkieslaakan hapsoe.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">slik</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">dagkeres</t>
+            <xg>
+               <x>Jeg har ikke slik bil.</x>
+               <xt>Ij mov leah dagkeres bïjle.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">dagkere</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">dagkerem</t>
+            <xg>
+               <x>Birje bør få en slik gave.</x>
+               <xt>Birje byöroe dagkerem vadtesem åadtjodh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">en slik en</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">dagkerem</t>
+            <xg>
+               <x>Birje bør få en slik gave.</x>
+               <xt>Birje byöroe dagkerem vadtesem åadtjodh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">en slik ens</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">dagkeren</t>
+            <xg>
+               <x>Så kan hvem som helst tenke på hvor mye arbeid det er før en slik konferanse.</x>
+               <xt>Dellie fïereguhte maahta ussjedalledh, man jïjnje barkoe lea dagkeren konferansen åvtelen.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">til en slik</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">dagkarasse</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">i en slik</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">dagkarisnie</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem" case="ine">dagkarinie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">med en slik</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem" case="ine">dagkarinie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">av en slik</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">dagkaristie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">slike</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">dagkerh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">dagkaridie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">til slike</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">dagkaridie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">slikes</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">dagkeri</t>
+            <xg>
+               <x>Med slike ski er det spesielt bra å gå på ski.</x>
+               <xt>Dagkeri treavkajgujmie joekoen hijven tjoejkedh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">i slike</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>om flere</re>
+            <t pos="Pron" type="Dem">dagkarijnie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">av slike</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">dagkarijstie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">med slike</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">dagkerigujmie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">slik som denne</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">daagkeres</t>
+            <xg>
+               <x>Jeg tenker i hvert fall at det ikke er riktig å kjøre så fort der hvor det er så dårlig vei som dette.</x>
+               <xt>Manne gujht ussjedem, ij leah reaktoe daan varki vuejedh gosse daagkeres geajnoe.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">daagkere</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">daagkerem</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">slik som dennes</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">daagkeren</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">til en slik som denne</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">daagkarasse</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">i en slik som denne</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">daagkarisnie</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem" case="ine">daagkarinie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">med en slik som denne</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem" case="ine">daagkarinie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">av en slik som denne</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">daagkaristie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">slike som disse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">daagkerh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">daagkaridie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">til slike som disse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>om flere</re>
+            <t pos="Pron" type="Dem">daagkaridie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">slike som disses</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">daagkeri</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">i slike som disse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">daagkarijnie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">av slike som disse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">daagkarijstie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">med slike som disse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">daagkerigujmie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">slik som den der borte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">dogkeres</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">dogkere</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">dogkerem</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">slik som den der bortes</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">dogkeren</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">til slik som den der borte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">dogkarasse</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">i slik som den der borte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">dogkarisnie</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem" case="ine">dogkarinie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">med slik som den der borte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem" case="ine">dogkarinie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">av slik som den der borte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">dogkaristie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">slike som de der borte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">dogkerh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">dogkaridie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">til slike som de der borte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">dogkaridie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">slike som de der bortes</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">dogkeri</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">i slike som de der borte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>om flere</re>
+            <t pos="Pron" type="Dem">dogkarijnie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">av slike som de der borte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">dogkarijstie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">med slike som de der borte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">dogkerigujmie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">slik som den hos deg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">doegkeres</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">doegkere</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">doegkerem</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">slik som den hos deg sin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">doegkeren</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">til en slik som den hos deg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">doegkarasse</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">i en slik som den hos deg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">doegkarisnie</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem" case="ine">doegkarinie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">med en slik som den hos deg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem" case="ine">doegkarinie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">av en slik som den hos deg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">doegkaristie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">slike som de hos deg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">doegkerh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">doegkaridie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">til slike som de hos deg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">doegkaridie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">slike som de hos deg sine</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">doegkeri</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">i slike som de hos deg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>om flere</re>
+            <t pos="Pron" type="Dem">doegkarijnie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">av slike som de hos deg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">doegkarijstie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">med slike som de hos deg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Dem">doegkerigujmie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">litt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pg="no" pos="Pron" type="Indef">ohtjetje</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">noen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Indef">måedtie</t>
+            <xg>
+               <x>mange ganger</x>
+               <xt>måedtien aejkien</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Indef">muvhte</t>
+            <xg>
+               <x>stedvis Og så noen steder dukker sola fram mellom skyene og gjør mennesket glad. Bruden og brudgommen fikk gaver, av noen fikk de rein, og av noen penger og av noen sølv.</x>
+               <xt>muvhten lehkien Jïh dle muvhth lehkieh biejjie balvi gaskem jæjhta jïh almetjem madtjeldahta. Provrese jïh provkome sjïelh fihkieh, muvhtijste bovtsh, jïh muvhtijste beetnegh, jïh muvhtijste sïlph.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pg="no" pos="Pron" type="Indef">såemies</t>
+            <xg>
+               <x>Noen skoler skal tilby undervisning i samisk.</x>
+               <xt>Såemies skuvlh edtjieh ööhpehtimmiem saemiengïelesne faaledh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">en del</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Indef">måedtie</t>
+            <xg>
+               <x>mange ganger</x>
+               <xt>måedtien aejkien</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">en og annen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Indef">muvhte</t>
+            <xg>
+               <x>stedvis Og så noen steder dukker sola fram mellom skyene og gjør mennesket glad. Bruden og brudgommen fikk gaver, av noen fikk de rein, og av noen penger og av noen sølv.</x>
+               <xt>muvhten lehkien Jïh dle muvhth lehkieh biejjie balvi gaskem jæjhta jïh almetjem madtjeldahta. Provrese jïh provkome sjïelh fihkieh, muvhtijste bovtsh, jïh muvhtijste beetnegh, jïh muvhtijste sïlph.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">noe</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Indef">naakene</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pg="no" pos="Pron" type="Indef">naan</t>
+            <xg>
+               <x>Og noen unge mennesker hadde allerede kommet. Den lua har ingen dusk.</x>
+               <xt>Jïh naan noere almetjh lin joe båateme. Dan tjohpen ij naan duahpa.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>ved nekting</re>
+            <t pg="no" pos="Pron" type="Indef">mejtegh</t>
+            <xg>
+               <x>Det gjør ikke noe.</x>
+               <xt>Ij mejtegh darjoeh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Rel">mij</t>
+            <xg>
+               <x>Hva er det? Hva som helst. Hva er det i veien med deg? Hvilken dag er det i dag? Det som dukket opp i går, hva var nå det? Det står ingenting om det her. Ikke noe engang.</x>
+               <xt>Mij dïhte? Saaht mij. Mij dov faatoes? Mij biejjide daan biejjien? Dïhte mij jååktan jijhtieji, mij bist dïhte lij? Ij mij daesnie tjåadtjoeh dan bïjre. Ij mij gænnah.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">noen få</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Indef">naakene</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pg="no" pos="Pron" type="Indef">naan</t>
+            <xg>
+               <x>Og noen unge mennesker hadde allerede kommet. Den lua har ingen dusk.</x>
+               <xt>Jïh naan noere almetjh lin joe båateme. Dan tjohpen ij naan duahpa.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Indef">gille</t>
+            <xg>
+               <x>Nå er det bare noen få dager igjen av dette skoleåret.</x>
+               <xt>Daelie barre gille biejjieh aajmene daehtie skuvlejaepeste.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">all</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Indef">gaajhke</t>
+            <xg>
+               <x>Laara tok alt i fra meg. ikke alle ganger Eller har kanskje den stygge musa spist alle musene? Marka var veldig oppgravd, byggeredskaper på alle kanter.</x>
+               <xt>Laara gaajhkem manneste veelti. ij gaajhken aejkien Vuj dïhte vesties snjeara ojhte gaajhkide snjearide bårrelamme? Deavesne joekoen röödtseldihkie, bigkemedïrregh gaajhkene lehkesne.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">alt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Indef">gaajhke</t>
+            <xg>
+               <x>Laara tok alt i fra meg. ikke alle ganger Eller har kanskje den stygge musa spist alle musene? Marka var veldig oppgravd, byggeredskaper på alle kanter.</x>
+               <xt>Laara gaajhkem manneste veelti. ij gaajhken aejkien Vuj dïhte vesties snjeara ojhte gaajhkide snjearide bårrelamme? Deavesne joekoen röödtseldihkie, bigkemedïrregh gaajhkene lehkesne.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">mange mennesker</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Coll">gallesh</t>
+            <xg>
+               <x>De elevene, som du er sammen med, hvor mange er de?</x>
+               <xt>Dah learohkh, geajgujmie datne ektesne, man gallesh dah?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">begge to</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Indef">gåabpatjahkh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">mange</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pg="no" pos="Pron" type="Indef">gellie</t>
+            <xg>
+               <x>Det er mange spørsmål. Og nå er det ikke lenger så mange dager igjen til jonsok.</x>
+               <xt>Gyhtjelassh leah gellie. Jïh dellie ij leah vielie man gellieh biejjieh aajmene jovnesåhkojde.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pg="no" pos="Pron" type="Indef">gellieh</t>
+            <xg>
+               <x>Hvor mange bøker har du? Like mange som fingrene dine.</x>
+               <xt>Man gellieh gærjah dov leah? Seamma gellieh dov soermijste.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">ikke noen av dem</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pg="no" pos="Pron" type="Indef">guhtegh</t>
+            <xg>
+               <x>Ikke noen av de arbeidstakerne ble med fra Havika til Hattfjelldal.</x>
+               <xt>Idtjin guhtegh dejstie barkijijstie Havikeste Aarportese dåeredh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">en annen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Indef">jeatja</t>
+            <xg>
+               <x>kunnskap om en annen kultur og et annet språk andre opplysninger Vil du ha noe annet da?</x>
+               <xt>maahtoe jeatja kultuvren bïjre jïh jeatja gïelen bïjre jeatjah bïevnesh Sïjhth maam jeatjah utnedh dellie?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Indef">jeatjebe</t>
+            <xg>
+               <x>gjøre noe annet De andre kom etter oss.</x>
+               <xt>jeatjebem darjodh Dah jeatjebh mijjen mænngan böötin.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">noe annet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Indef">jeatjebe</t>
+            <xg>
+               <x>gjøre noe annet De andre kom etter oss.</x>
+               <xt>jeatjebem darjodh Dah jeatjebh mijjen mænngan böötin.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">mer</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Indef">jienebe</t>
+            <xg>
+               <x>Slik blir det også billigere når vi er flere.</x>
+               <xt>Nimhtie aaj liehtebe sjædta gosse libie jienebh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">hver</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Indef">fïerhte</t>
+            <xg>
+               <x>i hver sin kommune i hver kommune hver gang Man bør pusse tennene hver morgen.</x>
+               <xt>fïerhtene tjïeltesne fïerhten tjïeltesne fïerhten aejkien Fïerhten aereden byöroe baenide skubpedh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">hele</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pg="no" pos="Pron" type="Indef">abpe</t>
+            <xg>
+               <x>Hele vinteren hadde vi gått på skolen slik at vi var gått lei.</x>
+               <xt>Abpe daelviem limh skuvlesne vaadtseme guktie eevre vïssjehtovveme.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">en viss</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pg="no" pos="Pron" type="Indef">såemies</t>
+            <xg>
+               <x>Noen skoler skal tilby undervisning i samisk.</x>
+               <xt>Såemies skuvlh edtjieh ööhpehtimmiem saemiengïelesne faaledh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">noe som helst</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pg="no" pos="Pron" type="Indef">mijgih</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pg="no" pos="Pron" type="Indef">maamgih</t>
+            <xg>
+               <x>Piere hadde ikke noe som helst.</x>
+               <xt>Idtji Piere maamgih utnieh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">alle personer</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Coll">gaajhkesh</t>
+            <xg>
+               <x>Ikke alle synes det er nødvendig. Hvis vi ikke har nok puter til alle, så bruker vi klær og skinn som hodepute.</x>
+               <xt>Eah sih gaajhkesh utnieh dïhte lea daerpies. Jis ibie kodth utnieh nuekies gaajhkesidie, dellie vaarjoeh jïh dueljieh åejjiedovteginie.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">jeg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">manne</t>
+            <xg>
+               <x>Jeg er ei jente.</x>
+               <xt>Manne leam nïejte.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">meg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">mannem</t>
+            <xg>
+               <x>Ser du meg?</x>
+               <xt>Mejtie mannem vuajnah?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">min</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">mov</t>
+            <xg>
+               <x>Ser du båten min?</x>
+               <xt>Datne mov vïnhtsem vuajnah?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">jeg har</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">mov</t>
+            <xg>
+               <x>Jeg har en båt.</x>
+               <xt>Mov lea vïnhtse.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">til meg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">munnjien</t>
+            <xg>
+               <x>Skriv til meg!</x>
+               <xt>Tjaelieh munnjien!</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">munnjan</t>
+            <xg>
+               <x>Skriv til meg!</x>
+               <xt>Tjaelieh munnjan!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">på meg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">mannesne</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">i meg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">mannesne</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">fra meg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">manneste</t>
+            <xg>
+               <x>Han fikk den av meg.</x>
+               <xt>Manneste dam åadtjoeji.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">av meg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">manneste</t>
+            <xg>
+               <x>Han fikk den av meg.</x>
+               <xt>Manneste dam åadtjoeji.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">med meg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">mannine</t>
+            <xg>
+               <x>Du har vært så snill med meg.</x>
+               <xt>Datne dan gïemhpes mannine orreme.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">vi to</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">månnoeh</t>
+            <xg>
+               <x>Vi to kommer i morgen. Vi to, jeg og Meehte, skal til fjells i dag.</x>
+               <xt>Månnoeh jirreden båetien. Månnoeh Meehth edtjien daan biejjien vaaran.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">oss to</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">monnem</t>
+            <xg>
+               <x>Ta med oss to også!</x>
+               <xt>Vaeltieh monnem aaj meatan!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">vår</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>om to</re>
+            <t pos="Pron" type="Pers">monnen</t>
+            <xg>
+               <x>Det er vårt barn.</x>
+               <xt>Dïhte monnen maana.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">mijjen</t>
+            <xg>
+               <x>våre områder, våre fjell</x>
+               <xt>mijjen dajvh, mijjen vaerieh</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">vi to har</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">monnen</t>
+            <xg>
+               <x>Vi to har en båt.</x>
+               <xt>Monnen lea vïnhtse.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">til oss to</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">monnese</t>
+            <xg>
+               <x>Han er en av dem som ga en gave til oss to.</x>
+               <xt>Dïhte lij akte dejstie gie vadtesem monnese vedti.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">hos oss to</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">monnesne</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">fra oss to</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">monneste</t>
+            <xg>
+               <x>La en av oss to stå ved din høyre side!</x>
+               <xt>Baajh aktem monneste dov åelkies bielesne tjåadtjodh!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">med oss to</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">monnine</t>
+            <xg>
+               <x>Han kom sammen med oss.</x>
+               <xt>Monnine ektine bööti.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">vi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">mijjieh</t>
+            <xg>
+               <x>Vi er samer.</x>
+               <xt>Mijjieh libie saemieh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">oss</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">mijjem</t>
+            <xg>
+               <x>Hun hører oss ikke mer.</x>
+               <xt>Ij dïhte mijjem vielie govlh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">vi har</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">mijjen</t>
+            <xg>
+               <x>Vi har en båt.</x>
+               <xt>Mijjen lea vïnhtse.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">til oss</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">mijjese</t>
+            <xg>
+               <x>De har gitt det til oss.</x>
+               <xt>Mijjese leah vadteme dam.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">mijjide</t>
+            <xg>
+               <x>De har gitt det til oss.</x>
+               <xt>Mijjide leah vadteme dam.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">på oss</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">mijjesne</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">i oss</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">mijjesne</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">fra oss</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">mijjeste</t>
+            <xg>
+               <x>Jentene i bygda likte da oss, de var da ikke redde for oss.</x>
+               <xt>Nïejth voenesne hov mijjem lyjhkin, idtjin maa dah mijjeste bïllh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">av oss</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">mijjeste</t>
+            <xg>
+               <x>Jentene i bygda likte da oss, de var da ikke redde for oss.</x>
+               <xt>Nïejth voenesne hov mijjem lyjhkin, idtjin maa dah mijjeste bïllh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">med oss</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">mijjine</t>
+            <xg>
+               <x>Han måtte komme for å rådføre seg med oss.</x>
+               <xt>Tjoeveri båetedh mijjine råårestalledh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">du</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">datne</t>
+            <xg>
+               <x>Du er same.</x>
+               <xt>Datne leah saemie.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">deg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">datnem</t>
+            <xg>
+               <x>Jeg elsker deg. Jeg følger deg hvorhen du enn måtte gå.</x>
+               <xt>Manne datnem eahtsam. Manne datnem dåeredem gåabpoeh dån vaadtsah.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">din</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">dov</t>
+            <xg>
+               <x>Er det din bok?</x>
+               <xt>Daate dov gærja?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">du har</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">dov</t>
+            <xg>
+               <x>Du har en båt.</x>
+               <xt>Dov lea vïnhtse.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">til deg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">dutnjien</t>
+            <xg>
+               <x>Jeg vil fortelle nytt til deg.</x>
+               <xt>Manne sïjhtem dutnjien saerniestidh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">på deg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">datnesne</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">i deg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">datnesne</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">fra deg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">datneste</t>
+            <xg>
+               <x>Sønn, dine synder er sluppet fra deg. Jeg kommer til å leve mye bedre enn deg, Karius.</x>
+               <xt>Elkie, dov sådtoeh leah datneste luajhtaldihkie. Manne båatam sagke buerebe datneste jieledh, Karijuse.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">av deg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">datneste</t>
+            <xg>
+               <x>Sønn, dine synder er sluppet fra deg. Jeg kommer til å leve mye bedre enn deg, Karius.</x>
+               <xt>Elkie, dov sådtoeh leah datneste luajhtaldihkie. Manne båatam sagke buerebe datneste jieledh, Karijuse.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">med deg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">datnine</t>
+            <xg>
+               <x>Hvordan går det med deg der oppe?</x>
+               <xt>Guktie datnine gåarede debpene bijjene?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">dere to</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">dåtnoeh</t>
+            <xg>
+               <x>Dere to er her. Skal dere to, du og Maarja, til byen?</x>
+               <xt>Dåtnoeh lidien daesnie. Edtjeden dåtnoeh Maarjah staarese?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>akkusativ</re>
+            <t pos="Pron" type="Pers">dotnem</t>
+            <xg>
+               <x>Jeg ser dere to!</x>
+               <xt>Manne dotnem vuajnam!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">dere to har</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">dotnen</t>
+            <xg>
+               <x>Dere to har en båt.</x>
+               <xt>Dotnen lea vïnhtse.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">til dere to</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">dotnese</t>
+            <xg>
+               <x>Da skal han bygge stort hus til dere to.</x>
+               <xt>Dellie edtja stoerre gåetiem dotnese bigkedh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">i dere to</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">dotnesne</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">på dere to</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">dotnesne</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">fra dere to</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">dotneste</t>
+            <xg>
+               <x>Han har fått den av dere to.</x>
+               <xt>Dotneste lea dam åådtjeme.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">av dere to</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">dotneste</t>
+            <xg>
+               <x>Han har fått den av dere to.</x>
+               <xt>Dotneste lea dam åådtjeme.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">med dere to</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">dotnine</t>
+            <xg>
+               <x>Han kommer sammen med dere to.</x>
+               <xt>Dotnine ektesne båata.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">dere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">dijjieh</t>
+            <xg>
+               <x>Dere er samer.</x>
+               <xt>Dijjieh lidie saemieh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>akkusativ</re>
+            <t pos="Pron" type="Pers">dijjem</t>
+            <xg>
+               <x>Vi vil hjelpe dere.</x>
+               <xt>Dijjem sïjhtebe viehkiehtidh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">dere har</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">dijjen</t>
+            <xg>
+               <x>Dere har en båt.</x>
+               <xt>Dijjen lea vïnhtse.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">til dere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">dijjese</t>
+            <xg>
+               <x>Denne gir jeg til dere.</x>
+               <xt>Dam dijjese vadtam.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">dijjide</t>
+            <xg>
+               <x>Denne gir jeg til dere.</x>
+               <xt>Dam dijjide vadtam.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">på dere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">dijjesne</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">i dere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">dijjesne</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">fra dere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">dijjeste</t>
+            <xg>
+               <x>Jeg fikk en stor gave fra dere.</x>
+               <xt>Dijjeste stoerre vadtesem åadtjoejim.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">av dere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">dijjeste</t>
+            <xg>
+               <x>Jeg fikk en stor gave fra dere.</x>
+               <xt>Dijjeste stoerre vadtesem åadtjoejim.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">med dere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">dijjine</t>
+            <xg>
+               <x>Hvordan går det med dere?</x>
+               <xt>Guktie dijjine?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">han selv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Logo">satne</t>
+            <xg>
+               <x>Pöövle sa at han skulle komme.</x>
+               <xt>Pöövle jeehti satne edtji båetedh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">hun selv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Logo">satne</t>
+            <xg>
+               <x>Pöövle sa at han skulle komme.</x>
+               <xt>Pöövle jeehti satne edtji båetedh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">ham selv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Logo">satnem</t>
+            <xg>
+               <x>Han spurte om Maria kunne komme for å hjelpe ham.</x>
+               <xt>Gihtji mejtie Maria sïjhti båetedh satnem viehkiehtidh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">henne selv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Logo">satnem</t>
+            <xg>
+               <x>Han spurte om Maria kunne komme for å hjelpe ham.</x>
+               <xt>Gihtji mejtie Maria sïjhti båetedh satnem viehkiehtidh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">hans egen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Logo">sov</t>
+            <xg>
+               <x>Han sa at det var hans kalv.</x>
+               <xt>Jeehti sov miesie dïhte.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">hennes egen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Logo">sov</t>
+            <xg>
+               <x>Han sa at det var hans kalv.</x>
+               <xt>Jeehti sov miesie dïhte.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">han har</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Logo">sov</t>
+            <xg>
+               <x>Han sa at han har båt.</x>
+               <xt>Jeehti sov lea vïnhtse.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">dan</t>
+            <xg>
+               <x>Hun har en båt.</x>
+               <xt>Dan lea vïnhtse.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">hun har</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Logo">sov</t>
+            <xg>
+               <x>Han sa at han har båt.</x>
+               <xt>Jeehti sov lea vïnhtse.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">dan</t>
+            <xg>
+               <x>Hun har en båt.</x>
+               <xt>Dan lea vïnhtse.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">til ham selv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Logo">sutnjien</t>
+            <xg>
+               <x>Han ba om at det måtte bli fortalt til ham også.</x>
+               <xt>Stilli tjoeveri sutnjien aaj soptsestidh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">til henne selv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Logo">sutnjien</t>
+            <xg>
+               <x>Han ba om at det måtte bli fortalt til ham også.</x>
+               <xt>Stilli tjoeveri sutnjien aaj soptsestidh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">på ham selv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Logo">satnesne</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">på henne selv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Logo">satnesne</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">fra ham selv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Logo">satneste</t>
+            <xg>
+               <x>Han ser at hun er litt større enn ham og til og med fyldigere.</x>
+               <xt>Vuajna dïhte ånnetji stueriebadtje satneste jïh dovne joevteråbpoe.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">fra henne selv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Logo">satneste</t>
+            <xg>
+               <x>Han ser at hun er litt større enn ham og til og med fyldigere.</x>
+               <xt>Vuajna dïhte ånnetji stueriebadtje satneste jïh dovne joevteråbpoe.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">med ham selv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Logo">satnine</t>
+            <xg>
+               <x>Han er så glad for at noen igjen vil leke med ham.</x>
+               <xt>Dïhte dan feejjen, juhkoe gie joem vihth satnine sæjhta stååkedidh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">med henne selv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Logo">satnine</t>
+            <xg>
+               <x>Han er så glad for at noen igjen vil leke med ham.</x>
+               <xt>Dïhte dan feejjen, juhkoe gie joem vihth satnine sæjhta stååkedidh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">de selv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>om to</re>
+            <t pos="Pron" type="Logo">såtnoeh</t>
+            <xg>
+               <x>De fortalte at de hadde vært der en tur.</x>
+               <xt>Soptsestigan, såtnoeh lægan desnie mïnneme.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Logo">sijjieh</t>
+            <xg>
+               <x>De sa at de også skulle komme.</x>
+               <xt>Jeehtin sijjieh edtjieh aaj båetedh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">dem selv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>om to</re>
+            <t pos="Pron" type="Logo">sotnem</t>
+            <xg>
+               <x>De to ba meg om å hjelpe dem.</x>
+               <xt>Dah guaktah mannem stilligan sotnem viehkiehtidh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Logo">sijjem</t>
+            <xg>
+               <x>De ropte at de måtte komme for å hjelpe dem.</x>
+               <xt>Tjåarvoejin, tjoeverin sijjem båetedh viehkiehtidh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">deres eget</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>om to</re>
+            <t pos="Pron" type="Logo">sotnen</t>
+            <xg>
+               <x>Etter litt oppdager de to at deres far står mellom dem.</x>
+               <xt>Ånnetji mænngan dellie aajhtsijægan aehtjemes sotnen gaskesne tjåadtjoeminie.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">de to har selv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Logo">sotnen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">til dem to</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>om to</re>
+            <t pos="Pron" type="Logo">sotnese</t>
+            <xg>
+               <x>De to fortalte hvor stor hjelp han hadde vært for dem.</x>
+               <xt>Soptsestigan man stoerreviehkine sotnese lij orreme.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers" case="Ill">dejtie guaktide</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">på dem selv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>om to</re>
+            <t pos="Pron" type="Logo">sotnesne</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Logo">sijjesne</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">i dem selv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>om to</re>
+            <t pos="Pron" type="Logo">sotnesne</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">fra dem selv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>om to</re>
+            <t pos="Pron" type="Logo">sotneste</t>
+            <xg>
+               <x>De ga beskjed om at det kommer mer fra dem.</x>
+               <xt>Saarnoejigan, sotneste vielie båetieh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Logo">sijjeste</t>
+            <xg>
+               <x>De fortalte at han hadde fått den av dem.</x>
+               <xt>Soptsestin, dïhte sijjeste dam åådtjeme.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">med dem selv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>om to</re>
+            <t pos="Pron" type="Logo">sotnine</t>
+            <xg>
+               <x>De to fortalte at det var bra med dem.</x>
+               <xt>Soptsestigan, sotnine lij hijven.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Logo">sijjine</t>
+            <xg>
+               <x>De fortalte at med dem var det bare bra.</x>
+               <xt>Dah soptsestin, sijjine barre hijven.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">deres egen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>3. person</re>
+            <t pos="Pron" type="Logo">sijjen</t>
+            <xg>
+               <x>De fortalte at huset deres var på den der kanten.</x>
+               <xt>Soptsestin, sijjen gåetie dunnie raedtesne lij.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">til dem selv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Logo">sijjese</t>
+            <xg>
+               <x>Lærerene skrøt av at det var til stor nytte for dem.</x>
+               <xt>Lohkehtæjjah garmerdin sijjese stoerre aevhkine dïhte.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Logo">sijjide</t>
+            <xg>
+               <x>Lærerene skrøt av at det var til stor nytte for dem.</x>
+               <xt>Lohkehtæjjah garmerdin sijjide stoerre aevhkine dïhte.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">av dem</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Logo">sijjeste</t>
+            <xg>
+               <x>De fortalte at han hadde fått den av dem.</x>
+               <xt>Soptsestin, dïhte sijjeste dam åådtjeme.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">dejstie</t>
+            <xg>
+               <x>Den har han fått av dem.</x>
+               <xt>Dam lea dejstie åådtjeme.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">han</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">dïhte</t>
+            <xg>
+               <x>Hun er kommet.</x>
+               <xt>Dïhte lea båateme.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">hun</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">dïhte</t>
+            <xg>
+               <x>Hun er kommet.</x>
+               <xt>Dïhte lea båateme.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">ham</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">dam</t>
+            <xg>
+               <x>Jeg ser henne.</x>
+               <xt>Manne dam vuajnam.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">henne</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">dam</t>
+            <xg>
+               <x>Jeg ser henne.</x>
+               <xt>Manne dam vuajnam.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">hans</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">dan</t>
+            <xg>
+               <x>Huset hennes er stort.</x>
+               <xt>Dan gåetie lea stoerre.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">altese</t>
+            <xg>
+               <x>Huset hennes er stort.</x>
+               <xt>Altese gåetie lea stoerre.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">elties</t>
+            <xg>
+               <x>Huset hennes er stort.</x>
+               <xt>Elties gåetie lea stoerre.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">eltie</t>
+            <xg>
+               <x>Huset hennes er stort.</x>
+               <xt>Eltie gåetie lea stoerre.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">hennes</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">dan</t>
+            <xg>
+               <x>Huset hennes er stort.</x>
+               <xt>Dan gåetie lea stoerre.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">altese</t>
+            <xg>
+               <x>Huset hennes er stort.</x>
+               <xt>Altese gåetie lea stoerre.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">elties</t>
+            <xg>
+               <x>Huset hennes er stort.</x>
+               <xt>Elties gåetie lea stoerre.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">eltie</t>
+            <xg>
+               <x>Huset hennes er stort.</x>
+               <xt>Eltie gåetie lea stoerre.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">til ham</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">dïsse</t>
+            <xg>
+               <x>Piere ga kake til henne.</x>
+               <xt>Piere dïsse gaahkoem vedti.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">til henne</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">dïsse</t>
+            <xg>
+               <x>Piere ga kake til henne.</x>
+               <xt>Piere dïsse gaahkoem vedti.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">på ham</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">desnie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">på henne</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">desnie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">fra ham</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">destie</t>
+            <xg>
+               <x>Piere så på henne at det var noe.</x>
+               <xt>Piere hov destie vööjni, mij joem lij.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">fra henne</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">destie</t>
+            <xg>
+               <x>Piere så på henne at det var noe.</x>
+               <xt>Piere hov destie vööjni, mij joem lij.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">med ham</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t nr="Sg" pos="Pron" type="Pers">dejnie</t>
+            <xg>
+               <x>Piere kom sammen med henne.</x>
+               <xt>Piere dejnie ektesne bööti.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">med henne</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t nr="Sg" pos="Pron" type="Pers">dejnie</t>
+            <xg>
+               <x>Piere kom sammen med henne.</x>
+               <xt>Piere dejnie ektesne bööti.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">dem</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">dejtie</t>
+            <xg>
+               <x>Jeg skal hjelpe dem.</x>
+               <xt>Manne edtjem dejtie viehkiehtidh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">de har</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">dej</t>
+            <xg>
+               <x>De har en båt.</x>
+               <xt>Dej lea vïnhtse.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">på dem</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t nr="Pl" pos="Pron" type="Pers">dejnie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">fra dem</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">dejstie</t>
+            <xg>
+               <x>Den har han fått av dem.</x>
+               <xt>Dam lea dejstie åådtjeme.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">de to</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">dah guaktah</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">dem to</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers" case="Acc">dejtie guaktide</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">de to har</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">daj guaktaj</t>
+            <xg>
+               <x>De to har en båt.</x>
+               <xt>Daj guaktah lea vïnhtse.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">dej guaktaj</t>
+            <xg>
+               <x>De to har en båt.</x>
+               <xt>Dej guaktah lea vïnhtse.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">på dem to</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">dejnie guaktine</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">fra de to</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">dejstie guaktijste</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">av de to</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">dejstie guaktijste</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">med de to</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">dej guaktajgujmie</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Pers">daj guaktajgujmie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">hverandre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Recipr">sinsitniem</t>
+            <xg>
+               <x>I noen land holder folk på å drepe hverandre.</x>
+               <xt>Såemies laantesne almetjh sinsitniem bovvehtjeminie.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Recipr">sinsitnien</t>
+            <xg>
+               <x>En bred vei er nødvendig, slik at to biler kan møtes og komme forbi hverandre. De vasket hverandres føtter.</x>
+               <xt>Gabte geajnoeh daerpies, guktie göökte bïjlh maehtieh gaavnedidh jïh sinsitnien baaktoe baahtsedh. Sinsitnien juelkide bïssin.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">hverandres</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Recipr">sinsitnien</t>
+            <xg>
+               <x>En bred vei er nødvendig, slik at to biler kan møtes og komme forbi hverandre. De vasket hverandres føtter.</x>
+               <xt>Gabte geajnoeh daerpies, guktie göökte bïjlh maehtieh gaavnedidh jïh sinsitnien baaktoe baahtsedh. Sinsitnien juelkide bïssin.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">til hverandre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Recipr">sinsætnan</t>
+            <xg>
+               <x>Folk kan jo fortelle til hverandre hvor de skal gå. Mannen og kona så på hverandre.</x>
+               <xt>Almetjh hov maehtieh sinsætnan soptsestidh gogkoe dam tjuerieh vaedtsedh. Ålma jïh gåmmebe sinsætnan vuartasjægan.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">fra hverandre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Recipr">sinsitneste</t>
+            <xg>
+               <x>Det er artig for folk å treffes for å høre nytt fra hverandre. De to hadde vært lenge borte fra hverandre, men kjærligheten var likevel like sterk.</x>
+               <xt>Luste almetjidie åadtjodh gaavnedidh, sinsitneste saernieh govledh. Guhkiem ligan sinsitneste orreme, mohte gieriesvoete lij læjhkan seamma nænnoes.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">med hverandre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Recipr">sinsitnine</t>
+            <xg>
+               <x>Folk må få møtes, for å bli kjent med hverandre.</x>
+               <xt>Almetjh tjoeverieh åadtjodh gaavnedidh, sinsitnine åahpenidh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">selv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Refl">jïjtje</t>
+            <xg>
+               <x>Vinden blåser dit den vil selv. Åvla tar bøtta sjøl. Gå selv!</x>
+               <xt>Bïegke jårra gåabph jïjtje sæjhta. Åvla jïjtje bæhtoem vaalta. Vaedtsieh jïjtje!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">meg selv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Refl">jïjtjeme</t>
+            <xg>
+               <x>Jeg ser meg selv i speilet.</x>
+               <xt>Manne jïjtjeme guelmiedahkesne vuajnam.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Refl">jïjtjemem</t>
+            <xg>
+               <x>Jeg ser meg selv i speilet.</x>
+               <xt>Manne jïjtjemem guelmiedahkesne vuajnam.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">min egen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Refl">jïjtjen</t>
+            <xg>
+               <x>Jeg har min egen bil.</x>
+               <xt>Mov lea jïjtjen bïjle.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">jeg har selv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Refl">jïjtjen</t>
+            <xg>
+               <x>Jeg har min egen bil.</x>
+               <xt>Mov lea jïjtjen bïjle.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">til meg selv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Refl">jïjtsanne</t>
+            <xg>
+               <x>Jeg kokte mat til meg selv.</x>
+               <xt>Jïjtsanne beapmoeh voessjim.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Refl">jïjtsene</t>
+            <xg>
+               <x>Jeg kokte mat til meg selv.</x>
+               <xt>Jïjtsene beapmoeh voessjim.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Refl">jïjtjenistie</t>
+            <xg>
+               <x>Jeg gir ingenting fra meg selv.</x>
+               <xt>Im jïjtjenistie maam vedtieh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">på meg selv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Refl">jïjtjemisnie</t>
+            <xg>
+               <x>Jeg så rusk på meg selv.</x>
+               <xt>Jïjtjemisnie tsumhtsieh vööjnim.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">fra meg selv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Refl">jïjtjestanne</t>
+            <xg>
+               <x>Jeg gir ingenting fra meg.</x>
+               <xt>Im jïjtjestanne maam vedtieh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">med meg selv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Refl">jïjtjeninie</t>
+            <xg>
+               <x>Jeg må bli enig med meg selv.</x>
+               <xt>Tjoeverem jïjtjeninie latjkedh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Refl">jïjtjenæjnene</t>
+            <xg>
+               <x>Jeg må bli enig med meg selv.</x>
+               <xt>Tjoeverem jïjtjenæjnene latjkedh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">deg selv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Refl">jïjtjemdh</t>
+            <xg>
+               <x>Du ser deg selv i speilet.</x>
+               <xt>Datne jïjtjemdh guelmiedahkesne vuajnah.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">din egen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Refl">jïjtjedh</t>
+            <xg>
+               <x>Ser du din egen simle?</x>
+               <xt>Vuajnah jïjtjedh aaltoem?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">til deg selv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Refl">jïjtsadth</t>
+            <xg>
+               <x>Du kjøper vel boka til deg selv.</x>
+               <xt>Datne dån gærjam jïjtsadth åastah.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">i deg selv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Refl">jïjtjenadth</t>
+            <xg>
+               <x>Det kjenner du på deg selv.</x>
+               <xt>Jïjtjenadth dam damth.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">på deg selv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Refl">jïjtjenadth</t>
+            <xg>
+               <x>Det kjenner du på deg selv.</x>
+               <xt>Jïjtjenadth dam damth.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">fra deg selv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Refl">jïjtjestadth</t>
+            <xg>
+               <x>Du gjør det av deg selv.</x>
+               <xt>Jïjtjestadth darjoeh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">av deg selv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Refl">jïjtjestadth</t>
+            <xg>
+               <x>Du gjør det av deg selv.</x>
+               <xt>Jïjtjestadth darjoeh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">med deg selv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Refl">jïjtjenæjnedh</t>
+            <xg>
+               <x>Du står og synger for deg selv.</x>
+               <xt>Datne jïjtjenæjnedh tjåadtjoeh laavloeminie.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Refl">jïjtjenedh</t>
+            <xg>
+               <x>Du står og synger for deg selv.</x>
+               <xt>Datne jïjtjenedh tjåadtjoeh laavloeminie.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">seg selv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Refl">jïjtjemse</t>
+            <xg>
+               <x>Åvla ser seg selv i speilet.</x>
+               <xt>Åvla jïjtjemse guelmiedahkesne vuajna.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">sin egen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Refl">jïjtse</t>
+            <xg>
+               <x>Han tar sin egen sekk på ryggen.</x>
+               <xt>Jïjtse voessem mååjsede.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">til seg selv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Refl">jïjtsasse</t>
+            <xg>
+               <x>Han koker kaffe bare til seg selv.</x>
+               <xt>Barre jïjtsasse kaaffem vuassja.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Refl">jïjtsinie</t>
+            <xg>
+               <x>Piere står og synger for seg selv.</x>
+               <xt>Piere tjåådtje jïjtsinie laavloeminie.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">i seg selv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Refl">jïjtjisnie</t>
+            <xg>
+               <x>Barnet er hos seg selv. Buksa passer ikke på han selv.</x>
+               <xt>Maana jïjtjisnie. Ij jïjtjisnie dïhte måvhka sjïehth.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">på seg selv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Refl">jïjtjisnie</t>
+            <xg>
+               <x>Barnet er hos seg selv. Buksa passer ikke på han selv.</x>
+               <xt>Maana jïjtjisnie. Ij jïjtjisnie dïhte måvhka sjïehth.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">hos seg selv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Refl">jïjtjisnie</t>
+            <xg>
+               <x>Barnet er hos seg selv. Buksa passer ikke på han selv.</x>
+               <xt>Maana jïjtjisnie. Ij jïjtjisnie dïhte måvhka sjïehth.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">fra seg selv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Refl">jïjtjestissie</t>
+            <xg>
+               <x>Laara gjør det av seg selv.</x>
+               <xt>Laara jïjtjestissie dorje.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Refl">jïjtsistie</t>
+            <xg>
+               <x>Laara gjør det av seg selv.</x>
+               <xt>Laara jïjtsistie dorje.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">hva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Rel">mij</t>
+            <xg>
+               <x>Hva er det? Hva som helst. Hva er det i veien med deg? Hvilken dag er det i dag? Det som dukket opp i går, hva var nå det? Det står ingenting om det her. Ikke noe engang.</x>
+               <xt>Mij dïhte? Saaht mij. Mij dov faatoes? Mij biejjide daan biejjien? Dïhte mij jååktan jijhtieji, mij bist dïhte lij? Ij mij daesnie tjåadtjoeh dan bïjre. Ij mij gænnah.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Rel">maam</t>
+            <xg>
+               <x>Har du hørt noe om krigen? Hva skal vi spise til middag idag? Bilen som far kjøpte i går, er hvit. Han hadde absolutt ingenting.</x>
+               <xt>Dagke datne maam dåaroen bïjre govleme? Maam edtjebe gaskebeajjan byöpmedidh? Bïjle maam aehtjie jååktan öösti, lea veelkes. Idtji maam gih utnieh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Rel">man</t>
+            <xg>
+               <x>Hva skriver dere om? Hvem sin simle er det som har bjelle med dump klang?</x>
+               <xt>Man bïjre tjaelede? Gïen dïhte aaltoe man tsåalhkoeh bealloe lea?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Rel">mejtie</t>
+            <xg>
+               <x>De jentene som jeg så i byen i går...</x>
+               <xt>Dah nïejth mejtie jååktan staaresne vööjnim...</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">som har</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Rel">man</t>
+            <xg>
+               <x>Hva skriver dere om? Hvem sin simle er det som har bjelle med dump klang?</x>
+               <xt>Man bïjre tjaelede? Gïen dïhte aaltoe man tsåalhkoeh bealloe lea?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">til hva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Rel">mïsse</t>
+            <xg>
+               <x>Hva skal du bruke denne til? Hvor ble det av hunden som jeg ga mat til? Den passer ikke til noen ting.</x>
+               <xt>Mïsse edtjh dam utnedh? Gåabph dïhte bïenje mïsse beapmoeh vedtim? Ij mïsse sjïehth.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Rel">masse</t>
+            <xg>
+               <x>Hva skal du bruke denne til? Hvor ble det av hunden som jeg ga mat til?</x>
+               <xt>Masse edtjh dam utnedh? Gåabph dïhte bïenje masse beapmoeh vedtim?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>om flere</re>
+            <t pos="Pron" type="Rel">mejtie</t>
+            <xg>
+               <x>Til hva skal du bruke disse? De kuene som du ga salt til, kommer jo tilbake.</x>
+               <xt>Mejtie edtjh daejtie utnedh? Dah govsh mejtie datne saelhtieh vedtih, dah hov bååstide båetieh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">i hva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Rel">mesnie</t>
+            <xg>
+               <x>På hva så du det? Jeg har et papir hvor det står at dette jordet er mitt.</x>
+               <xt>Mesnie dam vööjnih? Mov lea paehpere mesnie tjåådtje daate jåarta lea mov.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>om flere</re>
+            <t nr="Pl" pos="Pron" type="Rel">mejnie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">på hva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Rel">mesnie</t>
+            <xg>
+               <x>På hva så du det? Jeg har et papir hvor det står at dette jordet er mitt.</x>
+               <xt>Mesnie dam vööjnih? Mov lea paehpere mesnie tjåådtje daate jåarta lea mov.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">av hva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Rel">mestie</t>
+            <xg>
+               <x>Hva kommer det av? Ta den skåla som du kan helle vann av. Han er ikke redd for noe.</x>
+               <xt>Mestie dïhte båata? Vaeltieh dam gaeriem mestie maahta tjaetsiem gurhkedh. Ij mestie gænnah bïllh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">med hva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t nr="Sg" pos="Pron" type="Rel">mejnie</t>
+            <xg>
+               <x>Med hva skal jeg skjære? Kom med kniven som jeg kan skjære med.</x>
+               <xt>Mejnie edtjem tjoehpedh? Båetieh nejpine mejnie maahtam tjoehpedh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">hvorfor</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t nr="Sg" pos="Pron" type="Rel">mannasinie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">som hva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t nr="Sg" pos="Pron" type="Rel">mannasinie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">hvilke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Rel">mah</t>
+            <xg>
+               <x>Hvilke nyheter har du? De fiskene som ble igjen, hvor er de?</x>
+               <xt>Mah saernieh åtnah? Dah guelieh mah beetsin, gusnie dah?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Rel">mej</t>
+            <xg>
+               <x>De sauene som har bjeller med dump lyd, er våre sauer. Der bodde det to småtroll som het Karius og Baktus.</x>
+               <xt>Dah sïrvh mej tsåalhkoeh bealloeh, leah mijjen sïrvh. Desnie lin göökte nïerretjh årroeminie mej nomme Karijuse jïh Baktuse.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">hvorfra</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Rel">mejstie</t>
+            <xg>
+               <x>De åkrene hvor man har tatt opp poteter, ser helt svarte ut nå.</x>
+               <xt>Dah ïentjh mejstie pearah kroehkeme, eevre tjeehpes vååjnoeh daelie.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">med hvilke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Rel">mejgujmie</t>
+            <xg>
+               <x>Med hva drar du? Rein som man jobber ordentlig med, blir tamme. Her er lekene som du får leke med.</x>
+               <xt>Mejgujmie vualkah? Bovtsh mejgujmie eensilaakan barka, hov låebties sjidtieh. Daesnie dah gaevnieh mejgujmie åadtjoeh stååkedidh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">hva slags</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Interr">magkeres</t>
+            <xg>
+               <x>Hva slags arbeid har du?</x>
+               <xt>Magkeres barkoe dov lea?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Interr">magkere</t>
+            <xg>
+               <x>Hva slags ord er det?</x>
+               <xt>Mij baakojde dïhte?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Interr">magkerem</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Interr">magkeren</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Interr">magkaridie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">til hva slags</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Interr">magkarasse</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>om flere</re>
+            <t pos="Pron" type="Interr">magkaridie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">i hva slags</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Interr">magkarisnie</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Interr">magkarinie</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>om flere</re>
+            <t nr="Pl" pos="Pron" type="Interr">magkarijnie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">med hva slags</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Interr">magkarinie</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Interr">magkerigujmie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">av hva slags</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Interr">magkaristie</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Interr">magkarijstie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">hvilke slags</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Interr">magkerh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Interr">magkeri</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">hvem</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Rel">gie</t>
+            <xg>
+               <x>Hvem er så du? Den som kommer først, skal koke kaffe. Hvilken Meehte? Har ingen kommet enda?</x>
+               <xt>Gie bist datne dellie? Dïhte gie voestegh båata, edtja kaaffem voessjedh. Gie dejstie Meehtijste? Ij gie annje leah båateme?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Rel">gïem</t>
+            <xg>
+               <x>Hvem skal jeg hjelpe? Den norske dama som du så i dag, er min nabo.</x>
+               <xt>Gïem edtjem viehkiehtidh? Dïhte rovkije gïem daan biejjien vööjnih, lea mov kraanna.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Rel">geam</t>
+            <xg>
+               <x>Hvem så du? Den norske dama som du så i dag, er min nabo.</x>
+               <xt>Geam datne vööjnih? Dïhte rovkije geam daan biejjien vööjnih, lea mov kraanna.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Rel">gïen</t>
+            <xg>
+               <x>Hvem er det sin? Den personen som har den bilen, er fra Sverige. Hvem vet hvem sin reinkalv det er?</x>
+               <xt>Gïen dïhte lea? Dïhte almetje gïen doete bïjle, lea Sveerjeste. Gie dïhte daajra gïen miesie dïhte lea?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>om flere</re>
+            <t pos="Pron" type="Rel">gïeh</t>
+            <xg>
+               <x>Hvem er de? De som vil ha mat, må skynde seg!</x>
+               <xt>Gïeh dah leah? Dah gïeh beapmoeh sijhtieh, tjoeverieh skodtedh!</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>om flere</re>
+            <t pos="Pron" type="Rel">giejtie</t>
+            <xg>
+               <x>Hvor ble det av gjestene som du så?</x>
+               <xt>Gåabph dah guessieh sjïdtin giejtie vööjnih?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">hvem sin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Rel">gïen</t>
+            <xg>
+               <x>Hvem er det sin? Den personen som har den bilen, er fra Sverige. Hvem vet hvem sin reinkalv det er?</x>
+               <xt>Gïen dïhte lea? Dïhte almetje gïen doete bïjle, lea Sveerjeste. Gie dïhte daajra gïen miesie dïhte lea?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Rel">gean</t>
+            <xg>
+               <x>Hvem er det sin? Den hunden som har lang hale, er min hund.</x>
+               <xt>Gean dïhte lea? Dïhte bïenje gean guhkies sïejpe, lea mov bïenje.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">til hvem</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Rel">gïese</t>
+            <xg>
+               <x>For hvem er det til nytte? Den ungen som jeg strikket en lue til, hvor ble han av?</x>
+               <xt>Gïese lea dïhte aevhkine? Dïhte maana gïese tjohpem gurriejim, gåabph maa dïhte sjïdti?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Rel">gease</t>
+            <xg>
+               <x>For hvem er det til nytte? Den ungen som jeg strikket en lue til, hvor ble hun av?</x>
+               <xt>Gease lea dïhte aevhkine? Dïhte maana gease tjohpem gurriejim, gåabph maa dïhte sjïdti?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>om flere</re>
+            <t pos="Pron" type="Rel">giejtie</t>
+            <xg>
+               <x>Til hvem har du tenkt å gi disse? De barna som Anna hadde tenkt å gi kofter til, er hennes tantebarn.</x>
+               <xt>Giejtie daejtie ussjedh vedtedh? Dah maanah giejtie Aanna lea ussjedamme gåptoeh vedtedh, leah sov sïeselh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">hos hvem</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Rel">giesnie</t>
+            <xg>
+               <x>På hvem ser du det? Hvem er nå det, som jeg så i går med så rar hatt?</x>
+               <xt>Giesnie dam vuajnah? Gie bist dïhte, giesnie manne jååktan dam rovnegs gajpem vööjnim?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>om flere</re>
+            <t nr="Pl" pos="Pron" type="Rel">giejnie</t>
+            <xg>
+               <x>Folk som du ser har slik poncho, kommer jo langveis fra.</x>
+               <xt>Almetjh giejnie dagkerem skopmehkem vuajnah, hov guhkede båetieh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">i hvem</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Rel">giesnie</t>
+            <xg>
+               <x>På hvem ser du det? Hvem er nå det, som jeg så i går med så rar hatt?</x>
+               <xt>Giesnie dam vuajnah? Gie bist dïhte, giesnie manne jååktan dam rovnegs gajpem vööjnim?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">fra hvem</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Rel">giestie</t>
+            <xg>
+               <x>Fra hvem har du fått den? Birje, som jeg har fått denne av, er tanta mi.</x>
+               <xt>Giestie lea dam åådtjeme? Birje, giestie dam åadtjoejim, lea mov muahra.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>om flere</re>
+            <t pos="Pron" type="Rel">giejstie</t>
+            <xg>
+               <x>Fra hvem kommer de? De personene som du har fått denne fra, hvem er de?</x>
+               <xt>Giejstie dah båetieh? Doh almetjh giejstie datne dam åadtjoejih, gïeh lin dah?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">av hvem</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Rel">giestie</t>
+            <xg>
+               <x>Fra hvem har du fått den? Birje, som jeg har fått denne av, er tanta mi.</x>
+               <xt>Giestie lea dam åådtjeme? Birje, giestie dam åadtjoejim, lea mov muahra.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">med hvem</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t nr="Sg" pos="Pron" type="Rel">giejnie</t>
+            <xg>
+               <x>Hvem kom du sammen med? Den jenta som jeg var sammen med i går, er min kusine.</x>
+               <xt>Giejnie ektesne böötih? Dïhte nyöjtetje giejnie jååktan lim ektesne, lea mov aajkohke.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>om flere</re>
+            <t pos="Pron" type="Rel">giejgujmie</t>
+            <xg>
+               <x>Hvem kom du sammen med? De elevene, som du er sammen med, hvor mange er de?</x>
+               <xt>Giejgujmie ektine datne böötih? Dah learohkh, giejgujmie datne ektesne, man gallesh dah?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>om flere</re>
+            <t pos="Pron" type="Rel">geajgujmie</t>
+            <xg>
+               <x>Hvem kom du sammen med? De elevene, som du er sammen med, hvor mange er de?</x>
+               <xt>Giejgujmie ektine datne böötih? Dah learohkh, geajgujmie datne ektesne, man gallesh dah?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">hvem sine</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>om flere</re>
+            <t pos="Pron" type="Rel">giej</t>
+            <xg>
+               <x>Hvem sine er disse? Folk med tjukt hår, trenger ikke lue!</x>
+               <xt>Giej leah daah? Almetjh giej söökes voepth, eah tjohpem daarpesjh!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">på hvem</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>om flere</re>
+            <t nr="Pl" pos="Pron" type="Rel">giejnie</t>
+            <xg>
+               <x>Folk som du ser har slik poncho, kommer jo langveis fra.</x>
+               <xt>Almetjh giejnie dagkerem skopmehkem vuajnah, hov guhkede båetieh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">hvem av dem</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Rel">guhte</t>
+            <xg>
+               <x>Hvem av dem sa det? Hvem av dem er det som har gjort dette? Ingen har fortalt det til meg. Om det er noen her som kan hjelpe meg?</x>
+               <xt>Guhte dam jeehti? Gie guhte naemhtie dorjeme? Ij guhte dam munnjien soptsestamme. Mah guhte sæjhta mannem viehkiehtidh?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Rel">guhtem</t>
+            <xg>
+               <x>Jeg har ikke spurt noen om det.</x>
+               <xt>Im leah manne guhtem dan bïjre gihtjeme.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>om flere</re>
+            <t pos="Pron" type="Rel">guhth</t>
+            <xg>
+               <x>Hvem av dem var det som dro? Hvem av dem sa det? De som har gått i lære, får fortere jobb.</x>
+               <xt>Guhth dah vöölkin? Guhth dah nemhtie jeehtin? Dah guhth learoeh vaadtseme, verkebe barkoeh åadtjoeh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>om flere</re>
+            <t case="Acc" pos="Pron" type="Rel">guhtide</t>
+            <xg>
+               <x>Laara har ikke spurt noen om det.</x>
+               <xt>Laara ij leah gujhth guhtide gihtjeme dan bïjre.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">hvilken av dem</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Rel">guhte</t>
+            <xg>
+               <x>Hvem av dem sa det? Hvem av dem er det som har gjort dette? Ingen har fortalt det til meg. Om det er noen her som kan hjelpe meg?</x>
+               <xt>Guhte dam jeehti? Gie guhte naemhtie dorjeme? Ij guhte dam munnjien soptsestamme. Mah guhte sæjhta mannem viehkiehtidh?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">hvem av dem sin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Rel">guhten</t>
+            <xg>
+               <x>Hvem sine bukser er dette?</x>
+               <xt>Guhten måvhkah leah daah?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>om flere</re>
+            <t pos="Pron" type="Rel">guhti</t>
+            <xg>
+               <x>Hvem sine klær er dette?</x>
+               <xt>Guhti vaarjoeh leah daah?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">til hvem av dem</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Rel">guhtese</t>
+            <xg>
+               <x>Ikke fortell det til noen av dem!</x>
+               <xt>Aellieh guhtese dam soptsesth!</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>om flere</re>
+            <t case="Acc" pos="Pron" type="Rel">guhtide</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">i hvem av dem</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Rel">guhtesne</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>om flere</re>
+            <t pos="Pron" type="Rel">guhtine</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">fra hvem av dem</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Rel">guhteste</t>
+            <xg>
+               <x>Fra hvem har du hørt det?</x>
+               <xt>Guhteste dam govleme?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>om flere</re>
+            <t pos="Pron" type="Rel">guhtijste</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">med hvem av dem</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t nr="Sg" pos="Pron" type="Rel">guhtine</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>om flere</re>
+            <t nr="Pl" pos="Pron" type="Rel">guhtigujmie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">hos hvem av dem</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>om flere</re>
+            <t pos="Pron" type="Rel">guhtine</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">hvilken av to</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Rel">gåabpa</t>
+            <xg>
+               <x>Ingen av de to hører at døra går opp og mor og far står og ser på dem. Hvilken hånd? Høyre eller venstre? Hvilken hånd er det som gjør vondt? Hvem av de to sa det?</x>
+               <xt>Ij gåabpa govlh okse rïhpese jïh aehtjie gon tjidtjieh tjåadtjoeminie vuartesjeminie. Gåabpa gïete? Åelkies vuj gårroeh? Gåabpa gïete dïhte mij bååktjehke? Gåabpa dïhte nemhtie jeehti??</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Rel">gåabpam</t>
+            <xg>
+               <x>Hvilken av disse to sekkene skal jeg bære?</x>
+               <xt>Gåabpam daejstie voessijste edtjem guedtedh?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Rel">gåabpetje</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Rel">gåabpetjem</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">hvilken av to sin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Rel">gåabpan</t>
+            <xg>
+               <x>Så skulle de to se hvem av dem som hadde den sterkeste handa.</x>
+               <xt>Dle edtjigan vuejnedh gåabpan veaksahkommes gïete.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">til hvilken av to</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Rel">gåabpese</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Rel">gåabpatjasse</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">i hvilken av to</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Rel">gåabpesne</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Rel">gåabpene</t>
+            <xg>
+               <x>På hvilken av de to sidene er den?</x>
+               <xt>Gåabpene bielesne lea dïhte?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Rel">gåabpatjisnie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">på hvilken av to</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Rel">gåabpene</t>
+            <xg>
+               <x>På hvilken av de to sidene er den?</x>
+               <xt>Gåabpene bielesne lea dïhte?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">fra hvilken av to</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Rel">gåabpeste</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Rel">gåabpede</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Rel">gåabpatjistie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">med hvilken av to</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t nr="Sg" pos="Pron" type="Rel">gåabpine</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t nr="Sg" pos="Pron" type="Rel">gåabpatjinie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">hvilken av de to sin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Rel">gåabpetjen</t>
+         </tg>
+      </mg>
+   </e>
+   <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript"
+                 xmlns:xhtml="http://www.w3.org/1999/xhtml"/>
+</r>
