@@ -6,8 +6,8 @@
   <id>nobsma</id>
 
   <!-- The natural language name(s) for the dictionary -->
-  <id xml:lang="nob">Norsk-sørsamisk ordbok</id>
-  <id xml:lang="swe">Norsk-sydsamisk ordbok</id>
+  <name xml:lang="nob">Norsk-sørsamisk ordbok</name>
+  <name xml:lang="swe">Norsk-sydsamisk ordbok</name>
 
   <!-- Whether the dictionary should be publicly visible or not: -->
   <public>yes</public>
