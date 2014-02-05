@@ -18,7 +18,14 @@
 
   <!-- Short, free description -->
   <description xml:lang="nob">
-    <p>Ordboka er utvikla av Giellatekno og Divvun ved UiT.</p>
+    <p>Ordboka byggjer på ordlistematerialet utarbeida av Albert Jåma og Tove
+    Brustad som finst på <a href="http://www.ruovatsijte.no/">Hemnes Samiske
+    Forening</a> sine nettsider. I tillegg er dei vanlegaste orda frå sørsamiske
+    tekstar lagt til, og om lag 1250 sørsamiske stadnamn er henta frå Statens
+    Kartverk og det svenske Sametingets internettsider. Alle verba i Verbh! er
+    lagt inn, med svensk omsetjing. I alt inneheld ordboka omtrent 8750 norske
+    lemma. Vær obs på at ordboka er blitt til ved å snu sørsamisk-norsk
+    ordbok, og at ordboka dermed vil mangle en del vanlige norske ord.</p>
   </description>
 
   <!-- List of languages supported by the dictionary. -->
