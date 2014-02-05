@@ -8,6 +8,8 @@
   <!-- The natural language name(s) for the dictionary -->
   <name xml:lang="nob">Norsk-sørsamisk ordbok</name>
   <name xml:lang="swe">Norsk-sydsamisk ordbok</name>
+  <name xml:lang="smj">Dárro-oarjjelsáme báhkogirjje</name>
+
 
   <!-- Whether the dictionary should be publicly visible or not: -->
   <public>yes</public>
@@ -26,6 +28,12 @@
     lagt inn, med svensk omsetjing. I alt inneheld ordboka omtrent 8750 norske
     lemma. Vær obs på at ordboka er blitt til ved å snu sørsamisk-norsk
     ordbok, og at ordboka dermed vil mangle en del vanlige norske ord.</p>
+  </description>
+  
+    <description xml:lang="smj">
+    <p> Albert Jåma ja Tove Brustada báhkolistatjoakkáldahka l vuodon dán báhkogirjjáj. Báhkolistatjoakkáldahka l sadjihin  <a href="http://www.ruovatsijte.no/">Hemnes Samiske
+    Foreninga</a> næhttasijdon. Duodden de li dábálamos bágo oarjjelsáme tevstajs duoddidum, ja birrusin 1250 oarjjelsáme bájkkenamá li viettjadum Statens Kartverka ja Svieriga Sámedikke næhttabielijs. 
+     Divna verba ma li girjen Verbh! li duoddiduvvam svierigadárogielak jårggålusájn. Tjoahkkáj li birrusin 8750 dárogielak liemmá. Gå dagájma dáv báhkogirjev de jårggålijma ber oarjjelsáme-dárro báhkogirjev, ja dajnas de vájlluji muhtem dábálasj dárogielbágo.</p>
   </description>
 
   <!-- List of languages supported by the dictionary. -->
