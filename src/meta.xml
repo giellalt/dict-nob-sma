@@ -7,7 +7,7 @@
 
   <!-- The natural language name(s) for the dictionary -->
   <name xml:lang="no">Norsk-sørsamisk ordbok</name>
-  <name xml:lang="se">Norsk-sørsamisk ordbok</name>
+  <name xml:lang="se">Dáru-máttasámi sátnegirji</name>
   <name xml:lang="sma">Daaroen-åarjelsaemien baakoegærja</name>
   <name xml:lang="smj">Dárro-oarjjelsáme báhkogirjje</name>
   <name xml:lang="sv">Norsk-sydsamisk ordbok</name>
@@ -33,14 +33,14 @@
   </description>
   
   <description xml:lang="se">
-    <p>Ordboka byggjer på ordlistematerialet utarbeida av Albert Jåma og Tove
-    Brustad som finst på <a href="http://www.ruovatsijte.no/">Hemnes Samiske
-    Forening</a> sine nettsider. I tillegg er dei vanlegaste orda frå sørsamiske
-    tekstar lagt til, og om lag 1250 sørsamiske stadnamn er henta frå Statens
-    Kartverk og det svenske Sametingets internettsider. Alle verba i Verbh! er
-    lagt inn, med svensk omsetjing. I alt inneheld ordboka omtrent 8750 norske
-    lemma. Vær obs på at ordboka er blitt til ved å snu sørsamisk-norsk
-    ordbok, og at ordboka dermed vil mangle en del vanlige norske ord.</p>
+    <p>Sátnegirjji vuođđun lea Albert Jåma ja Tove Brustad sátnelistui, guđe lea
+    gávdnomis <a href="http://www.ruovatsijte.no/">Hemnes Samiske
+    Forening</a> neahttasiidduin. Dasa lassin leat lasihan dábáleamos sániid
+    máttasámi teavsttain ja sullii 1250 máttasámi báikenama leat vižžon Stáhta
+    Gártadoaimmahagas ja Ruoŧa Sámedikki neahttasiidduin. Visot vearbbat, mat gávdnojit
+    Verbh! -girjjis leat lasihuvvon Ruoŧagielat jorgalusaiguin. Sátnegirji sisttisdoallá
+    sullii 8750 dárugiela vuođđohámi. Sátnegirji lea jorgaluvvon máttasámi-dáru sátnegirjjis,
+    de lea vejolaš ahte oalle máŋga dábálaš dárusáni váilot.</p>
   </description>
   
   <description xml:lang="sma">
