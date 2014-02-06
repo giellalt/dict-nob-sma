@@ -8,7 +8,7 @@
   <!-- The natural language name(s) for the dictionary -->
   <name xml:lang="no">Norsk-sørsamisk ordbok</name>
   <name xml:lang="se">Norsk-sørsamisk ordbok</name>
-  <name xml:lang="sma">Norsk-sørsamisk ordbok</name>
+  <name xml:lang="sma">Daaroen-åarjelsaemien baakoegærja</name>
   <name xml:lang="smj">Dárro-oarjjelsáme báhkogirjje</name>
   <name xml:lang="sv">Norsk-sydsamisk ordbok</name>
 
@@ -44,14 +44,8 @@
   </description>
   
   <description xml:lang="sma">
-    <p>Ordboka byggjer på ordlistematerialet utarbeida av Albert Jåma og Tove
-    Brustad som finst på <a href="http://www.ruovatsijte.no/">Hemnes Samiske
-    Forening</a> sine nettsider. I tillegg er dei vanlegaste orda frå sørsamiske
-    tekstar lagt til, og om lag 1250 sørsamiske stadnamn er henta frå Statens
-    Kartverk og det svenske Sametingets internettsider. Alle verba i Verbh! er
-    lagt inn, med svensk omsetjing. I alt inneheld ordboka omtrent 8750 norske
-    lemma. Vær obs på at ordboka er blitt til ved å snu sørsamisk-norsk
-    ordbok, og at ordboka dermed vil mangle en del vanlige norske ord.</p>
+    <p>Dan baakoegærjan sisvege båata Albert Jåman jïh Tove Brustaden baakoelæstojste, mah leah<a href="http://www.ruovatsijte.no/">Hemnes Samiske
+    Forening</a> nedtesæjrosne. Lissine leah baakoeh mah jeenemes åtneme saemien tekstine, jïh 1250 åarjelsaemien sijjienommh mah Statens Kartverkeste jïh Sveerjen Saemiedigkien nedtesæjroste leah veedtjesovveme.Gaajhkh dah veerbh Verb!-gærjesne leah aaj mealtan, mejtie lea svïenskegïelese jorkesovveme.Dan baakoegærjan leah medtie 8750 daaroen lemma.Vuep!Dam åarjelsaemien-daaroen baakoegærjam libie jårrehtamme, dannasinie naan sïejhme daaroen baakoeh fååtesieh daennie Daaroen-åarjelsaemien baakoegærjesne.</p>
   </description>
   
     <description xml:lang="smj">
