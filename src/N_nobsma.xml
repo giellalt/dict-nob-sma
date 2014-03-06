@@ -29,6 +29,16 @@ For the full license text, see the link above.</lic>
    </lics>
    <e>
       <lg>
+         <l pos="N">feelemesïelte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A" stem="3syll">reiseselskap</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="N">kjerneområde</l>
       </lg>
       <mg>
@@ -37,7 +47,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-
     <e>
       <lg>
          <l pos="N">kjegle</l>
