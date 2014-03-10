@@ -87,20 +87,20 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l pos="N">dagens</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="A" stem="3syll">daan beajjetje</t>
-            <xg>
-               <x>dagens avis</x>
-               <xt>daan beajjetje plaerie</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
+  ! <e>
+  !    <lg>
+  !       <l pos="N">dagens</l>
+  !    </lg>
+  !    <mg>
+  !       <tg xml:lang="sma">
+  !          <t pos="A" stem="3syll">daan beajjetje</t>
+  !          <xg>
+  !             <x>dagens avis</x>
+  !             <xt>daan beajjetje plaerie</xt>
+  !          </xg>
+  !       </tg>
+  !    </mg>
+  ! </e>
    <e>
       <lg>
          <l decl="1" gen="m" pos="N">elskede</l>
