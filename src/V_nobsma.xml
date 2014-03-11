@@ -27,6 +27,90 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
+    <e>
+      <lg>
+         <l pos="V">avtale</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="V">mååhtedidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="V">nååhtedidh</t>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l pos="V">avvikle</l>
+      </lg>
+       <mg>
+         <tg xml:lang="sma">
+            <t pos="V">orrijehtedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="V">orrijidh</t>
+            <xg>
+               <x>Laara lea bovtsigujmie orrijamme</x>
+               <xt>Lars har avviklet reindriften.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">avbryte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="V">orrijidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">attestere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="V">vihtesjidh</t>
+         </tg>
+      </mg>
+   </e>
+<e>
+      <lg>
+         <l pos="V">bevise</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="V">vihtesjidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">annerkjenne</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="V">jååhkesjidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">anbefale</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="V">raeriestidh</t>
+         </tg>
+      </mg>
+   </e>
    <e>
       <lg>
          <l pos="V">snakk samisk</l>
@@ -54425,7 +54509,21 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="V">avbryte</l>
+         <l pos="V">blåse av</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="V" stem="3syll">pruskiehtidh</t>
+            <xg>
+               <x>Han blåste hånlig av meg</x>
+               <xt>Munnjien hov pruskiehti</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">avvise</l>
       </lg>
       <mg>
          <tg xml:lang="sma">

@@ -23,10 +23,185 @@ For the full license text, see the link above.</lic>
      objectionable translations, etc. If you find any errors or want to add more
      words, download the file, edit it, and send it back to
      <a>mailto:divvun@samediggi.no</a> and <a>mailto:giellatekno@hum.uit.no</a>.
-     Please also note that the entries are not necessarily sorted,
+     Please also note that the entrimtes are not necessarily sorted,
      or could be wrongly sorted.
      </sourcenote>
    </lics>
+   <e>
+      <lg>
+         <l pos="N">allmenn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A" stem="3syll">sïejhme</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">balkong</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A" stem="3syll">lïtnje</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">altan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A" stem="3syll">lïtnje</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="N">annerkjennelse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A" stem="3syll">jååhkesjimmie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">antall</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A" stem="3syll">låhkoe</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">areal</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A" stem="3syll">dajve</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="N">arkiv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A" stem="3syll">våarhkoe</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="N">attest</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A" stem="3syll">vihtesjimmie</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A" stem="3syll">vïhnesjimmie</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="N">avstamming</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A" stem="3syll">maadtoe</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A" stem="3syll">såelie</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="N">avklaring</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A" stem="3syll">tjilkeme</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="N">avtale</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A" stem="3syll">mååhtedimmie</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A" stem="3syll">nååhtedimmie</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="N">bakgrunn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A" stem="3syll">duekie</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="N">ressurs</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A" stem="3syll">maelmie</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A" stem="3syll">vierhtie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">publikum</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A" stem="3syll">almetjh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A" stem="3syll">goltelæjjah</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A" stem="3syll">vuartasjæjjah</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A" stem="3syll">lohkijh</t>
+         </tg>
+      </mg>
+   </e>
    <e>
       <lg>
          <l pos="N">veiviser</l>
@@ -35261,6 +35436,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" soggi="e" stem="2syll">årromesijjie</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N" soggi="e" stem="2syll">tjaalehsijjie</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N" soggi="e" stem="2syll">tjaelemessijjie</t>
          </tg>
       </mg>
    </e>
