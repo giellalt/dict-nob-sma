@@ -29,6 +29,41 @@ For the full license text, see the link above.</lic>
    </lics>
    <e>
       <lg>
+         <l pos="N">veiviser</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A" stem="3syll">tsïegle</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">klokkeviser</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A" stem="3syll">tsïegle</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">lastebil</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A" stem="3syll">laessiebïjle</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A" stem="3syll">leessemebïjle</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="N">reiseselskap</l>
       </lg>
       <mg>
@@ -21169,6 +21204,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" soggi="oe" stem="2syll">maahtoe</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N" soggi="oe" stem="2syll">daajroe</t>
          </tg>
       </mg>
    </e>
