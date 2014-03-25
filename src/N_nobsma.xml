@@ -29,11 +29,116 @@ For the full license text, see the link above.</lic>
    </lics>
    <e>
       <lg>
+         <l pos="N">grad</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A" stem="3syll">tsiehkie</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A" stem="3syll">graade</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="N">gjenstand</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A" stem="3syll">aate</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">gjennomsnitt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A" stem="3syll">gaskemedtie</t>
+         </tg>
+      </mg>
+   </e>
+     <e>
+      <lg>
+         <l pos="N">gjennomsnittsverdi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A" stem="3syll">gaskemedtievierhtie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">geaografi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A" stem="3syll">eatnemelearoe</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">framtid</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A" stem="3syll">båetije biejjieh</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="N">forventning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A" stem="3syll">vuartoe</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="N">forutsetning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A" stem="3syll">jis....dellie</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A" stem="3syll">voestegh...tjoevere</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">forlegger</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A" stem="3syll">bertije</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="N">forkortning</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <t pos="A" stem="3syll">åenehtse</t>
+         </tg>
+      </mg>
+       <mg>
+         <tg xml:lang="sma">
+            <t pos="A" stem="3syll">åeniedimmie</t>
          </tg>
       </mg>
    </e>
@@ -16001,6 +16106,11 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N" soggi="ie" stem="2syll">haamoe</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -25930,6 +26040,11 @@ For the full license text, see the link above.</lic>
       <lg>
          <l decl="1" gen="m" pos="N">forvaltning</l>
       </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t margo="e" pos="N" soggi="e" stem="3syll">reerenasse</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="sma">
             <t margo="e" pos="N" soggi="e" stem="3syll">reereme</t>

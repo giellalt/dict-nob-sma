@@ -29,6 +29,41 @@ For the full license text, see the link above.</lic>
    </lics>
    <e>
       <lg>
+         <l pos="A">geografisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A" stem="2syll">eatnemelearoen mietie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">fortvilt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A" stem="2syll">njuajjan</t>
+         </tg>
+      </mg>
+       <mg>
+         <tg xml:lang="sma">
+            <t pos="A" stem="2syll">baanhtsan</t>
+         </tg>
+      </mg>
+       <mg>
+         <tg xml:lang="sma">
+            <t pos="A" stem="2syll">baenhtsesne</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A" stem="2syll">staelhpesne</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="A">kraftløs</l>
       </lg>
       <mg>

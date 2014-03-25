@@ -29,6 +29,64 @@ For the full license text, see the link above.</lic>
    </lics>
     <e>
       <lg>
+         <l pos="V">være rørlig og frisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="V">verviestidh</t>
+            <xg>
+               <x>Nov maa manne vervestem!</x>
+               <xt>Jeg er da frisk og rørlig!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">fungere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="V">juhtedh</t>
+            <xg>
+               <x>Guktie daate jåhta?</x>
+               <xt>Hvordan fungerer denne?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="V">dijpedh</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="V">ha fritidh</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="V">eejehtidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="V">eejehtalledh</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="V">forlegge</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="V">bertedh</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
          <l pos="V">fordele</l>
       </lg>
       <mg>
@@ -29312,6 +29370,11 @@ For the full license text, see the link above.</lic>
             <t class="VI" pos="V" stem="2syll">reeredh</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t class="VI" pos="V" stem="2syll">stuvredh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -38139,6 +38202,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t class="VI" pos="V" stem="2syll" umlaut="full" vow="x">vissjedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t class="VI" pos="V" stem="2syll" umlaut="full" vow="x">eavadidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t class="VI" pos="V" stem="2syll" umlaut="full" vow="x">eebledh</t>
          </tg>
       </mg>
       <mg>
