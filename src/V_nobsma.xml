@@ -27,6 +27,41 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
+   <e>
+      <lg>
+         <l pos="V">ha innflytelse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="V">maehtedh maam misse darjodh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="V">maehtedh maam giese jiehtedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="V">maam/giem dijpedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="V">gogkoe maehtedh dijpedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">gratulere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="V">læhkoehtidh</t>
+         </tg>
+      </mg>
+   </e>
     <e>
       <lg>
          <l pos="V">være rørlig og frisk</l>
@@ -19630,6 +19665,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t p3p="håhkesje" pos="V" stem="3syll">håhkesjidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t p3p="håhkesje" pos="V" stem="3syll">gegkiestidh</t>
          </tg>
       </mg>
    </e>

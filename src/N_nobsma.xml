@@ -29,6 +29,135 @@ For the full license text, see the link above.</lic>
    </lics>
    <e>
       <lg>
+         <l pos="N">Radio-innslag</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A" stem="3syll">Radio-boelhketje</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">TV-innslag</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A" stem="3syll">TV-boelhketje</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">innskrenking</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A" stem="3syll">gaertjiedimmie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">innhold</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A" stem="3syll">sisvege</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">innlednig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A" stem="3syll">aalkoe</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A" stem="3syll">aalkove</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">humør</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A" stem="3syll">bïevsterh</t>
+            <xg>
+               <x>mej bïevsteri sisnie dïhte?</x>
+               <xt>i hvilket humør er han i?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">humor</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A" stem="3syll">lustesaajmoe</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">hjemmel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A" stem="3syll">laaketsiehkie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">interesse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A" stem="3syll">ïedtje</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">grunnkurs</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A" stem="3syll">maadthööhpehtimmie</t>
+         </tg>
+      </mg>
+     </e>
+    <e>
+      <lg>
+         <l pos="N">grunnform</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A" stem="3syll">maadthhammoe</t>
+         </tg>
+      </mg>
+     </e>
+    <e>
+      <lg>
+         <l pos="N">grafikkbilde</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A" stem="3syll">grafihkeguvvie</t>
+         </tg>
+      </mg>
+     </e>
+   <e>
+      <lg>
          <l pos="N">grad</l>
       </lg>
       <mg>
@@ -299,6 +428,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="A" stem="3syll">deahpadimmie</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A" stem="3syll">heannadimmie</t>
          </tg>
       </mg>
    </e>
@@ -1344,7 +1478,25 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="N" soggi="oe" stem="2syll">åssjalommes</t>
          </tg>
-      </mg>    
+      </mg> 
+       <mg>
+         <tg xml:lang="sma">
+            <t pos="N" soggi="oe" stem="2syll">sjïeke</t>
+            <xg>
+               <x>man sjïeken dïhte?</x>
+               <xt>til hvilken hensikt er det?</xt>
+            </xg>
+         </tg>
+      </mg> 
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N" soggi="oe" stem="2syll">gaavhtan</t>
+            <xg>
+               <x>man gaavhtan dïhte?</x>
+               <xt>til hvilken anledning/grunn er det?</xt>
+            </xg>
+         </tg>
+      </mg>           
    </e>
    <e>
       <lg>
