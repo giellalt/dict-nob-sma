@@ -33,7 +33,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">Radio-boelhketje</t>
+            <t pos="N" stem="3syll">Radio-boelhketje</t>
          </tg>
       </mg>
    </e>
@@ -43,7 +43,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">TV-boelhketje</t>
+            <t pos="N" stem="3syll">TV-boelhketje</t>
          </tg>
       </mg>
    </e>
@@ -53,7 +53,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">gaertjiedimmie</t>
+            <t pos="N" stem="3syll">gaertjiedimmie</t>
          </tg>
       </mg>
    </e>
@@ -63,22 +63,18 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">sisvege</t>
+            <t pos="N" stem="3syll">sisvege</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="N">innlednig</l>
+         <l pos="N">innledning</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">aalkoe</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="A" stem="3syll">aalkove</t>
+            <t pos="N" stem="3syll">aalkoe</t>
+            <t pos="N" stem="3syll">aalkove</t>
          </tg>
       </mg>
    </e>
@@ -88,7 +84,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">bïevsterh</t>
+            <t pos="N" nr="pl" stem="3syll">bïevsterh</t>
             <xg>
                <x>mej bïevsteri sisnie dïhte?</x>
                <xt>i hvilket humør er han i?</xt>
@@ -102,7 +98,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">lustesaajmoe</t>
+            <t pos="N" stem="3syll">lustesaajmoe</t>
          </tg>
       </mg>
    </e>
@@ -112,7 +108,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">laaketsiehkie</t>
+            <t pos="N" stem="3syll">laaketsiehkie</t>
          </tg>
       </mg>
    </e>
@@ -122,7 +118,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">ïedtje</t>
+            <t pos="N" stem="3syll">ïedtje</t>
          </tg>
       </mg>
    </e>
@@ -132,7 +128,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">maadthööhpehtimmie</t>
+            <t pos="N" stem="3syll">maadthööhpehtimmie</t>
          </tg>
       </mg>
      </e>
@@ -142,7 +138,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">maadthhammoe</t>
+            <t pos="N" stem="3syll">maadthhammoe</t>
          </tg>
       </mg>
      </e>
@@ -152,7 +148,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">grafihkeguvvie</t>
+            <t pos="N" stem="3syll">grafihkeguvvie</t>
          </tg>
       </mg>
      </e>
@@ -162,12 +158,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">tsiehkie</t>
+            <t pos="N" stem="3syll">tsiehkie</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">graade</t>
+            <t pos="N" stem="3syll">graade</t>
          </tg>
       </mg>
    </e>
@@ -177,7 +173,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">aate</t>
+            <t pos="N" stem="3syll">aate</t>
          </tg>
       </mg>
    </e>
@@ -187,7 +183,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">gaskemedtie</t>
+            <t pos="N" stem="3syll">gaskemedtie</t>
          </tg>
       </mg>
    </e>
@@ -197,7 +193,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">gaskemedtievierhtie</t>
+            <t pos="N" stem="3syll">gaskemedtievierhtie</t>
          </tg>
       </mg>
    </e>
@@ -207,7 +203,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">eatnemelearoe</t>
+            <t pos="N" stem="3syll">eatnemelearoe</t>
          </tg>
       </mg>
    </e>
@@ -217,7 +213,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">båetije biejjieh</t>
+            <t pos="N" stem="3syll">båetije biejjieh</t>
          </tg>
       </mg>
    </e>
@@ -227,7 +223,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">vuartoe</t>
+            <t pos="N" stem="3syll">vuartoe</t>
          </tg>
       </mg>
    </e>
@@ -237,12 +233,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">jis....dellie</t>
+            <t pos="x" stem="3syll">jis....dellie</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">voestegh...tjoevere</t>
+            <t pos="x" stem="3syll">voestegh...tjoevere</t>
          </tg>
       </mg>
    </e>
@@ -252,7 +248,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">bertije</t>
+            <t pos="N" stem="3syll">bertije</t>
          </tg>
       </mg>
    </e>
@@ -262,12 +258,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">åenehtse</t>
+            <t pos="N" stem="3syll">åenehtse</t>
          </tg>
       </mg>
        <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">åeniedimmie</t>
+            <t pos="N" stem="3syll">åeniedimmie</t>
          </tg>
       </mg>
    </e>
@@ -277,7 +273,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">veadta</t>
+            <t pos="N" stem="3syll">veadta</t>
          </tg>
       </mg>
    </e>
@@ -287,7 +283,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">guktie mej gaskem</t>
+            <t pos="x" stem="3syll">guktie mej gaskem</t>
          </tg>
       </mg>
    </e>
@@ -297,7 +293,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">joekedimmie</t>
+            <t pos="N" stem="3syll">joekedimmie</t>
          </tg>
       </mg>
    </e>
@@ -307,7 +303,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">gaskese</t>
+            <t pos="N" stem="3syll">gaskese</t>
          </tg>
       </mg>
    </e>
@@ -317,7 +313,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">gaskese</t>
+            <t pos="N" stem="3syll">gaskese</t>
          </tg>
       </mg>
    </e>
@@ -327,7 +323,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">girtie</t>
+            <t pos="N" stem="2syll">girtie</t>
          </tg>
       </mg>
    </e>
@@ -337,7 +333,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">maajehvååjnese</t>
+            <t pos="N" stem="3syll">maajehvååjnese</t>
          </tg>
       </mg>
    </e>
@@ -347,7 +343,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">såangoehïeje</t>
+            <t pos="N" stem="3syll">såangoehïeje</t>
          </tg>
       </mg>
    </e>
@@ -357,37 +353,37 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">hïeje</t>
+            <t pos="N" stem="3syll">hïeje</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="N">brylupp</l>
+         <l pos="N">bryllup</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">hïeje</t>
+            <t pos="N" stem="3syll">hïeje</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">provrehïeje</t>
+            <t pos="N" stem="3syll">provrehïeje</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">pruvrehïeje</t>
+            <t pos="N" stem="3syll">pruvrehïeje</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">provreshïeje</t>
+            <t pos="N" stem="3syll">provreshïeje</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">provdesheaje</t>
+            <t pos="N" stem="3syll">provdesheaje</t>
          </tg>
       </mg>  
    </e>
@@ -397,7 +393,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">vijrije almetjh</t>
+            <t pos="x" stem="3syll">vijrije almetjh</t>
          </tg>
       </mg>
    </e>
@@ -407,7 +403,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">vijrije almetjh</t>
+            <t pos="x" stem="3syll">vijrije almetjh</t>
          </tg>
       </mg>
    </e>
@@ -417,7 +413,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">reektesgærja</t>
+            <t pos="N" stem="3syll">reektesgærja</t>
          </tg>
       </mg>
    </e>
@@ -427,12 +423,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">deahpadimmie</t>
+            <t pos="N" stem="3syll">deahpadimmie</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">heannadimmie</t>
+            <t pos="N" stem="3syll">heannadimmie</t>
          </tg>
       </mg>
    </e>
@@ -442,22 +438,22 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">deahpadimmie</t>
+            <t pos="N" stem="3syll">deahpadimmie</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">guktie lea</t>
+            <t pos="x" stem="3syll">guktie lea</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">mij deahpadamme</t>
+            <t pos="x" stem="3syll">mij deahpadamme</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">Dïhte mij saatnan</t>
+            <t pos="x" stem="3syll">Dïhte mij saatnan</t>
          </tg>
       </mg>
    </e>
@@ -467,7 +463,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">faagejiehtese</t>
+            <t pos="N" stem="3syll">faagejiehtese</t>
          </tg>
       </mg>
    </e>
@@ -477,12 +473,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">sïektjeme</t>
+            <t pos="N" stem="3syll">sïektjeme</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">sïektjedimmie</t>
+            <t pos="N" stem="3syll">sïektjedimmie</t>
          </tg>
       </mg>
    </e>
@@ -492,7 +488,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">dååjrehtsi mietie</t>
+            <t pos="x" stem="3syll">dååjrehtsi mietie</t>
          </tg>
       </mg>
    </e>
@@ -502,7 +498,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">eksponeente</t>
+            <t pos="N" stem="3syll">eksponeente</t>
          </tg>
       </mg>
    </e>
@@ -513,7 +509,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">vuesiehtimmie</t>
+            <t pos="N" stem="3syll">vuesiehtimmie</t>
          </tg>
       </mg>
    </e>
@@ -523,7 +519,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">mij mestie båata</t>
+            <t pos="x" stem="3syll">mij mestie båata</t>
          </tg>
       </mg>
    </e>
@@ -533,7 +529,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">sieptie</t>
+            <t pos="N" stem="3syll">sieptie</t>
          </tg>
       </mg>
    </e>
@@ -543,7 +539,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">byjjestjaatsege</t>
+            <t pos="N" stem="3syll">byjjestjaatsege</t>
          </tg>
       </mg>
    </e>
@@ -553,7 +549,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">diskose</t>
+            <t pos="N" stem="3syll">diskose</t>
          </tg>
       </mg>
    </e>
@@ -563,7 +559,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">diagramme</t>
+            <t pos="N" stem="3syll">diagramme</t>
          </tg>
       </mg>
    </e>
@@ -573,12 +569,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">minngiebeapmoe</t>
+            <t pos="N" stem="3syll">minngiebeapmoe</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">sietiesbeapmoe</t>
+            <t pos="N" stem="3syll">sietiesbeapmoe</t>
          </tg>
       </mg>
     </e>
@@ -588,7 +584,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">dïhte gie meatan</t>
+            <t pos="x" stem="3syll">dïhte gie meatan</t>
          </tg>
       </mg>
     </e>
@@ -598,7 +594,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">daatabarkoe</t>
+            <t pos="N" stem="3syll">daatabarkoe</t>
          </tg>
       </mg>
     </e>
@@ -608,17 +604,13 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">daatabarkoe</t>
+            <t pos="N" stem="3syll">daatabarkoe</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">daatagïetedimmie</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="A" stem="3syll">daatagïetedalleme</t>
+            <t pos="N" stem="3syll">daatagïetedimmie</t>
+            <t pos="N" stem="3syll">daatagïetedalleme</t>
          </tg>
       </mg>
    </e>
@@ -628,7 +620,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">daatadåvvome</t>
+            <t pos="N" stem="3syll">daatadåvvome</t>
          </tg>
       </mg>
    </e>
@@ -638,7 +630,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">daata</t>
+            <t pos="N" stem="3syll">daata</t>
          </tg>
       </mg>
    </e>
@@ -648,7 +640,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">maanalåtnome</t>
+            <t pos="N" stem="3syll">maanalåtnome</t>
          </tg>
       </mg>
    </e>
@@ -658,17 +650,17 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">gåevie</t>
+            <t pos="N" stem="3syll">gåevie</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">goengere</t>
+            <t pos="N" stem="3syll">goengere</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">jokse</t>
+            <t pos="N" stem="3syll">jokse</t>
          </tg>
       </mg>
    </e>
@@ -678,7 +670,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">bröökesïeve</t>
+            <t pos="N" stem="3syll">bröökesïeve</t>
          </tg>
       </mg>
    </e>
@@ -688,12 +680,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">båarkene</t>
+            <t pos="N" stem="3syll">båarkene</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">gåetie</t>
+            <t pos="N" stem="3syll">gåetie</t>
          </tg>
       </mg>
    </e>
@@ -703,12 +695,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">baakoe</t>
+            <t pos="N" stem="3syll">baakoe</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">bokstaave</t>
+            <t pos="N" stem="3syll">bokstaave</t>
          </tg>
       </mg>
    </e>
@@ -718,7 +710,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">guvvieraajese</t>
+            <t pos="N" stem="3syll">guvvieraajese</t>
          </tg>
       </mg>
    </e>
@@ -728,7 +720,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">klaerieguvvie</t>
+            <t pos="N" stem="3syll">klaerieguvvie</t>
          </tg>
       </mg>
    </e>
@@ -738,7 +730,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">voerkelimmie</t>
+            <t pos="N" stem="3syll">voerkelimmie</t>
          </tg>
       </mg>
    </e>
@@ -748,7 +740,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">nænnoestimmie</t>
+            <t pos="N" stem="3syll">nænnoestimmie</t>
          </tg>
       </mg>
    </e>
@@ -758,7 +750,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">daerpiesvoete</t>
+            <t pos="N" stem="3syll">daerpiesvoete</t>
          </tg>
       </mg>
    </e>
@@ -778,7 +770,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">lïtnje</t>
+            <t pos="N" stem="3syll">lïtnje</t>
          </tg>
       </mg>
    </e>
@@ -788,7 +780,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">lïtnje</t>
+            <t pos="N" stem="3syll">lïtnje</t>
          </tg>
       </mg>
    </e>
@@ -798,7 +790,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">jååhkesjimmie</t>
+            <t pos="N" stem="3syll">jååhkesjimmie</t>
          </tg>
       </mg>
    </e>
@@ -808,7 +800,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">låhkoe</t>
+            <t pos="N" stem="3syll">låhkoe</t>
          </tg>
       </mg>
    </e>
@@ -818,7 +810,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">dajve</t>
+            <t pos="N" stem="3syll">dajve</t>
          </tg>
       </mg>
    </e>
@@ -828,7 +820,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">våarhkoe</t>
+            <t pos="N" stem="3syll">våarhkoe</t>
          </tg>
       </mg>
    </e>
@@ -838,12 +830,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">vihtesjimmie</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="A" stem="3syll">vïhnesjimmie</t>
+            <t pos="N" stem="3syll">vihtesjimmie</t>
+            <t pos="N" stem="3syll">vïhnesjimmie</t>
          </tg>
       </mg>
    </e>
@@ -853,12 +841,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">maadtoe</t>
+            <t pos="N" stem="3syll">maadtoe</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">såelie</t>
+            <t pos="N" stem="3syll">såelie</t>
          </tg>
       </mg>
    </e>
@@ -868,7 +856,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">tjilkeme</t>
+            <t pos="N" stem="3syll">tjilkeme</t>
          </tg>
       </mg>
    </e>
@@ -878,12 +866,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">mååhtedimmie</t>
+            <t pos="N" stem="3syll">mååhtedimmie</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">nååhtedimmie</t>
+            <t pos="N" stem="3syll">nååhtedimmie</t>
          </tg>
       </mg>
    </e>
@@ -893,7 +881,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">duekie</t>
+            <t pos="N" stem="3syll">duekie</t>
          </tg>
       </mg>
    </e>
@@ -903,12 +891,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">maelmie</t>
+            <t pos="N" stem="3syll">maelmie</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">vierhtie</t>
+            <t pos="N" stem="3syll">vierhtie</t>
          </tg>
       </mg>
    </e>
@@ -918,22 +906,22 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">almetjh</t>
+            <t pos="N" stem="3syll">almetjh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">goltelæjjah</t>
+            <t pos="N" stem="3syll">goltelæjjah</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">vuartasjæjjah</t>
+            <t pos="N" stem="3syll">vuartasjæjjah</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">lohkijh</t>
+            <t pos="N" stem="3syll">lohkijh</t>
          </tg>
       </mg>
    </e>
@@ -943,7 +931,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">tsïegle</t>
+            <t pos="N" stem="3syll">tsïegle</t>
          </tg>
       </mg>
    </e>
@@ -953,7 +941,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">tsïegle</t>
+            <t pos="N" stem="3syll">tsïegle</t>
          </tg>
       </mg>
    </e>
@@ -963,12 +951,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">laessiebïjle</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="A" stem="3syll">leessemebïjle</t>
+            <t pos="N" stem="3syll">laessiebïjle</t>
+            <t pos="N" stem="3syll">leessemebïjle</t>
          </tg>
       </mg>
    </e>
@@ -978,7 +962,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">feelemesïelte</t>
+            <t pos="N" stem="3syll">feelemesïelte</t>
          </tg>
       </mg>
    </e>
@@ -988,7 +972,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">voerngesdajve</t>
+            <t pos="N" stem="3syll">voerngesdajve</t>
          </tg>
       </mg>
    </e>
@@ -998,7 +982,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">snjuhtjie</t>
+            <t pos="N" stem="3syll">snjuhtjie</t>
          </tg>
       </mg>
    </e>
@@ -1008,7 +992,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">snjuhtjie</t>
+            <t pos="N" stem="3syll">snjuhtjie</t>
          </tg>
       </mg>
    </e>
@@ -1018,7 +1002,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">kabeelegåhkoe</t>
+            <t pos="N" stem="3syll">kabeelegåhkoe</t>
          </tg>
       </mg>
    </e>
@@ -1028,7 +1012,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">laantejuakoe</t>
+            <t pos="N" stem="3syll">laantejuakoe</t>
          </tg>
       </mg>
    </e>
@@ -1038,7 +1022,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">daan beajjetje</t>
+            <t pos="Adv" stem="3syll">daan beajjetje</t>
             <xg>
                <x>dagens avis</x>
                <xt>daan beajjetje plaerie</xt>
@@ -1052,7 +1036,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">iehtseles</t>
+            <t pos="N" stem="3syll">iehtseles</t>
             <xg>
                <x>min elskede</x>
                <xt>mov iehtsele</xt>
