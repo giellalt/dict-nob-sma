@@ -15801,13 +15801,19 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <re>om dyr</re>
+            <re>om klordyr</re>
             <t class="IV" p3p="guatsa" pos="V" stem="2syll" umlaut="full" vow="x">goetsedh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <re>om dyr</re>
+            <re>om hest og rein</re>
+            <t class="IV" p3p="tsåvva" pos="V" stem="2syll" umlaut="full" vow="x">tsuvvedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>om klordyr</re>
             <t pos="V" stem="3syll">goetsedidh</t>
          </tg>
       </mg>
@@ -15818,13 +15824,13 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <re>om tobeinte</re>
+            <re>om mennesker</re>
             <t class="IV" p3p="ruahta" pos="V" stem="2syll" umlaut="full" vow="x">roehtedh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <re>om mennesker</re>
+            <re>om tobeinte, mennesker og fugler</re>
             <t class="IV" p3p="vaarra" pos="V" stem="2syll" vow="aa">vaarredh</t>
          </tg>
       </mg>
@@ -15835,8 +15841,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <re>om dyr</re>
+            <re>om firebeinte klordyr</re>
             <t class="IV" p3p="guatsa" pos="V" stem="2syll" umlaut="full" vow="x">goetsedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>om klovdyr, hest og rein</re>
+            <t class="IV" p3p="tsåvva" pos="V" stem="2syll" umlaut="full" vow="x">tsuvvedh</t>
          </tg>
       </mg>
       <mg>
@@ -15846,7 +15858,8 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t p3p="vaarrede" pos="V" stem="3syll">vaarredidh</t>
+         <re>om tobeinte, mennesker og fugler</re>
+            <t p3p="vaarrede" pos="V" stem="3syll">vaarredh</t>
          </tg>
       </mg>
       <mg>
