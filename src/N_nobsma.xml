@@ -3244,32 +3244,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" soggi="e" stem="2syll">kaarre</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" soggi="e" stem="2syll">påajke</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" soggi="e" stem="2syll">pååjke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l decl="1" gen="m" pos="N">smågutt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" soggi="e" stem="2syll">baahtje</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t margo="e" pos="N" soggi="e" stem="3syll">baarnetje</t>
          </tg>
       </mg>
    </e>
