@@ -3230,6 +3230,37 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
+          <re>ca 2-4 år</re>
+            <t pos="N" soggi="e" stem="2syll">plaadtjetje</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+          <re>ca 3-5 år</re>
+            <t pos="N" soggi="e" stem="2syll">plaadtje</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+          <re>ca 7-8 år</re>
+            <t pos="N" soggi="e" stem="2syll">böösetje</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+          <re>ca 8-10 år</re>
+            <t pos="N" soggi="e" stem="2syll">bööse</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+         <re>ca 11-12 år</re>
+            <t pos="N" soggi="e" stem="2syll">baahtjetje</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+         <re>ca 12-14 år</re>
             <t pos="N" soggi="e" stem="2syll">baahtje</t>
          </tg>
       </mg>
@@ -3240,11 +3271,13 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" soggi="e" stem="2syll">bööse</t>
+         <re>liten</re>
+            <t pos="N" soggi="ie" stem="2syll">baarnetje</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+         <re>mest brukt på svensk side</re>
             <t pos="N" soggi="e" stem="2syll">påajke</t>
          </tg>
       </mg>
