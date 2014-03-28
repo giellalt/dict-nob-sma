@@ -18618,10 +18618,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" soggi="a" stem="2syll">jonnge</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" soggi="a" stem="2syll">jånnga</t>
          </tg>
       </mg>
@@ -18953,7 +18949,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t margo="e" pos="N" soggi="e" stem="3syll">jyönetje</t>
+            <t margo="e" pos="N" soggi="e" stem="3syll">jyönetjeguaktah</t>
          </tg>
       </mg>
    </e>
@@ -18979,14 +18975,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">kaaffe</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t margo="e" pos="N" soggi="e" stem="3syll">prïhtjege</t>
             <xg>
                <x>Er det kaffe? Jeg drikker iallfall kaffe, hva vil du ha?</x>
-               <xt>Prïhtjege lea? Manne gujht prïhtjegem jovkem, maam datne sijhth?</xt>
+               <xt>Dagke prïhtjege? Manne hov prïhtjegem jovkem, maam datne sijhth?</xt>
             </xg>
          </tg>
       </mg>
