@@ -15854,6 +15854,12 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
+         <re>om dyr, f.eks hund</re>
+            <t p3p="vaarrede" pos="V" stem="3syll">hajkedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
             <re>om dyr</re>
             <t pos="V" stem="3syll">tjorkehtidh</t>
          </tg>
