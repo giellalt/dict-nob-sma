@@ -70,8 +70,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="V">verviestidh</t>
             <xg>
-               <x>Nov maa manne vervestem!</x>
-               <xt>Jeg er da frisk og rørlig!</xt>
+               <x>Jeg er da frisk og rørlig!</x>
+               <xt>Nov maa manne vervestem!</xt>
             </xg>
          </tg>
       </mg>
@@ -84,8 +84,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="V">juhtedh</t>
             <xg>
-               <x>Guktie daate jåhta?</x>
-               <xt>Hvordan fungerer denne?</xt>
+               <x>Hvordan fungerer denne?</x>
+               <xt>Guktie daate jåhta?</xt>
             </xg>
          </tg>
       </mg>
@@ -313,8 +313,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="V">orrijidh</t>
             <xg>
-               <x>Laara lea bovtsigujmie orrijamme</x>
-               <xt>Lars har avviklet reindriften.</xt>
+               <xt>Laara lea bovtsigujmie orrijamme</xt>
+               <x>Lars har avviklet reindriften.</x>
             </xg>
          </tg>
       </mg>

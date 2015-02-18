@@ -86,8 +86,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="N" nr="pl" stem="3syll">bïevsterh</t>
             <xg>
-               <x>mej bïevsteri sisnie dïhte?</x>
-               <xt>i hvilket humør er han i?</xt>
+               <x>i hvilket humør er han i?</x>
+               <xt>mej bïevsteri sisnie dïhte?</xt>
             </xg>
          </tg>
       </mg>
@@ -1468,8 +1468,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="N" soggi="oe" stem="2syll">sjïeke</t>
             <xg>
-               <x>man sjïeken dïhte?</x>
-               <xt>til hvilken hensikt er det?</xt>
+               <x>til hvilken hensikt er det?</x>
+               <xt>man sjïeken dïhte?</xt>
             </xg>
          </tg>
       </mg> 
@@ -1477,8 +1477,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="N" soggi="oe" stem="2syll">gaavhtan</t>
             <xg>
-               <x>man gaavhtan dïhte?</x>
-               <xt>til hvilken anledning/grunn er det?</xt>
+               <x>til hvilken anledning/grunn er det?</x>
+               <xt>man gaavhtan dïhte?</xt>
             </xg>
          </tg>
       </mg>           
@@ -40214,8 +40214,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="N">seammavyörtege</t>
             <xg>
-               <x>Nyjsenæjjah ålmah lægan seammavyörtegisnie.</x>
-               <xt>Kvinne og mann er likeverdige.</xt>
+               <x>Kvinne og mann er likeverdige.</x>
+               <xt>Nyjsenæjjah ålmah lægan seammavyörtegisnie.</xt>
             </xg>
          </tg>
       </mg>
