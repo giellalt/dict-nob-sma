@@ -1,0 +1,660 @@
+
+urfolkstema	aalkoeåålmegeaamhtese	eamiálbmotfáddá	0	0	0	0
+urfolkstema	aalkoealmetjeaamhtese	eamiálbmotfáddá	0	0	0	0
+urfolkstema	aalkoealmetjenaamhtese	eamiálbmotfáddá	0	0	0	0
+urfolkstema	aalkoeåålmegeaate	eamiálbmotfáddá	0	0	0	0
+urfolkstema	aalkoealmetjeaate	eamiálbmotfáddá	0	0	0	0
+urfolkstema	aalkoealmetjenaate	eamiálbmotfáddá	0	0	0	0
+
+urfolkssamarbeid	aalkoeåålmegeektiebarkoe	álgoálbmotovttasbargu/eamiálbmotovttasbargu	5	0	0	0
+urfolkssamarbeid	aalkoealmetjeektiebarkoe	álgoálbmotovttasbargu/eamiálbmotovttasbargu	5	0	0	0
+urfolkssamarbeid	aalkoealmetjenektiebarkoe	álgoálbmotovttasbargu/eamiálbmotovttasbargu	5	0	0	0
+urfolkssamarbeid	aalkoeåålmegelaavenjasse	álgoálbmotovttasbargu/eamiálbmotovttasbargu	5	0	0	0
+urfolkssamarbeid	aalkoealmetjelaavenjasse	álgoálbmotovttasbargu/eamiálbmotovttasbargu	5	0	0	0
+urfolkssamarbeid	aalkoealmetjenlaavenjasse	álgoálbmotovttasbargu/eamiálbmotovttasbargu	5	0	0	0
+
+urfolksarbeid	aalkoealmetjenbarkeme	eamiálbmotbargu/álgoálbmotbargu	9	0	0	0
+urfolksarbeid	aalkoeåålmegebarkoe	eamiálbmotbargu/álgoálbmotbargu	9	0	0	0
+urfolksarbeid	aalkoealmetjebarkoe	eamiálbmotbargu/álgoálbmotbargu	9	0	0	0
+urfolksarbeid	aalkoealmetjenbarkoe	eamiálbmotbargu/álgoálbmotbargu	9	0	0	0
+urfolksarbeid	aalkoeåålmegevætnoe	eamiálbmotbargu/álgoálbmotbargu	9	0	0	0
+urfolksarbeid	aalkoealmetjevætnoe	eamiálbmotbargu/álgoálbmotbargu	9	0	0	0
+
+meningsinnhold	aarvoesisvege	oaivilsisdoallu	3	0	0	0
+meningsinnhold	aarvoensisvege	oaivilsisdoallu	3	0	0	0
+
+førskoletilbud	aarhskuvlenuepie	ovdaskuvlafálaldat	0	0	0	0
+førskoletilbud	aarhskuvlennuepie	ovdaskuvlafálaldat	0	0	0	0
+førskoletilbud	aarhskuvlefaaleldahke	ovdaskuvlafálaldat	0	0	0	0
+førskoletilbud	aarhskuvlenfaaleldahke	ovdaskuvlafálaldat	0	0	0	0
+
+utdanningstilbud	ööhpehtimmiefaaleldahke	oahpahusfálaldat/oahppofálaldat	35	0	0	2
+utdanningstilbud	ööhpehtimmiefaalenasse	oahpahusfálaldat/oahppofálaldat	35	14	0	3
+
+personskade	almetjeskaara	olmmošvahát	1	0	0	0
+personskade	almetjenskaara	olmmošvahát	1	0	0	0
+
+saksmengde	aatemierie	áššehivvodat	5	0	1	0
+saksmengde	aatenmierie	áššehivvodat	5	0	1	0
+
+temaside	aamhtesebielie	fáddásiidu	1	0	0	0
+temaside	aatebielie	fáddásiidu	1	0	0	0
+temaside	aamhtesenbielie	fáddásiidu	1	0	0	0
+temaside	aatenbielie	fáddásiidu	1	0	0	0
+temaside	aamhteseraedtie	fáddásiidu	1	0	0	0
+temaside	aateraedtie	fáddásiidu	1	0	0	0
+temaside	aamhtesenraedtie	fáddásiidu	1	0	0	0
+temaside	aatenraedtie	fáddásiidu	1	0	0	0
+temaside	aamhtesesoejkesje	fáddásiidu	1	0	0	0
+temaside	aatesoejkesje	fáddásiidu	1	0	0	0
+temaside	aamhtesensoejkesje	fáddásiidu	1	0	0	0
+temaside	aatensoejkesje	fáddásiidu	1	0	0	0
+temaside	aamhteseïehterdahke	fáddásiidu	1	0	0	0
+temaside	aateïehterdahke	fáddásiidu	1	0	0	0
+temaside	aamhtesebaahkoe	fáddásiidu	1	0	0	0
+temaside	aatebaahkoe	fáddásiidu	1	0	0	0
+temaside	aamhtesenbaahkoe	fáddásiidu	1	0	0	0
+temaside	aatenbaahkoe	fáddásiidu	1	0	0	0
+temaside	aamhtesesæjroe	fáddásiidu	1	0	0	0
+temaside	aatesæjroe	fáddásiidu	1	0	0	0
+temaside	aamhteseåssjalommes	fáddásiidu	1	0	0	0
+temaside	aateåssjalommes	fáddásiidu	1	0	0	0
+
+tidsbilde	aejkieguvvie	áigegovva	0	0	0	0
+tidsbilde	aejkienguvvie	áigegovva	0	0	0	0
+
+temaområde	aamhteselaante	fáddásuorgi	1	0	0	0
+temaområde	aatelaante	fáddásuorgi	1	0	0	0
+temaområde	aamhtesenlaante	fáddásuorgi	1	0	0	0
+temaområde	aatenlaante	fáddásuorgi	1	0	0	0
+temaområde	aamhtesedajve	fáddásuorgi	1	0	0	0
+temaområde	aatedajve	fáddásuorgi	1	0	0	0
+temaområde	aamhtesendajve	fáddásuorgi	1	0	0	0
+temaområde	aatendajve	fáddásuorgi	1	0	0	0
+
+emneområde	aamhteselaante	fáddásuorgi	0	0	0	0
+emneområde	aamhtesenlaante	fáddásuorgi	0	0	0	0
+emneområde	aamhtesedajve	fáddásuorgi	0	0	0	0
+emneområde	aamhtesendajve	fáddásuorgi	0	0	0	0
+
+saksområde	aatelaante	áššesuorgi/ášševiidodat	23	0	0	0
+saksområde	aatenlaante	áššesuorgi/ášševiidodat	23	0	0	0
+saksområde	aatedajve	áššesuorgi/ášševiidodat	23	0	0	0
+saksområde	aatendajve	áššesuorgi/ášševiidodat	23	0	0	0
+
+urfolksområde	aalkoeåålmegelaante	álgoálbmotguovlu/eamiálbmotguovlu/álgoálbmotsuorgi	8	0	0	0
+urfolksområde	aalkoealmetjelaante	álgoálbmotguovlu/eamiálbmotguovlu/álgoálbmotsuorgi	8	0	0	0
+urfolksområde	aalkoealmetjenlaante	álgoálbmotguovlu/eamiálbmotguovlu/álgoálbmotsuorgi	8	0	0	0
+urfolksområde	aalkoeåålmegedajve	álgoálbmotguovlu/eamiálbmotguovlu/álgoálbmotsuorgi	8	0	0	0
+urfolksområde	aalkoealmetjedajve	álgoálbmotguovlu/eamiálbmotguovlu/álgoálbmotsuorgi	8	2	0	0
+urfolksområde	aalkoealmetjendajve	álgoálbmotguovlu/eamiálbmotguovlu/álgoálbmotsuorgi	8	0	0	0
+
+samfunnsområde	siebriedahkesuerkie	servvodatguovlu/servodatduovdda/servodatsuorgi	25	0	0	9
+samfunnsområde	siebriedahkedajve	servvodatguovlu/servodatduovdda/servodatsuorgi	25	3	0	0
+
+kildehistorie	aajehhistovrije	gáldohistorjá	0	0	0	0
+kildehistorie	aajegenhistovrije	gáldohistorjá	0	0	0	0
+kildehistorie	aajehvaajese	gáldohistorjá	0	0	0	0
+kildehistorie	aajegenvaajese	gáldohistorjá	0	0	0	0
+
+urfolkshistorie	aalkoeåålmegehistovrije	eamiálbmothistorjá	0	0	0	0
+urfolkshistorie	aalkoealmetjehistovrije	eamiálbmothistorjá	0	0	0	0
+urfolkshistorie	aalkoealmetjenhistovrije	eamiálbmothistorjá	0	0	0	0
+urfolkshistorie	aalkoeåålmegevaajese	eamiálbmothistorjá	0	0	0	0
+urfolkshistorie	aalkoealmetjevaajese	eamiálbmothistorjá	0	0	0	0
+urfolkshistorie	aalkoealmetjenvaajese	eamiálbmothistorjá	0	0	0	0
+
+ullkjole	allatjavla	ulločuvla	0	0	0	0
+ullkjole	allantjavla	ulločuvla	0	0	0	0
+ullkjole	allagåpta	ulločuvla	0	0	0	0
+ullkjole	allatjovle	ulločuvla	0	0	0	0
+ullkjole	allantjovle	ulločuvla	0	0	0	0
+ullkjole	ållagåptoe	ulločuvla	0	0	0	0
+
+søndagsskole	aejlegeskuvle	sotnabeaiskuvla	1	0	12	0
+søndagsskole	aejlegenskuvle	sotnabeaiskuvla	1	0	12	0
+
+urfolkskvinne	aalkoeåålmegenyjsenæjja	eamiálbmotnisu/álgoálbmotnissonolmmoš/álgoálbmotnisu	4	0	0	0
+urfolkskvinne	aalkoealmetjenyjsenæjja	eamiálbmotnisu/álgoálbmotnissonolmmoš/álgoálbmotnisu	4	0	0	0
+urfolkskvinne	aalkoeåålmegenyjsene	eamiálbmotnisu/álgoálbmotnissonolmmoš/álgoálbmotnisu	4	0	0	0
+urfolkskvinne	aalkoealmetjenyjsene	eamiálbmotnisu/álgoálbmotnissonolmmoš/álgoálbmotnisu	4	0	0	0
+urfolkskvinne	aalkoealmetjennyjsene	eamiálbmotnisu/álgoálbmotnissonolmmoš/álgoálbmotnisu	4	0	0	0
+
+språkgruppe	gïeledåehkie	giellajoavku	16	0	11	1
+språkgruppe	gïeletjïerte	giellajoavku	16	3	11	1
+
+urfolksgruppe	aalkoeåålmegedåehkie	eamiálbmotjoavku/álgoálbmotjoavku	7	0	0	0
+urfolksgruppe	aalkoealmetjedåehkie	eamiálbmotjoavku/álgoálbmotjoavku	7	0	0	0
+urfolksgruppe	aalkoeåålmegetjomhpe	eamiálbmotjoavku/álgoálbmotjoavku	7	0	0	0
+urfolksgruppe	aalkoealmetjetjomhpe	eamiálbmotjoavku/álgoálbmotjoavku	7	0	0	0
+urfolksgruppe	aalkoealmetjentjomhpe	eamiálbmotjoavku/álgoálbmotjoavku	7	0	0	0
+urfolksgruppe	aalkoeåålmegetjïerte	eamiálbmotjoavku/álgoálbmotjoavku	7	0	0	0
+urfolksgruppe	aalkoealmetjetjïerte	eamiálbmotjoavku/álgoálbmotjoavku	7	0	0	2
+
+aldersgruppe	aalteredåehkie	ahkejoavku	21	0	8	1
+aldersgruppe	aalterentjomhpe	ahkejoavku	21	0	8	0
+aldersgruppe	aalteretjïerte	ahkejoavku	21	0	8	0
+
+urfolksstyre	aalkoeåålmegeståvroe	eamiálbmotstivra	0	0	0	0
+urfolksstyre	aalkoealmetjeståvroe	eamiálbmotstivra	0	0	0	0
+
+bøyningslære	sojjehtimmieleara	sojahanoahppa	0	0	0	0
+bøyningslære	syjjehtimmielearoe	sojahanoahppa	0	0	0	0
+
+gjenstandsdatabase	aatedaatabaase	dávvirdihtorvuođđu	0	0	0	0
+gjenstandsdatabase	aatendaatabaase	dávvirdihtorvuođđu	0	0	0	0
+
+urfolkshelse	aalkoeåålmegestarne	álgoálbmotdearvvašvuohta	0	0	0	0
+urfolkshelse	aalkoealmetjestarne	álgoálbmotdearvvašvuohta	0	0	0	0
+urfolkshelse	aalkoealmetjenstarne	álgoálbmotdearvvašvuohta	0	0	0	0
+urfolkshelse	aalkoeåålmegehealsoe	álgoálbmotdearvvašvuohta	0	0	0	0
+urfolkshelse	aalkoealmetjehealsoe	álgoálbmotdearvvašvuohta	0	0	0	0
+urfolkshelse	aalkoealmetjenhealsoe	álgoálbmotdearvvašvuohta	0	0	0	0
+
+urfolkskonferanse	aalkoeåålmegekonferaanse	álgoálbmotkonferánsa	8	0	1	0
+urfolkskonferanse	aalkoealmetjekonferaanse	álgoálbmotkonferánsa	8	0	1	1
+urfolkskonferanse	aalkoealmetjenkonferaanse	álgoálbmotkonferánsa	8	0	1	0
+
+avtalekompetanse	sjïehtedimmiemaahtaldahke	šiehtadusgelbbolašvuohta	0	0	0	0
+avtalekompetanse	latjkoemaahtoe	šiehtadusgelbbolašvuohta	0	0	0	0
+
+urfolkskompetanse	aalkoeåålmegemaahtaldahke	eamiálbmotgelbbolašvuohta/álgoálbmotgelbbolašvuohta	0	0	0	0
+urfolkskompetanse	aalkoealmetjemaahtaldahke	eamiálbmotgelbbolašvuohta/álgoálbmotgelbbolašvuohta	0	0	0	0
+urfolkskompetanse	aalkoealmetjenmaahtaldahke	eamiálbmotgelbbolašvuohta/álgoálbmotgelbbolašvuohta	0	0	0	0
+urfolkskompetanse	aalkoeåålmegedaajroe	eamiálbmotgelbbolašvuohta/álgoálbmotgelbbolašvuohta	0	0	0	0
+urfolkskompetanse	aalkoealmetjedaajroe	eamiálbmotgelbbolašvuohta/álgoálbmotgelbbolašvuohta	0	0	0	0
+urfolkskompetanse	aalkoealmetjendaajroe	eamiálbmotgelbbolašvuohta/álgoálbmotgelbbolašvuohta	0	0	0	0
+urfolkskompetanse	aalkoeåålmegemaahtoe	eamiálbmotgelbbolašvuohta/álgoálbmotgelbbolašvuohta	0	0	0	0
+urfolkskompetanse	aalkoealmetjemaahtoe	eamiálbmotgelbbolašvuohta/álgoálbmotgelbbolašvuohta	0	0	0	0
+urfolkskompetanse	aalkoealmetjenmaahtoe	eamiálbmotgelbbolašvuohta/álgoálbmotgelbbolašvuohta	0	0	0	0
+
+språkgrense	gïeleraajoe	giellarádji	1	1	0	1
+språkgrense	gïeleraaste	giellarádji	1	0	0	1
+
+urfolksinteresse	aalkoeåålmegeïedtje	eamiálbmotberoštupmi/álgoálbmotberoštus/álgoálbmotberoštupmi	1	0	0	0
+urfolksinteresse	aalkoealmetjeïedtje	eamiálbmotberoštupmi/álgoálbmotberoštus/álgoálbmotberoštupmi	1	0	0	0
+
+urfolksstøtte	aalkoeåålmegedåarjege	álgoálbmotdoarjja	0	0	0	0
+urfolksstøtte	aalkoealmetjedåarjege	álgoálbmotdoarjja	0	0	0	0
+urfolksstøtte	aalkoeåålmegedovtege	álgoálbmotdoarjja	0	0	0	0
+urfolksstøtte	aalkoealmetjedovtege	álgoálbmotdoarjja	0	0	0	0
+urfolksstøtte	aalkoealmetjendovtege	álgoálbmotdoarjja	0	0	0	0
+urfolksstøtte	aalkoeåålmegeduedtie	álgoálbmotdoarjja	0	0	0	0
+urfolksstøtte	aalkoealmetjeduedtie	álgoálbmotdoarjja	0	0	0	0
+urfolksstøtte	aalkoealmetjenduedtie	álgoálbmotdoarjja	0	0	0	0
+urfolksstøtte	aalkoeåålmegedoedtije	álgoálbmotdoarjja	0	0	0	0
+urfolksstøtte	aalkoealmetjedoedtije	álgoálbmotdoarjja	0	0	0	0
+urfolksstøtte	aalkoealmetjendoedtije	álgoálbmotdoarjja	0	0	0	0
+urfolksstøtte	aalkoeåålmegeduvtestahke	álgoálbmotdoarjja	0	0	0	0
+urfolksstøtte	aalkoealmetjeduvtestahke	álgoálbmotdoarjja	0	0	0	0
+urfolksstøtte	aalkoealmetjenduvtestahke	álgoálbmotdoarjja	0	0	0	0
+urfolksstøtte	aalkoeåålmegenalhke	álgoálbmotdoarjja	0	0	0	0
+urfolksstøtte	aalkoealmetjenalhke	álgoálbmotdoarjja	0	0	0	0
+urfolksstøtte	aalkoealmetjennalhke	álgoálbmotdoarjja	0	0	0	0
+urfolksstøtte	aalkoeåålmegedåarjoe	álgoálbmotdoarjja	0	0	0	0
+urfolksstøtte	aalkoealmetjedåarjoe	álgoálbmotdoarjja	0	0	0	0
+
+temamøte	aamhtesegaavnedimmie	fáddáčoahkkin	1	0	1	0
+temamøte	aategaavnedimmie	fáddáčoahkkin	1	0	1	0
+temamøte	aamhtesengaavnedimmie	fáddáčoahkkin	1	0	1	0
+temamøte	aatengaavnedimmie	fáddáčoahkkin	1	0	1	0
+temamøte	aamhtesetjåanghkoe	fáddáčoahkkin	1	0	1	0
+temamøte	aatetjåanghkoe	fáddáčoahkkin	1	0	1	0
+
+urfolksmøte	aalkoeåålmegegaavnedimmie	álgoálbmotčoahkkin	0	0	0	0
+urfolksmøte	aalkoealmetjegaavnedimmie	álgoálbmotčoahkkin	0	0	0	0
+urfolksmøte	aalkoealmetjengaavnedimmie	álgoálbmotčoahkkin	0	0	0	0
+urfolksmøte	aalkoeåålmegetjåanghkoe	álgoálbmotčoahkkin	0	0	0	0
+urfolksmøte	aalkoealmetjetjåanghkoe	álgoálbmotčoahkkin	0	0	0	0
+
+farsdag	aehtjienbiejjie	áhčibeaivi	0	0	0	0
+farsdag	aehtjiebiejvie	áhčibeaivi	0	0	0	0
+farsdag	aehtjienbiejvie	áhčibeaivi	0	0	0	0
+
+kunnskapsgrunnlag	daajroevåarome	máhttovuođđu/diehtovuođus/vuođđogelbbolašvuohta	19	2	0	3
+kunnskapsgrunnlag	maahtoevåarome	máhttovuođđu/diehtovuođus/vuođđogelbbolašvuohta	19	1	0	0
+
+personvalg	almetjeveeljeme	oktagasaidválljen/personválga	0	10	0	0
+personvalg	almetjenveeljeme	oktagasaidválljen/personválga	0	0	0	0
+
+planutvalg	soejkesjemoenehtse	plánenlávdegoddi/plánalávdegoddi	21	1	0	1
+planutvalg	plaanemoenehtse	plánenlávdegoddi/plánalávdegoddi	21	0	0	1
+
+urfolksutvalg	aalkoeåålmegedåehkie	eamiálbmotlávdegoddi	2	0	0	0
+urfolksutvalg	aalkoealmetjedåehkie	eamiálbmotlávdegoddi	2	0	0	0
+urfolksutvalg	aalkoeåålmegemoenehtse	eamiálbmotlávdegoddi	2	0	0	0
+urfolksutvalg	aalkoealmetjemoenehtse	eamiálbmotlávdegoddi	2	0	0	0
+urfolksutvalg	aalkoealmetjenmoenehtse	eamiálbmotlávdegoddi	2	0	0	0
+
+tankegang	aajmoenaejkie	jurddahanmálle	4	0	0	0
+tankegang	aajmoebaelie	jurddahanmálle	4	0	0	0
+tankegang	aajmoenbaelie	jurddahanmálle	4	0	0	0
+
+saksgang	aateaejkie	ášševuojeheapmi/áššejohtu	8	0	0	0
+saksgang	aatenaejkie	ášševuojeheapmi/áššejohtu	8	0	0	0
+saksgang	aatebaelie	ášševuojeheapmi/áššejohtu	8	0	0	0
+saksgang	aatenbaelie	ášševuojeheapmi/áššejohtu	8	0	0	0
+
+morgensending	aeredesaadtege	iđitsátta	0	0	4	0
+morgensending	aeredensaadtege	iđitsátta	0	0	4	0
+
+kompetanseutvikling	maahtoeevtiedimmie	gelbbolašvuođaovdáneapmi/gelbbolašvuođaovddideapmi/gealboovdáneapmi/gealboovddideapmi	45	2	0	2
+kompetanseutvikling	maahtoeövtiedimmie	gelbbolašvuođaovdáneapmi/gelbbolašvuođaovddideapmi/gealboovdáneapmi/gealboovddideapmi	45	3	0	0
+
+urfolksutvikling	aalkoeåålmegeevtiedimmie	eamiálbmotovdáneapmi	0	0	0	0
+urfolksutvikling	aalkoealmetjeevtiedimmie	eamiálbmotovdáneapmi	0	0	0	0
+urfolksutvikling	aalkoealmetjenevtiedimmie	eamiálbmotovdáneapmi	0	0	0	0
+urfolksutvikling	aalkoeåålmegeövtiedimmie	eamiálbmotovdáneapmi	0	0	0	0
+urfolksutvikling	aalkoealmetjeövtiedimmie	eamiálbmotovdáneapmi	0	0	0	0
+
+kunnskapsutvikling	maahtoeevtiedimmie	máhttoovdánahttin/máhttoovdáneapmi/máhtolašvuođaovdáneapmi	17	2	0	0
+kunnskapsutvikling	maahtoeövtiedimmie	máhttoovdánahttin/máhttoovdáneapmi/máhtolašvuođaovdáneapmi	17	3	0	0
+
+temaundervisning	aamhtesebïhkedimmie	fáddáoahpahus	1	0	0	0
+temaundervisning	aatebïhkedimmie	fáddáoahpahus	1	0	0	0
+temaundervisning	aamhteseööhpehtimmie	fáddáoahpahus	1	0	0	0
+temaundervisning	aateööhpehtimmie	fáddáoahpahus	1	0	0	0
+
+eierforvaltning	aajhterereereme	oamastanhálddašeapmi	0	0	0	0
+eierforvaltning	aajhterenreereme	oamastanhálddašeapmi	0	0	0	0
+eierforvaltning	aajhterereerenasse	oamastanhálddašeapmi	0	0	0	0
+eierforvaltning	aajhterenreerenasse	oamastanhálddašeapmi	0	0	0	0
+
+ressursforvaltning	maelmiereereme	valljodathálddašeapmi/resursahálddašeapmi	39	1	0	0
+ressursforvaltning	vierhtiereereme	valljodathálddašeapmi/resursahálddašeapmi	39	0	0	1
+
+urfolksregjering	aalkoeåålmegereerenasse	eamiálbmotráđđehus	0	0	0	0
+urfolksregjering	aalkoealmetjereerenasse	eamiálbmotráđđehus	0	0	0	0
+urfolksregjering	aalkoealmetjenreerenasse	eamiálbmotráđđehus	0	0	0	0
+
+månering	askereagka	mánnogierdu	0	0	0	0
+månering	askenreagka	mánnogierdu	0	0	0	0
+
+urfolkserklæring	aalkoeåålmegebæjhkoehtimmie	álgoálbmotcealkámuš/eamiálbmotjulggaštus/álgoálbmotjulggaštus	44	0	0	0
+urfolkserklæring	aalkoealmetjebæjhkoehtimmie	álgoálbmotcealkámuš/eamiálbmotjulggaštus/álgoálbmotjulggaštus	44	0	0	0
+
+rettskriving	reaktoetjaeleme	riektačállin	9	0	8	1
+rettskriving	staeriestjaeleme	riektačállin	9	0	8	1
+
+urfolksstrategi	aalkoeåålmegestrategije	álgoálbmotstrategiija	0	0	0	0
+urfolksstrategi	aalkoealmetjestrategije	álgoálbmotstrategiija	0	0	0	0
+urfolksstrategi	aalkoealmetjenstrategije	álgoálbmotstrategiija	0	0	0	0
+
+urfolkssak	aalkoeåålmegesaake	eamiálbmotášši/álgoálbmotášši	14	0	0	0
+urfolkssak	aalkoealmetjesaake	eamiálbmotášši/álgoálbmotášši	14	0	0	0
+urfolkssak	aalkoealmetjensaake	eamiálbmotášši/álgoálbmotášši	14	0	0	0
+urfolkssak	aalkoeåålmegeaate	eamiálbmotášši/álgoálbmotášši	14	0	0	0
+urfolkssak	aalkoealmetjeaate	eamiálbmotášši/álgoálbmotášši	14	0	0	0
+urfolkssak	aalkoealmetjenaate	eamiálbmotášši/álgoálbmotášši	14	0	0	0
+
+urfolkstiltak	aalkoeåålmegeråajvarimmie	eamiálbmotdoaibma/álgoálbmotdoaibmabidju	2	0	0	0
+urfolkstiltak	aalkoealmetjeråajvarimmie	eamiálbmotdoaibma/álgoálbmotdoaibmabidju	2	0	0	0
+
+urfolkspedagogikk	aalkoeåålmegepedagogihke	eamiálbmotpedagogihkka/álgoálbmotpedagogihkka	1	0	0	0
+urfolkspedagogikk	aalkoealmetjepedagogihke	eamiálbmotpedagogihkka/álgoálbmotpedagogihkka	1	0	0	0
+urfolkspedagogikk	aalkoealmetjenpedagogihke	eamiálbmotpedagogihkka/álgoálbmotpedagogihkka	1	0	0	0
+
+hverdagspolitikk	aarkebiejjienpolitihke	árgabeaivepolitihkka	0	0	0	0
+hverdagspolitikk	aarkenpolitihke	árgabeaivepolitihkka	0	0	0	0
+
+urfolkspolitikk	aalkoeåålmegepolitihke	álgoálbmotpolitihkka/eamiálbmotpolitihkka	11	0	0	0
+urfolkspolitikk	aalkoealmetjepolitihke	álgoálbmotpolitihkka/eamiálbmotpolitihkka	11	0	0	0
+urfolkspolitikk	aalkoealmetjenpolitihke	álgoálbmotpolitihkka/eamiálbmotpolitihkka	11	0	0	0
+
+miljøpolitikk	byjreskepolitihke	birasgáhttenpolitihkka/biraspolitihkka	10	3	0	1
+miljøpolitikk	byjresepolitihke	birasgáhttenpolitihkka/biraspolitihkka	10	1	0	0
+
+urfolkspråk	aalkoeåålmegegïele	eamiálbmotgiella	0	0	1	0
+urfolkspråk	aalkoealmetjegïele	eamiálbmotgiella	0	1	1	1
+
+urfolksspråk	aalkoeåålmegegïele	álgoálbmotgiella	2	0	1	0
+urfolksspråk	aalkoealmetjegïele	álgoálbmotgiella	2	1	1	1
+
+innledningsdel	aalkovestuhtje	álggahusoassi	0	0	0	0
+innledningsdel	aalkoenstuhtje	álggahusoassi	0	0	0	0
+innledningsdel	aalkovenstuhtje	álggahusoassi	0	0	0	0
+innledningsdel	aalkoeboelhke	álggahusoassi	0	0	0	0
+innledningsdel	aalkoveboelhke	álggahusoassi	0	0	0	0
+innledningsdel	aalkoenboelhke	álggahusoassi	0	0	0	0
+innledningsdel	aalkovenboelhke	álggahusoassi	0	0	0	0
+
+innledningskapittel	aalkoekapïhtele	álgokapihtal	0	0	0	0
+innledningskapittel	aalkovekapïhtele	álgokapihtal	0	0	0	0
+
+sidetall	baahkoetaale	siidolohku	0	0	1	0
+sidetall	baahkoentaale	siidolohku	0	0	1	0
+sidetall	baahkoelåhkoe	siidolohku	0	0	1	0
+
+måltall	aamhtesetaale	mihttolohku/ulbmillohku	2	0	0	0
+måltall	aamhtesentaale	mihttolohku/ulbmillohku	2	0	0	0
+måltall	aamhteselåhkoe	mihttolohku/ulbmillohku	2	0	0	0
+
+meningsforskjell	aarvoejoekehtse	oaivilerohus	0	0	0	0
+meningsforskjell	aarvoenjoekehtse	oaivilerohus	0	0	0	0
+
+sidemål	bielieulmie	oalgegiella/siidogiella	7	1	0	0
+sidemål	baahkoenulmie	oalgegiella/siidogiella	7	0	0	0
+sidemål	baahkoenvuepsie	oalgegiella/siidogiella	7	0	0	0
+sidemål	baahkoeaamhtese	oalgegiella/siidogiella	7	0	0	0
+sidemål	baahkoenaamhtese	oalgegiella/siidogiella	7	0	0	0
+
+åremål	aajroenulmie	mearreáigi	5	0	3	0
+åremål	aajroevuepsie	mearreáigi	5	0	3	0
+åremål	aajroenvuepsie	mearreáigi	5	0	3	0
+åremål	aajroeaamhtese	mearreáigi	5	0	3	0
+åremål	aajroenaamhtese	mearreáigi	5	0	3	0
+
+sidegjøremål	baahkoedarjome	oalgebargu	1	0	0	0
+sidegjøremål	baahkoendarjome	oalgebargu	1	0	0	0
+sidegjøremål	baahkoedarjomes	oalgebargu	1	0	0	0
+sidegjøremål	baahkoendarjomes	oalgebargu	1	0	0	0
+
+urfolksspørsmål	aalkoeåålmegegyhtjelasse	eamiálbmotgažaldat/eamiálbmotášši/álgoálbmotášši/álgoálbmotgažaldat	26	0	0	0
+urfolksspørsmål	aalkoealmetjegyhtjelasse	eamiálbmotgažaldat/eamiálbmotášši/álgoálbmotášši/álgoálbmotgažaldat	26	0	0	0
+urfolksspørsmål	aalkoealmetjengyhtjelasse	eamiálbmotgažaldat/eamiálbmotášši/álgoálbmotášši/álgoálbmotgažaldat	26	0	0	0
+
+målprogram	aamhteseprogramme	mihttoprográmma	0	0	0	0
+målprogram	aamhtesenprogramme	mihttoprográmma	0	0	0	0
+
+urfolksprogram	aalkoeåålmegeprogramme	eamiálbmotprográmma/álgoálbmotprográmma	2	0	0	0
+urfolksprogram	aalkoealmetjeprogramme	eamiálbmotprográmma/álgoálbmotprográmma	2	0	0	0
+urfolksprogram	aalkoealmetjenprogramme	eamiálbmotprográmma/álgoálbmotprográmma	2	0	0	0
+
+miljøprogram	byjreskeprogramme	birasprográmma	2	1	0	0
+miljøprogram	byjreseprogramme	birasprográmma	2	2	0	0
+
+aldershjem	aalterenheajme	boarrásiidruoktu/boarrásiidsiida	2	0	0	0
+aldershjem	aalterehïejme	boarrásiidruoktu/boarrásiidsiida	2	0	0	0
+
+urfolksungdom	aalkoeåålmegefijrie	eamiálbmotnuorra/álgoálbmotnuorra	5	0	0	0
+urfolksungdom	aalkoealmetjefijrie	eamiálbmotnuorra/álgoálbmotnuorra	5	0	0	0
+urfolksungdom	aalkoealmetjenfijrie	eamiálbmotnuorra/álgoálbmotnuorra	5	0	0	0
+
+eierform	aajhterehaamoe	eaiggáthápmi	0	0	0	0
+eierform	aajhterenhaamoe	eaiggáthápmi	0	0	0	0
+eierform	aajhterehammoe	eaiggáthápmi	0	0	0	0
+eierform	aajhterenhammoe	eaiggáthápmi	0	0	0	0
+
+urfolksorgan	aalkoeåålmegeorgaane	álgoálbmotorgána	0	0	0	0
+urfolksorgan	aalkoealmetjeorgaane	álgoálbmotorgána	0	0	0	0
+urfolksorgan	aalkoealmetjenorgaane	álgoálbmotorgána	0	0	0	0
+
+timeplan	tæjmoesoejkesje	diibmoplána	3	0	6	2
+timeplan	tæjmoeplaane	diibmoplána	3	0	6	1
+
+rådmann	raeriealma	ráđđealmmái/ráđđeolmmái/gielddahoavda	20	3	0	0
+rådmann	raerieålma	ráđđealmmái/ráđđeolmmái/gielddahoavda	20	15	0	11
+
+urfolkssamfunn	aalkoeåålmegeektievuekie	eamiálbmotservodat/álgoálbmotservodat	11	0	0	0
+urfolkssamfunn	aalkoealmetjeektievuekie	eamiálbmotservodat/álgoálbmotservodat	11	0	0	0
+urfolkssamfunn	aalkoealmetjenektievuekie	eamiálbmotservodat/álgoálbmotservodat	11	0	0	0
+urfolkssamfunn	aalkoeåålmegesiebriedahke	eamiálbmotservodat/álgoálbmotservodat	11	0	0	0
+urfolkssamfunn	aalkoealmetjesiebriedahke	eamiálbmotservodat/álgoálbmotservodat	11	0	0	1
+urfolkssamfunn	aalkoealmetjensiebriedahke	eamiálbmotservodat/álgoálbmotservodat	11	0	0	0
+
+urfolksbakgrunn	aalkoeåålmegeduekie	álgoálbmotduogáš	10	0	3	0
+urfolksbakgrunn	aalkoealmetjeduekie	álgoálbmotduogáš	10	0	3	0
+urfolksbakgrunn	aalkoealmetjenduekie	álgoálbmotduogáš	10	0	3	0
+
+urfolksregion	aalkoeåålmegeregijovne	álgoálbmotregiovdna/álgoálbmotguovlu	4	0	0	0
+urfolksregion	aalkoealmetjeregijovne	álgoálbmotregiovdna/álgoálbmotguovlu	4	0	0	1
+urfolksregion	aalkoealmetjenregijovne	álgoálbmotregiovdna/álgoálbmotguovlu	4	0	0	0
+
+urfolksorganisasjon	aalkoeåålmegeorganisasjovne	álgoálbmotorganisašuvdna/eamiálbmotorganisašuvdna	4	0	0	0
+urfolksorganisasjon	aalkoealmetjeorganisasjovne	álgoálbmotorganisašuvdna/eamiálbmotorganisašuvdna	4	0	0	0
+urfolksorganisasjon	aalkoealmetjenorganisasjovne	álgoálbmotorganisašuvdna/eamiálbmotorganisašuvdna	4	0	0	0
+
+urfolkskonsultasjon	aalkoeåålmegekonsultasjovne	eamiálbmotkonsultašuvdna	0	0	0	0
+urfolkskonsultasjon	aalkoealmetjekonsultasjovne	eamiálbmotkonsultašuvdna	0	0	0	0
+urfolkskonsultasjon	aalkoealmetjenkonsultasjovne	eamiálbmotkonsultašuvdna	0	0	0	0
+
+urfolkstradisjon	aalkoeåålmegevuekie	eamiálbmotárbevierru	0	0	0	0
+urfolkstradisjon	aalkoealmetjevuekie	eamiálbmotárbevierru	0	0	0	0
+urfolkstradisjon	aalkoealmetjenvuekie	eamiálbmotárbevierru	0	0	0	0
+urfolkstradisjon	aalkoeåålmegetradisjovne	eamiálbmotárbevierru	0	0	0	0
+urfolkstradisjon	aalkoealmetjetradisjovne	eamiálbmotárbevierru	0	0	0	0
+urfolkstradisjon	aalkoealmetjentradisjovne	eamiálbmotárbevierru	0	0	0	0
+
+urfolksposisjon	aalkoeåålmegeposisjovne	álgoálbmotposišuvdna	0	0	0	0
+urfolksposisjon	aalkoealmetjeposisjovne	álgoálbmotposišuvdna	0	0	0	0
+urfolksposisjon	aalkoealmetjenposisjovne	álgoálbmotposišuvdna	0	0	0	0
+
+urfolkskonvensjon	aalkoeåålmegekonvensjovne	eamiálbmotkonvenšuvdna	1	0	0	0
+urfolkskonvensjon	aalkoealmetjekonvensjovne	eamiálbmotkonvenšuvdna	1	0	0	1
+urfolkskonvensjon	aalkoealmetjenkonvensjovne	eamiálbmotkonvenšuvdna	1	0	0	0
+
+urfolksinstitusjon	aalkoeåålmegeinstitusjovne	álgoálbmotásahus/eamiálbmotinstitušuvdna	0	0	0	0
+urfolksinstitusjon	aalkoealmetjeinstitusjovne	álgoálbmotásahus/eamiálbmotinstitušuvdna	0	0	0	0
+urfolksinstitusjon	aalkoealmetjeninstitusjovne	álgoálbmotásahus/eamiálbmotinstitušuvdna	0	0	0	0
+
+førskolebarn	aarhskuvlemaana	ovdaskuvlamánná	3	0	1	0
+førskolebarn	aarhskuvlenmaana	ovdaskuvlamánná	3	0	1	0
+førskolebarn	aarhskuvleångkene	ovdaskuvlamánná	3	0	1	0
+
+urfolksbarn	aalkoeåålmegemaana	eamiálbmotmánná/álgoálbmotmánná	4	0	0	0
+urfolksbarn	aalkoealmetjemaana	eamiálbmotmánná/álgoálbmotmánná	4	0	0	0
+urfolksbarn	aalkoealmetjenmaana	eamiálbmotmánná/álgoálbmotmánná	4	0	0	0
+urfolksbarn	aalkoeåålmegeångkene	eamiálbmotmánná/álgoálbmotmánná	4	0	0	0
+urfolksbarn	aalkoealmetjeångkene	eamiálbmotmánná/álgoálbmotmánná	4	0	0	0
+
+urfolksstedsnavn	aalkoealmetjesijjienomme	álgoálbmotbáikenamma	0	0	0	0
+urfolksstedsnavn	aalkoealmetjensijjienomme	álgoálbmotbáikenamma	0	0	0	0
+urfolksstedsnavn	aalkoealmetjedajvenomme	álgoálbmotbáikenamma	0	0	0	0
+urfolksstedsnavn	aalkoealmetjendajvenomme	álgoálbmotbáikenamma	0	0	0	0
+
+urfolksnavn	aalkoeåålmegenomme	álgoálbmotnamma	0	0	0	0
+urfolksnavn	aalkoealmetjenomme	álgoálbmotnamma	0	0	0	0
+urfolksnavn	aalkoealmetjennomme	álgoálbmotnamma	0	0	0	0
+
+urfolkskunnskap	aalkoeåålmegedaajroe	álgoálbmotdiehtu/álgoálbmotoahppa/álgoálbmotoahppu/álgoálbmotmáhttu	3	0	0	0
+urfolkskunnskap	aalkoealmetjedaajroe	álgoálbmotdiehtu/álgoálbmotoahppa/álgoálbmotoahppu/álgoálbmotmáhttu	3	0	0	0
+urfolkskunnskap	aalkoealmetjendaajroe	álgoálbmotdiehtu/álgoálbmotoahppa/álgoálbmotoahppu/álgoálbmotmáhttu	3	0	0	0
+urfolkskunnskap	aalkoeåålmegemaahtoe	álgoálbmotdiehtu/álgoálbmotoahppa/álgoálbmotoahppu/álgoálbmotmáhttu	3	0	0	0
+urfolkskunnskap	aalkoealmetjemaahtoe	álgoálbmotdiehtu/álgoálbmotoahppa/álgoálbmotoahppu/álgoálbmotmáhttu	3	0	0	0
+urfolkskunnskap	aalkoealmetjenmaahtoe	álgoálbmotdiehtu/álgoálbmotoahppa/álgoálbmotoahppu/álgoálbmotmáhttu	3	0	0	0
+
+farskap	aehtjievåarhkoe	áhččivuohta	2	0	1	0
+farskap	aehtjieskåape	áhččivuohta	2	0	1	0
+
+eierskap	aajhterevåarhkoe	eaiggátvuohta/oamasteapmi/oamastus	32	0	0	0
+eierskap	aajhtereskåape	eaiggátvuohta/oamasteapmi/oamastus	32	0	0	0
+
+hovedansvar	åejviedïedte	váldoovddasvástádus	17	3	13	8
+hovedansvar	åejviesdïedte	váldoovddasvástádus	17	0	13	8
+
+urfolksleder	aalkoeåålmegeåejviehearra	álgoálbmotjođiheaddji	1	0	0	0
+urfolksleder	aalkoealmetjeåejviehearra	álgoálbmotjođiheaddji	1	0	0	0
+urfolksleder	aalkoeåålmegeslærra	álgoálbmotjođiheaddji	1	0	0	0
+urfolksleder	aalkoealmetjeslærra	álgoálbmotjođiheaddji	1	0	0	0
+urfolksleder	aalkoeåålmegeåejvie	álgoálbmotjođiheaddji	1	0	0	0
+urfolksleder	aalkoealmetjeåejvie	álgoálbmotjođiheaddji	1	0	0	0
+urfolksleder	aalkoeåålmegeåajvaladtje	álgoálbmotjođiheaddji	1	0	0	0
+urfolksleder	aalkoealmetjeåajvaladtje	álgoálbmotjođiheaddji	1	0	0	0
+urfolksleder	aalkoeåålmegeåvtehke	álgoálbmotjođiheaddji	1	0	0	0
+urfolksleder	aalkoealmetjeåvtehke	álgoálbmotjođiheaddji	1	0	0	0
+
+personnummer	almetjenummere	personnummár/heagganummir/riegádannummar	3	0	0	0
+personnummer	almetjennummere	personnummár/heagganummir/riegádannummar	3	0	0	0
+
+saksnummer	aatenummere	áššenummir/áššenummar	1	0	0	0
+saksnummer	aatennummere	áššenummir/áššenummar	1	0	0	0
+
+urfolksenter	aalkoeåålmegejarnge	álgoálbmotguovddáš	0	0	2	0
+urfolksenter	aalkoealmetjejarnge	álgoálbmotguovddáš	0	0	2	0
+urfolksenter	aalkoealmetjenjarnge	álgoálbmotguovddáš	0	0	2	0
+
+urfolkssenter	aalkoeåålmegejarnge	álgoálbmotguovddáš/eamiálbmotguovddáš	1	0	0	0
+urfolkssenter	aalkoealmetjejarnge	álgoálbmotguovddáš/eamiálbmotguovddáš	1	0	0	0
+urfolkssenter	aalkoealmetjenjarnge	álgoálbmotguovddáš/eamiálbmotguovddáš	1	0	0	0
+
+sakspapir	aatepaehpere	áššebábir	4	0	40	0
+sakspapir	aatenpaehpere	áššebábir	4	0	40	0
+
+urfolkskontor	aalkoeåålmegekontovre	eamiálbmotkantuvra/álgoálbmotkantuvra	12	0	0	0
+urfolkskontor	aalkoealmetjekontovre	eamiálbmotkantuvra/álgoálbmotkantuvra	12	0	0	1
+urfolkskontor	aalkoealmetjenkontovre	eamiálbmotkantuvra/álgoálbmotkantuvra	12	0	0	0
+
+urfolkslitteratur	aalkoeåålmegelitteratuvre	eamiálbmotgirjjálašvuohta	0	0	0	0
+urfolkslitteratur	aalkoealmetjelitteratuvre	eamiálbmotgirjjálašvuohta	0	0	0	0
+urfolkslitteratur	aalkoealmetjenlitteratuvre	eamiálbmotgirjjálašvuohta	0	0	0	0
+
+målstruktur	aamhteseleahta	mihttomearrehámádat	1	0	0	0
+målstruktur	aamhtesenleahta	mihttomearrehámádat	1	0	0	0
+målstruktur	aamhtesetseegkeme	mihttomearrehámádat	1	0	0	0
+målstruktur	aamhtesentseegkeme	mihttomearrehámádat	1	0	0	0
+
+eierstruktur	aajhtereleahta	eaiggátstruktuvra/eaiggátvuođastruktuvra	2	0	0	0
+eierstruktur	aajhterenleahta	eaiggátstruktuvra/eaiggátvuođastruktuvra	2	0	0	0
+eierstruktur	aajhteretseegkeme	eaiggátstruktuvra/eaiggátvuođastruktuvra	2	0	0	0
+eierstruktur	aajhterentseegkeme	eaiggátstruktuvra/eaiggátvuođastruktuvra	2	0	0	0
+
+aldersstruktur	aalterenleahta	ahkestruktuvra/ahkehámádat	1	0	0	0
+aldersstruktur	aalterentseegkeme	ahkestruktuvra/ahkehámádat	1	0	0	0
+
+urfolkskultur	aalkoeåålmegekultuvre	álgoálbmotkultuvra/eamiálbmotkultuvra	7	0	0	0
+urfolkskultur	aalkoealmetjekultuvre	álgoálbmotkultuvra/eamiálbmotkultuvra	7	0	0	0
+urfolkskultur	aalkoealmetjenkultuvre	álgoálbmotkultuvra/eamiálbmotkultuvra	7	0	0	0
+
+temakurs	aamhtesenkuvsje	fáddákursa	0	0	0	0
+temakurs	aatenkuvsje	fáddákursa	0	0	0	0
+
+tidsressurs	aejkiemaelmie	áigeresursa	0	0	0	0
+tidsressurs	aejkienmaelmie	áigeresursa	0	0	0	0
+tidsressurs	aejkievierhtie	áigeresursa	0	0	0	0
+tidsressurs	aejkienvierhtie	áigeresursa	0	0	0	0
+
+formiddagsmat	aeredsbiejjiesvarkeldahke	ovdalgaskabeaiborramuš	0	0	0	0
+formiddagsmat	aeredsbiejjiensvarkeldahke	ovdalgaskabeaiborramuš	0	0	0	0
+formiddagsmat	aeredsbiejjienbeapmoe	ovdalgaskabeaiborramuš	0	0	0	0
+formiddagsmat	aeredsbiejjienmaksove	ovdalgaskabeaiborramuš	0	0	0	0
+
+Morgenbladet	aeredeplaerie	Morgenbladet/Morgenbladet-aviisa	0	0	0	0
+Morgenbladet	aeredenplaerie	Morgenbladet/Morgenbladet-aviisa	0	0	0	0
+
+eierrettighet	aajhterereakta	oamastanvuoigatvuohta/eaiggátvuoigatvuohta	2	0	0	1
+eierrettighet	aajhterenreakta	oamastanvuoigatvuohta/eaiggátvuoigatvuohta	2	0	0	0
+
+urfolksrettighet	aalkoeåålmegereakta	eamiálbmotvuoigatvuohta/álgoálbmotvuoigatvuohta/álgoálbmotriekti	28	0	0	0
+urfolksrettighet	aalkoealmetjereakta	eamiálbmotvuoigatvuohta/álgoálbmotvuoigatvuohta/álgoálbmotriekti	28	0	0	0
+urfolksrettighet	aalkoealmetjenreakta	eamiálbmotvuoigatvuohta/álgoálbmotvuoigatvuohta/álgoálbmotriekti	28	0	0	0
+
+sideprosjekt	baahkoeprosjeekte	oalgeprošeakta	0	0	0	0
+sideprosjekt	baahkoenprosjeekte	oalgeprošeakta	0	0	0	0
+
+urfolksprosjekt	aalkoeåålmegeprosjeekte	eamiálbmotprošeakta	2	0	0	0
+urfolksprosjekt	aalkoealmetjeprosjeekte	eamiálbmotprošeakta	2	0	0	0
+urfolksprosjekt	aalkoealmetjenprosjeekte	eamiálbmotprošeakta	2	0	0	0
+
+simlevekt	aaltoeleavloe	njiŋŋelasdeaddu	0	0	0	0
+simlevekt	aaltoenleavloe	njiŋŋelasdeaddu	0	0	0	0
+
+urfolksrepresentant	aalkoeåålmegesaadthalmetje	eamiálbmotáirras/eamiálbmotovddasteaddji/álgoálbmotovddasteaddji	5	0	0	0
+urfolksrepresentant	aalkoealmetjesaadthalmetje	eamiálbmotáirras/eamiálbmotovddasteaddji/álgoálbmotovddasteaddji	5	0	0	0
+urfolksrepresentant	aalkoealmetjensaadthalmetje	eamiálbmotáirras/eamiálbmotovddasteaddji/álgoálbmotovddasteaddji	5	0	0	0
+
+urfolksstudent	aalkoeåålmegestudeente	eamiálbmotstudeanta	0	0	0	0
+urfolksstudent	aalkoealmetjestudeente	eamiálbmotstudeanta	0	0	0	0
+urfolksstudent	aalkoealmetjenstudeente	eamiálbmotstudeanta	0	0	0	0
+
+saksdokument	aatetjaatsege	áššebábir/áššedokumeanta	5	0	0	0
+saksdokument	aatentjaatsege	áššebábir/áššedokumeanta	5	0	0	0
+saksdokument	aatetjaaleldahke	áššebábir/áššedokumeanta	5	0	0	0
+saksdokument	aatentjaaleldahke	áššebábir/áššedokumeanta	5	0	0	0
+saksdokument	aatelåhkoe	áššebábir/áššedokumeanta	5	0	0	0
+
+eierprosent	aajhtereproseente	eaiggátproseanta	0	0	0	0
+eierprosent	aajhterenproseente	eaiggátproseanta	0	0	0	0
+
+emnekart	suerkiebaetjkere	fáddákárta	0	0	0	0
+emnekart	aamhtesebaetjkere	fáddákárta	0	0	0	0
+emnekart	aamhtesenbaetjkere	fáddákárta	0	0	0	0
+emnekart	aamhtesekaarhte	fáddákárta	0	0	0	0
+emnekart	aamhtesenkaarhte	fáddákárta	0	0	0	0
+
+legeattest	dåakterevïhnesjimmie	doavtterduođaštus/doavttirduođaštus	0	0	0	0
+legeattest	davvojevihtesjimmie	doavtterduođaštus/doavttirduođaštus	0	0	0	0
+
+innledningstekst	aalkoeteekste	álgoteaksta	0	0	0	0
+innledningstekst	aalkoveteekste	álgoteaksta	0	0	0	0
+innledningstekst	aalkoenteekste	álgoteaksta	0	0	0	0
+innledningstekst	aalkoventeekste	álgoteaksta	0	0	0	0
+
+menneskerett	almetjeriektie	vuođđoolmmošvuoigatvuohta	18	0	0	0
+menneskerett	almetjenriektie	vuođđoolmmošvuoigatvuohta	18	0	0	0
+menneskerett	almetjereaktoe	vuođđoolmmošvuoigatvuohta	18	0	0	0
+menneskerett	almetjenreaktoe	vuođđoolmmošvuoigatvuohta	18	0	0	0
+menneskerett	almetjestaeriesvoete	vuođđoolmmošvuoigatvuohta	18	0	0	0
+menneskerett	almetjenstaeriesvoete	vuođđoolmmošvuoigatvuohta	18	0	0	0
+
+nytterett	aevhkieriektie	ávkkástallanvuoigatvuohta	0	0	0	0
+nytterett	aevhkienriektie	ávkkástallanvuoigatvuohta	0	0	0	0
+nytterett	aevhkiereaktoe	ávkkástallanvuoigatvuohta	0	0	0	0
+nytterett	aevhkienreaktoe	ávkkástallanvuoigatvuohta	0	0	0	0
+nytterett	aevhkienstaeriesvoete	ávkkástallanvuoigatvuohta	0	0	0	0
+
+tingrett	aateriektie	diggegoddi/diggeriekti	11	0	0	0
+tingrett	aatenriektie	diggegoddi/diggeriekti	11	0	0	0
+tingrett	aatereaktoe	diggegoddi/diggeriekti	11	0	0	0
+tingrett	aatenreaktoe	diggegoddi/diggeriekti	11	0	0	0
+tingrett	aatenstaeriesvoete	diggegoddi/diggeriekti	11	0	0	0
+
+urfolksrett	aalkoeåålmegeriektie	eamiálbmotriekti/álgoálbmotriekti	12	0	0	0
+urfolksrett	aalkoealmetjeriektie	eamiálbmotriekti/álgoálbmotriekti	12	0	0	0
+urfolksrett	aalkoealmetjenriektie	eamiálbmotriekti/álgoálbmotriekti	12	0	0	0
+urfolksrett	aalkoeåålmegereaktoe	eamiálbmotriekti/álgoálbmotriekti	12	0	0	0
+urfolksrett	aalkoealmetjereaktoe	eamiálbmotriekti/álgoálbmotriekti	12	0	0	0
+urfolksrett	aalkoealmetjenreaktoe	eamiálbmotriekti/álgoálbmotriekti	12	0	0	0
+urfolksrett	aalkoeåålmegestaeriesvoete	eamiálbmotriekti/álgoálbmotriekti	12	0	0	0
+urfolksrett	aalkoealmetjestaeriesvoete	eamiálbmotriekti/álgoálbmotriekti	12	0	0	0
+urfolksrett	aalkoealmetjenstaeriesvoete	eamiálbmotriekti/álgoálbmotriekti	12	0	0	0
+
+urgrav	aavroengroepte	eamihávdi/dološhávdi	2	0	0	0
+urgrav	aavroekroepte	eamihávdi/dološhávdi	2	0	0	0
+urgrav	aavroenkroepte	eamihávdi/dološhávdi	2	0	0	0
+
+kirkeliv	gærhkoejielede	girkoeallin	29	1	15	2
+kirkeliv	gærhkoejïele	girkoeallin	29	0	15	6
+kirkeliv	gærhkoejieleme	girkoeallin	29	3	15	8
+
+menneskeliv	almetjenjielede	olbmoheagga	1	0	0	0
+menneskeliv	almetjehïegke	olbmoheagga	1	0	0	0
+menneskeliv	almetjejieleme	olbmoheagga	1	0	0	0
+menneskeliv	almetjenjieleme	olbmoheagga	1	0	0	0
+menneskeliv	almetjeveasome	olbmoheagga	1	0	0	0
+menneskeliv	almetjenveasome	olbmoheagga	1	0	0	0
+
+arbeidsliv	barkoejielede	bargoeallin	59	10	21	6
+arbeidsliv	barkoejieleme	bargoeallin	59	18	21	2
+
+åndsliv	aajmoejielede	vuoiŋŋalašeallin	0	0	0	0
+åndsliv	aajmoenjielede	vuoiŋŋalašeallin	0	0	0	0
+åndsliv	aajmoehïegke	vuoiŋŋalašeallin	0	0	0	0
+åndsliv	aajmoejieleme	vuoiŋŋalašeallin	0	0	0	0
+åndsliv	aajmoenjieleme	vuoiŋŋalašeallin	0	0	0	0
+åndsliv	aajmoenveasome	vuoiŋŋalašeallin	0	0	0	0
+
+urfolksperspektiv	aalkoeåålmegeperspektijve	álgoálbmotperspektiiva/eamiálbmotperspektiiva/álgoálbmotoaidnu	16	0	0	0
+urfolksperspektiv	aalkoealmetjeperspektijve	álgoálbmotperspektiiva/eamiálbmotperspektiiva/álgoálbmotoaidnu	16	0	0	0
+urfolksperspektiv	aalkoealmetjenperspektijve	álgoálbmotperspektiiva/eamiálbmotperspektiiva/álgoálbmotoaidnu	16	0	0	0
+
+sideelv	baahkoejohke	oalgejohka/doaresjohka	1	0	0	0
+sideelv	baahkoenjohke	oalgejohka/doaresjohka	1	0	0	0
+
+personopplysningslov	almetjebyjjehtimmie	persondiehtoláhka/heaggadiehtoláhka	4	0	0	0
+personopplysningslov	almetjebïevnese	persondiehtoláhka/heaggadiehtoláhka	4	0	0	0
+
+kompetansemiljø	maahtoebyjreske	gelbbolašbiras/gealbobiras/máhttobiras/gelbbolašvuođabiras	8	0	0	1
+kompetansemiljø	maahtoebyjrese	gelbbolašbiras/gealbobiras/máhttobiras/gelbbolašvuođabiras	8	0	0	1
+
+kulturmiljø	kultuvrebyjreske	kulturbiras	51	1	23	0
+kulturmiljø	kultuvrebyjrese	kulturbiras	51	17	23	5
+
+arbeidsmiljø	barkoebyjreske	bargobiras	24	1	15	0
+arbeidsmiljø	barkoebyjrese	bargobiras	24	4	15	0
+
+urfolksmiljø	aalkoeåålmegebyjreske	álgoálbmotbiras	0	0	0	0
+urfolksmiljø	aalkoealmetjebyjreske	álgoálbmotbiras	0	0	0	0
+urfolksmiljø	aalkoealmetjenbyjreske	álgoálbmotbiras	0	0	0	0
+urfolksmiljø	aalkoeåålmegebyjrese	álgoálbmotbiras	0	0	0	0
+urfolksmiljø	aalkoealmetjebyjrese	álgoálbmotbiras	0	0	0	0
+urfolksmiljø	aalkoealmetjenbyjrese	álgoálbmotbiras	0	0	0	0

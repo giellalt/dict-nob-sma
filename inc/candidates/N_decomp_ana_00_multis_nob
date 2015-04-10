@@ -1,0 +1,312 @@
+
+arbeidsmarked	barkemesjeltie	bargomárkan	25	0	15	0
+arbeidsmarked	barkoesjeltie	bargomárkan	25	0	15	0
+arbeidsmarked	barkemensjeltie	bargomárkan	25	0	15	0
+arbeidsmarked	barkoensjeltie	bargomárkan	25	0	15	0
+
+kjøttmarked	bearkoesjeltie	biergomárkan	0	0	0	0
+kjøttmarked	bearkoensjeltie	biergomárkan	0	0	0	0
+
+lønnsarbeid	baalhkabarkeme	dienasbargu/bálkábargu	2	0	0	0
+lønnsarbeid	baalhkanbarkeme	dienasbargu/bálkábargu	2	0	0	0
+lønnsarbeid	baalhkabarkoe	dienasbargu/bálkábargu	2	0	0	0
+lønnsarbeid	baalhkanbarkoe	dienasbargu/bálkábargu	2	0	0	0
+lønnsarbeid	baalhkavætnoe	dienasbargu/bálkábargu	2	0	0	0
+
+arbeidstid	barkemeaejkie	bargoáigi	20	0	16	0
+arbeidstid	barkemenaejkie	bargoáigi	20	0	16	0
+arbeidstid	barkoenaejkie	bargoáigi	20	0	16	0
+arbeidstid	barkemetïjje	bargoáigi	20	0	16	0
+arbeidstid	barkoebaaletje	bargoáigi	20	0	16	0
+arbeidstid	barkemenbaaletje	bargoáigi	20	0	16	0
+arbeidstid	barkoenbaaletje	bargoáigi	20	0	16	0
+arbeidstid	barkoebeeletje	bargoáigi	20	0	16	0
+arbeidstid	barkemenbeeletje	bargoáigi	20	0	16	0
+arbeidstid	barkoenbeeletje	bargoáigi	20	0	16	0
+
+arbeidstilbud	barkoenuepie	bargofálaldat	1	0	2	0
+arbeidstilbud	barkemennuepie	bargofálaldat	1	0	2	0
+arbeidstilbud	barkoennuepie	bargofálaldat	1	0	2	0
+arbeidstilbud	barkemefaaleldahke	bargofálaldat	1	0	2	0
+arbeidstilbud	barkemenfaaleldahke	bargofálaldat	1	0	2	0
+arbeidstilbud	barkoenfaaleldahke	bargofálaldat	1	0	2	0
+
+ordlyd	baakoentjoeje	dadjanvuohki	28	0	6	0
+ordlyd	baakoentjoejenasse	dadjanvuohki	28	0	6	0
+
+fellesgode	bartabuerie	oktasašbuorri	0	0	0	0
+fellesgode	bartanbuerie	oktasašbuorri	0	0	0	0
+
+arbeidsperiode	barkemegohkedæjja	bargoáigodat	0	0	0	0
+arbeidsperiode	barkoegohkedæjja	bargoáigodat	0	0	0	0
+arbeidsperiode	barkemeboelhke	bargoáigodat	0	0	0	0
+arbeidsperiode	barkemenboelhke	bargoáigodat	0	0	0	0
+arbeidsperiode	barkoenboelhke	bargoáigodat	0	0	0	0
+
+fellesperiode	bartagohkedæjja	oktasašáigodat	0	0	0	0
+fellesperiode	bartaboelhke	oktasašáigodat	0	0	0	0
+fellesperiode	bartanboelhke	oktasašáigodat	0	0	0	0
+
+matområde	beapmoelaante	biebmosuorgi	2	0	0	0
+matområde	beapmoenlaante	biebmosuorgi	2	0	0	0
+matområde	beapmoedajve	biebmosuorgi	2	0	0	0
+matområde	beapmoendajve	biebmosuorgi	2	0	0	0
+
+spøkelseshistorie	baltastæjjahistovrije	balddonasmuitalus/gobmemuitalus	0	0	0	0
+spøkelseshistorie	baltehkehistovrije	balddonasmuitalus/gobmemuitalus	0	0	0	0
+spøkelseshistorie	baltehkenhistovrije	balddonasmuitalus/gobmemuitalus	0	0	0	0
+spøkelseshistorie	baltehkenvaajese	balddonasmuitalus/gobmemuitalus	0	0	0	0
+
+forlagsavtale	bertememååhtedimmie	lágádusšiehtadus	0	0	0	0
+forlagsavtale	bertemelatjkoe	lágádusšiehtadus	0	0	0	0
+
+fellesskole	bartaskuvle	oktasašskuvla	0	0	1	0
+fellesskole	bartanskuvle	oktasašskuvla	0	0	1	0
+fellesskole	bartaskåvloe	oktasašskuvla	0	0	1	0
+
+matvare	beapmoeneeke	borramušgálvu/biebmogálvu	14	0	0	0
+matvare	beapmoevaaroe	borramušgálvu/biebmogálvu	14	0	0	0
+matvare	beapmoenvaaroe	borramušgálvu/biebmogálvu	14	0	0	0
+
+felleskapsfølelse	bartavåarhkoe	oktavuođadovdu	0	0	1	0
+felleskapsfølelse	bartaskåape	oktavuođadovdu	0	0	1	0
+
+arbeidstillatelse	barkemeluhpie	bargolohpi	1	0	1	0
+arbeidstillatelse	barkemenluhpie	bargolohpi	1	0	1	0
+arbeidstillatelse	barkoenluhpie	bargolohpi	1	0	1	0
+
+arbeidskonferanse	barkoekonferaanse	bargokonferánsa	0	0	0	0
+arbeidskonferanse	barkemenkonferaanse	bargokonferánsa	0	0	0	0
+arbeidskonferanse	barkoenkonferaanse	bargokonferánsa	0	0	0	0
+
+forlagsstøtte	bertemedåarjege	lágádusdoarjja/girjelágádusdoarjja	12	0	0	0
+forlagsstøtte	bertemedovtege	lágádusdoarjja/girjelágádusdoarjja	12	0	0	0
+forlagsstøtte	bertemeduedtie	lágádusdoarjja/girjelágádusdoarjja	12	0	0	0
+forlagsstøtte	bertemedoedtije	lágádusdoarjja/girjelágádusdoarjja	12	0	0	0
+forlagsstøtte	bertemeduvtestahke	lágádusdoarjja/girjelágádusdoarjja	12	0	0	0
+forlagsstøtte	bertemenalhke	lágádusdoarjja/girjelágádusdoarjja	12	0	0	0
+forlagsstøtte	bertemedåarjoe	lágádusdoarjja/girjelágádusdoarjja	12	0	0	0
+
+arbeidsmåte	barkemevuekie	bargovuohki/bargomálle	9	0	0	0
+arbeidsmåte	barkemenvuekie	bargovuohki/bargomálle	9	0	0	0
+arbeidsmåte	barkoenvuekie	bargovuohki/bargomálle	9	0	0	0
+arbeidsmåte	barkoevoete	bargovuohki/bargomálle	9	0	0	0
+arbeidsmåte	barkemenvoete	bargovuohki/bargomálle	9	0	0	0
+arbeidsmåte	barkoenvoete	bargovuohki/bargomálle	9	0	0	0
+
+arbeidsmøte	barkemegaavnedimmie	bargočoahkkin	4	0	2	0
+arbeidsmøte	barkoegaavnedimmie	bargočoahkkin	4	0	2	0
+arbeidsmøte	barkemengaavnedimmie	bargočoahkkin	4	0	2	0
+arbeidsmøte	barkoengaavnedimmie	bargočoahkkin	4	0	2	0
+arbeidsmøte	barkemetjåanghkoe	bargočoahkkin	4	0	2	0
+arbeidsmøte	barkoetjåanghkoe	bargočoahkkin	4	0	2	0
+
+fellesmøte	bartagaavnedimmie	oktasaščoahkkin	15	0	5	0
+fellesmøte	bartangaavnedimmie	oktasaščoahkkin	15	0	5	0
+fellesmøte	bartatjåanghkoe	oktasaščoahkkin	15	0	5	0
+
+arbeidsoppgave	barkoelaavenjasse	bargobihttá	28	0	9	0
+arbeidsoppgave	barkemenlaavenjasse	bargobihttá	28	0	9	0
+arbeidsoppgave	barkoenlaavenjasse	bargobihttá	28	0	9	0
+
+fellesoppgave	bartalaavenjasse	oktasašdoaibma	0	0	2	0
+fellesoppgave	bartanlaavenjasse	oktasašdoaibma	0	0	2	0
+
+matfag	beapmoefaage	biebmofága	1	0	1	0
+matfag	beapmoenfaage	biebmofága	1	0	1	0
+
+fellesforslag	bartaraeriestimmie	oktasašárvalus	11	0	1	0
+fellesforslag	bartanraeriestimmie	oktasašárvalus	11	0	1	0
+fellesforslag	bartaraerie	oktasašárvalus	11	0	1	0
+fellesforslag	bartanraerie	oktasašárvalus	11	0	1	0
+fellesforslag	bartauvtelasse	oktasašárvalus	11	0	1	0
+fellesforslag	bartanuvtelasse	oktasašárvalus	11	0	1	0
+
+kjøttslag	bearkoelaage	biergosorta	0	0	0	0
+kjøttslag	bearkoenlaage	biergosorta	0	0	0	0
+kjøttslag	bearkoetjïerte	biergosorta	0	0	0	0
+
+arbeidsutvalg	barkemedåehkie	bargolávdegoddi/doaibmagoddi	30	0	0	0
+arbeidsutvalg	barkoemoenehtse	bargolávdegoddi/doaibmagoddi	30	0	0	0
+arbeidsutvalg	barkemenmoenehtse	bargolávdegoddi/doaibmagoddi	30	0	0	0
+arbeidsutvalg	barkoenmoenehtse	bargolávdegoddi/doaibmagoddi	30	0	0	0
+
+lønnsutvikling	baalhkaevtiedimmie	bálkáovdáneapmi	1	0	0	0
+lønnsutvikling	baalhkanevtiedimmie	bálkáovdáneapmi	1	0	0	0
+lønnsutvikling	baalhkaövtiedimmie	bálkáovdáneapmi	1	0	0	0
+
+fellesforvaltning	bartareereme	oktasašhálddašanortnet	0	0	0	0
+fellesforvaltning	bartanreereme	oktasašhálddašanortnet	0	0	0	0
+fellesforvaltning	bartareerenasse	oktasašhálddašanortnet	0	0	0	0
+fellesforvaltning	bartanreerenasse	oktasašhálddašanortnet	0	0	0	0
+
+arbeidserfaring	barkemedååjrehtimmie	bargohárjáneapmi/bargovásáhus/bargovásihus/bargoduogáš	3	0	0	0
+arbeidserfaring	barkoedååjrehts	bargohárjáneapmi/bargovásáhus/bargovásihus/bargoduogáš	3	0	0	0
+
+jobbstrategi	barkoestrategije	bargostrategiija	0	0	0	0
+jobbstrategi	barkoenstrategije	bargostrategiija	0	0	0	0
+
+fellessak	bartasaake	oktasašášši	1	0	0	0
+fellessak	bartansaake	oktasašášši	1	0	0	0
+fellessak	bartanaate	oktasašášši	1	0	0	0
+
+lønnspolitikk	baalhkapolitihke	bálkápolitihkka	3	0	0	0
+lønnspolitikk	baalhkanpolitihke	bálkápolitihkka	3	0	0	0
+
+matpolitikk	beapmoepolitihke	biebmopolitihkka	12	0	2	0
+matpolitikk	beapmoenpolitihke	biebmopolitihkka	12	0	2	0
+
+matfisk	beapmoeguelie	borranguolli/borramušguolli	3	0	0	0
+matfisk	beapmoenguelie	borranguolli/borramušguolli	3	0	0	0
+
+matsal	beapmoesavka	borranlatnja/boradansále	0	0	0	0
+matsal	beapmoensavka	borranlatnja/boradansále	0	0	0	0
+
+lønnsforskjell	baalhkajoekehtse	bálkáerohus	0	0	1	0
+lønnsforskjell	baalhkanjoekehtse	bálkáerohus	0	0	1	0
+
+arbeidsmål	barkemeulmie	bargomihttomearri	0	0	0	0
+arbeidsmål	barkoeulmie	bargomihttomearri	0	0	0	0
+arbeidsmål	barkemenulmie	bargomihttomearri	0	0	0	0
+arbeidsmål	barkoenulmie	bargomihttomearri	0	0	0	0
+arbeidsmål	barkemevuepsie	bargomihttomearri	0	0	0	0
+arbeidsmål	barkoevuepsie	bargomihttomearri	0	0	0	0
+arbeidsmål	barkemenvuepsie	bargomihttomearri	0	0	0	0
+arbeidsmål	barkoenvuepsie	bargomihttomearri	0	0	0	0
+arbeidsmål	barkoeaamhtese	bargomihttomearri	0	0	0	0
+arbeidsmål	barkemenaamhtese	bargomihttomearri	0	0	0	0
+arbeidsmål	barkoenaamhtese	bargomihttomearri	0	0	0	0
+
+lønnsspørsmål	baalhkagyhtjelasse	bálkáášši	0	0	0	0
+lønnsspørsmål	baalhkangyhtjelasse	bálkáášši	0	0	0	0
+
+arbeidsprogram	barkemeprogramme	bargoprográmma	3	0	4	0
+arbeidsprogram	barkemenprogramme	bargoprográmma	3	0	4	0
+arbeidsprogram	barkoenprogramme	bargoprográmma	3	0	4	0
+
+kartprogram	baetjkereprogramme	kártaprográmma	0	0	0	0
+kartprogram	baetjkerenprogramme	kártaprográmma	0	0	0	0
+
+kartsystem	baetjkeresysteeme	kártavuogádat	0	0	0	0
+kartsystem	baetjkerensysteeme	kártavuogádat	0	0	0	0
+
+tannsykdom	baeniefiejlie	bátnedávda	0	0	0	0
+tannsykdom	baenienfiejlie	bátnedávda	0	0	0	0
+tannsykdom	baenieskïemtjelasse	bátnedávda	0	0	0	0
+
+ordmellomrom	baakoegaske	sátnegaska	0	0	0	0
+ordmellomrom	baakoengaske	sátnegaska	0	0	0	0
+
+arbeidsrom	barkemetjïehtjele	bargolatnja	0	0	2	0
+arbeidsrom	barkoetjïehtjele	bargolatnja	0	0	2	0
+
+uttrykksform	baakoehaamoe	ilbmadanvuohki/ovdanbuktinhápmi/čájehanvuohki/ovdanbuktinvuohki	5	0	0	0
+uttrykksform	baakoetjïertehaamoe	ilbmadanvuohki/ovdanbuktinhápmi/čájehanvuohki/ovdanbuktinvuohki	5	0	0	0
+uttrykksform	baakoenhaamoe	ilbmadanvuohki/ovdanbuktinhápmi/čájehanvuohki/ovdanbuktinvuohki	5	0	0	0
+uttrykksform	baakoenhammoe	ilbmadanvuohki/ovdanbuktinhápmi/čájehanvuohki/ovdanbuktinvuohki	5	0	0	0
+
+fellesorgan	bartaorgaane	oktasašorgána	2	0	1	0
+fellesorgan	bartanorgaane	oktasašorgána	2	0	1	0
+
+matsituasjon	beapmoetsiehkie	biebmodilli	0	0	0	0
+matsituasjon	beapmoentsiehkie	biebmodilli	0	0	0	0
+
+mattradisjon	beapmoevuekie	biebmoárbevierru/biebmovierru	4	0	0	0
+mattradisjon	beapmoenvuekie	biebmoárbevierru/biebmovierru	4	0	0	0
+mattradisjon	beapmoetradisjovne	biebmoárbevierru/biebmovierru	4	0	0	0
+mattradisjon	beapmoentradisjovne	biebmoárbevierru/biebmovierru	4	0	0	0
+
+lønnskommisjon	baalhkakommisjovne	bálkákommišuvdna	1	0	0	0
+lønnskommisjon	baalhkankommisjovne	bálkákommišuvdna	1	0	0	0
+
+arbeidssøker	barkemeohtsije	bargoohcci	2	0	3	0
+arbeidssøker	barkemenohtsije	bargoohcci	2	0	3	0
+arbeidssøker	barkoenohtsije	bargoohcci	2	0	3	0
+
+fødselsnummer	baersieldimmienummere	riegádannummir/riegádusnummar/riegádannummár	5	0	0	0
+fødselsnummer	baersieldimmiennummere	riegádannummir/riegádusnummar/riegádannummár	5	0	0	0
+
+felleskontor	bartakontovre	oktasaškantuvra	0	0	0	0
+felleskontor	bartankontovre	oktasaškantuvra	0	0	0	0
+
+felleskultur	bartakultuvre	oktasaškultuvra	1	0	0	0
+felleskultur	bartankultuvre	oktasaškultuvra	1	0	0	0
+
+matkultur	beapmoekultuvre	biebmokultuvra	4	0	2	0
+matkultur	beapmoenkultuvre	biebmokultuvra	4	0	2	0
+
+arbeidsår	barkoesaejrie	bargojahki	0	0	0	0
+arbeidsår	barkemensaejrie	bargojahki	0	0	0	0
+arbeidsår	barkoensaejrie	bargojahki	0	0	0	0
+
+fødselsår	baersieldimmiesaejrie	riegádanjahki	1	0	0	0
+fødselsår	baersieldimmiensaejrie	riegádanjahki	1	0	0	0
+
+matfat	beapmoefeete	borramušgárri	1	0	0	0
+matfat	beapmoenfeete	borramušgárri	1	0	0	0
+
+mattrygghet	beapmoejearsoesvoete	biebmosihkarvuohta/biebmooadjebasvuohta	8	0	0	0
+mattrygghet	beapmoenjearsoesvoete	biebmosihkarvuohta/biebmooadjebasvuohta	8	0	0	0
+
+jobbmulighet	barkoehille	bargovejolašvuohta	0	0	4	0
+jobbmulighet	barkoenhille	bargovejolašvuohta	0	0	4	0
+
+arbeidsmulighet	barkoehille	bargovejolašvuohta	1	0	4	0
+arbeidsmulighet	barkemenhille	bargovejolašvuohta	1	0	4	0
+arbeidsmulighet	barkoenhille	bargovejolašvuohta	1	0	4	0
+
+kartrettighet	baetjkerereakta	kártavuoigatvuohta	0	0	0	0
+kartrettighet	baetjkerenreakta	kártavuoigatvuohta	0	0	0	0
+
+kjøttbit	bearkoebæhta	biergobihttá	0	0	1	0
+kjøttbit	bearkoebiehkie	biergobihttá	0	0	1	0
+kjøttbit	bearkoenbiehkie	biergobihttá	0	0	1	0
+
+fellesprosjekt	bartaprosjeekte	oktasašprošeakta	4	0	0	0
+fellesprosjekt	bartanprosjeekte	oktasašprošeakta	4	0	0	0
+
+matprodukt	beapmoedorjese	biebmogálvu	2	0	2	0
+matprodukt	beapmoendorjese	biebmogálvu	2	0	2	0
+
+kartprodukt	baetjkeredorjese	kártabuvtta	0	0	0	0
+kartprodukt	baetjkerendorjese	kártabuvtta	0	0	0	0
+
+kjøttprodukt	bearkoedorjese	biergobuvtta	1	0	0	0
+kjøttprodukt	bearkoendorjese	biergobuvtta	1	0	0	0
+
+arbeidsdepartement	barkemedepartemeente	bargodepartemeanta	18	0	5	0
+arbeidsdepartement	barkoedepartemeente	bargodepartemeanta	18	0	5	0
+arbeidsdepartement	barkemendepartemeente	bargodepartemeanta	18	0	5	0
+arbeidsdepartement	barkoendepartemeente	bargodepartemeanta	18	0	5	0
+
+arbeidsdokument	barkoetjaatsege	bargodokumeanta	4	0	2	0
+arbeidsdokument	barkementjaatsege	bargodokumeanta	4	0	2	0
+arbeidsdokument	barkoentjaatsege	bargodokumeanta	4	0	2	0
+arbeidsdokument	barkemetjaaleldahke	bargodokumeanta	4	0	2	0
+arbeidsdokument	barkementjaaleldahke	bargodokumeanta	4	0	2	0
+arbeidsdokument	barkoentjaaleldahke	bargodokumeanta	4	0	2	0
+arbeidsdokument	barkoelåhkoe	bargodokumeanta	4	0	2	0
+
+arbeidsrapport	barkemereektehts	bargoraporta	0	0	0	0
+arbeidsrapport	barkemenreektehts	bargoraporta	0	0	0	0
+arbeidsrapport	barkoenreektehts	bargoraporta	0	0	0	0
+
+fellesrapport	bartareektehts	oktasašraporta	0	0	0	0
+fellesrapport	bartanreektehts	oktasašraporta	0	0	0	0
+
+arbeidsrett	barkemeriektie	bargoriekti	4	0	0	0
+arbeidsrett	barkemenriektie	bargoriekti	4	0	0	0
+arbeidsrett	barkoenriektie	bargoriekti	4	0	0	0
+arbeidsrett	barkemereaktoe	bargoriekti	4	0	0	0
+arbeidsrett	barkemenreaktoe	bargoriekti	4	0	0	0
+arbeidsrett	barkoenreaktoe	bargoriekti	4	0	0	0
+arbeidsrett	barkemestaeriesvoete	bargoriekti	4	0	0	0
+arbeidsrett	barkemenstaeriesvoete	bargoriekti	4	0	0	0
+arbeidsrett	barkoenstaeriesvoete	bargoriekti	4	0	0	0
+
+matrett	beapmoeriektie	borramušárbevierru	0	0	0	0
+matrett	beapmoenriektie	borramušárbevierru	0	0	0	0
+matrett	beapmoereaktoe	borramušárbevierru	0	0	0	0
+matrett	beapmoenreaktoe	borramušárbevierru	0	0	0	0
+matrett	beapmoestaeriesvoete	borramušárbevierru	0	0	0	0
+matrett	beapmoenstaeriesvoete	borramušárbevierru	0	0	0	0
