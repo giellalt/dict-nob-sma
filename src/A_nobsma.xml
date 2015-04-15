@@ -84,7 +84,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l decl="3" pos="A">neste</l>
+         <l pos="A">neste</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -98,7 +98,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l decl="3" pos="A">følgende</l>
+         <l pos="A">følgende</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -885,7 +885,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l decl="4" pos="A">kommende</l>
+         <l pos="A">kommende</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -3083,7 +3083,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l decl="2" pos="A">lettdrevet</l>
+         <l pos="A">lettdrevet</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -4500,7 +4500,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l decl="1" pos="A">rødbrun</l>
+         <l pos="A">rødbrun</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -5852,7 +5852,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l decl="x" gen="m" pos="A">ukjent</l>
+         <l pos="A">ukjent</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -5862,7 +5862,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l decl="x" gen="m" pos="A">butt</l>
+         <l pos="A">butt</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -5872,7 +5872,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l gen="n" pos="A">salt</l>
+         <l pos="A">salt</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -6117,7 +6117,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l decl="x" pos="A">halv</l>
+         <l pos="A">halv</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -6131,7 +6131,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l decl="x" pos="A">norsk</l>
+         <l pos="A">norsk</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -6141,7 +6141,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l decl="x" pos="A">svensk</l>
+         <l pos="A">svensk</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -6151,7 +6151,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l decl="1" pos="A">lysgrå</l>
+         <l pos="A">lysgrå</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -6161,7 +6161,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l decl="4" pos="A">smeltet</l>
+         <l pos="A">smeltet</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
