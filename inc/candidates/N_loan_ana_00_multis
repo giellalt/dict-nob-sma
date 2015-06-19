@@ -1,0 +1,68 @@
+
+korridor	korridore	feaskkir/váccáhat	6	0	9	0
+korridor	korridovre	feaskkir/váccáhat	6	0	9	0
+
+dekor	dekore	čikŋa	3	0	48	0
+dekor	dekovre	čikŋa	3	0	48	0
+
+humor	humore	leaika/humor	4	0	11	0
+humor	humovre	leaika/humor	4	0	11	0
+
+terror	terrore	terror	9	0	7	0
+terror	terrovre	terror	9	0	7	0
+
+revisor	revisore	ámmátrehketdoallodárkkisteaddji/rehketdoallodárkkisteaddji	70	0	8	0
+revisor	revisovre	ámmátrehketdoallodárkkisteaddji/rehketdoallodárkkisteaddji	70	9	8	0
+
+predator	predatore	predáhtor	2	0	2	0
+predator	predatovre	predáhtor	2	0	2	0
+
+indikator	indikatore	indikáhtor	15	0	4	0
+indikator	indikatovre	indikáhtor	15	1	4	0
+
+kalkulator	kalkulatore	kalkuláhtor/rehketmašiidna	2	0	1	0
+kalkulator	kalkulatovre	kalkuláhtor/rehketmašiidna	2	0	1	0
+
+simulator	simulatore	simulatuvra	1	0	1	0
+simulator	simulatovre	simulatuvra	1	0	1	0
+
+konservator	konservatore	konserváhtor	3	0	5	0
+konservator	konservatovre	konserváhtor	3	2	5	0
+
+risikofaktor	risikofaktore	riskabealli	5	0	1	0
+risikofaktor	risikofaktovre	riskabealli	5	0	1	0
+
+kulturfaktor	kulturfaktore	kulturbealli	3	0	3	0
+kulturfaktor	kulturfaktovre	kulturbealli	3	0	3	0
+
+minimumsfaktor	minimumsfaktore	unnimusmearri	2	0	2	0
+minimumsfaktor	minimumsfaktovre	unnimusmearri	2	0	2	0
+
+sektor	sektore	sektor/suorgi	209	198	111	8
+sektor	sektovre	sektor/suorgi	209	15	111	0
+
+sosialsektor	sosialsektore	sosiálasektor/sosiálasuorgi	15	0	6	0
+sosialsektor	sosialsektovre	sosiálasektor/sosiálasuorgi	15	0	6	0
+
+finanssektor	finanssektore	finánsasuorgi	1	0	0	0
+finanssektor	finanssektovre	finánsasuorgi	1	0	0	0
+
+transportsektor	transportsektore	fievrridansuorgi/fievrrádussuorgi	3	0	1	0
+transportsektor	transportsektovre	fievrridansuorgi/fievrrádussuorgi	3	0	1	0
+
+servicekontor	servicekontore	bálvaluskantuvra/veahkkekantuvra	5	0	3	0
+servicekontor	servicekontovre	bálvaluskantuvra/veahkkekantuvra	5	0	3	0
+
+lokalkontor	lokalkontore	báikkálaškantuvra	3	0	1	0
+lokalkontor	lokalkontovre	báikkálaškantuvra	3	0	1	0
+
+plankontor	plankontore	plánenkantuvra/plánakantuvra	1	0	1	0
+plankontor	plankontovre	plánenkantuvra/plánakantuvra	1	0	1	0
+
+postkontor	postkontore	poastakantuvra/boastakantuvra	3	0	3	0
+postkontor	postkontovre	poastakantuvra/boastakantuvra	3	0	3	0
+
+dieselmotor	dieselmotore	dieselmohtor	1	0	1	0
+dieselmotor	dieselmotovre	dieselmohtor	1	0	1	0
+
+autorisasjonsbevilling	autorisasjovne	autorisašuvdna	1	8	3	0
