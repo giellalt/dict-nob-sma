@@ -1,189 +1,122 @@
-for	N	Neu
-for	N	Neu
-under	N	Neu
-sted	N	Neu
-føre	N	Neu
-føre	N	Neu
-følge	N	Neu
-følge	N	Neu
-eksempel	N	Neu
-slag	N	Neu
-slag	N	Neu
-lag	N	Neu
-lag	N	Neu
-england	N	Neu
-england	N	Neu
-album	N	Neu
-album	N	Neu
-løp	N	Neu
-løp	N	Neu
-forhold	N	Neu
-forhold	N	Neu
-tyskland	N	Neu
-tyskland	N	Neu
-hoved	N	Neu
-hoved	N	Neu
-frankrike	N	Neu
-frankrike	N	Neu
-skip	N	Neu
-skip	N	Neu
-antall	N	Neu
-antall	N	Neu
-styre	N	Neu
-problem	N	Neu
-problem	N	Neu
-lokale	N	Neu
-lokale	N	Neu
-band	N	Neu
-verk	N	Neu
-verk	N	Neu
-for	N	Neu
-for	N	Neu
-le	N	Neu
-le	N	Neu
-led	N	Neu
-led	N	Neu
-skottland	N	Neu
-skottland	N	Neu
-resultat	N	Neu
-resultat	N	Neu
-sto	N	Neu
-sto	N	Neu
-krav	N	Neu
-krav	N	Neu
-angrep	N	Neu
-angrep	N	Neu
-forsøk	N	Neu
-forsøk	N	Neu
-russland	N	Neu
-russland	N	Neu
-begrep	N	Neu
-begrep	N	Neu
-yr	N	Neu
-under	N	Neu
-island	N	Neu
-island	N	Neu
-storting	N	Neu
-parlament	N	Neu
-parlament	N	Neu
-minne	N	Neu
-fall	N	Neu
-fall	N	Neu
-tap	N	Neu
-tap	N	Neu
-irland	N	Neu
-irland	N	Neu
-unntak	N	Neu
-unntak	N	Neu
-finland	N	Neu
-finland	N	Neu
-kraftverk	N	Neu
-kraftverk	N	Neu
-museum	N	Neu
-tidspunkt	N	Neu
-østerrike	N	Neu
-østerrike	N	Neu
-nordland	N	Neu
-nordland	N	Neu
-forsvar	N	Neu
-forsvar	N	Neu
-nederland	N	Neu
-nederland	N	Neu
-oppdrag	N	Neu
-oppdrag	N	Neu
-behov	N	Neu
-behov	N	Neu
-blad	N	Neu
-blad	N	Neu
-formål	N	Neu
-formål	N	Neu
-nivå	N	Neu
-nivå	N	Neu
-funn	N	Neu
-funn	N	Neu
-materiale	N	Neu
-materiale	N	Neu
-landskap	N	Neu
-landskap	N	Neu
-forbund	N	Neu
-forbund	N	Neu
-symbol	N	Neu
-symbol	N	Neu
-marked	N	Neu
-marked	N	Neu
-år	N	Neu
-år	N	Neu
-anlegg	N	Neu
-anlegg	N	Neu
-produkt	N	Neu
-stoff	N	Neu
-stoff	N	Neu
-gir	N	Neu
-gir	N	Neu
-sykehus	N	Neu
-sykehus	N	Neu
-hell	N	Neu
-besøk	N	Neu
-besøk	N	Neu
-hvem	N	Neu
-hvem	N	Neu
-får	N	Neu
-får	N	Neu
-england	N	Neu
-england	N	Neu
-drap	N	Neu
-drap	N	Neu
-sete	N	Neu
-landslag	N	Neu
-landslag	N	Neu
-salg	N	Neu
-salg	N	Neu
-rogaland	N	Neu
-rogaland	N	Neu
-tonn	N	Neu
-tonn	N	Neu
-akershus	N	Neu
-akershus	N	Neu
-maleri	N	Neu
-trekk	N	Neu
-trekk	N	Neu
-henhold	N	Neu
-henhold	N	Neu
-sekund	N	Neu
-band	N	Neu
-styr	N	Neu
-styr	N	Neu
-hordaland	N	Neu
-hordaland	N	Neu
-yrke	N	Neu
-yrke	N	Neu
-nederlag	N	Neu
-nederlag	N	Neu
-fartøy	N	Neu
-kontor	N	Neu
-kontor	N	Neu
-bevis	N	Neu
-bevis	N	Neu
-utland	N	Neu
-utland	N	Neu
-tiår	N	Neu
-tiår	N	Neu
-tilsvar	N	Neu
-tilsvar	N	Neu
-land	N	Neu
-land	N	Neu
-tilsvar	N	Neu
-mesterskap	N	Neu
-mesterskap	N	Neu
-fyr	N	Neu
-fyr	N	Neu
-bidrag	N	Neu
-bidrag	N	Neu
-mannskap	N	Neu
-mannskap	N	Neu
-bibliotek	N	Neu
-lager	N	Neu
-fastland	N	Neu
-fastland	N	Neu
-utvalg	N	Neu
-utvalg	N	Neu
+england
+england
+album
+album
+løp
+løp
+forhold
+forhold
+tyskland
+tyskland
+hoved
+hoved
+frankrike
+frankrike
+lokale
+lokale
+verk
+verk
+led
+led
+skottland
+skottland
+resultat
+resultat
+sto
+sto
+krav
+krav
+angrep
+angrep
+forsøk
+forsøk
+russland
+russland
+begrep
+begrep
+island
+island
+parlament
+parlament
+fall
+fall
+tap
+tap
+irland
+irland
+unntak
+unntak
+finland
+finland
+kraftverk
+kraftverk
+museum
+østerrike
+østerrike
+forsvar
+forsvar
+nederland
+nederland
+oppdrag
+oppdrag
+formål
+formål
+funn
+funn
+materiale
+materiale
+forbund
+forbund
+symbol
+symbol
+anlegg
+anlegg
+gir
+gir
+besøk
+besøk
+england
+england
+sete
+landslag
+landslag
+salg
+salg
+rogaland
+rogaland
+tonn
+tonn
+akershus
+akershus
+henhold
+henhold
+sekund
+styr
+styr
+hordaland
+hordaland
+yrke
+yrke
+nederlag
+nederlag
+fartøy
+bevis
+bevis
+utland
+utland
+tiår
+tiår
+tilsvar
+tilsvar
+tilsvar
+mesterskap
+mesterskap
+fyr
+fyr
+bidrag
+bidrag
+mannskap
+mannskap
+lager
+fastland
+fastland
