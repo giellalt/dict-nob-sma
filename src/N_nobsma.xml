@@ -2285,10 +2285,13 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" soggi="e" stem="2syll">aate</t>
+            <t pos="N" soggi="e" stem="2syll" re="konkret">aate</t>
+         </tg>
+         <tg xml:lang="sma">
+            <t pos="N" soggi="e" stem="2syll" re="abstrakt">aamhtese</t>
             <xg>
-               <x>vanskelig tema</x>
-               <xt>geerve aate</xt>
+               <x>Vi har ei sak på sakslista.</x>
+               <xt>Mijjen lea aamhtese aamhteselæstoesne.</xt>
             </xg>
          </tg>
       </mg>
