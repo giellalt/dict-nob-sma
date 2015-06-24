@@ -1,4 +1,4 @@
-# mostly bad
+# mostly bad, ==> ferdig.
 urfolkstema	aalkoeåålmegeaamhtese	eamiálbmotfáddá	1	0	1	0
 +urfolkstema	aalkoealmetjeaamhtese	eamiálbmotfáddá	1	0	1	0
 urfolkstema	aalkoealmetjenaamhtese	eamiálbmotfáddá	1	0	1	0
@@ -19,7 +19,7 @@ doktorgrad	dåakteregraade	doavttergráda	33	0	24	0
 doktorgrad	dåakteretsiehkie	doavttergráda	33	0	24	0
 doktorgrad	dåakteremierie	doavttergráda	33	0	24	0
 
-feriemåned	eejehtallemeaske	luopmománnu	1	0	1	0
++feriemåned	eejehteaske	luopmománnu	1	0	1	0
 feriemåned	eejehtallememaanoe	luopmománnu	1	0	1	0
 
 +nettsted	nehtesæjroe	interneahttasadji	40	24	1	9
@@ -611,22 +611,22 @@ fettfordeling	buejtiejoekedimmie	buoidejuohku	1	0	0	0
 fettfordeling	båerviejoekedimmie	buoidejuohku	1	0	0	0
 
 barnehageavdeling	maanagaertiegoevtese	mánáidgárdeossodat	3	0	3	0
-?barnehageavdeling	maanagiertiegoevtese	mánáidgárdeossodat	3	0	3	0
++barnehageavdeling	maanagiertiegoevtese	mánáidgárdeossodat	3	0	3	0
 barnehageavdeling	maanajgiertiegoevtese	mánáidgárdeossodat	3	0	3	0
 barnehageavdeling	maanajgïertegoevtese	mánáidgárdeossodat	3	0	3	0
 
-politiavdeling	politijegoevtese	politiijaossodat	2	0	1	0
++politiavdeling	politijegoevtese	politiijaossodat	2	0	1	0
 politiavdeling	polijsegoevtese	politiijaossodat	2	0	1	0
 
-tilleggsavdeling	lissiegoevtese	liigeossodat	1	0	1	0
++tilleggsavdeling	lissiegoevtese	liigeossodat	1	0	1	0
 tilleggsavdeling	duedtiegoevtese	liigeossodat	1	0	1	0
 
 rettsavdeling	riektiegoevtese	riekteossodat	2	0	1	0
-rettsavdeling	reaktoegoevtese	riekteossodat	2	0	1	0
++rettsavdeling	reaktoegoevtese	riekteossodat	2	0	1	0
 rettsavdeling	staeriesvoetegoevtese	riekteossodat	2	0	1	0
 
-kompetanseutvikling	maahtoeevtiedimmie	gealboovddideapmi/gealboovdáneapmi/gelbbolašvuođaovddideapmi/gelbbolašvuođaovdáneapmi	50	2	2	3
-kompetanseutvikling	maahtoeövtiedimmie	gealboovddideapmi/gealboovdáneapmi/gelbbolašvuođaovddideapmi/gelbbolašvuođaovdáneapmi	50	3	2	0
++kompetanseutvikling	maahtoeevtiedimmie	gealboovddideapmi/gealboovdáneapmi/gelbbolašvuođaovddideapmi/gelbbolašvuođaovdáneapmi	50	2	2	3
++kompetanseutvikling	maahtoeövtiedimmie	gealboovddideapmi/gealboovdáneapmi/gelbbolašvuođaovddideapmi/gelbbolašvuođaovdáneapmi	50	3	2	0
 
 +urfolksutvikling	aalkoeåålmegeevtiedimmie	eamiálbmotovdáneapmi	1	0	1	0
 urfolksutvikling	aalkoealmetjeevtiedimmie	eamiálbmotovdáneapmi	1	0	1	0
@@ -754,7 +754,7 @@ urfolkspolitikk	aalkoealmetjepolitihke	eamiálbmotpolitihkka/álgoálbmotpolitih
 urfolkspolitikk	aalkoealmetjenpolitihke	eamiálbmotpolitihkka/álgoálbmotpolitihkka	16	0	5	0
 
 miljøpolitikk	byjreskepolitihke	birasgáhttenpolitihkka/biraspolitihkka	12	3	4	1
-miljøpolitikk	byjresepolitihke	birasgáhttenpolitihkka/biraspolitihkka	12	1	4	1
++miljøpolitikk	byjresepolitihke	birasgáhttenpolitihkka/biraspolitihkka	12	1	4	1
 
 simleflokk	gïehkedåehkie	njiŋŋelaslohku	1	0	1	0
 simleflokk	aaltoedåehkie	njiŋŋelaslohku	1	0	1	0
@@ -900,7 +900,7 @@ urfolksungdom	aalkoealmetjenfijrie	álgoálbmotnuorra/eamiálbmotnuorra	8	0	2	0
 karsykdom	kaarrefiejlie	varrasuotnavihki	6	0	2	0
 karsykdom	lihtieskïemtjelasse	varrasuotnavihki	6	0	2	0
 
-koftearm	gaptagïete	gáktesoadjá	1	0	1	0
++koftearm	gaptasissie	gáktesoadjá	1	0	1	0
 koftearm	gaeptiegïete	gáktesoadjá	1	0	1	0
 koftearm	gåptoegïete	gáktesoadjá	1	0	1	0
 
@@ -925,7 +925,7 @@ urfolksorgan	aalkoealmetjeorgaane	álgoálbmotorgána	1	0	1	0
 urfolksorgan	aalkoealmetjenorgaane	álgoálbmotorgána	1	0	1	0
 
 timeplan	tæjmoesoejkesje	diibmoplána	5	0	7	2
-timeplan	tæjmoeplaane	diibmoplána	5	0	7	1
++timeplan	tæjmoeplaane	diibmoplána	5	0	7	1
 
 fylkesplan	fylhkesoejkesje	fylkkaplána	41	0	15	1
 fylkesplan	fylhkensoejkesje	fylkkaplána	41	2	15	0
@@ -982,7 +982,7 @@ kvalifikasjon	kvalifikasjovne	kvalifikašuvdna	26	1	2	0
 feilinformasjon	fiejliesaerniestimmie	boasttudiehtu	1	0	2	0
 feilinformasjon	fiejliebïevnese	boasttudiehtu	1	0	2	0
 
-kulturnasjon	kultuvrenasjovne	kulturnašuvdna	1	0	1	0
++kulturnasjon	kultuvrenasjovne	kulturnašuvdna	1	0	1	0
 kulturnasjon	kulturnasjovne	kulturnašuvdna	1	0	1	0
 
 domstoladministrasjon	riektiereereme	duopmostuollohálddahus	3	0	4	0
@@ -1003,15 +1003,15 @@ urfolkskonsultasjon	aalkoealmetjekonsultasjovne	eamiálbmotkonsultašuvdna	0	0	0
 urfolkskonsultasjon	aalkoealmetjenkonsultasjovne	eamiálbmotkonsultašuvdna	0	0	0	0
 
 dokumentasjon	vihtiestimmie	duođašteapmi	217	46	37	5
-dokumentasjon	dokumentasjovne	dokumentašuvdna	217	5	11	1
++dokumentasjon	dokumentasjovne	dokumentašuvdna	217	5	11	1
 
 bensinstasjon	bensijnestasjovne	bensinstašuvdna	1	0	3	0
 bensinstasjon	bensinstasjovne	bensinstašuvdna	1	0	3	0
 
-urfolkstradisjon	aalkoeåålmegevuekie	eamiálbmotárbevierru	1	0	1	0
++urfolkstradisjon	aalkoeåålmegevuekie	eamiálbmotárbevierru	1	0	1	0
 urfolkstradisjon	aalkoealmetjevuekie	eamiálbmotárbevierru	1	0	1	0
 urfolkstradisjon	aalkoealmetjenvuekie	eamiálbmotárbevierru	1	0	1	0
-urfolkstradisjon	aalkoeåålmegetradisjovne	eamiálbmotárbevierru	1	0	1	0
++urfolkstradisjon	aalkoeåålmegetradisjovne	eamiálbmotárbevierru	1	0	1	0
 urfolkstradisjon	aalkoealmetjetradisjovne	eamiálbmotárbevierru	1	0	1	0
 urfolkstradisjon	aalkoealmetjentradisjovne	eamiálbmotárbevierru	1	0	1	0
 
@@ -1021,7 +1021,7 @@ definisjon	definisjovne	definišuvdna	44	3	15	0
 disposisjon	såavlaposisjovne	disposišuvdna/háldogeavaheapmi	102	0	1	0
 disposisjon	disposisjovne	disposišuvdna	102	34	2	0
 
-urfolksposisjon	aalkoeåålmegeposisjovne	álgoálbmotposišuvdna	1	0	1	0
++urfolksposisjon	aalkoeåålmegeposisjovne	álgoálbmotposišuvdna	1	0	1	0
 urfolksposisjon	aalkoealmetjeposisjovne	álgoálbmotposišuvdna	1	0	1	0
 urfolksposisjon	aalkoealmetjenposisjovne	álgoálbmotposišuvdna	1	0	1	0
 
@@ -1130,9 +1130,9 @@ skoleleder	skåvloeåejvie	skuvlajođiheaddji	7	1	7	0
 
 avdelingsleder	goevteseåejviehearra	ossodathoavda/ossodatjođiheaddji	11	0	13	0
 avdelingsleder	goevteseslærra	ossodathoavda/ossodatjođiheaddji	11	0	13	0
-avdelingsleder	goevteseåejvie	ossodathoavda/ossodatjođiheaddji	11	2	13	0
++avdelingsleder	goevteseåejvie	ossodathoavda/ossodatjođiheaddji	11	2	13	0
 avdelingsleder	goevteseåajvaladtje	ossodathoavda/ossodatjođiheaddji	11	0	13	0
-avdelingsleder	goevteseåvtehke	ossodathoavda/ossodatjođiheaddji	11	2	13	6
++avdelingsleder	goevteseåvtehke	ossodathoavda/ossodatjođiheaddji	11	2	13	6
 
 urfolksleder	aalkoeåålmegeåejviehearra	álgoálbmotjođiheaddji	3	0	1	0
 urfolksleder	aalkoealmetjeåejviehearra	álgoálbmotjođiheaddji	3	0	1	0
@@ -1238,14 +1238,14 @@ aldersstruktur	aalteretseegkeme	ahkestruktuvra/ahkehámádat	2	0	1	0
 aldersstruktur	aalterentseegkeme	ahkestruktuvra/ahkehámádat	2	0	1	0
 
 bondekultur	råvnakultuvre	boandakultuvra	1	0	1	0
-bondekultur	båantakultuvre	boandakultuvra	1	0	1	0
++bondekultur	båantakultuvre	boandakultuvra	1	0	1	0
 bondekultur	daatjekultuvre	boandakultuvra	1	0	1	0
 
 +urfolkskultur	aalkoeåålmegekultuvre	álgoálbmotkultuvra/eamiálbmotkultuvra	10	0	3	0
 urfolkskultur	aalkoealmetjekultuvre	álgoálbmotkultuvra/eamiálbmotkultuvra	10	0	3	2
 urfolkskultur	aalkoealmetjenkultuvre	álgoálbmotkultuvra/eamiálbmotkultuvra	10	0	3	0
 
-beitedyr	gåatomekreeke	biebmoealli	16	0	4	0
++beitedyr	gåatomekreeke	biebmoealli	16	0	4	0
 beitedyr	gåatomevijre	biebmoealli	16	0	4	0
 beitedyr	gåatomedyjre	biebmoealli	16	0	4	0
 
@@ -1384,7 +1384,7 @@ luftfart	elmiedrïekte	áibmojohtolat	8	0	2	0
 emnekart	suerkiebaetjkere	fáddákárta	1	0	1	0
 emnekart	aamhtesebaetjkere	fáddákárta	1	0	1	0
 emnekart	aamhtesenbaetjkere	fáddákárta	1	0	1	0
-emnekart	aamhtesekaarhte	fáddákárta	1	0	1	0
++emnekart	aamhtesekaarhte	fáddákárta	1	0	1	0
 emnekart	aamhtesenkaarhte	fáddákárta	1	0	1	0
 
 legeattest	dåakterevïhnesjimmie	doavttirduođaštus	1	0	1	0
