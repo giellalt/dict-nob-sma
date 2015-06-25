@@ -1,49 +1,49 @@
-
+# most is bad, + på gode oversettelser
 trafikk	trafihke	johtolat/johtalus	45	20	130	0
 
 persontrafikk	persontrafihke	olmmošjohtolat/olmmošfievrrideapmi	2	0	1	0
 
 kollektivtrafikk	kollektivtrafihke	oktasašjohtolat/kollektiivajohtolat/oktasašjohtalus/oktasaštrafihkka	7	1	1	0
 
-spesialpedagogikk	spesialpedagogihke	erenoamášpedagogihkka	21	1	5	0
++spesialpedagogikk	sjierepedagogihke	erenoamášpedagogihkka	21	1	5	0
 
-skikk	skihke	vierru	13	0	83	0
++skikk	vuekie	vierru	13	0	83	0
 
 keramikk	keramihke	bálseduodji	2	0	1	0
 
-universitetsklinikk	universitetsklinihke	universitehtaklinihkka	2	0	1	0
++universitetsklinikk	universitetenklinihke	universitehtaklinihkka	2	0	1	0
 
-mediepolitikk	mediepolitihke	mediapolitihkka	4	0	6	0
++mediepolitikk	meedijepolitihke	mediapolitihkka	4	0	6	0
 
-konkurransepolitikk	konkurransepolitihke	gilvopolitihkka	5	0	1	0
++konkurransepolitikk	gaahtjemeepolitihke	gilvopolitihkka	5	0	1	0
 
-energipolitikk	energipolitihke	energiijapolitihkka	5	0	2	0
++energipolitikk	energijepolitihke	energiijapolitihkka	5	0	2	0
 
-industripolitikk	industripolitihke	industriijapolitihkka	1	0	1	0
++industripolitikk	industrijepolitihke	industriijapolitihkka	1	0	1	0
 
-sosialpolitikk	sosialpolitihke	sosiálapolitihkka	18	0	7	0
++sosialpolitikk	sosijaalepolitihke	sosiálapolitihkka	18	0	7	0
 
-regionalpolitikk	regionalpolitihke	regionálapolitihkka/guovlopolitihkka	24	0	4	0
++regionalpolitikk	regijovnepolitihke	regionálapolitihkka/guovlopolitihkka	24	0	4	0
 
-personalpolitikk	personalpolitihke	bargoveahkapolitihkka/bargiidpolitihkka	9	0	4	0
++personalpolitikk	barkijepolitihke	bargoveahkapolitihkka/bargiidpolitihkka	9	0	4	0
 
-gymnastikk	gymnastihke	lášmmohallat/lášmmohallan	5	4	20	0
++gymnastikk	vïtnedimmie	lášmmohallat/lášmmohallan	5	4	20	0
 
-datalingvistikk	datalingvistihke	dihtorlingvistihkka	1	0	1	0
++datalingvistikk	daatalingvistihke	dihtorlingvistihkka	1	0	1	0
 
-butikk	butihke	gávpi/rámbuvra/buvda/rámbuvri	16	0	59	0
++butikk	bovre	gávpi/rámbuvra/buvda/rámbuvri	16	0	59	0
 
-areal	areaale	viidodat/areála/eananviidodat/guovlu	325	382	563	18
++areal	areale	viidodat/areála/eananviidodat/guovlu	325	382	563	18
 
-linjal	linjaale	linjála	1	1	1	0
++linjal	linjaale	linjála	1	1	1	0
 
-signal	signaale	mearka/signála	26	17	131	3
++signal	signaale	mearka/signála	26	17	131	3
 
-terminal	terminaale	terminála	3	0	3	0
++terminal	terminaale	terminála	3	0	3	0
 
-mineral	mineraale	minerála	126	152	125	9
++mineral	mineraale	minerála	126	152	125	9
 
-moral	moraale	morála	4	3	16	1
++moral	moraale	morála	4	3	16	1
 
 sentral	sentraale	guovddáš	621	6	933	1
 
@@ -51,27 +51,27 @@ kvartal	kvartaale	njealjádasjahki/kvartála/jahkenjealjádas	23	1	2	1
 
 portal	portaale	uvssot/uskkádat	12	0	2	0
 
-manual	manuaale	manuála	1	1	1	0
++manual	manuaale	manuála	1	1	1	0
 
-ritual	rituaale	rituála	1	0	7	0
++ritual	rituaale	rituála	1	0	7	0
 
-festival	festivaale	riemut/festivála	136	35	198	18
++festival	festivaale	riemut/festivála	136	35	198	18
 
 rekreasjon	rekreasjovne	lustadoaibma/vuoiŋŋasteapmi/virkkosmahttin	14	2	5	0
 
-ratifikasjon	ratifikasjovne	vuolláičállin	14	8	8	0
++ratifikasjon	ratifikasjovne	vuolláičállin	14	8	8	0
 
 isolasjon	isolasjovne	sierravuohta/skoađas/sirren	4	1	6	1
 
 kalkulasjon	kalkulasjovne	luoitu	1	0	3	0
 
-gratulasjon	gratulasjovne	lihkusávaldat	2	0	6	0
++gratulasjon	lahkoedimmie	lihkusávaldat	2	0	6	0
 
-informasjon	informasjovne	diehtu	762	1	1508	0
++informasjon	bïevnese	diehtu	762	1	1508	0
 
 separasjon	separasjovne	sierraneapmi	4	0	1	0
 
-generasjon	generasjovne	geardi/sohkabuolva/buolva	136	0	151	0
++generasjon	boelve	geardi/sohkabuolva/buolva	136	0	151	0
 
 dekorasjon	dekorasjovne	čiŋaheapmi/herven	1	0	8	0
 
@@ -79,13 +79,13 @@ sentraladministrasjon	sentraladministrasjovne	guovddášhálddahus	10	0	8	0
 
 frustrasjon	frustrasjovne	fuolastupmi	6	0	1	0
 
-partiorganisasjon	partiorganisasjovne	bellodatorganisašuvdna	2	0	1	0
++partiorganisasjon	partijeorganisasjovne	bellodatorganisašuvdna	2	0	1	0
 
 kompensasjon	kompensasjovne	buhtadus	49	19	158	2
 
-vegetasjon	vegetasjovne	šaddogeardi	50	1	1	0
++vegetasjon	vegetasjovne	šaddogeardi	50	1	1	0
 
-invitasjon	invitasjovne	bovdehus/bovdejupmi	21	0	11	0
++invitasjon	bööreme	bovdehus/bovdejupmi	21	0	11	0
 
 argumentasjon	argumentasjovne	ákkastallan/ákkasteapmi	15	0	22	0
 
@@ -95,41 +95,41 @@ prestasjon	prestasjovne	olahus	1	3	42	1
 
 attestasjon	attestasjovne	attesteren	1	0	1	0
 
-radiostasjon	radiostasjovne	rádiostašuvdna	1	0	2	0
++radiostasjon	radiostasjovne	rádiostašuvdna	1	0	2	0
 
-situasjon	situasjovne	dilálašvuohta/dilli	415	3	723	2
++situasjon	situasjovne/ tsiehkie	dilálašvuohta/dilli	415	3	723	2
 
 observasjon	observasjovne	dárkun/áican	12	0	7	0
 
 reservasjon	reservasjovne	várašupmi	7	0	4	0
 
-aggresjon	aggresjovne	suhttu	1	0	16	0
++aggresjon	aggresjovne/måerie	suhttu	1	0	16	0
 
-kulturtradisjon	kulturtradisjovne	kulturvierru/kulturárbevierru	6	0	2	0
++kulturtradisjon	kultuvretradisjovne	kulturvierru/kulturárbevierru	6	0	2	0
 
-kondisjon	kondisjovne	vuoibmi	13	5	30	0
++kondisjon	kondisjovne/ gaarsje	vuoibmi	13	5	30	0
 
-koalisjon	koalisjovne	ovttastupmi	1	0	12	0
++koalisjon	koalisjovne	ovttastupmi	1	0	12	0
 
 repetisjon	repetisjovne	geardduheapmi	1	0	9	0
 
-transaksjon	transaksjovne	reaidaruhtageavaheapmi	3	2	0	0
++transaksjon	transaksjovne	reaidaruhtageavaheapmi	3	2	0	0
 
-restriksjon	restriksjovne	buvttaduscaggi/gáržžideapmi/gáržžidus	8	0	7	0
++restriksjon	restriksjovne	buvttaduscaggi/gáržžideapmi/gáržžidus	8	0	7	0
 
-sanksjon	sanksjovne	ráŋggáštus	19	2	38	0
++sanksjon	sanksjovne	ráŋggáštus	19	2	38	0
 
 reduksjon	reduksjovne	geahpideapmi/unnideapmi/geahpádus/vuolideapmi/geahpedeapmi/uhcideapmi	155	0	9	0
 
-instruksjon	instruksjovne	bagadeapmi	13	2	16	0
++instruksjon	instruksjovne/bihkedasse	bagadeapmi	13	2	16	0
 
 ekspansjon	ekspansjovne	viidáneapmi	9	0	4	0
 
-intensjon	intensjovne	álgoáigumuš/áigumuš	68	7	101	0
++intensjon	intensjovne	álgoáigumuš/áigumuš	68	7	101	0
 
 rammekonvensjon	rammekonvensjovne	rámmakonvenšuvdna/rápmakonvenšuvdna	10	1	3	0
 
-betaversjon	betaversjovne	geahččalanveršuvdna	2	4	1	1
++betaversjon	betaversjovne	geahččalanveršuvdna	2	4	1	1
 
 proporsjon	proporsjovne	gorri	1	0	18	0
 
@@ -137,17 +137,17 @@ ekskursjon	ekskursjovne	vánddardeapmi/olgomátki	5	0	84	0
 
 fusjon	fusjovne	ovttastupmi	6	0	12	0
 
-diskusjon	diskusjovne	digaštallan	64	0	125	0
++diskusjon	digkiedimmie	digaštallan	64	0	125	0
 
-sosialinstitusjon	sosialinstitusjovne	sosiálaásahus	8	0	4	0
++sosialinstitusjon	sosialeinstitusjovne	sosiálaásahus	8	0	4	0
 
 kolon	kolovne	duppalčuokkis	1	0	3	0
 
-bibliotekar	bibliotekaare	girjerájusbargi/girjerádjobargi	3	0	1	0
++bibliotekar	gærjagåetiebarkije	girjerájusbargi/girjerádjobargi	3	0	1	0
 
-eksemplar	eksemplaare	gáhppálat	16	0	8	0
++eksemplar	eksemplaare	gáhppálat	16	0	8	0
 
-honorar	honoraare	bálká/honorára	21	10	90	3
++honorar	honoraare	bálká/honorára	21	10	90	3
 
 januar	januaare	ođđajagemánnu	264	3	127	1
 
@@ -157,11 +157,11 @@ junior	juniovre	nuorahaš	3	0	1	0
 
 mor	movre	eadneolmmoš/eadni	103	2	197	0
 
-traktor	traktore	tráktor	9	21	18	1
++traktor	traktovre	tráktor	9	21	18	1
 
-kontor	kontore	kantuvra	144	0	118	0
++kontor	kontovre	kantuvra	144	0	118	0
 
-motor	motore	mutuvra/mohtor	63	0	65	0
++motor	motovre	mutuvra/mohtor	63	0	65	0
 
 natur	natuvre	luondu	501	2	866	0
 
@@ -171,9 +171,9 @@ trafikkultur	trafikkultuvre	johtolatkultuvra	1	0	1	0
 
 skulptur	skulptuvre	bázzi	3	1	7	1
 
-sekretær	sekretæære	čálli	59	0	516	0
++sekretær	tjaelije	čálli	59	0	516	0
 
-ingeniør	ingeniööre	inšenevra	4	0	6	0
+ingeniørnatur	ingeniööre	inšenevra	4	0	6	0
 
 eksteriør	eksteriööre	olgogovva	1	0	1	0
 
@@ -191,31 +191,31 @@ skulptør	skulptööre	bázzedahkki	1	0	1	0
 
 rapportør	rapportööre	dieđiheaddji	1	0	8	0
 
-majestet	majesteete	majesteahtta	7	5	0	1
++majestet	majesteete	majesteahtta	7	5	0	1
 
-variant	variaante	variánta	10	0	14	0
++variant	variaante	variánta	10	0	14	0
 
-predikant	predikaante	sárdnideaddji/sárdneolmmái	2	0	6	0
++predikant	ööhpehtæjja/ lohkije	sárdnideaddji/sárdneolmmái	2	0	6	0
 
 svovelpredikant	svovelpredikaante	riššasárdneolmmái	1	0	1	0
 
 musikant	musikaante	gilimusihkkár	1	0	1	0
 
-konfirmant	konfirmaante	konfirmánta	4	0	20	0
++konfirmant	skyllije-maana	konfirmánta	4	0	20	0
 
 restaurant	restauraante	borranbáiki/restoráŋŋa	18	2	12	0
 
-representant	representaante	ovddasteaddji/áirras	815	2	314	0
++representant	representaante/saadthalmetje	ovddasteaddji/áirras	815	2	314	0
 
 vararepresentant	vararepresentaante	várrelahttu/sadjásašáirras/várreáirras/várreolmmoš	170	0	34	0
 
 studentrepresentant	studentrepresentaante	studeantalahttu/studeantaovddasteaddji	1	0	1	0
 
-debattant	debattaante	digaštalli	1	0	2	0
++debattant	digkiedæjja	digaštalli	1	0	2	0
 
 visepresident	visepresideente	várrepresideanta/sadjásašpresideanta	111	0	57	0
 
-medikament	medikameente	dálkkas	3	0	54	0
++medikament	medikameente	dálkkas	3	0	54	0
 
 arrangement	arrangemeente	doallu/doalut	64	1	425	0
 
@@ -223,15 +223,15 @@ kulturarrangement	kulturarrangemeente	kulturdoallu/kulturdoalut	10	0	11	0
 
 engasjement	engasjemeente	beroštupmi/áŋgiruššan	122	2	279	0
 
-økonomireglement	økonomireglemeente	ekonomiijanjuolggadus	8	0	5	0
++økonomireglement	ekonomijenjoelkedasse	ekonomiijanjuolggadus	8	0	5	0
 
 supplement	supplemeente	deavdda	20	0	6	0
 
 resonnement	resonnemeente	loahppajurdda	3	0	8	0
 
-energidepartement	energidepartemeente	energiijadepartemeanta	19	0	12	0
++energidepartement	energijedepartemeente	energiijadepartemeanta	19	0	12	0
 
-sosialdepartement	sosialdepartemeente	Sosiáladepartemeanta	8	0	1	0
++sosialdepartement	sosijaaledepartemeente	Sosiáladepartemeanta	8	0	1	0
 
 regionaldepartement	regionaldepartemeente	guovlodepartemeanta	80	18	24	4
 
@@ -241,16 +241,16 @@ argument	argumeente	ágga	24	30	156	0
 
 naturdokument	naturdokumeente	luonddudokumeanta	0	0	1	0
 
-budsjettdokument	budsjettdokumeente	bušeahttadokumeanta	7	0	2	0
++budsjettdokument	budsjehtedokumeente/budsjehte	bušeahttadokumeanta	7	0	2	0
 
 monument	monumeente	bázzi	1	1	7	0
 
-volumprosent	volumproseente	volumaproseanta	3	0	1	0
++volumprosent	volumproseente	volumaproseanta	3	0	1	0
 
 interessent	interesseente	berošteaddji	6	0	32	0
 
 konvolutt	konvoluhte	konfaluhtta/konvoluhtta/reivegovččas	4	1	1	0
 
-passiv	passijve	passiiva	8	18	66	3
++passiv	passijve	passiiva	8	18	66	3
 
-orden	skihke	skihkka	81	0	5	0
++orden	öörnege	skihkka	81	0	5	0
