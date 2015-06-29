@@ -1,5 +1,5 @@
 # Most of this is bad
-saksliste	aatelæstoe	áššelistu	92	0	39	0
+saksliste	aamhteselæstoe	áššelistu	92	0	39	0
 
 +banksjef	baanghkeåvtehke	báŋkohoavda	1	0	4	0
 
@@ -43,7 +43,7 @@ tidsbilde	baaletjenguvvie	áigegovva	1	0	1	0
 saksområde	aatelaante	áššesuorgi/ášševiidodat	26	0	8	0
 saksområde	aatenlaante	áššesuorgi/ášševiidodat	26	0	8	0
 saksområde	aatedajve	áššesuorgi/ášševiidodat	26	0	8	0
-saksområde	aatendajve	áššesuorgi/ášševiidodat	26	0	8	0
+saksområde	aamhtesesuerkie	áššesuorgi/ášševiidodat	26	0	8	0
 
 +tannlege	baeniedåaktere	bátnedoavttir	15	0	20	0
 tannlege	baeniendavvoje	bátnedoavttir	15	0	20	0
@@ -105,7 +105,7 @@ farskap	aehtjieskåape	áhččivuohta	3	0	2	0
 +personnummer	almetjenummere	personnummár/heagganummir/riegádannummar	4	0	1	0
 personnummer	almetjennummere	personnummár/heagganummir/riegádannummar	4	0	1	0
 
-saksnummer	aatenummere	áššenummir/áššenummar	2	0	1	0
++saksnummer	aamhtesenummere	áššenummir/áššenummar	2	0	1	0
 saksnummer	aatennummere	áššenummir/áššenummar	2	0	1	0
 
 fødselsnummer	baersieldimmienummere	riegádannummir/riegádusnummar/riegádannummár	7	0	1	0
@@ -154,20 +154,20 @@ sideprosjekt	baahkoenprosjeekte	oalgeprošeakta	1	0	1	0
 kartprodukt	baetjkerendorjese	kártabuvtta	1	0	0	0
 
 saksdokument	aatetjaatsege	áššedokumeanta/áššebábir	6	0	22	0
-saksdokument	aatentjaatsege	áššedokumeanta/áššebábir	6	0	22	0
++saksdokument	aamhtesetjaatsege	áššedokumeanta/áššebábir	6	0	22	0
 +saksdokument	aamhtesetjaaleldahke	áššedokumeanta/áššebábir	6	0	22	0
 saksdokument	aatentjaaleldahke	áššedokumeanta/áššebábir	6	0	22	0
 saksdokument	aatelåhkoe	áššedokumeanta/áššebábir	6	0	22	0
 
 menneskerett	almetjeriektie	vuođđoolmmošvuoigatvuohta	22	0	1	0
 menneskerett	almetjenriektie	vuođđoolmmošvuoigatvuohta	22	0	1	0
-+menneskerett	almetjereaktoe	vuođđoolmmošvuoigatvuohta	22	0	1	0
++menneskerett	almetjereakta	vuođđoolmmošvuoigatvuohta	22	0	1	0
 menneskerett	almetjenreaktoe	vuođđoolmmošvuoigatvuohta	22	0	1	0
 menneskerett	almetjestaeriesvoete	vuođđoolmmošvuoigatvuohta	22	0	1	0
 menneskerett	almetjenstaeriesvoete	vuođđoolmmošvuoigatvuohta	22	0	1	0
 
 urgrav	aavroengroepte	eamihávdi/dološhávdi	4	0	1	0
-+urgrav	aavroekroepte	eamihávdi/dološhávdi	4	0	1	0
+urgrav	aavroekroepte	eamihávdi/dološhávdi	4	0	1	0
 urgrav	aavroenkroepte	eamihávdi/dološhávdi	4	0	1	0
 
 +tidsperspektiv	aejkieperspektijve	áigeperspektiiva/áigegeahčasteapmi	12	0	1	0
