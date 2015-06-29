@@ -27,7 +27,7 @@ keramikk	keramihke	bálseduodji	2	0	1	0
 
 +personalpolitikk	barkijepolitihke	bargoveahkapolitihkka/bargiidpolitihkka	9	0	4	0
 
-+gymnastikk	vïtnedimmie	lášmmohallat/lášmmohallan	5	4	20	0
++gymnastikk	vïtnedimmie/ saavredimmie	lášmmohallat/lášmmohallan	5	4	20	0
 
 +datalingvistikk	daatalingvistihke	dihtorlingvistihkka	1	0	1	0
 
@@ -35,7 +35,7 @@ keramikk	keramihke	bálseduodji	2	0	1	0
 
 +areal	areale	viidodat/areála/eananviidodat/guovlu	325	382	563	18
 
-+linjal	linjaale	linjála	1	1	1	0
++linjal	linjaale/sïevestahke	linjála	1	1	1	0
 
 +signal	signaale	mearka/signála	26	17	131	3
 
@@ -235,7 +235,7 @@ resonnement	resonnemeente	loahppajurdda	3	0	8	0
 
 regionaldepartement	regionaldepartemeente	guovlodepartemeanta	80	18	24	4
 
-finansdepartement	finansdepartemeente	finánsadepartemeanta/Ruhtadandepartemeanta	41	0	6	0
++finansdepartement	finansdepartemeente	finánsadepartemeanta/Ruhtadandepartemeanta	41	0	6	0
 
 +argument	argumeente	ágga	24	30	156	0
 
