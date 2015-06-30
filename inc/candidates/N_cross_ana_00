@@ -3,7 +3,7 @@ skjema	skjeema	skovvi	87	1	51	0
 
 søknadsskjema	ohtsemegoere	ohcanskovvi	64	23	37	16
 
-prosa	provsa	prosa	2	2	3	0
++prosa	provsa	prosa	2	2	3	0
 
 sakprosa	aamhteseprovsa	áššeprosa	9	15	3	10
 
@@ -23,13 +23,13 @@ nettside	nehtesæjroe	neahttasiidu	65	32	77	15
 
 anklage	klååkeme	váidda	2	52	77	2
 
-reindriftsfamilie	båatsoeburriefuelhkie	boazodoallobearaš	15	0	5	0
++reindriftsfamilie	båatsoeburriefuelhkie	boazodoallobearaš	15	0	5	0
 
 potensiale	potensiaale	potensiála	49	0	15	0
 
 rolle	råålla	sadji/rolla	439	73	466	54
 
-grendeskole	gaerteneskuvle	giliskuvla	9	1	11	2
++grendeskole	voeneskuvle	giliskuvla	9	1	11	2
 
 +barneskole	maanajskuvle	mánáidskuvla	26	15	47	6
 
@@ -39,13 +39,13 @@ jordbruksskole	laanteburrieskuvle	eanandoalloskuvla	1	10	1	0
 
 hagebruksskole	haakeneburrieskuvle	gilvvagárdeskuvla	4	0	2	9
 
-folkehøyskole	ålmehjïlleskuvle	álbmotallaskuvla	4	2	34	1
++folkehøyskole	ålmehjïlleskuvle	álbmotallaskuvla	4	2	34	1
 
 emne	aamhtese	ávnnas/fáddá	54	51	180	14
 
 +bostedskommune	årrometjïelte	ássangielda	5	0	2	0
 
-bestemmelse	mieriedimmie	mearrádus	462	188	868	2
++bestemmelse	nænnoestimmie	mearrádus	462	188	868	2
 
 leseforståelse	lohkemegoerkese	lohkanipmárdus	3	0	1	0
 
@@ -53,7 +53,7 @@ embete	funksjovne	ámmát/virgi	4	64	293	1
 
 utdanningskomite	studijemoenehtse	oahppolávdegoddi	2	1	17	1
 
-samarbeidsmøte	laavenjostoetjåanghkoe	ovttasbargočoahkkin	7	2	7	1
++samarbeidsmøte	ektverdiiebarkoetjåanghkoe	ovttasbargočoahkkin	7	2	7	1
 
 nettverksmøte	viermietjåahkoe	fierpmádatčoahkkin	14	6	5	1
 
@@ -69,17 +69,17 @@ kompetansebygging	maahtoebigkeme	gealbohuksen	8	3	1	0
 
 tekstbygging	teekstebægkoe	teakstahuksen	2	2	1	4
 
-fornorsking	daaroedehteme	dáruiduhttin	49	17	103	1
++fornorsking	daaroedehteme	dáruiduhttin	49	17	103	1
 
-språklig utvikling	gïeleevtiedimmie	giellaovdáneapmi	0	43	9	9
++språklig utvikling	gïeleevtiedimmie	giellaovdáneapmi	0	43	9	9
 
 elevtallsutvikling	learohkelåhkoe	ohppiidlohku	2	43	15	2
 
-stipendordning	stipendeöörnege	stipeandaortnet	29	4	14	3
++stipendordning	stipendeöörnege	stipeandaortnet	29	4	14	3
 
-studentforening	studeentesiebrie	studeantasearvi	2	0	2	0
++studentforening	studeentesiebrie	studeantasearvi	2	0	2	0
 
-barnehagedekning	maanagïertefaalenasse	mánáidgárdefálaldat	5	42	28	15
++barnehagedekning	maanagïertefaaleldahke	mánáidgárdefálaldat	5	42	28	15
 
 fornorskning	daaroedehteme	dáruiduhttin	65	17	103	2
 
@@ -217,11 +217,11 @@ tilsynsorgan	vaaksjomeorgaane	bearráigeahččoorgána	6	0	1	2
 
 handlingsplan	dahkoesoejkesje	doaibmaplána	215	84	152	61
 
-kven	kveene	kvena	49	5	67	2
++kven	kveene	kvena	49	5	67	2
 
 ombudsmann	vaaksjovmeorgaane	áittardeaddji	4	0	15	0
 
-fylkesmann	fylhkenålma	fylkkamánni	198	25	222	0
++fylkesmann	fylhkenålma	fylkkamánni	198	25	222	0
 
 studentorganisasjon	studeentesiebrie	studeantasearvi	1	0	2	0
 
@@ -283,7 +283,7 @@ fagfelt	faagegievlie	fágasuorgi	14	22	38	2
 
 navnekonsulent	nommekonsuleente	nammakonsuleanta	13	9	8	5
 
-landbruksdepartement	laanteburriedepartemeente	eanandoallodepartemeanta	43	1	1	4
++landbruksdepartement	laanteburriedepartemeente	eanandoallodepartemeanta	43	1	1	4
 
 art	såarhte	nálli/čearda/šládja	134	16	54	0
 
@@ -297,7 +297,7 @@ høyesterett	jïllemesreakta	alimusriekti	37	3	46	2
 
 forskningsinstitutt	dotkemeinstituhte	dutkaninstituhtta	6	0	3	0
 
-behov	daarpoe	dárbbaš/dárbu	1446	107	690	6
++behov	daarpoe	dárbbaš/dárbu	1446	107	690	6
 
 gutt	pååjke	lunta/jeavdi/gánddaš/bártnáš/bárdni/gánda	71	36	91	0
 
@@ -307,11 +307,11 @@ problem	aehpie	váttisvuohta/bárti/čuolbma	310	9	137	0
 
 suffiks	baakoegietjie	suffiksa	1	3	8	0
 
-substantiv	substantive	substantiiva	2	0	19	0
++substantiv	substantive	substantiiva	2	0	19	0
 
-barnehage	maanajgiertie	mánáidgárdi	905	61	553	9
++barnehage	maanajgiertie	mánáidgárdi	905	61	553	9
 
-sørsame	åarjel-saemie	lullisápmi/máttasápmelaš/lullisápmelaš/máttasápmi	27	0	47	0
++sørsame	åarjel-saemie	lullisápmi/máttasápmelaš/lullisápmelaš/máttasápmi	27	0	47	0
 
 sønn	pååjke	bárdni	28	36	313	0
 
@@ -319,7 +319,7 @@ skade	aehpie	bárti	195	9	20	0
 
 lesing	lohkehtimmie	lohkan	34	133	275	0
 
-fylkeskommune	fylhkentjïelte	fylkkagielda/fylkkasuohkan	881	940	214	327
++fylkeskommune	fylhkentjïelte	fylkkagielda/fylkkasuohkan	881	940	214	327
 
 intervju	goerehtalleme	jearahallan	46	167	75	0
 
@@ -335,7 +335,7 @@ forslag	ussjedimmie	árvalus	2015	18	290	0
 
 tanke	ussjedimmie	jurdda/árvalus	180	18	298	0
 
-tro	religijovne	osku	235	63	148	11
++tro	jaahkoe	osku	235	63	148	11
 
 beskjed	byjjehtimmie	diehtu	31	17	1508	0
 informasjon	byjjehtimmie	diehtu	762	17	1508	0
@@ -345,7 +345,7 @@ kunnskap	byjjehtimmie	diehtu	1159	17	1508	0
 gang	drïekte	johtu	847	18	219	0
 
 hjemmeside	hïejmesæjroe	ruovttusiidu	32	9	43	4
-hjemmeside	nehtesæjroe	ruovttusiidu	32	32	43	0
++hjemmeside	nehtesæjroe	ruovttusiidu	32	32	43	0
 
 hjemfylke	gåetiefylhke	ruovttufylka	2	0	1	0
 hjemfylke	årromefylhke	ruovttufylka	2	0	1	0
@@ -353,7 +353,7 @@ hjemfylke	årromefylhke	ruovttufylka	2	0	1	0
 materiale	materijaale	materiála/ávnnas	112	40	114	17
 materiale	materijelle	materiála/ávnnas	112	51	114	15
 
-fagterm	faageteerme	fágatearbma/fágadoaba	2	3	2	3
++fagterm	faageteerme	fágatearbma/fágadoaba	2	3	2	3
 fagterm	faagendïejvese	fágatearbma/fágadoaba	2	0	2	0
 
 idé	ussjedimmie	jurdda	41	18	307	0
