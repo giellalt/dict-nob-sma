@@ -27585,10 +27585,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" soggi="ie" stem="2syll">sijjie</t>
-            <xg>
-               <x>Det er god plass mellom gamma og bua.</x>
-               <xt>Buerie sijjie gåetien jïh buvrien gaskesne.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -27608,7 +27604,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">stedsnavnloven</l>
+         <l pos="N">stedsnavnlov</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -27686,13 +27682,13 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <re>om nål</re>
-            <t pos="N" soggi="ie" stem="2syll">sjelmie</t>
+            <t pos="N" soggi="ie" stem="2syll">tjelmie</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" soggi="ie" stem="2syll">tjelmie</t>
+            <re>om nål</re>
+            <t pos="N" soggi="ie" stem="2syll">sjelmie</t>
          </tg>
       </mg>
    </e>
@@ -28475,10 +28471,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" soggi="e" stem="2syll">skuvle</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" soggi="oe" stem="2syll">skåvloe</t>
          </tg>
       </mg>
@@ -28555,20 +28547,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" soggi="e" stem="2syll">skåajje</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N">skåake</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">skoeke</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N">skååve</t>
          </tg>
       </mg>
