@@ -130,7 +130,7 @@ sameblod	saemiemaelie	sámevarra	1	0	1	0
 
 tilleggsjord	lissiejåarta	lassieana	3	0	2	0
 tilleggsjord	duedtiemueltie	lassieana	3	0	2	0
-tilleggsjord	lissielaante	lassieana	3	0	2	0
++tilleggsjord	lissielaante	lassieana	3	0	2	0
 
 kirkegård	gærhkoeståapa	girkogárdi/hávdeeanan/girkoeanan	7	0	4	0
 +kirkegård	gærhkoegaertene	girkogárdi/hávdeeanan/girkoeanan	7	0	4	0
@@ -138,7 +138,7 @@ kirkegård	gærhkoeståapoe	girkogárdi/hávdeeanan/girkoeanan	7	0	4	0
 
 førskoletilbud	aarhskuvlenuepie	ovdaskuvlafálaldat	1	0	1	0
 førskoletilbud	aarhskuvlennuepie	ovdaskuvlafálaldat	1	0	1	0
-førskoletilbud	aarhskuvlefaaleldahke	ovdaskuvlafálaldat	1	0	1	0
++førskoletilbud	aarhskuvlefaaleldahke	ovdaskuvlafálaldat	1	0	1	0
 førskoletilbud	aarhskuvlenfaaleldahke	ovdaskuvlafálaldat	1	0	1	0
 
 +utdanningstilbud	ööhpehtimmiefaaleldahke	oahpahusfálaldat/oahppofálaldat	41	0	26	2
@@ -154,8 +154,8 @@ beinsløyd	måaroevytnesjimmie	dákteduodji	2	0	1	0
 beinsløyd	måaraduedtie	dákteduodji	2	0	1	0
 beinsløyd	måaroeduedtie	dákteduodji	2	0	1	0
 
-byråd	staareraerie	gávpotráđđi	5	1	2	5
-byråd	sjeltieståvroe	gávpotráđđi	5	0	2	0
++byråd	staareraerie	gávpotráđđi	5	1	2	5
++byråd	sjeltierarie	gávpotráđđi	5	0	2	0
 
 temaside	aamhtesebielie	fáddásiidu	2	0	1	0
 temaside	aamhtesenbielie	fáddásiidu	2	0	1	0
@@ -215,14 +215,14 @@ temaområde	aamhtesendajve	fáddásuorgi	2	0	1	0
 
 emneområde	aamhteselaante	fáddásuorgi	1	0	1	0
 emneområde	aamhtesenlaante	fáddásuorgi	1	0	1	0
-emneområde	aamhtesedajve	fáddásuorgi	1	0	1	0
-emneområde	aamhtesendajve	fáddásuorgi	1	0	1	0
++emneområde	aamhtesedajve	fáddásuorgi	1	0	1	0
++emneområde	aamhtesesuerkie	fáddásuorgi	1	0	1	0
 
 +urfolksområde	aalkoeåålmegelaante	álgoálbmotguovlu/eamiálbmotguovlu/álgoálbmotsuorgi	11	0	6	0
 urfolksområde	aalkoealmetjelaante	álgoálbmotguovlu/eamiálbmotguovlu/álgoálbmotsuorgi	11	0	6	0
 urfolksområde	aalkoealmetjenlaante	álgoálbmotguovlu/eamiálbmotguovlu/álgoálbmotsuorgi	11	0	6	0
 +urfolksområde	aalkoeåålmegedajve	álgoálbmotguovlu/eamiálbmotguovlu/álgoálbmotsuorgi	11	0	6	0
-urfolksområde	aalkoealmetjedajve	álgoálbmotguovlu/eamiálbmotguovlu/álgoálbmotsuorgi	11	2	6	0
++urfolksområde	aalkoealmetjedajve	álgoálbmotguovlu/eamiálbmotguovlu/álgoálbmotsuorgi	11	2	6	0
 urfolksområde	aalkoealmetjendajve	álgoálbmotguovlu/eamiálbmotguovlu/álgoálbmotsuorgi	11	0	6	0
 
 samfunnsområde	siebriedahkesuerkie	servvodatguovlu/servodatduovdda/servodatsuorgi	30	0	6	16
