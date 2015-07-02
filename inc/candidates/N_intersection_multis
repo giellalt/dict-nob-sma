@@ -764,17 +764,17 @@ reinflokk	krïevvedåehkie	eallu/boazoeallu/čora	31	0	64	0
 
 dørstokk	oksestuehkie	šielbmá/uksalasá/lassá	1	0	38	0
 dørstokk	okseklåbpoe	šielbmá/uksalasá/lassá	1	0	38	0
-dørstokk	oksegalte	šielbmá/uksalasá/lassá	1	0	38	0
++dørstokk	soelmegke	šielbmá/uksalasá/lassá	1	0	38	0
 
 +faguttrykk	faagebaakoe	fágacealkka/fágadoaba	2	0	1	0
-faguttrykk	faagedïejvese	fágacealkka/fágadoaba	2	0	1	0
++faguttrykk	faagejiehtese	fágacealkka/fágadoaba	2	0	1	0
 faguttrykk	faagendïejvese	fágacealkka	2	0	1	0
 faguttrykk	faagebaakoetjïerte	fágacealkka/fágadoaba	2	0	1	0
 
 formuttrykk	hammoejiehtese	hábmenvuohki	1	0	1	0
 formuttrykk	haamoebaakoetjïerte	hábmenvuohki	1	0	1	0
 
-kulturuttrykk	kultuvrejiehtese	kulturovdanbuktin/kulturdovddaheapmi/kulturmearka/kulturolggosbuktin/kulturhápmi/kulturčájehanvuohki/kulturvuohki	30	0	2	2
++kulturuttrykk	kultuvrejiehtese	kulturovdanbuktin/kulturdovddaheapmi/kulturmearka/kulturolggosbuktin/kulturhápmi/kulturčájehanvuohki/kulturvuohki	30	0	2	2
 kulturuttrykk	kultuvredïejvese	kulturovdanbuktin/kulturdovddaheapmi/kulturmearka/kulturolggosbuktin/kulturhápmi/kulturčájehanvuohki/kulturvuohki	30	0	2	3
 
 fagfolk	faageaalmoge	fágaolmmoš	46	0	27	0
@@ -783,7 +783,7 @@ fagfolk	faageaalmoge	fágaolmmoš	46	0	27	0
 ressursbank	maelmiebaanghke	resursabáŋku	1	0	1	0
 ressursbank	vierhtiebaanghke	resursabáŋku	1	1	1	2
 
-jordbruk	jåartapråvhkoe	eanadoallu/eanandoallu/eatnandoallu	505	0	145	0
++jordbruk	laanteburrie	eanadoallu/eanandoallu/eatnandoallu	505	0	145	0
 jordbruk	mueltiepråvhkoe	eanadoallu/eanandoallu/eatnandoallu	505	0	145	0
 
 +urfolkspråk	aalkoeåålmegegïele	eamiálbmotgiella	1	0	2	0
@@ -792,8 +792,8 @@ jordbruk	mueltiepråvhkoe	eanadoallu/eanandoallu/eatnandoallu	505	0	145	0
 tegnspråk	væhtagïele	giehtagiella/seavagiella	14	0	2	1
 tegnspråk	tjaatsegïele	giehtagiella	14	6	1	0
 
-urfolksspråk	aalkoeåålmegegïele	álgoálbmotgiella	3	0	2	0
-urfolksspråk	aalkoealmetjegïele	álgoálbmotgiella	3	1	2	1
++urfolksspråk	aalkoeåålmegegïele	álgoálbmotgiella	3	0	2	0
++urfolksspråk	aalkoealmetjegïele	álgoálbmotgiella	3	1	2	1
 
 landareal	rïjhkegoelpeneståaroe	eananareála	7	0	1	0
 landareal	eatnemedajve	eananareála	7	0	1	0
@@ -843,7 +843,7 @@ gaveprotokoll	daevereprotokolle	skeaŋkaprotokolla	2	0	1	0
 knapphull	båaloehaevtie	boalloráigi	1	0	1	0
 knapphull	balhkahåaloe	boalloráigi	1	0	1	0
 
-elevkull	learohkebiesie	oahppibuolva	1	0	1	0
++elevkull	learohkedåehkie	oahppibuolva	1	0	1	0
 elevkull	learohketjïrre	oahppibuolva	1	0	1	0
 
 sidemål	bielieulmie	oalgegiella/siidogiella	9	1	2	0
@@ -865,7 +865,7 @@ stridsspørsmål	dåaroegyhtjelasse	riidoášši/riidofáddá	1	0	3	0
 stridsspørsmål	ræjtoegyhtjelasse	riidoášši/riidofáddá	1	0	3	0
 
 +urfolksspørsmål	aalkoeåålmegegyhtjelassh	eamiálbmotgažaldat/eamiálbmotášši/álgoálbmotášši/álgoálbmotgažaldat	29	0	7	0
-urfolksspørsmål	aalkoealmetjegyhtjelasse	eamiálbmotgažaldat/eamiálbmotášši/álgoálbmotášši/álgoálbmotgažaldat	29	0	7	2
++urfolksspørsmål	aalkoealmetjegyhtjelassh	eamiálbmotgažaldat/eamiálbmotášši/álgoálbmotášši/álgoálbmotgažaldat	29	0	7	2
 urfolksspørsmål	aalkoealmetjengyhtjelasse	eamiálbmotgažaldat/eamiálbmotášši/álgoálbmotášši/álgoálbmotgažaldat	29	0	7	0
 
 målprogram	aamhteseprogramme	mihttoprográmma	1	0	1	0
@@ -876,9 +876,9 @@ urfolksprogram	aalkoealmetjeprogramme	eamiálbmotprográmma/álgoálbmotprográm
 urfolksprogram	aalkoealmetjenprogramme	eamiálbmotprográmma/álgoálbmotprográmma	3	0	2	0
 
 miljøprogram	byjreskeprogramme	birasprográmma	3	1	1	0
-miljøprogram	byjreseprogramme	birasprográmma	3	3	1	1
++miljøprogram	byjreseprogramme	birasprográmma	3	3	1	1
 
-aldershjem	aalteregåetie	boarrásiidruoktu/boarrásiidsiida	3	0	5	0
++aldershjem	voeresegåetie	boarrásiidruoktu/boarrásiidsiida	3	0	5	0
 aldershjem	aaltereheajme	boarrásiidruoktu/boarrásiidsiida	3	0	5	0
 aldershjem	aalterenheajme	boarrásiidruoktu/boarrásiidsiida	3	0	5	0
 aldershjem	aalterehïejme	boarrásiidruoktu/boarrásiidsiida	3	0	5	0
@@ -893,7 +893,7 @@ forståelsesproblem	goerkesimmieaehpie	áddehallanváttisvuohta	0	0	0	0
 undervisningsfilm	bïhkedimmiejielemeguvvie	oahpahusfilbma	1	0	1	0
 undervisningsfilm	bïhkedimmiefilme	oahpahusfilbma	1	0	1	0
 
-urfolksungdom	aalkoeåålmegefijrie	álgoálbmotnuorra/eamiálbmotnuorra	8	0	2	0
++urfolksungdom	aalkoeåålmegenoerh	álgoálbmotnuorra/eamiálbmotnuorra	8	0	2	0
 urfolksungdom	aalkoealmetjefijrie	álgoálbmotnuorra/eamiálbmotnuorra	8	0	2	0
 urfolksungdom	aalkoealmetjenfijrie	álgoálbmotnuorra/eamiálbmotnuorra	8	0	2	0
 
@@ -924,7 +924,7 @@ eierorgan	aajhterenorgaane	oamastanorgána	2	0	1	0
 urfolksorgan	aalkoealmetjeorgaane	álgoálbmotorgána	1	0	1	0
 urfolksorgan	aalkoealmetjenorgaane	álgoálbmotorgána	1	0	1	0
 
-timeplan	tæjmoesoejkesje	diibmoplána	5	0	7	2
++timeplan	tæjmoesoejkesje	diibmoplána	5	0	7	2
 +timeplan	tæjmoeplaane	diibmoplána	5	0	7	1
 
 fylkesplan	fylhkesoejkesje	fylkkaplána	41	0	15	1
@@ -935,13 +935,13 @@ skoleverden	skåvloeeatneme	skuvlamáilbmi	1	0	1	0
 +skoleverden	skåvloeveartene	skuvlamáilbmi	1	0	1	0
 
 middagstallerken	gaskebiejjieplïehtjegaerie	borramuštallearka	1	0	1	0
-middagstallerken	gaskebiejjiefeete	borramuštallearka	1	0	1	0
++middagstallerken	gaskebiejjiefeete	borramuštallearka	1	0	1	0
 
 spørsmålstegn	gihtjemevæhta	jearaldatmearka	11	2	1	1
 spørsmålstegn	gyhtjelassevæhta	gažaldatmearka/jearaldatmearka	11	0	3	0
 
 bordbein	buertiemåara	beavdejuolgi	1	0	1	0
-bordbein	buertiemåaroe	beavdejuolgi	1	0	1	0
++bordbein	buertiejuelkie	beavdejuolgi	1	0	1	0
 
 hjørnestein	kråanegierkie	čiehkageađgi/čiehkajuolgi	4	0	1	0
 hjørnestein	roenegierkie	čiehkageađgi/čiehkajuolgi	4	3	1	4
@@ -974,7 +974,7 @@ urfolksregion	aalkoealmetjeregijovne	álgoálbmotregiovdna/álgoálbmotguovlu	7	
 urfolksregion	aalkoealmetjenregijovne	álgoálbmotregiovdna/álgoálbmotguovlu	7	0	5	0
 
 religion	religiovne	religiovdna	50	1	8	0
-religion	religijovne	oskkoldat/osku/religiovdna	50	63	55	22
++religion	religijovne	oskkoldat/osku/religiovdna	50	63	55	22
 
 kvalifikasjon	maahtaldahke	máhttu/dohkálašvuohta/kvalifikašuvdna	26	38	180	0
 kvalifikasjon	kvalifikasjovne	kvalifikašuvdna	26	1	2	0
@@ -999,14 +999,14 @@ urfolksorganisasjon	aalkoealmetjeorganisasjovne	álgoálbmotorganisašuvdna/eami
 urfolksorganisasjon	aalkoealmetjenorganisasjovne	álgoálbmotorganisašuvdna/eamiálbmotorganisašuvdna	6	0	3	0
 
 +urfolkskonsultasjon	aalkoeåålmegekonsultasjovne	eamiálbmotkonsultašuvdna	0	0	0	0
-urfolkskonsultasjon	aalkoealmetjekonsultasjovne	eamiálbmotkonsultašuvdna	0	0	0	0
++urfolkskonsultasjon	aalkoealmetjekonsultasjovne	eamiálbmotkonsultašuvdna	0	0	0	0
 urfolkskonsultasjon	aalkoealmetjenkonsultasjovne	eamiálbmotkonsultašuvdna	0	0	0	0
 
 dokumentasjon	vihtiestimmie	duođašteapmi	217	46	37	5
 +dokumentasjon	dokumentasjovne	dokumentašuvdna	217	5	11	1
 
 bensinstasjon	bensijnestasjovne	bensinstašuvdna	1	0	3	0
-bensinstasjon	bensinstasjovne	bensinstašuvdna	1	0	3	0
++bensinstasjon	bensinstasjovne	bensinstašuvdna	1	0	3	0
 
 +urfolkstradisjon	aalkoeåålmegevuekie	eamiálbmotárbevierru	1	0	1	0
 urfolkstradisjon	aalkoealmetjevuekie	eamiálbmotárbevierru	1	0	1	0
@@ -1043,11 +1043,11 @@ kompetanseperson	maahtaldahkenïere	gelbbolašvuođaolmmoš	1	0	1	0
 barnehagebarn	maanajgiertieångkene	mánáidgárdemánná	7	0	6	0
 
 førskolebarn	aarhskuvlemaana	ovdaskuvlamánná	4	0	3	0
-førskolebarn	aarhskuvlenmaana	ovdaskuvlamánná	4	0	3	0
++førskolebarn	aarhskuvlenmaana	ovdaskuvlamánná	4	0	3	0
 førskolebarn	aarhskuvleångkene	ovdaskuvlamánná	4	0	3	0
 
 nabobarn	graannaångkene	ránnjámánná	1	0	1	0
-nabobarn	kraannaångkene	ránnjámánná	1	0	1	0
++nabobarn	kraannanmaana	ránnjámánná	1	0	1	0
 
 +urfolksbarn	aalkoeåålmegemaana	eamiálbmotmánná/álgoálbmotmánná	6	0	2	0
 urfolksbarn	aalkoealmetjemaana	eamiálbmotmánná/álgoálbmotmánná	6	0	2	2
@@ -1072,7 +1072,7 @@ urfolksstedsnavn	aalkoealmetjedajvenomme	álgoálbmotbáikenamma	1	0	1	0
 urfolksstedsnavn	aalkoealmetjendajvenomme	álgoálbmotbáikenamma	1	0	1	0
 
 +urfolksnavn	aalkoeåålmegenomme	álgoálbmotnamma	1	0	1	0
-urfolksnavn	aalkoealmetjenomme	álgoálbmotnamma	1	0	1	0
++urfolksnavn	aalkoealmetjenomme	álgoálbmotnamma	1	0	1	0
 urfolksnavn	aalkoealmetjennomme	álgoálbmotnamma	1	0	1	0
 
 menneskesyn	almetjevuajnoe	olmmošoaidnu/álbmotoaidnu	4	0	2	0
