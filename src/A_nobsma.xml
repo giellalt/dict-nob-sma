@@ -328,16 +328,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="A">med kraftig kjøttsmak</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="A" stem="2syll">aelmies</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="A">billig</l>
       </lg>
       <mg>
@@ -461,16 +451,6 @@ For the full license text, see the link above.</lic>
                <x>bli rådløs</x>
                <xt>baanhtsan sjïdtedh</xt>
             </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">som får det travelt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="A" stem="3syll">baanhtsan</t>
          </tg>
       </mg>
    </e>
@@ -656,10 +636,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="A" stem="3syll">boerehks</t>
-            <xg>
-               <x>gavmild ektemann</x>
-               <xt>boerehks hosbåanta</xt>
-            </xg>
          </tg>
       </mg>
       <mg>
@@ -686,7 +662,7 @@ For the full license text, see the link above.</lic>
             <re>om slakt</re>
             <t pos="A" stem="3syll">tjïrkes</t>
             <xg>
-               <x>feit slakt</x>
+               <x>feitt slakt</x>
                <xt>tjïrkes niestie</xt>
             </xg>
          </tg>
@@ -700,6 +676,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="A" stem="2syll">buerie</t>
             <xg>
+               <x>Det er godt om plass.</x>
+               <xt>Buerie sijjie lea.</xt>
+            </xg>
+            <xg>
                <x>bli god Det er godt om plass.</x>
                <xt>buerine sjïdtedh Buerie sijjie lea.</xt>
             </xg>
@@ -710,7 +690,7 @@ For the full license text, see the link above.</lic>
             <re>sammen med nekting</re>
             <t pos="A" stem="2syll">gåvva</t>
             <xg>
-               <x>Det er ikke lett.</x>
+               <x>Det er ikke bra.</x>
                <xt>Ij leah gåvva.</xt>
             </xg>
          </tg>
@@ -733,8 +713,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="A" stem="2syll">buerie</t>
             <xg>
-               <x>bli god Det er godt om plass.</x>
-               <xt>buerine sjïdtedh Buerie sijjie lea.</xt>
+               <x>Det er godt om plass.</x>
+               <xt>Buerie sijjie lea.</xt>
+            </xg>
+            <xg>
+               <x>bli god.</x>
+               <xt>buerine sjïdtedh.</xt>
             </xg>
          </tg>
       </mg>
@@ -807,7 +791,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="A">svært berømt</l>
+         <l pos="A">berømt</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -817,7 +801,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="A">svært omtalt</l>
+         <l pos="A">omtalt</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -852,24 +836,18 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="A">ikke riktig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="A" stem="2syll">båajhtoeh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="A">gammel</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <t pos="A" stem="2syll">båeries</t>
             <xg>
-               <x>10 år gammel Laara er eldre enn Anne.</x>
-               <xt>luhkien jaepien båeries Laara båarasåbpoe Aanneste.</xt>
+               <x>10 år gammel .</x>
+               <xt>Luhkien jaepien båeries .</xt>
+            </xg>
+            <xg>
+               <x>Laara er eldre enn Anne.</x>
+               <xt>Laara båarasåbpoe Aanneste.</xt>
             </xg>
          </tg>
       </mg>
@@ -1128,10 +1106,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="A" stem="3syll">dasmoes</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="A" stem="3syll">dåsmoes</t>
          </tg>
       </mg>
@@ -1143,10 +1117,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="A" stem="3syll">dasmoes</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="A" stem="3syll">dåsmoes</t>
          </tg>
       </mg>
@@ -1313,17 +1283,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="A" stem="2syll">dïeve</t>
             <xg>
-               <x>Bøtta er full. Vannet er fullt av fisk.</x>
-               <xt>Bæhtoe lea dïeves. Jaevrie guelijste dïeves.</xt>
+               <x>Bøtta er full.</x>
+               <xt>Bæhtoe lea dïeves.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="A" stem="2syll">ellies</t>
             <xg>
-               <x>fullstendig setning hele klær</x>
-               <xt>ellies raajese ellies vaarjoeh</xt>
+               <x>Vannet er fullt av fisk.</x>
+               <xt>Jaevrie guelijste dïeves.</xt>
             </xg>
          </tg>
       </mg>
@@ -1454,8 +1419,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="A" stem="2syll">ellies</t>
             <xg>
-               <x>fullstendig setning hele klær</x>
-               <xt>ellies raajese ellies vaarjoeh</xt>
+               <x>fullstendig setning</x>
+               <xt>ellies raajese</xt>
             </xg>
          </tg>
       </mg>
@@ -1468,8 +1433,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="A" stem="2syll">ellies</t>
             <xg>
-               <x>fullstendig setning hele klær</x>
-               <xt>ellies raajese ellies vaarjoeh</xt>
+               <x>hele klær</x>
+               <xt>ellies vaarjoeh</xt>
             </xg>
          </tg>
       </mg>
@@ -1718,6 +1683,16 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <re>om vær</re>
+            <t pos="A" stem="2syll">guelhties</t>
+            <xg>
+               <x>kald og sen vår</x>
+               <xt>guelhties gïjre</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
             <t pos="A" stem="2syll">galme</t>
          </tg>
       </mg>
@@ -1725,8 +1700,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="A" stem="3syll">tjåetskemes</t>
             <xg>
-               <x>kald dag Det var kaldt den dagen.</x>
-               <xt>tjåetskemes biejjie Don biejjien lij tjåetskeme.</xt>
+               <x>kald dag</x>
+               <xt>tjåetskemes biejjie</xt>
+            </xg>
+            <xg>
+               <x> Det var kaldt den dagen.</x>
+               <xt> Don biejjien lij tjåetskeme.</xt>
             </xg>
          </tg>
       </mg>
@@ -1938,16 +1917,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="A" stem="2syll">madtan</t>
+            <t pos="A" stem="2syll">mådtan</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
             <t pos="A" stem="3syll">madtege</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="A" stem="2syll">mådtan</t>
          </tg>
       </mg>
       <mg>
@@ -2143,24 +2118,18 @@ For the full license text, see the link above.</lic>
             <re>om egenskap</re>
             <t pos="A" stem="3syll">jåalhkoes</t>
             <xg>
-               <x>snargått kjørerein rask bil</x>
-               <xt>jåalhkoes vuejemeråantjoe jåalhkoes bïjle</xt>
+               <x>snargått kjørerein </x>
+               <xt>jåalhkoes vuejemeråantjoe</xt>
+            </xg>
+            <xg>
+               <x> rask bil</x>
+               <xt> jåalhkoes bïjle</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
             <t pos="A" stem="2syll">sneehpes</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">som løper fort</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="A" stem="3syll">govjehke</t>
          </tg>
       </mg>
    </e>
@@ -2187,21 +2156,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="A" stem="3syll">guelehts</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">svært kald</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <re>om vær</re>
-            <t pos="A" stem="2syll">guelhties</t>
-            <xg>
-               <x>kald og sen vår</x>
-               <xt>guelhties gïjre</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -2238,17 +2192,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <re>om klær og skinn</re>
             <t pos="A" stem="2syll">stinkes</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <re>om klær og skinn</re>
             <t pos="A" stem="2syll">stunkes</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <re>om klær, skinn</re>
             <t pos="A" stem="2syll">stonkes</t>
          </tg>
       </mg>
@@ -2265,16 +2209,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="A" stem="3syll">gæjhteles</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">som har god kondisjon</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="A" stem="3syll">gyvjeh</t>
          </tg>
       </mg>
    </e>
@@ -2482,10 +2416,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="A" stem="2syll">gïemhpes</t>
-            <xg>
-               <x>Det var da et snilt menneske.</x>
-               <xt>Dïhte maa gïemhpes almetje.</xt>
-            </xg>
          </tg>
       </mg>
       <mg>
@@ -2565,10 +2495,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="A" stem="3syll">göögkeles</t>
-            <xg>
-               <x>prektig gutt</x>
-               <xt>göögkeles baernie</xt>
-            </xg>
          </tg>
       </mg>
       <mg>
@@ -2584,16 +2510,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="A" stem="3syll">gööktelåhkede</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">gunstig for fiske</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t hid="1" pos="A" stem="3syll">gööles</t>
          </tg>
       </mg>
    </e>
@@ -2738,10 +2654,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="A" stem="2syll">isvelihks</t>
-            <xg>
-               <x>Det der Klimpfjäll-bråket var da en nifs nyhet! Det der floget ser nifst ut.</x>
-               <xt>Dïhte Klimhpe-stædtjoe maa isvelihks saernie! Dïhte baektie maa isvelihks vååjnoe.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -2753,8 +2665,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="A" stem="2syll">isvelihks</t>
             <xg>
-               <x>Det der Klimpfjäll-bråket var da en nifs nyhet! Det der floget ser nifst ut.</x>
-               <xt>Dïhte Klimhpe-stædtjoe maa isvelihks saernie! Dïhte baektie maa isvelihks vååjnoe.</xt>
+               <x>Det der Klimpfjäll-bråket var da en nifs nyhet!</x>
+               <xt>Dïhte Klimhpe-stædtjoe maa isvelihks saernie! </xt>
+            </xg>
+            <xg>
+               <x>Det der floget ser nifst ut.</x>
+               <xt>Dïhte baektie maa isvelihks vååjnoe.</xt>
             </xg>
          </tg>
       </mg>
@@ -2863,10 +2779,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="A" stem="3syll">jearmijes</t>
-            <xg>
-               <x>Det er et forstandig menneske.</x>
-               <xt>Nov maa dïhte jearmijes almetje.</xt>
-            </xg>
          </tg>
       </mg>
       <mg>
@@ -3067,17 +2979,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="A" stem="3syll">sjyjjehke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">som glir godt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <re>om pulk og ski</re>
-            <t pos="A" stem="3syll">juhteles</t>
          </tg>
       </mg>
    </e>
@@ -3425,10 +3326,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="A" stem="3syll">låagkoeh</t>
-            <xg>
-               <x>arbeidssky gutt</x>
-               <xt>låagkoeh baahtjetje</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -3490,8 +3387,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="A" stem="2syll">læhkoeladtje</t>
             <xg>
-               <x>heldig menneske Hun er heldig!</x>
-               <xt>læhkoeladtje almetje Dïhte læhkoeladtje!</xt>
+               <x> Hun er heldig!</x>
+               <xt> Dïhte læhkoeladtje!</xt>
+            </xg>
+            <xg>
+               <x>heldig menneske</x>
+               <xt>læhkoeladtje almetje</xt>
             </xg>
          </tg>
       </mg>
@@ -3520,6 +3421,7 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>den nærliggende kåta</x>
                <xt>dïhte lïhkes gåetie</xt>
+
             </xg>
          </tg>
       </mg>
