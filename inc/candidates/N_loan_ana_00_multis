@@ -1,4 +1,4 @@
-+ på gode oversettelser
++ på gode oversettelser ferdig
 korridor	korridore	feaskkir/váccáhat	6	0	9	0
 +korridor	korridovre	feaskkir/váccáhat	6	0	9	0
 
@@ -27,7 +27,7 @@ simulator	simulatore	simulatuvra	1	0	1	0
 simulator	simulatovre	simulatuvra	1	0	1	0
 
 konservator	konservatore	konserváhtor	3	0	5	0
-konservator	konservatovre	konserváhtor	3	2	5	0
++konservator	konservatovre	konserváhtor	3	2	5	0
 
 risikofaktor	risikofaktore	riskabealli	5	0	1	0
 +risikofaktor	risikofaktovre	riskabealli	5	0	1	0
@@ -44,7 +44,7 @@ minimumsfaktor	minimumsfaktore	unnimusmearri	2	0	2	0
 +sosialsektor	sosijaleseuerkie	sosiálasektor/sosiálasuorgi	15	0	6	0
 +sosialsektor	sosijalesektovre	sosiálasektor/sosiálasuorgi	15	0	6	0
 
-finanssektor	finanssektore	finánsasuorgi	1	0	0	0
+finanssektor	finansesuerkie	finánsasuorgi	1	0	0	0
 +finanssektor	finansesektovre	finánsasuorgi	1	0	0	0
 
 transportsektor	transportsektore	fievrridansuorgi/fievrrádussuorgi	3	0	1	0
@@ -57,7 +57,7 @@ lokalkontor	lokalkontore	báikkálaškantuvra	3	0	1	0
 +lokalkontor	voengekontovre	báikkálaškantuvra	3	0	1	0
 
 +plankontor	soejkesjekontovre	plánenkantuvra/plánakantuvra	1	0	1	0
-+plankontor	plaenekontovre	plánenkantuvra/plánakantuvra	1	0	1	0
+plankontor	plaenekontovre	plánenkantuvra/plánakantuvra	1	0	1	0
 
 postkontor	postkontore	poastakantuvra/boastakantuvra	3	0	3	0
 +postkontor	påastekontovre	poastakantuvra/boastakantuvra	3	0	3	0
