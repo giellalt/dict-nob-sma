@@ -27,7 +27,7 @@ virksomhetsområde	gïehtelimmiesuerkie	doaibmasuorgi	6	0	10	1
 
 forhistorie	åvtehistovrije	ovdahistorjá	12	0	7	2
 
-+saltvannfiske	saelhtietjaetsiegööleme	sáltečáhcebivdu	1	8	1	0
+saltvannfiske	saelhtietjaetsiegööleme	sáltečáhcebivdu	1	8	1	0
 
 +saltvannsfiske	mearoegööleme	sáltečáhcebivdu/sáltečáhceguolástus/mearraguolásteapmi	7	8	2	0
 
@@ -39,13 +39,13 @@ nettverksmøte	viermietjåanghkoe	fierpmádatčoahkkin	14	6	5	1
 
 nettmøte	viermietjåanghkoe	neahttačoahkkin	3	6	1	0
 
-naturfag	eatnemefaage	luonddufága	21	7	12	0
++naturfag	eatnemefaage	luonddufága	21	7	12	0
 
 verdigrunnlag	vierhtievåarome	árvovuođđu	19	4	7	0
 
 naturgrunnlag	eatnemevåarome	luondduvuođus/luondduvuođđu/luondduvuođustus	47	0	10	15
 
-hovedutvalg	åejviedåehkie	váldolávdegoddi	10	2	19	0
++hovedutvalg	åejviedåehkie	váldolávdegoddi	10	2	19	0
 
 +ungdomsutvalg	noeremoenehtse	nuoraidlávdegoddi	7	1	17	0
 
@@ -107,11 +107,11 @@ forfatterskap	tjaelijevoete	girječállin	4	0	7	1
 
 +dagpenger	biejjiebeetnegh	beaiveruhta	4	0	10	4
 
-?tospråklighetsmidler	gööktengïelenvierhtie	guovttegielalašvuođaruhta/guovttegielalašruhta/guovttegielatvuođaruhta	16	36	4	2
++tospråklighetsmidler	guoktengïelenvierhtie	guovttegielalašvuođaruhta/guovttegielalašruhta/guovttegielatvuođaruhta	16	36	4	2
 
 +lokalkontor	dajvekontovre/ voengekontuvre	báikkálaškantuvra	3	1	1	0
 
-grunnkurs	maadthkuvsje	vuođđokursa	21	3	11	3
++grunnkurs	maadthkuvsje/ maadth-ööhpedimmie	vuođđokursa	21	3	11	3
 
 +fiskeressurs	guelievierhtie/ göölemevierhtie	guolleriggodat/guolástanresursa/guolástusresursa/guolástanriggodat/guollevalljodat/guolleresursa	21	0	2	2
 
@@ -127,7 +127,7 @@ tidsskrift	boelhketjaalege	áigečála	11	0	42	2
 
 hovedvekt	åejvieleavloe	váldodeaddu	18	1	7	0
 
-+hovedhensikt	åejvieaajkoe	váldoáigumuš	2	1	2	0
++hovedhensikt	åejvieaajkoe/ åejvieulmie	váldoáigumuš	2	1	2	0
 
 +stortingspresident	stoerredigkiepresideente	stuorradiggepresideanta	6	0	5	1
 
@@ -137,7 +137,7 @@ merkefrist	mïerhkebiejjie	merkenáigi/merkenáigemearri	2	9	1	0
 
 +reinbeiterett	gåatomereakta	boazoguohtunriekti	3	2	1	0
 
-bruksrett	åtnoereakta	geavahanvuoigatvuohta/geavahanriekti	34	3	19	8
++bruksrett	åtnoereakta	geavahanvuoigatvuohta/geavahanriekti	34	3	19	8
 
 eiendomsrett	eekereakta	opmodatriekti/eaiggádanriekti/eanaoamastanriekti/eaiggáduššanriekti/eaiggáduššanvuoigatvuohta/opmodatvuoigatvuohta/oamastanvuoigatvuohta/eaiggátriekti/eanaeaiggáduššanvuoigatvuohta/oamastanriekti	68	0	7	4
 
