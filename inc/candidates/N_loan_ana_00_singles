@@ -79,11 +79,11 @@ sentraladministrasjon	sentraladministrasjovne	guovddášhálddahus	10	0	8	0
 
 frustrasjon	frustrasjovne	fuolastupmi	6	0	1	0
 
-+partiorganisasjon	partijeorganisasjovne	bellodatorganisašuvdna	2	0	1	0
+partiorganisasjon	partijeorganisasjovne	bellodatorganisašuvdna	2	0	1	0
 
 kompensasjon	kompensasjovne	buhtadus	49	19	158	2
 
-+vegetasjon	vegetasjovne	šaddogeardi	50	1	1	0
+vegetasjon	vegetasjovne	šaddogeardi	50	1	1	0
 
 +invitasjon	bööreme	bovdehus/bovdejupmi	21	0	11	0
 
@@ -97,7 +97,7 @@ attestasjon	attestasjovne	attesteren	1	0	1	0
 
 +radiostasjon	radiostasjovne	rádiostašuvdna	1	0	2	0
 
-+situasjon	situasjovne/ tsiehkie	dilálašvuohta/dilli	415	3	723	2
+situasjon	situasjovne/ tsiehkie	dilálašvuohta/dilli	415	3	723	2
 
 observasjon	observasjovne	dárkun/áican	12	0	7	0
 
@@ -105,7 +105,7 @@ reservasjon	reservasjovne	várašupmi	7	0	4	0
 
 +aggresjon	aggresjovne/måerie	suhttu	1	0	16	0
 
-+kulturtradisjon	kultuvretradisjovne	kulturvierru/kulturárbevierru	6	0	2	0
+kulturtradisjon	kultuvretradisjovne	kulturvierru/kulturárbevierru	6	0	2	0
 
 +kondisjon	kondisjovne/ gaarsje	vuoibmi	13	5	30	0
 
@@ -133,7 +133,7 @@ rammekonvensjon	rammekonvensjovne	rámmakonvenšuvdna/rápmakonvenšuvdna	10	1	3
 
 proporsjon	proporsjovne	gorri	1	0	18	0
 
-ekskursjon	ekskursjovne	vánddardeapmi/olgomátki	5	0	84	0
++ekskursjon	ööhpedimmiefeeleme	vánddardeapmi/olgomátki	5	0	84	0
 
 fusjon	fusjovne	ovttastupmi	6	0	12	0
 
@@ -143,7 +143,7 @@ fusjon	fusjovne	ovttastupmi	6	0	12	0
 
 kolon	kolovne	duppalčuokkis	1	0	3	0
 
-+bibliotekar	gærjagåetiebarkije	girjerájusbargi/girjerádjobargi	3	0	1	0
++bibliotekar	gærjagåetiebarkije/ gærjareerije	girjerájusbargi/girjerádjobargi	3	0	1	0
 
 +eksemplar	eksemplaare	gáhppálat	16	0	8	0
 
@@ -185,7 +185,7 @@ inspektør	inspektööre	bearráigeahčči	6	0	17	0
 
 generaldirektør	generaldirektööre	váldodirektevra	1	0	1	0
 
-instruktør	instruktööre	valáštallanhárjeheaddji/lášmmohallanhárjeheaddji/bagadalli	7	0	13	0
+instruktør	instruktööre/ bihkiedæjja	valáštallanhárjeheaddji/lášmmohallanhárjeheaddji/bagadalli	7	0	13	0
 
 skulptør	skulptööre	bázzedahkki	1	0	1	0
 
@@ -195,7 +195,7 @@ rapportør	rapportööre	dieđiheaddji	1	0	8	0
 
 +variant	variaante	variánta	10	0	14	0
 
-+predikant	ööhpehtæjja/ lohkije	sárdnideaddji/sárdneolmmái	2	0	6	0
+predikant	ööhpehtæjja/ lohkije	sárdnideaddji/sárdneolmmái	2	0	6	0
 
 svovelpredikant	svovelpredikaante	riššasárdneolmmái	1	0	1	0
 
@@ -235,7 +235,7 @@ resonnement	resonnemeente	loahppajurdda	3	0	8	0
 
 regionaldepartement	regionaldepartemeente	guovlodepartemeanta	80	18	24	4
 
-+finansdepartement	finansdepartemeente	finánsadepartemeanta/Ruhtadandepartemeanta	41	0	6	0
+finansdepartement	finansedepartemeente	finánsadepartemeanta/Ruhtadandepartemeanta	41	0	6	0
 
 +argument	argumeente	ágga	24	30	156	0
 
