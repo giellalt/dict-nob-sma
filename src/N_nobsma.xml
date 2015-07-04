@@ -624,12 +624,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" stem="3syll">baakoe</t>
+            <t pos="N" stem="3syll">bokstaave</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" stem="3syll">bokstaave</t>
+            <t pos="N" stem="3syll">baakoe</t>
          </tg>
       </mg>
    </e>
@@ -1189,8 +1189,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="N" soggi="ie" stem="2syll">mierie</t>
             <xg>
-               <x>fra den kanten i mellomtiden til halvvegs fra nå av</x>
-               <xt>dehtie mïereste dennie mieresne gaskemearan daehtie miereste</xt>
+               <x>Fra den kanten i mellomtiden til halvvegs fra nå av.</x>
+               <xt>Dehtie mïereste dennie mieresne gaskemearan daehtie miereste.</xt>
             </xg>
          </tg>
       </mg>
@@ -1347,10 +1347,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" soggi="oe" stem="2syll">åssjelmes</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" soggi="oe" stem="2syll">åssjalommes</t>
          </tg>
       </mg> 
@@ -1363,6 +1359,11 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg> 
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N" soggi="oe" stem="2syll">gaavhtan</t>
+         </tg>
+      </mg>           
    </e>
    <e>
       <lg>
@@ -24585,6 +24586,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" soggi="ie" stem="2syll">nuepie</t>
+            <xg>
+               <x>til hvilken anledning/grunn er det?</x>
+               <xt>man gaavhtan dïhte?</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -24824,10 +24829,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" soggi="ie" stem="2syll">ohtjegåetie</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" soggi="ie" stem="2syll">onnegåetie</t>
          </tg>
       </mg>
