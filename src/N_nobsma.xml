@@ -29,11 +29,11 @@ For the full license text, see the link above.</lic>
    </lics>
    <e>
       <lg>
-         <l pos="N">Radio-innslag</l>
+         <l pos="N">radio-innslag</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" stem="3syll">Radio-boelhketje</t>
+            <t pos="N" stem="3syll">radio-boelhketje</t>
          </tg>
       </mg>
    </e>
@@ -86,8 +86,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="N" nr="pl" stem="3syll">bïevsterh</t>
             <xg>
-               <x>i hvilket humør er han i?</x>
-               <xt>mej bïevsteri sisnie dïhte?</xt>
+               <x>Hvilket humør er han i?</x>
+               <xt>Nej bïevsteri sisnie dïhte?</xt>
             </xg>
          </tg>
       </mg>
@@ -227,21 +227,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e>
-      <lg>
-         <l pos="N">forutsetning</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="x" stem="3syll">jis....dellie</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="x" stem="3syll">voestegh...tjoevere</t>
-         </tg>
-      </mg>
-   </e>
    <e>
       <lg>
          <l pos="N">forlegger</l>
@@ -274,16 +259,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" stem="3syll">veadta</t>
-         </tg>
-      </mg>
-   </e>
-     <e>
-      <lg>
-         <l pos="N">forhold</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="x" stem="3syll">guktie mej gaskem</t>
          </tg>
       </mg>
    </e>
@@ -369,20 +344,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" stem="3syll">provrehïeje</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" stem="3syll">pruvrehïeje</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" stem="3syll">provreshïeje</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" stem="3syll">provdesheaje</t>
          </tg>
       </mg>  
@@ -424,10 +387,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" stem="3syll">deahpadimmie</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" stem="3syll">heannadimmie</t>
          </tg>
       </mg>
@@ -439,21 +398,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" stem="3syll">deahpadimmie</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="x" stem="3syll">guktie lea</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="x" stem="3syll">mij deahpadamme</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="x" stem="3syll">Dïhte mij saatnan</t>
          </tg>
       </mg>
    </e>
@@ -580,16 +524,6 @@ For the full license text, see the link above.</lic>
     </e>
    <e>
       <lg>
-         <l pos="N">deltager</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="x" stem="3syll">dïhte gie meatan</t>
-         </tg>
-      </mg>
-    </e>
-   <e>
-      <lg>
          <l pos="N">datajobb</l>
       </lg>
       <mg>
@@ -602,11 +536,6 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="N">databehandling</l>
       </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" stem="3syll">daatabarkoe</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" stem="3syll">daatagïetedimmie</t>
@@ -786,7 +715,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="N">annerkjennelse</l>
+         <l pos="N">anerkjennelse</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -1016,20 +945,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <!--e>
-      <lg>
-         <l pos="N">dagens</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Adv" stem="3syll">daan beajjetje</t>
-            <xg>
-               <x>dagens avis</x>
-               <xt>daan beajjetje plaerie</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e-->
    <e>
       <lg>
          <l pos="N">elskede</l>
@@ -1061,16 +976,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" soggi="ie" stem="2syll">fijrie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">tillaget mat</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">jurjiehtamme beapmoeh</t>
          </tg>
       </mg>
    </e>
@@ -1234,7 +1139,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <re>om menn</re>
+            <re>om mann</re>
             <t pos="N" soggi="ie" stem="2syll">baernie</t>
          </tg>
       </mg>
@@ -1242,22 +1147,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
            <re>om kvinne</re>
             <t pos="N" soggi="ie" stem="2syll">måersie</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <re>om kvinne</re>
             <t pos="N" soggi="e" stem="2syll">nïejte</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">skaperen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" soggi="a" stem="2syll">sjugniedæjja</t>
          </tg>
       </mg>
    </e>
@@ -1468,20 +1358,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="N" soggi="oe" stem="2syll">sjïeke</t>
             <xg>
-               <x>til hvilken hensikt er det?</x>
-               <xt>man sjïeken dïhte?</xt>
+               <x>I hvilken hensikt er det?</x>
+               <xt>Man sjïeken dïhte?</xt>
             </xg>
          </tg>
       </mg> 
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" soggi="oe" stem="2syll">gaavhtan</t>
-            <xg>
-               <x>til hvilken anledning/grunn er det?</x>
-               <xt>man gaavhtan dïhte?</xt>
-            </xg>
-         </tg>
-      </mg>           
    </e>
    <e>
       <lg>
@@ -1549,10 +1430,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" soggi="oe" stem="2syll">åssjelmes</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" soggi="ie" stem="2syll">ossjelmes</t>
          </tg>
       </mg>
@@ -2179,8 +2056,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="N" soggi="e" stem="2syll">mïele</t>
             <xg>
-               <x>etter min mening etter min mening Etter min mening er det et stort problem.</x>
-               <xt>mov mïelen mietie mov mïelesne Mov mïelen mietie dïhte stoerre dåeriesmoere.</xt>
+               <x>Etter min mening er det et stort problem.</x>
+               <xt>Mov mïelen mietie dïhte stoerre dåeriesmoere.</xt>
             </xg>
          </tg>
       </mg>
@@ -2198,8 +2075,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="N" soggi="oe" stem="2syll">vuajnoe</t>
             <xg>
-               <x>etter min mening etter min mening etter mitt syn egen mening</x>
-               <xt>guktie manne vuajnam guktie manne guarkam mov vuajnoen mietie jïjtsh vuajnoe</xt>
+               <x>etter min mening</x>
+               <xt>guktie manne vuajnam</xt>
             </xg>
          </tg>
       </mg>
@@ -2317,15 +2194,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t illpl="no" pos="N" soggi="oe" stem="2syll">aavoe</t>
-            <xg>
-               <x>glad</x>
-               <xt>aavojne</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" soggi="oe" stem="2syll">gearjoe</t>
          </tg>
       </mg>
@@ -2342,10 +2210,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" soggi="a" stem="2syll">tsåahka</t>
-            <xg>
-               <x>Klokka er kvart på sju.</x>
-               <xt>Tsåahka lea njealjehts åvtelen tjïjhtje.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -2522,8 +2386,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="N" soggi="ie" stem="2syll">baelie</t>
             <xg>
-               <x>den gangen en gang i tiden</x>
-               <xt>don baelien akten baelien</xt>
+               <x>den gangen</x>
+               <xt>don baelien</xt>
+            </xg>
+            <xg>
+               <x>en gang i tiden</x>
+               <xt>akten baelien</xt>
             </xg>
          </tg>
       </mg>
@@ -9668,6 +9536,15 @@ For the full license text, see the link above.</lic>
             <t pos="N" soggi="oe" stem="2syll">fåantoe</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N" soggi="oe" stem="2syll">gaavhtan</t>
+            <xg>
+               <x>Av hvilken grunn er det?</x>
+               <xt>Man gaavhtan dïhte?</xt>
+            </xg>
+         </tg>
+      </mg>           
    </e>
    <e>
       <lg>
