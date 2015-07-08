@@ -6082,6 +6082,836 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">ond</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">vesties</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">norsktalende</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">daaroengïeleldh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">stille</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">sjeaovhth</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">øvre</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">bijjie</t>
+        <t pos="A">bijjemes</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">hemmelig</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">tjeakoes</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">faglig</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">faageles</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">språklig</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">gïeleldh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">tospråklig</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">guaktengïeleldh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">flerspråklig</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">gelliengïeledh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">skriftlig</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">tjaaleldh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">sivil</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">sivijle</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">gammeldags</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">dæjpeladtje</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">bevisst</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">voerkes</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">bløt</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">lovves</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">administrativ</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">reereles</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">takknemlig</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">gæjhteles</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">lignende</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">plearoeh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">mange</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">jeene</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">passelig</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">sjiehteles</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">norskspråklig</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">daaroengïeleldh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">enspråklig</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">aktengïeleldh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">forskjellig</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">ovmessie</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">naturlig</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">iemie</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">tung</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">löövles</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">lik</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">seammalaakan</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">sterk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">veaksehks</t>
+        <t pos="A">nænnoes</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">juridisk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">juridihkeles</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">geografisk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">geograafeles</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">samisk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">saemien</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">politisk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">politihkeles</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">kulturpolitisk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">kultuvrepolitihkeles</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">arktisk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">arktihkeles</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">norsk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">daaroen</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">global</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">globaale</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">lojal</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">lojaale</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">regional</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">regionaale</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">nasjonal</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">nasjonaale</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">liberal</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">liberaale</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">bilateral</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">bilateraale</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">multilateral</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">multilateraale</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">mental</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">mentaale</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">prinsipiell</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">prinsihpeles</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">individuell</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">individuelle</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">visuell</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">visuelle</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">taus</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">sjaevehts</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">religiøs</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">lohkijes</t>
+        <t pos="A">religijööse</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">rå</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">njoetske</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">sosial</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">sosijaale</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">seig</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">seejke</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">dyktig</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">væjkeles</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">øverst</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">bijjemes</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">verdig</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">vyörtegs</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">landsomfattende</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">laantenvijries</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">grafisk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">grafihkeles</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">systematisk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">systematihkeles</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">pragmatisk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">pragmatihkeles</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">didaktisk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">didaktihkeles</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">lingvistisk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">lingvistihkeles</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">parallell</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">parallelle</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">profesjonell</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">profesjonelle</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">opposisjonell</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">opposisjonelle</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">virtuell</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">virtuelle</t>
+      </tg>
+    </mg>
+  </e>
+  <!-- Bad suggestions, remove next time round: 
+tematisk ::: tematihkeles
+personalpolitisk ::: personalpolitihkeles
+journalistisk ::: journalistihkeles
+diplomatisk ::: diplomatihkeles
+total ::: totaale
+konstitusjonell ::: konstitusjonelle
+finansiell ::: finansielle
+vital ::: vitaale
+økologisk ::: økologeles
+spesialpedagogisk ::: spesialpedagogihkeles
+katolsk ::: katolihkeles
+kommersiell ::: kommersielle
+kontroversiell ::: kontroversielle
+dogmatisk ::: dogmatihkeles
+industriell ::: industrielle
+offisiell ::: offisielle
+audiovisuell ::: audiovisuelle
+internasjonal ::: internasjonaale
+poetisk ::: poetihkeles
+tropisk ::: tropihkeles
+intellektuell ::: intellektuelle
+kommunal ::: kommunaale
+symbolsk ::: symbolihkeles
+prosessuell ::: prosessuelle
+nøytral ::: nøytraale
+materiell ::: materielle
+dynamisk ::: dynamihkeles
+dramatisk ::: dramatihkeles
+strukturell ::: strukturelle
+matematisk ::: matematihkeles
+nominell ::: nominelle
+reell ::: reelle
+formell ::: formelle
+leksikalsk ::: leksikaale
+sosiokulturell ::: sosiokulturelle
+spesiell ::: spesielle
+tragisk ::: tragihkeles
+redaksjonell ::: redaksjonelle
+konkurransepolitisk ::: konkurransepolitihkeles
+baltisk ::: balteles
+språklig ::: gieleles
+unormal ::: unormaale
+tradisjonell ::: tradisjonelle
+rasjonell ::: rasjonelle
+eventuell ::: eventuelle
+automatisk ::: automatihkeles
+demokratisk ::: demokrateles
+universell ::: universaale
+universell ::: universelle
+seksuell ::: seksuelle
+kritisk ::: kritihkeles
+mekanisk ::: mekanihkeles
+ledig ::: gaahpoeh
+tematisk ::: tematihkeles
+klassisk ::: klassihkeles
+folkelig ::: nasjonaale
+viktig ::: vyörtegs
+teknologisk ::: teknologeles
+personalpolitisk ::: personalpolitihkeles
+pedagogisk ::: pedagogihkeles
+pedagogisk ::: pedagogeles
+takknemlig ::: gijhteles
+felles ::: tjåenghkies
+journalistisk ::: journalistihkeles
+diplomatisk ::: diplomatihkeles
+total ::: totaale
+genetisk ::: genetihkeles
+lokal ::: voenges
+klinisk ::: klinihkeles
+konstitusjonell ::: konstitusjonelle
+historisk ::: historihkeles
+innenlandsk ::: nasjonaale
+annerledes ::: joekehts
+relevant ::: sjyöhtehke
+finansiell ::: finansielle
+kirkelig ::: gyrhkeles
+kulturell ::: kulturelle
+vital ::: vitaale
+økologisk ::: økologeles
+egnet ::: sjyöhtehke
+nyansert ::: gelliesåarts
+spesialpedagogisk ::: sjïerepedagogeles
+spesialpedagogisk ::: spesialpedagogihkeles
+vid ::: stoerre
+mer ::: jeene
+estetisk ::: estetihkeles
+permanent ::: ihkuve
+åndelig ::: religijööse
+parallell ::: parallelle
+fysisk ::: fysihkeles
+katolsk ::: katolihkeles
+fast ::: ihkuve
+funksjonell ::: funksjovnelle
+kontinental ::: kontinentaale
+kollegial ::: kollegiaale
+velfungerende ::: funksjovnelle
+parlamentarisk ::: parlamentarihkeles
+kommersiell ::: kommersielle
+gul ::: vïskes
+immateriell ::: religijööse
+kontroversiell ::: kontroversielle
+rolig ::: stååvehke
+allsidig ::: gelliesåarts
+selvstendig ::: nannoes
+dogmatisk ::: dogmatihkeles
+stabil ::: stabijle
+alvorlig ::: vestie
+offisiell ::: offisielle
+industriell ::: industrielle
+virtuell ::: virtuelle
+uendelig ::: ihkuve
+gammel ::: dæjpeladtje
+verdifull ::: vyörtegs
+audiovisuell ::: audiovisuelle
+retorisk ::: retorihkeles
+elektronisk ::: elektrovneles
+elektronisk ::: elektronihkeles
+ulik ::: joekehts
+moderat ::: sjyöhtehke
+arbeidsledig ::: gaahpoeh
+internasjonal ::: internasjonaale
+kronisk ::: kronihkeles
+landsdekkende ::: nasjonaale
+voksen ::: dæjpeladtje
+poetisk ::: poetihkeles
+tropisk ::: tropihkeles
+intellektuell ::: intellektuelle
+uformell ::: ovbyjjes
+kommunal ::: kommunaale
+hensiktsmessig ::: sjyöhtehke
+psykologisk ::: psykologeles
+harmonisk ::: harmonihkeles
+personlig ::: persovneles
+profesjonell ::: profesjonelle
+ansvarlig ::: aktelaaketje
+ansvarlig ::: plearoeh
+mangeartet ::: gelliesåarts
+etnisk ::: etnihkeles
+symbolsk ::: symbolihkeles
+nautisk ::: nautihkeles
+vond ::: baaktjes
+prosessuell ::: prosessuelle
+nøytral ::: nøytraale
+lydig ::: luvrege
+materiell ::: materielle
+aktuell ::: sjyöhtehke
+dynamisk ::: dynamihkeles
+statlig ::: staateles
+dramatisk ::: dramatihkeles
+sentral ::: voernges
+didaktisk ::: didaktihkeles
+stor ::: stoerre
+evig ::: ihkuve
+strukturell ::: strukturelle
+matematisk ::: matematihkeles
+marginal ::: marginaale
+etisk ::: etihkeles
+mye ::: jeene
+nominell ::: nominelle
+reell ::: reelle
+sint ::: vestie
+opposisjonell ::: opposisjonelle
+lingvistisk ::: lingvistihkeles
+åpen ::: gaahpoeh
+formell ::: formelle
+leksikalsk ::: leksikaale
+våt ::: lovves
+tilsvarende ::: aktelaaketje
+tilsvarende ::: plearoeh
+grammatisk ::: grammatihkeles
+positiv ::: positïjve
+pragmatisk ::: pragmatihkeles
+praktisk ::: praktihkeles
+sosiokulturell ::: sosiokulturelle
+systematisk ::: systematihkeles
+sosial ::: sosiaale
+liknende ::: plearoeh
+diagnostisk ::: diagnostihkeles
+statistisk ::: statistihkeles
+spesiell ::: spesielle
+tragisk ::: tragihkeles
+utadvendt ::: gaahpoeh
+redaksjonell ::: redaksjonelle
+konkurransepolitisk ::: konkurransepolitihkeles
+baltisk ::: balteles
+språklig ::: gieleles
+tradisjonell ::: tradisjonelle
+rasjonell ::: rasjonelle
+rasjonell ::: sjyöhtehke
+unormal ::: unormaale
+bred ::: stoerre
+variert ::: gelliesåarts
+grafisk ::: grafihkeles
+eventuell ::: eventuelle
+automatisk ::: automatihkeles
+teknisk ::: teknihkeles
+privat ::: privaate
+demokratisk ::: demokrateles
+demokratisk ::: demokraateles
+rimelig ::: sjyöhtehke
+universell ::: universaale
+universell ::: universelle
+overordnet ::: bijjies
+seksuell ::: seksuelle
+økonomisk ::: ekonomeles
+ -->
    <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript"
                  xmlns:xhtml="http://www.w3.org/1999/xhtml"/>
 </r>

@@ -1,4 +1,5 @@
-+ på gode oversettelser ==>ferdig
+#@ if unmarked
+#+ på gode oversettelser ==>ferdig
 +hovedtema	åejvieaamhtese	oaivefáddá/váldofáddá/váldotemá	21	0	5	1
 
 +bosted	årromesijjie	orrunsadji/ássansadji/ássanbáiki/orrunbáiki	76	1	19	0
@@ -111,9 +112,11 @@ forfatterskap	tjaelijevoete	girječállin	4	0	7	1
 
 +lokalkontor	 voengekontuvre	báikkálaškantuvra	3	1	1	0
 
-+grunnkurs	maadthkuvsje/ maadth-ööhpedimmie	vuođđokursa	21	3	11	3
++grunnkurs	maadthkuvsje	vuođđokursa	21	3	11	3
++grunnkurs	maadth-ööhpedimmie	vuođđokursa	21	3	11	3
 
-+fiskeressurs	guelievierhtie/ göölemevierhtie	guolleriggodat/guolástanresursa/guolástusresursa/guolástanriggodat/guollevalljodat/guolleresursa	21	0	2	2
++fiskeressurs	guelievierhtie	guolleriggodat/guolástanresursa/guolástusresursa/guolástanriggodat/guollevalljodat/guolleresursa	21	0	2	2
++fiskeressurs	göölemevierhtie	guolleriggodat/guolástanresursa/guolástusresursa/guolástanriggodat/guollevalljodat/guolleresursa	21	0	2	2
 
 +valgkrets	veeljemedajve	válgabiire	160	6	110	24
 
@@ -123,11 +126,13 @@ urfolksaktivitet	aalkoealmetjendarjome	eamiálbmotdoaibma	1	0	1	0
 
 tidsskrift	boelhketjaalege	áigečála	11	0	42	2
 
-+hoveddialekt	åejviessmaarege/ åejvietjaarne	váldosuopman	2	0	2	6
++hoveddialekt	åejviessmaarege	váldosuopman	2	0	2	6
++hoveddialekt	åejvietjaarne	váldosuopman	2	0	2	6
 
 hovedvekt	åejvieleavloe	váldodeaddu	18	1	7	0
 
-+hovedhensikt	åejvieaajkoe/ åejvieulmie	váldoáigumuš	2	1	2	0
++hovedhensikt	åejvieaajkoe	váldoáigumuš	2	1	2	0
++hovedhensikt	åejvieulmie	váldoáigumuš	2	1	2	0
 
 +stortingspresident	stoerredigkiepresideente	stuorradiggepresideanta	6	0	5	1
 

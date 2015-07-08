@@ -1,3 +1,4 @@
+#@ if unmarked
 # most of this is bad, + på bra ==> ferdig
 +media	meedije	dieđihangaskaoapmi	94	146	3	13
 
@@ -157,7 +158,8 @@ ide	ussjedimmie	idea/jurdda/fuomášupmi	12	18	125	0
 
 språkside	gïelesoejkesje	giellaoassi	1	1	1	0
 
-+internettside	gaskeviermiesæjroe/interneehtesæjroe	interneahttasiidu	12	0	19	1
++internettside	gaskeviermiesæjroe	interneahttasiidu	12	0	19	1
++internettside	interneehtesæjroe	interneahttasiidu	12	0	19	1
 
 +klassebilde	klaasseguvvie	luohkkágovva	1	0	1	0
 
@@ -1970,7 +1972,8 @@ hovedfokus	åejviefokuse	váldofuomášupmi	11	13	1	5
 
 +status	staatuse	árvodássi	229	86	4	23
 
-+matfat	beapmoefeete/ beapmoelihtie	borramušgárri	2	0	1	0
++matfat	beapmoefeete	borramušgárri	2	0	1	0
++matfat	beapmoelihtie	borramušgárri	2	0	1	0
 
 +kveldsmat	iehkedsbeapmoe	eahketbiebmu/eahkesborramuš/eahketborramuš	2	0	1	0
 
@@ -1999,7 +2002,7 @@ tilsynsmyndighet	vaaksjomefaamoe	bearráigeahččoeiseváldi/bearráigeahččanv
 +tospråklighet	guektiengïelevoete	guovttegielalašvuohta	191	106	51	15
 
 arbeidsmulighet	barkemehille	bargovejolašvuohta	2	0	6	0
-til
+
 tilhørighet	ektiedimmie	oktiigullevašvuohta	92	254	13	2
 
 dyktighet	maahtaldahke	čehppodat	3	38	31	0
@@ -2146,7 +2149,8 @@ justisdepartement	justisdepartemeente	justisdepartemeanta	32	4	11	0
 
 +moment	momeente	momeanta	27	1	9	1
 
-+dokument	tjaatsege/dokumeente	dokumeanta	140	3	78	0
++dokument	tjaatsege	dokumeanta	140	3	78	0
++dokument	dokumeente	dokumeanta	140	3	78	0
 
 +konkurransedokument	gaahtjemetjaatsege	gilvodokumeanta	1	0	1	0
 
@@ -2170,7 +2174,8 @@ komponent	komponeente	komponeanta	13	0	1	0
 
 +patent	pateente	pateanta	2	2	3	0
 
-+assistent	assisteente/viehkiehtæjja	assisteanta	23	0	6	0
++assistent	assisteente	assisteanta	23	0	6	0
++assistent	viehkiehtæjja	assisteanta	23	0	6	0
 
 +minnemynt	mojhtesebeetnege	muitominta	3	2	1	3
 

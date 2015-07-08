@@ -59009,6 +59009,121 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">bevare</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">vaarjelidh</t>
+        <t pos="V">stååresjidh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">konkurrere</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">gaahtjedh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">registrere</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">registreeredh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">identifisere</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">identifiseeredh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">vokse</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">byjjenidh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">forlenge</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">guhkiedidh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">fylle</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">dievhtedh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">definere</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="V">defineeredh</t>
+      </tg>
+    </mg>
+  </e>
+  <!-- Bad suggestions, remove next time round: 
+revidere ::: revideeredh
+regulere ::: reguleeredh
+variere ::: jarkestidh
+vokse opp ::: byjjesovvedh
+evaluere ::: evalueeredh
+tilpasse ::: sjïehtehtidh
+le ::: båakoestidh
+merke ::: registreeredh
+opprette ::: aelkiehtidh
+starte ::: aelkiehtidh
+overlevere ::: deanahtidh
+formidle ::: deanahtidh
+undersøke ::: voejhkeladtedh
+overleve ::: stååresjidh
+prolongere ::: guhkiedidh
+forandre ::: jarkestidh
+øke ::: læssanidh
+eksperimentere ::: voejhkeladtedh
+oppfylle ::: gurkedh
+trekke ::: vuerpiedidh
+bestå ::: stååresjidh
+forutsette ::: tsïhkestehtedh
+iverksette ::: aelkiehtidh
+skrive ::: registreeredh
+utvide ::: vijriedidh
+stige ::: læssanidh
+endre ::: jarkestidh
+aktivisere ::: aktiviseeredh
+ta forbehold ::: tsïhkestehtedh
+prøve ::: voejhkelidh
+innmelde ::: registreeredh
+prioritere ::: prijoriteradidh
+ -->
    <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript"
                  xmlns:xhtml="http://www.w3.org/1999/xhtml"/>
 </r>

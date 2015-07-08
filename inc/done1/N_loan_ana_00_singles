@@ -1,3 +1,4 @@
+#@ if unmarked
 # most is bad, + på gode oversettelser ==> ferdig
 trafikk	trafihke	johtolat/johtalus	45	20	130	0
 
@@ -27,7 +28,8 @@ keramikk	keramihke	bálseduodji	2	0	1	0
 
 +personalpolitikk	barkijepolitihke	bargoveahkapolitihkka/bargiidpolitihkka	9	0	4	0
 
-+gymnastikk	vïtnedimmie/ saavredimmie	lášmmohallat/lášmmohallan	5	4	20	0
++gymnastikk	vïtnedimmie	lášmmohallat/lášmmohallan	5	4	20	0
++gymnastikk	saavredimmie	lášmmohallat/lášmmohallan	5	4	20	0
 
 +datalingvistikk	daatalingvistihke	dihtorlingvistihkka	1	0	1	0
 
@@ -35,7 +37,8 @@ keramikk	keramihke	bálseduodji	2	0	1	0
 
 +areal	areale	viidodat/areála/eananviidodat/guovlu	325	382	563	18
 
-+linjal	linjaale/sïevestahke	linjála	1	1	1	0
++linjal	linjaale	linjála	1	1	1	0
++linjal	sïevestahke	linjála	1	1	1	0
 
 +signal	signaale	mearka/signála	26	17	131	3
 
@@ -97,17 +100,20 @@ attestasjon	attestasjovne	attesteren	1	0	1	0
 
 +radiostasjon	radiostasjovne	rádiostašuvdna	1	0	2	0
 
-situasjon	situasjovne/ tsiehkie	dilálašvuohta/dilli	415	3	723	2
+situasjon	situasjovne	dilálašvuohta/dilli	415	3	723	2
+situasjon	tsiehkie	dilálašvuohta/dilli	415	3	723	2
 
 observasjon	observasjovne	dárkun/áican	12	0	7	0
 
 reservasjon	reservasjovne	várašupmi	7	0	4	0
 
-+aggresjon	aggresjovne/måerie	suhttu	1	0	16	0
++aggresjon	aggresjovne	suhttu	1	0	16	0
++aggresjon	måerie	suhttu	1	0	16	0
 
 kulturtradisjon	kultuvretradisjovne	kulturvierru/kulturárbevierru	6	0	2	0
 
-+kondisjon	kondisjovne/ gaarsje	vuoibmi	13	5	30	0
++kondisjon	kondisjovne	vuoibmi	13	5	30	0
++kondisjon	gaarsje	vuoibmi	13	5	30	0
 
 +koalisjon	koalisjovne	ovttastupmi	1	0	12	0
 
@@ -121,7 +127,8 @@ repetisjon	repetisjovne	geardduheapmi	1	0	9	0
 
 +reduksjon	giehpidimmie	geahpideapmi/unnideapmi/geahpádus/vuolideapmi/geahpedeapmi/uhcideapmi	155	0	9	0
 
-+instruksjon	instruksjovne/bihkedasse	bagadeapmi	13	2	16	0
++instruksjon	instruksjovne	bagadeapmi	13	2	16	0
++instruksjon	bihkedasse	bagadeapmi	13	2	16	0
 
 ekspansjon	ekspansjovne	viidáneapmi	9	0	4	0
 
@@ -143,7 +150,8 @@ fusjon	fusjovne	ovttastupmi	6	0	12	0
 
 kolon	kolovne	duppalčuokkis	1	0	3	0
 
-+bibliotekar	gærjagåetiebarkije/ gærjareerije	girjerájusbargi/girjerádjobargi	3	0	1	0
++bibliotekar	gærjagåetiebarkije	girjerájusbargi/girjerádjobargi	3	0	1	0
++bibliotekar	gærjareerije	girjerájusbargi/girjerádjobargi	3	0	1	0
 
 +eksemplar	eksemplaare	gáhppálat	16	0	8	0
 
@@ -185,7 +193,8 @@ inspektør	inspektööre	bearráigeahčči	6	0	17	0
 
 generaldirektør	generaldirektööre	váldodirektevra	1	0	1	0
 
-instruktør	instruktööre/ bihkiedæjja	valáštallanhárjeheaddji/lášmmohallanhárjeheaddji/bagadalli	7	0	13	0
+instruktør	instruktööre	valáštallanhárjeheaddji/lášmmohallanhárjeheaddji/bagadalli	7	0	13	0
+instruktør	bihkiedæjja	valáštallanhárjeheaddji/lášmmohallanhárjeheaddji/bagadalli	7	0	13	0
 
 skulptør	skulptööre	bázzedahkki	1	0	1	0
 
@@ -195,7 +204,8 @@ rapportør	rapportööre	dieđiheaddji	1	0	8	0
 
 +variant	variaante	variánta	10	0	14	0
 
-predikant	ööhpehtæjja/ lohkije	sárdnideaddji/sárdneolmmái	2	0	6	0
+predikant	ööhpehtæjja	sárdnideaddji/sárdneolmmái	2	0	6	0
+predikant	lohkije	sárdnideaddji/sárdneolmmái	2	0	6	0
 
 svovelpredikant	svovelpredikaante	riššasárdneolmmái	1	0	1	0
 
@@ -205,7 +215,8 @@ musikant	musikaante	gilimusihkkár	1	0	1	0
 
 restaurant	restauraante	borranbáiki/restoráŋŋa	18	2	12	0
 
-+representant	representaante/saadthalmetje	ovddasteaddji/áirras	815	2	314	0
++representant	representaante	ovddasteaddji/áirras	815	2	314	0
++representant	saadthalmetje	ovddasteaddji/áirras	815	2	314	0
 
 vararepresentant	vararepresentaante	várrelahttu/sadjásašáirras/várreáirras/várreolmmoš	170	0	34	0
 
@@ -241,7 +252,8 @@ finansdepartement	finansedepartemeente	finánsadepartemeanta/Ruhtadandepartemean
 
 naturdokument	naturdokumeente	luonddudokumeanta	0	0	1	0
 
-budsjettdokument	budsjehtedokumeente/budsjehte	bušeahttadokumeanta	7	0	2	0
+budsjettdokument	budsjehtedokumeente	bušeahttadokumeanta	7	0	2	0
+budsjettdokument	budsjehte	bušeahttadokumeanta	7	0	2	0
 
 monument	monumeente	bázzi	1	1	7	0
 

@@ -1,4 +1,5 @@
-+ på gode oversettelser ==>ferdig
+#@ if unmarked
+#+ på gode oversettelser ==>ferdig
 vond	baaktjes	bávččagit/bávččastit	14	17	13	2
 
 +lignende	plearoeh	seammasullasaš	100	41	11	8
@@ -31,7 +32,8 @@ viktig	vyörtegs	viissástallat	2439	99	1	2
 
 ulik	joekehts	sierralágan	784	563	80	96
 
-+sterk	veaksehks/nænnoes	searalaš/ovtta gievrru/návccalaš	448	2	2	0
++sterk	veaksehks	searalaš/ovtta gievrru/návccalaš	448	2	2	0
++sterk	nænnoes	searalaš/ovtta gievrru/návccalaš	448	2	2	0
 
 +juridisk	juridihkeles	juridihkalaš	95	18	69	10
 
@@ -143,7 +145,8 @@ stor	stoerre	stuorebuš/stuoru/viiddu/stuorrut	3035	2448	21	156
 
 +taus	sjaevehts	jávoheapme	23	0	33	0
 
-+religiøs	religijööse/lohkijes	oskuvaš/vuoiŋŋalaš/oskkoldatlaš	18	12	25	4
++religiøs	religijööse	oskuvaš/vuoiŋŋalaš/oskkoldatlaš	18	12	25	4
++religiøs	lohkijes	oskuvaš/vuoiŋŋalaš/oskkoldatlaš	18	12	25	4
 
 privat	privaate	priváhtalaš	236	87	2	11
 

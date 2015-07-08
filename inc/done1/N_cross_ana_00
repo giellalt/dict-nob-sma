@@ -1,4 +1,5 @@
-+ på gode, ferdig ==> ferdig
+#@ if unmarked
+#+ på gode, ferdig ==> ferdig
 skjema	skjeema	skovvi	87	1	51	0
 
 søknadsskjema	ohtsemegoere	ohcanskovvi	64	23	37	16
@@ -19,7 +20,8 @@ mengde	veahka	earri	43	25	227	3
 
 nettside	nehtesæjroe	neahttasiidu	65	32	77	15
 
-+utdanningsperiode	ööhpedimmietimmieboelhke	oahppoáigodat	1	6	1	0
+utdanningsperiode	ööhpedimmietimmieboelhke	oahppoáigodat	1	6	1	0
++utdanningsperiode	ööhpehtimmieboelhke	oahppoáigodat	1	6	1	0
 
 anklage	klååkeme	váidda	2	52	77	2
 
