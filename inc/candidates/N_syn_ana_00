@@ -1,17 +1,23 @@
 
+solidaritet	ektiedimmie	oktiigullevašvuohta	27	258	14	0
+tilhørighet	solidariteete	oktiigullevašvuohta	96	6	14	0
+
+undersøkelse	joekehtimmie	guorahallan	230	17	206	0
+utredning	joekehtimmie	guorahallan	376	17	206	0
+undersøkelse	salkehtimmie	guorahallan	230	84	206	1
+analyse	salkehtimmie	guorahallan	92	84	206	1
+analyse	dotkeme	guorahallan	92	295	206	0
+utredning	dotkeme	guorahallan	376	295	206	0
+analyse	pryövenasse	guorahallan	92	110	206	0
+utredning	pryövenasse	guorahallan	376	110	206	0
+
 kunnskapsmål	maahtaldahkeulmie	máhtolašvuođamihttomearri	1	24	1	0
-
-ulikhet	joekehts	earalágánvuohta/iešguđetláganvuohta	16	622	1	1
-
-egenart	joekehts	iešvuohta/iešláhki	26	622	30	0
 
 oppholdssone	årromedajve	orrunsadji	0	1	26	0
 
 nytenking	innovasjovne	ođđabuvttadeapmi	4	71	2	0
 
 medbestemmelse	baajnehtimmiefaamoe	mieldemearrideapmi	32	0	4	0
-
-utmarksbruk	miehtjie	meahccegeavaheapmi	59	21	11	0
 
 prøve	dotkeme	iskan	164	295	66	0
 
@@ -26,18 +32,3 @@ etterutdanning	jåarhkelïerehtimmie	liigeoahppu/lassioahppu	22	15	5	0
 videreutdanning	lissiebigkeme	liigeoahppu/lassioahppu	64	19	5	0
 
 noe å si	baajnehtimmiefaamoe	dadjamuš	0	0	27	0
-
-solidaritet	ektiedimmie	oktiigullevašvuohta	27	258	14	0
-tilhørighet	solidariteete	oktiigullevašvuohta	96	6	14	0
-
-undersøkelse	joekehtimmie	guorahallan	230	17	206	0
-utredning	joekehtimmie	guorahallan	376	17	206	0
-undersøkelse	salkehtimmie	guorahallan	230	84	206	1
-analyse	salkehtimmie	guorahallan	92	84	206	1
-analyse	dotkeme	guorahallan	92	295	206	0
-utredning	dotkeme	guorahallan	376	295	206	0
-analyse	pryövenasse	guorahallan	92	110	206	0
-utredning	pryövenasse	guorahallan	376	110	206	0
-
-samfunnskunnskap	ektievuekiefaage	servodatoahppu	6	0	4	0
-samfunnskunnskap	siebredahkenaamhtse	servodatoahppu	6	0	4	0
