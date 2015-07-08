@@ -1,4 +1,4 @@
-# most is bad, + på gode oversettelser
+# most is bad, + på gode oversettelser ==> ferdig
 trafikk	trafihke	johtolat/johtalus	45	20	130	0
 
 persontrafikk	persontrafihke	olmmošjohtolat/olmmošfievrrideapmi	2	0	1	0
@@ -125,7 +125,7 @@ repetisjon	repetisjovne	geardduheapmi	1	0	9	0
 
 ekspansjon	ekspansjovne	viidáneapmi	9	0	4	0
 
-+intensjon	intensjovne	álgoáigumuš/áigumuš	68	7	101	0
+intensjon	intensjovne	álgoáigumuš/áigumuš	68	7	101	0
 
 rammekonvensjon	rammekonvensjovne	rámmakonvenšuvdna/rápmakonvenšuvdna	10	1	3	0
 
@@ -241,7 +241,7 @@ finansdepartement	finansedepartemeente	finánsadepartemeanta/Ruhtadandepartemean
 
 naturdokument	naturdokumeente	luonddudokumeanta	0	0	1	0
 
-+budsjettdokument	budsjehtedokumeente/budsjehte	bušeahttadokumeanta	7	0	2	0
+budsjettdokument	budsjehtedokumeente/budsjehte	bušeahttadokumeanta	7	0	2	0
 
 monument	monumeente	bázzi	1	1	7	0
 

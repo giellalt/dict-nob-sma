@@ -1,4 +1,4 @@
-+ på gode oversettelser ferdig
++ på gode oversettelser ferdig ==> ferdig
 korridor	korridore	feaskkir/váccáhat	6	0	9	0
 +korridor	korridovre	feaskkir/váccáhat	6	0	9	0
 
@@ -30,7 +30,7 @@ konservator	konservatore	konserváhtor	3	0	5	0
 +konservator	konservatovre	konserváhtor	3	2	5	0
 
 risikofaktor	risikofaktore	riskabealli	5	0	1	0
-+risikofaktor	risikofaktovre	riskabealli	5	0	1	0
+risikofaktor	risikofaktovre	riskabealli	5	0	1	0
 
 kulturfaktor	kulturfaktore	kulturbealli	3	0	3	0
 +kulturfaktor	kultuvrefaktovre	kulturbealli	3	0	3	0
@@ -39,13 +39,13 @@ minimumsfaktor	minimumsfaktore	unnimusmearri	2	0	2	0
 +minimumsfaktor	unnemesfaktovre	unnimusmearri	2	0	2	0
 
 +sektor	suerkie	sektor/suorgi	209	198	111	8
-+sektor	sektovre	sektor/suorgi	209	15	111	0
+sektor	sektovre	sektor/suorgi	209	15	111	0
 
 +sosialsektor	sosijaleseuerkie	sosiálasektor/sosiálasuorgi	15	0	6	0
-+sosialsektor	sosijalesektovre	sosiálasektor/sosiálasuorgi	15	0	6	0
+sosialsektor	sosijalesektovre	sosiálasektor/sosiálasuorgi	15	0	6	0
 
-finanssektor	finansesuerkie	finánsasuorgi	1	0	0	0
-+finanssektor	finansesektovre	finánsasuorgi	1	0	0	0
++finanssektor	finansesuerkie	finánsasuorgi	1	0	0	0
+finanssektor	finansesektovre	finánsasuorgi	1	0	0	0
 
 transportsektor	transportsektore	fievrridansuorgi/fievrrádussuorgi	3	0	1	0
 transportsektor	transportsektovre	fievrridansuorgi/fievrrádussuorgi	3	0	1	0

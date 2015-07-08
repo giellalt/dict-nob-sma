@@ -1,4 +1,4 @@
-# most of this is bad, + på bra
+# most of this is bad, + på bra ==> ferdig
 +media	meedije	dieđihangaskaoapmi	94	146	3	13
 
 fjernsynsdrama	maajehvååjnesedraama	TV-drámá	2	0	0	0
@@ -19,7 +19,7 @@ kontaktledd	gaskeselïhtse	oktavuođalađas	1	0	1	1
 
 rammetilskudd	mieriesertiestimmie	rámmadoarjja/rápmadoarjja	16	10	2	0
 
-+tospråklighetstilskudd	guektiengïeledåarjoe	guovttegielalašvuođadoarjja	49	23	12	14
++tospråklighetstilskudd	guektiengïelendåarjoe	guovttegielalašvuođadoarjja	49	23	12	14
 
 produktmarked	dorjesesjeltie	buvttamárkan	1	0	0	0
 
@@ -67,7 +67,7 @@ gruppearbeid	dåehkiebarkoe	joavkobargu	3	0	5	3
 
 nettverksarbeid	viermiebarkoe	fierpmádatbargu	5	1	1	4
 
-+ungdomsarbeid	noerhbarkoe	nuoraidbargu/nuoraiddoaibma	5	0	5	0
++ungdomsarbeid	noeribarkoe	nuoraidbargu/nuoraiddoaibma	5	0	5	0
 
 plenumsarbeid	pleenumebarkeme	dievasčoahkkinbargu	1	0	1	0
 
@@ -189,11 +189,11 @@ planperiode	soejkesjeboelhke	plánaáigodat	24	50	8	1
 
 +arbeidsperiode	barkoeboelhke	bargoáigodat	1	3	1	0
 
-+tidsperiode	tïjjeboelhke	áigodat	13	0	315	2
+tidsperiode	tïjjeboelhke	áigodat	13	0	315	2
 
 +prosjektperiode	prosjeekteboelhke	prošeaktaáigodat/projeaktaáigodat	15	0	4	5
 
-+grannegjerde	kraannahaakene	ránnjááidi	1	0	1	0
++grannegjerde	kraannanhaakene	ránnjááidi	1	0	1	0
 
 reingjerde	båatsoehaakene	gárddástallat/boazoáidi	11	0	10	0
 
@@ -207,11 +207,11 @@ sameområde	saemielaante	sámeguovlu	2	1	2	0
 
 sørsameområde	åarjel-saemie	lullisápmi/máttasámeguovlu/lullisámeguovlu	10	0	39	0
 
-+dajvegrenseområde	raastedajve	rádjeguovlu/rádjaguovlu	13	3	7	1
++grenseområde	raastedajve	rádjeguovlu/rádjaguovlu	13	3	7	1
 
 beiteområde	gåatomedajve	guohtunguovlu/guođohanguovlu/guohtuneana	66	36	22	47
 
-fagområde	faagedajve	fágasuorgi/fágaduovdda	50	0	19	1
++fagområde	faagedajve	fágasuorgi/fágaduovdda	50	0	19	1
 
 +skogområde	skåajjedajve	vuovdeguovlu	2	0	4	3
 
@@ -231,7 +231,7 @@ språkforvaltningsområde	gïelereeremedajve	giellahálddašanguovlu	15	1	5	9
 
 satsingsområde	barkoesuerkie	árjaduovdda/nannenduovdda/vuoruhanduovdda/vuoruhansuorgi/áŋgiruššanguovlu/nannensuorgi/viggamušsuorgi/vuoruhanguovlu	50	47	3	1
 
-+skogsområde	skåajjedajve	vuovdeguovlu	4	0	4	3
+skogsområde	skåajjedajve	vuovdeguovlu	4	0	4	3
 
 tiltaksområde	råajvarimmiedajve	doaibmasuorgi	3	1	10	0
 
@@ -301,7 +301,7 @@ eierrolle	aajhteredåemiedimmie	oamastansajádat	1	0	1	0
 
 departementsrolle	departemeentedåemiedimmie	departemeantarolla	1	0	1	0
 
-+sameskole	saemieskuvle	sámeskuvla	41	6	61	5
++sameskole	saemienskuvle	sámeskuvla	41	6	61	5
 
 +fagskole	faageskuvle	fágaskuvla	76	111	15	2
 
@@ -341,7 +341,7 @@ eierkommune	aajhteretjïelte	eaiggátgielda	2	0	1	0
 
 +forvaltningskommune	reeremetjïelte	hálddašansuohkan/hálddašangielda	14	1	3	4
 
-+reindriftskommune	båatsoetjïelte	boazosuohkan/boazodoallogielda/boazodoallosuohkan	1	2	3	0
+reindriftskommune	båatsoetjïelte	boazosuohkan/boazodoallogielda/boazodoallosuohkan	1	2	3	0
 
 +vertskommune	gåassoehtæjjatjïelte	isitgielda/lágideaddjigielda/verddegielda/guossoheaddjisuohkan	6	0	1	1
 
@@ -417,9 +417,9 @@ språkforståelse	gïelegoerkesimmie	giellaipmárdus/giellaáddejupmi	3	1	2	2
 
 skolekonferanse	skuvlekonferaanse	skuvlakonferánsa	16	1	7	1
 
-+samekonferanse	saemiekonferaanse	sámekonferánsa	16	0	15	11
++samekonferanse	saemienkonferaanse	sámekonferánsa	16	0	15	11
 
-+kommunekonferanse	tjïeltekonferaanse	suohkankonferánsa/gielddakonferánsa	5	0	1	6
++kommunekonferanse	tjïeltenkonferaanse	suohkankonferánsa/gielddakonferánsa	5	0	1	6
 
 +språkkonferanse	gïelekonferaanse	giellakonferánsa	9	3	3	4
 
@@ -485,7 +485,7 @@ presse	meedije	preassa	249	146	180	0
 
 analyse	joekehtimmie	guorahallan/lađastallan	89	17	102	0
 
-+temahefte	teemaheefte	temágihpa	9	1	2	0
++temahefte	aamhteseheefte	temágihpa	9	1	2	0
 
 fellesbeite	bartagåatome	oktasašguohtun/oktasašorohat	5	0	6	0
 
@@ -539,7 +539,7 @@ arbeidsoppgave	barkemelaavenjasse	bargobihttá	33	0	12	0
 
 prøve	pryövenasse	hárjehallan/iskan	159	110	82	0
 
-+skolesjef	skuvleåvtehke	skuvlahoavda	9	1	13	0
++skolesjef	skuvlenåvtehke	skuvlahoavda	9	1	13	0
 
 administrasjonssjef	reeremeåvtehke	hálddahushoavda	4	0	14	1
 
@@ -957,7 +957,7 @@ læremiddelpedagogikk	learoevierhtiepedagogihke	oahpponeavvopedagogihkka	12	0	4	
 
 logikk	logihke	logihkka	2	1	4	1
 
-forvaltningsskikk	reeremevuekie	hálddašanvierru/hálddašandáhpi	5	1	1	0
++forvaltningsskikk	reeremevuekie	hálddašanvierru/hálddašandáhpi	5	1	1	0
 
 replikk	replihke	replihkka	92	1	38	0
 
@@ -965,7 +965,7 @@ dynamikk	dynamihke	dynamihkka	5	3	2	0
 
 rytmikk	rytmihke	rytmihkka	1	0	1	0
 
-botanikk	botanihke	botanihkka	1	0	1	0
++botanikk	botanihke	botanihkka	1	0	1	0
 
 klinikk	klinihke	klinihkka	10	26	17	2
 
@@ -973,7 +973,7 @@ poliklinikk	poliklinihke	poliklinihkka	6	0	7	0
 
 byggteknikk	bigkieteknihke	huksenteknihkka	1	0	1	0
 
-kronikk	kronihke	kronihkka	22	4	11	0
++kronikk	kronihke	kronihkka	22	4	11	0
 
 rubrikk	rubrihke	rubrihkka	6	0	2	0
 
@@ -985,7 +985,7 @@ rubrikk	rubrihke	rubrihkka	6	0	2	0
 
 +lyrikk	lyrihke	lyrihkka	3	1	4	0
 
-kirkemusikk	gærhkoemusihke	girkomusihkka	19	0	7	3
++kirkemusikk	gærhkoemusihke	girkomusihkka	19	0	7	3
 
 fysikk	fysihke	fysihkka	2	16	10	0
 
@@ -1003,9 +1003,9 @@ kosmetikk	kosmetihke	kosmetihkka	1	0	2	0
 
 +fonetikk	fonetihke	fonetihkka	1	1	2	0
 
-+barnehagepolitikk	maanagïertepolitihke	mánáidgárdepolitihkka	7	0	3	5
++barnehagepolitikk	maanajgïertepolitihke	mánáidgárdepolitihkka	7	0	3	5
 
-familiepolitikk	fuelhkiepolitihke	bearašpolitihkka	2	1	2	1
++familiepolitikk	fuelhkiepolitihke	bearašpolitihkka	2	1	2	1
 
 +kirkepolitikk	gærhkoepolitihke	girkopolitihkka	1	0	2	2
 
@@ -1029,7 +1029,7 @@ opplæringspolitikk	ööhpehtimmiepolitihke	oahpahuspolitihkka	9	5	12	4
 
 språkopplæringspolitikk	gïeleööhpehtimmiepolitihke	giellaoahpahuspolitihkka	1	1	1	0
 
-ressurspolitikk	vierhtiepolitihke	resursapolitihkka	2	1	1	1
++ressurspolitikk	vierhtiepolitihke	resursapolitihkka	2	1	1	1
 
 reindriftspolitikk	båatsoepolitihke	boazodoallopolitihkka	41	3	25	13
 
@@ -1053,7 +1053,7 @@ karakteristikk	karakteristihke	karakteristihkka	3	0	1	0
 
 kameratflokk	guejmiedåehkie	ustitjoavku	1	0	1	0
 
-+samefolk	saemieåålmege	sámeálbmot	112	1	93	4
++samefolk	saemienåålmege	sámeálbmot	112	1	93	4
 
 urfolk	aavroeåålmege	eamiálbmot/álgoálbmot	1337	0	477	0
 
@@ -1069,7 +1069,7 @@ utmark	miehtjie	meahccegeavaheapmi/meahcceeana	420	21	9	1
 
 kraftverk	faamoesijjie	fápmorusttet	17	2	4	0
 
-saltvannsfisk	mearoeguelie	mearraguolli/mearaguolli	2	8	3	0
++saltvannsfisk	mearoeguelie	mearraguolli/mearaguolli	2	8	3	0
 
 østsamisk	luvliesaemiengïele	nuortasámegiella	82	0	4	0
 
@@ -1077,9 +1077,9 @@ partipisk	krirriesvaatjkoe	bellodatduorggat	0	0	1	0
 
 +engelsk	englaantengïele	eaŋgalsgiella/eaŋgalasgiella	60	9	10	0
 
-+spansk	spaanskegïele	espánnjagiella	3	0	1	0
++spansk	spaanskengïele	espánnjagiella	3	0	1	0
 
-+fransk	fraanskegïele	ránskkagiella	7	0	1	0
++fransk	fraanskengïele	ránskkagiella	7	0	1	0
 
 +finsk	såevmiengïele	suomastit	149	9	164	0
 
@@ -1245,7 +1245,7 @@ forvaltningskontroll	reerenassegïehtjedimmie	hálddašanbearráigeahčču	1	0	1
 
 reisemål	feelemeulmie	mátkebáiki/mátkemearri/mátkkoštusulbmil/mátkkoštanrádjá	5	1	1	0
 
-+kompetansemål	maahtaldahkeulmie	gelbbolašvuođamihttu/máhttoulbmil	19	24	3	10
++kompetansemål	maahtoeulmie	gelbbolašvuođamihttu/máhttoulbmil	19	24	3	10
 
 arbeidsmål	barkemeaamhtese	bargomihttomearri	1	0	1	0
 
@@ -1269,11 +1269,11 @@ saksbehandlerprogram	aamhtesegïetedallijeprogramme	áššemeannudanprográmma	1
 
 +arbeidsprogram	barkoeprogramme	bargoprográmma	5	0	6	1
 
-utviklingsprogram	evtiedimmieprogramme	ovdánahttinprográmma/gárgedanprográmma/ovdánanprográmma/ovddidanprográmma	54	12	6	11
++utviklingsprogram	evtiedimmieprogramme	ovdánahttinprográmma/gárgedanprográmma/ovdánanprográmma/ovddidanprográmma	54	12	6	11
 
 overvåkningsprogram	gïehtjedimmieprogramme	gozihanprográmma	1	0	1	0
 
-utdanningsprogram	ööhpehtimmieprogramme	oahpahusprográmma	39	46	7	16
++utdanningsprogram	ööhpehtimmieprogramme	oahpahusprográmma	39	46	7	16
 
 språkopplæringsprogram	gïelelïerehtimmieprogramme	giellaoahppanprográmma	1	1	1	0
 
@@ -1305,7 +1305,7 @@ rim	rijme	bihci/ritnut	4	9	1	2
 
 reindriftsungdom	båatsoefijrie	boazodoallonuorra	3	0	2	0
 
-eiendom	eege	giddodat/gittaopmodat	239	4	7	0
++eiendom	eeke	giddodat/gittaopmodat	239	4	7	0
 
 fengselseiendom	geeremegåetieeaka	giddagasopmodat	1	0	1	0
 
@@ -1313,7 +1313,7 @@ barndom	maanadåapmoe	mánnávuođaáigi/mánnávuohta	16	0	19	0
 
 skadeflom	skaaradulvie	johkadulvi	1	0	1	0
 
-klasserom	klaassetjïehtjele	skuvlalatnja/klássalatnja/luohkkálatnja	29	0	8	3
++klasserom	klaassentjïehtjele	skuvlalatnja/klássalatnja/luohkkálatnja	29	0	8	3
 
 ordmellomrom	lahtesegaske	sátnegaska	0	0	1	0
 
@@ -1349,7 +1349,7 @@ klageorgan	klååkemeorgaane	váidalanorgána	23	0	2	6
 
 +forvaltningsorgan	reeremeorgaane	hálddahusorgána/hálddašanorgána/hálddašanfitnodat	60	0	18	9
 
-+kommuneplan	tjïeltesoejkesje	suohkanplána/gielddaplána	39	0	5	19
++kommuneplan	tjïeltensoejkesje	suohkanplána/gielddaplána	39	0	5	19
 
 +møteplan	tjåanghkoesoejkesje	čoahkkinplána	27	2	12	5
 
@@ -1363,7 +1363,7 @@ sjøfuglplan	snjutjkeplaane	mearraloddeplána	1	0	1	0
 
 myrplan	pluevieplaane	jeaggeplána	1	0	1	0
 
-+tidsplan	tïjjesoejkesje	áigeplána	13	1	8	0
+tidsplan	tïjjesoejkesje	áigeplána	13	1	8	0
 +utviklingsplan	övtiedimmiesoejkesje	gárgedanplána	6	2	1	0
 
 +forvaltningsplan	reeremesoejkesje	hálddašanplána	33	2	21	12
@@ -1408,7 +1408,7 @@ lønnstrinn	baalhkadaltese	bálkáceahkki	4	1	5	0
 
 +kommunesamfunn	tjïeltesiebriedahke	gielddaservodat	1	0	0	1
 
-+verdenssamfunn	veareldesiebriedahke	máilmmiservodat	6	1	2	2
++verdenssamfunn	eatnemesiebriedahke	máilmmiservodat	6	1	2	2
 
 bakgrunn	råvveeabnoe	duogáš	605	0	209	0
 
@@ -1470,7 +1470,7 @@ kombinasjon	kombinasjovne	kombinašuvdna	127	5	4	2
 
 inseminasjon	inseminasjovne	inseminašuvdna	1	0	0	0
 
-nominasjon	nominasjovne	nominašuvdna	4	1	18	0
++nominasjon	nominasjovne	nominašuvdna	4	1	18	0
 
 intonasjon	intonasjovne	intonašuvdna	1	0	1	0
 
@@ -1478,7 +1478,7 @@ okkupasjon	okkupasjovne	okkupašuvdna	6	2	2	1
 
 deklarasjon	deklarasjovne	deklarašuvdna	3	4	5	0
 
-operasjon	operasjovne	operašuvdna	14	27	9	1
++operasjon	operasjovne	operašuvdna	14	27	9	1
 
 integrasjon	integrasjovne	integrašuvdna	5	35	2	4
 
@@ -1490,9 +1490,9 @@ skoleadministrasjon	skåvloereereme	skuvlahálddahus	3	0	3	0
 
 demonstrasjon	demonstrasjovne	demonstrašuvdna	6	4	3	1
 
-illustrasjon	illustrasjovne	illustrašuvdna	23	10	4	2
++illustrasjon	illustrasjovne	illustrašuvdna	23	10	4	2
 
-sivilisasjon	sivilisasjovne	sivilisašuvdna	3	0	3	0
++sivilisasjon	sivilisasjovne	sivilisašuvdna	3	0	3	0
 
 bondeorganisasjon	båantaorganisasjovne	boanddaidorganisašuvdna	2	0	1	0
 
@@ -1514,7 +1514,7 @@ budsjettkonsultasjon	budsjehtekonsultasjovne	bušeahttakonsultašuvdna	2	0	2	0
 
 presentasjon	presentasjovne	presentašuvdna	44	0	1	0
 
-manifestasjon	manifestasjovne	manifestašuvdna	1	0	2	0
++manifestasjon	manifestasjovne	manifestašuvdna	1	0	2	0
 
 gjerdesituasjon	haakenetsiehkie	áidedilálašvuohta	1	0	1	0
 
@@ -1606,7 +1606,7 @@ presumsjon	presumsjovne	presumšuvdna	2	0	1	0
 
 dimensjon	dimensjovne	dimenšuvdna	50	13	19	6
 
-pensjon	pensjovne	boarrásiidruhta	136	50	1	0
++pensjon	pensjovne	boarrásiidruhta	136	50	1	0
 
 alderspensjon	aalterepensjovne	boarrásiidruhta/ealáhatruhta	13	6	1	0
 
@@ -1614,7 +1614,7 @@ suspensjon	suspensjovne	suspenšuvdna	2	0	1	0
 
 prevensjon	prevensjovne	prevenšuvdna	5	5	1	0
 
-ILO-konvensjon	ILO-konvensjovne	ILO-konvenšuvdna	137	31	58	14
++ILO-konvensjon	ILO-konvensjovne	ILO-konvenšuvdna	137	31	58	14
 
 samekonvensjon	saemiekonvensjovne	sámekonvenšuvdna	89	2	41	14
 
@@ -1772,7 +1772,7 @@ samarbeidspartner	laavenjostoeguejmie	bargoguoibmi/ovttasbargoverdde/ovttasbargo
 
 filmskaper	filmesjugniedæjja	filbmadahkki	2	0	36	0
 
-+leksehjelper	leaksoeviehkie	leaksoveahkki	1	2	2	0
++leksehjelper	leaksoeviehkije	leaksoveahkki	1	2	2	0
 
 +språkbærer	gïeleguedtije	giellaguoddi	8	1	3	18
 
@@ -1844,7 +1844,7 @@ omsorgssektor	hoksesuerkie	fuolahussuorgi/fuollasuorgi/fuolahansuorgi	5	0	1	2
 
 områdekontor	dajvekontovre	guovllukantuvra	3	1	13	0
 
-regionkontor	regijovnekontovre	guovllukantuvra/regiovdnakantuvra	11	1	7	0
++regionkontor	regijovnekontovre	guovllukantuvra/regiovdnakantuvra	11	1	7	0
 
 utdanningskontor	ööhpehtimmiekontovre	oahpahuskantuvra/oahppokantuvra	10	1	8	0
 
@@ -1858,9 +1858,9 @@ figur	figuvre	figuvra	109	3	7	0
 
 nomenklatur	nomenklatuvre	nomenklatuvra	2	0	0	0
 
-temperatur	temperatuvre	temperatuvra	35	9	18	6
++temperatur	temperatuvre	temperatuvra	35	9	18	6
 
-faglitteratur	faagelitteratuvre	fágagirjjálašvuohta	17	3	8	3
++faglitteratur	faagelitteratuvre	fágagirjjálašvuohta	17	3	8	3
 
 tastatur	tastatuvre	boallobeavdi	8	29	3	33
 
@@ -1868,7 +1868,7 @@ arkitektur	arkitektuvre	arkitektuvra	15	6	12	2
 
 konjunktur	konjunktuvre	konjunktuvra	6	6	3	0
 
-struktur	struktuvre	ráhkadus/hámádat	74	42	20	7
++struktur	struktuvre	ráhkadus/hámádat	74	42	20	7
 
 infrastruktur	infrastruktuvre	infrastruktuvra	115	69	31	25
 
@@ -1950,7 +1950,7 @@ plass	learoesijjie	čáhkat/šiehttat	415	19	73	0
 
 +læreplass	learoesijjie	hárjehallisadji	8	19	1	0
 
-møteplass	tjåanghkoesijjie	deaivvadansadji/deaivvadansajádat/čoahkkananbáiki/deaivvadanbáiki/gávnnadanbáiki	55	2	11	9
++møteplass	tjåanghkoesijjie	deaivvadansadji/deaivvadansajádat/čoahkkananbáiki/deaivvadanbáiki/gávnnadanbáiki	55	2	11	9
 
 omsorgsplass	hoksesijjie	fuolahansadji	5	1	1	0
 
@@ -1972,7 +1972,7 @@ hovedfokus	åejviefokuse	váldofuomášupmi	11	13	1	5
 
 +matfat	beapmoefeete/ beapmoelihtie	borramušgárri	2	0	1	0
 
-+kveldsmat	iehkedesbeapmoe	eahketbiebmu/eahkesborramuš/eahketborramuš	2	0	1	0
++kveldsmat	iehkedsbeapmoe	eahketbiebmu/eahkesborramuš/eahketborramuš	2	0	1	0
 
 formiddagsmat	aeredsbiejjiesvarkeldahke	ovdalgaskabeaiborramuš	1	0	1	0
 
@@ -2056,7 +2056,7 @@ vekstkraft	sjædtoelïeme	šaddanfápmu/ahtanuššanfápmu	3	0	1	0
 
 +opplysningsskrift	bïevnesetjaalege	čuvgehusávnnas	1	1	1	0
 
-+internatloft	internaatelapte	internáhttalokta	1	0	1	0
++internatloft	internaatenlapte	internáhttalokta	1	0	1	0
 
 +kunnskapsløft	maahtoelutneme	máhttolokten	59	49	41	11
 
@@ -2366,7 +2366,7 @@ prisnivå	åasadaltese	haddedássi	8	20	2	0
 
 +fagmiljø	faagebyjrese	fidnobiras	25	17	1	3
 
-musikkmiljø	musihkebyjrese	musihkkabiras	2	0	3	0
++musikkmiljø	musihkebyjrese	musihkkabiras	2	0	3	0
 
 +språkmiljø	gïelebyjrese	giellabiras	10	1	7	4
 
