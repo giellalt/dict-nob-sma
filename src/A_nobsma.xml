@@ -6705,6 +6705,366 @@ For the full license text, see the link above.</lic>
       </tg>
     </mg>
   </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">lokal</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">voenges</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">kulturell</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">kulturelle</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">økonomisk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">ekonomeles</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">statlig</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">staateles</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">parlamentarisk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">parlamentarihkeles</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">seksuell</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">seksuelle</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">permanent</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">ihkuve</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">kirkelig</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">gyrhkeles</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">pedagogisk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">pedagogeles</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">evig</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">ihkuve</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">sentral</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">voernges</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">privat</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">privaate</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">teknologisk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">teknologeles</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">positiv</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">positïjve</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">demokratisk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">demokraateles</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">verdifull</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">vyörtegs</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">uformell</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">ovbyjjes</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">etisk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">etihkeles</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">liknende</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">plearoeh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">reell</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">reelle</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">praktisk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">praktihkeles</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">funksjonell</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">funksjovnelle</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">spesialpedagogisk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">sjïerepedagogeles</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">tilsvarende</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">plearoeh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">teknisk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">teknihkeles</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">psykologisk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">psykologeles</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">internasjonal</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">internasjonaale</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">intellektuell</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">intellektuelle</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">eventuell</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">eventuelle</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">etnisk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">etnihkeles</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">dynamisk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">dynamihkeles</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">universell</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">universelle</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">rasjonell</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">rasjonelle</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">kommunal</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">kommunaale</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">estetisk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">estetihkeles</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">elektronisk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">elektronihkeles</t>
+      </tg>
+    </mg>
+  </e>
   <!-- Bad suggestions, remove next time round: 
 tematisk ::: tematihkeles
 personalpolitisk ::: personalpolitihkeles
