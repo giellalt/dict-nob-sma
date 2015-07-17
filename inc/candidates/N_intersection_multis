@@ -2,26 +2,26 @@
 forvaltningsledd	reeremelïhtse	hálddašanlađas	1	0	1	0
 forvaltningsledd	reerenasselïhtse	hálddašanlađas	1	0	1	0
 
-skolested	skuvlesijjie	skuvlabáiki	4	0	2	0
++skolested	skuvlesijjie	skuvlabáiki	4	0	2	0
 skolested	skuvlensijjie	skuvlabáiki	4	0	2	0
 
-industristed	industrijesijjie	industriijabáiki	1	0	1	0
++industristed	industrijesijjie	industriijabáiki	1	0	1	0
 industristed	industrisijjie	industriijabáiki	1	0	1	0
 industristed	industrijensijjie	industriijabáiki	1	0	1	0
 
 sagnsted	vaajesesijjie	cuvccasbáiki	1	0	1	0
 sagnsted	vaajesensijjie	cuvccasbáiki	1	0	1	0
 
-kurssted	kuvsjesijjie	kursabáiki	2	0	1	0
++kurssted	kuvsjesijjie	kursabáiki	2	0	1	0
 kurssted	kuvsjensijjie	kursabáiki	2	0	1	0
 
-skolearbeid	skuvlebarkoe	skuvlabargu	4	0	8	0
++skolearbeid	skuvlebarkoe	skuvlabargu	4	0	8	0
 skolearbeid	skuvlenbarkoe	skuvlabargu	4	0	8	0
 
-valgarbeid	veeljemebarkoe	válgabargu	4	0	4	0
++valgarbeid	veeljemebarkoe	válgabargu	4	0	4	0
 valgarbeid	veeljemenbarkoe	válgabargu	4	0	4	0
 
-skolesamarbeid	skuvleektiebarkoe	skuvlaovttasbargu	2	0	4	0
++skolesamarbeid	skuvleektiebarkoe	skuvlaovttasbargu	2	0	4	0
 skolesamarbeid	skuvlenektiebarkoe	skuvlaovttasbargu	2	0	4	0
 
 grensesamarbeid	raajaektiebarkoe	rádjeovttasbargu	2	0	1	0
@@ -32,23 +32,23 @@ terminologisamarbeid	terminologijeektiebarkoe	terminologiijaovttasbargu	1	0	1	0
 terminologisamarbeid	terminologiektiebarkoe	terminologiijaovttasbargu	1	0	1	0
 terminologisamarbeid	terminologijenektiebarkoe	terminologiijaovttasbargu	1	0	1	0
 
-industrisamarbeid	industrijeektiebarkoe	industriijaovttasbargu	1	0	1	0
++industrisamarbeid	industrijeektiebarkoe	industriijaovttasbargu	1	0	1	0
 industrisamarbeid	industriektiebarkoe	industriijaovttasbargu	1	0	1	0
 industrisamarbeid	industrijenektiebarkoe	industriijaovttasbargu	1	0	1	0
 
-språksamarbeid	gïeleektiebarkoe	giellaovttasbargu	25	0	11	0
++språksamarbeid	gïeleektiebarkoe	giellaovttasbargu	25	0	11	0
 språksamarbeid	gïelelaavenjasse	giellaovttasbargu	25	0	11	0
 
-læremiddelsamarbeid	learoevierhtieektiebarkoe	oahpponeavvoovttasbargu	1	0	0	0
++læremiddelsamarbeid	learoevierhtieektiebarkoe	oahpponeavvoovttasbargu	1	0	0	0
 læremiddelsamarbeid	learoevierhtienektiebarkoe	oahpponeavvoovttasbargu	1	0	0	0
 
-plansamarbeid	soejkesjeektiebarkoe	plánaovttasbargu	3	0	1	0
++plansamarbeid	soejkesjeektiebarkoe	plánaovttasbargu	3	0	1	0
 plansamarbeid	soejkesjenektiebarkoe	plánaovttasbargu	3	0	1	0
 
 maskinsamarbeid	domhpeektiebarkoe	mašiidnaovttasbargu	1	0	1	0
 maskinsamarbeid	domhpenektiebarkoe	mašiidnaovttasbargu	1	0	1	0
 
-kultursamarbeid	kultuvreektiebarkoe	kulturovttasbargu	8	0	4	0
++kultursamarbeid	kultuvreektiebarkoe	kulturovttasbargu	8	0	4	0
 kultursamarbeid	kultuvrenektiebarkoe	kulturovttasbargu	8	0	4	0
 kultursamarbeid	kulturektiebarkoe	kulturovttasbargu	8	0	4	0
 
@@ -64,7 +64,7 @@ prosjektsamarbeid	prosjeektenektiebarkoe	prošeaktaovttasbargu	8	0	2	0
 prosjektsamarbeid	prosjektektiebarkoe	prošeaktaovttasbargu	8	0	2	0
 
 utvalgsarbeid	dåehkiebarkoe	lávdegoddebargu	4	0	1	0
-utvalgsarbeid	moenehtsenbarkoe	lávdegoddebargu	4	0	1	0
++utvalgsarbeid	moenehtsenbarkoe	lávdegoddebargu	4	0	1	0
 
 fornorskingsarbeid	daaroedehtemebarkoe	dáruiduhttinbargu	1	0	2	0
 fornorskingsarbeid	daaroedehtemenbarkoe	dáruiduhttinbargu	1	0	2	0
@@ -82,7 +82,7 @@ prosjektarbeid	prosjektbarkoe	prošeaktabargu	16	0	13	0
 elevarbeid	learohkebarkoe	oahppibargu	1	0	1	0
 elevarbeid	learohkenbarkoe	oahppibargu	1	0	1	0
 
-dagtid	biejjieaejkie	beaiveáigi	5	0	1	0
++dagtid	biejjejegen	beaiveáigi	5	0	1	0
 dagtid	biejvieaejkie	beaiveáigi	5	0	1	0
 dagtid	biejjienaejkie	beaiveáigi	5	0	1	0
 dagtid	biejvienaejkie	beaiveáigi	5	0	1	0
