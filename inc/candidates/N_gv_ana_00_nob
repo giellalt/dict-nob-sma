@@ -2,8 +2,8 @@
 prøve	pryøvoe	hárjehallan/iskkus/geahččaleapmi/hárjehus/geahččalus/iskan	164	6	51	0
 prøve	pryøvedh	hárjehallan/iskkus/geahččaleapmi/hárjehus/geahččalus/iskan	164	21	51	0
 
-barnebarn	aajjuve	áddjut/áhkkut/mánáidmánná	17	2	9	1
-barnebarn	aahkuve	áddjut/áhkkut/mánáidmánná	17	3	9	1
++barnebarn	aajjuve	áddjut/áhkkut/mánáidmánná	17	2	9	1
++barnebarn	aahkuve	áddjut/áhkkut/mánáidmánná	17	3	9	1
 
 partnerskap	ektie-jieleme	searvevuohta/eallinguoibmevuohta/bargoguoibmevuohta/guoibmevuohta/doaibmaguoibmevuohta	50	0	6	0
 partnerskap	ektiejieleme	searvevuohta/eallinguoibmevuohta/bargoguoibmevuohta/guoibmevuohta/doaibmaguoibmevuohta	50	0	6	0
@@ -14,7 +14,7 @@ hjemsted	maadthsijjie	ruovttubáiki	6	0	29	0
 
 påstand	miele	čuoččuhus	28	3	66	0
 
-motvind	vuestiebiegke	vuostebiegga	2	0	5	0
++motvind	vuestiebiegke	vuostebiegga	2	0	5	0
 
 ide	åssjalomme	idea/jurdda/fuomášupmi	12	14	134	0
 
@@ -24,11 +24,11 @@ materiale	aamhtesh	materiála/ávnnas	116	164	117	0
 
 skille	løøvedh	earru	128	0	57	0
 
-hjerne	aajla	jierbmi/vuoiŋŋamaččat	7	15	31	0
++hjerne	aajla	jierbmi/vuoiŋŋamaččat	7	15	31	0
 
-vitne	væhna	vihtan	35	3	25	0
++vitne	væhna	vihtan	35	3	25	0
 
-rype	rieksege	giron/rievssat	37	0	67	0
++rype	rieksege	giron/rievssat	37	0	67	0
 
 undersøkelse	giehtjedimmie	iskkus/dárkkástus/guorahallan/iskan/iskkadeapmi/dutkan	230	11	184	0
 
@@ -42,7 +42,7 @@ vurderingsgrunnlag	vierhtiedimmie-våarome	árvvoštallanvuođđu	3	0	2	0
 
 problemstilling	dåeriesvoete	váttisvuođačuolbma/čuolbmačilgehus/čuolbmačilgen/čuolbmaášši/čuolbma/áššečuolbma/čuolbmabealli	95	0	10	0
 
-sammenligning	jortese	veardádus/buohtastahttin	27	0	9	0
++sammenligning	viertiestimmie	veardádus/buohtastahttin	27	0	9	0
 
 markering	tsiehkesjimmie	čalmmusteapmi	41	0	16	0
 
@@ -52,11 +52,11 @@ innmark	ientje	bealdu	24	2	13	0
 
 oppslagsverk	bihkehtsgærja	ohcangirji/diehtogirji/diehtobuvttus/ohcanbáiki	4	0	1	0
 
-onkel	jyøne	eanu/máhka/eahki/čeahci	8	11	17	0
++onkel	jyøne	eanu/máhka/eahki/čeahci	8	11	17	0
 
 ferdsel	minneme	vánddardeapmi/vuodjin/johtolat	59	38	178	0
 
-dataspill	daata-gaevnie	dihtorspeallu	7	0	5	0
++dataspill	daataspeale	dihtorspeallu	7	0	5	0
 
 rollespill	spiele	rollastoahkan/rollaneavttašeapmi	3	2	1	0
 
@@ -64,19 +64,19 @@ studium	giehtjedimmie	lohkansuorgi	91	11	2	0
 
 søvn	nahkerh	nagirvárri/nagir/oađđin	7	4	14	0
 
-redskap	dirrege	reaidu/neavvu/bargoneavvu/bargoreaidu/gaskaoapmi/bargobierggas/bivdoneavvu/bivddus	107	7	26	0
++redskap	dirrege	reaidu/neavvu/bargoneavvu/bargoreaidu/gaskaoapmi/bargobierggas/bivdoneavvu/bivddus	107	7	26	0
 
 kjennskap	miele	dovdan/dovdat	76	3	360	0
 
 kulp	håangke	jorbmi/savu/savvon/dappal	1	0	4	0
 
-brudepar	provresh	náittospárra/náittosbárra	0	1	5	0
++brudepar	provresh	náittospárra/náittosbárra	0	1	5	0
 
 folkeeventyr	åålmeh-vaajese	álbmotmáinnas	1	0	1	0
 
-klær	gaarvoeh	biktasat/gárvvut	24	11	13	0
++klær	gaarvoeh/ vaarjoeh	biktasat/gárvvut	24	11	13	0
 
-pels	måskoes-muadta	náhkkebivttas	1	0	1	0
++pesk	måskoes-muadta	náhkkebivttas	1	0	1	0
 
 svakhet	haaltje-bielie	headjuvuohta/hearkivuohta	17	0	3	0
 
@@ -84,6 +84,6 @@ selvtillit	jijtjetjirkeme	iešluohttámuš	9	0	7	0
 
 synspunkt	miele	oaidnoguoddu/oaidnu	58	3	240	0
 
-arrangement	øørneme	doallu/doalut	66	25	438	0
++arrangement	øørneme	doallu/doalut	66	25	438	0
 
 overenskomst	sjiehtedimmie	šiehttan	26	1	15	0
