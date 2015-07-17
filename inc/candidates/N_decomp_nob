@@ -2,19 +2,19 @@
 tilleggspunkt	lissiemierie	lassičuokkis/lasáhusčuokkis	3	0	1	0
 tilleggspunkt	lissienmierie	lassičuokkis/lasáhusčuokkis	3	0	1	0
 
-mørketid	jemhkeldetïjje	skábma/sevdnjesáigi	7	0	86	0
++mørketid	sjuvnedsbaelie	skábma/sevdnjesáigi	7	0	86	0
 
 +samlingspunkt	tjåanghkoesjijjie	čoagganansadji/čoaggananbáiki	5	0	1	0
 
 reindriftssamarbeid	båatsoeektiebarkoe	boazodoalloovttasbargu	2	0	2	0
 
-reindriftsland	båatsoelaante	boazodoalloriika	1	0	1	0
++reindriftsland	båatsoelaante	boazodoalloriika	1	0	1	0
 
 reindriftsunge	båatsoemaana	badjemánná	1	0	8	0
 
-reindriftsavtale	båatsoelatjkoe	boazodoallošiehtadus	117	0	59	0
++reindriftsavtale	båatsoelatjkoe	boazodoallošiehtadus	117	0	59	0
 
-reindriftsgruppe	båatsoedåehkie	boazodoallojoavku	4	0	2	0
++reindriftsgruppe	båatsoeburriedåehkie	boazodoallojoavku	4	0	2	0
 
 værovervåkning	daelhkiegïehtjedimmie	dálkegeahčču	1	0	1	0
 
@@ -38,7 +38,7 @@ korttidsbehandling	kåarhtetïjje	oanehisáiggedikšu	1	0	1	0
 
 korttidskort	kåarhtetïjje	oanehisáiggekoarta	1	0	1	0
 
-talerett	håalemereaktoe	hupmanvuoigatvuohta/sárdnunvuoigatvuohta	5	0	1	0
++talerett	håalemereaktoe	hupmanvuoigatvuohta/sárdnunvuoigatvuohta	5	0	1	0
 
 helsesamarbeid	starneektiebarkoe	dearvvašvuođabargu	2	0	2	0
 
@@ -130,7 +130,7 @@ valgnattsystem	veeljemejïjjesysteeme	válgaidjavuogádat	1	0	1	0
 
 +oljerikdom	åljaræjhkoesvoete	oljoriggodat	1	0	1	0
 
-jaktmann	væjroeålma	bivdoolmmái	1	0	2	0
++jaktmann	vijriesålma	bivdoolmmái	1	0	2	0
 
 +utdanningsregion	ööhpehtimmieregijovne	oahppoguovlu	1	0	1	0
 
@@ -152,7 +152,7 @@ valgkamp	veeljemegæmhpome	válgagižžu	3	0	24	0
 
 utdanningsseminar	ööhpehtimmieseminaare	oahpposeminára	1	0	1	0
 
-+jaktleder	væjroeåejvie	bivdojođiheaddji	1	0	2	0
+jaktleder	væjroeåejvie	bivdojođiheaddji	1	0	2	0
 
 undersøker	åavtoeohtsije	iskkadeaddji	3	0	2	0
 
