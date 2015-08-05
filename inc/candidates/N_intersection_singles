@@ -7,53 +7,53 @@ reindriftsblad	båatsoeplaerie	boazodoallobláđđi	1	0	1	0
 
 språksøknad	gïeleohtseme	giellaohcan	1	0	1	0
 
-språkprosjektsøknad	gïeleprosjeekteohtseme	giellaprošeaktaohcan	1	0	1	0
++språkprosjektsøknad	gïeleprosjeekteohtseme	giellaprošeaktaohcan	1	0	1	0
 
 skogsamarbeid	skåajjeektiebarkoe	vuovdeovttasbargu	1	0	0	0
 
-miljøvernsamarbeid	byjresevaarjelimmieektiebarkoe	birasgáhttenovttasbargu	2	0	1	0
++miljøvernsamarbeid	byjresevaarjelimmieektiebarkoe	birasgáhttenovttasbargu	2	0	1	0
 
-utdanningssamarbeid	ööhpehtimmieektiebarkoe	oahppoovttasbargu	2	0	1	0
++utdanningssamarbeid	ööhpehtimmieektiebarkoe	oahppoovttasbargu	2	0	1	0
 
 strategiplanarbeid	strategijesoejkesjebarkoe	strategiijaplánabargu	1	0	1	0
 
-fylkesplanarbeid	fylhkesoejkesjebarkoe	fylkkaplánabargu	1	0	1	0
++fylkesplanarbeid	fylhkesoejkesjebarkoe	fylkkaplánabargu	1	0	1	0
 
-miljøvernarbeid	byjresevaarjelimmiebarkoe	birasgáhttenbargu	1	0	1	0
++miljøvernarbeid	byjresevaarjelimmiebarkoe	birasgáhttenbargu	1	0	1	0
 
-skoleutviklingsarbeid	skuvleevtiedimmiebarkoe	skuvlaovddidanbargu	1	0	1	0
++skoleutviklingsarbeid	skuvleevtiedimmiebarkoe	skuvlaovddidanbargu	1	0	1	0
 
-språkutviklingsarbeid	gïeleevtiedimmiebarkoe	giellaovdánahttinbargu	5	0	1	2
++språkutviklingsarbeid	gïeleevtiedimmiebarkoe	giellaovdánahttinbargu	5	0	1	2
 
 språklikestillingsarbeid	gïeleseammavierhtegebarkoe	gielladássásašvuođabargu	0	0	1	0
 
 endringsarbeid	jorkestimmienbarkoe	rievdadanbargu	0	0	1	0
 
-menneskerettighetsarbeid	almetjereaktabarkoe	olmmošvuoigatvuođadoaibma	2	0	1	1
++menneskerettighetsarbeid	almetjereaktabarkoe	olmmošvuoigatvuođadoaibma	2	0	1	1
 
 statsgjeld	staatenlaajkoe	stáhtavealgi	2	0	0	0
 
-hovedinnhold	åejviesisvege	váldosisdoallu	12	1	5	2
++hovedinnhold	åejviesisvege	váldosisdoallu	12	1	5	2
 
 hjemland	hïejmelaante	ruovtturiika/ruovttueana	6	1	5	2
 
-vertsland	gåassoehtæjjalaante	isitriika	1	0	1	0
++vertsland	gåassoehtæjjalaante	isitriika	1	0	1	0
 
-stipend	stipeende	stipeanda	276	326	146	30
++stipend	stipeende	stipeanda	276	326	146	30
 
-havvind	mearoebïegke	áhpebiegga	2	0	0	0
++havvind	mearoebïegke	áhpebiegga	2	0	0	0
 
-fagord	faagenbaakoe	doaba	1	0	119	0
++fagord	faagebaakoe	doaba	1	0	119	0
 
 slagord	tjïertebaakoe	čurvestat/čuoládat/čuoládatsátni/čuorvvassátni	4	0	1	0
 
-tallord	låhkoebaakoe	lohkosátni	1	0	3	0
++tallord	låhkoebaakoe	lohkosátni	1	0	3	0
 
 skjellsord	skiblienbaakoe	cielossátni	2	0	1	0
 
-samisktilbud	saemiengïelefaaleldahke	sámefálaldat	18	0	1	0
++samisktilbud	saemienfaaleldahke	sámefálaldat	18	0	1	0
 
-arbeidstilbud	barkoenfaaleldahke	bargofálaldat	3	0	4	0
++arbeidstilbud	barkoefaaleldahke	bargofálaldat	3	0	4	0
 
 behandlingstilbud	gïetedallemefaaleldahke	dálkkodanfálaldat/dikšofálaldat/dikšunfálaldat	16	0	2	0
 
@@ -283,43 +283,43 @@ planinteresse	soejkesjeïedtje	plánaberoštus	1	0	1	0
 
 samfunnsinteresse	siebriedahkeïedtje	servodatberoštupmi/servodatberoštus	6	0	3	0
 
-arbeidsfortjeneste	barkoedïeneste	bargodienas	25	0	7	0
++arbeidsfortjeneste	barkoedïenese	bargodienas	25	0	7	0
 
-taleliste	håalemelæstoe	sáhkavuorrolistu/sárdnelistu	20	0	3	0
++taleliste	håalemelæstoe	sáhkavuorrolistu/sárdnelistu	20	0	3	0
 
-klasseliste	klaasselæstoe	klássalista	1	0	0	0
++klasseliste	klaasselæstoe	klássalista	1	0	0	0
 
-terminologiliste	terminologijelæstoe	terminologiijalistu/terminologiijalista	6	0	1	0
++terminologiliste	terminologijelæstoe	terminologiijalistu/terminologiijalista	6	0	1	0
 
-bokliste	gærjalæstoe	girjelistu	1	0	1	0
++bokliste	gærjalæstoe	girjelistu	1	0	1	0
 
 regjeringsliste	reerenasselæstoe	ráđđehuslistu	1	0	0	0
 
-sametingsliste	saemiedigkielæstoe	sámediggelistu	5	0	5	0
++sametingsliste	saemiedigkienlæstoe	sámediggelistu	5	0	5	0
 
-medlemsliste	lïhtsegelæstoe	lahttolistu/lahttolista	5	0	1	0
++medlemsliste	lïhtsegelæstoe	lahttolistu/lahttolista	5	0	1	0
 
-postliste	påastelæstoe	poastalistu/boastalistu	1	0	1	0
++postliste	påastelæstoe	poastalistu/boastalistu	1	0	1	0
 
-elevliste	learohkelæstoe	oahppilistu	1	0	1	0
++elevliste	learohkelæstoe	oahppilistu	1	0	1	0
 
-partistøtte	partijedåarjoe	bellodatdoarjja	3	0	2	0
++partistøtte	partijedåarjoe	bellodatdoarjja	3	0	2	0
 
-språkstøtte	gïeledåarjoe	gielladoarjja	2	0	3	0
++språkstøtte	gïeledåarjoe	gielladoarjja	2	0	3	0
 
-festivalstøtte	festivaaledåarjoe	festiváladoarjja	6	1	3	0
++festivalstøtte	festivaaledåarjoe	festiváladoarjja	6	1	3	0
 
-forfatterstøtte	tjaelijedåarjoe	girječálliiddoarjja	1	0	1	0
++forfatterstøtte	tjaelijedåarjoe	girječálliiddoarjja	1	0	1	0
 
-kulturstøtte	kultuvredåarjoe	kulturdoarjja	2	0	7	0
++kulturstøtte	kultuvredåarjoe	kulturdoarjja	2	0	7	0
 
 forlagsstøtte	bertemedåarjoe	lágádusdoarjja/girjelágádusdoarjja	15	0	2	0
 
-administrasjonsstøtte	reeremedåarjoe	hálddahusdoarjja	1	0	1	0
++administrasjonsstøtte	reeremedåarjoe	hálddahusdoarjja	1	0	1	0
 
-institusjonsstøtte	institusjovnedåarjoe	ásahusdoarjja	1	0	1	0
++institusjonsstøtte	institusjovnedåarjoe	ásahusdoarjja	1	0	1	0
 
-budsjettstøtte	budsjehtedåarjoe	bušeahttadoarjja	1	0	1	0
++budsjettstøtte	budsjehtedåarjoe	bušeahttadoarjja	1	0	1	0
 
 fortellermåte	soptsestæjjavuekie	muitalanvuohki	1	0	4	0
 
@@ -327,43 +327,43 @@ behandlingsmåte	gïetedallemevuekie	gieđahallanvuohki/meannudanvuohki	5	0	5	0
 
 tilpasningsmåte	sjïehtedimmievuekie	heivehanvuohki	0	0	1	0
 
-bruksmåte	pråvhkoevuekie	geavahanmálle/geavahanvuohki	6	0	3	0
++bruksmåte	pråvhkoevuekie	geavahanmálle/geavahanvuohki	6	0	3	0
 
 nordfylkemøte	noerhtefylhke	davvifylkkaidčoahkkin	1	0	0	0
 
-valgmøte	veeljemetjåanghkoe	válgačoahkkin	1	0	2	0
++valgmøte	veeljemetjåanghkoe	válgačoahkkin	1	0	2	0
 
-telefonmøte	telefovnetjåanghkoe	telefovdnačoahkkin/telefončoahkkin	8	0	1	0
++telefonmøte	telefovnetjåanghkoe	telefovdnačoahkkin/telefončoahkkin	8	0	1	0
 
 toppmøte	gïerhgietjietjåanghkoe	njunuščoahkkin	8	0	2	0
 
-rektormøte	rektovretjåanghkoe	rektorčoahkkin	1	0	1	0
++rektormøte	rektovretjåanghkoe	rektorčoahkkin	1	0	1	0
 
-kulturmøte	kultuvretjåanghkoe	kulturdeaivvadeapmi	3	0	10	0
++kulturmøte	kultuvretjåanghkoe	kulturdeaivvadeapmi	3	0	10	0
 
-arbeidsmøte	barkoetjåanghkoe	bargočoahkkin	6	0	3	0
++arbeidsmøte	barkoetjåanghkoe	bargočoahkkin	6	0	3	0
 
 statsrådsmøte	staateraerietjåanghkoe	stáhtaráđđečoahkkin	4	0	1	0
 
-fylkesmøte	fylhketjåanghkoe	fylkkačoahkkin	1	0	1	0
++fylkesmøte	fylhketjåanghkoe	fylkkačoahkkin	1	0	1	0
 
-medlemsmøte	lïhtsegetjåanghkoe	miellahttočoahkkin	2	0	7	0
++medlemsmøte	lïhtsegetjåanghkoe	miellahttočoahkkin	2	0	7	0
 
-plenumsmøte	pleenumetjåanghkoe	dievasčoahkkin/ollesčoakkán/ollesčoahkkin	114	0	96	0
++plenumsmøte	pleenumetjåanghkoe	dievasčoahkkin/ollesčoakkán/ollesčoahkkin	114	0	96	0
 
-nominasjonsmøte	nominasjovnetjåanghkoe	nominašunčoahkkin/nominašuvdnačoahkkin	1	0	3	4
++nominasjonsmøte	nominasjovnetjåanghkoe	nominašunčoahkkin/nominašuvdnačoahkkin	1	0	3	4
 
 rettsmøte	reaktoetjåanghkoe	riektečoahkkin	2	0	1	0
 
-statusmøte	staatusetjåanghkoe	stáhtusčoahkkin	1	0	1	0
++statusmøte	staatusetjåanghkoe	stáhtusčoahkkin	1	0	1	0
 
 kontaktmøte	gaskesetjåanghkoe	oktavuođačoahkkin/gulahallančoahkkin	13	0	4	0
 
-presidentmøte	presideentetjåanghkoe	presideantačoahkkin/presideanttaidčoahkkin	3	0	1	0
++presidentmøte	presideentetjåanghkoe	presideantačoahkkin/presideanttaidčoahkkin	3	0	1	0
 
-høstmøte	tjaktjetjåanghkoe	čakčačoahkkin	1	0	1	0
++høstmøte	tjaktjetjåanghkoe	čakčačoahkkin	1	0	1	0
 
-budsjettmøte	budsjehtetjåanghkoe	bušeahttačoahkkin/budjeahttačoahkkin	2	0	1	0
++budsjettmøte	budsjehtetjåanghkoe	bušeahttačoahkkin/budjeahttačoahkkin	2	0	1	0
 
 skolestue	skuvleståapoe	skuvlastohpu	4	0	1	0
 
@@ -371,11 +371,11 @@ internatstue	internaateståapoe	internáhttastohpu	1	0	1	0
 
 styrkesjef	faamoeåvtehke	veahkahoavda	1	0	1	0
 
-hotellsjef	hotelleåvtehke	hoteallahoavda	1	0	1	0
++hotellsjef	hotelleåejvie	hoteallahoavda	1	0	1	0
 
-radiosjef	radioåvtehke	rádiohoavda	1	0	1	0
++radiosjef	radioåaejvie	rádiohoavda	1	0	1	0
 
-teatersjef	teaatereåvtehke	teáhterhoavda	2	0	16	0
++teatersjef	teaatereåvtehke	teáhterhoavda	2	0	16	0
 
 markedssjef	sjeltieåvtehke	márkanhoavda	1	0	3	0
 
@@ -397,7 +397,7 @@ kunststoff	kåanstetyjje	dahkuávnnas	0	0	1	0
 
 kvinnedag	nyjsenæjjabiejjie	nissonbeaivi	5	0	8	2
 
-språkfag	gïelefaage	giellafága	7	0	10	4
++språkfag	gïelefaage	giellafága	7	0	10	4
 
 samfunnsfag	siebriedahkenfaage	servodatfága/servodatoahppu/servvodatfága	34	0	9	0
 
@@ -427,13 +427,13 @@ lærerbolig	lohkehtæjjaveasoe	oahpaheaddjedállu	3	0	0	0
 
 omsorgsbolig	såjhtoeveasoe	fuolahanviessu/fuollavisti/fuollaásodat/fuolahanvisti	4	0	1	0
 
-kommunevalg	tjïelteveeljeme	gielddastivrraválga/suohkanválga/suohkanstivrraválga/gielddaválga	2	0	4	1
++kommunevalg	tjïelteveeljeme	gielddastivrraválga/suohkanválga/suohkanstivrraválga/gielddaválga	2	0	4	1
 
-kommunestyrevalg	tjïelteståvroeveeljeme	gielddastivrraválga/suohkanstivrraválga	4	1	1	1
++kommunestyrevalg	tjïelteståvroeveeljeme	gielddastivrraválga/suohkanstivrraválga	4	1	1	1
 
-utdanningsvalg	ööhpehtimmieveeljeme	oahppoválljen	2	0	1	0
++utdanningsvalg	ööhpehtimmieveeljeme	oahppoválljen	2	0	1	0
 
-flertallsvalg	jienebelåhkoeveeljeme	eanetlohkoválga	5	0	2	0
++flertallsvalg	jienebelåhkoeveeljeme	eanetlohkoválga	5	0	2	0
 
 fjernsynssending	maajehvååjnesesaadtege	TV-sátta	1	0	6	0
 
@@ -469,23 +469,23 @@ nordfylkesamling	noerhtefylhke	davvifylkkaidčoagganeapmi	1	0	0	0
 
 lenkesamling	svaalhtesetjåanghkoe	liŋkačoakkáldat	1	0	0	0
 
-minnesamling	mojhtesetjåanghkoe	muitočoakkálmas	1	0	1	0
++minnesamling	mojhtesetjåanghkoe	muitočoakkálmas	1	0	1	0
 
-boksamling	gærjatjåanghkoe	girječoakkáldat	4	0	2	0
++boksamling	gærjatjåanghkoe	girječoakkáldat	4	0	2	0
 
-språksamling	gïeletjåanghkoe	giellačoagganeapmi	2	0	1	0
++språksamling	gïeletjåanghkoe	giellačoagganeapmi	2	0	1	0
 
-sommersamling	giesietjåanghkoe	geassečoahkkin	1	0	1	0
++sommersamling	giesietjåanghkoe	geassečoahkkin	1	0	1	0
 
 ungdomssamling	fijrietjåanghkoe	nuoraiddeaivvadeapmi	1	0	2	0
 
-plenumssamling	pleenumetjåanghkoe	dievasčoahkkinčoagganeapmi	21	0	1	0
++plenumssamling	pleenumetjåanghkoe	dievasčoahkkinčoagganeapmi	21	0	1	0
 
 diktsamling	tjihtesetjåanghkoe	diktačoakkáldat	3	0	3	0
 
-elevsamling	learohketjåanghkoe	oahppičoagganeapmi	1	0	1	0
++elevsamling	learohketjåanghkoe	oahppičoagganeapmi	1	0	1	0
 
-lærerveiledning	lohkehtæjjabïhkedimmie	oahpaheaddjebagadallan/oahpaheaddjebagadus/oahpaheaddjeráva	4	0	1	0
++lærerveiledning	lohkehtæjjabïhkedimmie	oahpaheaddjebagadallan/oahpaheaddjebagadus/oahpaheaddjeráva	4	0	1	0
 
 klageordning	laejhtemeåårdnege	váidalusortnet/váidinortnet/váidalanortnet	4	0	1	0
 
