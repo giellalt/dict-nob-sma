@@ -1,4 +1,4 @@
-
++ på gode => nesten ferdig
 forvaltningsledd	reeremelïhtse	hálddašanlađas	1	0	1	0
 forvaltningsledd	reerenasselïhtse	hálddašanlađas	1	0	1	0
 
@@ -28,7 +28,7 @@ grensesamarbeid	raajaektiebarkoe	rádjeovttasbargu	2	0	1	0
 grensesamarbeid	krïenseektiebarkoe	rádjeovttasbargu	2	0	1	0
 grensesamarbeid	raajanektiebarkoe	rádjeovttasbargu	2	0	1	0
 
-terminologisamarbeid	terminologijeektiebarkoe	terminologiijaovttasbargu	1	0	1	0
++terminologisamarbeid	terminologijeektiebarkoe	terminologiijaovttasbargu	1	0	1	0
 terminologisamarbeid	terminologiektiebarkoe	terminologiijaovttasbargu	1	0	1	0
 terminologisamarbeid	terminologijenektiebarkoe	terminologiijaovttasbargu	1	0	1	0
 
@@ -52,14 +52,14 @@ maskinsamarbeid	domhpenektiebarkoe	mašiidnaovttasbargu	1	0	1	0
 kultursamarbeid	kultuvrenektiebarkoe	kulturovttasbargu	8	0	4	0
 kultursamarbeid	kulturektiebarkoe	kulturovttasbargu	8	0	4	0
 
-utviklingssamarbeid	evtiedimmieektiebarkoe	ovdánahttinovttasbargu/ovddidanovttasbargu	5	0	1	0
-utviklingssamarbeid	övtiedimmieektiebarkoe	ovdánahttinovttasbargu/ovddidanovttasbargu	5	0	1	0
++utviklingssamarbeid	evtiedimmieektiebarkoe	ovdánahttinovttasbargu/ovddidanovttasbargu	5	0	1	0
++utviklingssamarbeid	övtiedimmieektiebarkoe	ovdánahttinovttasbargu/ovddidanovttasbargu	5	0	1	0
 utviklingssamarbeid	evtiedimmienektiebarkoe	ovdánahttinovttasbargu/ovddidanovttasbargu	5	0	1	0
 
 regjeringssamarbeid	reerenasseektiebarkoe	ráđđehusovttasbargu	1	0	1	0
 regjeringssamarbeid	reerenassenektiebarkoe	ráđđehusovttasbargu	1	0	1	0
 
-prosjektsamarbeid	prosjeekteektiebarkoe	prošeaktaovttasbargu	8	0	2	0
++prosjektsamarbeid	prosjeekteektiebarkoe	prošeaktaovttasbargu	8	0	2	0
 prosjektsamarbeid	prosjeektenektiebarkoe	prošeaktaovttasbargu	8	0	2	0
 prosjektsamarbeid	prosjektektiebarkoe	prošeaktaovttasbargu	8	0	2	0
 
@@ -67,22 +67,22 @@ utvalgsarbeid	dåehkiebarkoe	lávdegoddebargu	4	0	1	0
 +utvalgsarbeid	moenehtsenbarkoe	lávdegoddebargu	4	0	1	0
 
 fornorskingsarbeid	daaroedehtemebarkoe	dáruiduhttinbargu	1	0	2	0
-fornorskingsarbeid	daaroedehtemenbarkoe	dáruiduhttinbargu	1	0	2	0
++fornorskingsarbeid	daaroedehtemenbarkoe	dáruiduhttinbargu	1	0	2	0
 
 forvaltningsarbeid	reeremebarkoe	hálddašanbargu	1	0	5	0
 forvaltningsarbeid	reeremenbarkoe	hálddašanbargu	1	0	5	0
 
 barnevernsarbeid	maanavaarjelimmiebarkoe	mánáidsuodjalusbargu/mánáidsuodjalanbargu	1	0	1	0
-barnevernsarbeid	maanavaarjelimmienbarkoe	mánáidsuodjalusbargu/mánáidsuodjalanbargu	1	0	1	0
++barnevernsarbeid	maanavaarjelimmienbarkoe	mánáidsuodjalusbargu/mánáidsuodjalanbargu	1	0	1	0
 
-prosjektarbeid	prosjeektebarkoe	prošeaktabargu	16	0	13	0
++prosjektarbeid	prosjeektebarkoe	prošeaktabargu	16	0	13	0
 prosjektarbeid	prosjeektenbarkoe	prošeaktabargu	16	0	13	0
 prosjektarbeid	prosjektbarkoe	prošeaktabargu	16	0	13	0
 
-elevarbeid	learohkebarkoe	oahppibargu	1	0	1	0
++elevarbeid	learohkebarkoe	oahppibargu	1	0	1	0
 elevarbeid	learohkenbarkoe	oahppibargu	1	0	1	0
 
-+dagtid	biejjejegen	beaiveáigi	5	0	1	0
++dagtid	biejjejege	beaiveáigi	5	0	1	0
 dagtid	biejvieaejkie	beaiveáigi	5	0	1	0
 dagtid	biejjienaejkie	beaiveáigi	5	0	1	0
 dagtid	biejvienaejkie	beaiveáigi	5	0	1	0
@@ -101,17 +101,17 @@ dagtid	biejjienboelhke	beaiveáigi	5	0	1	0
 dagtid	biejvienboelhke	beaiveáigi	5	0	1	0
 
 nyttårskveld	orrejaepieiehkede	ođđabeairuohtta	1	0	3	0
-nyttårskveld	orrejaepieniehkede	ođđabeairuohtta	1	0	3	0
++nyttårskveld	orrejaepieniehkede	ođđabeairuohtta	1	0	3	0
 
 sameland	saemielaante	sámeeana	10	1	5	0
 sameland	saemienlaante	sámeeana	10	0	5	0
 
-industriland	industrijelaante	industriijariika	2	0	2	0
++industriland	industrijelaante	industriijariika	2	0	2	0
 industriland	industrilaante	industriijariika	2	0	2	0
 industriland	industrijenlaante	industriijariika	2	0	2	0
 
 naboland	kraannalaante	ránnjáriika/kránnjáriika	7	0	4	0
-naboland	kraannanlaante	ránnjáriika/kránnjáriika	7	0	4	0
++naboland	kraannanlaante	ránnjáriika/kránnjáriika	7	0	4	0
 
 samarbeidsland	ektiebarkoelaante	ovttasbargoriika	2	0	1	0
 samarbeidsland	ektiebarkoenlaante	ovttasbargoriika	2	0	1	0
@@ -119,55 +119,55 @@ samarbeidsland	ektiebarkoenlaante	ovttasbargoriika	2	0	1	0
 skolegård	skuvlegaertene	skuvlašillju	3	0	5	0
 skolegård	skuvlengaertene	skuvlašillju	3	0	5	0
 
-skoletilbud	skuvlefaaleldahke	skuvlafálaldat	29	0	12	0
++skoletilbud	skuvlefaaleldahke	skuvlafálaldat	29	0	12	0
 skoletilbud	skuvlenfaaleldahke	skuvlafálaldat	29	0	12	0
 
 bibliotektilbud	gærjagåetienuepie	girjerádjofálaldat/bibliotehkafálaldat/girjerájusfálaldat	12	0	2	0
-bibliotektilbud	gærjagåetiefaaleldahke	girjerádjofálaldat/bibliotehkafálaldat/girjerájusfálaldat	12	0	2	2
++bibliotektilbud	gærjagåetiefaaleldahke	girjerádjofálaldat/bibliotehkafálaldat/girjerájusfálaldat	12	0	2	2
 
 språktilbud	gïelenuepie	giellafálaldat	10	0	3	0
-språktilbud	gïelefaaleldahke	giellafálaldat	10	0	3	0
++språktilbud	gïelefaaleldahke	giellafálaldat	10	0	3	0
 
-læremiddeltilbud	learoevierhtiefaaleldahke	oahpponeavvofálaldat	1	0	1	0
++læremiddeltilbud	learoevierhtiefaaleldahke	oahpponeavvofálaldat	1	0	1	0
 læremiddeltilbud	learoevierhtienfaaleldahke	oahpponeavvofálaldat	1	0	1	0
 
 filmtilbud	jielieguvviefaaleldahke	filbmafálaldat	1	0	1	0
 filmtilbud	jielieguvvienfaaleldahke	filbmafálaldat	1	0	1	0
 
 radiotilbud	radionfaaleldahke	rádiofálaldat	2	0	1	0
-radiotilbud	radiofaaleldahke	rádiofálaldat	2	0	1	0
++radiotilbud	radiofaaleldahke	rádiofálaldat	2	0	1	0
 
-teatertilbud	teaaterefaaleldahke	teáhterfálaldat	1	0	1	1
++teatertilbud	teaaterefaaleldahke	teáhterfálaldat	1	0	1	1
 teatertilbud	teaaterenfaaleldahke	teáhterfálaldat	1	0	1	0
 
-kulturtilbud	kultuvrefaaleldahke	kulturfálaldat	15	0	6	0
++kulturtilbud	kultuvrefaaleldahke	kulturfálaldat	15	0	6	0
 kulturtilbud	kultuvrenfaaleldahke	kulturfálaldat	15	0	6	0
 kulturtilbud	kulturfaaleldahke	kulturfálaldat	15	0	6	0
 
-utviklingstilbud	evtiedimmiefaaleldahke	ovdánahttinvejolašvuohta	1	0	4	0
-utviklingstilbud	övtiedimmiefaaleldahke	ovdánahttinvejolašvuohta	1	0	4	0
++utviklingstilbud	evtiedimmiefaaleldahke	ovdánahttinvejolašvuohta	1	0	4	0
++utviklingstilbud	övtiedimmiefaaleldahke	ovdánahttinvejolašvuohta	1	0	4	0
 utviklingstilbud	evtiedimmienfaaleldahke	ovdánahttinvejolašvuohta	1	0	4	0
 
 veiledningstilbud	bïhkedimmienuepie	rávvenfálaldat	1	0	1	0
-veiledningstilbud	bïhkedimmiefaaleldahke	rávvenfálaldat	1	0	1	1
++veiledningstilbud	bïhkedimmiefaaleldahke	rávvenfálaldat	1	0	1	1
 
 omsorgstilbud	såjhtoenuepie	fuolahanfálaldat/fuolahusfálaldat/fuollafálaldat	11	0	1	0
 omsorgstilbud	såjhtoefaaleldahke	fuolahanfálaldat/fuolahusfálaldat/fuollafálaldat	11	0	1	0
 
 informasjonstilbud	bïevnesenuepie	diehtojuohkinfálaldat/informašuvdnafálaldat	2	0	1	0
-informasjonstilbud	bïevnesefaaleldahke	diehtojuohkinfálaldat/informašuvdnafálaldat	2	0	1	0
++informasjonstilbud	bïevnesefaaleldahke	diehtojuohkinfálaldat/informašuvdnafálaldat	2	0	1	0
 
 barnevernstilbud	maanavaarjelimmiefaaleldahke	mánáidsuodjalusfálaldat/mánáidsuodjalanfálaldat	1	0	1	0
-barnevernstilbud	maanavaarjelimmienfaaleldahke	mánáidsuodjalusfálaldat/mánáidsuodjalanfálaldat	1	0	1	0
++barnevernstilbud	maanavaarjelimmienfaaleldahke	mánáidsuodjalusfálaldat/mánáidsuodjalanfálaldat	1	0	1	0
 
-nyhetstilbud	saerniefaaleldahke	ođasfálaldat	1	0	1	0
++nyhetstilbud	saerniefaaleldahke	ođasfálaldat	1	0	1	0
 nyhetstilbud	saernienfaaleldahke	ođasfálaldat	1	0	1	0
 
-internattilbud	internaatefaaleldahke	internáhttafálaldat	1	0	1	0
++internattilbud	internaatefaaleldahke	internáhttafálaldat	1	0	1	0
 internattilbud	internaatenfaaleldahke	internáhttafálaldat	1	0	1	0
 internattilbud	internatfaaleldahke	internáhttafálaldat	1	0	1	0
 
-skoleråd	skuvleraerie	skuvlaráđđi	3	0	2	0
++skoleråd	skuvleraerie	skuvlaráđđi	3	0	2	0
 skoleråd	skuvlenraerie	skuvlaráđđi	3	0	2	0
 
 forvaltningsråd	reeremeraerie	hálddašanráva	1	0	1	0
@@ -177,7 +177,7 @@ regjeringsråd	reerenasseraerie	ráđđehusráđđi	1	0	1	0
 regjeringsråd	reerenassenraerie	ráđđehusráđđi	1	0	1	0
 regjeringsråd	reerenasseståvroe	ráđđehusráđđi	1	0	1	0
 
-elevråd	learohkeraerie	ohppiidráđđi	5	1	7	0
++elevråd	learohkeraerie	ohppiidráđđi	5	1	7	0
 elevråd	learohkenraerie	ohppiidráđđi	5	0	7	0
 elevråd	learohkeståvroe	ohppiidráđđi	5	0	7	0
 
@@ -192,7 +192,7 @@ ressursside	vierhtieraedtie	resursasiidu	1	0	1	0
 ressursside	vierhtienraedtie	resursasiidu	1	0	1	0
 ressursside	vierhtiesæjroe	resursasiidu	1	0	1	0
 
-rettskilde	reaktoegaaltije	riektegáldu	8	0	8	0
++rettskilde	reaktoegaaltije	riektegáldu	8	0	8	0
 rettskilde	reaktoengaaltije	riektegáldu	8	0	8	0
 
 regjeringsperiode	reerenassegohkedæjja	ráđđehusáigodat	1	0	1	0
@@ -214,28 +214,28 @@ eksamensperiode	eksaamenenboelhke	eksámenáigodat	1	0	0	0
 landområde	rïjhkedajve	eanaviidodat/eananguovlu	45	0	2	0
 landområde	laantendajve	eanaviidodat/eananguovlu	45	0	2	0
 
-nordområde	noerhtedajve	davviguovlu	164	0	93	3
++nordområde	noerhtedajve	davviguovlu	164	0	93	3
 nordområde	noerhtendajve	davviguovlu	164	0	93	0
 
-barnehageområde	maanagïertedajve	mánáidgárdesuorgi	6	0	9	0
++barnehageområde	maanagïertedajve	mánáidgárdesuorgi	6	0	9	0
 barnehageområde	maanajgïertedajve	mánáidgárdesuorgi	6	0	9	0
 
-hytteområde	hahtjoedajve	bartaguovlu/bartabáiki	9	0	4	0
++hytteområde	hahtjoedajve	bartaguovlu/bartabáiki	9	0	4	0
 hytteområde	ståapoedajve	bartaguovlu/bartabáiki	9	0	4	0
 hytteområde	hahtjoendajve	bartaguovlu/bartabáiki	9	0	4	0
 
-industriområde	industrijedajve	industriijaguovlu	2	0	2	0
++industriområde	industrijedajve	industriijaguovlu	2	0	2	0
 industriområde	industridajve	industriijaguovlu	2	0	2	0
 industriområde	industrijendajve	industriijaguovlu	2	0	2	0
 
-planområde	soejkesjedajve	plánaguovlu	5	0	3	0
++planområde	soejkesjedajve	plánaguovlu	5	0	3	0
 planområde	soejkesjendajve	plánaguovlu	5	0	3	0
 
 litteraturområde	litteratuvredajve	girjjálašvuođasuorgi	1	0	1	0
-litteraturområde	litteratuvrendajve	girjjálašvuođasuorgi	1	0	1	0
++litteraturområde	litteratuvrendajve	girjjálašvuođasuorgi	1	0	1	0
 litteraturområde	litteraturdajve	girjjálašvuođasuorgi	1	0	1	0
 
-kulturområde	kultuvredajve	kultursuorgi	10	0	12	0
++kulturområde	kultuvredajve	kultursuorgi	10	0	12	0
 kulturområde	kultuvrendajve	kultursuorgi	10	0	12	0
 kulturområde	kulturdajve	kultursuorgi	10	0	12	0
 
@@ -249,16 +249,16 @@ landskapsområde	eatnemedajve	eanadatguovlu	1	0	0	0
 landskapsområde	eatnemendajve	eanadatguovlu	1	0	0	0
 
 virksomhetsområde	gïehtelimmielaante	doaibmasuorgi	6	0	10	0
-virksomhetsområde	gïehtelimmiedajve	doaibmasuorgi	6	0	10	0
++virksomhetsområde	gïehtelimmiedajve	doaibmasuorgi	6	0	10	0
 
-prosjektområde	prosjeektedajve	prošeaktasuorgi	1	0	1	0
++prosjektområde	prosjeektedajve	prošeaktasuorgi	1	0	1	0
 prosjektområde	prosjeektendajve	prošeaktasuorgi	1	0	1	0
 prosjektområde	prosjektdajve	prošeaktasuorgi	1	0	1	0
 
 havområde	mearoedajve	áhpeguovlu/mearraguovlu	17	0	8	1
 havområde	mearoendajve	áhpeguovlu/mearraguovlu	17	0	8	0
 
-fornorskingshistorie	daaroedehtemehistovrije	dáruiduhttinhistorjá	0	0	1	0
++fornorskingshistorie	daaroedehtemehistovrije	dáruiduhttinhistorjá	0	0	1	0
 fornorskingshistorie	daaroedehtemenhistovrije	dáruiduhttinhistorjá	0	0	1	0
 
 kunsthistorie	kåanstehistovrije	dáiddahistorjá	2	0	2	0
@@ -267,38 +267,38 @@ kunsthistorie	kåanstevaajese	dáiddahistorjá	2	0	2	0
 varemerke	eekevæhta	gálvomearka	3	0	2	0
 varemerke	vaaroevæhta	gálvomearka	3	0	2	0
 
-gruppesamtale	dåehkiesoptsestimmie	joavkoságastallan	1	0	1	0
++gruppesamtale	dåehkiesoptsestimmie	joavkoságastallan	1	0	1	0
 gruppesamtale	dåehkiegaskestalleme	joavkoságastallan	1	0	1	0
 
-kulturavtale	kultuvrelatjkoe	kulturšiehtadus/kultursoahpamuš	2	0	1	0
++kulturavtale	kultuvrelatjkoe	kulturšiehtadus/kultursoahpamuš	2	0	1	0
 kulturavtale	kultuvrenlatjkoe	kulturšiehtadus/kultursoahpamuš	2	0	1	0
 kulturavtale	kulturlatjkoe	kulturšiehtadus/kultursoahpamuš	2	0	1	0
 
-tilleggsavtale	lissielatjkoe	lassesoahpamuš	1	0	1	0
++tilleggsavtale	lissielatjkoe	lassesoahpamuš	1	0	1	0
 tilleggsavtale	lissienlatjkoe	lassesoahpamuš	1	0	1	0
 
 forvaltningsavtale	reeremelatjkoe	hálddašanšiehtadus	2	0	1	0
 forvaltningsavtale	reeremenlatjkoe	hálddašanšiehtadus	2	0	1	0
 
-musikkskole	musihkeskuvle	musihkkaskuvla	3	0	3	0
++musikkskole	musihkeskuvle	musihkkaskuvla	3	0	3	0
 musikkskole	musikskuvle	musihkkaskuvla	3	0	3	0
 musikkskole	musikkskuvle	musihkkaskuvla	3	0	3	0
 musikkskole	musihkenskuvle	musihkkaskuvla	3	0	3	0
 musikkskole	musihkeskåvloe	musihkkaskuvla	3	0	3	0
 
 fjellskole	vaerieskuvle	duottarskuvla/várreskuvla	2	0	1	0
-fjellskole	tjahkeskuvle	duottarskuvla/várreskuvla	2	0	1	0
++fjellskole	tjahkeskuvle	duottarskuvla/várreskuvla	2	0	1	0
 fjellskole	vaerienskuvle	duottarskuvla/várreskuvla	2	0	1	0
 fjellskole	tjahkenskuvle	duottarskuvla/várreskuvla	2	0	1	0
 
 filmskole	jielieguvvieskuvle	filbmaskuvla	1	0	1	0
 filmskole	jielieguvvienskuvle	filbmaskuvla	1	0	1	0
 
-sommerskole	giesieskuvle	geasseskuvla	2	0	1	0
++sommerskole	giesieskuvle	geasseskuvla	2	0	1	0
 sommerskole	giesienskuvle	geasseskuvla	2	0	1	0
 sommerskole	giesieskåvloe	geasseskuvla	2	0	1	0
 
-vinterskole	daelvieskuvle	dálveskuvla	3	0	1	0
++vinterskole	daelvieskuvle	dálveskuvla	3	0	1	0
 vinterskole	daelvienskuvle	dálveskuvla	3	0	1	0
 vinterskole	daelvieskåvloe	dálveskuvla	3	0	1	0
 
@@ -307,7 +307,7 @@ utmarksskole	miehtjiesdajvenskuvle	meahcceskuvla	2	0	3	0
 utmarksskole	miehtjiesdajveskåvloe	meahcceskuvla	2	0	3	0
 
 internatskole	internaateskuvle	skuvlainternáhtta	12	0	5	0
-internatskole	internaatenskuvle	skuvlainternáhtta	12	0	5	0
++internatskole	internaatenskuvle	skuvlainternáhtta	12	0	5	0
 internatskole	internaateskåvloe	skuvlainternáhtta	12	0	5	0
 
 fjellsame	vaeriesaemie	duottarsápmi	11	0	1	0
@@ -316,46 +316,46 @@ fjellsame	vaeriensaemie	duottarsápmi	11	0	1	0
 fjellsame	tjahkensaemie	duottarsápmi	11	0	1	0
 
 musikktime	musihketæjma	musihkkadiibmu	1	0	1	0
-musikktime	musihketæjmoe	musihkkadiibmu	1	0	1	0
++musikktime	musihketæjmoe	musihkkadiibmu	1	0	1	0
 
 samisktime	saemiengïeletæjma	sámegieldiibmu/sámegieltiibmu	4	0	2	0
-samisktime	saemiengïeletæjmoe	sámegieldiibmu/sámegieltiibmu	4	0	2	0
++samisktime	saemientæjmoe	sámegieldiibmu/sámegieltiibmu	4	0	2	0
 
 lærertime	lohkehtæjjatæjma	oahpaheaddjediibmu	1	0	0	0
-lærertime	lohkehtæjjatæjmoe	oahpaheaddjediibmu	1	0	0	0
++lærertime	lohkehtæjjantæjmoe	oahpaheaddjediibmu	1	0	0	0
 
 undervisningstime	bïhkedimmietæjmoe	oahpahusdiibmu/oahpahandiibmu/oahppodiibmu	7	0	3	0
-undervisningstime	ööhpehtimmietæjmoe	oahpahusdiibmu/oahpahandiibmu/oahppodiibmu	7	0	3	0
++undervisningstime	ööhpehtimmietæjmoe	oahpahusdiibmu/oahpahandiibmu/oahppodiibmu	7	0	3	0
 
 religionstime	religijovnetæjma	religiovdnadiibmu	1	0	0	0
-religionstime	religijovnetæjmoe	religiovdnadiibmu	1	0	0	0
++religionstime	religijovnetæjmoe	religiovdnadiibmu	1	0	0	0
 
 fellesgamme	bartagåetie	oktasašgoahti	1	0	0	0
 fellesgamme	ruevtiegåetie	oktasašgoahti	1	0	0	0
 
-grensekommune	raajatjïelte	rádjegielda/rádjesuohkan	2	0	1	0
++grensekommune	raajatjïelte	rádjegielda/rádjesuohkan	2	0	1	0
 grensekommune	krïensetjïelte	rádjegielda/rádjesuohkan	2	0	1	0
 
 regionsenterkommune	regijovnejarnge	guovlluguovddášsuohkan	1	0	0	0
 regionsenterkommune	regijovnenjarnge	guovlluguovddášsuohkan	1	0	0	0
 regionsenterkommune	regionjarnge	guovlluguovddášsuohkan	1	0	0	0
 
-utviklingskommune	evtiedimmietjïelte	ovdánahttinsuohkan	1	0	1	0
-utviklingskommune	övtiedimmietjïelte	ovdánahttinsuohkan	1	0	1	0
++utviklingskommune	evtiedimmietjïelte	ovdánahttinsuohkan	1	0	1	0
++utviklingskommune	övtiedimmietjïelte	ovdánahttinsuohkan	1	0	1	0
 
-samarbeidsgruppe	ektiebarkoedåehkie	ovttasbargojoavku	56	0	15	0
++samarbeidsgruppe	ektiebarkoedåehkie	ovttasbargojoavku	56	0	15	0
 samarbeidsgruppe	laavenjassedåehkie	ovttasbargojoavku	56	0	15	0
 
-utviklingsgruppe	evtiedimmiedåehkie	ovddidanjoavku	1	0	1	0
-utviklingsgruppe	övtiedimmiedåehkie	ovddidanjoavku	1	0	1	0
++utviklingsgruppe	evtiedimmiedåehkie	ovddidanjoavku	1	0	1	0
++utviklingsgruppe	övtiedimmiedåehkie	ovddidanjoavku	1	0	1	0
 
 ressursgruppe	maelmiedåehkie	resursajoavku	3	0	2	0
 ressursgruppe	vierhtiedåehkie	resursajoavku	3	0	2	0
 
-skolestyre	skuvleståvroe	skuvlastivra	35	0	22	0
++skolestyre	skuvleståvroe	skuvlastivra	35	0	22	0
 skolestyre	skåvloeståvroe	skuvlastivra	35	0	22	0
 
-landsstyre	rïjhkeståvroe	riikkastivra	6	0	21	0
++landsstyre	rïjhkeståvroe	riikkastivra	6	0	21	0
 landsstyre	eatnemeståvroe	riikkastivra	6	0	21	0
 landsstyre	laanteståvroe	riikkastivra	6	0	21	0
 
@@ -366,61 +366,61 @@ forvaltningsstyre	reeremeståvroe	hálddašanstivra	4	0	2	1
 forvaltningsstyre	reerenasseståvroe	hálddašanstivra	4	0	2	0
 
 flertallsstyre	gellientaaleståvroe	eanetlohkostivra/eanetlohkostivren	1	0	1	0
-flertallsstyre	jienebelåhkoeståvroe	eanetlohkostivra/eanetlohkostivren	1	0	1	0
++flertallsstyre	jienebelåhkoeståvroe	eanetlohkostivra/eanetlohkostivren	1	0	1	0
 
 bystyre	sjeltieståvroe	gávpotstivra	5	0	4	0
-bystyre	staareståvroe	gávpotstivra	5	0	4	2
++bystyre	staareståvroe	gávpotstivra	5	0	4	2
 
-fargelære	klaerielearoe	ivdneoahppu	1	0	1	0
++fargelære	klaerielearoe	ivdneoahppu	1	0	1	0
 fargelære	klaerienlearoe	ivdneoahppu	1	0	1	0
 
-barnehagekonferanse	maanagïertekonferaanse	mánáidgárdekonferánsa	8	0	4	0
++barnehagekonferanse	maanagïertekonferaanse	mánáidgárdekonferánsa	8	0	4	0
 barnehagekonferanse	maanajgïertekonferaanse	mánáidgárdekonferánsa	8	0	4	0
 
 skolekonferanse	skåvloekonferaanse	skuvlakonferánsa	16	0	7	0
-skolekonferanse	skuvlenkonferaanse	skuvlakonferánsa	16	0	7	0
++skolekonferanse	skuvlekonferaanse	skuvlakonferánsa	16	0	7	0
 
-kulturminnekonferanse	kultuvremojhtesekonferaanse	kulturmuitokonferánsa	2	0	1	1
++kulturminnekonferanse	kultuvremojhtesekonferaanse	kulturmuitokonferánsa	2	0	1	1
 kulturminnekonferanse	kultuvremojhtesenkonferaanse	kulturmuitokonferánsa	2	0	1	0
 
 politikonferanse	politijekonferaanse	politiijakonferánsa	1	0	1	0
 politikonferanse	politikonferaanse	politiijakonferánsa	1	0	1	0
-politikonferanse	politijenkonferaanse	politiijakonferánsa	1	0	1	0
++politikonferanse	politijenkonferaanse	politiijakonferánsa	1	0	1	0
 
 filmkonferanse	jielieguvviekonferaanse	filbmakonferánsa	1	0	1	0
 filmkonferanse	jielieguvvienkonferaanse	filbmakonferánsa	1	0	1	0
 
-kulturkonferanse	kultuvrekonferaanse	kulturkonferánsa	1	0	1	0
++kulturkonferanse	kultuvrekonferaanse	kulturkonferánsa	1	0	1	0
 kulturkonferanse	kultuvrenkonferaanse	kulturkonferánsa	1	0	1	0
 kulturkonferanse	kulturkonferaanse	kulturkonferánsa	1	0	1	0
 
-samarbeidskonferanse	ektiebarkoekonferaanse	ovttasbargokonferánsa	1	0	1	0
++samarbeidskonferanse	ektiebarkoekonferaanse	ovttasbargokonferánsa	1	0	1	0
 samarbeidskonferanse	ektiebarkoenkonferaanse	ovttasbargokonferánsa	1	0	1	0
 
-likestillingskonferanse	seammavierhtegekonferaanse	dásseárvokonferánsa	7	0	4	0
++likestillingskonferanse	seammavierhtegekonferaanse	dásseárvokonferánsa	7	0	4	0
 likestillingskonferanse	mïrrestallemekonferaanse	dásseárvokonferánsa	7	0	4	0
 
 regjeringskonferanse	reerenassekonferaanse	ráđđehuskonferánsa	5	0	1	0
 regjeringskonferanse	reerenassenkonferaanse	ráđđehuskonferánsa	5	0	1	0
 
-årskonferanse	jaepiekonferaanse	jahkekonferánsa	1	0	1	0
++årskonferanse	jaepiekonferaanse	jahkekonferánsa	1	0	1	0
 årskonferanse	jaepienkonferaanse	jahkekonferánsa	1	0	1	0
 
-høstkonferanse	tjaktjekonferaanse	čakčakonferánsa	1	0	1	0
++høstkonferanse	tjaktjekonferaanse	čakčakonferánsa	1	0	1	0
 høstkonferanse	tjaktjenkonferaanse	čakčakonferánsa	1	0	1	0
 
-kulturkompetanse	kultuvrenmaahtoe	kulturgelbbolašvuohta/kulturgealbu/kulturmáhttu	58	0	15	0
++kulturkompetanse	kultuvrenmaahtoe	kulturgelbbolašvuohta/kulturgealbu/kulturmáhttu	58	0	15	0
 kulturkompetanse	kulturmaahtoe	kulturgelbbolašvuohta/kulturgealbu/kulturmáhttu	58	0	15	0
 
-samarbeidskompetanse	ektiebarkoemaahtoe	ovttasbargogelbbolašvuohta	1	0	1	0
++samarbeidskompetanse	ektiebarkoemaahtoe	ovttasbargogelbbolašvuohta	1	0	1	0
 samarbeidskompetanse	ektiebarkoenmaahtoe	ovttasbargogelbbolašvuohta	1	0	1	0
 
-utviklingskompetanse	evtiedimmiemaahtoe	ovddidanmáhttu	1	0	1	0
-utviklingskompetanse	övtiedimmiemaahtoe	ovddidanmáhttu	1	0	1	0
++utviklingskompetanse	evtiedimmiemaahtoe	ovddidanmáhttu	1	0	1	0
++utviklingskompetanse	övtiedimmiemaahtoe	ovddidanmáhttu	1	0	1	0
 utviklingskompetanse	evtiedimmienmaahtoe	ovddidanmáhttu	1	0	1	0
 
 undervisningskompetanse	bïhkedimmiemaahtoe	oahpahusgelbbolašvuohta/oahpahangelbbolašvuohta	3	0	2	0
-undervisningskompetanse	ööhpehtimmiemaahtoe	oahpahusgelbbolašvuohta/oahpahangelbbolašvuohta	3	0	2	0
++undervisningskompetanse	ööhpehtimmiemaahtoe	oahpahusgelbbolašvuohta/oahpahangelbbolašvuohta	3	0	2	0
 
 tekstkompetanse	teekstemaahtoe	teakstagelbbolašvuohta	2	0	1	0
 tekstkompetanse	teekstenmaahtoe	teakstagelbbolašvuohta	2	0	1	0
@@ -436,30 +436,30 @@ fellesliste	bartalæstoe	oktasašlista	4	0	1	0
 fellesliste	ruevtielæstoe	oktasašlista	4	0	1	0
 
 dokumentliste	låhkoelæstoe	dokumeantalistu	9	0	0	0
-dokumentliste	dokumeentelæstoe	dokumeantalistu	9	0	0	0
++dokumentliste	dokumeentelæstoe	dokumeantalistu	9	0	0	0
 
-sommerhytte	giesiehahtjoe	geassestohpu	1	0	1	0
++sommerhytte	giesiehahtjoe	geassestohpu	1	0	1	0
 sommerhytte	giesienhahtjoe	geassestohpu	1	0	1	0
 
 rentestøtte	lissiemaaksoedåarjoe	reantodoarjja	2	0	3	0
-rentestøtte	reanhtoedåarjoe	reantodoarjja	2	0	3	0
+rentestøtte	reantadåarjoe	reantodoarjja	2	0	3	0
 
-læremåte	learoevuekie	skuvlamáhttu	1	0	3	0
++læremåte	learoevuekie	skuvlamáhttu	1	0	3	0
 læremåte	learoenvuekie	skuvlamáhttu	1	0	3	0
 
 undervisningsmåte	bïhkedimmievuekie	oahpahushápmi/oahpahusvuohki/oahpahanvuohki	2	0	5	0
-undervisningsmåte	ööhpehtimmievuekie	oahpahushápmi/oahpahusvuohki/oahpahanvuohki	2	0	5	0
++undervisningsmåte	ööhpehtimmievuekie	oahpahushápmi/oahpahusvuohki/oahpahanvuohki	2	0	5	0
 
 kursmåte	kuvsjevuekie	kursavuohki	1	0	1	0
-kursmåte	kuvsjenvuekie	kursavuohki	1	0	1	0
++kursmåte	kuvsjenvuekie	kursavuohki	1	0	1	0
 
 gruppemøte	dåehkiegaavnedimmie	joavkočoahkkin	13	0	7	0
-gruppemøte	dåehkietjåanghkoe	joavkočoahkkin	13	0	7	0
++gruppemøte	dåehkietjåanghkoe	joavkočoahkkin	13	0	7	0
 
 styremøte	ståvroegaavnedimmie	stivrračoahkkin	22	0	16	0
-styremøte	ståvroetjåanghkoe	stivrračoahkkin	22	0	16	0
++styremøte	ståvroetjåanghkoe	stivrračoahkkin	22	0	16	0
 
-samarbeidsmøte	ektiebarkoetjåanghkoe	ovttasbargočoahkkin	8	0	7	0
++samarbeidsmøte	ektiebarkoetjåanghkoe	ovttasbargočoahkkin	8	0	7	0
 samarbeidsmøte	laavenjassetjåanghkoe	ovttasbargočoahkkin	8	0	7	0
 
 fellesmøte	bartatjåanghkoe	oktasaščoahkkin	19	0	7	0
@@ -467,53 +467,53 @@ fellesmøte	ruevtietjåanghkoe	oktasaščoahkkin	19	0	7	0
 
 informasjonsmøte	bïevnesegaavnedimmie	diehtojuohkinčoahkkin	13	0	11	0
 informasjonsmøte	saerniestimmietjåanghkoe	diehtojuohkinčoahkkin	13	0	11	0
-informasjonsmøte	bïevnesetjåanghkoe	diehtojuohkinčoahkkin	13	0	11	0
++informasjonsmøte	bïevnesetjåanghkoe	diehtojuohkinčoahkkin	13	0	11	0
 
 kjøkkensjef	tjöövkeåvtehke	gievkkanhoavda	1	0	1	0
-kjøkkensjef	tjöökeåvtehke	gievkkanhoavda	1	0	1	0
++kjøkkensjef	tjöökeåvtehke	gievkkanhoavda	1	0	1	0
 
 informasjonssjef	saerniestimmieåvtehke	diehtojuohkinhoavda	4	0	9	0
 informasjonssjef	bïevneseåvtehke	diehtojuohkinhoavda	4	0	9	0
 
-nyttårsdag	orrejaepienbiejjie	ođđajagebeaivi	1	0	1	0
++nyttårsdag	orrejaepienbiejjie	ođđajagebeaivi	1	0	1	0
 nyttårsdag	orrejaepiebiejvie	ođđajagebeaivi	1	0	1	0
 nyttårsdag	orrejaepienbiejvie	ođđajagebeaivi	1	0	1	0
 
-planforslag	soejkesjeuvtelasse	plánaevttohus/plánaárvalus	13	0	3	0
++planforslag	soejkesjeuvtelasse	plánaevttohus/plánaárvalus	13	0	3	0
 planforslag	soejkesjenuvtelasse	plánaevttohus/plánaárvalus	13	0	3	0
 
-tilleggsforslag	lissieuvtelasse	lasseevttohus/lasáhusevttohus/lassiárvalus/lassievttohus/liigeevttohus	22	0	2	0
++tilleggsforslag	lissieuvtelasse	lasseevttohus/lasáhusevttohus/lassiárvalus/lassievttohus/liigeevttohus	22	0	2	0
 tilleggsforslag	lissienuvtelasse	lasseevttohus/lasáhusevttohus/lassiárvalus/lassievttohus/liigeevttohus	22	0	2	0
 
-utviklingsforslag	evtiedimmieuvtelasse	ovddidanevttohus	1	0	1	0
-utviklingsforslag	övtiedimmieuvtelasse	ovddidanevttohus	1	0	1	0
++utviklingsforslag	evtiedimmieuvtelasse	ovddidanevttohus	1	0	1	0
++utviklingsforslag	övtiedimmieuvtelasse	ovddidanevttohus	1	0	1	0
 utviklingsforslag	evtiedimmienuvtelasse	ovddidanevttohus	1	0	1	0
 
-prosjektforslag	prosjeekteuvtelasse	projeaktaevttohus/prošeaktaárvalus	1	0	1	0
++prosjektforslag	prosjeekteuvtelasse	projeaktaevttohus/prošeaktaárvalus	1	0	1	0
 prosjektforslag	prosjeektenuvtelasse	projeaktaevttohus/prošeaktaárvalus	1	0	1	0
 prosjektforslag	prosjektuvtelasse	projeaktaevttohus/prošeaktaárvalus	1	0	1	0
 
-tekstforslag	teeksteuvtelasse	teakstaevttohus	1	0	1	0
++tekstforslag	teeksteuvtelasse	teakstaevttohus	1	0	1	0
 tekstforslag	teekstenuvtelasse	teakstaevttohus	1	0	1	0
 tekstforslag	tekstuvtelasse	teakstaevttohus	1	0	1	0
 
-fylkesflagg	fylhkesaevege	fylkkaleavga	1	0	1	0
++fylkesflagg	fylhkesaevege	fylkkaleavga	1	0	1	0
 fylkesflagg	fylhkensaevege	fylkkaleavga	1	0	1	0
 
-statsflagg	staatesaevege	stáhtaleavga	4	0	1	0
++statsflagg	staatesaevege	stáhtaleavga	4	0	1	0
 statsflagg	staatensaevege	stáhtaleavga	4	0	1	0
 
 veivalg	geajnoeveeljeme	geaidnoválljen	7	0	1	0
 veivalg	geajnoenveeljeme	geaidnoválljen	7	0	1	0
 
-strategivalg	strategijeveeljeme	strategiijaválljen	1	0	1	0
++strategivalg	strategijeveeljeme	strategiijaválljen	1	0	1	0
 strategivalg	strategiveeljeme	strategiijaválljen	1	0	1	0
 strategivalg	strategijenveeljeme	strategiijaválljen	1	0	1	0
 
 radiosending	radionsaadtege	rádiosátta	4	0	6	0
-radiosending	radiosaadtege	rádiosátta	4	0	6	1
++radiosending	radiosaadtege	rádiosátta	4	0	6	1
 
-nyhetssending	saerniesaadtege	ođassátta	4	1	7	1
++nyhetssending	saerniesaadtege	ođassátta	4	1	7	1
 nyhetssending	saerniensaadtege	ođassátta	4	0	7	0
 
 kompetanseoppbygging	maahtaldahketseegkeme	gelbbolašvuođahuksen	18	0	3	0
@@ -527,67 +527,67 @@ samfunnsoppbygging	siebriedahkentseegkeme	servodathuksen	2	0	2	0
 kunnskapsoppbygging	maahtoetseegkeme	diehtohuksen/máhtolašvuođahuksen/máhttohuksen	10	0	1	0
 kunnskapsoppbygging	maahtoentseegkeme	diehtohuksen/máhtolašvuođahuksen/máhttohuksen	10	0	1	0
 
-samfunnsavdeling	siebriedahkegoevtese	servodatossodat	2	0	2	0
++samfunnsavdeling	siebriedahkegoevtese	servodatossodat	2	0	2	0
 samfunnsavdeling	siebriedahkengoevtese	servodatossodat	2	0	2	0
 
-kursavdeling	kuvsjegoevtese	kursaossodat	1	0	1	0
++kursavdeling	kuvsjegoevtese	kursaossodat	1	0	1	0
 kursavdeling	kuvsjengoevtese	kursaossodat	1	0	1	0
 
-skoleutvikling	skuvleevtiedimmie	skuvlaovdáneapmi/skuvlaovddideapmi	4	0	1	0
++skoleutvikling	skuvleevtiedimmie	skuvlaovdáneapmi/skuvlaovddideapmi	4	0	1	0
 skoleutvikling	skuvlenevtiedimmie	skuvlaovdáneapmi/skuvlaovddideapmi	4	0	1	0
-skoleutvikling	skuvleövtiedimmie	skuvlaovdáneapmi/skuvlaovddideapmi	4	0	1	0
++skoleutvikling	skuvleövtiedimmie	skuvlaovdáneapmi/skuvlaovddideapmi	4	0	1	0
 
 industriutvikling	industrijeevtiedimmie	industriijaovddideapmi	3	0	1	0
 industriutvikling	industrievtiedimmie	industriijaovddideapmi	3	0	1	0
 industriutvikling	industrijenevtiedimmie	industriijaovddideapmi	3	0	1	0
-industriutvikling	industrijeövtiedimmie	industriijaovddideapmi	3	0	1	0
++industriutvikling	industrijeövtiedimmie	industriijaovddideapmi	3	0	1	0
 
 musikkutvikling	musihkeevtiedimmie	musihkkaovddideapmi	4	0	1	0
 musikkutvikling	musikevtiedimmie	musihkkaovddideapmi	4	0	1	0
 musikkutvikling	musikkevtiedimmie	musihkkaovddideapmi	4	0	1	0
 musikkutvikling	musihkenevtiedimmie	musihkkaovddideapmi	4	0	1	0
-musikkutvikling	musihkeövtiedimmie	musihkkaovddideapmi	4	0	1	0
++musikkutvikling	musihkeövtiedimmie	musihkkaovddideapmi	4	0	1	0
 
 lederutvikling	åejvieevtiedimmie	hovdenovdáneapmi/jođiheaddjeovddideapmi	4	0	1	0
-lederutvikling	åejvieövtiedimmie	hovdenovdáneapmi/jođiheaddjeovddideapmi	4	0	1	0
++lederutvikling	åejvieövtiedimmie	hovdenovdáneapmi/jođiheaddjeovddideapmi	4	0	1	0
 
 organisasjonsutvikling	organisasjovneevtiedimmie	organisašuvdnaovddideapmi	14	0	2	0
 organisasjonsutvikling	organisasjovnenevtiedimmie	organisašuvdnaovddideapmi	14	0	2	0
 organisasjonsutvikling	organisationsevtiedimmie	organisašuvdnaovddideapmi	14	0	2	0
 organisasjonsutvikling	organisasjonsevtiedimmie	organisašuvdnaovddideapmi	14	0	2	0
-organisasjonsutvikling	organisasjovneövtiedimmie	organisašuvdnaovddideapmi	14	0	2	0
++organisasjonsutvikling	organisasjovneövtiedimmie	organisašuvdnaovddideapmi	14	0	2	0
 
-stedsnavnsutvikling	sijjienommeevtiedimmie	báikenammaovddideapmi	2	0	1	0
++stedsnavnsutvikling	sijjienommeevtiedimmie	báikenammaovddideapmi	2	0	1	0
 stedsnavnsutvikling	dajvenommeevtiedimmie	báikenammaovddideapmi	2	0	1	0
 stedsnavnsutvikling	sijjienommenevtiedimmie	báikenammaovddideapmi	2	0	1	0
 stedsnavnsutvikling	dajvenommenevtiedimmie	báikenammaovddideapmi	2	0	1	0
-stedsnavnsutvikling	sijjienommeövtiedimmie	báikenammaovddideapmi	2	0	1	0
++stedsnavnsutvikling	sijjienommeövtiedimmie	báikenammaovddideapmi	2	0	1	0
 stedsnavnsutvikling	dajvenommeövtiedimmie	báikenammaovddideapmi	2	0	1	0
 
-prosjektutvikling	prosjeekteevtiedimmie	prošeaktaovdánahttin/prošeaktaovddideapmi	2	0	1	0
++prosjektutvikling	prosjeekteevtiedimmie	prošeaktaovdánahttin/prošeaktaovddideapmi	2	0	1	0
 prosjektutvikling	prosjeektenevtiedimmie	prošeaktaovdánahttin/prošeaktaovddideapmi	2	0	1	0
 prosjektutvikling	prosjektevtiedimmie	prošeaktaovdánahttin/prošeaktaovddideapmi	2	0	1	0
-prosjektutvikling	prosjeekteövtiedimmie	prošeaktaovdánahttin/prošeaktaovddideapmi	2	0	1	0
++prosjektutvikling	prosjeekteövtiedimmie	prošeaktaovdánahttin/prošeaktaovddideapmi	2	0	1	0
 
 områdeordning	laanteåårdnege	guovloortnet	1	0	1	0
-områdeordning	dajveåårdnege	guovloortnet	1	0	1	0
++områdeordning	dajveöörnege	guovloortnet	1	0	1	0
 
-samarbeidsordning	ektiebarkoeåårdnege	ovttasbargoortnet	3	0	1	0
++samarbeidsordning	ektiebarkoeöörnege	ovttasbargoortnet	3	0	1	0
 samarbeidsordning	laavenjasseåårdnege	ovttasbargoortnet	3	0	1	0
 
 bruksordning	pråvhkoeåårdnege	doaibmaortnet/geavahanortnet	3	0	1	0
-bruksordning	åtnoeåårdnege	doaibmaortnet/geavahanortnet	3	0	1	0
++bruksordning	åtnoeöörnege	doaibmaortnet/geavahanortnet	3	0	1	0
 
-tilleggsetning	lissieraajese	liigecealkka	1	0	1	0
++tilleggsetning	lissieraajese	liigecealkka	1	0	1	0
 tilleggsetning	lissienraajese	liigecealkka	1	0	1	0
 
-tilleggssetning	lissieraajese	lassicealkka	2	0	1	0
++tilleggssetning	lissieraajese	lassicealkka	2	0	1	0
 tilleggssetning	lissienraajese	lassicealkka	2	0	1	0
 
-rettssetning	reaktoeraajese	riektecealkka	1	0	1	0
++rettssetning	reaktoeraajese	riektecealkka	1	0	1	0
 rettssetning	reaktoenraajese	riektecealkka	1	0	1	0
 
-landsting	rïjhkedigkie	riikkadiggi	1	0	1	0
++landsting	rïjhkedigkie	riikkadiggi	1	0	1	0
 landsting	laantendigkie	riikkadiggi	1	0	1	0
 
 bruksting	pråvhkoedigkie	atnubierggas/atnudiŋga	4	0	2	0
@@ -596,11 +596,11 @@ bruksting	åtnoedigkie	atnubierggas/atnudiŋga	4	0	2	0
 høstflytting	tjaktjejuhteme	čakčajohtin	2	0	2	0
 høstflytting	tjaktjenjuhteme	čakčajohtin	2	0	2	0
 
-rettsterminologi	reaktoeterminologije	riekteterminologiija	1	0	1	0
++rettsterminologi	reaktoeterminologije	riekteterminologiija	1	0	1	0
 rettsterminologi	reaktoenterminologije	riekteterminologiija	1	0	1	0
 
 barnehagesak	maanagïerteaamhtese	mánáidgárdeášši	1	0	1	0
-barnehagesak	maanajgïerteaamhtese	mánáidgárdeášši	1	0	1	0
++barnehagesak	maanajgïerteaamhtese	mánáidgárdeášši	1	0	1	0
 
 klagesak	laejhtemeaamhtese	váidalanášši/váiddaášši/váidinášši/váidalusášši	14	0	3	2
 klagesak	laejhtemenaamhtese	váidalanášši/váiddaášši/váidinášši/váidalusášši	14	0	3	0
@@ -608,90 +608,90 @@ klagesak	laejhtemenaamhtese	váidalanášši/váiddaášši/váidinášši/váid
 merkesak	mïerhkeaamhtese	mearkaášši	1	0	1	0
 merkesak	tsïegleaamhtese	mearkaášši	1	0	1	0
 
-skolesak	skuvleaamhtese	skuvlabierggas/skuvlaášši	4	0	3	0
++skolesak	skuvleaamhtese	skuvlabierggas/skuvlaášši	4	0	3	0
 skolesak	skuvlenaamhtese	skuvlabierggas/skuvlaášši	4	0	3	0
 
 samesak	saemieaamhtese	sámeášši	3	1	20	2
 samesak	saemienaamhtese	sámeášši	3	0	20	0
 
-flaggsak	saevegeaamhtese	leavgaášši	1	0	1	0
++flaggsak	saevegeaamhtese	leavgaášši	1	0	1	0
 flaggsak	saevegenaamhtese	leavgaášši	1	0	1	0
 
 plansak	soejkesjeaamhtese	plánaášši	10	0	4	1
 plansak	soejkesjenaamhtese	plánaášši	10	0	4	0
 
-læreplansak	learoeplaaneaamhtese	oahppoplánaášši	1	0	1	0
++læreplansak	learoeplaaneaamhtese	oahppoplánaášši	1	0	1	0
 læreplansak	learoeplaanenaamhtese	oahppoplánaášši	1	0	1	0
 
 kulturvernsak	kultuvrevaarjelimmieaamhtese	kultursuodjalusášši	1	0	1	0
 kulturvernsak	kultuvrevaarjelimmienaamhtese	kultursuodjalusášši	1	0	1	0
 
-stedsnavnsak	sijjienommeaamhtese	báikenammaášši	1	0	1	0
++stedsnavnsak	sijjienommeaamhtese	báikenammaášši	1	0	1	0
 stedsnavnsak	dajvenommeaamhtese	báikenammaášši	1	0	1	0
 stedsnavnsak	sijjienommenaamhtese	báikenammaášši	1	0	1	0
 stedsnavnsak	dajvenommenaamhtese	báikenammaášši	1	0	1	0
 
-kultursak	kultuvreaamhtese	kulturášši	3	0	5	0
+k+ultursak	kultuvreaamhtese	kulturášši	3	0	5	0
 kultursak	kultuvrenaamhtese	kulturášši	3	0	5	0
 kultursak	kulturaamhtese	kulturášši	3	0	5	0
 
-tilleggssak	lissieaamhtese	lassiášši	9	0	3	0
++tilleggssak	lissieaamhtese	lassiášši	9	0	3	0
 tilleggssak	lissienaamhtese	lassiášši	9	0	3	0
 
-utviklingssak	evtiedimmieaamhtese	ovddidanášši	1	0	1	0
-utviklingssak	övtiedimmieaamhtese	ovddidanášši	1	0	1	0
++utviklingssak	evtiedimmieaamhtese	ovddidanášši	1	0	1	0
++utviklingssak	övtiedimmieaamhtese	ovddidanášši	1	0	1	0
 utviklingssak	evtiedimmienaamhtese	ovddidanášši	1	0	1	0
 
-likestillingssak	seammavierhtegeaamhtese	dásseárvoášši	1	0	2	0
++likestillingssak	seammavierhtegeaamhtese	dásseárvoášši	1	0	2	0
 likestillingssak	mïrrestallemeaamhtese	dásseárvoášši	1	0	2	0
 
 forvaltningssak	reeremeaamhtese	hálddašanášši/hálddahusášši	6	0	2	2
 forvaltningssak	reeremenaamhtese	hálddašanášši/hálddahusášši	6	0	2	0
 
-organisasjonssak	organisasjovneaamhtese	organisašuvdnaášši	2	0	1	0
++organisasjonssak	organisasjovneaamhtese	organisašuvdnaášši	2	0	1	0
 organisasjonssak	organisasjovnenaamhtese	organisašuvdnaášši	2	0	1	0
 organisasjonssak	organisationsaamhtese	organisašuvdnaášši	2	0	1	0
 organisasjonssak	organisasjonsaamhtese	organisašuvdnaášši	2	0	1	0
 
-konsultasjonssak	konsultasjovneaamhtese	konsultašuvdnaášši	2	0	1	0
++konsultasjonssak	konsultasjovneaamhtese	konsultašuvdnaášši	2	0	1	0
 konsultasjonssak	konsultasjovnenaamhtese	konsultašuvdnaášši	2	0	1	0
 konsultasjonssak	konsultationsaamhtese	konsultašuvdnaášši	2	0	1	0
 konsultasjonssak	konsultasjonsaamhtese	konsultašuvdnaášši	2	0	1	0
 
 barnevernssak	maanavaarjelimmieaamhtese	mánáidsuodjalusášši	2	0	4	0
-barnevernssak	maanavaarjelimmienaamhtese	mánáidsuodjalusášši	2	0	4	0
++barnevernssak	maanavaarjelimmienaamhtese	mánáidsuodjalusášši	2	0	4	0
 
 målstrek	ulmiesïeve	moalla	0	0	135	0
 målstrek	vuepsiesïeve	moalla	0	0	135	0
 
-skolebibliotek	skuvlegærjagåetie	skuvlagirjerájus/skuvlagirjerádju	21	0	4	0
++skolebibliotek	skuvlegærjagåetie	skuvlagirjerájus/skuvlagirjerádju	21	0	4	0
 skolebibliotek	skåvloegærjagåetie	skuvlagirjerájus/skuvlagirjerádju	21	0	4	0
 
-ryggsekk	rudtjevoesse	lávka	1	0	26	0
++ryggsekk	voesse	lávka	1	0	26	0
 ryggsekk	rudtjenvoesse	lávka	1	0	26	0
 
 bryllupsskikk	hïejevuekie	náitalanvierru	1	0	1	0
 bryllupsskikk	pruvrevuekie	náitalanvierru	1	0	1	0
 bryllupsskikk	pruvrenvuekie	náitalanvierru	1	0	1	0
 
-skolepolitikk	skuvlepolitihke	skuvlapolitihkka	8	1	9	0
++skolepolitikk	skuvlepolitihke	skuvlapolitihkka	8	1	9	0
 skolepolitikk	skåvloepolitihke	skuvlapolitihkka	8	0	9	0
 skolepolitikk	skuvlenpolitihke	skuvlapolitihkka	8	0	9	0
 
-kulturminnepolitikk	kultuvremojhtesepolitihke	kulturmuitopolitihkka	6	0	2	1
++kulturminnepolitikk	kultuvremojhtesepolitihke	kulturmuitopolitihkka	6	0	2	1
 kulturminnepolitikk	kultuvremojhtesenpolitihke	kulturmuitopolitihkka	6	0	2	0
 
-reisepolitikk	fealadimmiepolitihke	mátkepolitihkka	1	0	2	0
++reisepolitikk	fealadimmiepolitihke	mátkepolitihkka	1	0	2	0
 reisepolitikk	feelemepolitihke	mátkepolitihkka	1	0	2	0
 reisepolitikk	fealadimmienpolitihke	mátkepolitihkka	1	0	2	0
 reisepolitikk	feelemenpolitihke	mátkepolitihkka	1	0	2	0
 
 kompetansepolitikk	maahtaldahkepolitihke	gelbbolašvuođapolitihkka	4	0	1	0
-kompetansepolitikk	maahtoepolitihke	gelbbolašvuođapolitihkka	4	0	1	0
++kompetansepolitikk	maahtoepolitihke	gelbbolašvuođapolitihkka	4	0	1	0
 kompetansepolitikk	maahtaldahkenpolitihke	gelbbolašvuođapolitihkka	4	0	1	0
 kompetansepolitikk	maahtoenpolitihke	gelbbolašvuođapolitihkka	4	0	1	0
 
-læremiddelpolitikk	learoevierhtiepolitihke	oahpponeavvopolitihkka	1	0	1	0
++læremiddelpolitikk	learoevierhtiepolitihke	oahpponeavvopolitihkka	1	0	1	0
 læremiddelpolitikk	learoevierhtienpolitihke	oahpponeavvopolitihkka	1	0	1	0
 
 filmpolitikk	jielieguvviepolitihke	filbmapolitihkka	1	0	1	0
@@ -701,9 +701,9 @@ vannpolitikk	tjaetsiepolitihke	čáhcepolitihkka	1	0	1	0
 vannpolitikk	tjaetsienpolitihke	čáhcepolitihkka	1	0	1	0
 
 barnevernpolitikk	maanavaarjelimmiepolitihke	mánáidsuodjalanpolitihkka	1	0	1	0
-barnevernpolitikk	maanavaarjelimmienpolitihke	mánáidsuodjalanpolitihkka	1	0	1	0
++barnevernpolitikk	maanavaarjelimmienpolitihke	mánáidsuodjalanpolitihkka	1	0	1	0
 
-fylkespolitikk	fylhkepolitihke	fylkkapolitihkka	1	0	1	0
++fylkespolitikk	fylhkepolitihke	fylkkapolitihkka	1	0	1	0
 fylkespolitikk	fylhkenpolitihke	fylkkapolitihkka	1	0	1	0
 
 forvaltningspolitikk	reeremepolitihke	hálddašanpolitihkka/hálddahuspolitihkka	4	0	1	0
@@ -712,10 +712,10 @@ forvaltningspolitikk	reeremenpolitihke	hálddašanpolitihkka/hálddahuspolitihkk
 utmarkspolitikk	miehtjiesdajvepolitihke	meahcceávkkástallanpolitihkka	1	0	1	0
 utmarkspolitikk	miehtjiesdajvenpolitihke	meahcceávkkástallanpolitihkka	1	0	1	0
 
-jordbrukspolitikk	laanteburriepolitihke	eanadoallopolitihkka	11	2	16	1
++jordbrukspolitikk	laanteburriepolitihke	eanadoallopolitihkka	11	2	16	1
 jordbrukspolitikk	laanteburrienpolitihke	eanadoallopolitihkka	11	0	16	0
 
-kunnskapspolitikk	maahtoepolitihke	máhttopolitihkka	3	0	1	0
++kunnskapspolitikk	maahtoepolitihke	máhttopolitihkka	3	0	1	0
 kunnskapspolitikk	maahtoenpolitihke	máhttopolitihkka	3	0	1	0
 
 musikkuttrykk	musihkebaakoe	musihkkaovdanbuktin	2	0	1	0
@@ -727,42 +727,42 @@ musikkuttrykk	musihkejiehtese	musihkkaovdanbuktin	2	0	1	0
 stemmetall	gïeletaale	jienastanlohku/jietnalohku	16	0	3	0
 stemmetall	tjoejelåhkoe	jienastanlohku/jietnalohku	16	0	3	0
 
-måltall	ulmielåhkoe	mihttolohku/ulbmillohku	4	0	1	0
++måltall	ulmielåhkoe	mihttolohku/ulbmillohku	4	0	1	0
 måltall	vuepsielåhkoe	mihttolohku/ulbmillohku	4	0	1	0
 
 ressurstall	maelmielåhkoe	resursalohku	1	0	1	0
-ressurstall	vierhtielåhkoe	resursalohku	1	0	1	0
++ressurstall	vierhtielåhkoe	resursalohku	1	0	1	0
 
 utvalgsmedlem	dåehkielïhtsege	lávdegoddeáirras	4	0	1	0
-utvalgsmedlem	moenehtselïhtsege	lávdegoddeáirras	4	0	1	0
++utvalgsmedlem	moenehtselïhtsege	lávdegoddeáirras	4	0	1	0
 
-skolesystem	skuvlesysteeme	skuvlavuogádat/skuvlasystema	6	0	4	1
++skolesystem	skuvlesysteeme	skuvlavuogádat/skuvlasystema	6	0	4	1
 skolesystem	skåvloesysteeme	skuvlavuogádat/skuvlasystema	6	0	4	0
 skolesystem	skuvlensysteeme	skuvlavuogádat/skuvlasystema	6	0	4	0
 
-valgsystem	veeljemesysteeme	válgavuogádat	1	0	2	0
++valgsystem	veeljemesysteeme	válgavuogádat	1	0	2	0
 valgsystem	veeljemensysteeme	válgavuogádat	1	0	2	0
 
-plansystem	soejkesjesysteeme	plánaortnet/plánavuogádat	6	0	1	0
++plansystem	soejkesjesysteeme	plánaortnet/plánavuogádat	6	0	1	0
 plansystem	soejkesjensysteeme	plánaortnet/plánavuogádat	6	0	1	0
 
-barnevernsystem	maanavaarjelimmiesysteeme	mánáidsuodjalusvuogádat	1	0	1	0
++barnevernsystem	maanavaarjelimmiesysteeme	mánáidsuodjalusvuogádat	1	0	1	0
 barnevernsystem	maanavaarjelimmiensysteeme	mánáidsuodjalusvuogádat	1	0	1	0
 
-utviklingssystem	evtiedimmiesysteeme	ovddidansystema	1	0	1	0
-utviklingssystem	övtiedimmiesysteeme	ovddidansystema	1	0	1	0
++utviklingssystem	evtiedimmiesysteeme	ovddidansystema	1	0	1	0
++utviklingssystem	övtiedimmiesysteeme	ovddidansystema	1	0	1	0
 utviklingssystem	evtiedimmiensysteeme	ovddidansystema	1	0	1	0
 
 regjeringssystem	reerenassesysteeme	ráđđehusvuogádat	1	0	1	0
 regjeringssystem	reerenassensysteeme	ráđđehusvuogádat	1	0	1	0
 
 sametingssystem	saemiedigkiesysteeme	sámediggevuogádat	14	0	5	0
-sametingssystem	saemiedigkiensysteeme	sámediggevuogádat	14	0	5	0
++sametingssystem	saemiedigkiensysteeme	sámediggevuogádat	14	0	5	0
 
-samfunnssystem	siebriedahkesysteeme	servodatvuogádat/servodatsystema	1	0	1	0
++samfunnssystem	siebriedahkesysteeme	servodatvuogádat/servodatsystema	1	0	1	0
 samfunnssystem	siebriedahkensysteeme	servodatvuogádat/servodatsystema	1	0	1	0
 
-kunnskapssystem	maahtoesysteeme	máhttovuogádat	1	0	1	0
++kunnskapssystem	maahtoesysteeme	máhttovuogádat	1	0	1	0
 kunnskapssystem	maahtoensysteeme	máhttovuogádat	1	0	1	0
 
 arbeidsrom	barkemetjïehtjele	bargolatnja	1	0	5	0
@@ -771,22 +771,22 @@ arbeidsrom	barkoetjïehtjele	bargolatnja	1	0	5	0
 fellesrom	bartatjïehtjele	oktasašlatnja	0	0	2	0
 fellesrom	ruevtietjïehtjele	oktasašlatnja	0	0	2	0
 
-regionsentrum	regijovnejarnge	guovlluguovddáš	0	0	1	0
++regionsentrum	regijovnejarnge	guovlluguovddáš	0	0	1	0
 regionsentrum	regijovnenjarnge	guovlluguovddáš	0	0	1	0
 regionsentrum	regionjarnge	guovlluguovddáš	0	0	1	0
 
 barnehageplan	maanagïertesoejkesje	mánáidgárdeplána	1	0	1	0
-barnehageplan	maanajgïertesoejkesje	mánáidgárdeplána	1	0	1	0
++barnehageplan	maanajgïertesoejkesje	mánáidgárdeplána	1	0	1	0
 barnehageplan	maanagïerteplaane	mánáidgárdeplána	1	0	1	0
 barnehageplan	maanajgïerteplaane	mánáidgárdeplána	1	0	1	0
 
 skoleplan	skuvlesoejkesje	skuvlaplána	5	0	3	0
 skoleplan	skuvlensoejkesje	skuvlaplána	5	0	3	0
-skoleplan	skuvleplaane	skuvlaplána	5	0	3	0
++skoleplan	skuvleplaane	skuvlaplána	5	0	3	0
 skoleplan	skuvlenplaane	skuvlaplána	5	0	3	0
 
 kompetanseplan	maahtaldahkesoejkesje	gelbbolašvuođaplána	2	0	1	0
-kompetanseplan	maahtoesoejkesje	gelbbolašvuođaplána	2	0	1	0
++kompetanseplan	maahtoesoejkesje	gelbbolašvuođaplána	2	0	1	0
 kompetanseplan	maahtaldahkensoejkesje	gelbbolašvuođaplána	2	0	1	0
 kompetanseplan	maahtoensoejkesje	gelbbolašvuođaplána	2	0	1	0
 kompetanseplan	maahtaldahkeplaane	gelbbolašvuođaplána	2	0	1	0
@@ -794,12 +794,12 @@ kompetanseplan	maahtoeplaane	gelbbolašvuođaplána	2	0	1	0
 kompetanseplan	maahtaldahkenplaane	gelbbolašvuođaplána	2	0	1	0
 kompetanseplan	maahtoenplaane	gelbbolašvuođaplána	2	0	1	0
 
-veiplan	geajnoesoejkesje	luoddaplána	1	0	1	0
++veiplan	geajnoesoejkesje	luoddaplána	1	0	1	0
 veiplan	geajnoensoejkesje	luoddaplána	1	0	1	0
 veiplan	geajnoeplaane	luoddaplána	1	0	1	0
 veiplan	geajnoenplaane	luoddaplána	1	0	1	0
 
-strategiplan	strategijesoejkesje	strategiijaplána	30	0	17	0
++strategiplan	strategijesoejkesje	strategiijaplána	30	0	17	0
 strategiplan	strategisoejkesje	strategiijaplána	30	0	17	0
 strategiplan	strategijensoejkesje	strategiijaplána	30	0	17	0
 strategiplan	strategijeplaane	strategiijaplána	30	0	17	0
@@ -809,17 +809,17 @@ strategiplan	strategijenplaane	strategiijaplána	30	0	17	0
 samiskplan	saemiengïelesoejkesje	sámegielplána	1	0	1	0
 samiskplan	saemiengïeleplaane	sámegielplána	1	0	1	0
 
-arealplan	arealesoejkesje	areálaplána	31	0	8	0
++arealplan	arealesoejkesje	areálaplána	31	0	8	0
 arealplan	arealeplaane	areálaplána	31	0	8	0
 
-kulturplan	kultuvresoejkesje	kulturplána	2	0	3	0
++kulturplan	kultuvresoejkesje	kulturplána	2	0	3	0
 kulturplan	kultuvrensoejkesje	kulturplána	2	0	3	0
 kulturplan	kultursoejkesje	kulturplána	2	0	3	0
 kulturplan	kultuvreplaane	kulturplána	2	0	3	0
 kulturplan	kultuvrenplaane	kulturplána	2	0	3	0
 kulturplan	kulturplaane	kulturplána	2	0	3	0
 
-samarbeidsplan	ektiebarkoesoejkesje	ovttasbargoplána	1	0	1	0
++samarbeidsplan	ektiebarkoesoejkesje	ovttasbargoplána	1	0	1	0
 samarbeidsplan	ektiebarkoensoejkesje	ovttasbargoplána	1	0	1	0
 samarbeidsplan	ektiebarkoeplaane	ovttasbargoplána	1	0	1	0
 samarbeidsplan	ektiebarkoenplaane	ovttasbargoplána	1	0	1	0
@@ -827,21 +827,21 @@ samarbeidsplan	ektiebarkoenplaane	ovttasbargoplána	1	0	1	0
 fylkesplan	fylhkeplaane	fylkkaplána	42	0	14	0
 fylkesplan	fylhkenplaane	fylkkaplána	42	0	14	0
 
-likestillingsplan	seammavierhtegesoejkesje	dásseárvoplána	1	0	5	0
++likestillingsplan	seammavierhtegesoejkesje	dásseárvoplána	1	0	5	0
 likestillingsplan	seammavierhtegeplaane	dásseárvoplána	1	0	5	0
 
 sametingsplan	saemiedigkiesoejkesje	sámediggeplána	28	0	14	0
-sametingsplan	saemiedigkiensoejkesje	sámediggeplána	28	0	14	0
++sametingsplan	saemiedigkiensoejkesje	sámediggeplána	28	0	14	0
 sametingsplan	saemiedigkieplaane	sámediggeplána	28	0	14	0
 sametingsplan	saemiedigkienplaane	sámediggeplána	28	0	14	0
 
-omsorgsplan	såjhtoesoejkesje	fuollaplána/fuolahusplána	13	0	2	0
++omsorgsplan	såjhtoesoejkesje	fuollaplána/fuolahusplána	13	0	2	0
 omsorgsplan	såjhtoeplaane	fuollaplána/fuolahusplána	13	0	2	0
 
-bruksplan	åtnoesoejkesje	doalloplána	1	0	1	0
++bruksplan	åtnoesoejkesje	doalloplána	1	0	1	0
 bruksplan	åtnoeplaane	doalloplána	1	0	1	0
 
-andrespråksplan	mubpiengïelesoejkesje	nubbigiellaplána	1	0	0	0
+?andrespråksplan	mubpiengïelesoejkesje	nubbigiellaplána	1	0	0	0
 andrespråksplan	mubpiengïeleplaane	nubbigiellaplána	1	0	0	0
 
 ressursplan	vierhtiesoejkesje	resursaplána	1	0	1	0
@@ -849,42 +849,42 @@ ressursplan	vierhtiensoejkesje	resursaplána	1	0	1	0
 ressursplan	vierhtieplaane	resursaplána	1	0	1	0
 ressursplan	vierhtienplaane	resursaplána	1	0	1	0
 
-årsplan	jaepiesoejkesje	jahkeplána	12	0	6	0
++årsplan	jaepiesoejkesje	jahkeplána	12	0	6	0
 årsplan	jaepiensoejkesje	jahkeplána	12	0	6	0
 årsplan	jaepieplaane	jahkeplána	12	0	6	0
 årsplan	jaepienplaane	jahkeplána	12	0	6	0
 
-prosjektplan	prosjeektesoejkesje	prošeaktaplána	6	0	3	1
++prosjektplan	prosjeektesoejkesje	prošeaktaplána	6	0	3	1
 prosjektplan	prosjeektensoejkesje	prošeaktaplána	6	0	3	0
 prosjektplan	prosjektsoejkesje	prošeaktaplána	6	0	3	0
 prosjektplan	prosjeekteplaane	prošeaktaplána	6	0	3	0
 prosjektplan	prosjeektenplaane	prošeaktaplána	6	0	3	0
 prosjektplan	prosjektplaane	prošeaktaplána	6	0	3	0
 
-arkivplan	våarhkoesoejkesje	arkiivaplána	3	0	2	0
++arkivplan	våarhkoesoejkesje	arkiivaplána	3	0	2	0
 arkivplan	våarhkoeplaane	arkiivaplána	3	0	2	0
 
 studenteksamen	studeenteeksaamene	studeantaeksámen	1	0	1	0
-studenteksamen	studeenteneksaamene	studeantaeksámen	1	0	1	0
++studenteksamen	studeenteneksaamene	studeantaeksámen	1	0	1	0
 studenteksamen	studenteksaamene	studeantaeksámen	1	0	1	0
 
-statssamfunn	staatesiebriedahke	stáhtaservodat	1	0	1	0
++statssamfunn	staatesiebriedahke	stáhtaservodat	1	0	1	0
 statssamfunn	staatensiebriedahke	stáhtaservodat	1	0	1	0
 
-rettssamfunn	reaktoesiebriedahke	riekteservodat	1	0	1	0
++rettssamfunn	reaktoesiebriedahke	riekteservodat	1	0	1	0
 rettssamfunn	reaktoensiebriedahke	riekteservodat	1	0	1	0
 
-kunnskapsnasjon	maahtoenasjovne	máhttonašuvdna	1	0	1	0
++kunnskapsnasjon	maahtoenasjovne	máhttonašuvdna	1	0	1	0
 kunnskapsnasjon	maahtoennasjovne	máhttonašuvdna	1	0	1	0
 
 helsestasjon	starnestasjovne	dearvvašvuođastašuvdna/dearvvasvuođastašuvdna	10	0	2	1
 helsestasjon	starnenstasjovne	dearvvašvuođastašuvdna/dearvvasvuođastašuvdna	10	0	2	0
 
-grensestasjon	raajastasjovne	rádjestašuvdna	2	0	1	0
++grensestasjon	raajastasjovne	rádjestašuvdna	2	0	1	0
 grensestasjon	krïensestasjovne	rádjestašuvdna	2	0	1	0
 grensestasjon	raajanstasjovne	rádjestašuvdna	2	0	1	0
 
-flystasjon	girtiestasjovne	girdihámman	1	0	3	0
++flystasjon	girtiestasjovne	girdihámman	1	0	3	0
 flystasjon	girtienstasjovne	girdihámman	1	0	3	0
 
 kulturperson	kultuvrealmetje	kulturolmmoš	1	0	1	0
@@ -892,14 +892,14 @@ kulturperson	kultuvrenalmetje	kulturolmmoš	1	0	1	0
 kulturperson	kulturalmetje	kulturolmmoš	1	0	1	0
 kulturperson	kultuvrenïere	kulturolmmoš	1	0	1	0
 
-omsorgsperson	såjhtoealmetje	fuollaolmmoš	1	0	1	0
++omsorgsperson	såjhtoealmetje	fuollaolmmoš	1	0	1	0
 omsorgsperson	såjhtoenïere	fuollaolmmoš	1	0	1	0
 
 departementsnavn	departemeentenomme	departemeantanamma	2	0	0	0
 departementsnavn	departemeentennomme	departemeantanamma	2	0	0	0
 departementsnavn	departementnomme	departemeantanamma	2	0	0	0
 
-prosjektnavn	prosjeektenomme	prošeaktanamma	1	0	1	0
++prosjektnavn	prosjeektenomme	prošeaktanamma	1	0	1	0
 prosjektnavn	prosjeektennomme	prošeaktanamma	1	0	1	0
 prosjektnavn	prosjektnomme	prošeaktanamma	1	0	1	0
 
@@ -923,74 +923,74 @@ forvaltningskunnskap	reerememaahtoe	hálddašanmáhttu	1	0	1	0
 forvaltningskunnskap	reeremenmaahtoe	hálddašanmáhttu	1	0	1	0
 
 samfunnskunnskap	siebriedahkendaajroe	servodatmáhtolašvuohta/servodatoahppu/servodatmáhttu	6	0	3	0
-samfunnskunnskap	siebriedahkemaahtoe	servodatmáhtolašvuohta/servodatoahppu/servodatmáhttu	6	0	3	0
++samfunnskunnskap	siebriedahkemaahtoe	servodatmáhtolašvuohta/servodatoahppu/servodatmáhttu	6	0	3	0
 samfunnskunnskap	siebriedahkenmaahtoe	servodatmáhtolašvuohta/servodatoahppu/servodatmáhttu	6	0	3	0
 
-elevkunnskap	learohkemaahtoe	oahppimáhttu	5	0	2	0
++elevkunnskap	learohkemaahtoe	oahppimáhttu	5	0	2	0
 elevkunnskap	learohkenmaahtoe	oahppimáhttu	5	0	2	0
 
 møteleder	gaavnedimmieåejvie	čoahkkinjođiheaddji	106	0	18	0
-møteleder	tjåanghkoeåejvie	čoahkkinjođiheaddji	106	0	18	0
++møteleder	tjåanghkoeåejvie	čoahkkinjođiheaddji	106	0	18	0
 
-utviklingsleder	evtiedimmieåejvie	ovdánahttinjođiheaddji	1	0	1	0
-utviklingsleder	övtiedimmieåejvie	ovdánahttinjođiheaddji	1	0	1	0
++utviklingsleder	evtiedimmieåejvie	ovdánahttinjođiheaddji	1	0	1	0
++utviklingsleder	övtiedimmieåejvie	ovdánahttinjođiheaddji	1	0	1	0
 
 undervisningsleder	bïhkedimmieåejvie	oahpahusjođiheaddji	3	0	2	0
-undervisningsleder	ööhpehtimmieåejvie	oahpahusjođiheaddji	3	0	2	0
++undervisningsleder	ööhpehtimmieåejvie	oahpahusjođiheaddji	3	0	2	0
 
 informasjonsleder	saerniestimmieåejvie	diehtojuohkinjođiheaddji	1	0	2	0
-informasjonsleder	bïevneseåejvie	diehtojuohkinjođiheaddji	1	0	2	0
++informasjonsleder	bïevneseåejvie	diehtojuohkinjođiheaddji	1	0	2	0
 
-kontorsteder	kontovrensijjie	kántorsadji	15	0	1	0
++kontorsted	kontovresijjie	kántorsadji	15	0	1	0
 kontorsteder	kontorsijjie	kántorsadji	15	0	1	0
 
-industriarbeider	industrijebarkije	industriijabargi	1	0	1	0
++industriarbeider	industrijebarkije	industriijabargi	1	0	1	0
 industriarbeider	industribarkije	industriijabargi	1	0	1	0
 industriarbeider	industrijenbarkije	industriijabargi	1	0	1	0
 
 filmarbeider	jielieguvviebarkije	?????	2	0	0	0
 filmarbeider	jielieguvvienbarkije	?????	2	0	0	0
 
-utviklingsarbeider	evtiedimmiebarkije	ovddidanbargi	1	0	1	0
-utviklingsarbeider	övtiedimmiebarkije	ovddidanbargi	1	0	1	0
++utviklingsarbeider	evtiedimmiebarkije	ovddidanbargi	1	0	1	0
++utviklingsarbeider	övtiedimmiebarkije	ovddidanbargi	1	0	1	0
 utviklingsarbeider	evtiedimmienbarkije	ovddidanbargi	1	0	1	0
 
-skolesaker	skuvleaamhtese	skuvlabierggas	2	0	1	0
++skolesaker	skuvletjåenieh	skuvlabierggas	2	0	1	0
 skolesaker	skuvlenaamhtese	skuvlabierggas	2	0	1	0
 
-prosjektsøker	prosjeekteohtsije	prošeaktaohcci	1	0	1	0
++prosjektsøker	prosjeekteohtsije	prošeaktaohcci	1	0	1	0
 prosjektsøker	prosjeektenohtsije	prošeaktaohcci	1	0	1	0
 prosjektsøker	prosjektohtsije	prošeaktaohcci	1	0	1	0
 
-organisasjonsnummer	organisasjovnenummere	organisašuvdnanummar/organisašuvdnanummir	4	0	1	0
++organisasjonsnummer	organisasjovnenommere	organisašuvdnanummar/organisašuvdnanummir	4	0	1	0
 organisasjonsnummer	organisasjovnennummere	organisašuvdnanummar/organisašuvdnanummir	4	0	1	0
 organisasjonsnummer	organisationsnummere	organisašuvdnanummar/organisašuvdnanummir	4	0	1	0
 organisasjonsnummer	organisasjonsnummere	organisašuvdnanummar/organisašuvdnanummir	4	0	1	0
 
-prosjektnummer	prosjeektenummere	prošeaktanummar	1	0	1	0
++prosjektnummer	prosjeektenummere	prošeaktanummar	1	0	1	0
 prosjektnummer	prosjeektennummere	prošeaktanummar	1	0	1	0
 prosjektnummer	prosjektnummere	prošeaktanummar	1	0	1	0
 
 barnehagestyrer	maanagïerteståvroe	mánáidgárdejođiheaddji	1	0	2	0
 barnehagestyrer	maanajgïerteståvroe	mánáidgárdejođiheaddji	1	0	2	0
 
-timelærer	tæjmoelohkehtæjja	diibmooahpaheaddji/tiibmooahpaheaddji	2	0	1	0
++timelærer	tæjmoelohkehtæjja	diibmooahpaheaddji/tiibmooahpaheaddji	2	0	1	0
 timelærer	tæjmoelearoe	diibmooahpaheaddji/tiibmooahpaheaddji	2	0	1	0
 
-samisklærer	saemiengïelelohkehtæjja	sámegieloahpaheaddji	29	0	13	0
++samisklærer	saemiengïelelohkehtæjja	sámegieloahpaheaddji	29	0	13	0
 samisklærer	saemiengïelelearoe	sámegieloahpaheaddji	29	0	13	0
 
 snekkerlærer	snæhkerelohkehtæjja	snihkkároahpaheaddji	1	0	1	0
 snekkerlærer	snæhkerelearoe	snihkkároahpaheaddji	1	0	1	0
 
-tilleggslærer	lissielohkehtæjja	liigeoahpaheaddji	1	0	1	0
++tilleggslærer	lissielohkehtæjja	liigeoahpaheaddji	1	0	1	0
 tilleggslærer	lissielearoe	liigeoahpaheaddji	1	0	1	0
 tilleggslærer	lissienlearoe	liigeoahpaheaddji	1	0	1	0
 
-morsmålslærer	ietniengïelelohkehtæjja	eatnigieloahpaheaddji	1	0	1	0
++morsmålslærer	ietniengïelelohkehtæjja	eatnigieloahpaheaddji	1	0	1	0
 morsmålslærer	ietniengïelelearoe	eatnigieloahpaheaddji	1	0	1	0
 
-internatlærer	internaatelohkehtæjja	internáhttaoahpaheaddji	1	0	1	0
++internatlærer	internaatelohkehtæjja	internáhttaoahpaheaddji	1	0	1	0
 internatlærer	internaatelearoe	internáhttaoahpaheaddji	1	0	1	0
 internatlærer	internaatenlearoe	internáhttaoahpaheaddji	1	0	1	0
 internatlærer	internatlearoe	internáhttaoahpaheaddji	1	0	1	0
@@ -1002,27 +1002,27 @@ skolegenser	skuvlenabpese	skuvlabáidi	1	0	1	0
 filmsenter	jielieguvviejarnge	filbmaguovddáš	22	0	23	0
 filmsenter	jielieguvvienjarnge	filbmaguovddáš	22	0	23	0
 
-likestillingssenter	seammavierhtegejarnge	dásseárvoguovddáš	4	0	1	0
++likestillingssenter	seammavierhtegejarnge	dásseárvoguovddáš	4	0	1	0
 likestillingssenter	mïrrestallemejarnge	dásseárvoguovddáš	4	0	1	0
 
-kurssenter	kuvsjejarnge	kursaguovddáš	1	0	1	0
++kurssenter	kuvsjejarnge	kursaguovddáš	1	0	1	0
 kurssenter	kuvsjenjarnge	kursaguovddáš	1	0	1	0
 
-tekstforfatter	teekstetjaelije	teakstačálli	1	0	2	0
++tekstforfatter	teekstetjaelije	teakstačálli	1	0	2	0
 tekstforfatter	teekstentjaelije	teakstačálli	1	0	2	0
 tekstforfatter	teksttjaelije	teakstačálli	1	0	2	0
 
-industrisektor	industrijesuerkie	industriijasuorgi	1	0	1	0
++industrisektor	industrijesuerkie	industriijasuorgi	1	0	1	0
 industrisektor	industrisuerkie	industriijasuorgi	1	0	1	0
 industrisektor	industrijensuerkie	industriijasuorgi	1	0	1	0
 
-læremiddelsektor	learoevierhtiesuerkie	oahpponeavvosuorgi	1	0	1	0
++læremiddelsektor	learoevierhtiesuerkie	oahpponeavvosuorgi	1	0	1	0
 læremiddelsektor	learoevierhtiensuerkie	oahpponeavvosuorgi	1	0	1	0
 
-barnevernssektor	maanavaarjelimmiesuerkie	mánáidsuodjalussuorgi	1	0	1	0
++barnevernssektor	maanavaarjelimmiesuerkie	mánáidsuodjalussuorgi	1	0	1	0
 barnevernssektor	maanavaarjelimmiensuerkie	mánáidsuodjalussuorgi	1	0	1	0
 
-skoletur	skuvlefealadimmie	skuvlamátki	6	0	6	0
++skoletur	skuvlefealadimmie	skuvlamátki	6	0	6	0
 skoletur	skuvlenfealadimmie	skuvlamátki	6	0	6	0
 
 flytur	girtiefealadimmie	girdinmátki	1	0	1	0
@@ -1030,19 +1030,19 @@ flytur	girtienfealadimmie	girdinmátki	1	0	1	0
 flytur	girtievåaroe	girdinmátki	1	0	1	0
 
 gruppesekretær	dåehkiekontovrebarkije	joavkočálli	6	0	2	0
-gruppesekretær	dåehkietjaelije	joavkočálli	6	0	2	0
++gruppesekretær	dåehkietjaelije	joavkočálli	6	0	2	0
 
 informasjonsdirektør	saerniestimmiedirektööre	diehtojuohkindirektevra	1	0	3	0
-informasjonsdirektør	bïevnesedirektööre	diehtojuohkindirektevra	1	0	3	0
++informasjonsdirektør	bïevnesedirektööre	diehtojuohkindirektevra	1	0	3	0
 
-internatplass	internaatesijjie	internáhttasadji	1	0	1	0
++internatplass	internaatesijjie	internáhttasadji	1	0	1	0
 internatplass	internaatensijjie	internáhttasadji	1	0	1	0
 internatplass	internatsijjie	internáhttasadji	1	0	1	0
 
-elevplass	learohkesijjie	oahppisadji/ohppiidsadji	2	0	1	0
++elevplass	learohkesijjie	oahppisadji/ohppiidsadji	2	0	1	0
 elevplass	learohkensijjie	oahppisadji/ohppiidsadji	2	0	1	0
 
-politidirektorat	politijedirektoraate	politiijadirektoráhtta	0	0	2	2
++politidirektorat	politijedirektoraate	politiijadirektoráhtta	0	0	2	2
 politidirektorat	politidirektoraate	politiijadirektoráhtta	0	0	2	0
 politidirektorat	politijendirektoraate	politiijadirektoráhtta	0	0	2	0
 politidirektorat	politijedirektovraate	politiijadirektoráhtta	0	0	2	0
@@ -1055,7 +1055,7 @@ rettsstat	reaktoenstaate	riektestáhta/riektestáda	3	0	2	0
 Morgenbladet	aeredeplaerie	Morgenbladet/Morgenbladet-aviisa	1	0	1	0
 Morgenbladet	aeredenplaerie	Morgenbladet/Morgenbladet-aviisa	1	0	1	0
 
-landrettighet	rïjhkereakta	eanavuoigatvuohta/eananvuoigatvuohta	22	0	12	0
++landrettighet	rïjhkereakta	eanavuoigatvuohta/eananvuoigatvuohta	22	0	12	0
 landrettighet	laantenreakta	eanavuoigatvuohta/eananvuoigatvuohta	22	0	12	0
 
 konkurranserettighet	gaahtjemereakta	gilvovuoigatvuohta	0	0	0	0
@@ -1064,32 +1064,32 @@ konkurranserettighet	gaahtjemenreakta	gilvovuoigatvuohta	0	0	0	0
 utmarksrettighet	miehtjiesdajvereakta	meahccevuoigatvuohta	1	0	1	0
 utmarksrettighet	miehtjiesdajvenreakta	meahccevuoigatvuohta	1	0	1	0
 
-lærekraft	learoefaamoe	oahpponákca	2	0	1	0
++lærekraft	learoefaamoe	oahpponákca	2	0	1	0
 lærekraft	learoenfaamoe	oahpponákca	2	0	1	0
 
 barnehagekonsulent	maanagïertekonsuleente	mánáidgárdekonsuleanta	2	0	2	0
-barnehagekonsulent	maanajgïertekonsuleente	mánáidgárdekonsuleanta	2	0	2	0
++barnehagekonsulent	maanajgïertekonsuleente	mánáidgárdekonsuleanta	2	0	2	0
 
-kulturkonsulent	kultuvrekonsuleente	kulturkonsuleanta	1	0	2	0
++kulturkonsulent	kultuvrekonsuleente	kulturkonsuleanta	1	0	2	0
 kulturkonsulent	kultuvrenkonsuleente	kulturkonsuleanta	1	0	2	0
 
 informasjonskonsulent	bïevneseraerievedtije	informašuvdnakonsuleanta/diehtojuohkinkonsuleanta	1	0	2	0
-informasjonskonsulent	bïevnesekonsuleente	informašuvdnakonsuleanta/diehtojuohkinkonsuleanta	1	0	2	0
++informasjonskonsulent	bïevnesekonsuleente	informašuvdnakonsuleanta/diehtojuohkinkonsuleanta	1	0	2	0
 
 statskonsulent	staatekonsuleente	stáhtakonsuleanta	6	0	2	0
 statskonsulent	staatenkonsuleente	stáhtakonsuleanta	6	0	2	0
 
-prosjektkonsulent	prosjeektekonsuleente	prošeaktakonsuleanta	1	0	1	0
++prosjektkonsulent	prosjeektekonsuleente	prošeaktakonsuleanta	1	0	1	0
 prosjektkonsulent	prosjeektenkonsuleente	prošeaktakonsuleanta	1	0	1	0
 prosjektkonsulent	prosjektkonsuleente	prošeaktakonsuleanta	1	0	1	0
 
-tilleggsdokument	lissietjaatsege	lassidokumeanta	2	0	1	0
++tilleggsdokument	lissietjaatsege	lassidokumeanta	2	0	1	0
 tilleggsdokument	lissientjaatsege	lassidokumeanta	2	0	1	0
 tilleggsdokument	lissietjaaleldahke	lassidokumeanta	2	0	1	0
 tilleggsdokument	lissientjaaleldahke	lassidokumeanta	2	0	1	0
 
 sametingsdokument	saemiedigkietjaatsege	sámediggedokumeanta	1	0	1	0
-sametingsdokument	saemiedigkientjaatsege	sámediggedokumeanta	1	0	1	0
++sametingsdokument	saemiedigkientjaatsege	sámediggedokumeanta	1	0	1	0
 sametingsdokument	saemiedigkietjaaleldahke	sámediggedokumeanta	1	0	1	0
 sametingsdokument	saemiedigkientjaaleldahke	sámediggedokumeanta	1	0	1	0
 
@@ -1126,15 +1126,15 @@ organisasjonsrett	organisasjovnenreaktoe	organiserenvuoigatvuohta	0	0	0	0
 organisasjonsrett	organisationsreaktoe	organiserenvuoigatvuohta	0	0	0	0
 organisasjonsrett	organisasjonsreaktoe	organiserenvuoigatvuohta	0	0	0	0
 
-konsultasjonsrett	konsultasjovnereaktoe	konsultašuvdnariekti	7	0	1	0
++konsultasjonsrett	konsultasjovnereaktoe	konsultašuvdnariekti	7	0	1	0
 konsultasjonsrett	konsultasjovnenreaktoe	konsultašuvdnariekti	7	0	1	0
 konsultasjonsrett	konsultationsreaktoe	konsultašuvdnariekti	7	0	1	0
 konsultasjonsrett	konsultasjonsreaktoe	konsultašuvdnariekti	7	0	1	0
 
-havrett	mearoereaktoe	áhpevuoigatvuohta	2	0	1	0
++havrett	mearoereaktoe	áhpevuoigatvuohta	2	0	1	0
 havrett	mearoenreaktoe	áhpevuoigatvuohta	2	0	1	0
 
-byrett	staarereaktoe	gávpotriekti	1	0	1	0
++byrett	staarereaktoe	gávpotriekti	1	0	1	0
 byrett	staarenreaktoe	gávpotriekti	1	0	1	0
 
 reiseliv	fealadimmiejieleme	mátkkoštanealáhus/mátkkoštusealáhus/mátkeeallinealáhus/mátkeeallin/mátkkoštaneallin/mátkeealáhus	192	0	14	0
@@ -1142,65 +1142,65 @@ reiseliv	feelemejieleme	mátkkoštanealáhus/mátkkoštusealáhus/mátkeeallinea
 reiseliv	fealadimmienjieleme	mátkkoštanealáhus/mátkkoštusealáhus/mátkeeallinealáhus/mátkeeallin/mátkkoštaneallin/mátkeealáhus	192	0	14	0
 reiseliv	feelemenjieleme	mátkkoštanealáhus/mátkkoštusealáhus/mátkeeallinealáhus/mátkeeallin/mátkkoštaneallin/mátkeealáhus	192	0	14	0
 
-organisasjonsliv	organisasjovnejieleme	organisašuneallin/organisašuvdnaeallin	20	0	2	0
++organisasjonsliv	organisasjovnejieleme	organisašuneallin/organisašuvdnaeallin	20	0	2	0
 organisasjonsliv	organisasjovnenjieleme	organisašuneallin/organisašuvdnaeallin	20	0	2	0
 organisasjonsliv	organisationsjieleme	organisašuneallin/organisašuvdnaeallin	20	0	2	0
 organisasjonsliv	organisasjonsjieleme	organisašuneallin/organisašuvdnaeallin	20	0	2	0
 
-internatliv	internaatejieleme	internáhttaeallin	16	0	3	0
++internatliv	internaatejieleme	internáhttaeallin	16	0	3	0
 internatliv	internaatenjieleme	internáhttaeallin	16	0	3	0
 internatliv	internatjieleme	internáhttaeallin	16	0	3	0
 
-kulturperspektiv	kultuvreperspektijve	kulturperspektiiva	2	0	1	0
++kulturperspektiv	kultuvreperspektijve	kulturperspektiiva	2	0	1	0
 kulturperspektiv	kultuvrenperspektijve	kulturperspektiiva	2	0	1	0
 kulturperspektiv	kulturperspektijve	kulturperspektiiva	2	0	1	0
 
-utviklingsperspektiv	evtiedimmieperspektijve	ovddidanperspektiiva/ovdánanperspektiiva	3	0	1	0
-utviklingsperspektiv	övtiedimmieperspektijve	ovddidanperspektiiva/ovdánanperspektiiva	3	0	1	0
++utviklingsperspektiv	evtiedimmieperspektijve	ovddidanperspektiiva/ovdánanperspektiiva	3	0	1	0
++utviklingsperspektiv	övtiedimmieperspektijve	ovddidanperspektiiva/ovdánanperspektiiva	3	0	1	0
 utviklingsperspektiv	evtiedimmienperspektijve	ovddidanperspektiiva/ovdánanperspektiiva	3	0	1	0
 
-kulturminnelov	kultuvremojhteselaake	kultursuodjalanláhka/kulturmuitoláhka	35	0	11	9
++kulturminnelov	kultuvremojhteselaake	kultursuodjalanláhka/kulturmuitoláhka	35	0	11	9
 kulturminnelov	kultuvremojhtesenlaake	kultursuodjalanláhka/kulturmuitoláhka	35	0	11	0
 
-konkurranselov	gaahtjemelaake	gilvoláhka	5	0	1	0
++konkurranselov	gaahtjemelaake	gilvoláhka	5	0	1	0
 konkurranselov	gaahtjemenlaake	gilvoláhka	5	0	1	0
 
-flagglov	saevegelaake	leavgaláhka	1	0	1	0
++flagglov	saevegelaake	leavgaláhka	1	0	1	0
 flagglov	saevegenlaake	leavgaláhka	1	0	1	0
 
-vannlov	tjaetsielaake	čázádatláhka/čáhceláhka	1	0	2	0
++vannlov	tjaetsielaake	čázádatláhka/čáhceláhka	1	0	2	0
 vannlov	tjaetsienlaake	čázádatláhka/čáhceláhka	1	0	2	0
 
-barnevernlov	maanavaarjelimmielaake	mánáidsuodjalusláhka/mánáidsuodjalanláhka	9	0	2	1
++barnevernlov	maanajvaarjelimmielaake	mánáidsuodjalusláhka/mánáidsuodjalanláhka	9	0	2	1
 barnevernlov	maanavaarjelimmienlaake	mánáidsuodjalusláhka/mánáidsuodjalanláhka	9	0	2	0
 
-kulturlov	kultuvrelaake	kulturláhka	2	0	2	0
++kulturlov	kultuvrelaake	kulturláhka	2	0	2	0
 kulturlov	kultuvrenlaake	kulturláhka	2	0	2	0
 kulturlov	kulturlaake	kulturláhka	2	0	2	0
 
 omsorgslov	såjhtoeluhpie	fuolahusláhka	4	0	1	0
 omsorgslov	såjhtoelaake	fuolahusláhka	4	0	1	0
 
-planverktøy	soejkesjedïrrege	plánagaskaoapmi	1	0	1	0
++planverktøy	soejkesjedïrregh	plánagaskaoapmi	1	0	1	0
 planverktøy	plaanedïrrege	plánagaskaoapmi	1	0	1	0
 
-tilleggsverktøy	lissiedïrrege	lassineavvu/lassereaidu	1	0	1	1
++tilleggsverktøy	lissiedïrregh	lassineavvu/lassereaidu	1	0	1	1
 tilleggsverktøy	duedtiedïrrege	lassineavvu/lassereaidu	1	0	1	0
 
 barnehagenivå	maanagïertedaltese	mánáidgárdedássi	1	0	1	0
-barnehagenivå	maanajgïertedaltese	mánáidgárdedássi	1	0	1	0
++barnehagenivå	maanajgïertedaltese	mánáidgárdedássi	1	0	1	0
 
-regionnivå	regijovnedaltese	guvllolašdássi/regiovdnadássi	2	0	1	0
++regionnivå	regijovnedaltese	guvllolašdássi/regiovdnadássi	2	0	1	0
 regionnivå	regijovnendaltese	guvllolašdássi/regiovdnadássi	2	0	1	0
 regionnivå	regiondaltese	guvllolašdássi/regiovdnadássi	2	0	1	0
 
-avdelingsnivå	goevtesedaltese	ossodatdássi	2	0	1	0
++avdelingsnivå	goevtesedaltese	ossodatdássi	2	0	1	0
 avdelingsnivå	goevtesendaltese	ossodatdássi	2	0	1	0
 
 regjeringsnivå	reerenassedaltese	ráđđehusdássi	1	0	1	0
 regjeringsnivå	reerenassendaltese	ráđđehusdássi	1	0	1	0
 
-organisasjonsnivå	organisasjovnedaltese	organisašuvdnadássi	0	0	1	0
++organisasjonsnivå	organisasjovnedaltese	organisašuvdnadássi	0	0	1	0
 organisasjonsnivå	organisasjovnendaltese	organisašuvdnadássi	0	0	1	0
 organisasjonsnivå	organisationsdaltese	organisašuvdnadássi	0	0	1	0
 organisasjonsnivå	organisasjonsdaltese	organisašuvdnadássi	0	0	1	0
@@ -1213,16 +1213,16 @@ departementsnivå	departemeentendaltese	departemeantadássi	2	0	1	0
 departementsnivå	departementdaltese	departemeantadássi	2	0	1	0
 
 høyskolemiljø	jïlleskuvlebyjreske	allaskuvlabiras	0	0	1	0
-høyskolemiljø	jïlleskuvlebyjrese	allaskuvlabiras	0	0	1	0
++høyskolemiljø	jïlleskuvlebyjrese	allaskuvlabiras	0	0	1	0
 
 filmmiljø	jielieguvviebyjrese	filbmabiras	1	0	2	0
 filmmiljø	jielieguvvienbyjrese	filbmabiras	1	0	2	0
 
-kulturmiljø	kultuvrenbyjrese	kulturbiras	55	0	25	0
++kulturmiljø	kultuvrebyjrese	kulturbiras	55	0	25	0
 kulturmiljø	kulturbyjrese	kulturbiras	55	0	25	0
 
-utviklingsmiljø	evtiedimmiebyjrese	ovddidanbiras	8	0	3	0
-utviklingsmiljø	övtiedimmiebyjrese	ovddidanbiras	8	0	3	0
++utviklingsmiljø	evtiedimmiebyjrese	ovddidanbiras	8	0	3	0
++utviklingsmiljø	övtiedimmiebyjrese	ovddidanbiras	8	0	3	0
 utviklingsmiljø	evtiedimmienbyjrese	ovddidanbiras	8	0	3	0
 
 landskapsmiljø	eatnemenbyjreske	eanadatbiras	0	0	0	0
@@ -1232,6 +1232,6 @@ landskapsmiljø	eatnemenbyjrese	eanadatbiras	0	0	0	0
 ressursmiljø	vierhtiebyjrese	resursabiras	0	0	1	0
 ressursmiljø	vierhtienbyjrese	resursabiras	0	0	1	0
 
-internatmiljø	internaatebyjrese	internáhttabiras	1	0	1	0
++internatmiljø	internaatebyjrese	internáhttabiras	1	0	1	0
 internatmiljø	internaatenbyjrese	internáhttabiras	1	0	1	0
 internatmiljø	internatbyjrese	internáhttabiras	1	0	1	0
