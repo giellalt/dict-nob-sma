@@ -17840,11 +17840,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">inngiftet tante</l>
+         <l pos="N">tante</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <re>kvinne som er gift med fars eller mors bror</re>
+            <re>inngiftet tante</re>
             <t pos="N" soggi="ie" stem="2syll">jijmie</t>
          </tg>
       </mg>
@@ -17986,16 +17986,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" soggi="e" stem="2syll">johke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">nes mellom to sammenflytende elver</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" soggi="a" stem="2syll">johkenjuana</t>
          </tg>
       </mg>
    </e>
@@ -22325,22 +22315,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" soggi="e" stem="2syll">maanagïerte</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N">maanajgïerte</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">maanagiertie</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">maanagaertie</t>
          </tg>
       </mg>
    </e>
@@ -22350,7 +22325,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" soggi="ie" stem="2syll">maanavaarjelimmie</t>
+            <t pos="N" soggi="ie" stem="2syll">maanajvaarjelimmie</t>
          </tg>
       </mg>
    </e>
@@ -22361,6 +22336,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" soggi="e" stem="2syll">maarhke</t>
+            <t pos="N" soggi="e" stem="2syll">mietene</t>
          </tg>
       </mg>
    </e>
@@ -22380,7 +22356,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" soggi="e" stem="2syll">maeksemekåarhte</t>
+            <t pos="N" soggi="e" stem="2syll">maeksemeskåarhte</t>
          </tg>
       </mg>
    </e>
@@ -22452,7 +22428,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" soggi="ie" stem="2syll">saelhtie</t>
+            <t pos="N" soggi="ie" stem="2syll" re="poetisk">saelhtie</t>
          </tg>
       </mg>
    </e>
@@ -22798,21 +22774,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">tantebarn til mors yngre søster</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t margo="e" pos="N" soggi="e" stem="3syll">moehrele</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">tantebarn</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t margo="e" pos="N" soggi="e" stem="3syll">moehrele</t>
+            <t margo="e" pos="N" soggi="e" stem="3syll" re="til mors yngre søster">moehrele</t>
          </tg>
       </mg>
    </e>
@@ -24293,6 +24259,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" soggi="a" stem="2syll">njuana</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N" soggi="a" stem="2syll" re="mellom to sammenflytende elver">johkenjuana</t>
          </tg>
       </mg>
    </e>
@@ -40152,7 +40123,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">havsame</l>
+         <l pos="N">sjøsame</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
