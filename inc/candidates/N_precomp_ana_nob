@@ -1,55 +1,55 @@
 
-forskningstema	dotkemeaamhtese	dutkanfáddá	2	0	6	0
++forskningstema	dotkemeaamhtese	dutkanfáddá	2	0	6	0
 forskningstema	dotkemenaamhtese	dutkanfáddá	2	0	6	0
 
-samfunnstema	ektievoeteaamhtese	servodatfáddá	1	0	1	0
++samfunnstema	siebredahkeaamhtese	servodatfáddá	1	0	1	0
 samfunnstema	ektievoetenaamhtese	servodatfáddá	1	0	1	0
 
 forskningssøknad	dotkemeohtseme	dutkanohcamuš	1	0	1	0
 forskningssøknad	dotkemenohtseme	dutkanohcamuš	1	0	1	0
 
-studiested	lohkemesijjie	oahppobáiki	3	0	6	0
++studiested	lohkemesijjie	oahppobáiki	3	0	6	0
 studiested	lohkemensijjie	oahppobáiki	3	0	6	0
-studiested	learoensijjie	oahppobáiki	3	0	6	0
++studiested	learoesijjie	oahppobáiki	3	0	6	0
 studiested	lohkemedajve	oahppobáiki	3	0	6	0
 studiested	learoedajve	oahppobáiki	3	0	6	0
 studiested	lohkemendajve	oahppobáiki	3	0	6	0
 studiested	learoendajve	oahppobáiki	3	0	6	0
 
-helsesamarbeid	healsoeektiebarkoe	dearvvašvuođabargu	2	0	2	0
++helsesamarbeid	healsoeektiebarkoe	dearvvašvuođabargu	2	0	2	0
 helsesamarbeid	healsoenektiebarkoe	dearvvašvuođabargu	2	0	2	0
 
-energisamarbeid	energijeektiebarkoe	energiijaovttasbargu	2	0	1	0
++energisamarbeid	energijeektiebarkoe	energiijaovttasbargu	2	0	1	0
 energisamarbeid	energiektiebarkoe	energiijaovttasbargu	2	0	1	0
 energisamarbeid	energijenektiebarkoe	energiijaovttasbargu	2	0	1	0
 
-forskningssamarbeid	dotkemeektiebarkoe	dutkanovttasbargu	5	0	3	0
++forskningssamarbeid	dotkemeektiebarkoe	dutkanovttasbargu	5	0	3	0
 forskningssamarbeid	dotkemenektiebarkoe	dutkanovttasbargu	5	0	3	0
 
-miljøsamarbeid	byjreseektiebarkoe	birasovttasbargu	4	0	1	0
++miljøsamarbeid	byjreseektiebarkoe	birasovttasbargu	4	0	1	0
 miljøsamarbeid	byjresenektiebarkoe	birasovttasbargu	4	0	1	0
 
-forskningsarbeid	dotkemebarkoe	dutkanbargu	6	1	13	1
++forskningsarbeid	dotkemebarkoe	dutkanbargu	6	1	13	1
 forskningsarbeid	dotkemenbarkoe	dutkanbargu	6	0	13	0
 
-fornorskningsarbeid	daaroedehtemebarkoe	dáruiduhttinbargu	2	0	2	0
++fornorskningsarbeid	daaroedehtemebarkoe	dáruiduhttinbargu	2	0	2	0
 fornorskningsarbeid	daaroedehtemenbarkoe	dáruiduhttinbargu	2	0	2	0
 
 kommunikasjonsarbeid	gaskesadtemebarkoe	gulahallanbargu	1	0	1	0
 kommunikasjonsarbeid	gaskesadtemenbarkoe	gulahallanbargu	1	0	1	0
 
-mørketid	jemhkeldeboelhke	skábma/sevdnjesáigi	7	0	86	0
++mørketid	sjuevnedstijje	skábma/sevdnjesáigi	7	0	86	0
 mørketid	jemhkeldenboelhke	skábma/sevdnjesáigi	7	0	86	0
 
 fisketid	guelieboelhke	oaggunáigi/bivdináigi	5	0	2	0
 fisketid	göölemeboelhke	oaggunáigi/bivdináigi	5	0	2	0
 fisketid	guelienboelhke	oaggunáigi/bivdináigi	5	0	2	0
 
-energikilde	energijegaaltije	energiijagáldu	4	0	2	0
++energikilde	energijegaaltije	energiijagáldu	4	0	2	0
 energikilde	energigaaltije	energiijagáldu	4	0	2	0
 energikilde	energijengaaltije	energiijagáldu	4	0	2	0
 
-tidsperiode	boelhkeboelhke	áigodat	13	0	323	0
+?tidsperiode	boelhkeboelhke	áigodat	13	0	323	0
 tidsperiode	boelhkenboelhke	áigodat	13	0	323	0
 
 fiskeområde	gueliedajve	bivdoguovlu	3	0	19	0
@@ -59,10 +59,10 @@ fiskeområde	gueliendajve	bivdoguovlu	3	0	19	0
 helseområde	healsoedajve	dearvvasvuođasuorgi	1	0	2	0
 helseområde	healsoendajve	dearvvasvuođasuorgi	1	0	2	0
 
-sommerbeiteområde	giesiedajve	geasseguohtonguovlu/geasseguohtoneana	7	0	1	0
++sommerbeiteområde	giesielaante	geasseguohtonguovlu/geasseguohtoneana	7	0	1	0
 sommerbeiteområde	giesiendajve	geasseguohtonguovlu/geasseguohtoneana	7	0	1	0
 
-vinterbeiteområde	daelviedajve	dálveguohtunguovlu	12	0	1	0
++vinterbeiteområde	daelvielaante	dálveguohtunguovlu	12	0	1	0
 vinterbeiteområde	daelviendajve	dálveguohtunguovlu	12	0	1	0
 
 fiskeriområde	gueliedajve	guolástusguovlu	1	0	2	0
@@ -71,10 +71,10 @@ fiskeriområde	gueliendajve	guolástusguovlu	1	0	2	0
 naturområde	eatnemedajve	luondduguovlu	6	0	4	0
 naturområde	eatnemendajve	luondduguovlu	6	0	4	0
 
-miljøområde	byjresedajve	birassuorgi	1	0	1	0
++miljøområde	byjresedajve	birassuorgi	1	0	1	0
 miljøområde	byjresendajve	birassuorgi	1	0	1	0
 
-reisepenge	fealadimmiebeetnege	mátkeruhta	1	0	2	0
++reisepenger	fealadimmiebeetnegh	mátkeruhta	1	0	2	0
 reisepenge	feelemebeetnege	mátkeruhta	1	0	2	0
 reisepenge	fealadimmienbeetnege	mátkeruhta	1	0	2	0
 reisepenge	feelemenbeetnege	mátkeruhta	1	0	2	0
@@ -83,60 +83,60 @@ reisepenge	feelemebeetneh	mátkeruhta	1	0	2	0
 reisepenge	fealadimmienbeetneh	mátkeruhta	1	0	2	0
 reisepenge	feelemenbeetneh	mátkeruhta	1	0	2	0
 
-helsepenge	healsoebeetnege	dearvvašvuođaruhta	1	0	1	0
++helsepenger	healsoebeetnegh	dearvvašvuođaruhta	1	0	1	0
 helsepenge	healsoenbeetnege	dearvvašvuođaruhta	1	0	1	0
 helsepenge	healsoebeetneh	dearvvašvuođaruhta	1	0	1	0
 helsepenge	healsoenbeetneh	dearvvašvuođaruhta	1	0	1	0
 
-forskningshistorie	dotkemehistovrije	dutkanhistorjá	1	0	1	0
++forskningshistorie	dotkemehistovrije	dutkanhistorjá	1	0	1	0
 forskningshistorie	dotkemenhistovrije	dutkanhistorjá	1	0	1	0
 
 grunnlinje	maadthskuvlesïeve	eanalinjá/vuođđolinjá/vuođđolinnjá	6	0	2	0
 grunnlinje	maadthsïeve	eanalinjá/vuođđolinjá/vuođđolinnjá	6	0	2	0
 
-fiskeriavtale	guelielatjkoe	guolástusšiehtadus	1	0	1	0
++fiskeriavtale	guöölemelatjkoe	guolástusšiehtadus	1	0	1	0
 fiskeriavtale	guelienlatjkoe	guolástusšiehtadus	1	0	1	0
 
-studietime	lohkemetæjmoe	oahppodiibmu	1	0	4	0
++studietime	lohkemetæjmoe	oahppodiibmu	1	0	4	0
 studietime	learoetæjmoe	oahppodiibmu	1	0	4	0
 
-studieemne	lohkemeaamhtese	oahppofáddá	1	0	2	0
++studieemne	lohkemeaamhtese	oahppofáddá	1	0	2	0
 studieemne	learoeaamhtese	oahppofáddá	1	0	2	0
 studieemne	lohkemenaamhtese	oahppofáddá	1	0	2	0
 studieemne	learoenaamhtese	oahppofáddá	1	0	2	0
 
 fiskestyre	guelieståvroe	guolástusstivra/guolástanstivra	4	0	1	0
-fiskestyre	göölemeståvroe	guolástusstivra/guolástanstivra	4	0	1	0
++fiskeristyre	göölemeståvroe	guolástusstivra/guolástanstivra	4	0	1	0
 
 helselære	healsoelohkehtæjja	dearvvašvuođaoahppu	2	0	1	0
-helselære	healsoelearoe	dearvvašvuođaoahppu	2	0	1	0
++helselære	healsoelearoe	dearvvašvuođaoahppu	2	0	1	0
 helselære	healsoenlearoe	dearvvašvuođaoahppu	2	0	1	0
 
-fiskehelse	gueliehealsoe	guolledearvvašvuohta	3	0	1	0
++fiskehelse	gueliehealsoe	guolledearvvašvuohta	3	0	1	0
 fiskehelse	göölemehealsoe	guolledearvvašvuohta	3	0	1	0
 fiskehelse	guelienhealsoe	guolledearvvašvuohta	3	0	1	0
 
 fisketillatelse	guelieluhpie	guollelohpi	2	0	1	0
-fisketillatelse	göölemeluhpie	guollelohpi	2	0	1	0
++fisketillatelse	göölemeluhpie	guollelohpi	2	0	1	0
 fisketillatelse	guelienluhpie	guollelohpi	2	0	1	0
 
-helsekonferanse	healsoekonferaanse	dearvvašvuođakonferánsa	1	0	1	0
++helsekonferanse	healsoekonferaanse	dearvvašvuođakonferánsa	1	0	1	0
 helsekonferanse	healsoenkonferaanse	dearvvašvuođakonferánsa	1	0	1	0
 
-landbrukskonferanse	laanteburriekonferaanse	eanadoallokonferánsa	1	0	1	0
++landbrukskonferanse	laanteburriekonferaanse	eanadoallokonferánsa	1	0	1	0
 landbrukskonferanse	laanteburrienkonferaanse	eanadoallokonferánsa	1	0	1	0
 
 handlingskompetanse	darjomemaahtoe	čađahandáidu/doaibmagelbbolašvuohta	2	0	1	0
 handlingskompetanse	darjomenmaahtoe	čađahandáidu/doaibmagelbbolašvuohta	2	0	1	0
 
-forskningskompetanse	dotkememaahtoe	dutkanmáhttu/dutkangelbbolašvuohta	5	0	1	2
++forskningskompetanse	dotkememaahtoe	dutkanmáhttu/dutkangelbbolašvuohta	5	0	1	2
 forskningskompetanse	dotkemenmaahtoe	dutkanmáhttu/dutkangelbbolašvuohta	5	0	1	0
 
-eiendomsgrense	eekeraaja	opmodatrádjá	1	0	1	0
++eiendomsgrense	eekeraaja	opmodatrádjá	1	0	1	0
 eiendomsgrense	eekenraaja	opmodatrádjá	1	0	1	0
 
 pengegave	beetnehvadtese	ruhtaattus	1	0	0	0
-pengegave	beetnegenvadtese	ruhtaattus	1	0	0	0
++pengegave	beetnegenvadtese	ruhtaattus	1	0	0	0
 
 reisemelding	fealadimmiesaerniestimmie	mátkedieđáhus	1	0	1	0
 reisemelding	feelemesaerniestimmie	mátkedieđáhus	1	0	1	0
@@ -168,27 +168,27 @@ landbruksmelding	laanteburriensaerniestimmie	eanageavahandieđáhus/eanandoallod
 miljømelding	byjresesaerniestimmie	birasdieđáhus	1	0	1	0
 miljømelding	byjresensaerniestimmie	birasdieđáhus	1	0	1	0
 
-forskningsavdeling	dotkemegoevtese	dutkanossodat	1	1	1	1
++forskningsavdeling	dotkemegoevtese	dutkanossodat	1	1	1	1
 forskningsavdeling	dotkemengoevtese	dutkanossodat	1	0	1	0
 
-landbruksavdeling	laanteburriegoevtese	eanandoalloossodat/eanadoalloossodat	9	0	2	2
++landbruksavdeling	laanteburriegoevtese	eanandoalloossodat/eanadoalloossodat	9	0	2	2
 landbruksavdeling	laanteburriengoevtese	eanandoalloossodat/eanadoalloossodat	9	0	2	0
 
 kommunikasjonsavdeling	gaskesadtemegoevtese	gulahallanossodat	5	0	3	0
 kommunikasjonsavdeling	gaskesadtemengoevtese	gulahallanossodat	5	0	3	0
 
-miljøutvikling	byjreseevtiedimmie	birasovdáneapmi	1	0	1	0
++miljøutvikling	byjreseevtiedimmie	birasovdáneapmi	1	0	1	0
 miljøutvikling	byjresenevtiedimmie	birasovdáneapmi	1	0	1	0
-miljøutvikling	byjreseövtiedimmie	birasovdáneapmi	1	0	1	0
++miljøutvikling	byjreseövtiedimmie	birasovdáneapmi	1	0	1	0
 
 fiskeforening	gueliesiebrie	guolástansearvi/oaggunsearvi/guolástussearvi	7	0	4	0
-fiskeforening	göölemesiebrie	guolástansearvi/oaggunsearvi/guolástussearvi	7	0	4	0
++fiskeforening	göölemesiebrie	guolástansearvi/oaggunsearvi/guolástussearvi	7	0	4	0
 fiskeforening	gueliensiebrie	guolástansearvi/oaggunsearvi/guolástussearvi	7	0	4	0
 
 fagforening	faagesiebrie	fágasearvi/ámmátsearvi	7	0	4	0
 fagforening	faagensiebrie	fágasearvi/ámmátsearvi	7	0	4	0
 
-kulturforening	kultuvresiebrie	kultursearvi	1	1	2	0
++kulturforening	kultuvresiebrie	kultursearvi	1	1	2	0
 kulturforening	kultuvrensiebrie	kultursearvi	1	0	2	0
 kulturforening	kultursiebrie	kultursearvi	1	0	2	0
 
@@ -196,10 +196,10 @@ læremiddeldekning	learoevierhtiefaaleldahke	oahpponeavvodilli	0	0	9	0
 læremiddeldekning	learoevierhtienfaaleldahke	oahpponeavvodilli	0	0	9	0
 
 grunnsetning	maadthskuvleraajese	vuođđocealkka	1	0	1	0
-grunnsetning	maadthraajese	vuođđocealkka	1	0	1	0
++grunnsetning	maadthraajese	vuođđocealkka	1	0	1	0
 grunnsetning	maadthskuvlenraajese	vuođđocealkka	1	0	1	0
 
-solring	biejjiereagka	beaivvášgierdu	1	0	1	0
++solring	biejjiereagka	beaivvášgierdu	1	0	1	0
 solring	biejviereagka	beaivvášgierdu	1	0	1	0
 solring	biejjienreagka	beaivvášgierdu	1	0	1	0
 solring	biejvienreagka	beaivvášgierdu	1	0	1	0
@@ -217,7 +217,7 @@ energiteknologi	energijenteknologije	energiijateknologiija	1	0	1	0
 kommunikasjonsteknologi	gaskesadtemeteknologije	kommunikašuvdnateknologiija/gulahallanteknologiija	12	1	4	0
 kommunikasjonsteknologi	gaskesadtementeknologije	kommunikašuvdnateknologiija/gulahallanteknologiija	12	0	4	0
 
-miljøteknologi	byjreseteknologije	birasteknologiija	6	2	1	1
++miljøteknologi	byjreseteknologije	birasteknologiija	6	2	1	1
 miljøteknologi	byjresenteknologije	birasteknologiija	6	0	1	0
 
 energisak	energijeaamhtese	energiijaášši	3	0	3	0
@@ -227,37 +227,37 @@ energisak	energijenaamhtese	energiijaášši	3	0	3	0
 fiskerisak	guelieaamhtese	guolástusášši	3	0	4	0
 fiskerisak	guelienaamhtese	guolástusášši	3	0	4	0
 
-forskningssak	dotkemeaamhtese	dutkanášši	1	0	1	0
++forskningssak	dotkemeaamhtese	dutkanášši	1	0	1	0
 forskningssak	dotkemenaamhtese	dutkanášši	1	0	1	0
 
-landbrukssak	laanteburrieaamhtese	eanandoalloášši/eanadoalloášši	1	0	1	0
++landbrukssak	laanteburrieaamhtese	eanandoalloášši/eanadoalloášši	1	0	1	0
 landbrukssak	laanteburrienaamhtese	eanandoalloášši/eanadoalloášši	1	0	1	0
 
-eiendomssak	eekeaamhtese	opmodatášši	1	0	1	0
++eiendomssak	eekeaamhtese	opmodatášši	1	0	1	0
 eiendomssak	eekenaamhtese	opmodatášši	1	0	1	0
 
-miljøsak	byjreseaamhtese	birasášši	3	0	5	0
++miljøsak	byjreseaamhtese	birasášši	3	0	5	0
 miljøsak	byjresenaamhtese	birasášši	3	0	5	0
 
 studiebibliotek	lohkemegærjagåetie	oahppogirjerádju	1	0	1	0
-studiebibliotek	learoegærjagåetie	oahppogirjerádju	1	0	1	0
++studiebibliotek	learoegærjagåetie	oahppogirjerádju	1	0	1	0
 
 pengepolitikk	beetnehpolitihke	ruhtapolitihkka	4	0	2	0
 pengepolitikk	beetnegenpolitihke	ruhtapolitihkka	4	0	2	0
 
-helsepolitikk	healsoepolitihke	dearvvašvuođapolitihkka	5	0	3	0
++helsepolitikk	healsoepolitihke	dearvvašvuođapolitihkka	5	0	3	0
 helsepolitikk	healsoenpolitihke	dearvvašvuođapolitihkka	5	0	3	0
 
-fiskeripolitikk	gueliepolitihke	guolástuspolitihkka/guolástanpolitihkka	30	0	10	0
++fiskeripolitikk	guöölemepolitihke	guolástuspolitihkka/guolástanpolitihkka	30	0	10	0
 fiskeripolitikk	guelienpolitihke	guolástuspolitihkka/guolástanpolitihkka	30	0	10	0
 
-forskningspolitikk	dotkemepolitihke	dutkanpolitihkka	10	0	4	2
++forskningspolitikk	dotkemepolitihke	dutkanpolitihkka	10	0	4	2
 forskningspolitikk	dotkemenpolitihke	dutkanpolitihkka	10	0	4	0
 
-landbrukspolitikk	laanteburriepolitihke	eanandoallopolitihkka/eanadoallopolitihkka/eanageavahanpolitihkka	33	2	6	4
++landbrukspolitikk	laanteburriepolitihke	eanandoallopolitihkka/eanadoallopolitihkka/eanageavahanpolitihkka	33	2	6	4
 landbrukspolitikk	laanteburrienpolitihke	eanandoallopolitihkka/eanadoallopolitihkka/eanageavahanpolitihkka	33	0	6	0
 
-eiendomspolitikk	eekepolitihke	opmodatpolitihkka	4	0	1	0
++eiendomspolitikk	eekepolitihke	opmodatpolitihkka	4	0	1	0
 eiendomspolitikk	eekenpolitihke	opmodatpolitihkka	4	0	1	0
 
 kommunikasjonspolitikk	gaskesadtemepolitihke	gulahallanpolitihkka	5	0	1	0
@@ -267,11 +267,11 @@ språkfolk	gïeleåålmege	giellaolmmoš	1	0	2	0
 språkfolk	gïelealmetje	giellaolmmoš	1	0	2	0
 
 nabofolk	kraannaåålmege	ránnjáálbmot	2	0	1	0
-nabofolk	kraannaalmetje	ránnjáálbmot	2	0	1	0
++nabofolk	kraannaalmetjh	ránnjáálbmot	2	0	1	0
 nabofolk	kraannanalmetje	ránnjáálbmot	2	0	1	0
 
 kulturfolk	kultuvreåålmege	kulturálbmot	2	0	1	0
-kulturfolk	kultuvrealmetje	kulturálbmot	2	0	1	0
++kulturfolk	kultuvrealmetjh	kulturálbmot	2	0	1	0
 kulturfolk	kultuvrenalmetje	kulturálbmot	2	0	1	0
 kulturfolk	kulturalmetje	kulturálbmot	2	0	1	0
 
@@ -286,20 +286,20 @@ kompetansemiddel	maahtoenvierhtie	gealboruhta/gelbbolašvuođaruhta/máhttobuori
 utviklingsmiddel	evtiedimmievierhtie	ovdánahttinruhta/ovddidanruhta/ovddidangaskaoapmi	2	0	1	0
 utviklingsmiddel	evtiedimmienvierhtie	ovdánahttinruhta/ovddidanruhta/ovddidangaskaoapmi	2	0	1	0
 
-forskningsmiddel	dotkemevierhtie	dutkanruhta	2	0	4	0
++forskningsmiddel	dotkemevierhtie	dutkanruhta	2	0	4	0
 forskningsmiddel	dotkemenvierhtie	dutkanruhta	2	0	4	0
 
-konkurranseregel	gaahtjemenjoelkedasse	gilvonjuolggadus	1	0	1	0
++konkurranseregel	gaahtjemenjoelkedasse	gilvonjuolggadus	1	0	1	0
 konkurranseregel	gaahtjemennjoelkedasse	gilvonjuolggadus	1	0	1	0
 
 grunnregel	maadthskuvlenjoelkedasse	vuođđonjuolggadus	11	0	5	0
-grunnregel	maadthnjoelkedasse	vuođđonjuolggadus	11	0	5	0
++grunnregel	maadthnjoelkedasse	vuođđonjuolggadus	11	0	5	0
 grunnregel	maadthskuvlennjoelkedasse	vuođđonjuolggadus	11	0	5	0
 
-barnehagespørsmål	maanagïertegyhtjelasse	mánáidgárdegažaldat	1	0	1	0
++barnehagespørsmål	maanagïertegyhtjelasse	mánáidgárdegažaldat	1	0	1	0
 barnehagespørsmål	maanajgïertegyhtjelasse	mánáidgárdegažaldat	1	0	1	0
 
-helsespørsmål	healsoegyhtjelasse	dearvvašvuođaášši	2	0	1	1
++helsespørsmål	healsoegyhtjelasse	dearvvašvuođaášši	2	0	1	1
 helsespørsmål	healsoengyhtjelasse	dearvvašvuođaášši	2	0	1	0
 
 fiskerispørsmål	gueliegyhtjelasse	guolástanášši/guolástusášši/guolástusgažaldat	7	0	2	0
@@ -308,66 +308,66 @@ fiskerispørsmål	gueliengyhtjelasse	guolástanášši/guolástusášši/guolás
 filmspørsmål	jielieguvviegyhtjelasse	filbmagažaldat	1	0	0	0
 filmspørsmål	jielieguvviengyhtjelasse	filbmagažaldat	1	0	0	0
 
-kulturspørsmål	kultuvregyhtjelasse	kulturášši/kulturgažaldat	4	0	3	0
++kulturspørsmål	kultuvregyhtjelasse	kulturášši/kulturgažaldat	4	0	3	0
 kulturspørsmål	kultuvrengyhtjelasse	kulturášši/kulturgažaldat	4	0	3	0
 kulturspørsmål	kulturgyhtjelasse	kulturášši/kulturgažaldat	4	0	3	0
 
-samarbeidsspørsmål	ektiebarkoegyhtjelasse	ovttasbargogažaldat/ovttasbargoášši	1	0	1	0
++samarbeidsspørsmål	ektiebarkoegyhtjelasse	ovttasbargogažaldat/ovttasbargoášši	1	0	1	0
 samarbeidsspørsmål	ektiebarkoengyhtjelasse	ovttasbargogažaldat/ovttasbargoášši	1	0	1	0
 
-tilleggsspørsmål	lissiegyhtjelasse	lassigažaldat	3	0	1	0
++tilleggsspørsmål	lissiegyhtjelasse	lassigažaldat	3	0	1	0
 tilleggsspørsmål	lissiengyhtjelasse	lassigažaldat	3	0	1	0
 
-forskningsspørsmål	dotkemegyhtjelasse	dutkangažaldat	2	0	2	0
++forskningsspørsmål	dotkemegyhtjelasse	dutkangažaldat	2	0	2	0
 forskningsspørsmål	dotkemengyhtjelasse	dutkangažaldat	2	0	2	0
 
-eiendomsspørsmål	eekegyhtjelasse	eaiggáduššangažaldat	1	0	1	0
++eiendomsspørsmål	eekegyhtjelasse	eaiggáduššangažaldat	1	0	1	0
 eiendomsspørsmål	eekengyhtjelasse	eaiggáduššangažaldat	1	0	1	0
 
 samfunnsspørsmål	ektievoetegyhtjelasse	servodatášši/servodatgažaldat	2	0	2	0
 samfunnsspørsmål	ektievoetengyhtjelasse	servodatášši/servodatgažaldat	2	0	2	0
 
-miljøspørsmål	byjresegyhtjelasse	birasgažaldat/birasášši	6	0	3	0
++miljøspørsmål	byjresegyhtjelasse	birasgažaldat/birasášši	6	0	3	0
 miljøspørsmål	byjresengyhtjelasse	birasgažaldat/birasášši	6	0	3	0
 
-helsesystem	healsoesysteeme	dearvvašvuođavuogádat	1	0	1	0
++helsesystem	healsoesysteeme	dearvvašvuođavuogádat	1	0	1	0
 helsesystem	healsoensysteeme	dearvvašvuođavuogádat	1	0	1	0
 
-energisystem	energijesysteeme	energiijavuogádat	2	0	0	0
++energisystem	energijesysteeme	energiijavuogádat	2	0	0	0
 energisystem	energisysteeme	energiijavuogádat	2	0	0	0
 energisystem	energijensysteeme	energiijavuogádat	2	0	0	0
 
-forskningssystem	dotkemesysteeme	dutkanvuogádat	3	0	1	0
++forskningssystem	dotkemesysteeme	dutkanvuogádat	3	0	1	0
 forskningssystem	dotkemensysteeme	dutkanvuogádat	3	0	1	0
 
 kommunikasjonssystem	gaskesadtemesysteeme	gulahallanvuogádat	1	0	1	0
 kommunikasjonssystem	gaskesadtemensysteeme	gulahallanvuogádat	1	0	1	0
 
-fiskesykdom	guelieskïemtjelasse	guolledávda	2	0	2	0
++fiskesykdom	guelieskïemtjelasse	guolledávda	2	0	2	0
 fiskesykdom	göölemeskïemtjelasse	guolledávda	2	0	2	0
 
-kulturterm	kultuvreteerme	kulturtearbma	1	0	1	0
++kulturterm	kultuvreteerme	kulturtearbma	1	0	1	0
 kulturterm	kultuvrenteerme	kulturtearbma	1	0	1	0
 kulturterm	kulturteerme	kulturtearbma	1	0	1	0
 
-studieplan	lohkemesoejkesje	studieplána/oahppoplána/lohkanplána	2	0	74	0
++studieplan	lohkemesoejkesje	studieplána/oahppoplána/lohkanplána	2	0	74	0
 studieplan	lohkemensoejkesje	studieplána/oahppoplána/lohkanplána	2	0	74	0
 studieplan	learoensoejkesje	studieplána/oahppoplána/lohkanplána	2	0	74	0
 studieplan	lohkemeplaane	studieplána/oahppoplána/lohkanplána	2	0	74	0
 studieplan	lohkemenplaane	studieplána/oahppoplána/lohkanplána	2	0	74	0
 studieplan	learoenplaane	studieplána/oahppoplána/lohkanplána	2	0	74	0
 
-helseplan	healsoesoejkesje	dearvvašvuođaplána	12	0	6	0
++helseplan	healsoesoejkesje	dearvvašvuođaplána	12	0	6	0
 helseplan	healsoensoejkesje	dearvvašvuođaplána	12	0	6	0
 helseplan	healsoeplaane	dearvvašvuođaplána	12	0	6	0
 helseplan	healsoenplaane	dearvvašvuođaplána	12	0	6	0
 
-forskningsplan	dotkemesoejkesje	dutkanplána	2	0	2	0
++forskningsplan	dotkemesoejkesje	dutkanplána	2	0	2	0
 forskningsplan	dotkemensoejkesje	dutkanplána	2	0	2	0
 forskningsplan	dotkemeplaane	dutkanplána	2	0	2	0
 forskningsplan	dotkemenplaane	dutkanplána	2	0	2	0
 
-landbruksplan	laanteburriesoejkesje	eanandoalloplána	2	0	2	0
++landbruksplan	laanteburriesoejkesje	eanandoalloplána	2	0	2	0
 landbruksplan	laanteburriensoejkesje	eanandoalloplána	2	0	2	0
 landbruksplan	laanteburrieplaane	eanandoalloplána	2	1	2	0
 landbruksplan	laanteburrienplaane	eanandoalloplána	2	0	2	0
@@ -386,22 +386,22 @@ olderbakken	liejpiendeava	leaibedievvá	2	0	1	0
 naturstein	eatnemegierkie	luonddugeađgi	9	0	3	0
 naturstein	eatnemengierkie	luonddugeađgi	9	0	3	0
 
-fiskerisamfunn	gueliesiebriedahke	guolástusservodat	3	0	1	0
++fiskerisamfunn	göölemesiebriedahke	guolástusservodat	3	0	1	0
 fiskerisamfunn	gueliensiebriedahke	guolástusservodat	3	0	1	0
 
-forskningsstasjon	dotkemestasjovne	dutkanstašuvdna	1	0	1	0
++forskningsstasjon	dotkemestasjovne	dutkanstašuvdna	1	0	1	0
 forskningsstasjon	dotkemenstasjovne	dutkanstašuvdna	1	0	1	0
 
 jordvern	laantevaarjelimmie	eanangáhtten/eanagáhtten/eanansuodjaleapmi	7	0	1	0
 jordvern	laantenvaarjelimmie	eanangáhtten/eanagáhtten/eanansuodjaleapmi	7	0	1	0
 
-tannvern	baenievaarjelimmie	bátnesuodjalus	1	0	1	0
++tannvern	baenievaarjelimmie	bátnesuodjalus	1	0	1	0
 tannvern	baenienvaarjelimmie	bátnesuodjalus	1	0	1	0
 
 studieleder	lohkemeåejvie	oahppojođiheaddji	1	0	1	0
-studieleder	learoeåejvie	oahppojođiheaddji	1	0	1	0
++studieleder	learoeåejvie	oahppojođiheaddji	1	0	1	0
 
-miljøarbeider	byjresebarkije	birasbargi	1	0	5	0
++miljøarbeider	byjresebarkije	birasbargi	1	0	5	0
 miljøarbeider	byjresenbarkije	birasbargi	1	0	5	0
 
 reisepenger	fealadimmiebeetnege	mátkeruhta	1	0	2	0
@@ -418,12 +418,12 @@ helsepenger	healsoenbeetnege	dearvvašvuođaruhta	1	0	1	0
 helsepenger	healsoebeetneh	dearvvašvuođaruhta	1	0	1	0
 helsepenger	healsoenbeetneh	dearvvašvuođaruhta	1	0	1	0
 
-utviklingspenger	evtiedimmiebeetnege	ovdánahttinruhta/ovddidanruhta	0	0	2	0
++utviklingspenger	evtiedimmiebeetnegh	ovdánahttinruhta/ovddidanruhta	0	0	2	0
 utviklingspenger	evtiedimmienbeetnege	ovdánahttinruhta/ovddidanruhta	0	0	2	0
-utviklingspenger	evtiedimmiebeetneh	ovdánahttinruhta/ovddidanruhta	0	0	2	0
++utviklingspenger	övtiedimmiebeetnegh	ovdánahttinruhta/ovddidanruhta	0	0	2	0
 utviklingspenger	evtiedimmienbeetneh	ovdánahttinruhta/ovddidanruhta	0	0	2	0
 
-landbrukslærer	laanteburrielohkehtæjja	eanandoallooahpaheaddji	1	0	0	1
++landbrukslærer	laanteburrielohkehtæjja	eanandoallooahpaheaddji	1	0	0	1
 landbrukslærer	laanteburrielearoe	eanandoallooahpaheaddji	1	0	0	0
 landbrukslærer	laanteburrienlearoe	eanandoallooahpaheaddji	1	0	0	0
 
@@ -431,24 +431,24 @@ reindriftslærer	båatsoeburrielohkehtæjja	boazodoallooahpaheaddji	1	0	1	0
 reindriftslærer	båatsoeburrielearoe	boazodoallooahpaheaddji	1	0	1	0
 
 studiesenter	lohkemejarnge	oahppoguovddáš	2	2	6	1
-studiesenter	learoejarnge	oahppoguovddáš	2	0	6	0
++studiesenter	learoejarnge	oahppoguovddáš	2	0	6	0
 studiesenter	lohkemenjarnge	oahppoguovddáš	2	0	6	0
 studiesenter	learoenjarnge	oahppoguovddáš	2	0	6	0
 
-forskningssenter	dotkemejarnge	dutkanguovddáš	6	1	8	1
++forskningssenter	dotkemejarnge	dutkanguovddáš	6	1	8	1
 forskningssenter	dotkemenjarnge	dutkanguovddáš	6	0	8	0
 
-miljøsenter	byjresejarnge	birasguovddáš	2	0	7	0
++miljøsenter	byjresejarnge	birasguovddáš	2	0	7	0
 miljøsenter	byjresenjarnge	birasguovddáš	2	0	7	0
 
-energisektor	energijesuerkie	energiijasuorgi	3	0	1	1
++energisektor	energijesuerkie	energiijasuorgi	3	0	1	1
 energisektor	energisuerkie	energiijasuorgi	3	0	1	0
 energisektor	energijensuerkie	energiijasuorgi	3	0	1	0
 
 fiskerisektor	gueliesuerkie	guolástussuorgi	3	0	1	0
 fiskerisektor	gueliensuerkie	guolástussuorgi	3	0	1	0
 
-landbrukssektor	laanteburriesuerkie	eanandoallosektor	3	0	0	0
++landbrukssektor	laanteburriesuerkie	eanandoallosektor	3	0	0	0
 landbrukssektor	laanteburriensuerkie	eanandoallosektor	3	0	0	0
 
 studietur	lohkemefealadimmie	oahppomátki	10	0	8	0
@@ -456,69 +456,69 @@ studietur	learoefealadimmie	oahppomátki	10	0	8	0
 studietur	lohkemenfealadimmie	oahppomátki	10	0	8	0
 studietur	learoenfealadimmie	oahppomátki	10	0	8	0
 
-arbeidsår	barkoejaepie	bargojahki	2	0	2	0
++arbeidsår	barkoejaepie	bargojahki	2	0	2	0
 arbeidsår	barkoenjaepie	bargojahki	2	0	2	0
 
 fiskevær	guelievearelde	guollebivdohápman	13	0	2	0
 fiskevær	göölemevearelde	guollebivdohápman	13	0	2	0
 fiskevær	guelienvearelde	guollebivdohápman	13	0	2	0
 
-sommerkurs	giesiekuvsje	geassekursa	1	0	1	0
++sommerkurs	giesiekuvsje	geassekursa	1	0	1	0
 sommerkurs	giesienkuvsje	geassekursa	1	0	1	0
 
-kulturkurs	kultuvrekuvsje	kulturkursa	1	0	1	0
++kulturkurs	kultuvrekuvsje	kulturkursa	1	0	1	0
 kulturkurs	kultuvrenkuvsje	kulturkursa	1	0	1	0
 kulturkurs	kulturkuvsje	kulturkursa	1	0	1	0
 
-utviklingskurs	evtiedimmiekuvsje	ovdánankursa	1	0	1	0
++utviklingskurs	evtiedimmiekuvsje	ovdánankursa	1	0	1	0
 utviklingskurs	evtiedimmienkuvsje	ovdánankursa	1	0	1	0
 
-årskurs	jaepiekuvsje	jahkekursa	2	0	1	0
++årskurs	jaepiekuvsje	jahkekursa	2	0	1	0
 årskurs	jaepienkuvsje	jahkekursa	2	0	1	0
 
 jordressurs	laantevierhtie	eanaresursa	1	0	1	0
 jordressurs	laantenvierhtie	eanaresursa	1	0	1	0
 
 kompetanseressurs	maahtaldahkevierhtie	máhttoresursa	1	0	1	0
-kompetanseressurs	maahtoevierhtie	máhttoresursa	1	0	1	0
++kompetanseressurs	maahtoevierhtie	máhttoresursa	1	0	1	0
 kompetanseressurs	maahtaldahkenvierhtie	máhttoresursa	1	0	1	0
 kompetanseressurs	maahtoenvierhtie	máhttoresursa	1	0	1	0
 
-energiressurs	energijevierhtie	energiijaresursa	3	0	1	0
++energiressurs	energijevierhtie	energiijaresursa	3	0	1	0
 energiressurs	energivierhtie	energiijaresursa	3	0	1	0
 energiressurs	energijenvierhtie	energiijaresursa	3	0	1	0
 
 grunnressurs	maadthskuvlevierhtie	vuođđoresursa	1	0	1	0
-grunnressurs	maadthvierhtie	vuođđoresursa	1	0	1	0
++grunnressurs	maadthvierhtie	vuođđoresursa	1	0	1	0
 grunnressurs	maadthskuvlenvierhtie	vuođđoresursa	1	0	1	0
 
-tilleggsressurs	lissievierhtie	lassiresursa	1	0	1	0
++tilleggsressurs	lissievierhtie	lassiresursa	1	0	1	0
 tilleggsressurs	lissienvierhtie	lassiresursa	1	0	1	0
 
-utviklingsressurs	evtiedimmievierhtie	buvttadanresursa	0	0	1	0
++utviklingsressurs	evtiedimmievierhtie	buvttadanresursa	0	0	1	0
 utviklingsressurs	evtiedimmienvierhtie	buvttadanresursa	0	0	1	0
 
 samfunnsressurs	ektievoetevierhtie	servodatresursa	1	0	1	0
 samfunnsressurs	ektievoetenvierhtie	servodatresursa	1	0	1	0
 
-kunnskapsressurs	maahtoevierhtie	máhttoresursa	1	0	1	0
++kunnskapsressurs	maahtoevierhtie	máhttoresursa	1	0	1	0
 kunnskapsressurs	maahtoenvierhtie	máhttoresursa	1	0	1	0
 
-miljøressurs	byjresevierhtie	birasresursa	2	0	1	0
++miljøressurs	byjresevierhtie	birasresursa	2	0	1	0
 miljøressurs	byjresenvierhtie	birasresursa	2	0	1	0
 
 fiskeplass	gueliesijjie	guolástansadji/bivdosadji	9	0	3	0
-fiskeplass	göölemesijjie	guolástansadji/bivdosadji	9	0	3	1
++fiskeplass	göölemesijjie	guolástansadji/bivdosadji	9	0	3	1
 fiskeplass	gueliensijjie	guolástansadji/bivdosadji	9	0	3	0
 
-energidirektorat	energijedirektoraate	energiijadirektoráhtta	24	0	10	1
++energidirektorat	energijedirektoraate	energiijadirektoráhtta	24	0	10	1
 energidirektorat	energidirektoraate	energiijadirektoráhtta	24	0	10	0
 energidirektorat	energijendirektoraate	energiijadirektoráhtta	24	0	10	0
 energidirektorat	energijedirektovraate	energiijadirektoráhtta	24	0	10	0
 energidirektorat	energidirektovraate	energiijadirektoráhtta	24	0	10	0
 energidirektorat	energijendirektovraate	energiijadirektoráhtta	24	0	10	0
 
-fiskeridirektorat	gueliedirektoraate	guolástandirektoráhtta	0	0	2	0
++fiskeridirektorat	göölemedirektoraate	guolástandirektoráhtta	0	0	2	0
 fiskeridirektorat	gueliendirektoraate	guolástandirektoráhtta	0	0	2	0
 fiskeridirektorat	gueliedirektovraate	guolástandirektoráhtta	0	0	2	0
 fiskeridirektorat	gueliendirektovraate	guolástandirektoráhtta	0	0	2	0
@@ -553,7 +553,7 @@ jordrettighet	laantereakta	eananvuoigatvuohta	1	0	1	0
 jordrettighet	laantenreakta	eananvuoigatvuohta	1	0	1	0
 
 fiskerettighet	gueliereakta	guolástusvuoigatvuohta/guollebivdinvuoigatvuohta/guolástusriekti/bivdovuoigatvuohta	22	0	6	0
-fiskerettighet	göölemereakta	guolástusvuoigatvuohta/guollebivdinvuoigatvuohta/guolástusriekti/bivdovuoigatvuohta	22	0	6	7
++fiskerettighet	göölemereakta	guolástusvuoigatvuohta/guollebivdinvuoigatvuohta/guolástusriekti/bivdovuoigatvuohta	22	0	6	7
 fiskerettighet	guelienreakta	guolástusvuoigatvuohta/guollebivdinvuoigatvuohta/guolástusriekti/bivdovuoigatvuohta	22	0	6	0
 
 forskningsaktivitet	dotkemedarjome	dutkandoaibma	6	0	6	0
@@ -581,7 +581,7 @@ praksisfelt	learoesuerkie	práksissuorgi	2	0	0	0
 praksisfelt	learoensuerkie	práksissuorgi	2	0	0	0
 
 studiekonsulent	lohkemekonsuleente	oahppobagadalli	1	0	1	0
-studiekonsulent	learoekonsuleente	oahppobagadalli	1	0	1	0
++studiekonsulent	learoekonsuleente	oahppobagadalli	1	0	1	0
 studiekonsulent	lohkemenkonsuleente	oahppobagadalli	1	0	1	0
 studiekonsulent	learoenkonsuleente	oahppobagadalli	1	0	1	0
 
