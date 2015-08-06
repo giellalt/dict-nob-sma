@@ -1,19 +1,19 @@
 
 undervisningstema	bïhkedimmieaamhtese	oahppofáddá	1	0	2	0
 
-arealtilskudd	arealedåarjoe	areáladoarjja	1	0	1	0
++arealtilskudd	arealedåarjoe	areáladoarjja	1	0	1	0
 
-grunntilskudd	maadthdåarjoe	vuođđodoarjja	28	4	17	4
++grunntilskudd	maadthdåarjoe	vuođđodoarjja	28	4	17	4
 
-utviklingstilskudd	evtiedimmiedåarjoe	ovddidandoarjja	17	5	4	4
++utviklingstilskudd	evtiedimmiedåarjoe	ovddidandoarjja	17	5	4	4
 
-organisasjonstilskudd	organisasjovnedåarjoe	organisašuvdnadoarjja	2	0	3	2
++organisasjonstilskudd	organisasjovnedåarjoe	organisašuvdnadoarjja	2	0	3	2
 
-statstilskudd	staatedåarjoe	stáhtadoarjja	17	0	28	4
++statstilskudd	staatedåarjoe	stáhtadoarjja	17	0	28	4
 
-miljøtilskudd	byjresedåarjoe	birasdoarjja	1	0	1	0
++miljøtilskudd	byjresedåarjoe	birasdoarjja	1	0	1	0
 
-fornorskningssynd	daaroedehtemesådtoe	dáruiduhttinsuddu	1	0	1	0
++fornorskningssynd	daaroedehtemesådtoe	dáruiduhttinsuddu	1	0	1	0
 
 pressetilbud	dïedtefaaleldahke	preassafálaldat	2	0	1	0
 
@@ -31,7 +31,7 @@ reindriftslinje	båatsoesïeve	boazodoallolinjá/boazodoallosuorgi	9	0	3	0
 
 fellesfiske	bartagööleme	oktasašbivdu/oktasašguolásteapmi	1	0	1	0
 
-reinbeiteavtale	båatsoelatjkoe	boazoguohtunšiehtadus/boazoguohtonšiehtadus	3	0	1	0
++reinbeiteavtale	båatsoelatjkoe	boazoguohtunšiehtadus/boazoguohtonšiehtadus	3	0	1	0
 
 reindriftskvinne	båatsoeburrienyjsene	boazodoallonissonolmmoš/boazodoallonisu/badjenisu	7	0	4	0
 
@@ -41,55 +41,55 @@ tilskuddstørrelse	dåarjoeståaroe	doarjjasturrodat	6	0	2	0
 
 tilskuddsstørrelse	dåarjoeståaroe	doarjjasturrodat	2	0	2	0
 
-pressekonferanse	dïedtekonferaanse	preassakonferánsa	21	0	8	0
++pressekonferanse	pressekonferaanse	preassakonferánsa	21	0	8	0
 
-reindriftsklasse	båatsoeburrieklaasse	boazodoalloluohkká	1	0	1	0
++reindriftsklasse	båatsoeburrieklaasse	boazodoalloluohkká	1	0	1	0
 
-forskningsinteresse	dotkemeïedtje	dutkanberoštus	1	0	1	0
++forskningsinteresse	dotkemeïedtje	dutkanberoštus	1	0	1	0
 
 reindriftsinteresse	båatsoeburrieïedtje	boazodoalloberoštupmi/boazodoalloberoštus	7	0	2	0
 
-pressestøtte	dïedtedåarjoe	preassadoarjja	18	0	23	0
++pressestøtte	pressedåarjoe	preassadoarjja	18	0	23	0
 
-pressemøte	dïedtetjåanghkoe	preassačoahkkin	2	0	1	0
++pressemøte	pressetjåanghkoe	preassačoahkkin	2	0	1	0
 
 kretsmøte	dajvetjåanghkoe	biirrečoahkkin	1	0	1	0
 
-informasjonstreff	bïevnesegaavnedimmie	diehtojuohkindeaivvadeapmi	2	0	1	0
++informasjonstreff	bïevnesegaavnedimmie	diehtojuohkindeaivvadeapmi	2	0	1	0
 
 reindriftsplanutvalg	båatsoeburriesoejkesjemoenehtse	boazodoalloplánalávdegoddi	2	0	1	0
 
-fylkesutvalg	fylhkemoenehtse	fylkkalávdegoddi	5	0	7	1
++fylkesutvalg	fylhkemoenehtse	fylkkalávdegoddi	5	0	7	1
 
 landskapssammenheng	eatnementsiehkie	eanadatoktavuohta	0	0	1	0
 
-pressemelding	dïedtesaerniestimmie	preassadieđáhus	88	0	75	0
++pressemelding	pressebïevnese	preassadieđáhus	88	0	75	0
 
 reindriftsmelding	båatsoesaerniestimmie	boazodoallodieđáhus	5	0	7	0
 
 tilskuddsbehandling	dåarjoegïetedalleme	doarjjameannudeapmi	2	0	1	0
 
-presseavdeling	dïedtegoevtese	preassaossodat	1	0	1	0
++presseavdeling	pressegoevtese	preassaossodat	1	0	1	0
 
 nettverksamling	viermietjåanghkoe	fierpmádatčoahkkaneapmi	2	6	1	3
 
-mottaksordning	barkoesijjieåårdnege	vuostáiváldinortnet	1	0	1	0
++mottaksordning	dåastoehöörnge vuostáiváldinortnet	1	0	1	0
 
-sameforening	saemiesiebrie	sámesearvi	17	2	37	1
++sameforening	saemiesiebrie	sámesearvi	17	2	37	1
 
-forfatterforening	tjaelijesiebrie	girječálliidsearvi	7	1	2	3
++forfatterforening	tjaelijesiebrie	girječálliidsearvi	7	1	2	3
 
 miljøpåvirkning	byjresedïedte	birasnuoskkideapmi	2	0	2	0
 
 grunnforskning	maadthdotkeme	vuođđodutkan	5	0	2	1
 
-reindriftsforskning	båatsoeburriedotkeme	boazodoallodutkan	3	0	1	0
++reindriftsforskning	båatsoeburriedotkeme	boazodoallodutkan	3	0	1	0
 
 grunnutdanning	maadthskuvleööhpehtimmie	vuođđooahppu	15	2	11	0
 
-reindriftsutdanning	båatsoeburrieööhpehtimmie	boazodoallooahppu/boazodoallooahpahus	4	0	4	3
++reindriftsutdanning	båatsoeburrieööhpehtimmie	boazodoallooahppu/boazodoallooahpahus	4	0	4	3
 
-norskundervisning	daaroeööhpehtimmie	dárogieloahppu/dárogieloahpahus	4	0	2	0
++norskundervisning	daaroeööhpehtimmie	dárogieloahppu/dárogieloahpahus	4	0	2	0
 
 studieretning	lohkemeotnjege	oahpposuorgi/lohkansuorgi	31	0	8	1
 
@@ -102,64 +102,64 @@ gruppering	dåehkierïngke	joavkojuohkin	26	0	1	0
 urfolksgruppering	aalkoeåålmegedåehkiereagka	álgoálbmotovttastus	1	0	1	0
 
 solring	biejjierïngke	beaivvášgierdu	1	0	1	0
-
+fo
 maskinring	domhperïngke	mašiidnariekkis	1	0	1	0
 
-norskopplæring	daaroeööhpehtimmie	dárogieloahpahus	4	0	3	0
++norskopplæring	daaroeööhpehtimmie	dárogieloahpahus	4	0	3	0
 
 reindriftsopplæring	båatsoeööhpehtimmie	boazodoallooahppu/boazodoallooahpahus	12	0	4	0
 
-arealverdi	arealevierhtie	areálaárvu	1	0	0	0
++arealverdi	arealevierhtie	areálaárvu	1	0	0	0
 
-naturverdi	eatnemenvierhtie	luondduárvu	2	0	2	0
++naturverdi	eatnemenvierhtie	luondduárvu	2	0	2	0
 
-energistrategi	energijestrategije	energiijastrategiija	2	2	1	1
++energistrategi	energijestrategije	energiijastrategiija	2	2	1	1
 
-sosialantropologi	sosijaaleantropologije	sosiálaantropologiija	6	0	1	1
++sosialantropologi	sosijaaleantropologije	sosiálaantropologiija	6	0	1	1
 
-reindriftsøkonomi	båatsoeburrieekonomije	boazodoalloekonomiija	2	0	1	0
++reindriftsøkonomi	båatsoeburrieekonomije	boazodoalloekonomiija	2	0	1	0
 
-fiskeindustri	göölemeindustrije	guolleindustriija	9	0	5	7
++fiskeindustri	göölemeindustrije	guolleindustriija	9	0	5	7
 
-eiendomssak	eakanaamhtese	opmodatášši	1	0	1	0
++eiendomssak	eakanaamhtese	opmodatášši	1	0	1	0
 
-forskningstiltak	dotkemeråajvarimmie	dutkandoaibmabidju	2	0	1	0
++forskningstiltak	dotkemeråajvarimmie	dutkandoaibmabidju	2	0	1	0
 
-miljøtiltak	byjreseråajvarimmie	birasdoaibma/birasdoaibmabidju	12	0	1	0
++miljøtiltak	byjreseråajvarimmie	birasdoaibma/birasdoaibmabidju	12	0	1	0
 
-pressepolitikk	dïedtepolitihke	preassapolitihkka	3	0	3	0
++pressepolitikk	pressepolitihke	preassapolitihkka	3	0	3	0
 
-reindriftstatistikk	båatsoeburriestatistihke	boazodoallostatistihkka	1	0	1	0
++reindriftstatistikk	båatsoeburriestatistihke	boazodoallostatistihkka	1	0	1	0
 
 naturbruk	eatnemepråvhkoe	luonddudoallu/luonddugeavaheapmi/meahcceávkkástallan/luonddudoallosuorgi/luondduávkkástallan	32	0	6	0
 
-språkutviklingsmiddel	gïeleevtiedimmievierhtie	giellaovddidanruhta	0	0	1	1
++språkutviklingsmiddel	gïeleevtiedimmievierhtie	giellaovddidanruhta	0	0	1	1
 
-tospråklighetsmiddel	guektiengïelevoetevierhtie	guovttegielatruhta/guovttegielalašruhta/guovttegielatvuođaruhta	47	36	1	12
++tospråklighetsmiddel	guektiengïelevoetevierhtie	guovttegielatruhta/guovttegielalašruhta/guovttegielatvuođaruhta	47	36	1	12
 
 tilskuddsandel	dåarjoevuerpie	doarjjaoassi	1	0	2	0
 
-reintallsregel	bovtselåhkoenjoelkedasse	boazolohkonjuolggadus	1	0	1	0
++reintallsregel	bovtselåhkoenjoelkedasse	boazolohkonjuolggadus	1	0	1	0
 
-miljøtrussel	byjresenaajhtoe	birasáitta	1	0	1	0
++miljøtrussel	byjreseaajhtoe	birasáitta	1	0	1	0
 
-menneskerettighetsspørsmål	almetjereaktagyhtjelasse	olmmošvuoigatvuođaášši/olmmošvuoigatvuođagažaldat	2	0	1	1
++menneskerettighetsspørsmål	almetjereaktagyhtjelasse	olmmošvuoigatvuođaášši/olmmošvuoigatvuođagažaldat	2	0	1	1
 
 reindriftsspørsmål	båatsoegyhtjelasse	boazodoallogažaldat	11	0	2	0
 
-ungdomsprogram	noereprogramme	nuoraidprográmma	2	0	5	1
++ungdomsprogram	noerijprogramme	nuoraidprográmma	2	0	5	1
 
-reindriftsungdom	båatsoeburriefijrie	boazodoallonuorra	3	0	3	0
++reindriftsungdom	båatsoeburrienoerh	boazodoallonuorra	3	0	3	0
 
 minoritetspublikum	unnebelåhkoealmetjh	unnitálbmotgeahčči	1	1	1	0
 
-tilskuddsorgan	dåarjoeorgaane	doarjjaorgána	1	0	1	0
++tilskuddsorgan	dåarjoeorgaane	doarjjaorgána	1	0	1	0
 
 reindriftsorgan	båatsoeburrieorgaane	boazodoalloorgána	2	0	1	0
 
 reindriftsbakgrunn	båatsoeburrieduekie	boazodoalloduogáš	1	0	2	0
 
-pressetelefon	dïedtetelefovne	preassatelefovdna	4	0	1	0
++pressetelefon	pressetelefovne	preassatelefovdna	4	0	1	0
 
 landbruksadministrasjon	laanteburriereereme	eanandoallohálddahus	1	1	1	0
 
@@ -181,33 +181,33 @@ vertskap	båantavoete	guossoheaddji/doallogoddi	11	0	3	0
 
 førstehjelp	voestesviehkie	heahteveahkki/vuosttaš heahteveahkki/álgoveahkki	7	1	5	3
 
-sosialhjelp	sosijaaleviehkie	sosiálaveahkki	20	1	5	1
++sosialhjelp	sosijaaleviehkie	sosiálaveahkki	20	1	5	1
 
-reindriftseminar	båatsoeburrieseminaare	boazodoalloseminára	1	0	1	0
++reindriftseminar	båatsoeburrieseminaare	boazodoalloseminára	1	0	1	0
 
-forskningsansvar	dotkemedïedte	dutkanovddasvástádus	1	0	1	0
++forskningsansvar	dotkemedïedte	dutkanovddasvástádus	1	0	1	0
 
 gårdbruker	gaerteneburrie	eanadoalli/dálolaš/eanadállodoalli	21	2	11	0
 
-tingrettsdommer	digkiereaktoevoete	diggeriekteduopmár	2	0	1	0
++tingrettsdommer	digkiereaktoedåapmere	diggeriekteduopmár	2	0	1	0
 
 kretsskolelærer	dajveskuvle	biireoahpaheaddji	1	0	1	0
 
-oljeressurser	åljavierhtie	oljoopmodat	0	0	1	1
++oljeressurser	åljavierhtie	oljoopmodat	0	0	1	1
 
-pressesenter	dïedtejarnge	preassaguovddáš	4	0	1	0
++pressesenter	pressejarnge	preassaguovddáš	4	0	1	0
 
 reindriftskontor	båatsoeburriekontovre	boazodoallokantuvra	5	0	3	0
 
 reindriftskultur	båatsoeburriekultuvre	boazodoallokultuvra	3	0	3	0
 
-kronekurs	daalenkuvsje	ruhtaárvu/ruvdnodássi	2	0	2	0
++kronekurs	beetnehkuvsje	ruhtaárvu/ruvdnodássi	2	0	2	0
 
-vindressurs	bïegkemaelmie	bieggaresursa	1	0	1	0
++vindressurs	bïegkevierhtie	bieggaresursa	1	0	1	0
 
 reinbeiteressurs	båatsoevierhtie	guohtonresursa	3	0	2	0
 
-mineralressurs	mineraalevierhtie	minerálaresursa/minerálariggodat	15	0	4	4
++mineralressurs	mineraalevierhtie	minerálaresursa/minerálariggodat	15	0	4	4
 
 tilskuddsressurs	dåarjoemaelmie	doarjjaresursa	1	0	1	0
 
@@ -219,7 +219,7 @@ reindriftsmyndighet	båatsoereakta	boazodoalloeiseváldi/boazodoallováldi	8	2	5
 
 reindriftsaktivitet	båatsoedarjome	boazodoallobargu	1	0	3	0
 
-sosialprosjekt	sosijaaleprosjeekte	sosiálaprošeakta	11	0	6	1
++sosialprosjekt	sosijaaleprosjeekte	sosiálaprošeakta	11	0	6	1
 
 landbruksprodukt	laanteburriedorjese	eanadoallobuvtta/eanageavahanbuvtta/eanandoallobuvtta	4	0	1	1
 
@@ -231,15 +231,15 @@ undervisningsdepartement	bïhkedimmiedepartemeente	oahpahusdepartemeanta	10	0	13
 
 matdepartement	beapmoendepartemeente	borramušdepartemeanta	82	0	2	0
 
-tilskuddsprosent	dåarjoeproseente	doarjjaproseanta	1	0	1	0
++tilskuddsprosent	dåarjoeproseente	doarjjaproseanta	1	0	1	0
 
 tilskuddspost	dåarjoepåaste	doarjjapoasta/doarjjaboasta	7	2	1	4
 
 brukergrensesnitt	burrieraaja	geavaheaddjivejolašvuohta	1	0	1	0
 
-forskningsinstitutt	dotkemeninstituhte	dutkaninstituhtta	6	0	4	0
++forskningsinstitutt	dotkemeninstituhte	dutkaninstituhtta	6	0	4	0
 
-reindriftselev	båatsoeburrielearohke	boazodoallooahppi	2	0	1	0
++reindriftselev	båatsoeburrielearohke	boazodoallooahppi	2	0	1	0
 
 reinbeiteområde	gåatomesuerkie	boazoguohtunguovlu/guohtunguovlu/boazodoalloguovlu/boazoguovlu	105	0	18	0
 
@@ -265,15 +265,15 @@ naturtype	eatnemesåarhte	luondduhápmi	3	0	1	0
 
 fylkeslandbruksstyre	fylhkelaanteburrie	fylkkaeanadoallostivra/fylkkaeanandoallostivra	4	0	3	0
 
-fiskeribestemmelse	guelienænnoestimmie	guolástusmearrádus	1	0	1	0
++fiskeribestemmelse	göölemenænnoestimmie	guolástusmearrádus	1	0	1	0
 
 fiskeriinteresse	guelieïedtje	guolástanberoštus/guolástusberoštus/guolástusberoštupmi	4	0	1	0
 
 vareutvalg	eekedåehkie	gálvovalljodat/gálvohivvodat	1	0	1	0
 
-etikkutvalg	etihkedåehkie	etihkkalávdegoddi	1	0	1	0
++etikkutvalg	etihkemoenehtse	etihkkalávdegoddi	1	0	1	0
 
-kontrollutvalg	gïehtjedimmiedåehkie	bearráigeahččanlávdegoddi	63	0	32	0
++kontrollutvalg	gïehtjedimmiedåehkie	bearráigeahččanlávdegoddi	63	0	32	0
 
 kontaktutvalg	gaskesedåehkie	oktavuođalávdegoddi/gulahallanlávdegoddi	5	0	2	0
 
@@ -293,13 +293,13 @@ kretsfordeling	gievliejoekedimmie	kreatsajuohku	1	0	1	0
 
 grunnsetning	fåantoeraajese	vuođđocealkka	1	0	1	0
 
-fagbrevopplæring	faageprievieööhpehtimmie	fágareiveoahppu/fágareiveoahpahus	3	0	1	0
++fagbrevopplæring	faageprievieööhpehtimmie	fágareiveoahppu/fágareiveoahpahus	3	0	1	0
 
-fiskeindustri	guelienindustrije	guolleindustriija	9	0	5	0
++fiskeindustri	guelienindustrije	guolleindustriija	9	0	5	0
 
-helsetiltak	healsoeråajvarimmie	dearvvasvuođadoaibmabidju	4	0	1	0
++helsetiltak	healsoeråajvarimmie	dearvvasvuođadoaibmabidju	4	0	1	0
 
-språkfolk	gïeleaalmoge	giellaolmmoš	1	0	2	0
++språkfolk	gïelealmetjh	giellaolmmoš	1	0	2	0
 
 talespråk	håalemegïele	hállangiella/hupmangiella	6	0	5	0
 
@@ -311,9 +311,9 @@ tørrfiskregel	gejhkiegueliennjoelkedasse	goikeguollenjuolggadus	1	0	1	0
 
 grunnregel	fåantoenjoelkedasse	vuođđonjuolggadus	11	0	5	0
 
-helsekapittel	healsoekapïhtele	dearvvašvuođakapihtal	1	0	0	0
++helsekapittel	healsoekapïhtele	dearvvašvuođakapihtal	1	0	0	0
 
-helseforskjell	healsoenjoekehtse	dearvvašvuođaerohus	2	0	1	0
++helseforskjell	healsoenjoekehtse	dearvvašvuođaerohus	2	0	1	0
 
 helsesituasjon	healsoentsiehkie	dearvvasvuođadilli	2	0	2	0
 
@@ -339,7 +339,7 @@ kretsskolelærer	gievlieskåvloe	biireoahpaheaddji	1	0	1	0
 
 kretsmester	gievlieööhpehtæjja	biiremeašttir	1	0	1	0
 
-eiendomspris	eekeåasa	opmodathaddi	1	0	0	0
++eiendomspris	eekeåasa	opmodathaddi	1	0	0	0
 
 beiteressurs	gåatomevierhtie	guođohanresursa/guohtunresursa	18	0	1	0
 
@@ -357,13 +357,13 @@ eiendomsvirksomhet	eekegïehtelimmie	opmodatdoaibma	1	0	1	0
 
 kommunikasjonsvirksomhet	gaskesadtemegïehtelimmie	gulahallandoaibma/kommunikašuvdnadoaibma	2	0	1	0
 
-språkdebatt	gïeledigkiedimmie	gielladigaštallan	1	0	1	0
++språkdebatt	gïeledigkiedimmie	gielladigaštallan	1	0	1	0
 
 grunnlov	fåantoelaake	vuođđoláhka	82	0	75	0
 
 grunntilskudd	maadthskuvledåarjoe	vuođđodoarjja	28	0	17	0
 
-avtaleperiode	latjkoenboelhke	šiehtadanáigodat/šiehtadusáigodat	3	0	1	0
++avtaleperiode	latjkoenboelhke	šiehtadanáigodat/šiehtadusáigodat	3	0	1	0
 
 samarbeidslinje	laavenjassesïeve	ovttasbargolinjá	0	0	1	0
 
