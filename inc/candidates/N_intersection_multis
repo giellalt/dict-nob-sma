@@ -170,10 +170,10 @@ internattilbud	internatfaaleldahke	internáhttafálaldat	1	0	1	0
 +skoleråd	skuvleraerie	skuvlaráđđi	3	0	2	0
 skoleråd	skuvlenraerie	skuvlaráđđi	3	0	2	0
 
-forvaltningsråd	reeremeraerie	hálddašanráva	1	0	1	0
++forvaltningsråd	reeremeraerie	hálddašanráva	1	0	1	0
 forvaltningsråd	reeremenraerie	hálddašanráva	1	0	1	0
 
-regjeringsråd	reerenasseraerie	ráđđehusráđđi	1	0	1	0
++regjeringsråd	reerenasseraerie	ráđđehusráđđi	1	0	1	0
 regjeringsråd	reerenassenraerie	ráđđehusráđđi	1	0	1	0
 regjeringsråd	reerenasseståvroe	ráđđehusráđđi	1	0	1	0
 
@@ -196,23 +196,23 @@ ressursside	vierhtiesæjroe	resursasiidu	1	0	1	0
 rettskilde	reaktoengaaltije	riektegáldu	8	0	8	0
 
 regjeringsperiode	reerenassegohkedæjja	ráđđehusáigodat	1	0	1	0
-regjeringsperiode	reerenasseboelhke	ráđđehusáigodat	1	0	1	0
++regjeringsperiode	reerenasseboelhke	ráđđehusáigodat	1	0	1	0
 regjeringsperiode	reerenassenboelhke	ráđđehusáigodat	1	0	1	0
 
 sametingsperiode	saemiedigkiegohkedæjja	sámediggeáigodat	4	0	4	0
-sametingsperiode	saemiedigkieboelhke	sámediggeáigodat	4	0	4	1
++sametingsperiode	saemiedigkieboelhke	sámediggeáigodat	4	0	4	1
 sametingsperiode	saemiedigkienboelhke	sámediggeáigodat	4	0	4	0
 
 stortingsperiode	stoerredigkiegohkedæjja	stuorradiggeáigodat	9	0	4	0
-stortingsperiode	stoerredigkieboelhke	stuorradiggeáigodat	9	0	4	0
++stortingsperiode	stoerredigkieboelhke	stuorradiggeáigodat	9	0	4	0
 stortingsperiode	stoerredigkienboelhke	stuorradiggeáigodat	9	0	4	0
 
 eksamensperiode	eksaamenegohkedæjja	eksámenáigodat	1	0	0	0
-eksamensperiode	eksaameneboelhke	eksámenáigodat	1	0	0	0
++eksamensperiode	eksaameneboelhke	eksámenáigodat	1	0	0	0
 eksamensperiode	eksaamenenboelhke	eksámenáigodat	1	0	0	0
 
 landområde	rïjhkedajve	eanaviidodat/eananguovlu	45	0	2	0
-landområde	laantendajve	eanaviidodat/eananguovlu	45	0	2	0
++landområde	laantendajve	eanaviidodat/eananguovlu	45	0	2	0
 
 +nordområde	noerhtedajve	davviguovlu	164	0	93	3
 nordområde	noerhtendajve	davviguovlu	164	0	93	0
@@ -239,7 +239,7 @@ litteraturområde	litteraturdajve	girjjálašvuođasuorgi	1	0	1	0
 kulturområde	kultuvrendajve	kultursuorgi	10	0	12	0
 kulturområde	kulturdajve	kultursuorgi	10	0	12	0
 
-samarbeidsområde	ektiebarkoedajve	ovttasbargoguovlu/ovttasbargosuorgi	4	0	1	0
++samarbeidsområde	ektiebarkoedajve	ovttasbargoguovlu/ovttasbargosuorgi	4	0	1	0
 samarbeidsområde	ektiebarkoendajve	ovttasbargoguovlu/ovttasbargosuorgi	4	0	1	0
 
 utmarksområde	miehtjiesdajvedajve	meahcceguovlu	7	0	81	0
@@ -255,7 +255,7 @@ virksomhetsområde	gïehtelimmielaante	doaibmasuorgi	6	0	10	0
 prosjektområde	prosjeektendajve	prošeaktasuorgi	1	0	1	0
 prosjektområde	prosjektdajve	prošeaktasuorgi	1	0	1	0
 
-havområde	mearoedajve	áhpeguovlu/mearraguovlu	17	0	8	1
++havområde	mearoedajve	áhpeguovlu/mearraguovlu	17	0	8	1
 havområde	mearoendajve	áhpeguovlu/mearraguovlu	17	0	8	0
 
 +fornorskingshistorie	daaroedehtemehistovrije	dáruiduhttinhistorjá	0	0	1	0
@@ -362,7 +362,7 @@ landsstyre	laanteståvroe	riikkastivra	6	0	21	0
 fellesstyre	bartaståvroe	oktasašstivra	1	0	1	0
 fellesstyre	ruevtieståvroe	oktasašstivra	1	0	1	0
 
-forvaltningsstyre	reeremeståvroe	hálddašanstivra	4	0	2	1
++forvaltningsstyre	reeremeståvroe	hálddašanstivra	4	0	2	1
 forvaltningsstyre	reerenasseståvroe	hálddašanstivra	4	0	2	0
 
 flertallsstyre	gellientaaleståvroe	eanetlohkostivra/eanetlohkostivren	1	0	1	0
@@ -400,7 +400,7 @@ samarbeidskonferanse	ektiebarkoenkonferaanse	ovttasbargokonferánsa	1	0	1	0
 +likestillingskonferanse	seammavierhtegekonferaanse	dásseárvokonferánsa	7	0	4	0
 likestillingskonferanse	mïrrestallemekonferaanse	dásseárvokonferánsa	7	0	4	0
 
-regjeringskonferanse	reerenassekonferaanse	ráđđehuskonferánsa	5	0	1	0
++regjeringskonferanse	reerenassekonferaanse	ráđđehuskonferánsa	5	0	1	0
 regjeringskonferanse	reerenassenkonferaanse	ráđđehuskonferánsa	5	0	1	0
 
 +årskonferanse	jaepiekonferaanse	jahkekonferánsa	1	0	1	0
@@ -422,14 +422,14 @@ utviklingskompetanse	evtiedimmienmaahtoe	ovddidanmáhttu	1	0	1	0
 undervisningskompetanse	bïhkedimmiemaahtoe	oahpahusgelbbolašvuohta/oahpahangelbbolašvuohta	3	0	2	0
 +undervisningskompetanse	ööhpehtimmiemaahtoe	oahpahusgelbbolašvuohta/oahpahangelbbolašvuohta	3	0	2	0
 
-tekstkompetanse	teekstemaahtoe	teakstagelbbolašvuohta	2	0	1	0
++tekstkompetanse	teekstemaahtoe	teakstagelbbolašvuohta	2	0	1	0
 tekstkompetanse	teekstenmaahtoe	teakstagelbbolašvuohta	2	0	1	0
 tekstkompetanse	tekstmaahtoe	teakstagelbbolašvuohta	2	0	1	0
 
-forvaltningsgrense	reeremeraaja	hálddašanrádjá	2	0	1	0
++forvaltningsgrense	reeremeraaja	hálddašanrádjá	2	0	1	0
 forvaltningsgrense	reeremenraaja	hálddašanrádjá	2	0	1	0
 
-rettighetsgrense	reaktaraaja	vuoigatvuođarádji	1	0	1	0
++rettighetsgrense	reaktaraaja	vuoigatvuođarádji	1	0	1	0
 rettighetsgrense	reaktanraaja	vuoigatvuođarádji	1	0	1	0
 
 fellesliste	bartalæstoe	oktasašlista	4	0	1	0
@@ -470,10 +470,10 @@ informasjonsmøte	saerniestimmietjåanghkoe	diehtojuohkinčoahkkin	13	0	11	0
 +informasjonsmøte	bïevnesetjåanghkoe	diehtojuohkinčoahkkin	13	0	11	0
 
 kjøkkensjef	tjöövkeåvtehke	gievkkanhoavda	1	0	1	0
-+kjøkkensjef	tjöökeåvtehke	gievkkanhoavda	1	0	1	0
+kjøkkensjef	tjöökeåvtehke	gievkkanhoavda	1	0	1	0
 
 informasjonssjef	saerniestimmieåvtehke	diehtojuohkinhoavda	4	0	9	0
-informasjonssjef	bïevneseåvtehke	diehtojuohkinhoavda	4	0	9	0
++informasjonssjef	bïevneseåejvie	diehtojuohkinhoavda	4	0	9	0
 
 +nyttårsdag	orrejaepienbiejjie	ođđajagebeaivi	1	0	1	0
 nyttårsdag	orrejaepiebiejvie	ođđajagebeaivi	1	0	1	0
@@ -617,13 +617,13 @@ samesak	saemienaamhtese	sámeášši	3	0	20	0
 +flaggsak	saevegeaamhtese	leavgaášši	1	0	1	0
 flaggsak	saevegenaamhtese	leavgaášši	1	0	1	0
 
-plansak	soejkesjeaamhtese	plánaášši	10	0	4	1
++plansak	soejkesjeaamhtese	plánaášši	10	0	4	1
 plansak	soejkesjenaamhtese	plánaášši	10	0	4	0
 
 +læreplansak	learoeplaaneaamhtese	oahppoplánaášši	1	0	1	0
 læreplansak	learoeplaanenaamhtese	oahppoplánaášši	1	0	1	0
 
-kulturvernsak	kultuvrevaarjelimmieaamhtese	kultursuodjalusášši	1	0	1	0
++kulturvernsak	kultuvrevaarjelimmieaamhtese	kultursuodjalusášši	1	0	1	0
 kulturvernsak	kultuvrevaarjelimmienaamhtese	kultursuodjalusášši	1	0	1	0
 
 +stedsnavnsak	sijjienommeaamhtese	báikenammaášši	1	0	1	0
@@ -645,7 +645,7 @@ utviklingssak	evtiedimmienaamhtese	ovddidanášši	1	0	1	0
 +likestillingssak	seammavierhtegeaamhtese	dásseárvoášši	1	0	2	0
 likestillingssak	mïrrestallemeaamhtese	dásseárvoášši	1	0	2	0
 
-forvaltningssak	reeremeaamhtese	hálddašanášši/hálddahusášši	6	0	2	2
++forvaltningssak	reeremeaamhtese	hálddašanášši/hálddahusášši	6	0	2	2
 forvaltningssak	reeremenaamhtese	hálddašanášši/hálddahusášši	6	0	2	0
 
 +organisasjonssak	organisasjovneaamhtese	organisašuvdnaášši	2	0	1	0
@@ -706,7 +706,7 @@ barnevernpolitikk	maanavaarjelimmiepolitihke	mánáidsuodjalanpolitihkka	1	0	1	0
 +fylkespolitikk	fylhkepolitihke	fylkkapolitihkka	1	0	1	0
 fylkespolitikk	fylhkenpolitihke	fylkkapolitihkka	1	0	1	0
 
-forvaltningspolitikk	reeremepolitihke	hálddašanpolitihkka/hálddahuspolitihkka	4	0	1	0
++forvaltningspolitikk	reeremepolitihke	hálddašanpolitihkka/hálddahuspolitihkka	4	0	1	0
 forvaltningspolitikk	reeremenpolitihke	hálddašanpolitihkka/hálddahuspolitihkka	4	0	1	0
 
 utmarkspolitikk	miehtjiesdajvepolitihke	meahcceávkkástallanpolitihkka	1	0	1	0
@@ -753,7 +753,7 @@ barnevernsystem	maanavaarjelimmiensysteeme	mánáidsuodjalusvuogádat	1	0	1	0
 +utviklingssystem	övtiedimmiesysteeme	ovddidansystema	1	0	1	0
 utviklingssystem	evtiedimmiensysteeme	ovddidansystema	1	0	1	0
 
-regjeringssystem	reerenassesysteeme	ráđđehusvuogádat	1	0	1	0
++regjeringssystem	reerenassesysteeme	ráđđehusvuogádat	1	0	1	0
 regjeringssystem	reerenassensysteeme	ráđđehusvuogádat	1	0	1	0
 
 sametingssystem	saemiedigkiesysteeme	sámediggevuogádat	14	0	5	0
@@ -775,8 +775,8 @@ fellesrom	ruevtietjïehtjele	oktasašlatnja	0	0	2	0
 regionsentrum	regijovnenjarnge	guovlluguovddáš	0	0	1	0
 regionsentrum	regionjarnge	guovlluguovddáš	0	0	1	0
 
-barnehageplan	maanagïertesoejkesje	mánáidgárdeplána	1	0	1	0
-+barnehageplan	maanajgïertesoejkesje	mánáidgárdeplána	1	0	1	0
++barnehageplan	maanagïertesoejkesje	mánáidgárdeplána	1	0	1	0
+barnehageplan	maanajgïertesoejkesje	mánáidgárdeplána	1	0	1	0
 barnehageplan	maanagïerteplaane	mánáidgárdeplána	1	0	1	0
 barnehageplan	maanajgïerteplaane	mánáidgárdeplána	1	0	1	0
 
@@ -919,7 +919,7 @@ konsulentselskap	konsuleentesïelte	konsuleantafitnodat	2	0	2	0
 skolekunnskap	skuvlemaahtoe	skuvladáidu	1	0	1	0
 skolekunnskap	skuvlenmaahtoe	skuvladáidu	1	0	1	0
 
-forvaltningskunnskap	reerememaahtoe	hálddašanmáhttu	1	0	1	0
++forvaltningskunnskap	reerememaahtoe	hálddašanmáhttu	1	0	1	0
 forvaltningskunnskap	reeremenmaahtoe	hálddašanmáhttu	1	0	1	0
 
 samfunnskunnskap	siebriedahkendaajroe	servodatmáhtolašvuohta/servodatoahppu/servodatmáhttu	6	0	3	0
@@ -1049,7 +1049,7 @@ politidirektorat	politijedirektovraate	politiijadirektoráhtta	0	0	2	0
 politidirektorat	politidirektovraate	politiijadirektoráhtta	0	0	2	0
 politidirektorat	politijendirektovraate	politiijadirektoráhtta	0	0	2	0
 
-rettsstat	reaktoestaate	riektestáhta/riektestáda	3	0	2	0
++rettsstat	riaktiestaate	riektestáhta/riektestáda	3	0	2	0
 rettsstat	reaktoenstaate	riektestáhta/riektestáda	3	0	2	0
 
 Morgenbladet	aeredeplaerie	Morgenbladet/Morgenbladet-aviisa	1	0	1	0
@@ -1058,7 +1058,7 @@ Morgenbladet	aeredenplaerie	Morgenbladet/Morgenbladet-aviisa	1	0	1	0
 +landrettighet	rïjhkereakta	eanavuoigatvuohta/eananvuoigatvuohta	22	0	12	0
 landrettighet	laantenreakta	eanavuoigatvuohta/eananvuoigatvuohta	22	0	12	0
 
-konkurranserettighet	gaahtjemereakta	gilvovuoigatvuohta	0	0	0	0
++konkurranserettighet	gaahtjemereakta	gilvovuoigatvuohta	0	0	0	0
 konkurranserettighet	gaahtjemenreakta	gilvovuoigatvuohta	0	0	0	0
 
 utmarksrettighet	miehtjiesdajvereakta	meahccevuoigatvuohta	1	0	1	0
@@ -1067,8 +1067,8 @@ utmarksrettighet	miehtjiesdajvenreakta	meahccevuoigatvuohta	1	0	1	0
 +lærekraft	learoefaamoe	oahpponákca	2	0	1	0
 lærekraft	learoenfaamoe	oahpponákca	2	0	1	0
 
-barnehagekonsulent	maanagïertekonsuleente	mánáidgárdekonsuleanta	2	0	2	0
-+barnehagekonsulent	maanajgïertekonsuleente	mánáidgárdekonsuleanta	2	0	2	0
++barnehagekonsulent	maanagïertekonsuleente	mánáidgárdekonsuleanta	2	0	2	0
+barnehagekonsulent	maanajgïertekonsuleente	mánáidgárdekonsuleanta	2	0	2	0
 
 +kulturkonsulent	kultuvrekonsuleente	kulturkonsuleanta	1	0	2	0
 kulturkonsulent	kultuvrenkonsuleente	kulturkonsuleanta	1	0	2	0
