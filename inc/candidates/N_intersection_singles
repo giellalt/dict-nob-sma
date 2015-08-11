@@ -1,11 +1,11 @@
 + på gode ==> nesten ferdig
-sakprosa	aamhtesenprovsa	áššeprosa	10	0	4	0
++sakprosa	aamhtesenprovsa	áššeprosa	10	0	4	0
 
-informasjonsblad	bïevneseplaerie	diehtojuohkinbláđđi	2	0	2	0
++informasjonsblad	bïevneseplaerie	diehtojuohkinbláđđi	2	0	2	0
 
 reindriftsblad	båatsoeplaerie	boazodoallobláđđi	1	0	1	0
 
-språksøknad	gïeleohtseme	giellaohcan	1	0	1	0
++språksøknad	gïeleohtseme	giellaohcan	1	0	1	0
 
 +språkprosjektsøknad	gïeleprosjeekteohtseme	giellaprošeaktaohcan	1	0	1	0
 
@@ -15,7 +15,7 @@ skogsamarbeid	skåajjeektiebarkoe	vuovdeovttasbargu	1	0	0	0
 
 +utdanningssamarbeid	ööhpehtimmieektiebarkoe	oahppoovttasbargu	2	0	1	0
 
-strategiplanarbeid	strategijesoejkesjebarkoe	strategiijaplánabargu	1	0	1	0
++strategiplanarbeid	strategijesoejkesjebarkoe	strategiijaplánabargu	1	0	1	0
 
 +fylkesplanarbeid	fylhkesoejkesjebarkoe	fylkkaplánabargu	1	0	1	0
 
@@ -25,7 +25,7 @@ strategiplanarbeid	strategijesoejkesjebarkoe	strategiijaplánabargu	1	0	1	0
 
 +språkutviklingsarbeid	gïeleevtiedimmiebarkoe	giellaovdánahttinbargu	5	0	1	2
 
-språklikestillingsarbeid	gïeleseammavierhtegebarkoe	gielladássásašvuođabargu	0	0	1	0
+språklikestillingsarbeid	seammavyörhtegegielebarkoe	gielladássásašvuođabargu	0	0	1	0
 
 endringsarbeid	jorkestimmienbarkoe	rievdadanbargu	0	0	1	0
 
@@ -57,9 +57,9 @@ skjellsord	skiblienbaakoe	cielossátni	2	0	1	0
 
 behandlingstilbud	gïetedallemefaaleldahke	dálkkodanfálaldat/dikšofálaldat/dikšunfálaldat	16	0	2	0
 
-lærerutdanningstilbud	lohkehtæjjaööhpehtimmiefaaleldahke	oahpaheaddjeoahppofálaldat	1	0	1	0
++lærerutdanningstilbud	lohkehtæjjaööhpehtimmiefaaleldahke	oahpaheaddjeoahppofálaldat	1	0	1	0
 
-språkopplæringstilbud	gïeleööhpehtimmiefaaleldahke	giellaoahpahanfálaldat/giellaoahpahusfálaldat	4	0	1	0
++språkopplæringstilbud	gïeleööhpehtimmiefaaleldahke	giellaoahpahanfálaldat/giellaoahpahusfálaldat	4	0	1	0
 
 grunnopplæringstilbud	maadthööhpehtimmiefaaleldahke	vuođđooahppofálaldat	1	0	1	2
 
@@ -67,7 +67,7 @@ grunnopplæringstilbud	maadthööhpehtimmiefaaleldahke	vuođđooahppofálaldat	1
 
 forbud	bïedteme	gielddus/gieldu	82	0	31	0
 
-språklyd	gïeletjoeje	giellajietna	2	0	1	0
++språklyd	gïeletjoeje	giellajietna	2	0	1	0
 
 kirkestatsråd	gærhkoestaateraerie	girkostáhtaráđđi	2	0	2	0
 
@@ -77,9 +77,9 @@ rettighetsbilde	reaktanguvvie	riektegovva	1	0	1	0
 
 kuldeperiode	tjåetskemeboelhke	buolašáigodat	1	0	1	0
 
-kommunevalgperiode	tjïelteveeljemeboelhke	gielddaválgaáigodat	1	0	1	0
++kommunevalgperiode	tjïelteveeljemeboelhke	gielddaválgaáigodat	1	0	1	0
 
-planperiode	soejkesjenboelhke	plánaáigodat	25	0	8	0
++planperiode	soejkesjenboelhke	plánaáigodat	25	0	8	0
 
 barmarksperiode	bïevleboelhke	bievlaáigodat	4	0	1	0
 
@@ -87,9 +87,9 @@ merkegjerde	mïerhkehaakene	mearkungárdi	2	0	1	0
 
 reindriftsgjerde	båatsoehaakene	boazodoalloáidi	1	0	1	0
 
-bibliotekområde	gærjagåetiedajve	girjerájusguovlu	1	0	0	0
++bibliotekområde	gærjagåetiedajve	girjerájusguovlu	1	0	0	0
 
-vannområde	tjaetsiendajve	čáhceguovlu	4	0	3	0
++vannområde	tjaetsiedajve	čáhceguovlu	4	0	3	0
 
 naturvernområde	eatnemevaarjelimmiedajve	luonddugáhttenguovlu	1	0	2	0
 
@@ -119,7 +119,7 @@ kraftavtale	lïemelatjkoe	fápmosoahpamuš	1	0	1	0
 
 språkrolle	gïeledåemiedimmie	giellarolla	1	0	1	0
 
-veiledningsrolle	bïhkedimmiedåemiedimmie	bagadallandoaibma	2	0	2	0
++veiledningsrolle	bïhkedimmiedåemiedimmie	bagadallandoaibma	2	0	2	0
 
 samfunnsrolle	siebriedahkedåemiedimmie	servodatrolla	1	0	2	0
 
@@ -683,7 +683,7 @@ mørketall	jemhkeldelåhkoe	sevdnjeslohku	1	0	1	0
 
 nøkkeltall	tjoevtenjelåhkoe	guovddášlohku/mearkalohku/váldolohku/čoavddalohku	10	0	1	0
 
-plantall	soejkesjelåhkoe	plánalohku	1	0	1	0
+plantall	soejkesjemelåhkoe	plánalohku	1	0	1	0
 
 +sametingsvalgmanntall	saemiedigkieveeljemelåhkoe	sámediggejienastuslohku	1	0	1	0
 
@@ -713,7 +713,7 @@ fordelingstall	joekedimmielåhkoe	juogadanlohku	1	0	1	0
 
 opplysningsspørsmål	bïevnesegyhtjelasse	čuvgehusgažaldat	1	0	1	0
 
-opplæringsspørsmål	ööhpehtimmiegyhtjelasse	oahpahusgažaldat	6	0	2	0
++opplæringsspørsmål	ööhpehtimmiegyhtjelasse	oahpahusgažaldat	6	0	2	0
 
 +planprogram	soejkesjenprogramme	plánaprográmma	13	0	4	0
 
@@ -721,11 +721,11 @@ opplæringsspørsmål	ööhpehtimmiegyhtjelasse	oahpahusgažaldat	6	0	2	0
 
 fosterhjem	jiemiehïejme	biebmoruoktu/fuollaruoktu/sadjásašruoktu	33	0	5	0
 
-ungdomshjem	fijriehïejme	nuoraidruoktu	1	0	2	0
++ungdomshjem	noerijhïejme	nuoraidruoktu	1	0	2	0
 
 +barndomshjem	maanabaeliengåetie	mánnávuođabáiki	3	0	2	0
 
-familiemedlem	fuelhkielïhtsege	bearašlahttu/bearašmiellahttu	6	0	3	0
++familiemedlem	fuelhkielïhtsege	bearašlahttu/bearašmiellahttu	6	0	3	0
 
 +kirkemedlem	gærhkoelïhtsege	girkolahttu/girkomiellahttu	1	0	1	0
 
@@ -749,7 +749,7 @@ merkesystem	mïerhkesysteeme	merkenvuohki	1	0	3	0
 
 +informasjonssystem	bïevnesesysteeme	diehtojuohkinsystema/diehtojuohkinvuogádat	14	0	3	0
 
-reindriftssystem	båatsoesysteeme	boazodoallovuogádat	1	0	1	0
++reindriftssystem	båatsoesysteeme	boazodoallovuogádat	1	0	1	0
 
 +arkivsystem	våarhkoesysteeme	arkiivavuogádat	4	0	3	0
 
@@ -773,7 +773,7 @@ fylkesvåpen	fylhkenvaeknie	fylkkagovastat	1	0	1	0
 
 værtegn	daelhkievæhta	dálkemearka	2	0	3	0
 
-lårbein	ruaksjamåaroe	čoarbbealnoras/noras	1	0	2	0
++lårbein	ruaksja	čoarbbealnoras/noras	1	0	2	0
 
 +skolemedisin	skuvledaalhkesh	skuvladálkkas	2	0	1	0
 
@@ -787,7 +787,7 @@ politimann	politijeålma	politiijabálvá	1	0	15	0
 
 språkmann	gïeleålma	giellaolmmoš	1	0	2	0
 
-styreformann	ståvroeåvtehke	stivrraovdaolmmoš	2	0	1	0
++styreformann	ståvroeåvtehke	stivrraovdaolmmoš	2	0	1	0
 
 merkesmann	mïerhkeålma	mearkaalmmái	1	0	1	0
 
@@ -821,19 +821,19 @@ kjøkkenregion	tjöökeregijovne	gievkkanossodat	1	0	1	0
 
 +lærerorganisasjon	lohkehtæjjaorganisasjovne	oahpaheaddjeorganisašuvdna	2	0	1	0
 
-likestillingsorganisasjon	seammavyörhtegeorganisasjovne	dásseárvoorganisašuvdna	8	0	3	0
++likestillingsorganisasjon	seammavyörhtegesorganisasjovne	dásseárvoorganisašuvdna	8	0	3	0
 
 +medlemsorganisasjon	lïhtsegeorganisasjovne	miellahttosearvi/lahttoorganisašuvdna	2	0	1	0
 
-arealsituasjon	arealetsiehkie	eanadilálašvuohta/areáladilli	6	0	2	0
++arealsituasjon	arealetsiehkie	eanadilálašvuohta/areáladilli	6	0	2	0
 
-læremiddelsituasjon	learoevierhtientsiehkie	oahpponeavvodilli	6	0	9	0
++læremiddelsituasjon	learoevierhtietsiehkie	oahpponeavvodilli	6	0	9	0
 
-lærersituasjon	lohkehtæjjatsiehkie	oahpaheaddjedilli	2	0	2	0
++lærersituasjon	lohkehtæjjatsiehkie	oahpaheaddjedilli	2	0	2	0
 
-arbeidssituasjon	barkoentsiehkie	bargodilli	15	0	38	0
++arbeidssituasjon	barkoetsiehkie	bargodilli	15	0	38	0
 
-omsorgssituasjon	såjhtoetsiehkie	fuolahusdilli	2	0	1	0
++omsorgssituasjon	såjhtoetsiehkie	fuolahusdilli	2	0	1	0
 
 +skolekommisjon	skuvlekommisjovne	skuvlakommišuvdna	4	0	2	0
 
@@ -855,11 +855,11 @@ merkenavn	mïerhkenomme	mearkanamma	1	0	1	0
 
 +møtedato	tjåanghkoedaatoe	čoahkkindáhton/čoahkkinbeaivi	45	0	5	0
 
-mineralselskap	mineraalesïelte	minerálafitnodat/minerálaásahus/minerálasearvi/minerálagávpelágádus	5	0	2	6
++mineralselskap	mineraalesïelte	minerálafitnodat/minerálaásahus/minerálasearvi/minerálagávpelágádus	5	0	2	6
 
-søkerselskap	ohtsijesïelte	ohcansearvi	1	0	1	0
++søkerselskap	ohtsijesïelte	ohcansearvi	1	0	1	0
 
-flyselskap	girtiesïelte	girdifitnodat	0	0	3	0
++flyselskap	girtiesïelte	girdifitnodat	0	0	3	0
 
 +hushjelp	gåetieviehkie	viessoveahkki	3	0	1	0
 
@@ -971,67 +971,67 @@ kraftsektor	lïemesuerkie	fápmosuorgi	1	0	1	0
 
 skogkultur	skåajjekultuvre	vuovdekultuvra	2	0	1	0
 
-tannhelsesekretær	baeniehealsoetjaelije	bátnedearvvašvuođačálli	1	1	1	0
++tannhelsesekretær	baeniehealsoetjaelije	bátnedearvvašvuođačálli	1	1	1	0
 
 +utdanningssekretær	ööhpehtimmietjaelije	oahpahusčálli	1	0	1	0
 
 vinterfôr	daelviedïeskere	dálvebiebmu/dálvefuođar	4	0	1	0
 
-kulturaktør	kultuvreaktööre	kulturoasálaš	3	0	1	3
++kulturaktør	kultuvreaktööre	kulturoasálaš	3	0	1	3
 
-samarbeidsaktør	ektiebarkoeaktööre	ovttasbargoaktevra/ovttasbargooasálaš	2	0	1	0
++samarbeidsaktør	ektiebarkoeaktööre	ovttasbargoaktevra/ovttasbargooasálaš	2	0	1	0
 
-utviklingsaktør	evtiedimmieaktööre	ovdánahttinoasálaš/ovddidanoasálaš/ovddideaddji	19	4	6	6
++utviklingsaktør	evtiedimmieaktööre	ovdánahttinoasálaš/ovddidanoasálaš/ovddideaddji	19	4	6	6
 
-samfunnsaktør	siebriedahkeaktööre	servodatoassálasti	3	1	1	0
++samfunnsaktør	siebriedahkeaktööre	servodatoassálasti	3	1	1	0
 
-politidirektør	politijedirektööre	politiijadirektevra	2	0	1	0
++politidirektør	politijedirektööre	politiijadirektevra	2	0	1	0
 
-kontrolldirektør	gïehtjedimmiedirektööre	bearráigeahččandirektevra	1	0	1	0
++kontrolldirektør	gïehtjedimmiedirektööre	bearráigeahččandirektevra	1	0	1	0
 
-programdirektør	programmedirektööre	prográmmadirektevra	1	0	2	0
++programdirektør	programmedirektööre	prográmmadirektevra	1	0	2	0
 
-fylkesdirektør	fylhkedirektööre	fylkkadirektevra	1	0	1	0
++fylkesdirektør	fylhkedirektööre	fylkkadirektevra	1	0	1	0
 
-utdanningsdirektør	ööhpehtimmiedirektööre	oahpahusdirektevra/oahppodirektevra	5	0	2	0
++utdanningsdirektør	ööhpehtimmiedirektööre	oahpahusdirektevra/oahppodirektevra	5	0	2	0
 
 nyhetsdirektør	saerniedirektööre	ođasdirektevra	1	0	0	0
 
-språkpris	gïeleåasa	giellabálkkašupmi	21	0	13	0
++språkpris	gïelebaalhkese	giellabálkkašupmi	21	0	13	0
 
-litteraturpris	litteratuvreåasa	girjjálašvuođabálkkašupmi	4	0	3	0
++litteraturpris	litteratuvrebaalhkese	girjjálašvuođabálkkašupmi	4	0	3	0
 
-kulturpris	kultuvreåasa	kulturbálkkašupmi	5	0	12	0
++kulturpris	kultuvrebaalhkese	kulturbálkkašupmi	5	0	12	0
 
-likestillingspris	seammavierhtegeåasa	dásseárvobálkkašupmi	13	0	7	0
+likestillingspris	seammavyörhtebaalhkese	dásseárvobálkkašupmi	13	0	7	0
 
-kurspris	kuvsjeåasa	kursagollu	1	0	1	0
++kurspris	kuvsjeåasa	kursagollu	1	0	1	0
 
 +kjøttpris	bearkoeåasa	biergohaddi	1	0	6	0
 
 smørboks	voejegærja	vuodjaskáhppu	1	0	1	0
 
-språktemakurs	gïeleaamhtesekuvsje	giellafáddákursa	1	0	1	0
++språktemakurs	gïeleaamhtesekuvsje	giellafáddákursa	1	0	1	0
 
 +bibliotekkurs	gærjagåetiekuvsje	girjerájuskursa	1	0	1	0
 
-snekkerkurs	snæhkerekuvsje	snihkkárgursa	1	0	1	0
++snekkerkurs	snæikerekuvsje	snihkkárgursa	1	0	1	0
 
 +kulturmøteplass	kultuvretjåanghkoesijjie	kulturdeaivvadansadji	1	0	1	0
 
-omsorgsplass	såjhtoesijjie	fuolahansadji	5	0	1	0
++omsorgsplass	såjhtoesijjie	fuolahansadji	5	0	1	0
 
 tiltaksplass	råajvarimmiesijjie	doaibmasajádat/doaibmasadji	2	0	2	0
 
 +gravplass	kroeptesijjie	hávdebáiki	7	0	1	0
 
-kongehus	gånkagåetie	gonagasšloahtta/gonagasgárdin	1	0	2	0
++kongehus	gånkangåetie	gonagasšloahtta/gonagasgárdin	1	0	2	0
 
 regionsykehus	regijovneskïemtjegåetie	guovllubuohcceviessu	4	0	2	0
 
 +skolehus	skuvlegåetie	skuvlaviessu/skuvladállu/skuvlavisti	7	0	6	0
 
-ungdomshus	fijriegåetie	nuoraidviessu	1	0	3	0
++ungdomshus	noerijgåetie	nuoraidviessu	1	0	3	0
 
 helsedirektorat	starnedirektoraate	dearvvašvuođadirektoráhtta	0	0	9	1
 
@@ -1045,15 +1045,15 @@ Nordvestlandet	noerhtenjillie	oarjeriddu	1	0	2	0
 
 +opplæringsrettighet	ööhpehtimmiereakta	oahppanriekti	1	0	1	0
 
-møtevirksomhet	tjåanghkoegïehtelimmie	čoahkkindoaibma	9	0	1	0
++møtevirksomhet	tjåanghkoegïehtelimmie	čoahkkindoaibma	9	0	1	0
 
-kulturvirksomhet	kultuvregïehtelimmie	kulturguovddášdoaibma	3	0	1	0
++kulturvirksomhet	kultuvregïehtelimmie	kulturguovddášdoaibma	3	0	1	0
 
 tilleggsvirksomhet	lissiegïehtelimmie	lassidoaibma	1	0	1	0
 
 veiledningsvirksomhet	bïhkedimmiegïehtelimmie	oaivadandoaibma/bagadandoaibma	2	0	1	0
 
-opplysningsvirksomhet	bïevnesegïehtelimmie	čuvgehusbargu	4	0	2	0
++opplysningsvirksomhet	bïevnesegïehtelimmie	čuvgehusbargu	4	0	2	0
 
 utmarksvirksomhet	miehtjiesdajvegïehtelimmie	meahccedoaibma/meahcceealáhusdoaibma	2	0	1	0
 
@@ -1061,7 +1061,7 @@ informasjonsvirksomhet	bïevnesegïehtelimmie	diehtojuohkindoaibma	8	0	7	0
 
 kursvirksomhet	kuvsjegïehtelimmie	kursadoaibma	5	0	1	0
 
-bokbussvirksomhet	gærjabussegïehtelimmie	girjebussedoaibma	1	0	1	0
++bokbussvirksomhet	gærjabussegïehtelimmie	girjebussedoaibma	1	0	1	0
 
 arealenhet	arealeektievoete	areálaovttadat	5	0	1	0
 
@@ -1075,29 +1075,29 @@ reinkalvslakt	miesienniestie	miessenjuovvan	0	0	2	0
 
 sideprosjekt	sæjroeprosjeekte	oalgeprošeakta	1	0	1	0
 
-fagutviklingsprosjekt	faageevtiedimmieprosjeekte	fágaovddidanprošeakta	1	0	1	0
++fagutviklingsprosjekt	faageevtiedimmieprosjeekte	fágaovddidanprošeakta	1	0	1	0
 
-språkutviklingsprosjekt	gïeleevtiedimmieprosjeekte	giellaovddidanprošeakta/giellaovdánahttinprošeakta	3	0	1	0
++språkutviklingsprosjekt	gïeleevtiedimmieprosjeekte	giellaovddidanprošeakta/giellaovdánahttinprošeakta	3	0	1	0
 
-likestillingsprosjekt	seammavierhtegeprosjeekte	dásseárvoprošeakta	1	0	1	0
++likestillingsprosjekt	seammavyörhtegeprosjeekte	dásseárvoprošeakta	1	0	1	0
 
-omsorgsprosjekt	såjhtoeprosjeekte	fuolahusprošeakta/áimmahuššanprošeakta	3	0	1	0
++omsorgsprosjekt	såjhtoeprosjeekte	fuolahusprošeakta/áimmahuššanprošeakta	3	0	1+	0
 
-informasjonsprosjekt	bïevneseprosjeekte	informašuvdnaprošeakta	4	0	0	0
++informasjonsprosjekt	bïevneseprosjeekte	informašuvdnaprošeakta	4	0	0	0
 
 lærerdistrikt	lohkehtæjjaeatneme	oahpaheaddjebiire	1	0	0	0
 
 språkblandingsdistrikt	gïeleplaantege	giellaseaguhusguovlu	2	0	2	0
 
-møtetidspunkt	tjåanghkoeaejkiemierie	čoahkkináigi	1	0	2	0
++møtetidspunkt	tjåanghkoeaejkie	čoahkkináigi	1	0	2	0
 
-likestillingskonsulent	seammavierhtegekonsuleente	dásseárvvuoaivadeaddji/ovttadássásašvuođaoaivadeaddji	0	0	1	0
++likestillingskonsulent	seammavyörhtegekonsuleente	dásseárvvuoaivadeaddji/ovttadássásašvuođaoaivadeaddji	0	0	1	0
 
-politidepartement	politijedepartemeente	politiijadepartemeanta	20	0	4	4
++politidepartement	politijedepartemeente	politiijadepartemeanta	20	0	4	4
 
 kulturdepartement	kultuvrendepartemeente	kulturdepartemeanta	65	0	30	0
 
-likestillingsdepartement	seammavierhtegedepartemeente	dásseárvodepartemeanta	11	0	11	0
++likestillingsdepartement	seammavyörhtegedepartemeente	dásseárvodepartemeanta	11	0	11	0
 
 ungdomskort	fijriekåarhte	nuoraidkoarta	2	0	1	0
 
@@ -1111,7 +1111,7 @@ språkrapport	gïelereektehts	giellaraporta	1	0	1	0
 
 grunnbudsjett	eabnoenbudsjehte	vuođđobušeahtta	1	0	1	0
 
-stemmerett	gïelereakta	jienastanvuoigatvuohta/jienastanriekti	47	0	13	0
++stemmerett	gïelereakta	jienastanvuoigatvuohta/jienastanriekti	47	0	13	0
 
 +beiterett	gåatomereakta	guohtonriekti/guođohanvuoigatvuohta/guohtunvuoigatvuohta/guohtunriekti	30	0	3	0
 
@@ -1133,19 +1133,19 @@ snekkerelev	snæhkerelearohke	snihkkároahppi	1	0	1	0
 
 +statsarkiv	staatevåarhkoe	stáhtaarkiiva	8	0	4	0
 
-språkalternativ	gïelealternatijve	giellamolssaeaktu	3	0	1	0
++språkalternativ	gïelealternatijve	giellamolssaeaktu	3	0	1	0
 
-utviklingsalternativ	evtiedimmienalternatijve	ovdánahttinvejolašvuohta	1	0	4	0
++utviklingsalternativ	evtiedimmienalternatijve	ovdánahttinvejolašvuohta	1	0	4	0
 
 +arealperspektiv	arealeperspektijve	areálaoaidnu	0	0	1	0
 
-likeverdsperspektiv	seammavyörtegsvoeteperspektijve	ovttadássásašvuođaperspektiiva	2	0	1	0
++likeverdsperspektiv	seammavyörtegsvoeteperspektijve	ovttadássásašvuođaperspektiiva	2	0	1	0
 
-helhetsperspektiv	elliesvoetenperspektijve	oppalašperspektiiva/ollislašperspektiiva	3	0	1	0
++helhetsperspektiv	elliesvoeteperspektijve	oppalašperspektiiva/ollislašperspektiiva	3	0	1	0
 
 sideelv	sæjroejohke	oalgejohka/doaresjohka	2	0	4	0
 
-opplæringsbehov	ööhpehtimmiedaarpoe	oahpahusdárbu/oahppandárbu/oahppodárbu	6	0	2	2
++opplæringsbehov	ööhpehtimmiedaarpoe	oahpahusdárbu/oahppandárbu/oahppodárbu	6	0	2	2
 
 jordskiftelov	laantejuakoenlaake	eanajuohkinláhka/eanajuohkoláhka/eanamolsunláhka	6	0	1	0
 
@@ -1153,7 +1153,7 @@ jordskiftelov	laantejuakoenlaake	eanajuohkinláhka/eanajuohkoláhka/eanamolsunl�
 
 +naturvernlov	eatnemevaarjelimmielaake	luonddusuodjalanláhka/birasgáhttenláhka/luonddusuodjalusláhka	12	0	3	0
 
-miljøvernlov	byjresevaarjelimmielaake	birasgáhttenláhka	0	0	1	0
++miljøvernlov	byjresevaarjelimmielaake	birasgáhttenláhka	0	0	1	0
 
 +likestillingslov	seammavyörhtegelaake	ovttadássásašvuođaláhka/dásseárvoláhka	5	0	3	0
 
@@ -1167,13 +1167,13 @@ tekstbehandlingsverktøy	teekstegïetedallemedïrrege	teakstagieđahallanreaidu	
 
 sølvtøy	sïlpetyjje	silbadávvir	1	0	0	0
 
-kommunenivå	tjïeltedaltese	gielddadássi	7	0	2	0
++kommunenivå	tjïeltedaltese	gielddadássi	7	0	2	0
 
 behandlingsnivå	gïetedallemedaltese	dikšundássi	1	0	1	0
 
-beslutningsnivå	nænnoestimmiedaltese	mearrádusdássi	2	0	1	0
++beslutningsnivå	nænnoestimmiedaltese	mearrádusdássi	2	0	1	0
 
-kunnskapsnivå	maahtoendaltese	máhttodássi/diehtodássi/máhtolašvuođadássi	2	0	1	0
++kunnskapsnivå	maahtoedaltese	máhttodássi/diehtodássi/máhtolašvuođadássi	2	0	1	0
 
 postnivå	påastedaltese	poastadássi	4	0	1	0
 
