@@ -1,10 +1,10 @@
-
++ på gode  nesten ferdig
 tilleggspunkt	lissiemierie	lassičuokkis/lasáhusčuokkis	3	0	1	0
 tilleggspunkt	lissienmierie	lassičuokkis/lasáhusčuokkis	3	0	1	0
 
-+mørketid	sjuvnedsbaelie	skábma/sevdnjesáigi	7	0	86	0
++mørketid	sjuvnedstijje	skábma/sevdnjesáigi	7	0	86	0
 
-+samlingspunkt	tjåanghkoesjijjie	čoagganansadji/čoaggananbáiki	5	0	1	0
++samlingspunkt	tjåanghkoesijjie	čoagganansadji/čoaggananbáiki	5	0	1	0
 
 reindriftssamarbeid	båatsoeektiebarkoe	boazodoalloovttasbargu	2	0	2	0
 
@@ -16,7 +16,7 @@ reindriftsunge	båatsoemaana	badjemánná	1	0	8	0
 
 +reindriftsgruppe	båatsoeburriedåehkie	boazodoallojoavku	4	0	2	0
 
-værovervåkning	daelhkiegïehtjedimmie	dálkegeahčču	1	0	1	0
++værovervåkning	daelhkiegïehtjedimmie	dálkegeahčču	1	0	1	0
 
 reindriftssak	båatsoeaamhtese	boazodoalloášši	5	0	8	4
 
@@ -32,7 +32,7 @@ instruksjonsrett	bihkedassereaktoe	bagadanriekti	1	0	1	0
 
 reindriftsmiljø	båatsoebyjrese	boazodoallobiras	2	0	1	0
 
-behandlingssted	gïetedallemesijjie	dálkkodanbáiki/dikšunbáiki	2	0	1	0
++behandlingssted	gïetedallemesijjie	dálkkodanbáiki/dikšunbáiki	2	0	1	0
 
 korttidsbehandling	kåarhtetïjje	oanehisáiggedikšu	1	0	1	0
 
@@ -40,7 +40,7 @@ korttidskort	kåarhtetïjje	oanehisáiggekoarta	1	0	1	0
 
 +talerett	håalemereaktoe	hupmanvuoigatvuohta/sárdnunvuoigatvuohta	5	0	1	0
 
-helsesamarbeid	starneektiebarkoe	dearvvašvuođabargu	2	0	2	0
++helsesamarbeid	healsoeektiebarkoe	dearvvašvuođabargu	2	0	2	0
 
 sluttord	nåhkemebaakoe	loahppasátni	1	0	3	0
 
@@ -48,61 +48,61 @@ helseområde	starnedajve	dearvvasvuođasuorgi	1	0	2	0
 
 sluttavtale	nåhkemelatjkoe	loahppašiehtadus	1	0	1	0
 
-helsekonferanse	starnekonferaanse	dearvvašvuođakonferánsa	1	0	1	0
++helsekonferanse	healsoekonferaanse	dearvvašvuođakonferánsa	1	0	1	0
 
 sluttkompetanse	nåhkememaahtoe	loahppagelbbolašvuohta	2	0	1	0
 
-rettsgrunnlag	reaktoevåarome	riektevuođđu	41	0	15	0
+rettsgrunnlag	riektievåarome	riektevuođđu	41	0	15	0
 
 skoleundervisning	skuvlebïhkedimmie	skuvlaoahpahus	2	0	4	0
 
-rettsavklaring	reaktoetjilkeme	riektečielggadeapmi	2	0	1	0
++rettsavklaring	reaktatjielkeme	riektečielggadeapmi	2	0	1	0
 
-rettsorden	reaktoeöörnege	riekteortnet	6	0	2	0
++rettsorden	reaktoeöörnege	riekteortnet	6	0	2	0
 
 tiltakspunkt	råajvarimmiemierie	doaibmabidjočuokkis	1	0	0	0
 
-slektsrett	slïektereaktoe	sohkariekti	1	0	1	0
++slektsrett	slïektereakta	sohkariekti	1	0	1	0
 
-undervisningstema	ööhpehtimmieaate	oahppofáddá	1	0	2	0
++undervisningstema	ööhpehtimmieaamhtse	oahppofáddá	1	0	2	0
 
-utdanningsstønad	ööhpehtimmiedåarjoe	oahppodoarjja	5	0	4	0
++utdanningsstønad	ööhpehtimmiedåarjoe	oahppodoarjja	5	0	4	0
 
-helsesamarbeid	starnenektiebarkoe	dearvvašvuođabargu	2	0	2	0
++helsesamarbeid	healsoeektiebarkoe	dearvvašvuođabargu	2	0	2	0
 
 publikumsarbeid	vuartasjæjjabarkoe	gehččiiddikšu	1	0	1	0
 
-helseområde	starnendajve	dearvvasvuođasuorgi	1	0	2	0
++helseområde	healsoedajve	dearvvasvuođasuorgi	1	0	2	0
 
 interesseområde	ïedtjedajve	beroštupmesuorgi	1	0	1	0
 
-hovedarbeidsområde	åejviebarkoedajve	váldobargosuorgi/váldobargamuš	3	0	1	0
++hovedarbeidsområde	åejviebarkoedajve	váldobargosuorgi/váldobargamuš	3	0	1	0
 
-lederrolle	åejviedåemiedimmie	jođiheaddjirolla/jođihansajádat	3	0	1	0
++lederrolle	åejviedåemiedimmie	jođiheaddjirolla/jođihansajádat	3	0	1	0
 
 interessegruppe	ïedtjedåehkie	berošteaddjijoavku/beroštupmejoavku	4	0	1	0
 
 undergruppe	åavtoedåehkie	vuollejoavku	3	0	2	0
 
-valgbestemmelse	veeljemenænnoestimmie	válgamearrádus	2	0	1	0
++valgbestemmelse	veeljemenænnoestimmie	válgamearrádus	2	0	1	0
 
 bruksstørrelse	åtnoeståaroe	doallosturrodat	5	0	2	0
 
-helsekonferanse	starnenkonferaanse	dearvvašvuođakonferánsa	1	0	1	0
++helsekonferanse	healsoekonferaanse	dearvvašvuođakonferánsa	1	0	1	0
 
-ressursinteresse	vierhtieïedtje	resursaberoštupmi	1	0	1	0
++ressursinteresse	vierhtieïedtje	resursaberoštupmi	1	0	1	0
 
-manntallsliste	veeljemelåhkoelæstoe	jienastuslohkolista/jienastuslista	1	0	0	0
++manntallsliste	veeljemelåhkoelæstoe	jienastuslohkolista/jienastuslista	1	0	0	0
 
-undervisningsfag	ööhpehtimmiefaage	oahpahusfága	10	0	3	0
++undervisningsfag	ööhpehtimmiefaage	oahpahusfága	10	0	3	0
 
 undervisningsbygg	ööhpehtimmiebigkie	oahpahusvisti	1	0	1	0
 
-prisutvikling	åasaövtiedimmie	haddeovdáneapmi	2	0	1	0
++prisutvikling	åasaövtiedimmie	haddeovdáneapmi	2	0	1	0
 
 utdanningsveiledning	ööhpehtimmiebïhkedimmie	oahpahusbagadallan/oahpahusrávven	1	0	1	0
 
-ressursforvaltningsordning	vierhtiereeremeöörnege	resursahálddašanortnet	1	0	1	0
++ressursforvaltningsordning	vierhtiereeremeöörnege	resursahálddašanortnet	1	0	1	0
 
 vurderingsordning	vierhtiedimmieåårdnege	árvvoštallanortnet	1	0	1	0
 
@@ -112,47 +112,47 @@ motsetning	ïedtjeraajese	vuostálasvuohta	36	0	17	0
 
 underskriving	åavtoetjaeleme	vuolláičállin	4	0	8	0
 
-opplæringsfilosofi	ööhpehtimmiefilosofije	oahpahanfilosofiija	1	0	1	0
++opplæringsfilosofi	ööhpehtimmiefilosofije	oahpahanfilosofiija	1	0	1	0
 
-utviklingsstrategi	övtiedimmiestrategije	ovdánanstrategiija/ovdánahttinstrategiija/ovddidanstrategiija	2	0	1	0
++utviklingsstrategi	övtiedimmiestrategije	ovdánanstrategiija/ovdánahttinstrategiija/ovddidanstrategiija	2	0	1	0
 
 utviklingstiltak	övtiedimmieråajvarimmie	ovdánahttindoaibma/ovdánahttindoaibmabidju/ovddidandoaibmabidju/ovddidandoaibma	32	0	4	0
 
-+ressursbank	vierhtienbaanghke	resursabáŋku	1	0	1	0
++ressursbank	vierhtiebaanghke	resursabáŋku	1	0	1	0
 
 +arkivnøkkel	våarhkoetjoevtenje	arkiivačoavdda	1	0	2	0
 
 utdanningshjemmel	ööhpehtimmielaaketsiehkie	oahpporuhta	1	0	1	0
 
-ressurskontroll	vierhtiegïehtjedimmie	resursadárkkisteapmi	3	0	0	0
++ressurskontroll	vierhtiegïehtjedimmie	resursadárkkisteapmi	3	0	0	0
 
 valgnattsystem	veeljemejïjjesysteeme	válgaidjavuogádat	1	0	1	0
 
 +oljerikdom	åljaræjhkoesvoete	oljoriggodat	1	0	1	0
 
-+jaktmann	vijriesålma	bivdoolmmái	1	0	2	0
++jaktmann	vijrieålma	bivdoolmmái	1	0	2	0
 
 +utdanningsregion	ööhpehtimmieregijovne	oahppoguovlu	1	0	1	0
 
 +utdanningsadministrasjon	ööhpehtimmiereereme	oahpahushálddahus/oahppohálddahus	4	0	2	0
 
-utviklingsorganisasjon	övtiedimmieorganisasjovne	ovdánahttinorganisašuvdna	1	0	1	0
++utviklingsorganisasjon	övtiedimmieorganisasjovne	ovdánahttinorganisašuvdna	1	0	1	0
 
-opplæringsorganisasjon	ööhpehtimmieorganisasjovne	oahppoorganisašuvdna/oahpahusorganisašuvdna	1	0	1	0
++opplæringsorganisasjon	ööhpehtimmieorganisasjovne	oahppoorganisašuvdna/oahpahusorganisašuvdna	1	0	1	0
 
-undervisningssituasjon	ööhpehtimmietsiehkie	oahppodilálašvuohta/oahppodilli	2	0	3	0
++undervisningssituasjon	ööhpehtimmietsiehkie	oahppodilálašvuohta/oahppodilli	2	0	3	0
 
-opplæringssituasjon	ööhpehtimmietsiehkie	oahppodilli/oahpahusdilli/oahpahusdilálašvuohta	5	0	3	0
++opplæringssituasjon	ööhpehtimmietsiehkie	oahppodilli/oahpahusdilli/oahpahusdilálašvuohta	5	0	3	0
 
-undervisningsinstitusjon	ööhpehtimmieinstitusjovne	skuvlenásahus	2	0	1	0
++undervisningsinstitusjon	ööhpehtimmieinstitusjovne	skuvlenásahus	2	0	1	0
 
-oljeselskap	åljasïelte	oljofitnodat	3	0	5	0
++oljeselskap	åljasïelte	oljofitnodat	3	0	5	0
 
 valgkamp	veeljemegæmhpome	válgagižžu	3	0	24	0
 
-utdanningsseminar	ööhpehtimmieseminaare	oahpposeminára	1	0	1	0
++utdanningsseminar	ööhpehtimmieseminaare	oahpposeminára	1	0	1	0
 
-jaktleder	væjroeåejvie	bivdojođiheaddji	1	0	2	0
++jaktleder	vijremeåejvie	bivdojođiheaddji	1	0	2	0
 
 undersøker	åavtoeohtsije	iskkadeaddji	3	0	2	0
 
@@ -162,9 +162,9 @@ ovnsrør	vuebniegïrse	ommanbohcci/ommanrevre	1	0	1	0
 
 +oljedirektorat	åljadirektoraate	oljodirektoráhtta	0	0	1	0
 
-utviklingsmulighet	övtiedimmiehille	ovdánahttinvejolašvuohta/ahtanuššanvejolašvuohta/gárgedanvejolašvuohta/ovddidanvejolašvuohta/ovdánanvejolašvuohta	31	0	5	0
++utviklingsmulighet	övtiedimmienuepie	ovdánahttinvejolašvuohta/ahtanuššanvejolašvuohta/gárgedanvejolašvuohta/ovddidanvejolašvuohta/ovdánanvejolašvuohta	31	0	5	0
 
-utdanningsmulighet	ööhpehtimmiehille	oahppovejolašvuohta/oahppanvejolašvuohta	3	0	2	0
++utdanningsmulighet	ööhpehtimmienupie	oahppovejolašvuohta/oahppanvejolašvuohta	3	0	2	0
 
 +lærerkraft	ööhpehtæjjafaamoe	oahpahusnákca/oahpahannákca	4	0	1	0
 
@@ -176,8 +176,8 @@ underpunkt	åavtoemierie	vuollečuokkis	2	0	1	0
 
 +undervisningstidspunkt	ööhpehtimmieaejkiemierie	oahpahusáigemearri	0	0	1	0
 
-grunnlagsdokument	våarometjaaleldahke	duogášdokumeanta/vuođđodokumeanta	8	0	2	0
++grunnlagsdokument	våarometjaatsege	duogášdokumeanta/vuođđodokumeanta	8	0	2	0
 
-+jaktkort	væjroekåarhte	bivdinkoarta	7	0	1	0
++jaktkort	vijremekåarhte	bivdinkoarta	7	0	1	0
 
 +hovedfagsnivå	åejviefaagedaltese	váldofágadássi	8	0	2	0
