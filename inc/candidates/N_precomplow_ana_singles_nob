@@ -13,11 +13,11 @@ undervisningstema	bïhkedimmieaamhtese	oahppofáddá	1	0	2	0
 
 +miljøtilskudd	byjresedåarjoe	birasdoarjja	1	0	1	0
 
-+fornorskningssynd	daaroedehtemesådtoe	dáruiduhttinsuddu	1	0	1	0
+?fornorskningssynd	daaroedehtemesådtoe	dáruiduhttinsuddu	1	0	1	0
 
-pressetilbud	dïedtefaaleldahke	preassafálaldat	2	0	1	0
++pressetilbud	pressefaaleldahke	preassafálaldat	2	0	1	0
 
-pressehistorie	dïedtehistovrije	preassahistorjá	1	0	1	0
++pressehistorie	pressehistovrije	preassahistorjá	1	0	1	0
 
 naturhistorie	eatnemenvaajese	luondduhistorjá	2	0	1	0
 
@@ -105,7 +105,7 @@ solring	biejjierïngke	beaivvášgierdu	1	0	1	0
 fo
 maskinring	domhperïngke	mašiidnariekkis	1	0	1	0
 
-+norskopplæring	daaroeööhpehtimmie	dárogieloahpahus	4	0	3	0
++norskopplæring	daaroenööhpehtimmie	dárogieloahpahus	4	0	3	0
 
 reindriftsopplæring	båatsoeööhpehtimmie	boazodoallooahppu/boazodoallooahpahus	12	0	4	0
 
@@ -119,9 +119,9 @@ reindriftsopplæring	båatsoeööhpehtimmie	boazodoallooahppu/boazodoallooahpahu
 
 +reindriftsøkonomi	båatsoeburrieekonomije	boazodoalloekonomiija	2	0	1	0
 
-+fiskeindustri	göölemeindustrije	guolleindustriija	9	0	5	7
++fiskeindustri	guelieindustrije	guolleindustriija	9	0	5	7
 
-+eiendomssak	eakanaamhtese	opmodatášši	1	0	1	0
+eiendomssak	eakanaamhtese	opmodatášši	1	0	1	0
 
 +forskningstiltak	dotkemeråajvarimmie	dutkandoaibmabidju	2	0	1	0
 
