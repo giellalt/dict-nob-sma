@@ -411,9 +411,9 @@ underskriving	lijhkietjaalege	vuolláičállin	4	0	8	0
 
 grovmotorikk	kruepiesmotorihke	roavvamotorihkka	1	0	1	0
 
-nærbutikk	lïhkesbovre	lagašgávpi	1	0	1	0
++nærbutikk	lïhkebovre	lagašgávpi	1	0	1	0
 
-nabofolk	kraannanaalmoge	ránnjáálbmot	2	0	1	0
++nabofolk	kraannanaalmetjh	ránnjáálbmot	2	0	1	0
 
 høyskolenettverk	jïlleskuvleviermie	allaskuvlafierpmádat	0	0	0	0
 
@@ -421,7 +421,7 @@ underkapittel	lijhkiekapïhtele	vuollekapihtal/oassekapihtal	4	0	1	0
 
 grensespørsmål	krïensegyhtjelasse	rádjagažaldat	1	0	1	0
 
-fordelingsspørsmål	joekedimmiegyhtjelasse	juogadanášši/juogadangažaldat	2	0	1	0
++fordelingsspørsmål	joekedimmiegyhtjelasse	juogadanášši/juogadangažaldat	2	0	1	0
 
 langtidsprogram	jïjtjeboelhke	guhkesáiggeprográmma	1	0	1	0
 
@@ -429,25 +429,25 @@ olderbakken	liejpienbahke	leaibedievvá	2	0	1	0
 
 opphavsmann	maadtoeålma	vuoigŋadahkki	1	0	2	0
 
-landbruksadministrasjon	laanteburrienreereme	eanandoallohálddahus	1	0	1	0
++landbruksadministrasjon	laanteburriereereme	eanandoallohálddahus	1	0	1	0
 
 internatsituasjon	internattsiehkie	internáhttadilálašvuohta	1	0	1	0
 
 jordvern	jåartavaarjelimmie	eanangáhtten/eanagáhtten/eanansuodjaleapmi	7	0	1	0
 
-kulturminnevern	kultuvremojhtesenvaarjelimmie	kulturmuitosuodjalus/kulturmuitosuodjaleapmi	123	0	16	0
++kulturminnevern	kultuvremojhtesenvaarjelimmie	kulturmuitosuodjalus/kulturmuitosuodjaleapmi	123	0	16	0
 
 studielån	learoelööneme	studieloatna/oahppoloatna	23	0	4	0
 
-lommepenger	låammabeetnege	lummaruhta	1	0	1	0
++lommepenger	låammabeetnegh	lummaruhta	1	0	1	0
 
 underkontor	lijhkiekontovre	guovllukantuvra	3	0	13	0
 
-jordbær	laantenmuerjie	eanamuorji/eananmuorji/eatnanmuorji	2	0	1	0
++jordbær	laantenmuerjie	eanamuorji/eananmuorji/eatnanmuorji	2	0	1	0
 
 moltepris	laadthåasa	luomehaddi	1	0	1	0
 
-medlemstat	lïhtsestaate	miellahttostáhta	1	0	2	0
++medlemstat	lïhtsegestaate	miellahttostáhta	1	0	2	0
 
 fordelingsmyndighet	joekedimmiereakta	juogadanváldi	1	0	1	0
 
@@ -463,7 +463,7 @@ stamnett	maadternehte	vuođđofierpmádat	2	0	1	0
 
 undervannsbåt	lijhkietjaetsie	čázevulošfanas	1	0	0	0
 
-internatelev	internatlearohke	internáhtamánná	2	0	1	0
++internatelev	internatenlearohke	internáhtamánná	2	0	1	0
 
 ungdomsdrama	noeredraama	nuoraiddrámá	1	0	1	0
 
@@ -471,9 +471,9 @@ ungdomssamarbeid	noerelaavenjasse	nuoraidovttasbargu	2	0	1	0
 
 jernhånd	ruevtiegïete	garragiehta	1	0	1	0
 
-søknadsperiode	ohtsemegohkedæjja	ohcanáigodat	1	0	1	0
++søknadsperiode	ohtsemeboelke	ohcanáigodat	1	0	1	0
 
-rikskonge	rïjhkegånka	riikkagonagas	1	0	1	0
++rikskonge	rïjhkegånka	riikkagonagas	1	0	1	0
 
 sidelinje	raedtiesïeve	siidolinjá	4	0	1	0
 
@@ -487,17 +487,17 @@ sjøsame	saelhtiessaemie	mearrasápmelaš/mearrasápmi	34	0	73	0
 
 jordgamme	mueltiegåetie	lavdnjegoahti	1	0	5	0
 
-riksvalgstyre	rïjhkeveeljemeståvroe	riikkaválgastivra	1	0	0	0
++riksvalgstyre	rïjhkeveeljemeståvroe	riikkaválgastivra	1	0	0	0
 
-postkasse	påasteskaavtege	poastakássa	8	0	2	0
++postkasse	påastekassa	poastakássa	8	0	2	0
 
-saksliste	saakelæstoe	áššelistu	95	0	39	0
++saksliste	aamhteselæstoe	áššelistu	95	0	39	0
 
-nettmøte	nehtetjåanghkoe	neahttačoahkkin	3	0	1	0
++nettmøte	nehtetjåanghkoe	neahttačoahkkin	3	0	1	0
 
-samekulturutvalg	saemienkultuvredåehkie	sámekulturlávdegoddi	3	0	1	0
++samekulturutvalg	saemienkultuvredåehkie	sámekulturlávdegoddi	3	0	1	0
 
-likestillingsutvalg	mïrrestallemedåehkie	dásseárvolávdegoddi	2	0	4	0
++likestillingsutvalg	seammavyörtegedåehkie	dásseárvolávdegoddi	2	0	4	0
 
 samemelding	saemiensaerniestimmie	sámedieđáhus	1	0	1	0
 
@@ -505,45 +505,45 @@ søknadsbehandling	ohtsemegïetedalleme	ohcanmeannudeapmi	6	0	2	0
 
 leirordning	mehkieåårdnege	leairaortnet	1	0	1	0
 
-psykologiundervisning	psykologijeööhpehtimmie	psykologiijaoahpahus	1	0	1	0
++psykologiundervisning	psykologijeööhpehtimmie	psykologiijaoahpahus	1	0	1	0
 
 religionsundervisning	religijovnebïhkedimmie	kristtalašvuođaoahpahus	2	0	1	0
 
 rasering	naelienreagka	njeaidin/bilideapmi	3	0	7	0
 
-ungdomstiltak	noereråajvarimmie	nuoraiddoaibma/nuoraiddoaibmabidju	6	0	2	0
++ungdomstiltak	noeriråajvarimmie	nuoraiddoaibma/nuoraiddoaibmabidju	6	0	2	0
 
 fødselsstatistikk	reakedsstatistihke	riegádusstatistihkka	1	0	1	0
 
-ungdomsnettverk	noereviermie	nuoraidfierpmádat	1	0	1	0
++ungdomsnettverk	noereviermie	nuoraidfierpmádat	1	0	1	0
 
-nett-språk	nehte-gïele	fierbmegiella	0	0	0	0
++nett-språk	nehte-gïele	fierbmegiella	0	0	0	0
 
-bruksspråk	pråvhkoegïele	geavahusgiella	6	0	1	0
++bruksspråk	pråvhkoegïele	geavahusgiella	6	0	1	0
 
-ungdomsfestival	noerefestivaale	nuoraidfestivála	0	0	1	0
++ungdomsfestival	noerifestivaale	nuoraidfestivála	0	0	1	0
 
-likestillingsmiddel	mïrrestallemevierhtie	dásseárvoruhta	1	0	1	0
+likestillingsmiddel	seammavyörtegevierhtie	dásseárvoruhta	1	0	1	0
 
-tiltaksmiddel	råajvarimmievierhtie	doaibmabidjoruhta	0	0	1	0
++tiltaksmiddel	råajvarimmievierhtie	doaibmabidjoruhta	0	0	1	0
 
 merkeregel	mïerhkenjoelkedasse	merkennjuolggadus	1	0	1	0
 
 hjørnestein	roenengierkie	čiehkageađgi/čiehkajuolgi	4	0	1	0
 
-ungdomsorganisasjon	noereorganisasjovne	nuoraidorganisašuvdna	18	0	11	0
++ungdomsorganisasjon	noeriorganisasjovne	nuoraidorganisašuvdna	18	0	11	0
 
 personvern	nïerevaarjelimmie	olmmošsuodjalus/persovdnagáhtten/personsuodjalus/persovdnasuodjaleapmi	16	0	1	0
 
-rikspolitiker	rïjhkepolijtikere	riikkapolitihkkár	1	0	1	0
++rikspolitiker	rïjhkepolijtikere	riikkapolitihkkár	1	0	1	0
 
-ungdomspolitiker	noerepolijtikere	nuoraidpolitihkar	1	0	1	0
++ungdomspolitiker	noerepolijtikere	nuoraidpolitihkar	1	0	1	0
 
-riksteater	rïjhketeaatere	riikkateáhter	2	0	2	0
++riksteater	rïjhketeatere	riikkateáhter	2	0	2	0
 
 hunnlaks	minngelesloese	njiŋŋálas	1	0	4	0
 
-ungdomsprosjekt	noereprosjeekte	nuoraidprošeakta	4	0	4	0
+ungdomsprosjekt	noeriprosjeekte	nuoraidprošeakta	4	0	4	0
 
 fødselstidspunkt	reakedsaejkiemierie	riegádahttinmuddu	1	0	1	0
 
@@ -551,25 +551,25 @@ matdepartement	maksovendepartemeente	borramušdepartemeanta	82	0	2	0
 
 sjøfart	saelhtiedrïekte	mearrajohtolat	4	0	3	0
 
-riksnett	rïjhkenehte	riikkafierpmádat	1	0	1	0
++riksnett	rïjhkenehte	riikkafierpmádat	1	0	1	0
 
 postnett	påastenehte	poastafierpmádat	1	0	0	0
 
-riksarkiv	rïjhkevåarhkoe	riikkaarkiiva	5	0	2	0
++riksarkiv	rïjhkenvåarhkoe	riikkaarkiiva	5	0	2	0
 
-ungdomsmiljø	noerebyjreske	nuoraidbiras	1	0	2	0
++ungdomsmiljø	noerebyjrese	nuoraidbiras	1	0	2	0
 
-sosialtilskudd	sosijaaledåarjoe	sosiáladoarjja	0	0	1	0
++sosialtilskudd	sosijaaledåarjoe	sosiáladoarjja	0	0	1	0
 
-sosialtilbud	sosijaalenuepie	sosiálafálaldat	21	0	5	0
++sosialtilbud	sosijaalefaaleldahke	sosiálafálaldat	21	0	5	0
 
-avtaleperiode	sjïehtedimmieboelhke	šiehtadanáigodat/šiehtadusáigodat	3	0	1	0
++avtaleperiode	sjïehtedimmieboelhke	šiehtadanáigodat/šiehtadusáigodat	3	0	1	0
 
-skolepenge	skåvloebeetnege	skuvlamáksu/skuvlaruhta	1	0	1	0
++skolepenge	skuvlebeetnege	skuvlamáksu/skuvlaruhta	1	0	1	0
 
 varelinje	vaaroesïeve	gálvolinjá	1	0	0	0
 
-stangfiske	staavragööleme	stággobivdu	6	0	3	0
++stangfiske	staavragööleme	stággobivdu	6	0	3	0
 
 sjøfiske	skïhpeguelie	mearraguolásteapmi/mearrabivdu	13	0	9	0
 
@@ -581,11 +581,11 @@ offerholme	sjïelesååle	sieidesuolu/oaffarsuolu	1	0	1	0
 
 bykjerne	staaresjööveme	gávpotguovddáš	1	0	3	0
 
-termgruppe	teermedåehkie	tearbmajoavku	5	0	4	0
++termgruppe	teermedåehkie	tearbmajoavku	5	0	4	0
 
 spesialklasse	sjïereklaasse	erenoamášklássa	7	0	1	0
 
-minoritetsinteresse	unnebelåhkoeïedtje	veahádatberoštus	1	0	1	0
++minoritetsinteresse	unnebelåhkoeïedtje	veahádatberoštus	1	0	1	0
 
 ønskeliste	vaejtielæstoe	sávvanlista	1	0	0	0
 
@@ -597,17 +597,17 @@ kjernefag	sjöövemefaage	guovddášfága	1	0	1	0
 
 spesialfag	sjïerefaage	erenoamášfága	1	0	1	0
 
-storfag	stoerrefaage	stuorafága	1	0	1	0
++storfag	stoerrefaage	stuorafága	1	0	1	0
 
 vareutvalg	vaaroedåehkie	gálvovalljodat/gálvohivvodat	1	0	1	0
 
-statssekretærutvalg	staatentjaelijedåehkie	stáhtačállilávdegoddi	1	0	1	0
++statssekretærutvalg	staatentjaelijedåehkie	stáhtačállilávdegoddi	1	0	1	0
 
 markedsutvalg	sjeltiedåehkie	márkanlávdegoddi	6	0	3	0
 
-likestillingsutvalg	seammavierhtegemoenehtse	dásseárvolávdegoddi	2	0	4	0
++likestillingsutvalg	seammavierhtegemoenehtse	dásseárvolávdegoddi	2	0	4	0
 
-skolemiljøutvalg	skuvlebyjresedåehkie	skuvlabiraslávdegoddi	1	0	1	0
++skolemiljøutvalg	skuvlebyjresedåehkie	skuvlabiraslávdegoddi	1	0	1	0
 
 samfunnssammenheng	siebriedahkentsiehkie	servodatoktavuohta	3	0	1	0
 
@@ -617,15 +617,15 @@ samemelding	saemiesaerniestimmie	sámedieđáhus	1	0	1	0
 
 forfatterforening	tjaelijensiebrie	girječálliidsearvi	7	0	2	0
 
-omsorgsforskning	såjhtoedotkeme	fuolahusdutkan	1	0	0	0
++omsorgsforskning	såjhtoedotkeme	fuolahusdutkan	1	0	0	0
 
-sosialutdanning	sosijaaleööhpehtimmie	sosiálaoahppu	1	0	1	0
++sosialutdanning	sosijaaleööhpehtimmie	sosiálaoahppu	1	0	1	0
 
 kjerneverdi	sjöövemevierhtie	guovddášárvu	1	0	0	0
 
-sosialøkonomi	sosijaaleekonomije	sosiálaekonomiija	2	0	1	0
++sosialøkonomi	sosijaaleekonomije	sosiálaekonomiija	2	0	1	0
 
-sosialtiltak	sosijaaleråajvarimmie	sosiáladoaibmabidju	3	0	1	0
++sosialtiltak	sosijaaleråajvarimmie	sosiáladoaibmabidju	3	0	1	0
 
 skolemelk	skåvloemielhkie	skuvlamielki	1	0	1	0
 
@@ -635,9 +635,9 @@ sjøfolk	skïhpeaalmoge	mearraolmmoš/mearraalmmái	4	0	2	0
 
 skolenettverk	skuvlenviermie	skuvlafierpmádat	2	0	2	0
 
-lekespråk	stååkegaevniegïele	stoahkangiella/duhkoraddangiella	4	0	1	0
++lekespråk	stååkemesgïele	stoahkangiella/duhkoraddangiella	4	0	1	0
 
-hjertespråk	vaajmoegïele	váibmogiella	2	0	2	0
++hjertespråk	vaajmoegïele	váibmogiella	2	0	2	0
 
 avtalemiddel	sjïehtedimmievierhtie	šiehtadusruhta	2	0	1	0
 
@@ -645,7 +645,7 @@ merkeregel	tsïeglenjoelkedasse	merkennjuolggadus	1	0	1	0
 
 varebil	vaaroebïjle	gálvobiila	2	0	3	0
 
-skolespørsmål	skåvloegyhtjelasse	skuvlagažaldat/skuvlaášši	7	0	4	0
++skolespørsmål	skuvlegyhtjelasse	skuvlagažaldat/skuvlaášši	7	0	4	0
 
 spesialprogram	sjïereprogramme	erenoamášprográmma/sierraprográmma	1	0	1	0
 
@@ -655,7 +655,7 @@ kjernevåpen	sjöövemevaeknie	atomavearju	2	0	1	0
 
 spesialtegn	sjïerevæhta	sierračálamearka/sierramearka	2	0	1	0
 
-minoritetsbakgrunn	unnebelåhkoeduekie	unnitloguduogáš	3	0	1	0
++minoritetsbakgrunn	unnebelåhkoeduekie	unnitloguduogáš	3	0	1	0
 
 sosialsituasjon	sosijaaletsiehkie	sosiáladilli	1	0	1	0
 
@@ -663,7 +663,7 @@ forfatterskap	tjaelijenvoete	girječállin	4	0	8	0
 
 slektskap	slïektevoete	fuolkevuohta	8	0	9	0
 
-sosialseminar	sosijaaleseminaare	sosiálaseminára	2	0	1	0
++sosialseminar	sosijaaleseminaare	sosiálaseminára	2	0	1	0
 
 feltleder	suerkieåejvie	gieddejođiheaddji	2	0	1	0
 
@@ -671,15 +671,15 @@ skolepenger	skåvloebeetnege	skuvlamáksu/skuvlaruhta	1	0	1	0
 
 stemmemottaker	tjoejedåastoje	jietnavuostáiváldi	13	0	1	0
 
-minoritetskultur	unnebelåhkoekultuvre	minoritehtakultuvra	2	0	0	0
++minoritetskultur	unnebelåhkoekultuvre	minoritehtakultuvra	2	0	0	0
 
 halvår	tjeapohkegïjre	jahkebealli	28	0	32	0
 
 målpris	ulmieåasa	giellabálkkašupmi	4	0	13	0
 
-vannkraftressurs	tjaetsiefaamoevierhtie	čáhcefápmoresursa	1	0	1	0
++vannkraftressurs	tjaetsiefaamoevierhtie	čáhcefápmoresursa	1	0	1	0
 
-skolemyndighet	skåvloereakta	skuvlaeiseváldi	8	0	6	0
++skolemyndighet	skåvloereakta	skuvlaeiseváldi	8	0	6	0
 
 spesialprodukt	sjïeredorjese	sierrabuvtta/erenoamášbuvtta	1	0	1	0
 
@@ -691,6 +691,6 @@ merkefrist	tsïeglebiejjie	merkenáigi/merkenáigemearri	2	0	1	0
 
 telenett	tjïengeleviermie	telefierpmádat	1	0	1	0
 
-storkniv	stoerrenejpie	stuorraniibi	2	0	1	0
++storkniv	stoerrenejpie	stuorraniibi	2	0	1	0
 
 vannressurslov	tjaetsiemaelmie	čáhceresursaláhka	3	0	1	0
