@@ -296,7 +296,7 @@ hovedstad	oaivegávpot
 stadion	stadion	+?	
 opplegg	hoidu	
 virkning	váikkuhus	
-utfordring	hástalus	
+utfordring	hástalus	haesteme
 fenomen	fenomen	+?	
 henhold	henhold	+?	
 fase	ravdet	
@@ -315,7 +315,7 @@ foretak	fitnodat
 forbruk	mannu	
 oljepris	oljohaddi	
 realitet	realitehta	
-tilskudd	doarjja	
+tilskudd	doarjja	 d
 regnskap	rehketdoallu	
 sum	summá	
 vis	viissis	
@@ -470,12 +470,12 @@ vaksine	boahkut
 permalink	permalink	+?	
 veg	geaidnu	
 stemning	miellaláhki	
-park	párka	
-venninne	ustit	
+park	párka	såafoe
+venninne	ustit	voelpe
 gjeng	roiká	
 porno	porno	+?	
 utgivelse	almmuheapmi	
-symbol	symbola	
+symbol	symbola	symbole
 objekt	objeakta	
 enighet	ovttamielalašvuohta	
 sikte	áššáiduhttit	
@@ -490,7 +490,7 @@ regime	ráđđenvuohki
 tilskuer	geahčči	
 ettertid	ettertid	+?	
 atmosfære	áibmogeardi	
-magasin	bláđđi	
+magasin	bláđđi	plaerie
 organisering	organiseren	
 karriere	karrieara	
 landsby	landsby	+?	
@@ -498,9 +498,9 @@ respons	responsa
 pikk	návli	
 bonus	bonus	+?	
 referanse	referánsa	
-planet	planehta	
+planet	planehta plaanete	
 kontrast	vuostálasvuohta	
-utdrag	bihttá	
+utdrag	bihttá	stuhtje
 aksjonær	oasusdoalli	
 utøver	doalli	
 basis	basis	+?	
@@ -509,13 +509,13 @@ bredde	govdodat
 evaluering	árvvoštallan	
 kutt	kutt	+?	
 utbygging	huksen	
-euro	euro	
+euro	euro	euro
 klimaendring	dálkkádatrievdan	
 generalsekretær	generálačálli	
 nestleder	nubbijođiheaddji	
 terror	terror	
 passasjer	mielčuovvu	
-kompis	ustit	
+kompis	ustit	voelpe
 underskudd	váili	
 stopp	bisáneapmi	
 volum	hivvodat	
@@ -571,7 +571,7 @@ klient	klieanta
 oppskrift	ráhkadanneavva	
 sosialisme	sosialisma	
 base	stašuvdna	
-hud	náhkki	
+hud	náhkki	njaltja
 scoring	scoring	+?	
 oversettelse	jorgalus	
 univers	univers	+?	
@@ -590,7 +590,7 @@ sosialist	sosialist	+?
 medlemskap	miellahttuvuohta	
 kreft	borasdávda	
 vedlegg	mielddus	
-mottaker	vuostáiváldi	
+mottaker	vuostáiváldi	dåastoje
 svakhet	hearkivuohta	
 hjemmelag	ruovttujoavku	
 mannskap	veahka	
@@ -727,7 +727,7 @@ premiss	premissa
 lisens	liseansa	
 Året	Året	+?	
 kasse	gássa	
-onkel	eanu	
+onkel	eanu	jyöne
 skjul	skadjá	
 opera	opera	+?	
 legg	juolgi	
@@ -767,7 +767,7 @@ frihet	friddjavuohta
 forberedelse	ráhkkaneapmi	
 finansminister	ruhtadanministtar	
 line	liidna	
-dødsfall	jápmin	
+dødsfall	jápmin	sealadimmie
 oppmerksomhet	ávvir	
 pårørende	oapmahaš	
 odds	odds	+?	
@@ -788,14 +788,14 @@ snakk	hupmu
 arbeidsmarked	bargomárkan	
 utlending	olgoriikalaš	
 fotballspiller	čiekči	
-kjøretøy	vuodjinfievru	
-fotografi	govva	
+kjøretøy	vuodjinfievru	vuajastahkh
+fotografi	govva	guvvie
 analyse	guorahallan	
 kast	kast	+?	
 hann	varis	
 dekk	deahkka	
 livsstil	eallinvuohki	
-pizza	pizza	
+pizza	pizza	pizza
 menighet	searvegoddi	
 turnering	turnering	+?	
 don	don	+?	
@@ -873,7 +873,7 @@ hurtigbuffer	hurtigbuffer	+?
 karriere	karrieara	
 metall	metálla	
 stolpe	čuolda	
-eple	eappel	
+eple	eappel	æpla
 allergi	allergiija	
 helsetjeneste	dearvvašvuođabálvalus	
 hei	dearvva	
