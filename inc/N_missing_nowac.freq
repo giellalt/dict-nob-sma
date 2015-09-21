@@ -45,12 +45,12 @@ hensyn	deasta
 trening	hárjehallan	saavreme
 test	test	+?	
 prosess	mannolat	
-tvil	eahpádus	
+tvil	eahpádus	juerie
 åring	åring	+?	
 natur	luondu	
 besøk	guossi	guessie
 melding	dieđáhus dijre	
-opplevelse	vásáhus	
+opplevelse	vásáhus	dååjrese
 energi	energiija energije	
 omgang	vuorru	våaroe
 metode	vuohki	vuekie
@@ -89,12 +89,12 @@ prinsipp	prinsihppa	prinsippe
 standard	standárda	
 standard	dábálaš	
 teori	teoriija	teorije
-konflikt	soahpameahttunvuohta	
+konflikt	soahpameahttunvuohta	vigkie
 journalist	journalista juornaliste	
-sekund	sekunda	
+sekund	sekunda	sekunde
 runde	vuorru	
 runde	jorbet	
-handling	doaibma	
+handling	doaibma	 giehtelimmie
 deltaker	oasálaš	
 bevegelse	johtu	
 kostnad	gollu	
@@ -104,10 +104,10 @@ trener	hárjeheaddji
 klær	gárvvut	vaarjoeh
 næringsliv	ealáhusdoaibma	
 inntrykk	muitogovva	
-kontrakt	soahpamuš	
+kontrakt	soahpamuš	latjkoe
 vold	veahkaváldi	
 felt	suorgi	
-utland	olgoriika	
+utland	olgoriika	ålkoelaante
 bidrag	doarjja	
 suksess	lihkostupmi	
 anlegg	ráhkadus	
@@ -136,14 +136,14 @@ artist	artista	artiste
 løsning	čovdojupmi	
 påstand	čuoččuhus	
 oppdrag	doaibma	
-vinner	vuoiti	
+vinner	vuoiti	vitnie
 diabetes	sohkardávda	
 sikkerhet	dorvu	
 element	áhta	
 drift	doallu	
 innbygger	ássi	
 advokat	advokáhta	
-album	álbum	
+album	álbum	albumme
 gir	gir	+?	
 oppmerksomhet	ávvir	
 fall	njiedjan	
@@ -154,7 +154,7 @@ hold	hold	+?
 handel	gávpi	
 kandidat	evttohas	
 alkohol	alkohola	
-fart	johtu	
+fart	johtu	drïekte
 trykk	deaddu	
 statsminister	stáhtaministtar	staateministere
 egenskap	iešvuohta	
@@ -162,7 +162,7 @@ tilstand	dilli
 kjønn	sohkabealli	
 sjø	mearra	
 overgang	sirdašupmi	
-frykt	ballu	
+frykt	ballu	asvoe
 slags	lágan	
 beskrivelse	govvádus buerkiestimmie	
 frihet	friddjavuohta	frijjevuote
@@ -188,7 +188,7 @@ midt	guovdu
 motsetning	vuostálasvuohta	
 kunstner	dáiddačeahppi	
 batteri	báhtter	batterije
-motstander	vuostálasti	
+motstander	vuostálasti	vuestehke
 keeper	moalladuostu	
 skrev	háhccegaska	
 kollega	bargoskihpár	
@@ -200,7 +200,7 @@ retningslinje	njuolggadus	njoelkedasse
 engasjement	beroštupmi	
 reklame	rekláma	
 avgjørelse	mearrideapmi	
-økning	lassáneapmi	
+økning	lassáneapmi	lissiedimmie
 Øyvind	Øyvind	+?	
 melding	dieđáhus	dijne 
 museum	musea	
@@ -315,7 +315,7 @@ foretak	fitnodat
 forbruk	mannu	
 oljepris	oljohaddi	
 realitet	realitehta	
-tilskudd	doarjja	 d
+tilskudd	doarjja	 doarjoe
 regnskap	rehketdoallu	
 sum	summá	
 vis	viissis	
