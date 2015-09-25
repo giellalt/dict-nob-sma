@@ -1,4 +1,4 @@
-+ på gode => nesten ferdig
++ på gode => ganske ferdig
 forvaltningsledd	reeremelïhtse	hálddašanlađas	1	0	1	0
 forvaltningsledd	reerenasselïhtse	hálddašanlađas	1	0	1	0
 
@@ -517,14 +517,14 @@ radiosending	radionsaadtege	rádiosátta	4	0	6	0
 nyhetssending	saerniensaadtege	ođassátta	4	0	7	0
 
 kompetanseoppbygging	maahtaldahketseegkeme	gelbbolašvuođahuksen	18	0	3	0
-kompetanseoppbygging	maahtoetseegkeme	gelbbolašvuođahuksen	18	0	3	0
++kompetanseoppbygging	maahtoetseegkeme	gelbbolašvuođahuksen	18	0	3	0
 kompetanseoppbygging	maahtaldahkentseegkeme	gelbbolašvuođahuksen	18	0	3	0
 kompetanseoppbygging	maahtoentseegkeme	gelbbolašvuođahuksen	18	0	3	0
 
 samfunnsoppbygging	siebriedahketseegkeme	servodathuksen	2	0	2	0
 samfunnsoppbygging	siebriedahkentseegkeme	servodathuksen	2	0	2	0
 
-kunnskapsoppbygging	maahtoetseegkeme	diehtohuksen/máhtolašvuođahuksen/máhttohuksen	10	0	1	0
++kunnskapsoppbygging	maahtoetseegkeme	diehtohuksen/máhtolašvuođahuksen/máhttohuksen	10	0	1	0
 kunnskapsoppbygging	maahtoentseegkeme	diehtohuksen/máhtolašvuođahuksen/máhttohuksen	10	0	1	0
 
 +samfunnsavdeling	siebriedahkegoevtese	servodatossodat	2	0	2	0
@@ -631,7 +631,7 @@ stedsnavnsak	dajvenommeaamhtese	báikenammaášši	1	0	1	0
 stedsnavnsak	sijjienommenaamhtese	báikenammaášši	1	0	1	0
 stedsnavnsak	dajvenommenaamhtese	báikenammaášši	1	0	1	0
 
-k+ultursak	kultuvreaamhtese	kulturášši	3	0	5	0
++kultursak	kultuvreaamhtese	kulturášši	3	0	5	0
 kultursak	kultuvrenaamhtese	kulturášši	3	0	5	0
 kultursak	kulturaamhtese	kulturášši	3	0	5	0
 
@@ -1104,16 +1104,16 @@ organisasjonskart	organisasjovnenkaarhte	organisašuvdnakárta	2	0	1	0
 organisasjonskart	organisationskaarhte	organisašuvdnakárta	2	0	1	0
 organisasjonskart	organisasjonskaarhte	organisašuvdnakárta	2	0	1	0
 
-studentprest	studeentehearra	studeantabáhppa	1	0	1	0
++studentprest	studeentehearra	studeantabáhppa	1	0	1	0
 studentprest	studeentenhearra	studeantabáhppa	1	0	1	0
 studentprest	studenthearra	studeantabáhppa	1	0	1	0
 
-kulturbudsjett	kultuvrebudsjehte	kulturbušeahtta	3	0	2	0
++kulturbudsjett	kultuvrebudsjehte	kulturbušeahtta	3	0	2	0
 kulturbudsjett	kultuvrenbudsjehte	kulturbušeahtta	3	0	2	0
 kulturbudsjett	kulturbudsjehte	kulturbušeahtta	3	0	2	0
 
 sametingsbudsjett	saemiedigkiebudsjehte	sámediggebušeahtta	7	0	2	0
-sametingsbudsjett	saemiedigkienbudsjehte	sámediggebušeahtta	7	0	2	0
++sametingsbudsjett	saemiedigkienbudsjehte	sámediggebušeahtta	7	0	2	0
 
 +konkurranserett	gaahtjemereaktoe	gilvoriekti/gilvovuoigatvuohta	1	0	1	0
 konkurranserett	gaahtjemenreaktoe	gilvoriekti/gilvovuoigatvuohta	1	0	1	0
