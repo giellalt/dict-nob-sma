@@ -1,4 +1,4 @@
-
++ på gode ==> ganske ferdig
 +forskningstema	dotkemeaamhtese	dutkanfáddá	2	0	6	0
 forskningstema	dotkemenaamhtese	dutkanfáddá	2	0	6	0
 
@@ -264,7 +264,7 @@ kommunikasjonspolitikk	gaskesadtemepolitihke	gulahallanpolitihkka	5	0	1	0
 kommunikasjonspolitikk	gaskesadtemenpolitihke	gulahallanpolitihkka	5	0	1	0
 
 språkfolk	gïeleåålmege	giellaolmmoš	1	0	2	0
-språkfolk	gïelealmetje	giellaolmmoš	1	0	2	0
++språkfolk	gïelealmetjh	giellaolmmoš	1	0	2	0
 
 nabofolk	kraannaåålmege	ránnjáálbmot	2	0	1	0
 +nabofolk	kraannaalmetjh	ránnjáálbmot	2	0	1	0
@@ -940,7 +940,7 @@ boskikk	veasomenvuekie	ássanvierru	1	0	1	0
 skolemelk	skuvlenmielhkie	skuvlamielki	1	0	1	0
 
 skolefolk	skuvleåålmege	skuvlaolmmoš	2	0	1	0
-skolefolk	skuvlealmetje	skuvlaolmmoš	2	0	1	0
++skolefolk	skuvlealmetjh	skuvlaolmmoš	2	0	1	0
 skolefolk	skuvlenalmetje	skuvlaolmmoš	2	0	1	0
 
 minoritetsfolk	unnebelåhkoeåålmege	unnitlohkočearda	2	0	0	0
@@ -971,7 +971,7 @@ forvaltningsregel	reeremennjoelkedasse	hálddašannjuolggadus	2	0	2	0
 rettighetsregel	reaktannjoelkedasse	vuoigatvuođanjuolggadus	1	0	1	0
 
 rettsregel	reaktoenjoelkedasse	riekteregel/riektenjuolggadus	8	0	3	0
-rettsregel	reaktannjoelkedasse	riekteregel/riektenjuolggadus	8	0	3	0
++rettsregel	reaktanjoelkedasse	riekteregel/riektenjuolggadus	8	0	3	0
 rettsregel	reaktoennjoelkedasse	riekteregel/riektenjuolggadus	8	0	3	0
 rettsregel	rïektesnjoelkedasse	riekteregel/riektenjuolggadus	8	0	3	0
 
@@ -1165,9 +1165,9 @@ telefonlinje	telefovnesïeve	telefonlinnjá	2	0	1	0
 
 snekkerlinje	snæhkeresïeve	snihkkársuorgi	1	0	1	0
 
-utviklingslinje	övtiedimmiesïeve	ovdánanlinjá/ovddidanlinnjá	1	0	1	0
++utviklingslinje	övtiedimmiesïeve	ovdánanlinjá/ovddidanlinnjá	1	0	1	0
 
-utdanningslinje	ööhpehtimmiesïeve	oahppolinnjá	2	0	1	0
++utdanningslinje	ööhpehtimmiesïeve	oahppolinnjá	2	0	1	0
 
 +hovedavtale	åejvielatjkoe	váldošiehtadus	31	0	10	0
 
@@ -1255,7 +1255,7 @@ utviklingspenger	övtiedimmiebeetnege	ovdánahttinruhta/ovddidanruhta	0	0	2	0
 
 opplæringspenger	ööhpehtimmiebeetnege	oahpporuhta	2	0	1	0
 
-omsorgspenger	såjhtoebeetnege	fuolahanruhta	4	0	1	0
++omsorgspenger	såjhtoebeetnegh	fuolahanruhta	4	0	1	0
 
 fødselspenger	reakedsbeetnege	riegádahttinruhtaeaktu	1	0	1	0
 
@@ -1277,7 +1277,7 @@ hovedbruker	åejvieburrie	váldodoalli	6	0	1	0
 
 skogsressurs	skåajjevierhtie	vuovderesursa	1	0	1	0
 
-offerplass	sjïelesijjie	oaffarsadji	5	0	1	0
++offerplass	sjïelesijjie	oaffarsadji	5	0	1	0
 
 utdanningsmyndighet	ööhpehtimmiereakta	oahpahuseiseváldi/oahppoeiseváldi	2	0	1	0
 
