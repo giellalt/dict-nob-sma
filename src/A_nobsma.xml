@@ -7065,7 +7065,154 @@ For the full license text, see the link above.</lic>
       </tg>
     </mg>
   </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">intelligent</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sma">
+        <t pos="A">jiermege</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">variert</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sma">
+        <t pos="A">joekehth</t>
+        <t pos="A">joekehts-laakan</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">direkte</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sma">
+        <t pos="A">riekte</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">tilgjengelig</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sma">
+        <t pos="A">jaksoes</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">merkelig</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sma">
+        <t pos="A">rovneges</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">alminnelig</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sma">
+        <t pos="A">siejhme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">mektig</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sma">
+        <t pos="A">faamehke</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">kvikk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sma">
+        <t pos="A">gïmpele/ kvihke</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">oppmerksom</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sma">
+        <t pos="A">våårkehke/ vuepties  </t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">moro</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sma">
+        <t pos="A">luste</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">trofast</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sma">
+        <t pos="A">gaerhteles</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">sentral</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sma">
+        <t pos="A">sentraale</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">økonomisk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sma">
+        <t pos="A">ekonomihkeles</t>
+      </tg>
+    </mg>
+  </e>
   <!-- Bad suggestions, remove next time round: 
+økonomisk ::: økonomihkeles
+intensiv ::: eadtjohke-laakan
+intensiv ::: vissjeles-laakan
+svær ::: mïereles
+aktuell ::: aktuelle
+aktuell ::: voernges
+tradisjonell ::: aerpie
+kronisk ::: ihkuve
+privat ::: siejhme
+uformell ::: siejhme
+intelligent ::: væjsehke
+intelligent ::: gåårkehke
+frodig ::: mïereles
+stabil ::: ihkuve
+sentral ::: sjyöhtehke
+fruktbar ::: mïereles
 tematisk ::: tematihkeles
 personalpolitisk ::: personalpolitihkeles
 journalistisk ::: journalistihkeles

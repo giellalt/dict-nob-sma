@@ -59140,7 +59140,74 @@ For the full license text, see the link above.</lic>
       </tg>
     </mg>
   </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">hogge</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sma">
+        <t pos="V">tjoehpedh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">utforske</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sma">
+        <t pos="V">giehtjedidh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">skjønne</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sma">
+        <t pos="V">guarkedh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">endre</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sma">
+        <t pos="V">jeatjadehtedh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">argumentere</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sma">
+        <t pos="V">diejveldidh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">gjennomgå</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sma">
+        <t pos="V">tjirrehtidh</t>
+      </tg>
+    </mg>
+  </e>
   <!-- Bad suggestions, remove next time round: 
+øve ::: lierehtalledh
+skjemme ::: aervi
+øke ::: 
+spekulere ::: jiermestalledh
+prioritere ::: prioriteeredh
+inspirere ::: tsihkijehtedh
+studere ::: giehtjedidh
 revidere ::: revideeredh
 regulere ::: reguleeredh
 evaluere ::: evalueeredh
