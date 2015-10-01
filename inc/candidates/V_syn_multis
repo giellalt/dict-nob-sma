@@ -1,0 +1,120 @@
+
+vigsle	lustestalledh	vihahit	1	80	18	0
+vigsle	debriehtidh	vihahit	1	8	18	0
+vigsle	dibrehtidh	vihahit	1	53	18	0
+
+gjenkjenne	dabtedh	dovdát	24	152	85	0
+gjenkjenne	damtedh	dovdát	24	773	85	25
+
+befare	goevledh	diđoštit	17	61	11	0
+befare	vuejnedh	diđoštit	17	3217	11	0
+befare	gïehtjedidh	diđoštit	17	935	11	0
+befare	vuajnajidh	diđoštit	17	41	11	0
+befare	vuartasjidh	diđoštit	17	1476	11	0
+befare	gïehtjelidh	diđoštit	17	53	11	0
+
+samsvare	geehtedh	oktiivástidit	195	314	4	0
+samsvare	sjïehtedh	oktiivástidit	195	1226	4	1
+samsvare	vaarjelidh	oktiivástidit	195	1046	4	1
+
+kommandere	tjoermedh	gevret	1	19	8	0
+kommandere	moenedh	gevret	1	413	8	0
+kommandere	birredh	gevret	1	73	8	0
+kommandere	bööredh	gevret	1	209	8	0
+kommandere	maedtedh	gevret	1	13	8	0
+kommandere	lahtedh	gevret	1	149	8	0
+kommandere	nommestehtedh	gevret	1	11	8	0
+kommandere	bööredidh	gevret	1	136	8	0
+kommandere	tjoemehtidh	gevret	1	5	8	0
+kommandere	vaetiestidh	gevret	1	18	8	0
+kommandere	gåhtjodh	gevret	1	459	8	0
+kommandere	tjåarvodh	gevret	1	185	8	0
+
+demonstrere	åehpiedehtedh	demonstreret	7	423	4	0
+demonstrere	vuesiehtidh	demonstreret	7	3249	4	1
+
+ratifisere	mietedh	ratifiseret	35	51	38	0
+ratifisere	dåhkasjehtedh	ratifiseret	35	117	38	1
+
+introdusere	åehpiedehtedh	introduseret	7	423	1	0
+introdusere	vuesiehtidh	introduseret	7	3249	1	0
+
+forankre	gaaredh	ruohtastuhttit/fakkastit/sajáiduhttit	64	22	2	0
+forankre	gurredh	ruohtastuhttit/fakkastit/sajáiduhttit	64	788	2	1
+forankre	viedtedh	ruohtastuhttit/fakkastit/sajáiduhttit	64	68	2	0
+forankre	gårredidh	ruohtastuhttit/fakkastit/sajáiduhttit	64	40	2	0
+
+ferdigstilles	galhkedh	gárvánit	31	113	42	0
+ferdigstilles	illedh	gárvánit	31	406	42	0
+ferdigstilles	dorjesovvedh	gárvánit	31	371	42	0
+ferdigstilles	ryöjredidh	gárvánit	31	112	42	0
+
+integreres	gaaredh	ovttaiduvvat	13	22	7	0
+integreres	gårredidh	ovttaiduvvat	13	40	7	0
+
+bli ferdigstilt	galhkedh	gárvánit	0	113	42	0
+bli ferdigstilt	illedh	gárvánit	0	406	42	0
+bli ferdigstilt	dorjesovvedh	gárvánit	0	371	42	0
+bli ferdigstilt	ryöjredidh	gárvánit	0	112	42	0
+
+hemmes	aeredh	heahtašuvvat	2	256	1	0
+hemmes	hööptedh	heahtašuvvat	2	2	1	0
+
+kommandere	raajedh	gevret	1	79	8	0
+bortvise	raajedh	gevret	2	79	8	0
+utvise	raajedh	gevret	17	79	8	0
+kommandere	gohtjedidh	gevret	1	96	8	0
+bortvise	gohtjedidh	gevret	2	96	8	0
+utvise	gohtjedidh	gevret	17	96	8	0
+
+innskrenke	njoetedh	gáržžidit	24	7	123	0
+innskrenke	åeniedidh	gáržžidit	24	38	123	0
+innskrenke	unniedidh	gáržžidit	24	111	123	0
+innskrenke	måjkoedidh	gáržžidit	24	3	123	0
+
+hanskes	gïrredh	dáistalit	1	23	9	0
+hanskes	vuastalidh	dáistalit	1	102	9	0
+hanskes	gåaljodh	dáistalit	1	14	9	0
+hanskes	daamkodh	dáistalit	1	0	9	0
+hanskes	dåarodh	dáistalit	1	47	9	0
+
+sidestille	ektiedidh	buohtalastit	6	901	8	0
+sidestille	iktedidh	buohtalastit	6	291	8	0
+
+forplikte	raajedh	geatnegahttit	125	79	143	0
+forplikte	gohtjedidh	geatnegahttit	125	96	143	0
+
+utelukke	bïedtedh	lihccut	36	2	20	0
+utelukke	nehkiehtidh	lihccut	36	7	20	0
+
+vie	jovkestalledh	vihahit/náitit	2698	0	13	0
+vie	dabreldehtedh	vihahit/náitit	2698	1	13	0
+vie	debriehtidh	vihahit/náitit	2698	8	13	0
+vie	dibrehtidh	vihahit/náitit	2698	53	13	0
+
+vigsle	jovkestalledh	vihahit	1	0	18	0
+vigsle	dabreldehtedh	vihahit	1	1	18	0
+
+stemme	tjoejedh	jienastit	446	104	418	0
+stemme	bååjhtedh	jienastit	446	0	418	0
+
+gjenkjenne	identifiseeredh	dovdát	24	3	85	0
+gjenkjenne	damtehtidh	dovdát	24	7	85	0
+
+befare	sierngedh	diđoštit	17	2	11	0
+befare	vuejniestidh	diđoštit	17	2	11	0
+
+samsvare	hievedh	oktiivástidit	195	4	4	0
+samsvare	sjïehtelovvedh	oktiivástidit	195	5	4	0
+samsvare	hyövedh	oktiivástidit	195	0	4	0
+samsvare	heavadidh	oktiivástidit	195	3	4	0
+
+kommandere	rohkelassjedh	gevret	1	0	8	0
+kommandere	lahtestehtedh	gevret	1	0	8	0
+kommandere	birresjidh	gevret	1	0	8	0
+kommandere	saarnahtidh	gevret	1	0	8	0
+kommandere	saarnoehtidh	gevret	1	1	8	0
+kommandere	aanoestidh	gevret	1	0	8	0
+
+oppsummere	ussjedistedh	čoahkkáigeassit	43	3	34	0
+oppsummere	ussjedestielidh	čoahkkáigeassit	43	2	34	0
