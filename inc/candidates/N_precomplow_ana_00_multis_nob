@@ -1,4 +1,4 @@
-
++ på gode
 menneskerettighetstema	almetjeaamhtese	olmmošvuoigatvuođafáddá	1	0	1	0
 menneskerettighetstema	almetjenaamhtese	olmmošvuoigatvuođafáddá	1	0	1	0
 
@@ -6,16 +6,16 @@ reindriftsblad	båatsoeburrielaste	boazodoallobláđđi	1	0	1	0
 reindriftsblad	båatsoejielemelaste	boazodoallobláđđi	1	0	1	0
 reindriftsblad	båatsoelaste	boazodoallobláđđi	1	0	1	0
 
-forskningssøknad	dotkemeohtse	dutkanohcamuš	1	0	1	0
++forskningssøknad	dotkemeohtseme	dutkanohcamuš	1	0	1	0
 forskningssøknad	dotkemenohtse	dutkanohcamuš	1	0	1	0
 
-hovedstad	åejviestaare	oaivegávpot	6	2	35	2
++hovedstad	åejviestaare	oaivegávpot	6	2	35	2
 hovedstad	åejviesstaare	oaivegávpot	6	0	35	2
 
 brukersted	burriesijjie	geavahanbáiki	1	0	1	0
 brukersted	burriensijjie	geavahanbáiki	1	0	1	0
 
-skolegård	daltesegaertene	skuvlašillju	3	0	6	0
++skolegård	skuvlegaertene	skuvlašillju	3	0	6	0
 skolegård	daltesengaertene	skuvlašillju	3	0	6	0
 
 aktivitetstilbud	darjomefaaleldahke	doaibmafálaldat	7	0	1	0
@@ -35,17 +35,17 @@ aktivitetsside	darjomesæjroe	aktivitehtabealli	1	0	1	0
 økonomiområde	ekonomijenlaante	ekonomiijasuorgi	1	0	1	0
 økonomiområde	ekonomijebarkoedajve	ekonomiijasuorgi	1	0	1	0
 økonomiområde	ekonomibarkoedajve	ekonomiijasuorgi	1	0	1	0
-økonomiområde	ekonomijenbarkoedajve	ekonomiijasuorgi	1	0	1	0
++økonomiområde	ekonomijesuerkie	ekonomiijasuorgi	1	0	1	0
 
 landskapsvernområde	eatnemenvaarjelimmielaante	eanadatsuodjalanguovlu	18	0	2	0
-landskapsvernområde	eatnemenvaarjelimmiebarkoedajve	eanadatsuodjalanguovlu	18	0	2	0
++landskapsvernområde	eatnemenvaarjelimmiedajve	eanadatsuodjalanguovlu	18	0	2	0
 
 naturområde	eatnemelaante	luondduguovlu	7	0	4	0
 naturområde	eatnemenlaante	luondduguovlu	7	0	4	0
-naturområde	eatnemebarkoedajve	luondduguovlu	7	0	4	0
++naturområde	eatnemedajve	luondduguovlu	7	0	4	0
 naturområde	eatnemenbarkoedajve	luondduguovlu	7	0	4	0
 
-tilskuddsområde	dåarjoesuerkie	doarjjaguovlu	1	0	1	0
++tilskuddsområde	dåarjoesuerkie	doarjjaguovlu	1	0	1	0
 tilskuddsområde	dåarjoeeatneme	doarjjaguovlu	1	0	1	0
 
 formidlingsområde	dorjehtimmielaante	gaskkustansuorgi	1	0	1	0
@@ -70,7 +70,7 @@ matområde	deerpegebarkoedajve	biebmosuorgi	4	0	1	0
 matområde	beapmoebarkoedajve	biebmosuorgi	4	0	1	0
 matområde	beapmoenbarkoedajve	biebmosuorgi	4	0	1	0
 
-fødselspenge	baersieldimmiebeetnege	riegádahttinruhtaeaktu	1	0	1	0
++fødselspenge	reakadahtemebeetnegh	riegádahttinruhtaeaktu	1	0	1	0
 fødselspenge	baersieldimmienbeetnege	riegádahttinruhtaeaktu	1	0	1	0
 fødselspenge	baersieldimmiebeetneh	riegádahttinruhtaeaktu	1	0	1	0
 fødselspenge	baersieldimmienbeetneh	riegádahttinruhtaeaktu	1	0	1	0
@@ -112,7 +112,7 @@ fristdag	biejvienbiejvie	áigemearrebeaivi	1	0	1	0
 fritidsbolig	eejehtimmiegåetie	astoáiggeviessu/astoáiggevisti	10	0	1	0
 fritidsbolig	eejehtallemegåetie	astoáiggeviessu/astoáiggevisti	10	0	1	1
 
-miljøvernavdeling	byjresevaarjelimmiegoevte	birasgáhttenossodat	8	0	17	0
++miljøvernavdeling	byjresevaarjelimmiegoevte	birasgáhttenossodat	8	0	17	0
 miljøvernavdeling	byjresegoevte	birasgáhttenossodat	8	0	17	0
 miljøvernavdeling	byjresengoevte	birasgáhttenossodat	8	0	17	0
 
@@ -127,18 +127,18 @@ lokalsamfunnsforskning	dajveektievoetedotkeme	báikegoddedutkan	1	0	1	0
 lokalsamfunnsforskning	dajveektievoetendotkeme	báikegoddedutkan	1	0	1	0
 
 miljøforskning	byjreskedotkeme	birasdutkan	4	0	1	0
-miljøforskning	byjresedotkeme	birasdutkan	4	0	1	0
++miljøforskning	byjresedotkeme	birasdutkan	4	0	1	0
 miljøforskning	byjreskendotkeme	birasdutkan	4	0	1	0
 miljøforskning	byjresendotkeme	birasdutkan	4	0	1	0
 
-områdeforvaltning	dajvenreereme	guovlluhálddašeapmi	1	0	1	0
++områdeforvaltning	dajvenreereme	guovlluhálddašeapmi	1	0	1	0
 områdeforvaltning	dajvereerenasse	guovlluhálddašeapmi	1	0	1	0
 områdeforvaltning	dajvenreerenasse	guovlluhálddašeapmi	1	0	1	0
 
-tilskuddsforvaltning	dåarjoereereme	doarjjahálddašeapmi	65	3	12	6
++tilskuddsforvaltning	dåarjoereereme	doarjjahálddašeapmi	65	3	12	6
 tilskuddsforvaltning	dåarjoereerenasse	doarjjahálddašeapmi	65	0	12	0
 
-eiendomsforvaltning	eekenreereme	opmodathálddašeapmi	5	0	2	0
++eiendomsforvaltning	eekereereme	opmodathálddašeapmi	5	0	2	0
 eiendomsforvaltning	eekereerenasse	opmodathálddašeapmi	5	0	2	0
 eiendomsforvaltning	eekenreerenasse	opmodathálddašeapmi	5	0	2	0
 
@@ -147,7 +147,7 @@ fritidskjøring	eejehtallemevuejeme	astoáiggevuodjin	3	0	1	0
 fritidskjøring	eejehtimmienvuejeme	astoáiggevuodjin	3	0	1	0
 fritidskjøring	eejehtallemenvuejeme	astoáiggevuodjin	3	0	1	0
 
-bergindustri	baektieindustrije	bákteindustriija	3	0	2	0
++bergindustri	baektieindustrije	bákteindustriija	3	0	2	0
 bergindustri	bïerjeindustrije	bákteindustriija	3	0	2	0
 bergindustri	baektienindustrije	bákteindustriija	3	0	2	0
 
@@ -178,7 +178,7 @@ forskningsnettverk	dotkemeviermie	dutkanfierpmádat	3	0	2	0
 forskningsnettverk	dotkemenviermie	dutkanfierpmádat	3	0	2	0
 
 matfisk	deerpegeguelie	borranguolli/borramušguolli	5	0	2	0
-matfisk	beapmoeguelie	borranguolli/borramušguolli	5	0	2	0
++matfisk	beapmoeguelie	borranguolli/borramušguolli	5	0	2	0
 matfisk	beapmoenguelie	borranguolli/borramušguolli	5	0	2	0
 
 tilskuddbruk	dåarjoevuekie	doarjjageavaheapmi	1	0	1	0
@@ -197,7 +197,7 @@ drøftingsdel	digkiedimmiegietjie	ságaškuššanoassi	1	0	1	0
 drøftingsdel	digkiedimmiengietjie	ságaškuššanoassi	1	0	1	0
 
 områdeprotokoll	dajvebuertiegærja	guovlluprotokolla	9	0	2	0
-områdeprotokoll	dajvenprotokolle	guovlluprotokolla	9	0	2	0
++områdeprotokoll	dajvenprotokolle	guovlluprotokolla	9	0	2	0
 
 sidemål	baahkoeulmie	oalgegiella/siidogiella	12	0	2	0
 sidemål	bielienulmie	oalgegiella/siidogiella	12	0	2	0
@@ -222,13 +222,13 @@ forskningsverden	dotkemevearelde	dutkanmáilbmi/dutkiidmáilbmi	3	0	1	0
 forskningsverden	dotkemenvearelde	dutkanmáilbmi/dutkiidmáilbmi	3	0	1	0
 forskningsverden	dotkemeeatneme	dutkanmáilbmi/dutkiidmáilbmi	3	0	1	0
 forskningsverden	dotkemeneatneme	dutkanmáilbmi/dutkiidmáilbmi	3	0	1	0
-forskningsverden	dotkemeveartene	dutkanmáilbmi/dutkiidmáilbmi	3	0	1	0
++forskningsverden	dotkemeveartene	dutkanmáilbmi/dutkiidmáilbmi	3	0	1	0
 forskningsverden	dotkemenveartene	dutkanmáilbmi/dutkiidmáilbmi	3	0	1	0
 
 grunnvann	eabnoetjaetsie	bodnečáhci/vuođđočáhci/eanančáhci	3	0	1	0
 grunnvann	eabnoentjaetsie	bodnečáhci/vuođđočáhci/eanančáhci	3	0	1	0
 
-forskningstradisjon	dotkemevuekie	dutkanárbevierru	1	0	2	0
++forskningstradisjon	dotkemevuekie	dutkanárbevierru	1	0	2	0
 forskningstradisjon	dotkemenvuekie	dutkanárbevierru	1	0	2	0
 forskningstradisjon	dotkemetradisjovne	dutkanárbevierru	1	0	2	0
 forskningstradisjon	dotkementradisjovne	dutkanárbevierru	1	0	2	0
