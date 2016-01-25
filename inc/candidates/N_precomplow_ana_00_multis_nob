@@ -116,11 +116,11 @@ fritidsbolig	eejehtallemegåetie	astoáiggeviessu/astoáiggevisti	10	0	1	1
 miljøvernavdeling	byjresegoevte	birasgáhttenossodat	8	0	17	0
 miljøvernavdeling	byjresengoevte	birasgáhttenossodat	8	0	17	0
 
-grunnforskning	eabnoedotkeme	vuođđodutkan	5	0	2	0
++grunnforskning	maadth-dotkeme	vuođđodutkan	5	0	2	0
 grunnforskning	eabnoendotkeme	vuođđodutkan	5	0	2	0
 
 samfunnsforskning	ektievuekiedotkeme	servodatdutkan	7	0	4	0
-samfunnsforskning	ektievoetedotkeme	servodatdutkan	7	0	4	0
++samfunnsforskning	ektievoetedotkeme	servodatdutkan	7	0	4	0
 samfunnsforskning	ektievoetendotkeme	servodatdutkan	7	0	4	0
 
 lokalsamfunnsforskning	dajveektievoetedotkeme	báikegoddedutkan	1	0	1	0
@@ -143,7 +143,7 @@ eiendomsforvaltning	eekereerenasse	opmodathálddašeapmi	5	0	2	0
 eiendomsforvaltning	eekenreerenasse	opmodathálddašeapmi	5	0	2	0
 
 fritidskjøring	eejehtimmievuejeme	astoáiggevuodjin	3	0	1	0
-fritidskjøring	eejehtallemevuejeme	astoáiggevuodjin	3	0	1	0
++fritidskjøring	eejehtallemevuejeme	astoáiggevuodjin	3	0	1	0
 fritidskjøring	eejehtimmienvuejeme	astoáiggevuodjin	3	0	1	0
 fritidskjøring	eejehtallemenvuejeme	astoáiggevuodjin	3	0	1	0
 
@@ -172,28 +172,28 @@ bergverk	baektienvaerhkie	báktedoaibma	20	0	6	0
 
 samarbeidsnettverk	ektieviermie	ovttasbargofierpmádat	3	0	2	0
 samarbeidsnettverk	ektiebarkoeviermie	ovttasbargofierpmádat	3	0	2	0
-samarbeidsnettverk	ektiebarkoenviermie	ovttasbargofierpmádat	3	0	2	0
++samarbeidsnettverk	ektiebarkoenviermie	ovttasbargofierpmádat	3	0	2	0
 
 forskningsnettverk	dotkemeviermie	dutkanfierpmádat	3	0	2	0
-forskningsnettverk	dotkemenviermie	dutkanfierpmádat	3	0	2	0
++forskningsnettverk	dotkemenviermie	dutkanfierpmádat	3	0	2	0
 
 matfisk	deerpegeguelie	borranguolli/borramušguolli	5	0	2	0
 +matfisk	beapmoeguelie	borranguolli/borramušguolli	5	0	2	0
 matfisk	beapmoenguelie	borranguolli/borramušguolli	5	0	2	0
 
 tilskuddbruk	dåarjoevuekie	doarjjageavaheapmi	1	0	1	0
-tilskuddbruk	dåarjoepråvhkoe	doarjjageavaheapmi	1	0	1	0
++tilskuddbruk	dåarjoepråvhkoe	doarjjageavaheapmi	1	0	1	0
 tilskuddbruk	dåarjoeåtnoe	doarjjageavaheapmi	1	0	1	0
 
 handlingsdel	darjomegietjie	doaibmaoassi	5	0	2	0
 handlingsdel	darjomengietjie	doaibmaoassi	5	0	2	0
 
-innledningsdel	aalkoegietjie	álggahusoassi	1	0	1	0
++innledningsdel	aalkoebielie	álggahusoassi	1	0	1	0
 innledningsdel	aalkovegietjie	álggahusoassi	1	0	1	0
 innledningsdel	aalkoengietjie	álggahusoassi	1	0	1	0
 innledningsdel	aalkovengietjie	álggahusoassi	1	0	1	0
 
-drøftingsdel	digkiedimmiegietjie	ságaškuššanoassi	1	0	1	0
++drøftingsdel	digkiedimmiebielie	ságaškuššanoassi	1	0	1	0
 drøftingsdel	digkiedimmiengietjie	ságaškuššanoassi	1	0	1	0
 
 områdeprotokoll	dajvebuertiegærja	guovlluprotokolla	9	0	2	0
@@ -204,12 +204,12 @@ sidemål	bielienulmie	oalgegiella/siidogiella	12	0	2	0
 sidemål	baahkoenulmie	oalgegiella/siidogiella	12	0	2	0
 
 delmål	biehkieulmie	oasseulbmil/oassejuksanmearri/oassemihttomearri	52	0	6	0
-delmål	åesieulmie	oasseulbmil/oassejuksanmearri/oassemihttomearri	52	1	6	0
++delmål	åesieulmie	oasseulbmil/oassejuksanmearri/oassemihttomearri	52	1	6	0
 delmål	boelhkeulmie	oasseulbmil/oassejuksanmearri/oassemihttomearri	52	0	6	0
 delmål	biehkienulmie	oasseulbmil/oassejuksanmearri/oassemihttomearri	52	0	6	0
 delmål	boelhkenulmie	oasseulbmil/oassejuksanmearri/oassemihttomearri	52	0	6	0
 
-handlingsprogram	darjomeprogramme	doaibmaprográmma	32	0	21	0
++handlingsprogram	darjomeprogramme	doaibmaprográmma	32	0	21	0
 handlingsprogram	darjomenprogramme	doaibmaprográmma	32	0	21	0
 
 skinnsøm	dueljiesaejmie	náhkkegoarrun	2	0	1	0
@@ -268,10 +268,10 @@ ordfører	baakoenvuejeme	ságadoalli/sátnejođiheaddji/ságajođiheaddji	87	0	1
 mottaksstruktur	barkoesijjiestruktuvre	vuostáiváldinstruktuvra	1	0	1	0
 mottaksstruktur	barkoesijjienstruktuvre	vuostáiváldinstruktuvra	1	0	1	0
 
-kretsstruktur	dajvestruktuvre	biirehámádat	1	0	1	0
++kretsstruktur	dajvestruktuvre	biirehámádat	1	0	1	0
 kretsstruktur	dajvenstruktuvre	biirehámádat	1	0	1	0
 
-formiddagsmat	aeredsbiejjiebeapmoe	ovdalgaskabeaiborramuš	1	0	1	0
++formiddagsmat	aeredsbiejjiebeapmoe	ovdalgaskabeaiborramuš	1	0	1	0
 formiddagsmat	aeredsbiejjienbeapmoe	ovdalgaskabeaiborramuš	1	0	1	0
 
 arbeidsnotat	barkoetjaeleme	bargonotáhta	2	0	1	0
@@ -337,19 +337,19 @@ matrett	beapmoenreakta	borramušárbevierru	2	0	2	0
 arbeidsmiljøinstitutt	barkoebyjreseinstituhte	bargobirasinstituhtta	2	0	1	0
 arbeidsmiljøinstitutt	barkoebyjreseninstituhte	bargobirasinstituhtta	2	0	1	0
 
-forskningsbehov	dotkemedaerpiesvoete	dutkandárbu	4	0	2	0
++forskningsbehov	dotkemedaerpiesvoete	dutkandárbu	4	0	2	0
 forskningsbehov	dotkemendaerpiesvoete	dutkandárbu	4	0	2	0
 
 forskningsfartøy	dotkemeskïhpe	dutkanskiipa/dutkanfanas	4	0	1	0
 forskningsfartøy	dotkemevïnhtse	dutkanskiipa/dutkanfanas	4	0	1	0
 
-prisnivå	baalhkadaltese	haddedássi	9	1	2	0
++prisnivå	åasadaltese	haddedássi	9	1	2	0
 prisnivå	baalhkandaltese	haddedássi	9	0	2	0
 
 kretsnivå	dajvedaltese	biiredássi	2	0	1	0
 kretsnivå	dajvendaltese	biiredássi	2	0	1	0
 
-aktivitetsnivå	darjomedaltese	aktivitehtadássi/doaibmadássi/doaibmandássi	10	0	2	0
++aktivitetsnivå	darjomedaltese	aktivitehtadássi/doaibmadássi/doaibmandássi	10	0	2	0
 aktivitetsnivå	darjomendaltese	aktivitehtadássi/doaibmadássi/doaibmandássi	10	0	2	0
 
 brukermiljø	burriebyjrese	geavaheaddjibiras	0	0	0	0
