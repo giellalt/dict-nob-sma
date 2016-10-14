@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <!-- Contains technical, language independent info used by Risten2 -->
 <dictmeta>
 
@@ -23,8 +22,7 @@
   <!-- Short, free description -->
   <description xml:lang="no">
     <p>Ordboka byggjer på ordlistematerialet utarbeida av Albert Jåma og Tove
-    Brustad som finst på <a href="http://www.ruovatsijte.no/">Hemnes Samiske
-    Forening</a> sine nettsider. I tillegg er dei vanlegaste orda frå sørsamiske
+    Brustad som finst på  sine nettsider. I tillegg er dei vanlegaste orda frå sørsamiske
     tekstar lagt til, og om lag 1250 sørsamiske stadnamn er henta frå Statens
     Kartverk og det svenske Sametingets internettsider. Alle verba i Verbh! er
     lagt inn, med svensk omsetjing. I alt inneheld ordboka omtrent 8750 norske
