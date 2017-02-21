@@ -35529,6 +35529,66 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
+         <l pos="N">akkalasamisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N" soggi="e" stem="2syll">akkalasaemiengïele</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kildinsamisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N" soggi="e" stem="2syll">kildijnesaemiengïele</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">tersamisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N" soggi="e" stem="2syll">tersaemiengïele</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">skriftspråk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N" soggi="e" stem="2syll">tjaelemgïele</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">enaresamisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N" soggi="e" stem="2syll">enaresaemiengïele</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">skoltesamisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N" soggi="e" stem="2syll">luvliesaemiengïele</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="N">sørlig vær</l>
       </lg>
       <mg>
