@@ -351,7 +351,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="V">annerkjenne</l>
+         <l pos="V">anerkjenne</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -9044,21 +9044,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="V">vitje</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <re>om fiskegarn</re>
-            <t class="IV" pos="V" stem="2syll" umlaut="full" vow="x">doeredh</t>
-            <xg>
-               <x>trekke opp fiskegarn</x>
-               <xt>viermieh doeredh</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">trekke ut tiden</l>
       </lg>
       <mg>
@@ -12612,7 +12597,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="V">forvinne</l>
+         <l pos="V">forsvinne</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -13253,16 +13238,6 @@ For the full license text, see the link above.</lic>
    <e>
       <lg>
          <l pos="V">reise seg på to for å slå hastig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V" stem="3syll">gahpestidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">uventa</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -20092,7 +20067,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="V">pina</l>
+         <l pos="V">pine</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -20102,7 +20077,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="V">plåga</l>
+         <l pos="V">plage</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -42816,7 +42791,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="V">svälla</l>
+         <l pos="V">svelle</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -43469,7 +43444,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="V">rotne</l>
+         <l pos="V">råtne</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -47418,16 +47393,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t class="IV" pos="V" umlaut="D">sjolledh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">ske</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="IV" pos="V" umlaut="D">sjugniehtoevedh</t>
          </tg>
       </mg>
    </e>
