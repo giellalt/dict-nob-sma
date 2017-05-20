@@ -29,11 +29,11 @@ For the full license text, see the link above.</lic>
    </lics>
    <e>
       <lg>
-         <l pos="cs">innen</l>
+         <l pos="CS">innen</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="cs">eannan</t>
+            <t pos="CS">eannan</t>
             <xg>
                <x>Det er best å drikke vann før man blir veldig tørst.</x>
                <xt>Bööremes tjaetsiem jovkedh eannan eevre gojhkelåvva.</xt>
@@ -43,11 +43,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="cs">før</l>
+         <l pos="CS">før</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="cs">eannan</t>
+            <t pos="CS">eannan</t>
             <xg>
                <x>Det er best å drikke vann før man blir veldig tørst.</x>
                <xt>Bööremes tjaetsiem jovkedh eannan eevre gojhkelåvva.</xt>
@@ -57,11 +57,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="cs">når</l>
+         <l pos="CS">når</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="cs">gosse</t>
+            <t pos="CS">gosse</t>
             <xg>
                <x>Når man skal kløyve ved, er en kvass øks nødvendig.</x>
                <xt>Gosse moerh låadtodh, dellie besteles aaksjoem daerpies utnedh.</xt>
@@ -71,11 +71,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="cs">da</l>
+         <l pos="CS">da</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="cs">goh</t>
+            <t pos="CS">goh</t>
             <xg>
                <x>Da bestemor var ung, bodde hun i en torvgamme. Jeg er ikke like gammel som deg. Du må vaske hendene før du spiser.</x>
                <xt>Goh aahka noere lij, dellie derhviegåetesne årroeji. Im leah manne seamma båeries goh datne. Tjoeverh gïetide bïssedh aarebi goh byöpmedh.</xt>
@@ -85,11 +85,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="cs">den gangen da</l>
+         <l pos="CS">den gangen da</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="cs">goh</t>
+            <t pos="CS">goh</t>
             <xg>
                <x>Da bestemor var ung, bodde hun i en torvgamme. Jeg er ikke like gammel som deg. Du må vaske hendene før du spiser.</x>
                <xt>Goh aahka noere lij, dellie derhviegåetesne årroeji. Im leah manne seamma båeries goh datne. Tjoeverh gïetide bïssedh aarebi goh byöpmedh.</xt>
@@ -99,11 +99,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="cs">som om</l>
+         <l pos="CS">som om</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="cs">goh</t>
+            <t pos="CS">goh</t>
             <xg>
                <x>Hun går på ski som en gal.</x>
                <xt>Tjuajka goh gaajege.</xt>
@@ -113,11 +113,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="cs">at</l>
+         <l pos="CS">at</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="cs">ahte</t>
+            <t pos="CS">ahte</t>
             <xg>
                <x>Så er det slik at man må diskutere med dem.</x>
                <xt>Die lea naemhtie ahte tjuara digkiedidh dejgujmie.</xt>
@@ -126,7 +126,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="cs">ihke</t>
+            <t pos="CS">ihke</t>
             <xg>
                <x>Fortell at bestemor nettopp har dratt til sykehuset. Takk for at dere hørte på meg og til lykke med seminaret!</x>
                <xt>Saarnoeh, ihke aahka ieskien skïemtjegåatan vualkeme. Gæjhtoe ihke mannem goltelidh jïh læhkoe seminaarine!</xt>
@@ -136,16 +136,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="cs">fordi</l>
+         <l pos="CS">fordi</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="cs">ahte</t>
+            <t pos="CS">ahte</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="cs">ihke</t>
+            <t pos="CS">ihke</t>
             <xg>
                <x>Han bare måtte gjøre det slik, fordi det var nødvendig.</x>
                <xt>Tjoeri hov barre nimhtie darjodh, ihke daerpies lij.</xt>
@@ -154,12 +154,12 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="cs">jihkie</t>
+            <t pos="CS">jihkie</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="cs">juhkoe</t>
+            <t pos="CS">juhkoe</t>
             <xg>
                <x>Mor skryter av far fordi han finner råd.</x>
                <xt>Tjidtjie aehtjiem girmie juhkoe raeriem gaavna.</xt>
@@ -168,7 +168,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="cs">juktie</t>
+            <t pos="CS">juktie</t>
             <xg>
                <x>Kle på deg skikkelig fordi det er kaldt ute!</x>
                <xt>Gåårvedh eensilaakan juktie tjåetskeme ålkene!</xt>
@@ -178,21 +178,21 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="cs">for</l>
+         <l pos="CS">for</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="cs">ahte</t>
+            <t pos="CS">ahte</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="cs">selv om</l>
+         <l pos="CS">selv om</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="cs">ihkie</t>
+            <t pos="CS">ihkie</t>
             <xg>
                <x>selv om jeg ikke ser det De klarte ikke å forklare barna sine det, skjønt de gjerne ville.</x>
                <xt>ihkie im vuejnieh Idtjin buektehth sijjen maanide dam boejhkelidh, ihkie maaje sïjhtin.</xt>
@@ -201,7 +201,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="cs">jalhts</t>
+            <t pos="CS">jalhts</t>
             <xg>
                <x>Hodet verker selv om jeg har sovet godt.</x>
                <xt>Åejjieh saejriedieh jalhts manne njaelkieslaakan åareme.</xt>
@@ -210,7 +210,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="cs">jalts</t>
+            <t pos="CS">jalts</t>
             <xg>
                <x>Nå skal du få se om du får det til, selv om jeg tror at du ikke får det bedre til enn broren
                din.</x>
@@ -221,7 +221,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="cs">jïlhts</t>
+            <t pos="CS">jïlhts</t>
             <xg>
                <x>Nå skal du få se om om du får det til, selv om jeg tror at du ikke får det bedre til enn broren
                din.</x>
@@ -233,11 +233,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="cs">skjønt</l>
+         <l pos="CS">skjønt</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="cs">ihkie</t>
+            <t pos="CS">ihkie</t>
             <xg>
                <x>selv om jeg ikke ser det De klarte ikke å forklare barna sine det, skjønt de gjerne ville.</x>
                <xt>ihkie im vuejnieh Idtjin buektehth sijjen maanide dam boejhkelidh, ihkie maaje sïjhtin.</xt>
@@ -247,11 +247,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="cs">om enn</l>
+         <l pos="CS">om enn</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="cs">ihkie</t>
+            <t pos="CS">ihkie</t>
             <xg>
                <x>selv om jeg ikke ser det De klarte ikke å forklare barna sine det, skjønt de gjerne ville.</x>
                <xt>ihkie im vuejnieh Idtjin buektehth sijjen maanide dam boejhkelidh, ihkie maaje sïjhtin.</xt>
@@ -261,11 +261,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="cs">slik at</l>
+         <l pos="CS">slik at</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="cs">juktie</t>
+            <t pos="CS">juktie</t>
             <xg>
                <x>Best å hvile seg slik at man blir opplagt til arbeidet.</x>
                <xt>Bööremes lïegkedidh juktie barkose madtjeles sjïdtedh.</xt>
@@ -275,11 +275,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="cs">mens</l>
+         <l pos="CS">mens</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="cs">mearan</t>
+            <t pos="CS">mearan</t>
             <xg>
                <x>Jeg skriver mens kjøttgryta koker.</x>
                <xt>Manne tjaalam mearan bearkoekrovhte dualta.</xt>
@@ -289,11 +289,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="cs">hvis</l>
+         <l pos="CS">hvis</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="cs">dastegh</t>
+            <t pos="CS">dastegh</t>
             <xg>
                <x>Regntøy er nødvendig i tilfelle det begynner å regne.</x>
                <xt>Ebrievaarjoeh daerpies dastegh obreje.</xt>
@@ -302,7 +302,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="cs">jis</t>
+            <t pos="CS">jis</t>
             <xg>
                <x>Jeg vil plukke bær hvis du også gjør det.</x>
                <xt>Sïjhtem muerjieh tjöönghkedh, jis datne aaj tjöönghkh.</xt>
@@ -312,11 +312,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="cs">i tilfelle</l>
+         <l pos="CS">i tilfelle</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="cs">dastegh</t>
+            <t pos="CS">dastegh</t>
             <xg>
                <x>Regntøy er nødvendig i tilfelle det begynner å regne.</x>
                <xt>Ebrievaarjoeh daerpies dastegh obreje.</xt>
@@ -326,51 +326,51 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="cs">heller ikke</l>
+         <l pos="CS">heller ikke</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="cs">vaallah</t>
+            <t pos="CS">vaallah</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="cs">jo</l>
+         <l pos="CS">jo</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="cs">bene</t>
+            <t pos="CS">bene</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="cs">vel</l>
+         <l pos="CS">vel</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="cs">bene</t>
+            <t pos="CS">bene</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="cs">kanskje</l>
+         <l pos="CS">kanskje</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="cs">bene</t>
+            <t pos="CS">bene</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="cs">aller helst</l>
+         <l pos="CS">aller helst</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="cs">eeremes</t>
+            <t pos="CS">eeremes</t>
             <xg>
                <x>Aller helst vil jeg takke...</x>
                <xt>Eeremes sïjhtem gijhtedh...</xt>
@@ -380,11 +380,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="cs">enn</l>
+         <l pos="CS">enn</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="cs">enn</t>
+            <t pos="CS">enn</t>
             <xg>
                <x>Jeg hadde trivdes bedre der enn her nede i denne kråa.</x>
                <xt>Manne lim debpene buerebe murriedamme enn vuelnie daennie kråavesne.</xt>
@@ -394,11 +394,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="cs">om</l>
+         <l pos="CS">om</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="cs">jis</t>
+            <t pos="CS">jis</t>
             <xg>
                <x>Jeg vil plukke bær hvis du også gjør det.</x>
                <xt>Sïjhtem muerjieh tjöönghkedh, jis datne aaj tjöönghkh.</xt>
