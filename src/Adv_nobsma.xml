@@ -444,7 +444,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="pcle">jis</t>
+            <t pos="Pcle">jis</t>
             <xg>
                <x>Hun har i sin tur blitt til stor hjelp for mange.</x>
                <xt>Dïhte jis dle jïjnjesidie stoerre viehkine sjïdteme.</xt>
@@ -708,7 +708,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="pcle">badth</t>
+            <t pos="Pcle">badth</t>
             <xg>
                <x>Slik tenker de, ja. I smug da vel. A nei, da!</x>
                <xt>Nimhtie badth dah ussjedieh. Suelien badth. Aellieh badth!</xt>
@@ -1585,7 +1585,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="pcle">mihk</t>
+            <t pos="Pcle">mihk</t>
             <xg>
                <x>Kanskje du nå gjør det.</x>
                <xt>Datne mihk dam darjoeh.</xt>
@@ -1805,7 +1805,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="pcle">raakte</t>
+            <t pos="Pcle">raakte</t>
             <xg>
                <x>Jeg falt jo nesten.</x>
                <xt>Manne hov raakte gahtjim.</xt>
@@ -2062,7 +2062,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="pcle">hov</t>
+            <t pos="Pcle">hov</t>
             <xg>
                <x>Det var bra! Det er ruskevær med sludd, men så er det jo høst. Nei, Sagka er jo den yngste av oss.</x>
                <xt>Hijven hov! Sliehtieelmie, mohte tjaktje hov lea. Ijje, Sagka hov dïhte nööremes mijjeste.</xt>
@@ -2071,7 +2071,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="pcle">jam</t>
+            <t pos="Pcle">jam</t>
             <xg>
                <x>Og hvem skal da passe kyrne?</x>
                <xt>Gie jam galka govside geehtedh?</xt>
@@ -2080,7 +2080,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="pcle">darhkan</t>
+            <t pos="Pcle">darhkan</t>
             <xg>
                <x>Hvordan da?</x>
                <xt>Guktie darhkan?</xt>
@@ -2089,7 +2089,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="pcle">badth</t>
+            <t pos="Pcle">badth</t>
             <xg>
                <x>Slik tenker de, ja. I smug da vel. A nei, da!</x>
                <xt>Nimhtie badth dah ussjedieh. Suelien badth. Aellieh badth!</xt>
@@ -2132,7 +2132,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="pcle">dan</t>
+            <t pos="Pcle">dan</t>
             <xg>
                <x>For meg er det så dårlig å bo alene.</x>
                <xt>Munnjien dan nåake oktegh årrodh.</xt>
@@ -2141,7 +2141,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="pcle">darhke</t>
+            <t pos="Pcle">darhke</t>
             <xg>
                <x>Hvem leser egentlig du for? Hvordan gjør du så det? Hvordan gjør så dere det? / Hva gjør så dere? Hvordan så ... ?</x>
                <xt>Gïese darhke datne jis lohkh? Guktie darhke darjoeh? Guktie darhke dijjieh darjoejidie? Guktie darhke ... ?</xt>
@@ -2596,7 +2596,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="pcle">ov</t>
+            <t pos="Pcle">ov</t>
             <xg>
                <x>Å så fin!</x>
                <xt>Ov man tjaebpies!</xt>
@@ -2849,12 +2849,12 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="i">gaath</t>
+            <t pos="Interj">gaath</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="i">ovgaath</t>
+            <t pos="Interj">ovgaath</t>
             <xg>
                <x>Uff, det barnet!</x>
                <xt>Ovgaath maana!</xt>
@@ -2935,7 +2935,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="pcle">gujht</t>
+            <t pos="Pcle">gujht</t>
             <xg>
                <x>jo visst Brita kom iallfall.</x>
                <xt>nov gujht Brita gujht bööti.</xt>
@@ -3460,7 +3460,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="pcle">hogkh</t>
+            <t pos="Pcle">hogkh</t>
             <xg>
                <x>Heldigvis kom han til hjelp. Det var godt at du ikke var redd.</x>
                <xt>Veajkoej hogkh dïhte bööti viehkine. Joe hogkh idtjih bïllh.</xt>
@@ -3493,7 +3493,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re>ved subjekt 1.p. entall</re>
-            <t pos="pcle">mån</t>
+            <t pos="Pcle">mån</t>
             <xg>
                <x>I morgen kommer jeg vel.</x>
                <xt>Jirreden mån båatam.</xt>
@@ -3503,7 +3503,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re>ved subjekt 2.p. entall</re>
-            <t pos="pcle">dån</t>
+            <t pos="Pcle">dån</t>
             <xg>
                <x>Du vet vel. Kjære julenisse. Du glemmer vel ikke mine barn?</x>
                <xt>Datne dån daajrah. Gieries jåvle-aajja. Ih dån datne mov maanide åajaldehtieh?</xt>
@@ -3513,7 +3513,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re>ved subjekt 3.p. entall</re>
-            <t pos="pcle">sån</t>
+            <t pos="Pcle">sån</t>
             <xg>
                <x>Piere vet vel.</x>
                <xt>Piere sån daajra.</xt>
@@ -3523,7 +3523,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re>ved subjekt 1.p. totall</re>
-            <t pos="pcle">min</t>
+            <t pos="Pcle">min</t>
             <xg>
                <x>Vi to kommer vel i morgen.</x>
                <xt>Jirreden min båetien.</xt>
@@ -3533,7 +3533,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re>ved subjekt 2.p. totall</re>
-            <t pos="pcle">din</t>
+            <t pos="Pcle">din</t>
             <xg>
                <x>Dere to kommer vel også?</x>
                <xt>Dåtnoeh din aaj båeteden?</xt>
@@ -3543,7 +3543,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re>ved subjekt 3.p. totall</re>
-            <t pos="pcle">sin</t>
+            <t pos="Pcle">sin</t>
             <xg>
                <x>De to var vel også der.</x>
                <xt>Dah guaktah sin aaj desnie.</xt>
@@ -3553,7 +3553,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re>ved subjekt 1.p. flertall</re>
-            <t pos="pcle">mih</t>
+            <t pos="Pcle">mih</t>
             <xg>
                <x>Også vi kan vel lære noe av dem.</x>
                <xt>Mijjieh mih aaj maehtebe maam akt dejstie lïeredh.</xt>
@@ -3563,7 +3563,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re>ved subjekt 2.p. flertall</re>
-            <t pos="pcle">dih</t>
+            <t pos="Pcle">dih</t>
             <xg>
                <x>Dere får vel også høre hvordan det blir.</x>
                <xt>Dijjieh dih aaj åadtjoejidie govledh guktie sjædta.</xt>
@@ -3573,7 +3573,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re>ved subjekt 3.p. flertall</re>
-            <t pos="pcle">sih</t>
+            <t pos="Pcle">sih</t>
             <xg>
                <x>De sa at nå kommer vel de også.</x>
                <xt>Jeehtin, nov sih sijjieh aaj båetieh.</xt>
@@ -3582,7 +3582,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="pcle">hogkh</t>
+            <t pos="Pcle">hogkh</t>
             <xg>
                <x>Heldigvis kom han til hjelp. Det var godt at du ikke var redd.</x>
                <xt>Veajkoej hogkh dïhte bööti viehkine. Joe hogkh idtjih bïllh.</xt>
@@ -3959,7 +3959,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="pcle">vuj</t>
+            <t pos="Pcle">vuj</t>
             <xg>
                <x>Kanskje du blir igjen hjemme?</x>
                <xt>Vuj datne gåatan baatsah?</xt>
@@ -4035,7 +4035,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="pcle">darhkan</t>
+            <t pos="Pcle">darhkan</t>
             <xg>
                <x>Hvordan da?</x>
                <xt>Guktie darhkan?</xt>
@@ -4527,7 +4527,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="pcle">hov</t>
+            <t pos="Pcle">hov</t>
             <xg>
                <x>Det var bra! Det er ruskevær med sludd, men så er det jo høst. Nei, Sagka er jo den yngste av oss.</x>
                <xt>Hijven hov! Sliehtieelmie, mohte tjaktje hov lea. Ijje, Sagka hov dïhte nööremes mijjeste.</xt>
@@ -4536,7 +4536,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="pcle">van</t>
+            <t pos="Pcle">van</t>
          </tg>
       </mg>
    </e>
@@ -4561,7 +4561,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="pcle">maa</t>
+            <t pos="Pcle">maa</t>
             <xg>
                <x>Da ble det sannelig bra.</x>
                <xt>Dellie maa hijven sjïdti.</xt>
@@ -4589,7 +4589,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="pcle">nagkh</t>
+            <t pos="Pcle">nagkh</t>
             <xg>
                <x>I vårt språk er det nok slike ord.</x>
                <xt>Mijjen gïelesne nagkh dagkerh baakoeh.</xt>
@@ -4598,7 +4598,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="pcle">badth</t>
+            <t pos="Pcle">badth</t>
             <xg>
                <x>Slik tenker de, ja. I smug da vel. A nei, da!</x>
                <xt>Nimhtie badth dah ussjedieh. Suelien badth. Aellieh badth!</xt>
@@ -4607,7 +4607,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="pcle">gujht</t>
+            <t pos="Pcle">gujht</t>
             <xg>
                <x>jo visst Brita kom iallfall.</x>
                <xt>nov gujht Brita gujht bööti.</xt>
@@ -6829,7 +6829,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="pcle">mihk</t>
+            <t pos="Pcle">mihk</t>
             <xg>
                <x>Så drar han da endelig.</x>
                <xt>Dellie mihk vualka.</xt>
@@ -6978,17 +6978,17 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="i">novh amma</t>
+            <t pos="Interj">novh amma</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="pcle">nagke</t>
+            <t pos="Pcle">nagke</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="pcle">nagkh</t>
+            <t pos="Pcle">nagkh</t>
             <xg>
                <x>I vårt språk er det nok slike ord.</x>
                <xt>Mijjen gïelesne nagkh dagkerh baakoeh.</xt>
@@ -6997,7 +6997,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="pcle">badth</t>
+            <t pos="Pcle">badth</t>
             <xg>
                <x>Slik tenker de, ja. I smug da vel. A nei, da!</x>
                <xt>Nimhtie badth dah ussjedieh. Suelien badth. Aellieh badth!</xt>
@@ -7006,7 +7006,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="pcle">amma</t>
+            <t pos="Pcle">amma</t>
             <xg>
                <x>Ja, selvfølgelig! Hvem i all verden er hun? Hva i all verden er dette?</x>
                <xt>Jaa nov amma! Gie amma dïhte? Mij amma daate?</xt>
@@ -7020,12 +7020,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="i">novh amma</t>
+            <t pos="Interj">novh amma</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="pcle">maa</t>
+            <t pos="Pcle">maa</t>
             <xg>
                <x>Da ble det sannelig bra.</x>
                <xt>Dellie maa hijven sjïdti.</xt>
@@ -7039,12 +7039,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="i">novh hævvi</t>
+            <t pos="Interj">novh hævvi</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="pcle">hævvi</t>
+            <t pos="Pcle">hævvi</t>
             <xg>
                <x>ja selvfølgelig</x>
                <xt>jaa hævvi</xt>
@@ -7078,7 +7078,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="pcle">mejtie</t>
+            <t pos="Pcle">mejtie</t>
             <xg>
                <x>Er hun her mon tro?</x>
                <xt>Mejtie dïhte daesnie?</xt>
@@ -7087,7 +7087,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="pcle">mah</t>
+            <t pos="Pcle">mah</t>
             <xg>
                <x>Mon tro om det er varmt?</x>
                <xt>Mah bïjvele?</xt>
@@ -7101,7 +7101,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="pcle">hov</t>
+            <t pos="Pcle">hov</t>
             <xg>
                <x>Det var bra! Det er ruskevær med sludd, men så er det jo høst. Nei, Sagka er jo den yngste av oss.</x>
                <xt>Hijven hov! Sliehtieelmie, mohte tjaktje hov lea. Ijje, Sagka hov dïhte nööremes mijjeste.</xt>
@@ -7115,7 +7115,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="pcle">ov</t>
+            <t pos="Pcle">ov</t>
             <xg>
                <x>Å så fin!</x>
                <xt>Ov man tjaebpies!</xt>
@@ -7129,17 +7129,17 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="pcle">havkh</t>
+            <t pos="Pcle">havkh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="pcle">van</t>
+            <t pos="Pcle">van</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="pcle">darhkan</t>
+            <t pos="Pcle">darhkan</t>
             <xg>
                <x>Hvordan da?</x>
                <xt>Guktie darhkan?</xt>
@@ -7153,7 +7153,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="pcle">bist</t>
+            <t pos="Pcle">bist</t>
             <xg>
                <x>Hvordan var det nå igjen?</x>
                <xt>Guktie bist lij?</xt>
@@ -7167,7 +7167,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="pcle">jis</t>
+            <t pos="Pcle">jis</t>
             <xg>
                <x>Hun har i sin tur blitt til stor hjelp for mange.</x>
                <xt>Dïhte jis dle jïjnjesidie stoerre viehkine sjïdteme.</xt>
@@ -7181,7 +7181,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="pcle">dagke</t>
+            <t pos="Pcle">dagke</t>
             <xg>
                <x>Er det slik at han sjøl fulgte etter ut?</x>
                <xt>Dagke dïhte jïjtje olkese dåålve?</xt>
@@ -7195,7 +7195,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="pcle">dagke</t>
+            <t pos="Pcle">dagke</t>
             <xg>
                <x>Er det slik at han sjøl fulgte etter ut?</x>
                <xt>Dagke dïhte jïjtje olkese dåålve?</xt>
@@ -7204,7 +7204,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="pcle">nåå</t>
+            <t pos="Pcle">nåå</t>
          </tg>
       </mg>
    </e>
@@ -7214,7 +7214,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="pcle">raakte</t>
+            <t pos="Pcle">raakte</t>
          </tg>
       </mg>
    </e>
@@ -7224,7 +7224,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="pcle">hogkh</t>
+            <t pos="Pcle">hogkh</t>
             <xg>
                <x>Heldigvis kom han til hjelp. Det var godt at du ikke var redd.</x>
                <xt>Veajkoej hogkh dïhte bööti viehkine. Joe hogkh idtjih bïllh.</xt>
@@ -7238,7 +7238,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="pcle">nagke</t>
+            <t pos="Pcle">nagke</t>
          </tg>
       </mg>
    </e>
@@ -7248,7 +7248,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="pcle">darhkan</t>
+            <t pos="Pcle">darhkan</t>
             <xg>
                <x>Hvordan da?</x>
                <xt>Guktie darhkan?</xt>
@@ -7257,7 +7257,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="pcle">badth</t>
+            <t pos="Pcle">badth</t>
             <xg>
                <x>Slik tenker de, ja. I smug da vel. A nei, da!</x>
                <xt>Nimhtie badth dah ussjedieh. Suelien badth. Aellieh badth!</xt>
@@ -7271,7 +7271,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="pcle">darhke</t>
+            <t pos="Pcle">darhke</t>
             <xg>
                <x>Hvem leser egentlig du for? Hvordan gjør du så det? Hvordan gjør så dere det? / Hva gjør så dere? Hvordan så ... ?</x>
                <xt>Gïese darhke datne jis lohkh? Guktie darhke darjoeh? Guktie darhke dijjieh darjoejidie? Guktie darhke ... ?</xt>
@@ -7285,7 +7285,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="pcle">amma</t>
+            <t pos="Pcle">amma</t>
             <xg>
                <x>Ja, selvfølgelig! Hvem i all verden er hun? Hva i all verden er dette?</x>
                <xt>Jaa nov amma! Gie amma dïhte? Mij amma daate?</xt>
@@ -7300,7 +7300,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re>står til nektingsverbet og innebærer at det er flere andre ting som også blir negert</re>
-            <t pos="pcle">gænnah</t>
+            <t pos="Pcle">gænnah</t>
             <xg>
                <x>Du skal ikke snakke stygt om dyr engang.</x>
                <xt>Ih galkh juvren bïjre gænnah vestieslaakan soptsestidh.</xt>
@@ -7315,7 +7315,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re>står til nektingsverbet og innebærer at det er flere andre ting som også blir negert</re>
-            <t pos="pcle">gænnah</t>
+            <t pos="Pcle">gænnah</t>
             <xg>
                <x>Du skal ikke snakke stygt om dyr engang.</x>
                <xt>Ih galkh juvren bïjre gænnah vestieslaakan soptsestidh.</xt>
@@ -7329,7 +7329,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="pcle">gujht</t>
+            <t pos="Pcle">gujht</t>
             <xg>
                <x>jo visst Brita kom iallfall.</x>
                <xt>nov gujht Brita gujht bööti.</xt>

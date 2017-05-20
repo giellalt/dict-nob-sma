@@ -29,11 +29,11 @@ For the full license text, see the link above.</lic>
    </lics>
    <e>
       <lg>
-         <l pos="i">gid</l>
+         <l pos="Interj">gid</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="i">vaejtie</t>
+            <t pos="Interj">vaejtie</t>
             <xg>
                <x>Gid det ville være slik!</x>
                <xt>Vaejtie!</xt>
@@ -43,21 +43,21 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="i">skål</l>
+         <l pos="Interj">skål</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="i">båetieh bööresth</t>
+            <t pos="Interj">båetieh bööresth</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="i">å jøje meg</l>
+         <l pos="Interj">å jøje meg</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="i">jöödtedh</t>
+            <t pos="Interj">jöödtedh</t>
             <xg>
                <x>A jøje meg, det der var en flott bil!</x>
                <xt>Åå, jöödtedh, dohte tjaebpies bïjle!</xt>
@@ -67,12 +67,12 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="i">takk</l>
+         <l pos="Interj">takk</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re>om mat og drikke</re>
-            <t pos="i">gudtsien</t>
+            <t pos="Interj">gudtsien</t>
             <xg>
                <x>Takk for kaffen!</x>
                <xt>Gudtsien prïhtjegen åvteste!</xt>
@@ -82,61 +82,61 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="i">ja, det har du sannelig rett i</l>
+         <l pos="Interj">ja, det har du sannelig rett i</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="i">nåah</t>
+            <t pos="Interj">nåah</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="i">nei</l>
+         <l pos="Interj">nei</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="i">ijje</t>
+            <t pos="Interj">ijje</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="i">ja</l>
+         <l pos="Interj">ja</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="i">jaavoe</t>
+            <t pos="Interj">jaavoe</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="i">jaa</t>
+            <t pos="Interj">jaa</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="i">hva i all verden</l>
+         <l pos="Interj">hva i all verden</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="i">saarnoeh</t>
+            <t pos="Interj">saarnoeh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="i">uff, det var synd</l>
+         <l pos="Interj">uff, det var synd</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="i">gaath</t>
+            <t pos="Interj">gaath</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="i">ovgaath</t>
+            <t pos="Interj">ovgaath</t>
             <xg>
                <x>Uff, det barnet!</x>
                <xt>Ovgaath maana!</xt>
@@ -146,11 +146,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="i">nei og nei</l>
+         <l pos="Interj">nei og nei</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="i">jemmede</t>
+            <t pos="Interj">jemmede</t>
             <xg>
                <x>Å nei og nei!</x>
                <xt>Å jemmede!</xt>
@@ -160,151 +160,151 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="i">skitt au</l>
+         <l pos="Interj">skitt au</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="i">bajhke</t>
+            <t pos="Interj">bajhke</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="i">se der</l>
+         <l pos="Interj">se der</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="i">duelie vuajnah</t>
+            <t pos="Interj">duelie vuajnah</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="i">vær så god</l>
+         <l pos="Interj">vær så god</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="i">duelie vuajnah</t>
+            <t pos="Interj">duelie vuajnah</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="i">ja selvfølgelig</l>
+         <l pos="Interj">ja selvfølgelig</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="i">jaa hævvi</t>
+            <t pos="Interj">jaa hævvi</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="i">jaa nov maa</t>
+            <t pos="Interj">jaa nov maa</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="i">jo visst</l>
+         <l pos="Interj">jo visst</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="i">novh amma</t>
+            <t pos="Interj">novh amma</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="i">novh gujht</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="i">ja slik er det</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="i">novh lea</t>
+            <t pos="Interj">novh gujht</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="i">jo da</l>
+         <l pos="Interj">ja slik er det</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="i">novh maa</t>
+            <t pos="Interj">novh lea</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="i">ja riktignok</l>
+         <l pos="Interj">jo da</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="i">novh maa</t>
+            <t pos="Interj">novh maa</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="i">adjø</l>
+         <l pos="Interj">ja riktignok</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="i">nåå nåå</t>
+            <t pos="Interj">novh maa</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="i">adjø så lenge</l>
+         <l pos="Interj">adjø</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="i">nåå nåå dellie</t>
+            <t pos="Interj">nåå nåå</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="i">du store min</l>
+         <l pos="Interj">adjø så lenge</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="i">ov jösses</t>
+            <t pos="Interj">nåå nåå dellie</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="i">i alle dager</l>
+         <l pos="Interj">du store min</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="i">saarnoeh jeahtah</t>
+            <t pos="Interj">ov jösses</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="i">vær så god og gå inn</l>
+         <l pos="Interj">i alle dager</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="i">vuajnah tjaangh</t>
+            <t pos="Interj">saarnoeh jeahtah</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="i">hører du</l>
+         <l pos="Interj">vær så god og gå inn</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="pcle">golh</t>
+            <t pos="Interj">vuajnah tjaangh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Interj">hører du</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pcle">golh</t>
          </tg>
       </mg>
    </e>

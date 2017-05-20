@@ -265,7 +265,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re>ved subjekt 1.p. entall</re>
-            <t pos="pcle">mån</t>
+            <t pos="Pcle">mån</t>
             <xg>
                <x>I morgen kommer jeg vel.</x>
                <xt>Jirreden mån båatam.</xt>
@@ -275,7 +275,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re>ved subjekt 2.p. entall</re>
-            <t pos="pcle">dån</t>
+            <t pos="Pcle">dån</t>
             <xg>
                <x>Du vet vel. Kjære julenisse. Du glemmer vel ikke mine barn?</x>
                <xt>Datne dån daajrah. Gieries jåvle-aajja. Ih dån datne mov maanide åajaldehtieh?</xt>
@@ -285,7 +285,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re>ved subjekt 3.p. entall</re>
-            <t pos="pcle">sån</t>
+            <t pos="Pcle">sån</t>
             <xg>
                <x>Piere vet vel.</x>
                <xt>Piere sån daajra.</xt>
@@ -295,7 +295,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re>ved subjekt 1.p. totall</re>
-            <t pos="pcle">min</t>
+            <t pos="Pcle">min</t>
             <xg>
                <x>Vi to kommer vel i morgen.</x>
                <xt>Jirreden min båetien.</xt>
@@ -305,7 +305,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re>ved subjekt 2.p. totall</re>
-            <t pos="pcle">din</t>
+            <t pos="Pcle">din</t>
             <xg>
                <x>Dere to kommer vel også?</x>
                <xt>Dåtnoeh din aaj båeteden?</xt>
@@ -315,7 +315,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re>ved subjekt 3.p. totall</re>
-            <t pos="pcle">sin</t>
+            <t pos="Pcle">sin</t>
             <xg>
                <x>De to var vel også der.</x>
                <xt>Dah guaktah sin aaj desnie.</xt>
@@ -325,7 +325,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re>ved subjekt 1.p. flertall</re>
-            <t pos="pcle">mih</t>
+            <t pos="Pcle">mih</t>
             <xg>
                <x>Også vi kan vel lære noe av dem.</x>
                <xt>Mijjieh mih aaj maehtebe maam akt dejstie lïeredh.</xt>
@@ -335,7 +335,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re>ved subjekt 2.p. flertall</re>
-            <t pos="pcle">dih</t>
+            <t pos="Pcle">dih</t>
             <xg>
                <x>Dere får vel også høre hvordan det blir.</x>
                <xt>Dijjieh dih aaj åadtjoejidie govledh guktie sjædta.</xt>
@@ -345,7 +345,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re>ved subjekt 3.p. flertall</re>
-            <t pos="pcle">sih</t>
+            <t pos="Pcle">sih</t>
             <xg>
                <x>De sa at nå kommer vel de også.</x>
                <xt>Jeehtin, nov sih sijjieh aaj båetieh.</xt>
@@ -359,7 +359,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="pcle">mihk</t>
+            <t pos="Pcle">mihk</t>
             <xg>
                <x>Kanskje du nå gjør det.</x>
                <xt>Datne mihk dam darjoeh.</xt>
@@ -373,7 +373,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="pcle">goh</t>
+            <t pos="Pcle">goh</t>
             <xg>
                <x>Har ikke du hørt det?</x>
                <xt>Ih goh datne dam govleme?</xt>
@@ -387,7 +387,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="pcle">badth</t>
+            <t pos="Pcle">badth</t>
             <xg>
                <x>Slik tenker de, ja. I smug da vel. A nei, da!</x>
                <xt>Nimhtie badth dah ussjedieh. Suelien badth. Aellieh badth!</xt>
