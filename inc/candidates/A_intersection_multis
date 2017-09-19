@@ -1,4 +1,4 @@
-
++ på gode  --> ferdig
 sped	gaertjies	seaggi	5	38	14	0
 sped	siegkies	seaggi	5	29	14	0
 sped	giedtsies	seaggi	5	11	14	0
@@ -26,7 +26,7 @@ oppegående	vijsies	jierbmái	2	106	17	0
 oppegående	jearmijes	jierbmái	2	3	17	0
 oppegående	jïermijes	jierbmái	2	17	17	0
 oppegående	væjkeles	jierbmái	2	202	17	0
-oppegående	vihtehks	jierbmái	2	0	17	0
++oppegående	vihtehks	jierbmái	2	0	17	0
 
 ledig	tovme	bargguheapme/guorosnaga/guorus/rabas	60	2	132	0
 ledig	latjkes	bargguheapme/guorosnaga/guorus/rabas	60	19	132	0
@@ -156,8 +156,8 @@ legendarisk	daajroes	beakkálmas	2	102	23	0
 optimistisk	feejjene	optimisttalaš	6	10	6	0
 optimistisk	hååkene	movttet/optimisttalaš	6	0	52	0
 
-myk	mïevhke	linis/dimis	6	9	12	0
-myk	myövhke	linis	6	9	15	0
++myk	mïevhke	linis/dimis	6	9	12	0
++myk	myövhke	linis	6	9	15	0
 myk	möövhkes	linis/dimis	6	26	12	0
 myk	njoetjeles	linis/dimis	6	2	12	0
 
@@ -168,7 +168,7 @@ ydmyk	dåsmoes	njuoras	3	0	6	0
 ydmyk	hiejjehts	njuoras	3	8	6	0
 
 normal	siejhme	dábálaš/normála	66	91	520	0
-normal	sïejhme	normála	66	1026	5	1
++normal	sïejhme	normála	66	1026	5	1
 
 reell	aalvere	duođalaš/reála/duohta	195	8	305	0
 reell	saetnies	reála	195	47	7	1
@@ -180,8 +180,8 @@ finansiell	ekonomihkeles	ruđalaš	25	0	96	0
 finansiell	ræjhkoes	ruđalaš	25	94	96	0
 
 fæl	vååvnehke	fasti/suivat	3	0	23	0
-fæl	rupmies	fasti/suivat	3	2	23	0
-fæl	vesties	fasti/suivat	3	206	23	3
++fæl	rupmies	fasti/suivat	3	2	23	0
++fæl	vesties	fasti/suivat	3	206	23	3
 
 voldsom	raavtehtje	ilgat/garas/alvvus	8	0	205	0
 voldsom	tjamke	ilgat/garas/alvvus	8	40	205	0
@@ -195,26 +195,26 @@ enorm	ovnuvhtege	máŧoheapme	21	0	1	0
 enorm	isvelihks	máŧoheapme/áibmadas	21	32	3	0
 
 pen	tjaebpies	čáppat	27	646	184	4
-pen	faavroes	čáppat	27	36	184	0
++pen	faavroes	čáppat	27	36	184	0
 
 allmenn	siejhme	dábálaš	101	91	1035	0
-allmenn	sïejhme	dábálaš	101	1026	1035	64
++allmenn	sïejhme	dábálaš	101	1026	1035	64
 
 skarp	maehtehtje	vitmat/bastil	12	5	8	0
 skarp	tjiehpies	vitmat/bastil	12	302	8	0
 skarp	væjkeles	vitmat	12	202	3	0
-skarp	besteles	vitmat	12	55	3	0
++skarp	besteles	vitmat	12	55	3	0
 
 anvendbar	dæjpeles	anihahtti	2	78	6	0
-anvendbar	gyönegs	anihahtti	2	1	6	0
++anvendbar	gyönegs	anihahtti	2	1	6	0
 
 sårbar	viesjies	rašši/hearki	56	265	39	2
-sårbar	dasmoes	hearki	56	0	32	0
++sårbar	dasmoes	hearki	56	0	32	0
 sårbar	dåsmoes	rašši/hearki	56	0	39	0
 sårbar	hiejjehts	hearki	56	8	32	1
 
 ordinær	siejhme	dábálaš	160	91	1035	0
-ordinær	sïejhme	dábálaš	160	1026	1035	72
++ordinær	sïejhme	dábálaš	160	1026	1035	72
 
 svær	gïsse	váfi	417	18	1	0
 svær	vihties	váfi	417	604	1	0
@@ -222,7 +222,7 @@ svær	jassijes	váfi	417	23	1	0
 svær	jearsoes	váfi	417	267	1	1
 
 tilfreds	feejjene	duhtavaš	203	10	386	0
-tilfreds	madtjeles	duhtavaš	203	127	386	22
++tilfreds	madtjeles	duhtavaš	203	127	386	22
 
 ambisiøs	rudtjege	gudneáŋgir	11	101	4	0
 ambisiøs	eadtjohke	gudneáŋgir	11	526	4	0
@@ -238,18 +238,18 @@ spraglet	joekehth	girjái	0	374	85	0
 spraglet	joekehts-laakan	girjái	0	1	85	0
 
 overordnet	bijjie	bajimuš/bajit	251	221	126	1
-overordnet	bijjemes	bajimuš/bajit	251	125	126	0
++overordnet	bijjemes	bajimuš/bajit	251	125	126	0
 
 rampet	ovnuvhtege	hilbat	1	0	6	0
 rampet	jarhpoeh	hilbat	1	42	6	0
 
-opphetet	baahke	báhkas	2	107	33	0
++opphetet	baahke	báhkas	2	107	33	0
 opphetet	lïemkeds	báhkas	2	20	33	0
 opphetet	bïjveles	báhkas	2	61	33	0
 
 korrekt	rïekte	riekta	71	111	442	0
 korrekt	staeries	riekta	71	136	442	1
-korrekt	rïektes	riekta	71	862	442	20
++korrekt	rïektes	riekta	71	862	442	20
 
 permanent	staeries	bissovaš	149	136	178	1
 permanent	tjevties	bistevaš/bissovaš	149	4	185	0
@@ -258,7 +258,7 @@ kompetent	gyönegs	gelbbolaš	28	1	374	0
 kompetent	vyörtegs	gelbbolaš	28	109	374	1
 
 smart	jearmijes	jierbmái	7	3	17	0
-smart	jïermijes	jierbmái	7	17	17	0
++smart	jïermijes	jierbmái	7	17	17	0
 smart	vihtehks	jierbmái	7	0	17	0
 
 urørt	heejle	čavddis/guoskameahttun	4	0	3	0
@@ -266,7 +266,7 @@ urørt	ellies	čavddis	4	431	4	0
 urørt	duvhties	čavddis	4	6	4	0
 
 robust	gæhtjoeh	starggas	16	0	3	0
-robust	stinkes	starggas	16	104	3	0
++robust	stinkes	starggas	16	104	3	0
 robust	stonkes	starggas	16	0	3	0
 robust	stunkes	starggas	16	0	3	0
 
