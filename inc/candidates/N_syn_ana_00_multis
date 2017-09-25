@@ -1,4 +1,4 @@
-
++ på gode  --> ferdig
 trearbeid	vytnesjimmie	muorrabargu	2	23	1	0
 trearbeid	vætnoe	muorrabargu	2	44	1	0
 
@@ -40,7 +40,7 @@ tankegang	åssjelmes	jurddahanmálle	6	8	1	0
 reindriftsnæring	båatsoejieleme	boazodoalloealáhus/boazoealáhus	158	83	36	7
 reindriftsnæring	båatsoe	boazodoalloealáhus/boazoealáhus	158	1003	36	12
 
-+kunngjøring	bæjhkoehtimmie	almmuhus	58	104	49	13
+kunngjøring	bæjhkoehtimmie	almmuhus	58	104	49	13
 kunngjøring	bïevnese	almmuhus	58	1301	49	2
 
 kloakk	tsåahka	duolvačáhci/kloáhkka	6	176	8	0
@@ -60,7 +60,7 @@ byggverk	guelmie	visteráhkadus/rusttet	14	61	51	0
 lovverk	luhpie	láhkaortnet	85	253	1	0
 +lovverk	laake	láhkaortnet	85	780	1	34
 
-+transportmiddel	vuajastahkh	fievrridangaskaoapmi/fievrridanreaidu/fievru/fievrridanráhkadus	10	50	9	0
+transportmiddel	vuajastahkh	fievrridangaskaoapmi/fievrridanreaidu/fievru/fievrridanráhkadus	10	50	9	0
 transportmiddel	skovhte	fievrridangaskaoapmi/fievrridanreaidu/fievru/fievrridanráhkadus	10	53	9	0
 
 siktemål	strategije	olahusmearri	26	370	1	0
@@ -130,10 +130,10 @@ arbeidsinnsats	barkoejieleme	bargoáŋgiruššan/bargoárja	15	29	1	0
 arbeidsinnsats	barkoe	bargoáŋgiruššan/bargoárja	15	5291	1	1
 arbeidsinnsats	vætnoe	bargoáŋgiruššan/bargoárja	15	44	1	0
 
-+ulikhet	joekehtse	earalágánvuohta/iešguđetláganvuohta	19	263	1	0
+ulikhet	joekehtse	earalágánvuohta/iešguđetláganvuohta	19	263	1	0
 ulikhet	joekehts	earalágánvuohta/iešguđetláganvuohta	19	894	1	1
 
-+stillhet	sjeavodh	jávohisvuohta/jaskatvuohta	5	262	16	0
+stillhet	sjeavodh	jávohisvuohta/jaskatvuohta	5	262	16	0
 stillhet	seadtoe	jávohisvuohta/jaskatvuohta	5	12	16	0
 
 klesdrakt	gapta	bivttasmálle	3	30	4	0
@@ -220,7 +220,7 @@ holdning	åssjaldahke	miellaguoddu	144	178	26	0
 holdning	aajmoe	miellaguoddu	144	194	26	0
 
 etternavn	rïesege	goargu	23	22	13	0
-?etternavn	mïngienomme	goargu	23	89	13	0
++etternavn	mïngienomme	goargu	23	89	13	0
 
 ytelse	doedtije	buktu	18	0	6	0
 verk	doedtije	buktu	169	0	6	0
