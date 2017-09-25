@@ -1,7 +1,7 @@
-
++ på gode
 kr.	kråvna	kruvdno	248	1026	39	49
 kr.	tjahta	kruvdno	248	1	39	0
-kr.	tjåervie	kruvdno	248	42	39	0
++kr.	tjåervie	kruvdno	248	42	39	0
 kr.	daale	kruvdno	248	319	39	0
 
 pkt.	væhta	čuokkis/č.	93	407	130	0
@@ -32,7 +32,7 @@ tilskudd	duedtie	doarjja	2654	204	1482	14
 tilskudd	doedtije	doarjja	2654	0	1482	0
 tilskudd	duvtestahke	doarjja	2654	0	1482	0
 tilskudd	nalhke	doarjja	2654	1	1482	0
-tilskudd	dåarjoe	doarjja	2654	1046	1482	193
++tilskudd	dåarjoe	doarjja	2654	1046	1482	193
 
 konkurransemarked	gaahtjemesjeltie	gilvalanmárkan	1	0	1	0
 konkurransemarked	gaahtjemensjeltie	gilvalanmárkan	1	0	1	0
@@ -44,12 +44,12 @@ mobilmarked	mobijlensjeltie	mobiilamárkan	1	0	1	0
 kjøttmarked	bearkoesjeltie	biergomárkan	1	0	2	0
 kjøttmarked	bearkoensjeltie	biergomárkan	1	0	2	0
 
-vintermåned	daelvieaske	dálvemánnu	1	0	1	0
++vintermåned	daelvieaske	dálvemánnu	1	0	1	0
 vintermåned	daelvienaske	dálvemánnu	1	0	1	0
 vintermåned	daelviemaanoe	dálvemánnu	1	0	1	0
 vintermåned	daelvienmaanoe	dálvemánnu	1	0	1	0
 
-minnested	mojhtesesijjie	muitobázzi	2	0	5	0
++minnested	mojhtesesijjie	muitobázzi	2	0	5	0
 minnested	mojhtesensijjie	muitobázzi	2	0	5	0
 minnested	mojhtesemïerhke	muitobázzi	2	0	5	0
 
@@ -67,7 +67,7 @@ hjembygd	heajmenvoene	ruovttugilli	3	0	3	0
 
 kulturminnearbeid	kultuvremojhtesebarkeme	kulturmuitobargu	4	0	3	0
 kulturminnearbeid	kultuvremojhtesenbarkeme	kulturmuitobargu	4	0	3	0
-kulturminnearbeid	kultuvremojhtesebarkoe	kulturmuitobargu	4	0	3	0
++kulturminnearbeid	kultuvremojhtesebarkoe	kulturmuitobargu	4	0	3	0
 kulturminnearbeid	kultuvremojhtesenbarkoe	kulturmuitobargu	4	0	3	0
 kulturminnearbeid	kultuvremojhtesevætnoe	kulturmuitobargu	4	0	3	0
 
@@ -76,7 +76,7 @@ gruppearbeid	dåehkievætnoe	joavkobargu	5	0	7	0
 
 vegarbeid	geajnoebarkeme	luoddabargu/geaidnobargu	1	0	3	0
 vegarbeid	geajnoenbarkeme	luoddabargu/geaidnobargu	1	0	3	0
-vegarbeid	geajnoebarkoe	luoddabargu/geaidnobargu	1	0	3	0
++vegarbeid	geajnoebarkoe	luoddabargu/geaidnobargu	1	0	3	0
 vegarbeid	geajnoenbarkoe	luoddabargu/geaidnobargu	1	0	3	0
 vegarbeid	geajnoevætnoe	luoddabargu/geaidnobargu	1	0	3	0
 
@@ -91,7 +91,7 @@ programarbeid	programbarkoe	prográmmabargu	6	0	4	0
 programarbeid	programmenbarkoe	prográmmabargu	6	0	4	0
 programarbeid	programmevætnoe	prográmmabargu	6	0	4	0
 
-kulturminnesamarbeid	kultuvremojhteseektiebarkoe	kulturmuitoovttasbargu	3	0	1	0
++kulturminnesamarbeid	kultuvremojhteseektiebarkoe	kulturmuitoovttasbargu	3	0	1	0
 kulturminnesamarbeid	kultuvremojhtesenektiebarkoe	kulturmuitoovttasbargu	3	0	1	0
 kulturminnesamarbeid	kultuvremojhteselaavenjasse	kulturmuitoovttasbargu	3	0	1	0
 kulturminnesamarbeid	kultuvremojhtesenlaavenjasse	kulturmuitoovttasbargu	3	0	1	0
@@ -118,14 +118,14 @@ dokumentasjonsarbeid	dokumentasjovnebarkeme	duođaštanbargu	3	0	2	0
 dokumentasjonsarbeid	dokumentasjovnenbarkeme	duođaštanbargu	3	0	2	0
 dokumentasjonsarbeid	dokumentationsbarkeme	duođaštanbargu	3	0	2	0
 dokumentasjonsarbeid	dokumentasjonsbarkeme	duođaštanbargu	3	0	2	0
-dokumentasjonsarbeid	dokumentasjovnebarkoe	duođaštanbargu	3	0	2	0
++dokumentasjonsarbeid	dokumentasjovnebarkoe	duođaštanbargu	3	0	2	0
 dokumentasjonsarbeid	dokumentasjovnenbarkoe	duođaštanbargu	3	0	2	0
 dokumentasjonsarbeid	dokumentationsbarkoe	duođaštanbargu	3	0	2	0
 dokumentasjonsarbeid	dokumentasjonsbarkoe	duođaštanbargu	3	0	2	0
 dokumentasjonsarbeid	dokumentasjovnevætnoe	duođaštanbargu	3	0	2	0
 
 arealvernsarbeid	arealevaarjelimmie	areálagáhttenbargu	0	0	1	0
-arealvernsarbeid	arealevaarjelimmiebarkoe	areálagáhttenbargu	0	0	1	0
++arealvernsarbeid	arealevaarjelimmiebarkoe	areálagáhttenbargu	0	0	1	0
 
 språkstrid	gïelevigkie	giellanággu	1	0	1	0
 språkstrid	gïeledåaroe	giellanággu	1	0	1	0
@@ -223,7 +223,7 @@ velferd	tryjje	buresbirgejupmi/buorredilálašvuohta/čálgu/buorredilli	92	6	10
 atferd	fealadimmie	láhttenvuohki/láhtten/meannu	18	115	28	0
 atferd	darjome	láhttenvuohki/láhtten	18	494	35	0
 
-minneord	mojhtesebaakoe	muitosánit/muitosátni	1	0	4	0
++minneord	mojhtesebaakoe	muitosánit/muitosátni	1	0	4	0
 minneord	mojhtesenbaakoe	muitosánit/muitosátni	1	0	4	0
 
 passord	klaejpiebaakoe	suollemassátni/beassansátni	5	0	1	0
@@ -236,16 +236,16 @@ sluttord	orrijimmienbaakoe	loahppasátni	1	0	3	0
 
 fagskoletilbud	faageskuvlenuepie	fágaskuvlafálaldat	14	0	2	0
 fagskoletilbud	faageskuvlennuepie	fágaskuvlafálaldat	14	0	2	0
-fagskoletilbud	faageskuvlefaaleldahke	fágaskuvlafálaldat	14	0	2	0
++fagskoletilbud	faageskuvlefaaleldahke	fágaskuvlafálaldat	14	0	2	0
 fagskoletilbud	faageskuvlenfaaleldahke	fágaskuvlafálaldat	14	0	2	0
 
-grunnskoletilbud	maadthskuvlefaaleldahke	vuođđoskuvlafálaldat	2	0	1	0
++grunnskoletilbud	maadthskuvlefaaleldahke	vuođđoskuvlafálaldat	2	0	1	0
 grunnskoletilbud	maadthskuvlenfaaleldahke	vuođđoskuvlafálaldat	2	0	1	0
 
-kulturskoletilbud	kultuvreskuvlefaaleldahke	kulturskuvlafálaldat	4	0	2	0
++kulturskoletilbud	kultuvreskuvlefaaleldahke	kulturskuvlafálaldat	4	0	2	0
 kulturskoletilbud	kultuvreskuvlenfaaleldahke	kulturskuvlafálaldat	4	0	2	0
 
-dagtilbud	biejjiefaaleldahke	beaivefálaldat	1	0	1	0
++dagtilbud	biejjiefaaleldahke	beaivefálaldat	1	0	1	0
 dagtilbud	biejviefaaleldahke	beaivefálaldat	1	0	1	0
 dagtilbud	biejjienfaaleldahke	beaivefálaldat	1	0	1	0
 dagtilbud	biejvienfaaleldahke	beaivefálaldat	1	0	1	0
@@ -265,7 +265,7 @@ filmtilbud	jielijeguvvienfaaleldahke	filbmafálaldat	1	0	1	0
 filmtilbud	jielemeguvvienfaaleldahke	filbmafálaldat	1	0	1	0
 filmtilbud	filmenfaaleldahke	filbmafálaldat	1	0	1	0
 
-døgntilbud	dygnefaaleldahke	jándorfálaldat	1	0	1	1
++døgntilbud	dygnefaaleldahke	jándorfálaldat	1	0	1	1
 døgntilbud	dygnenfaaleldahke	jándorfálaldat	1	0	1	0
 døgntilbud	dygnfaaleldahke	jándorfálaldat	1	0	1	0
 
@@ -301,10 +301,10 @@ tresløyd	vytnesjimmie	muorraduodji	2	23	2	0
 tresløyd	duedtie	garraduodji/muorraduodji	2	204	4	0
 tresløyd	vætnoe	garraduodji/muorraduodji	2	44	4	1
 
-grunnskoleråd	maadthskuvleraerie	vuođđoskuvlaráđđi	5	0	2	0
++grunnskoleråd	maadthskuvleraerie	vuođđoskuvlaráđđi	5	0	2	0
 grunnskoleråd	maadthskuvlenraerie	vuođđoskuvlaráđđi	5	0	2	0
 
-kulturminneråd	kultuvremojhteseraerie	kulturmuitoráđđi	125	0	33	0
++kulturminneråd	kultuvremojhteseraerie	kulturmuitoráđđi	125	0	33	0
 kulturminneråd	kultuvremojhtesenraerie	kulturmuitoráđđi	125	0	33	0
 kulturminneråd	kultuvremojhteseståvroe	kulturmuitoráđđi	125	0	33	0
 
