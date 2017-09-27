@@ -1,4 +1,4 @@
-
++ på gode  --> ferdig
 bidra	dïjpedh	dagahit	1179	235	544	0
 bidra	steeredh	dagahit/veahkehit/váikkuhit	1179	212	633	3
 bidra	sietedh	dagahit/veahkehit/váikkuhit	1179	4	633	0
@@ -30,7 +30,7 @@ gjenta	geartodh	geardut/hoahkat/geardduhit	19	5	35	0
 
 mobbe	pleekedh	givssidit/hárdit/cielahit	49	38	51	5
 mobbe	nïerhkedh	givssidit/hárdit/cielahit	49	175	51	0
-mobbe	irhkedh	givssidit/hárdit/cielahit	49	193	51	94
++mobbe	irhkedh	givssidit/hárdit/cielahit	49	193	51	94
 mobbe	eerkedh	cielahit	49	10	21	0
 mobbe	iermedh	givssidit/hárdit/cielahit	49	1	51	0
 mobbe	peesedh	givssidit/hárdit/cielahit	49	0	51	0
@@ -95,7 +95,7 @@ utvide	lissiehtidh	viiddidit/buoredit/stuoridit/viidánit	192	776	75	4
 
 melde	såårnedh	dieđihit/albmadit	257	23	315	0
 melde	hiejhtedh	dieđihit/albmadit	257	42	315	0
-melde	bïeljelidh	albmadit	257	278	6	0
++melde	bïeljelidh	albmadit	257	278	6	0
 
 politianmelde	klåågedh	váidit	1	0	182	0
 politianmelde	hojjedh	váidit	1	58	182	0
@@ -167,7 +167,7 @@ oversende	gietskiedidh	sáddet	79	2	673	0
 oversende	saadtodh	sáddet	79	0	673	0
 
 skynde	gaahtjedh	doapmat	2	194	41	0
-skynde	skodtedh	doapmat	2	113	41	2
++skynde	skodtedh	doapmat	2	113	41	2
 skynde	fuehpiedidh	doapmat	2	13	41	0
 skynde	skodtedidh	doapmat	2	25	41	2
 skynde	båånhtserdidh	doapmat	2	0	41	0
@@ -203,7 +203,7 @@ påklage	gïelkerdidh	váidit/guoddalit	33	4	122	0
 påklage	fuehkiehtidh	váidit/guoddalit	33	0	122	0
 påklage	sjoeksjehtidh	váidit/guoddalit	33	0	122	0
 
-ledsage	fulkedh	mieđuštit	6	47	12	0
++ledsage	fulkedh	mieđuštit	6	47	12	0
 ledsage	hulkedh	mieđuštit	6	0	12	0
 ledsage	dåeriedidh	mieđuštit	6	549	12	0
 ledsage	dåerieridh	mieđuštit	6	2	12	0
@@ -214,7 +214,7 @@ prege	klaeriedidh	báidnit	91	52	29	0
 
 nedlegge	galhkedh	heaittihit	35	113	277	0
 nedlegge	illedh	heaittihit	35	406	277	0
-nedlegge	orrijehtedh	heaittihit	35	22	277	0
++nedlegge	orrijehtedh	heaittihit	35	22	277	0
 nedlegge	orrijidh	heaittihit	35	348	277	5
 
 gravlegge	jöörtedh	hávdádit	2	0	37	0
@@ -315,7 +315,7 @@ hoie	tjåarvodh	huikit	1	185	22	0
 herje	skovhtjedh	stajidit/speadjat/rigeret	3	10	17	0
 herje	reejredh	stajidit/speadjat/rigeret	3	26	17	0
 herje	reetsedh	stajidit/speadjat/rigeret	3	0	17	0
-herje	rajjadidh	stajidit	3	5	6	0
++herje	rajjadidh	stajidit	3	5	6	0
 herje	leavadidh	stajidit/speadjat/rigeret	3	3	17	0
 herje	rïdtjesjidh	stajidit/speadjat/rigeret	3	0	17	0
 herje	traakestidh	stajidit/speadjat/rigeret	3	13	17	0
@@ -334,7 +334,7 @@ lunsje	meksiehtidh	boradit	13	0	84	0
 lunsje	tjåaglodh	boradit	13	0	84	0
 
 preke	dygkedadtedh	sárdnidit	2	0	53	0
-preke	saerniedidh	sárdnidit	2	9	53	2
++preke	saerniedidh	sárdnidit	2	9	53	2
 preke	dygkedidh	sárdnidit	2	0	53	0
 preke	voerkelidh	sárdnidit	2	31	53	0
 preke	hamhkesidh	sárdnidit	2	0	53	0
@@ -400,17 +400,17 @@ uttrykke	soptsestidh	cealkit/báhkkodit/dovddahit/ovdanbuktit/hupmat	275	3723	24
 uttrykke	håalodh	cealkit/báhkkodit/dovddahit/ovdanbuktit/hupmat	275	90	243	1
 uttrykke	nåalodh	cealkit/báhkkodit/dovddahit/ovdanbuktit/hupmat	275	3	243	0
 
-tråkke	daltedh	duolbmat	4	21	41	0
++tråkke	daltedh	duolbmat	4	21	41	0
 tråkke	daltedidh	duolbmut/duolbmat/šulšet	4	3	21	0
 
 fortolke	guarkedh	dulkot	10	1485	217	0
 fortolke	dåalhkestidh	dulkot	10	1	217	0
-fortolke	toelhkestidh	dulkot	10	269	217	14
++fortolke	toelhkestidh	dulkot	10	269	217	14
 
 anke	laejhtedh	guoddalit	28	167	62	0
 anke	gïelkerdidh	guoddalit	28	4	62	0
 
-skjenke	gurhkedh	njorrestit/njorret/njoarrat/leaikut	16	8	3	0
++skjenke	gurhkedh	njorrestit/njorret/njoarrat/leaikut	16	8	3	0
 skjenke	liebnedh	leiket/njorrestit/njorret/njoarrat/leaikut	16	0	4	0
 
 forsinke	fïjneldehtedh	maŋŋonit/ájihit	29	0	25	0
@@ -438,7 +438,7 @@ daske	deehkehtidh	spežžet	0	22	2	0
 granske	goerehtalledh	dutkat/suokkardit	12	566	556	1
 granske	digkiedidh	dutkat/suokkardit	12	1143	556	4
 granske	giehtjedidh	dutkat/suokkardit	12	141	556	0
-granske	goerehtidh	dutkat/suokkardit	12	1200	556	120
++granske	goerehtidh	dutkat/suokkardit	12	1200	556	120
 
 forhåndsgranske	goevledh	geahčadit	0	61	276	0
 forhåndsgranske	vuejnedh	geahčadit	0	3217	276	6
@@ -447,7 +447,7 @@ forhåndsgranske	vuajnajidh	geahčadit	0	41	276	0
 forhåndsgranske	vuartasjidh	geahčadit	0	1476	276	7
 forhåndsgranske	vuejniestidh	geahčadit	0	2	276	0
 
-minske	unniedidh	unnut/geahpidit	11	111	46	3
++minske	unniedidh	unnut/geahpidit	11	111	46	3
 minske	måjkoedidh	unnudit/unnut/geahpedit/geahpidit/uhccut	11	3	43	0
 minske	vaanamidh	unnudit/unnut/geahpedit/geahpidit/uhccut	11	0	43	0
 minske	ohtjemidh	unnudit/unnut/geahpedit/geahpidit/uhccut	11	0	43	0
@@ -479,7 +479,7 @@ saksøke	gïelkerdidh	áššečuoččuhit/áššáskuhttit	9	4	28	0
 
 utbetale	seeptjedh	máksit	238	4	735	0
 utbetale	sööpedh	máksit	238	10	735	0
-utbetale	maeksedh	máksit	238	733	735	81
++utbetale	maeksedh	máksit	238	733	735	81
 
 omhandle	girmedh	válddahallat/máinnašit/válddahit	99	31	66	0
 omhandle	ållermaehtedh	válddahallat	99	52	46	2
@@ -629,7 +629,7 @@ sømme	gåarodh	goarrut	1	126	85	0
 
 utforme	sjugniedidh	hábmet	225	488	296	8
 utforme	skaepiedidh	hábmet	225	88	296	0
-utforme	hammoedidh	hábmet	225	163	296	23
++utforme	hammoedidh	hábmet	225	163	296	23
 utforme	darjodh	hábmet	225	6532	296	30
 utforme	deavjodh	hábmet	225	1	296	0
 
@@ -677,7 +677,7 @@ anerkjenne	dåhkasjehtedh	dohkkehit	114	117	888	20
 anerkjenne	nænnoestidh	dohkkehit	114	1769	888	27
 
 minne	måjhtajehtedh	muittuhit	81	22	148	6
-minne	mojhtestehtedh	muittuhit	81	3	148	0
++minne	mojhtestehtedh	muittuhit	81	3	148	0
 minne	treevedh	muittuhit	81	7	148	0
 
 monne	nuhtjedh	ávkkuhit	3	2155	10	0
@@ -705,7 +705,7 @@ fjerne	nåhkehtidh	jávkadit/sihkkut	65	46	85	1
 verne	gorredidh	suodjalit/ráfáidahttit/gáhttet	213	1251	165	20
 verne	voebnesjidh	suodjalit/ráfáidahttit/gáhttet	213	106	165	0
 verne	stååresjidh	suodjalit/ráfáidahttit/gáhttet	213	2	165	0
-verne	vaarjelidh	suodjalit/ráfáidahttit/gáhttet	213	1046	165	75
++verne	vaarjelidh	suodjalit/ráfáidahttit/gáhttet	213	1046	165	75
 verne	geehtestidh	suodjalit/ráfáidahttit/gáhttet	213	30	165	0
 
 rustne	roestedh	ruostut	1	6	3	0
@@ -742,7 +742,7 @@ skåne	aarhkalestedh	árpmihit	2	0	7	0
 skåne	healladidh	árpmihit	2	0	7	0
 skåne	aarmaridh	árpmihit	2	0	7	0
 
-utlåne	löönedh	luoikat	25	202	68	17
++utlåne	löönedh	luoikat	25	202	68	17
 utlåne	mïetedh	luoikat	25	57	68	0
 utlåne	löönelidh	luoikat	25	6	68	0
 
@@ -787,7 +787,7 @@ kjempe	gåaljoestidh	čuolahit/dáistalit/rahčat/doarrut/soahtat	25	3	50	0
 kjempe	skintestidh	čuolahit/dáistalit/rahčat/doarrut/soahtat	25	0	50	0
 kjempe	gåaljodh	čuolahit/dáistalit	25	14	5	0
 kjempe	daamkodh	čuolahit/dáistalit/rahčat/doarrut/soahtat	25	0	50	0
-kjempe	gæmhpodh	čuolahit/dáistalit/rahčat/doarrut/soahtat	25	98	50	10
++kjempe	gæmhpodh	čuolahit/dáistalit/rahčat/doarrut/soahtat	25	98	50	10
 kjempe	dåarodh	čuolahit/dáistalit	25	47	5	0
 
 bekjempe	gïrredh	dáistalit	26	23	9	0
@@ -846,7 +846,7 @@ avklare	reektestidh	čielgat/čielggadit/čilget	164	8	822	0
 vare	ståaradidh	bistit/bindit	3079	3	87	0
 vare	årrodh	bindit	3079	9366	1	20
 
-oppbevare	vöörhkedh	rádjat	25	89	73	4
++oppbevare	vöörhkedh	rádjat	25	89	73	4
 oppbevare	hååkedh	seailluhit/vurket/rádjat	25	4	97	0
 oppbevare	öörnedh	seailluhit/vurket/rádjat	25	624	97	2
 oppbevare	öörnedidh	seailluhit/vurket/rádjat	25	419	97	2
@@ -896,7 +896,7 @@ undervurdere	daltedidh	duolbmat	3	3	41	0
 ekskludere	bonhkelidh	hoigadit/lihccut	8	1	18	0
 ekskludere	nehkiehtidh	hoigadit/lihccut	8	7	18	0
 
-studere	lohkedh	logadit/studeret	55	4531	32	5
++studere	lohkedh	logadit/studeret	55	4531	32	5
 studere	neebnedh	logadit/lohkat/dutkat/studeret	55	139	1166	0
 studere	ryöknedh	logadit/studeret	55	1296	32	0
 studere	såårnedh	logadit/lohkat/dutkat/studeret	55	23	1166	0
@@ -1203,7 +1203,7 @@ imitere	tsïevhkehtidh	áđđestallat	3	0	5	0
 nedprioritere	væssjoehtidh	badjelgeahččat	8	12	61	0
 nedprioritere	aassjoestidh	badjelgeahččat	8	47	61	0
 
-invitere	bööredh	hástit	125	209	13	31
++invitere	bööredh	hástit	125	209	13	31
 invitere	haestedh	hástit	125	472	13	1
 invitere	bööredidh	bovdet/hástit	125	136	126	52
 
@@ -1355,7 +1355,7 @@ involvere	fåårhmestidh	sorrat/fátmmastit	96	0	39	0
 involvere	fååtmestidh	sorrat/fátmmastit	96	0	39	0
 involvere	gaanestidh	sorrat/fátmmastit	96	5	39	0
 
-lagre	vöörhkedh	vuorkut/rádjat	24	89	43	11
++lagre	vöörhkedh	vuorkut/rádjat	24	89	43	11
 lagre	hååkedh	vuorkut/vurket/rádjat	24	4	46	0
 lagre	öörnedh	vuorkut/vurket/rádjat	24	624	46	2
 lagre	öörnedidh	vuorkut/vurket/rádjat	24	419	46	2
@@ -1374,7 +1374,7 @@ sikre	nænnoestidh	váfistit	1568	1769	25	9
 
 bekymre	straavedh	fuolastuvvat	70	0	16	0
 bekymre	straavvedh	fuolastuvvat	70	8	16	0
-bekymre	tjomberdidh	fuolastuvvat	70	1	16	0
++bekymre	tjomberdidh	fuolastuvvat	70	1	16	0
 bekymre	strerkiestidh	fuolastuvvat	70	3	16	0
 
 klapre	beenghkedh	čoalkit	1	31	1	0
@@ -1793,7 +1793,7 @@ nyte	smååhkestidh	muosáhit/návddašit	26	0	65	0
 knyte	gaarhkedh	čatnat	2	6	264	0
 knyte	gaaredh	čatnat	2	22	264	0
 knyte	viedtedh	čatnat	2	68	264	0
-knyte	gårredidh	čatnat	2	40	264	4
++knyte	gårredidh	čatnat	2	40	264	4
 
 undergrave	aededh	bissehit/heajudit/duššindahkat/heađuštit/bilidit earáid ovddas/goaridit	15	2	55	0
 undergrave	aeredh	heađuštit	15	256	29	0
