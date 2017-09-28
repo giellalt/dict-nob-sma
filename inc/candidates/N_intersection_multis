@@ -2924,7 +2924,7 @@ fødselsdato	reakadimmiebiejjie	riegádandáhton/riegádanbeaivi	12	0	28	0
 fødselsdato	reakedsbiejjie	riegádandáhton/riegádanbeaivi	12	42	28	0
 
 fiskeredskap	dirrege	guolástanneavvu/bivdoneavvu/guollebivdobierggas/guolástanrusttet	7	8	2	0
-fiskeredskap	göölemedirrege	guolástanneavvu/bivdoneavvu/guollebivdobierggas/guolástanrusttet	7	0	2	0
++fiskeredskap	göölemedirrege	guolástanneavvu/bivdoneavvu/guollebivdobierggas/guolástanrusttet	7	0	2	0
 fiskeredskap	dïrrege	guolástanneavvu/bivdoneavvu/guollebivdobierggas/guolástanrusttet	7	276	2	0
 fiskeredskap	göölemedïrrege	guolástanneavvu/bivdoneavvu/guollebivdobierggas/guolástanrusttet	7	0	2	0
 
@@ -3074,7 +3074,7 @@ statsleder	staateåvtehke	stáhtanjunuš	1	0	1	0
 kontorsteder	kontovresijjie	kántorsadji	16	0	1	0
 kontorsteder	kontovrensijjie	kántorsadji	16	0	1	0
 
-teaterarbeider	teaaterebarkije	teáhterbargi	2	0	2	0
++teaterarbeider	teaaterebarkije	teáhterbargi	2	0	2	0
 teaterarbeider	teaaterenbarkije	teáhterbargi	2	0	2	0
 
 pensjonsalder	pensjovneaaltere	penšuvdnaahki	4	0	1	0
@@ -3107,7 +3107,7 @@ kamp mot hindringer	slæjhtoe	rahčan	0	4	51	0
 hytteeier	hahtjoeaajhtere	bartaeaiggát	2	0	8	0
 hytteeier	hahtjoenaajhtere	bartaeaiggát	2	0	8	0
 
-stortingspolitiker	stoerredigkiepolijtikere	stuorradiggepolitihkkár	1	0	1	0
++stortingspolitiker	stoerredigkiepolijtikere	stuorradiggepolitihkkár	1	0	1	0
 stortingspolitiker	stoerredigkienpolijtikere	stuorradiggepolitihkkár	1	0	1	0
 
 gårdbruker	båanta	eanadoalli/dálolaš/eanadállodoalli	23	37	12	0
@@ -3159,7 +3159,7 @@ snøscooter	skovtere	muohtaskuhter/muohtaskohter	39	23	9	0
 snøscooter	skuvtere	muohtaskuhter/muohtaskohter	39	18	9	0
 
 fetter	aajkoelaevie	vilba/vilbealle	4	0	8	0
-fetter	aajkohke	vilba/vilbealle	4	49	8	1
++fetter	aajkohke	vilba/vilbealle	4	49	8	1
 
 fiskelever	guelieskuvlemaana	guolevuoivvas/mullju	1	0	1	0
 fiskelever	guelienskuvlemaana	guolevuoivvas/mullju	1	0	1	0
@@ -3201,7 +3201,7 @@ noe å takke for	gæjhta	giitámuš	0	45	1	0
 noe å takke for	gæjhtoe	giitámuš	0	74	1	0
 noe å takke for	gyjhteles	giitámuš	0	29	1	0
 
-dekor	rïesege	čikŋa	4	22	62	0
++dekor	rïesege	čikŋa	4	22	62	0
 dekor	plijrehtahke	čikŋa	4	0	62	0
 
 jernbanesektor	ruevtieraajroesuerkie	ruovdemáđiisektor	1	0	0	0
@@ -3235,10 +3235,10 @@ områdekontor	dajvenkontovre	guovllukantuvra	4	0	14	0
 
 legekontor	davvojekontovre	doavtterkantuvra/doaktárkantuvra	2	0	3	0
 legekontor	dåvvojekontovre	doavtterkantuvra/doaktárkantuvra	2	0	3	0
-legekontor	dåakterekontovre	doavtterkantuvra/doaktárkantuvra	2	0	3	0
++legekontor	dåakterekontovre	doavtterkantuvra/doaktárkantuvra	2	0	3	0
 legekontor	davvojenkontovre	doavtterkantuvra/doaktárkantuvra	2	0	3	0
 
-læremiddelkontor	learoevierhtiekontovre	oahpponeavvokantuvra	1	0	1	0
++læremiddelkontor	learoevierhtiekontovre	oahpponeavvokantuvra	1	0	1	0
 læremiddelkontor	learoevierhtienkontovre	oahpponeavvokantuvra	1	0	1	0
 
 protokollkontor	protokollkontovre	protokollakantuvra	1	0	1	0
@@ -3987,7 +3987,7 @@ reinprodukt	bovtsendorjese	boazobuvtta	3	0	1	0
 håndverksprodukt	vytnesjimmie	giehtaduodji	2	23	17	0
 håndverksprodukt	vætnoe	giehtaduodji	2	44	17	0
 
-jordbruksprodukt	laanteburriedorjese	eanadoallobuvtta/eanandoallobuvtta	2	0	1	0
++jordbruksprodukt	laanteburriedorjese	eanadoallobuvtta/eanandoallobuvtta	2	0	1	0
 jordbruksprodukt	laanteburriendorjese	eanadoallobuvtta/eanandoallobuvtta	2	0	1	0
 
 pensjonsprodukt	pensjovnedorjese	penšuvdnabuvtta	1	0	0	0
@@ -4000,7 +4000,7 @@ kjøttprodukt	bearkoendorjese	biergobuvtta	2	0	2	0
 
 vegkant	geajnoehaerie	luoddaguorra/luoddaravda/geaidnoravda/geaidnoguorra	1	0	6	0
 vegkant	geajnoenhaerie	luoddaguorra/luoddaravda/geaidnoravda/geaidnoguorra	1	0	6	0
-vegkant	geajnoeraedtie	luoddaguorra/luoddaravda/geaidnoravda/geaidnoguorra	1	0	6	0
++vegkant	geajnoeraedtie	luoddaguorra/luoddaravda/geaidnoravda/geaidnoguorra	1	0	6	0
 vegkant	geajnoenraedtie	luoddaguorra/luoddaravda/geaidnoravda/geaidnoguorra	1	0	6	0
 vegkant	tjoevkese	luoddaravda/geaidnoravda/geaidnoguorra	1	278	5	0
 
@@ -4252,7 +4252,7 @@ samarbeidsinstitutt	ektiebarkoeninstituhte	ovttasbargoinstituhtta	1	0	1	0
 reinkjøtt	båatsoebearkoe	bohccobiergu	121	0	96	0
 reinkjøtt	kreavvebearkoe	bohccobiergu	121	0	96	0
 reinkjøtt	krïevvebearkoe	bohccobiergu	121	0	96	0
-reinkjøtt	bovtsenbearkoe	bohccobiergu	121	0	96	0
++reinkjøtt	bovtsenbearkoe	bohccobiergu	121	0	96	0
 reinkjøtt	kreavvenbearkoe	bohccobiergu	121	0	96	0
 
 gløtt	jalnga	geahčestat/goavki	2	0	2	0
@@ -4416,7 +4416,7 @@ kjøretøy	hierkie	mohtorvuoján/mohtorfievru/fievru/vuoján/vuodjinfievru	36	68
 kjøretøy	jiellie	mohtorvuoján/mohtorfievru/fievru/vuoján/vuodjinfievru	36	0	20	0
 
 fiskefartøy	göölemeskïhpe	guolástanfanas/guolástusfanas	20	0	2	0
-fiskefartøy	göölemevïnhtse	guolástanfanas/guolástusfanas	20	0	2	0
++fiskefartøy	göölemevïnhtse	guolástanfanas/guolástusfanas	20	0	2	0
 
 støy	stujmie	riedja	10	11	19	0
 støy	dïpme	riedja/gadja/rigearra	10	6	9	0
@@ -4448,7 +4448,7 @@ partinivå	partijendaltese	bellodatdássi	1	0	1	0
 gjeldsnivå	laajkoedaltese	vealgedássi	1	0	0	0
 gjeldsnivå	laajkoendaltese	vealgedássi	1	0	0	0
 
-mellomfagsnivå	gaskefaagedaltese	gaskafágadássi	1	0	1	0
++mellomfagsnivå	gaskefaagedaltese	gaskafágadássi	1	0	1	0
 mellomfagsnivå	gaskefaagendaltese	gaskafágadássi	1	0	1	0
 
 restriksjonsnivå	restriksjovnedaltese	restrikšuvdnadássi	0	0	1	0
@@ -4494,7 +4494,7 @@ jordbruksmiljø	laanteburrienbyjrese	eanandoallobiras/eanadoallobiras	1	0	1	0
 jordbruksmiljø	gaertenenbyjrese	eanandoallobiras/eanadoallobiras	1	0	1	0
 
 universitetsmiljø	jïlleskuvlebyjrese	universitehtabiras	1	0	1	0
-universitetsmiljø	universiteetebyjrese	universitehtabiras	1	0	1	0
++universitetsmiljø	universiteetebyjrese	universitehtabiras	1	0	1	0
 universitetsmiljø	universiteetenbyjrese	universitehtabiras	1	0	1	0
 universitetsmiljø	universitetbyjrese	universitehtabiras	1	0	1	0
 
@@ -4502,11 +4502,11 @@ produsentmiljø	produseentebyjrese	buvttadanbiras	1	0	1	0
 produsentmiljø	produseentenbyjrese	buvttadanbiras	1	0	1	0
 produsentmiljø	produsentbyjrese	buvttadanbiras	1	0	1	0
 
-sjø	jaevrie	mearra	309	441	493	0
++sjø	jaevrie	mearra	309	441	493	0
 sjø	saelhtie	mearra	309	136	493	0
 sjø	mearoe	mearra	309	213	493	11
 
-nevø	neapede	neahpi/siessal/ipmit/goaskit/muoŧŧal	3	7	3	0
++nevø	neapede	neahpi/siessal/ipmit/goaskit/muoŧŧal	3	7	3	0
 nevø	moehrele	neahpi/goaskit/ipmit/muoŧŧal	3	0	3	0
 nevø	jiekuve	neahpi/siessal/ipmit/goaskit/muoŧŧal	3	0	3	0
 nevø	tjietsuve	neahpi/siessal/ipmit/goaskit/muoŧŧal	3	0	3	0
