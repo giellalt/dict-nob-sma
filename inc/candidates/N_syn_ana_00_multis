@@ -33,7 +33,7 @@ anskaffelse	njoelkedasse	háhkandoaibma/háhkan	35	417	37	0
 godtgjørelse	vierhtie	buhtadas/buhtadus	115	863	91	0
 godtgjørelse	maaksoe	buhtadas/buhtadus	115	413	91	2
 
-+tankegang	ussjedimmievuekie	jurddahanmálle	6	32	1	0
+tankegang	ussjedimmievuekie	jurddahanmálle	6	32	1	0
 tankegang	sovme	jurddahanmálle	6	37	1	0
 tankegang	åssjelmes	jurddahanmálle	6	8	1	0
 
@@ -138,7 +138,7 @@ stillhet	seadtoe	jávohisvuohta/jaskatvuohta	5	12	16	0
 
 klesdrakt	gapta	bivttasmálle	3	30	4	0
 klesdrakt	gaeptie	bivttasmálle	3	14	4	0
-k+lesdrakt	gaarvoe	bivttasmálle	3	34	4	0
++klesdrakt	gaarvoe	bivttasmálle	3	34	4	0
 
 komponent	biehkie	komponeanta	15	124	2	0
 komponent	vuerpie	komponeanta	15	14	2	0
