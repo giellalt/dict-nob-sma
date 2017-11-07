@@ -1,4 +1,5 @@
-+ på gode  --> ferdig, men kan se på denne 1 gang til.
+#@ if unmarked 
+#+ på gode  --> ferdig, men kan se på denne 1 gang til.
 handelsstand	åesiestæjja	gávpeealáhus	1	10	1	0
 
 skjellsord	gærroe	cielossátni	2	3	2	0

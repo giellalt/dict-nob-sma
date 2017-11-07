@@ -77019,6 +77019,626 @@ For the full license text, see the link above.</lic>
       </tg>
     </mg>
   </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">diskusjonsemne</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">digkiedimmieaamhtese</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">dagsenter</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">biejjiejarnge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">verdenssenter</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">eatnemejarnge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">kraftsenter</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">faamoejarnge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">jordressurs</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">eatnemevierhtie</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">ferierettighet</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">eejehtimmiereakta</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">matprodukt</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">beapmoedorjese</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">vannressurslov</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">jaevrievierhtie</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">forskningssøknad</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">dotkemeohtseme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">hovedstad</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">åejviestaare</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">skolegård</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">skuvlegaertene</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">økonomiområde</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">ekonomijesuerkie</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">landskapsvernområde</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">eatnemenvaarjelimmiedajve</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">tilskuddsområde</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">dåarjoesuerkie</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">fødselspenge</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">reakadahtemebeetnegh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">miljøvernavdeling</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">byjresevaarjelimmiegoevte</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">grunnforskning</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">maadth-dotkeme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">miljøforskning</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">byjresedotkeme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">tilskuddsforvaltning</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">dåarjoereereme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">eiendomsforvaltning</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">eekereereme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">bergindustri</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">baektieindustrije</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">matfisk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">beapmoeguelie</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">innledningsdel</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">aalkoebielie</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">drøftingsdel</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">digkiedimmiebielie</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">handlingsprogram</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">darjomeprogramme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">forskningsverden</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">dotkemeveartene</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">forskningstradisjon</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">dotkemevuekie</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">kretsstruktur</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">dajvestruktuvre</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">prisnivå</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">åasadaltese</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">aktivitetsstøtte</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">darjomedåarjoe</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">forskningsmelding</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">dotkemebïevnese</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">pressestøtteordning</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">pressedåarjoeöörnege</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">helseforskning</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">healsoedotkeme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">skoleundervisning</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">skuvleööhpehtimmie</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">fiskeriforvaltning</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">göölemereereme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">hovedsak</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">åejvieaamhtese</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">urfolksspråk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">aalkoealmetjegïele</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">priskontroll</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">åasagïehtjedimmie</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">samiskplan</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">saemiengïelesoejkesje</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">eieransvar</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">aajhteredïedte</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">tilskuddmottaker</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">dåarjoedåastoje</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">regionteater</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">regijovneteatere</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">fødselstidspunkt</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">reakadaehtemesaejkie</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">tilskuddspost</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">dåarjoepåaste</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">teknologisenter</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">teknologijejarnge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">brosjyre</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">tjaalege</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">opptelling</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">lohkeme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">utfordring</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">haesteme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">fjord</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">voene</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">styring</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">reereme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">bjørkeskog</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">boelte</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">duft</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">roenge</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">anvendelse</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">åtnasovvedh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">ornamentikk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">tjaalehtjimmie</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">lovverk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">laake</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">margarin</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">margarine</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">klesdrakt</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">gaarvoe</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">yrkesliv</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">barkoejieleme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">ubehag</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">ropmege</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">analyse</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">goerehtimmie</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">etternavn</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">mïngienomme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">opprinnelig intensjon</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">aajkoe</t>
+      </tg>
+    </mg>
+  </e>
   <!-- Bad suggestions, remove next time round: 
 minoritetspublikum ::: unnebelåhkoealmetjh
 postnett ::: påastenehte
@@ -80222,6 +80842,481 @@ sameområde ::: saemielaante
 filmsenter ::: filmejarnge
 koftesøm ::: gåptoegåarome
 likhetstrekk ::: plïerejïele
+ytelse ::: doedtije
+ytelse ::: dåarjoe
+skoledrift ::: daltesejieleme
+skoledrift ::: daltesenjieleme
+miljøforskning ::: byjresendotkeme
+miljøforskning ::: byjreskedotkeme
+miljøforskning ::: byjreskendotkeme
+persontransport ::: almetjenvuelkeme
+påstand ::: jiehtege
+påstand ::: vuajnoe
+stemmekrets ::: gïeledajve
+distriktstilskudd ::: eatnemedåarjoe
+forskningssøknad ::: dotkemenohtse
+scene ::: våarome
+scene ::: eabnoe
+krisesituasjon ::: nïere
+krisesituasjon ::: neavroe
+legitimasjon ::: vïhnesjimmie
+legitimasjon ::: jååhkesjimmie
+holdning ::: åssjaldahke
+holdning ::: aajmoe
+tankegang ::: sovme
+tankegang ::: ussjedimmievuekie
+tankegang ::: åssjelmes
+driftsmåte ::: jielemevuekie
+tilskuddsområde ::: dåarjoeeatneme
+brukergrensesnitt ::: burrieraajoe
+framdriftsplan ::: barkoesoejkesje
+framdriftsplan ::: barkoeplaane
+godtgjørelse ::: vierhtie
+godtgjørelse ::: maaksoe
+aktivitetstilskudd ::: darjomedåarjoe
+overblikk ::: læstoe
+overblikk ::: gaehkie
+fritidskjøring ::: eejehtimmievuejeme
+fritidskjøring ::: eejehtallemenvuejeme
+fritidskjøring ::: eejehtallemevuejeme
+fritidskjøring ::: eejehtimmienvuejeme
+anvendelse ::: vuekie
+prisnivå ::: baalhkandaltese
+skinnsøm ::: dueljiesaejmie
+skinnsøm ::: dueljiensaejmie
+lovverk ::: luhpie
+kloakk ::: tsåahka
+kloakk ::: aarege
+arbeidsbyrde ::: gïehtelimmie
+arbeidsbyrde ::: vætnoe
+arbeidsbyrde ::: barkoejieleme
+innledningsdel ::: aalkovengietjie
+innledningsdel ::: aalkoengietjie
+innledningsdel ::: aalkovegietjie
+varemottak ::: eekenbarkoesijjie
+varemottak ::: eekebarkoesijjie
+redaktør ::: åvtehke
+redaktør ::: åejvie
+transportmiddel ::: vuajastahkh
+transportmiddel ::: skovhte
+landskapsområde ::: eatnemebarkoedajve
+landskapsområde ::: eatnemenbarkoedajve
+landskapsområde ::: eatnemenlaante
+landskapsområde ::: eatnemelaante
+dagsenter ::: biejvienjarnge
+dagsenter ::: biejjienjarnge
+dagsenter ::: biejviejarnge
+filminstitutt ::: filmeinstituhte
+forskningstradisjon ::: dotkemetradisjovne
+forskningstradisjon ::: dotkemenvuekie
+forskningstradisjon ::: dotkementradisjovne
+økonomiområde ::: ekonomibarkoedajve
+økonomiområde ::: ekonomilaante
+økonomiområde ::: ekonomijenlaante
+økonomiområde ::: ekonomijelaante
+økonomiområde ::: ekonomijebarkoedajve
+nytterett ::: aevhkiereakta
+nytterett ::: aevhkienreakta
+fritidsfisker ::: eejehtallemenguelie
+fritidsfisker ::: eejehtallemeguelie
+fritidsfisker ::: eejehtimmieguelie
+fritidsfisker ::: eejehtimmienguelie
+fødselspenger ::: baersieldimmiebeetneh
+fødselspenger ::: baersieldimmienbeetneh
+fødselspenger ::: baersieldimmienbeetnege
+fødselspenger ::: baersieldimmiebeetnege
+bergindustri ::: bïerjeindustrije
+bergindustri ::: baektienindustrije
+følgeskriv ::: faaroe
+følgeskriv ::: dïedte
+kjæremål ::: vierhtiedimmie
+kjæremål ::: laejhteme
+varenummer ::: eekenummere
+varenummer ::: eekennummere
+fristdag ::: biejjienbiejjie
+fristdag ::: biejviebiejvie
+fristdag ::: biejjiebiejvie
+fristdag ::: biejvienbiejvie
+fristdag ::: biejviebiejjie
+fristdag ::: biejjienbiejvie
+fristdag ::: biejjiebiejjie
+fristdag ::: biejvienbiejjie
+identitetssenter ::: identiteetejarnge
+identitetssenter ::: identiteetenjarnge
+identitetssenter ::: identitetjarnge
+distriktsrett ::: eatnemenreakta
+distriktsrett ::: eatnemereakta
+formidlingsområde ::: dorjehtimmiebarkoedajve
+formidlingsområde ::: dorjehtimmielaante
+formidlingsområde ::: dorjehtimmienbarkoedajve
+formidlingsområde ::: dorjehtimmienlaante
+forfattersituasjon ::: tjaelijentsiehkie
+forfattersituasjon ::: tjaelijetsiehkie
+skolestart ::: skuvleaalkoe
+verkstedindustri ::: dåvvomesijjieindustrije
+båndbredde ::: baadtehtahkebeala
+båndbredde ::: baadtehtahkenbeala
+åndsverk ::: aajmoevaerhkie
+åndsverk ::: aajmoenvaerhkie
+hovedstad ::: åejviesstaare
+enhetsskole ::: ektievoetenskuvle
+enhetsskole ::: ektievoeteskuvle
+enhetsskole ::: ektievoetedaltese
+enhetsskole ::: ektievoetendaltese
+verdenssenter ::: eatnemenjarnge
+kompetansetilskudd ::: daajroedåarjoe
+aktivitetstilbud ::: darjomenfaaleldahke
+aktivitetstilbud ::: darjomefaaleldahke
+ubehag ::: dåeriesmoere
+aktivitetsnivå ::: darjomendaltese
+aktivitetsnivå ::: darjomedaltese
+landskapsvernområde ::: eatnemenvaarjelimmielaante
+menneskerettighetstema ::: almetjeaamhtese
+menneskerettighetstema ::: almetjenaamhtese
+reindriftssenter ::: båatsoejielemejarnge
+komponent ::: stuhtje
+komponent ::: biehkie
+komponent ::: åesie
+komponent ::: vuerpie
+eiendomsdrift ::: eekejïele
+eiendomsdrift ::: eakanjieleme
+eiendomsdrift ::: eakajieleme
+matvare ::: deerpegh
+matvare ::: åesie
+matvare ::: beapmoe
+forskningsfartøy ::: dotkemeskïhpe
+forskningsfartøy ::: dotkemevïnhtse
+drøftingsdel ::: digkiedimmiengietjie
+innsyn ::: vierhtiedimmie
+innsyn ::: laejhteme
+eierorgan ::: almetjenorgaane
+eierorgan ::: almetjeorgaane
+gårdsprodukt ::: gaertenedorjese
+gårdsprodukt ::: gaertenendorjese
+byggverk ::: bigkie
+byggverk ::: bigkienvaerhkie
+byggverk ::: guelmie
+byggverk ::: bigkievaerhkie
+brukersted ::: burriensijjie
+brukersted ::: burriesijjie
+samfunnsforskning ::: ektievuekiedotkeme
+samfunnsforskning ::: ektievoetendotkeme
+samfunnsforskning ::: ektievoetedotkeme
+siktemål ::: sjïeke
+siktemål ::: åssjalommes
+siktemål ::: strategije
+siktemål ::: aajkoe
+eierstyre ::: almetjeståvroe
+avtalepart ::: stuhtje
+avtalepart ::: doekije
+avtalepart ::: bielie
+forskningsmateriale ::: dotkemeaamhtesh
+forskningsmateriale ::: dotkemeïebne
+kunngjøring ::: bæjhkoehtimmie
+kunngjøring ::: bïevnese
+ark ::: 
+medvirkende ::: stuhtje
+medvirkende ::: doekije
+medvirkende ::: bielie
+forhistorie ::: aalkove
+forhistorie ::: maadtoe
+sjanger ::: tjaelemevuekie
+utforming ::: hammoe
+reindriftsopplæring ::: båatsoejielemeööhpehtimmie
+saksforhold ::: tsiehkie
+saksforhold ::: nuepie
+alvorlighet ::: rïektese
+menneskerettspris ::: almetjereaktaåasa
+mottaksstruktur ::: barkoesijjiestruktuvre
+mottaksstruktur ::: barkoesijjienstruktuvre
+handlingsprogram ::: darjomenprogramme
+løsning ::: raerie
+skolegård ::: daltesengaertene
+formiddagsmat ::: aeredsbiejjienbeapmoe
+formiddagsmat ::: aeredsbiejjiebeapmoe
+områdeforvaltning ::: dajvenreerenasse
+områdeforvaltning ::: dajvereerenasse
+områdeforvaltning ::: dajvenreereme
+beløp ::: vierhtie
+beløp ::: beetnege
+hjemkommune ::: årrometjïelte
+matområde ::: beapmoenbarkoedajve
+matområde ::: deerpegebarkoedajve
+matområde ::: beapmoelaante
+matområde ::: deerpegelaante
+matområde ::: beapmoenlaante
+matområde ::: beapmoebarkoedajve
+øving ::: laavenjasse
+øving ::: gïehtjelimmie
+kapasitet ::: goerkesh
+kapasitet ::: faamoe
+kapasitet ::: maahtoe
+kapasitet ::: daevere
+miljøvernavdeling ::: byjresengoevte
+miljøvernavdeling ::: byjresegoevte
+refleksjon ::: aarvoe
+refleksjon ::: mïele
+refleksjon ::: ulmie
+refleksjon ::: vuajnoe
+urfolksminoritet ::: aalkoealmetjeunnebelåhkoe
+urfolksaktivitet ::: aalkoealmetjedarjome
+nedbryting ::: åtnoe
+nedbryting ::: maaksoe
+kretsnivå ::: dajvendaltese
+kretsnivå ::: dajvedaltese
+tilskuddbruk ::: dåarjoeåtnoe
+tilskuddbruk ::: dåarjoepråvhkoe
+tilskuddbruk ::: dåarjoevuekie
+pioner ::: åajvaladtje
+pioner ::: åejviehearra
+miljøverndepartement ::: byjresedepartemeente
+miljøverndepartement ::: byjresendepartemeente
+forskningsverden ::: dotkemenveartene
+forskningsverden ::: dotkemenvearelde
+forskningsverden ::: dotkemeneatneme
+forskningsverden ::: dotkemevearelde
+forskningsverden ::: dotkemeeatneme
+tilskuddsforvaltning ::: dåarjoereerenasse
+medbestemmelse ::: soptsestimmie
+medbestemmelse ::: dïedte
+eierskap ::: aate
+eierskap ::: eeke
+ulikhet ::: joekehtse
+ulikhet ::: joekehts
+verk ::: doedtije
+verk ::: njoelkedasse
+verk ::: dåarjoe
+verk ::: öörnege
+verk ::: sjïehtedimmie
+urfolksforskning ::: aalkoeåålmegedotkeme
+farskap ::: aehtjskåape
+farskap ::: aehtjlihtievåarhkoe
+farskap ::: aehtjvåarhkoe
+formidlingsmåte ::: dorjehtimmienvuekie
+formidlingsmåte ::: dorjehtimmievuekie
+kraftsenter ::: faamoenjarnge
+ornamentikk ::: væjjoe
+ornamentikk ::: maalle
+grunnvann ::: eabnoetjaetsie
+grunnvann ::: eabnoentjaetsie
+innslagspunkt ::: boelhketjentsiehkie
+innslagspunkt ::: boelhketjetsiehkie
+tilskuddsmyndighet ::: dåarjoeåvteåejvie
+tilskuddsmyndighet ::: dåarjoestaate
+foregangsmann ::: åajvaladtje
+foregangsmann ::: åejviehearra
+yrkesliv ::: gïehtelimmie
+yrkesliv ::: barkoe
+yrkesliv ::: vætnoe
+pelsskinn ::: njaltja
+pelsskinn ::: muadta
+reindriftsnæring ::: båatsoejieleme
+reindriftsnæring ::: båatsoe
+personopplysningslov ::: almetjebyjjehtimmie
+forskningsbehov ::: dotkemedaerpiesvoete
+forskningsbehov ::: dotkemendaerpiesvoete
+arbeidsinnsats ::: gïehtelimmie
+arbeidsinnsats ::: barkoe
+arbeidsinnsats ::: vætnoe
+arbeidsinnsats ::: barkoejieleme
+anskaffelse ::: njoelkedasse
+anskaffelse ::: öörnege
+anskaffelse ::: sjïehtedimmie
+bekostning ::: maaksoe
+forskningsenhet ::: dotkemenektievoete
+forskningsenhet ::: dotkemeektievoete
+fødselspenge ::: baersieldimmiebeetneh
+fødselspenge ::: baersieldimmienbeetneh
+fødselspenge ::: baersieldimmienbeetnege
+pilar ::: våarome
+pilar ::: eabnoe
+stillhet ::: sjeavodh
+stillhet ::: seadtoe
+inntrykk ::: vååjnese
+inntrykk ::: vuajnoe
+kretsskolelærer ::: dajvendaltese
+kretsskolelærer ::: dajvedaltese
+egenart ::: joekehtse
+egenart ::: joekehts
+delmål ::: boelhkenulmie
+delmål ::: åesieulmie
+delmål ::: biehkieulmie
+delmål ::: biehkienulmie
+delmål ::: boelhkeulmie
+klesdrakt ::: gapta
+klesdrakt ::: gaeptie
+samarbeidslinje ::: ektiesïeve
+eierprosent ::: almetjenproseente
+eierprosent ::: almetjeproseente
+skoleverk ::: daltesevaerhkie
+skoleverk ::: daltesenvaerhkie
+kosthold ::: deerpegh
+kosthold ::: åesie
+kosthold ::: beapmoe
+guttunge ::: påajke
+guttunge ::: baarnetje
+guttunge ::: böösetje
+guttunge ::: baahtje
+guttunge ::: baahtjetje
+instruksjonsrett ::: bihkedassereakta
+handlingsdel ::: darjomengietjie
+handlingsdel ::: darjomegietjie
+matfisk ::: deerpegeguelie
+matfisk ::: beapmoenguelie
+fellesdrift ::: bartanjieleme
+fellesdrift ::: bartajieleme
+grunnforskning ::: eabnoendotkeme
+progresjon ::: övtiedimmie
+progresjon ::: evtiedimmie
+progresjon ::: sjædtoe
+livsgrunnlag ::: aalevåarome
+intonasjon ::: vuelie
+analyse ::: boejhkehtasse
+analyse ::: gïehtjedimmie
+rettledelse ::: raeriestimmie
+grunneier ::: eabnoenalmetje
+grunneier ::: eabnoealmetje
+innføringskurs ::: maadthkuvsje
+innføringskurs ::: maadthööhpehtimmie
+innføringskurs ::: aalkoekuvsje
+distriktskasse ::: eatnemenskaavtege
+distriktskasse ::: eatnemeskaavtege
+utøver ::: åvtehke
+utøver ::: åejvie
+virksomhetsmodell ::: gïehtelimmievæjjoe
+skolegenser ::: daltesetråajja
+skolegenser ::: skuvletraabpese
+driftssituasjon ::: jielemetsiehkie
+samarbeidsnettverk ::: ektieviermie
+samarbeidsnettverk ::: ektiebarkoenviermie
+samarbeidsnettverk ::: ektiebarkoeviermie
+ferierettighet ::: eejehtallemereakta
+ferierettighet ::: eejehtimmienreakta
+ferierettighet ::: eejehtallemenreakta
+opprinnelig intensjon ::: syjhtede
+midtsamisk ::: gaskegïele
+brukermiljø ::: burriebyjrese
+brukermiljø ::: burrienbyjrese
+fellesskole ::: bartadaltese
+fellesskole ::: bartanskuvle
+fellesskole ::: bartaskuvle
+fellesskole ::: bartandaltese
+gjennomgang ::: vierhtiedimmie
+gjennomgang ::: laejhteme
+gyldighet ::: daajroe
+gyldighet ::: maahtoe
+forlagsdrift ::: bertemenjieleme
+forlagsdrift ::: bertemejieleme
+trearbeid ::: vytnesjimmie
+trearbeid ::: vætnoe
+tilskuddsmodell ::: dåarjoevæjjoe
+bergverk ::: bïerjevaerhkie
+bergverk ::: baektievaerhkie
+bergverk ::: baektienvaerhkie
+deltaker ::: stuhtje
+deltaker ::: doekije
+deltaker ::: bielie
+binding ::: tsiehkie
+binding ::: gaskese
+breddekompetanse ::: bealamaahtoe
+breddekompetanse ::: bealanmaahtoe
+reindriftsblad ::: båatsoejielemeplaerie
+reindriftsblad ::: båatsoeburrielaste
+reindriftsblad ::: båatsoelaste
+reindriftsblad ::: båatsoejielemelaste
+etternavn ::: rïesege
+e-postadresse ::: e-påastesijjie
+naturområde ::: eatnemenbarkoedajve
+naturområde ::: eatnemedajve
+naturområde ::: eatnemenlaante
+naturområde ::: eatnemelaante
+filmsenter ::: filmjarnge
+filmsenter ::: filmenjarnge
+embete ::: barkoesijjie
+støttepraksis ::: dåarjoelearoe
+arbeidsmiljøinstitutt ::: barkoebyjreseninstituhte
+arbeidsmiljøinstitutt ::: barkoebyjreseinstituhte
+ærespris ::: earoeåasa
+ordfører ::: baakoevuejeme
+ordfører ::: baakoenvuejeme
+margarin ::: båervie
+margarin ::: buejtie
+lavkostprodukt ::: burhviesaehpie
+helligspråk ::: bissiegïeleevtiedimmie
+skoleeier ::: daltesealmetje
+skoleeier ::: daltesenalmetje
+fremdriftsplan ::: barkoesoejkesje
+fremdriftsplan ::: barkoeplaane
+teknologisenter ::: teknologijarnge
+teknologisenter ::: teknologijenjarnge
+brukernavn ::: burriennomme
+brukernavn ::: burrienomme
+studium ::: leara
+studium ::: learoe
+brukerstatistikk ::: burrienstatistihke
+brukerstatistikk ::: burriestatistihke
+part i saka ::: stuhtje
+part i saka ::: doekije
+part i saka ::: bielie
+sidemål ::: baahkoenulmie
+sidemål ::: bielienulmie
+sidemål ::: baahkoeulmie
+distriktsskole ::: eatnemedaltese
+distriktsskole ::: eatnemendaltese
+fritidsbolig ::: eejehtimmiegåetie
+fritidsbolig ::: eejehtallemegåetie
+arena ::: sijjie
+eierkommune ::: almetjetjïelte
+tilleggspunkt ::: duedtietsiehkie
+tilleggspunkt ::: duedtientsiehkie
+kulepunkt ::: båaloemïerhke
+kulepunkt ::: båaloevæhta
+kulepunkt ::: båaloedïejvese
+kulepunkt ::: båaloejorpedaasta
+kulepunkt ::: båaloemierie
+kretsstruktur ::: dajvenstruktuvre
+områdeprotokoll ::: dajvenprotokolle
+områdeprotokoll ::: dajvebuertiegærja
+arbeidsnotat ::: barkoentjaeleme
+arbeidsnotat ::: barkoetjaeleme
+eiendomsforvaltning ::: eekereerenasse
+eiendomsforvaltning ::: eekenreerenasse
+matrett ::: deerpegereakta
+matrett ::: beapmoereakta
+matrett ::: beapmoenreakta
+aktivitetsside ::: darjomesæjroe
+aktivitetsside ::: darjomebielie
+aktivitetsside ::: darjomenbielie
+aktivitetsside ::: darjomenbaahkoe
+aktivitetsside ::: darjomebaahkoe
+matprodukt ::: beapmoendorjese
+matprodukt ::: deerpegedorjese
+høyfjellsområde ::: doedterenbarkoedajve
+høyfjellsområde ::: doedterebarkoedajve
+høyfjellsområde ::: doedterenlaante
+høyfjellsområde ::: doedterelaante
+forskningsrapport ::: dotkemenreektehts
+forskningsrapport ::: dotkemenreektehtse
+forskningsrapport ::: dotkemereektehtse
+forskningsrapport ::: dotkemereektehts
+vannressurslov ::: jaevrienvierhtie
+oversiktsliste ::: læstoe
+oversiktsliste ::: gaehkie
+lokalsamfunnsforskning ::: dajveektievoetendotkeme
+lokalsamfunnsforskning ::: dajveektievoetedotkeme
+motsetning ::: ræjtoe
+motsetning ::: vigkie
+fordom ::: vaanesovme
+fordom ::: sovme
+fordom ::: vaanejaahkoe
+diskusjonsemne ::: digkiedimmienaamhtese
+oppstartsnotat ::: aalkoetjaeleme
+oppstartsnotat ::: aalkoentjaeleme
+oppstartsnotat ::: aalkoventjaeleme
+oppstartsnotat ::: aalkovetjaeleme
+forskningsnettverk ::: dotkemenviermie
+forskningsnettverk ::: dotkemeviermie
+jordressurs ::: eatnemenvierhtie
  -->
   <!-- Questionable suggestions, look more at: 
 

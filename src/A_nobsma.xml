@@ -7196,6 +7196,258 @@ For the full license text, see the link above.</lic>
       </tg>
     </mg>
   </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">tilsvarende</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">seammaplïeres</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">oppegående</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">vihtehks</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">myk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">mïevhke</t>
+        <t pos="A">myövhke</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">normal</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">sïejhme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">fæl</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">vesties</t>
+        <t pos="A">rupmies</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">pen</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">faavroes</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">allmenn</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">sïejhme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">skarp</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">besteles</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">anvendbar</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">gyönegs</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">sårbar</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">dasmoes</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">ordinær</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">sïejhme</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">tilfreds</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">madtjeles</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">overordnet</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">bijjemes</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">opphetet</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">baahke</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">korrekt</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">rïektes</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">smart</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">jïermijes</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">robust</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">stinkes</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">daværende</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">dejpeladtje</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">relevant</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">sjiehteles</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">ærlig</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">earoladtje</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">brå</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">harhtsoeh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">identisk</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">seammalaakan</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">positiv</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">positijve</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">skremmende</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">beltehks</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">arbeidsledig</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">barkehts</t>
+      </tg>
+    </mg>
+  </e>
   <!-- Bad suggestions, remove next time round: 
 økonomisk ::: økonomihkeles
 intensiv ::: eadtjohke-laakan
@@ -7386,6 +7638,243 @@ universell ::: universelle
 overordnet ::: bijjies
 seksuell ::: seksuelle
 økonomisk ::: ekonomeles
+ledig ::: gåaroes
+ledig ::: tovme
+ledig ::: latjkes
+folkelig ::: faepeles
+folkelig ::: sjiehteles
+folkelig ::: dåajmijes
+folkelig ::: vietseles
+folkelig ::: garkeles
+nedadgående ::: geerve
+smart ::: vihtehks
+smart ::: jearmijes
+langsiktig ::: staeries
+real ::: saetnies
+tilfreds ::: feejjene
+finansiell ::: ræjhkoes
+finansiell ::: ekonomihkeles
+uverdig ::: prarrohke
+uverdig ::: geerve
+nedslått ::: håjnoes
+nedslått ::: hujnies
+langvarig ::: tjevties
+langvarig ::: staeries
+opphetet ::: lïemkeds
+opphetet ::: bïjveles
+menneskelig ::: faepeles
+menneskelig ::: sjiehteles
+menneskelig ::: dåajmijes
+menneskelig ::: vietseles
+menneskelig ::: garkeles
+voldsom ::: tjamke
+voldsom ::: veaksehks
+voldsom ::: isvelihks
+voldsom ::: raavtehtje
+voldsom ::: garre
+voldsom ::: raavteres
+voldsom ::: nænnoes
+enorm ::: isvelihks
+enorm ::: ovnuvhtege
+fæl ::: vååvnehke
+utsatt ::: hiejjehts
+utsatt ::: dasmoes
+utsatt ::: dåsmoes
+permanent ::: tjevties
+permanent ::: staeries
+ydmyk ::: hiejjehts
+ydmyk ::: lïemkeds
+ydmyk ::: dasmoes
+ydmyk ::: bïjveles
+ydmyk ::: dåsmoes
+åndelig ::: mentaale
+åndelig ::: lohkijes
+skarp ::: væjkeles
+skarp ::: maehtehtje
+skarp ::: tjiehpies
+synkende ::: geerve
+fremtidsrettet ::: båetije
+immateriell ::: mentaale
+immateriell ::: lohkijes
+robust ::: stonkes
+robust ::: stunkes
+robust ::: gæhtjoeh
+allsidig ::: joekehth
+allsidig ::: joekehts-laakan
+selvstendig ::: væjkeles
+selvstendig ::: maehtehtje
+selvstendig ::: veaksehks
+selvstendig ::: raavtehtje
+selvstendig ::: tjiehpies
+selvstendig ::: raavteres
+selvstendig ::: nænnoes
+blinkende ::: gijkedh
+mangelfull ::: faatoes
+oppegående ::: væjkeles
+oppegående ::: jïermijes
+oppegående ::: jiermege
+oppegående ::: vijsies
+oppegående ::: jearmijes
+kompetent ::: gyönegs
+kompetent ::: vyörtegs
+sped ::: njoetjeles
+sped ::: siegkies
+sped ::: giedtsies
+sped ::: jissehts
+sped ::: gaertjies
+gunstig ::: njaelkies
+gunstig ::: buerie
+gunstig ::: sjiehteles
+gunstig ::: tsåalhkoeh
+gunstig ::: hijven
+gunstig ::: hearskoes
+gunstig ::: åajvoeh
+næringsrik ::: radtjoes
+næringsrik ::: veaksehks
+næringsrik ::: raavtehtje
+næringsrik ::: raavteres
+næringsrik ::: nænnoes
+gledelig ::: hååkene
+gledelig ::: feejjene
+allmenn ::: siejhme
+fleksibel ::: govjehke
+sårbar ::: hiejjehts
+sårbar ::: viesjies
+sårbar ::: dåsmoes
+føre var ::: våaroes
+ambisiøs ::: eadtjohke
+ambisiøs ::: rudtjege
+ambisiøs ::: vïssjeles
+sportslig ::: radtjoes
+sportslig ::: govjehke
+sportslig ::: gyvjeh
+sportslig ::: sneehpes
+moderat ::: sjiehteles
+moderat ::: liehties
+hensiktsmessig ::: sjiehteles
+hensiktsmessig ::: aevhkies
+hensiktsmessig ::: vihkeles
+streng ::: tjamke
+streng ::: veaksehks
+streng ::: raavtehtje
+streng ::: geerve
+streng ::: garre
+streng ::: raavteres
+streng ::: nænnoes
+kjedelig ::: håjnoes
+kjedelig ::: hujnies
+kjedelig ::: geerve
+harmonisk ::: seadtoes
+harmonisk ::: raeffies
+frodig ::: ræjhkoes
+frodig ::: jassijes
+frodig ::: jearsoes
+frodig ::: vihties
+frodig ::: duvhties
+frodig ::: gïsse
+frodig ::: bååvteres
+nåtidig ::: gaavnoes
+nåtidig ::: daaletje
+aktiv ::: radtjoes
+aktiv ::: eadtjohke
+aktiv ::: rudtjege
+aktiv ::: vïssjeles
+svær ::: jassijes
+svær ::: jearsoes
+svær ::: vihties
+svær ::: gïsse
+næringssvak ::: hiejjehts
+næringssvak ::: viesjies
+næringssvak ::: dasmoes
+næringssvak ::: dåsmoes
+anvendbar ::: dæjpeles
+pussig ::: rovnegs
+pussig ::: rovneges
+negativ ::: madtege
+negativ ::: nåekies
+negativ ::: mådtan
+negativ ::: hiejjehts
+negativ ::: madtan
+negativ ::: dasmoes
+negativ ::: geerve
+negativ ::: dåsmoes
+negativ ::: nåake
+usikker ::: hujnies
+påfallende ::: rovnegs
+påfallende ::: rovneges
+rede ::: gaervies
+rede ::: stïeres
+rede ::: riejries
+rede ::: gööles
+alternativ ::: ovmese
+alternativ ::: ovmessie
+reell ::: aalvere
+reell ::: saetnies
+flekket ::: joekehth
+flekket ::: joekehts-laakan
+myk ::: njoetjeles
+myk ::: möövhkes
+identisk ::: seammaplïeres
+rampet ::: jarhpoeh
+rampet ::: ovnuvhtege
+tilsvarende ::: seammalaakan
+positiv ::: hijven-laakan
+urørt ::: ellies
+urørt ::: duvhties
+urørt ::: heejle
+regelmessig ::: jalkeds
+regelmessig ::: jalke
+regelmessig ::: sjyjjehke
+omfattende ::: stoere
+omfattende ::: vijries
+omfattende ::: geljies
+omfattende ::: gamte
+ligegyldig ::: ealjoeh
+ligegyldig ::: ealjohts
+ærlig ::: eerlege
+flott ::: hijven
+flott ::: tjaebpies
+smidig ::: radtjoes
+smidig ::: jåalhkoes
+smidig ::: jåalhkoeh
+smidig ::: govjehke
+smidig ::: gyvjeh
+smidig ::: sneehpes
+anvendelig ::: gyönegs
+anvendelig ::: dæjpeles
+pen ::: tjaebpies
+optimistisk ::: hååkene
+optimistisk ::: feejjene
+deilig ::: njaelkies
+deilig ::: åålije
+deilig ::: sieties
+deilig ::: hearskoes
+ensartet ::: seammalaakan
+ensartet ::: seammaplïeres
+lav ::: ohtje
+lav ::: onne
+lav ::: smaave
+normal ::: siejhme
+spraglet ::: joekehth
+spraglet ::: joekehts-laakan
+ordinær ::: siejhme
+ubehagelig ::: isvelihks
+ubehagelig ::: geerve
+korrekt ::: staeries
+korrekt ::: rïekte
+rimelig ::: sjiehteles
+rimelig ::: aelpies
+rimelig ::: liehties
+legendarisk ::: daajroes
+legendarisk ::: åehpies
+legendarisk ::: vihties
+legendarisk ::: byögkehke
+legendarisk ::: byögkeles
+legendarisk ::: byögke
+legendarisk ::: beagkoes
+universell ::: byjjes
+overordnet ::: bijjie
+stram ::: tjirkes-laakan
  -->
    <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript"
                  xmlns:xhtml="http://www.w3.org/1999/xhtml"/>

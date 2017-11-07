@@ -1,4 +1,5 @@
-+ på gode  --> denne er ferdig
+#@ if unmarked 
+#+ på gode  --> denne er ferdig
 sped	gaertjies	seaggi	5	38	14	0
 sped	siegkies	seaggi	5	29	14	0
 sped	giedtsies	seaggi	5	11	14	0

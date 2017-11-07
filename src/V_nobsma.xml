@@ -59165,6 +59165,416 @@ For the full license text, see the link above.</lic>
       </tg>
     </mg>
   </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">mobbe</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">irhkedh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">melde</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">bïeljelidh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">skynde</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">skodtedh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">ledsage</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">fulkedh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">nedlegge</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">orrijehtedh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">herje</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">rajjadidh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">preke</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">saerniedidh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">tråkke</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">daltedh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">fortolke</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">toelhkestidh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">skjenke</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">gurhkedh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">granske</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">goerehtidh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">minske</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">unniedidh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">utbetale</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">maeksedh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">utforme</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">hammoedidh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">minne</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">mojhtestehtedh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">verne</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">vaarjelidh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">utlåne</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">löönedh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">kjempe</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">gæmhpodh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">oppbevare</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">vöörhkedh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">studere</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">lohkedh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">invitere</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">bööredh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">lagre</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">vöörhkedh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">bekymre</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">tjomberdidh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">knyte</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">gårredidh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">snike</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">njaakedh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">dekke</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">gaptjedh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">modne</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">njoetsedh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">re</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">laatjodh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">vedvare</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">jåarhkasovvedh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">revitalisere</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">jealajehtedh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">publisere</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">bæjjoehtidh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">konkretisere</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">tjïelkestidh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">arkivere</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">vöörhkedh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">sløye</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">tjåalodh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">tie</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">moelhnjedh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">kommandere</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">stilledh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">frarå</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">måårngestehtedh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">gjenkjenne</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">damtedh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">kommandere</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">stilledh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">ferdigstilles</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">illedh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A" src="fad">gjenkjenne</l>
+    </lg>
+    <mg>
+      <tg xml:lang="smj">
+        <t pos="A">damtedht</t>
+      </tg>
+    </mg>
+  </e>
   <!-- Bad suggestions, remove next time round: 
 øve ::: lierehtalledh
 skjemme ::: aervi
@@ -59193,6 +59603,1895 @@ endre ::: jarkestidh
 ta forbehold ::: tsïhkestehtedh
 innmelde ::: registreeredh
 prioritere ::: prijoriteradidh
+oppfylles ::: illesovvedh
+lime ::: njieredh
+stille ::: tseegkedh
+belyse ::: bueledh
+belyse ::: goekedh
+belyse ::: gåhtsajehtedh
+belyse ::: vuaptastehtedh
+opprøre ::: måaskodh
+opprøre ::: måaskedh
+opprøre ::: haarmestovvedh
+opprøre ::: måarahtovvedh
+opprøre ::: saknahtovvedh
+opprøre ::: buasjahtovvedh
+opprøre ::: arhpehtovvedh
+innarbeide ::: ektiedidh
+iverksette ::: aatskadidh
+iverksette ::: aelkedh
+tilkjenne ::: bæjhkoehtidh
+tilkjenne ::: byjhkesjidh
+tilkjenne ::: mietiehtidh
+tilkjenne ::: bïjhkesjidh
+tilkjenne ::: bæjhkodh
+tilkjenne ::: boejhkesjidh
+klikke ::: smealladidh
+klikke ::: lamkedh
+klikke ::: dïedtelidh
+klikke ::: diedtedh
+klikke ::: tsiptsedh
+klikke ::: dïebtjestidh
+klikke ::: tsamtsestehtedh
+klikke ::: dïebtjestehtedh
+klikke ::: gaanedidh
+klikke ::: dïelkestidh
+klikke ::: baahtsedh
+klikke ::: faerhmiestidh
+klikke ::: dïemtjestehtedh
+klikke ::: dïemtjestidh
+klikke ::: dïemtsedidh
+bli inspirert ::: eadtjaldovvedh
+stabilisere ::: davtelidh
+stabilisere ::: dåarjodh
+stabilisere ::: duvtedh
+stabilisere ::: dovtelidh
+stabilisere ::: dåarjoehtidh
+stabilisere ::: dåarjadidh
+utveksle ::: målsodh
+utveksle ::: låtnodh
+utveksle ::: raerhkedh
+utveksle ::: rabnjestidh
+utveksle ::: easadidh
+utveksle ::: lutnjedh
+utveksle ::: bijjiedidh
+utveksle ::: molsesovvedh
+portrettere ::: buerkiestidh
+erobre ::: ritnedh
+kjøre avsted ::: vuajajidh
+fordoble ::: provnedh
+utelukke ::: nehkiehtidh
+utelukke ::: bïedtedh
+framheve ::: buektedh
+framheve ::: tjïelkestehtedh
+framheve ::: vuaptastehtedh
+medføre ::: buektedh
+medføre ::: foeresjidh
+medføre ::: saehtedh
+verne ::: voebnesjidh
+verne ::: gorredidh
+verne ::: stååresjidh
+verne ::: geehtestidh
+utvise ::: gohtjedidh
+utvise ::: raajedh
+belaste ::: tjimkedh
+kategorisere ::: veesmedh
+separere ::: joekehtidh
+separere ::: juakadidh
+separere ::: jååkedidh
+separere ::: raerhkedh
+separere ::: raarhkehtjidh
+separere ::: joekehtehtedh
+separere ::: loevenidh
+separere ::: löövedh
+øyne ::: vuartasjidh
+øyne ::: vuejnedh
+øyne ::: goevledh
+øyne ::: vuejniestidh
+øyne ::: vuajnajidh
+øyne ::: gïehtjedidh
+stilne ::: sjaavodh
+mistrives ::: ovmurriedidh
+mistrives ::: ovtræjjadidh
+mistrives ::: ovtråjjadidh
+utnytte ::: nåhkehtidh
+utnytte ::: nåhtadidh
+utnytte ::: nuhtjedh
+utnytte ::: dååsveridh
+utnytte ::: provhkedh
+utnytte ::: pråvhkodh
+utnytte ::: utnedh
+protokollføre ::: rirhmedh
+protokollføre ::: tjaeliestidh
+protokollføre ::: saaledh
+protokollføre ::: tjaeledh
+protokollføre ::: tjaelielidh
+anstrenge ::: baaveridh
+anstrenge ::: tjabredh
+anstrenge ::: gïehtelidh
+anstrenge ::: daamkodh
+anstrenge ::: gæmhpodh
+anstrenge ::: tjïeskestidh
+anstrenge ::: fahtedh
+anstrenge ::: klommerdidh
+anstrenge ::: bååveldidh
+anstrenge ::: baaverdidh
+begrense ::: geehtestidh
+utfylle ::: tjïrrehtidh
+utprøve ::: böörenjestedh
+utprøve ::: fryöjstedh
+utprøve ::: aatskadidh
+utprøve ::: voejhkelidh
+utprøve ::: pryövedh
+premiere ::: vuertiehtidh
+premiere ::: beelhkedh
+premiere ::: lijrehtidh
+premiere ::: maeksedh
+premiere ::: leejjedh
+glømme ::: våajaldidh
+glømme ::: aajaldehtedh
+glømme ::: vaajaldidh
+glømme ::: vååjeldehtedh
+glømme ::: vaajeldehtedh
+glømme ::: åajaldidh
+glømme ::: åajaldehtedh
+glømme ::: soelkedidh
+nedstemme ::: bååjhtedh
+nedstemme ::: tjoejedh
+avstå ::: hiejhtedh
+eksportere ::: buektedh
+eksportere ::: haajpanidh
+eksportere ::: sietedh
+eksportere ::: foeresjidh
+eksportere ::: steeredh
+eksportere ::: gyöntedh
+eksportere ::: saehtedh
+sømme ::: salkedh
+sømme ::: gåarodh
+sømme ::: sabpedh
+prege ::: klaeriedidh
+prege ::: dïjpedh
+stride ::: neajhkodh
+stride ::: nihtedh
+stride ::: hööptedh
+stride ::: neajhkedh
+stride ::: nyöjhkedh
+stride ::: nïejhkedh
+stride ::: neajhkestidh
+klassifisere ::: veesmedh
+supplere ::: tjïrrehtidh
+utøve ::: sietedh
+utøve ::: eadtjoestidh
+utøve ::: baejhtedh
+redusere ::: ohtjemidh
+redusere ::: åeniedidh
+redusere ::: gåpmanidh
+redusere ::: tjaakodh
+redusere ::: åhtjanidh
+redusere ::: unniedidh
+redusere ::: våajahtidh
+redusere ::: vueliemdidh
+redusere ::: njoetedh
+redusere ::: vaanamidh
+redusere ::: badtehtidh
+redusere ::: ånnanidh
+redusere ::: våajoedehtedh
+redusere ::: vaananidh
+redusere ::: våajadehtedh
+redusere ::: gaesvierdidh
+redusere ::: våajoedidh
+redusere ::: måjkoedidh
+redusere ::: vaeniedidh
+redusere ::: spååredh
+redusere ::: åeniemdidh
+redusere ::: slaamehtidh
+redusere ::: gupmiehtidh
+redusere ::: gaemhpierdidh
+redusere ::: våajoehtidh
+redusere ::: vueliedidh
+oppleves ::: damtedh
+oppleves ::: dåårjehtalledh
+fremheve ::: tjïelkestehtedh
+fremheve ::: vuaptastehtedh
+anerkjenne ::: dåhkasjehtedh
+anerkjenne ::: nænnoestidh
+anerkjenne ::: mietedh
+votere ::: bååjhtedh
+votere ::: tjoejedh
+isolere ::: joekehtidh
+isolere ::: veesmedh
+isolere ::: raerhkedh
+isolere ::: raarhkehtjidh
+isolere ::: joekehtehtedh
+isolere ::: löövedh
+herje ::: rïdtjesjidh
+herje ::: leavadidh
+herje ::: reetsedh
+herje ::: traakestidh
+herje ::: skovhtjedh
+herje ::: reejredh
+stige ::: goetsedh
+stige ::: låvnedh
+nøye seg ::: nöökedh
+nøye seg ::: nuktedh
+intensivere ::: skroedtedehtedh
+intensivere ::: baahtsedh
+slutte seg sammen ::: vyöjhkesadtedh
+nøytralisere ::: uvhtedh
+gjenspeile ::: buerkiestidh
+rundvaske ::: bïssedh
+transportere ::: vuejedh
+transportere ::: foeresjidh
+transportere ::: saehtedh
+utgi ::: bæjjoehtidh
+bety ::: lahtestidh
+bety ::: sööpedh
+bety ::: seeptjedh
+bety ::: maeksedh
+bety ::: tjaelielidh
+bety ::: krööhkedh
+bety ::: krööhkestidh
+fragmentere ::: kroehkedh
+fragmentere ::: heesedh
+fragmentere ::: rööhtsedh
+fragmentere ::: loebpedehtedh
+fragmentere ::: reevhtsedh
+fragmentere ::: burredh
+fragmentere ::: speedtjedh
+fragmentere ::: röövhtsedh
+konstatere ::: voelestehtedh
+konstatere ::: guajhtsadidh
+konstatere ::: vueptiestidh
+konstatere ::: mearhkodh
+konstatere ::: rantestidh
+konstatere ::: doektjehtidh
+konstatere ::: tjalmahtidh
+konstatere ::: vuajnajidh
+konstatere ::: mïerhkesjidh
+konstatere ::: gaavnedh
+konstatere ::: mïerhkedh
+konstatere ::: aajhtsedh
+konstatere ::: gåajhtsedidh
+konstatere ::: voeredidh
+politianmelde ::: fuehkiehtidh
+politianmelde ::: plogkedidh
+politianmelde ::: hojjedh
+politianmelde ::: hujjedh
+politianmelde ::: klååkedh
+politianmelde ::: klåågedh
+politianmelde ::: sjoeksjehtidh
+politianmelde ::: loejhmedh
+politianmelde ::: hïemedh
+politianmelde ::: gïelkerdidh
+øke ::: lissiehtidh
+øke ::: sjïdtedh
+øke ::: stueriemdidh
+øke ::: goetsedh
+øke ::: bijjiedidh
+utvide ::: joevenidh
+utvide ::: sarhkedh
+utvide ::: lissiehtidh
+utvide ::: saaseridh
+utvide ::: bårranidh
+utvide ::: stueriedidh
+utvide ::: saajenidh
+utvide ::: stueriemdidh
+utvide ::: jeananidh
+utvide ::: haasenidh
+utvide ::: bueriedidh
+virkeliggjøres ::: illesovvedh
+forenes ::: ektiedidh
+forenes ::: iktedidh
+forenes ::: ikteridh
+pumpe ::: tsiptsedh
+pumpe ::: tsamtsestehtedh
+pumpe ::: gaanedidh
+pumpe ::: buhtjedh
+pumpe ::: dïelkestidh
+pumpe ::: faerhmiestidh
+uttrykke sin misnøye ::: gaatelassjedh
+uttrykke sin misnøye ::: krïtnedh
+overbevise ::: jaahkahtidh
+overbevise ::: sovmedh
+overbevise ::: vïenhtedh
+overbevise ::: veanhtedh
+overbevise ::: jaehkedh
+etterspørre ::: darhkelidh
+etterspørre ::: goerehtehtedh
+etterspørre ::: ohtseldidh
+etterspørre ::: gåhkasjidh
+etterspørre ::: syökedh
+etterspørre ::: gihtjedidh
+etterspørre ::: goerehtidh
+etterspørre ::: siekierdidh
+etterspørre ::: heeledovvedh
+etterspørre ::: haeliedidh
+etterspørre ::: ohtselidh
+etterspørre ::: heeledidh
+etterspørre ::: ohtsedh
+etterspørre ::: gihtjedh
+etterspørre ::: ohtsedidh
+etterspørre ::: goerehtalledh
+uteksperimentere ::: hahtadidh
+uteksperimentere ::: darjodh
+uteksperimentere ::: skaepiedidh
+uteksperimentere ::: sjugniedidh
+uteksperimentere ::: gaavnehtidh
+illustrere ::: guvviedidh
+illustrere ::: buerkiestidh
+hanskes ::: dåarodh
+hanskes ::: vuastalidh
+hanskes ::: daamkodh
+hanskes ::: gïrredh
+hanskes ::: gåaljodh
+skynde ::: båånhtserdidh
+skynde ::: fuehpiedidh
+skynde ::: skodtedidh
+skynde ::: gaahtjedh
+oppjustere ::: rabnjodh
+oppjustere ::: lissiehtidh
+oppjustere ::: baavhkestidh
+oppjustere ::: tjaavhkestidh
+oppjustere ::: rabnjestidh
+oppjustere ::: easadidh
+oppjustere ::: lutnjedh
+oppjustere ::: luknjedh
+oppjustere ::: bijjiedidh
+poengtere ::: tjïertestidh
+poengtere ::: vuaptastehtedh
+preke ::: hamhkesidh
+preke ::: dygkedidh
+preke ::: voerkelidh
+preke ::: dygkedadtedh
+sakse ::: vïjjedh
+sakse ::: tjåagkodh
+sakse ::: tjurhkedh
+sakse ::: tsaapedh
+sakse ::: tjoehpestidh
+sakse ::: bietskiedidh
+sakse ::: naajedh
+sakse ::: lïhtsestidh
+sakse ::: bietskedh
+sakse ::: lööpkedh
+sakse ::: bijredh
+sakse ::: tjoehpedh
+utforme ::: darjodh
+utforme ::: skaepiedidh
+utforme ::: sjugniedidh
+utforme ::: deavjodh
+fravike ::: gervedh
+fravike ::: uvtedh
+overleve ::: åajsodh
+overleve ::: vaarjelidh
+overleve ::: håsvoeridh
+overleve ::: ståaradidh
+overleve ::: dåhkasjidh
+overleve ::: nahkasjidh
+overleve ::: gaegniedidh
+overleve ::: håajsodh
+overleve ::: bïerkenidh
+overleve ::: buektiehtidh
+overleve ::: dååpedidh
+overleve ::: bearkadidh
+inkorporere ::: ektiedidh
+inkorporere ::: iktedidh
+inkorporere ::: ikteridh
+utarbeide ::: darjodh
+utarbeide ::: skaepiedidh
+utarbeide ::: sjugniedidh
+utarbeide ::: jurjiehtidh
+utarbeide ::: daajhtodh
+utarbeide ::: öörnedh
+utarbeide ::: bigkedh
+utarbeide ::: eabnadehtedh
+vie ::: dibrehtidh
+vie ::: debriehtidh
+vie ::: lustestalledh
+vie ::: dabreldehtedh
+vie ::: jovkestalledh
+stabiliseres ::: gaarsjaldovvedh
+komplettere ::: tjïrrehtidh
+stanse ::: tjöödtjestidh
+stanse ::: tjöödtjehtidh
+stanse ::: bïksedh
+forverre ::: såamkedh
+forverre ::: vearranidh
+forverre ::: heajjoedidh
+snevre ::: geehtestidh
+gjenkjenne ::: dabtedh
+gjenkjenne ::: identifiseeredh
+gjenkjenne ::: damtijidh
+knyte ::: gaaredh
+knyte ::: gaarhkedh
+knyte ::: viedtedh
+oppløfte ::: eadtjalgovvedh
+oppløfte ::: madtjelovvedh
+oppfylle ::: tjïrrehtidh
+oppfylle ::: liebnedh
+oppfylle ::: dievhtedh
+utbetale ::: sööpedh
+utbetale ::: seeptjedh
+påløpe ::: tjöönghkedh
+påløpe ::: seeptjedh
+påløpe ::: tjåegkedh
+nedlegge ::: orrijidh
+nedlegge ::: galhkedh
+nedlegge ::: illedh
+lenke ::: faerhmiestidh
+formalisere ::: vihtiestidh
+overlate ::: luejhtedh
+overlate ::: slyöhpedh
+overlate ::: snjipkedh
+overlate ::: biestedh
+overlate ::: njolledh
+overlate ::: bïesedh
+overlate ::: luejhtiestidh
+overlate ::: slyöbpedh
+rekruttere ::: dåårrehtidh
+rekruttere ::: skååffedh
+overholde ::: hööltedh
+overholde ::: ussjedidh
+overholde ::: fulkedh
+overholde ::: vuavkesjidh
+overholde ::: rïeresjidh
+overholde ::: utniehtidh
+overholde ::: gutnedh
+overholde ::: steeredh
+overholde ::: hulkedh
+overholde ::: dåeriedidh
+overholde ::: utniedidh
+overholde ::: dåerieridh
+overholde ::: ussjiedidh
+overholde ::: kööksedh
+overholde ::: krööhkestidh
+overholde ::: tjåavodh
+overholde ::: seahkaridh
+mekle ::: latjkedh
+ratifisere ::: dåhkasjehtedh
+ratifisere ::: vihtesjidh
+ratifisere ::: mietedh
+konsultere ::: digkiedidh
+oppstå ::: tjuedtjielidh
+oppstå ::: tsöögkegidh
+oppstå ::: fulkedh
+oppstå ::: tsyögkegidh
+oppstå ::: hulkedh
+oppstå ::: dåeriedidh
+oppstå ::: dåerieridh
+oppstå ::: bïhtsegidh
+oppstå ::: låvnedh
+oppstå ::: tjåavodh
+oppstå ::: tsyögkesidh
+oppstå ::: bïhtjegidh
+opprette ::: öörnedidh
+opprette ::: bidtjedh
+opprette ::: tseegkedh
+opprette ::: jurjiehtidh
+opprette ::: aatskadidh
+opprette ::: bygkedh
+opprette ::: moenesovvedh
+opprette ::: öörnedh
+opprette ::: bigkedh
+opprette ::: hååkedh
+opprette ::: aelkedh
+jamføre ::: mohtedidh
+jamføre ::: vierhtiedidh
+jamføre ::: viertiestidh
+jamføre ::: digkiedidh
+spesifisere ::: dåalhkestidh
+spesifisere ::: tjïelkestidh
+spesifisere ::: tjilkedh
+spesifisere ::: reektestidh
+spesifisere ::: goerkelidh
+spesifisere ::: bïhkedidh
+spesifisere ::: kreajnoehtidh
+spesifisere ::: bïhkemdidh
+spesifisere ::: tjïertestidh
+spesifisere ::: tjilkestidh
+spesifisere ::: goerkelehtedh
+spesifisere ::: defineeredh
+spesifisere ::: tjïelkestehtedh
+spesifisere ::: tjïelkesidh
+spesifisere ::: boejhkestidh
+spesifisere ::: boejhkelidh
+spesifisere ::: goerkestehtedh
+samordne ::: ektiedidh
+samordne ::: iktedidh
+samordne ::: ikteridh
+melde ::: hiejhtedh
+melde ::: såårnedh
+kuppe ::: daaresjidh
+forenkle ::: måjkoedidh
+oppgradere ::: orrestidh
+oppgradere ::: oddestidh
+stemme ::: bååjhtedh
+stemme ::: tjoejedh
+oppheve ::: gåpmanidh
+oppheve ::: pruskiehtidh
+oppheve ::: aassjoestehtedh
+oppheve ::: orrijidh
+oppheve ::: orrijehtedh
+oppheve ::: galhkedh
+oppheve ::: illedh
+oppheve ::: gaesvierdidh
+oppheve ::: gupmiehtidh
+involvere ::: gaanestidh
+involvere ::: feerhmestidh
+involvere ::: njååmedidh
+involvere ::: fååtmestidh
+involvere ::: feerhmedh
+involvere ::: fåårhmestidh
+involvere ::: gaanedidh
+involvere ::: faerhmiestidh
+frede ::: vaarjelidh
+demonstrere ::: vuesiehtidh
+demonstrere ::: åehpiedehtedh
+inneholde ::: utnedh
+undergrave ::: jalloedidh
+undergrave ::: aeredh
+undergrave ::: veajkodh
+undergrave ::: hööptedh
+undergrave ::: heeptedidh
+undergrave ::: tjöödtjestidh
+undergrave ::: tjöödtjehtidh
+undergrave ::: jeeredh
+undergrave ::: heajjoedidh
+undergrave ::: nelhkiehtidh
+undergrave ::: jeeredidh
+undergrave ::: jarhpoedidh
+undergrave ::: heerredidh
+undergrave ::: aededh
+flette ::: gurredh
+flette ::: provnedh
+regulere ::: staeriemdidh
+regulere ::: staeriedidh
+innkalle ::: tjoermedh
+innkalle ::: birredh
+innkalle ::: maedtedh
+innkalle ::: vaetiestidh
+innkalle ::: birresjidh
+innkalle ::: stilledh
+innkalle ::: raajedh
+innkalle ::: aanoestidh
+innkalle ::: tjoemehtidh
+innkalle ::: rohkelassjedh
+omgi ::: gaartedh
+bortvise ::: gohtjedidh
+bortvise ::: raajedh
+svikte ::: deerehtidh
+svikte ::: snåvsoehtidh
+svikte ::: eajhkaldehtedh
+svikte ::: nollelidh
+svikte ::: snavsahtidh
+svikte ::: heajhkaldehtedh
+svikte ::: biehtedh
+svikte ::: nulliehtidh
+svikte ::: deeredh
+studere ::: såårnedh
+studere ::: neebnedh
+studere ::: ryöknehtidh
+studere ::: jiehtedh
+studere ::: goerehtidh
+studere ::: bïeljelidh
+studere ::: ryöknedh
+studere ::: soptsestidh
+knyttes til ::: gaaredh
+knyttes til ::: gaarhkedh
+knyttes til ::: gårredidh
+knyttes til ::: gaarehtidh
+knyttes til ::: baadtasovvedh
+oversende ::: gietskiedidh
+oversende ::: raajedh
+oversende ::: saadtodh
+oversende ::: saehtedh
+oversende ::: seedtedh
+opplære ::: ööhpehtidh
+opplære ::: lïeredh
+opplære ::: bïhkedidh
+opplære ::: lohkehtidh
+opplære ::: bïhkemdidh
+opplære ::: leeredh
+opplære ::: ööhpehtalledh
+opplære ::: leerehtidh
+opplære ::: skuvlestidh
+opplære ::: lïerehtidh
+opplære ::: boejhkelidh
+differensiere ::: joekehtidh
+differensiere ::: raerhkedh
+differensiere ::: raarhkehtjidh
+differensiere ::: joekehtehtedh
+differensiere ::: löövedh
+innleie ::: vuertiehtidh
+innleie ::: lijrehtidh
+innleie ::: leejjedh
+opptjene ::: sjovnestidh
+opptjene ::: gaagkedh
+opptjene ::: dïenesjidh
+opptjene ::: dïenesjadtedh
+runde ::: illedh
+formulere ::: hammoedidh
+formulere ::: deavjodh
+eksplodere ::: smealladidh
+eksplodere ::: baahtsedh
+ryste ::: eajhkaldehtedh
+ryste ::: heermedalledh
+ryste ::: skeehkedh
+ryste ::: gabnjelidh
+ryste ::: ierielidh
+ryste ::: ribnjestidh
+ryste ::: beltedh
+ryste ::: rabnjestidh
+ryste ::: rapkelidh
+strømme ::: brorredh
+strømme ::: sjovvedh
+kle ::: gåårvedidh
+kle ::: noeledidh
+oppnå ::: dåastodh
+oppnå ::: gaarkoehtidh
+oppnå ::: ierngiehtidh
+oppnå ::: jaksedh
+oppnå ::: håjradidh
+oppnå ::: nööredh
+oppnå ::: fihkedh
+oppnå ::: hïnnedh
+oppnå ::: gietskiedidh
+oppnå ::: nöödtedh
+oppnå ::: geelkedh
+oppnå ::: iernjiehtidh
+oppnå ::: ulledh
+oppnå ::: åadtjodh
+oppnå ::: ryöhkedh
+insistere ::: bagkehtidh
+insistere ::: bagkesidh
+insistere ::: rïjtelidh
+insistere ::: digkiedidh
+insistere ::: gïrredidh
+insistere ::: treahtodh
+insistere ::: traakestidh
+insistere ::: bajjehtidh
+insistere ::: dïjveldidh
+insistere ::: ryjhtedidh
+markere ::: heevehtidh
+markere ::: vuesiehtidh
+markere ::: tjuvtjiedidh
+markere ::: aavoedidh
+markere ::: gåhtsajehtedh
+markere ::: earoehtidh
+markere ::: vuaptastehtedh
+strekke ::: syöjkedehtedh
+strekke ::: doeredh
+strekke ::: fealadidh
+strekke ::: hïnnedh
+strekke ::: skilledh
+strekke ::: vuelkedh
+strekke ::: giesedh
+utjevne ::: jalkesjidh
+utjevne ::: sjyjjedehtedh
+utjevne ::: jolkesjidh
+minske ::: ohtjemidh
+minske ::: tjaakodh
+minske ::: åhtjanidh
+minske ::: vaanamidh
+minske ::: ånnanidh
+minske ::: vaananidh
+minske ::: måjkoedidh
+forplikte ::: gohtjedidh
+forplikte ::: raajedh
+oppkjøre ::: ööledh
+påklage ::: fuehkiehtidh
+påklage ::: plogkedidh
+påklage ::: hojjedh
+påklage ::: hujjedh
+påklage ::: klååkedh
+påklage ::: klåågedh
+påklage ::: sjoeksjehtidh
+påklage ::: laejhtedh
+påklage ::: loejhmedh
+påklage ::: hïemedh
+påklage ::: gïelkerdidh
+omdisponere ::: sirtedh
+omdisponere ::: jahtajidh
+omdisponere ::: fluhtedh
+omdisponere ::: juhtedh
+omdisponere ::: johtehtjidh
+omdisponere ::: sertedh
+omdisponere ::: jåhtajidh
+agere ::: giejhkiedidh
+agere ::: dåemiedidh
+agere ::: dorjehtidh
+agere ::: dorjedidh
+agere ::: faegniedidh
+agere ::: dorjehtalledh
+overføre ::: sirtedh
+overføre ::: jahtajidh
+overføre ::: fluhtedh
+overføre ::: sietedh
+overføre ::: foeresjidh
+overføre ::: juhtedh
+overføre ::: johtehtjidh
+overføre ::: steeredh
+overføre ::: sertedh
+overføre ::: saehtedh
+overføre ::: jåhtajidh
+rette på ::: staeriedidh
+rette på ::: davvodh
+rette på ::: bueriedidh
+fastslå ::: bæjhkoehtidh
+fastslå ::: såårnedh
+fastslå ::: neebnedh
+fastslå ::: jiehtedh
+fastslå ::: heelsedh
+fastslå ::: bïeljelidh
+fastslå ::: bajjehtidh
+fastslå ::: buarastalledh
+fastslå ::: buarastehtedh
+fastslå ::: soptsestidh
+fastslå ::: ållermaehtedh
+fastslå ::: slaamehtidh
+fastslå ::: gaemhpierdidh
+nærme ::: geatskanidh
+nærme ::: geaktjamidh
+nærme ::: geaktsanidh
+understreke ::: tjïelkestehtedh
+understreke ::: vuaptastehtedh
+anke ::: laejhtedh
+anke ::: gïelkerdidh
+bekjempe ::: vuastalidh
+bekjempe ::: vuastalestedh
+bekjempe ::: gïrredh
+kjempe ::: dåarodh
+kjempe ::: baaveridh
+kjempe ::: skurtedh
+kjempe ::: båårhkedidh
+kjempe ::: tjabredh
+kjempe ::: skintestidh
+kjempe ::: gïehtelidh
+kjempe ::: skentjieldidh
+kjempe ::: skaenjieldidh
+kjempe ::: daamkodh
+kjempe ::: tjïeskestidh
+kjempe ::: skintedh
+kjempe ::: fahtedh
+kjempe ::: gåaljoestidh
+kjempe ::: tjoelestidh
+kjempe ::: klommerdidh
+kjempe ::: gåaljodh
+kjempe ::: bååveldidh
+kjempe ::: deemtjedh
+kjempe ::: baaverdidh
+avklare ::: dåalhkestidh
+avklare ::: tjïelkestidh
+avklare ::: tjilkedh
+avklare ::: reektestidh
+avklare ::: goerkelidh
+avklare ::: bïhkedidh
+avklare ::: skajkedh
+avklare ::: kreajnoehtidh
+avklare ::: bïhkemdidh
+avklare ::: tjïelkedh
+avklare ::: skïerkedh
+avklare ::: skeerkedh
+avklare ::: tjilkestidh
+avklare ::: goerkelehtedh
+avklare ::: defineeredh
+avklare ::: skearkadehtedh
+avklare ::: tjïelkestehtedh
+avklare ::: tjïelkesidh
+avklare ::: skearkedh
+avklare ::: boejhkestidh
+avklare ::: boejhkelidh
+avklare ::: goerkestehtedh
+installere ::: ektiedidh
+rapportere ::: hiejhtedh
+rapportere ::: såårnedh
+rapportere ::: bïeljelidh
+integrere ::: ektiedidh
+integrere ::: iktedidh
+integrere ::: ikteridh
+integrere ::: gårredidh
+røyne ::: eelpehtidh
+røyne ::: nydtehtidh
+røyne ::: peesedh
+røyne ::: hodtehtidh
+røyne ::: tromhpestehtedh
+røyne ::: dïebtjestehtedh
+røyne ::: pleekedh
+røyne ::: trumhpiestidh
+røyne ::: håvhtadidh
+røyne ::: irhkedh
+røyne ::: dïelkestidh
+røyne ::: noerhkedh
+røyne ::: dïemtjestehtedh
+røyne ::: eejhtedh
+røyne ::: naskoehtidh
+minne ::: treevedh
+minne ::: måjhtajehtedh
+vektlegge ::: vuaptastehtedh
+så ::: bertedh
+så ::: sedtedh
+så ::: heesedh
+så ::: loebpedehtedh
+så ::: bïejedh
+så ::: burredh
+så ::: speedtjedh
+utføre ::: sietedh
+utføre ::: eadtjoestidh
+utføre ::: juhtedh
+utføre ::: dijpedh
+utføre ::: baejhtedh
+medvirke ::: dïjpedh
+oppbevare ::: vaarjelidh
+oppbevare ::: öörnedidh
+oppbevare ::: voebnesjidh
+oppbevare ::: gorredidh
+oppbevare ::: jurjiehtidh
+oppbevare ::: stååresjidh
+oppbevare ::: geehtestidh
+oppbevare ::: öörnedh
+oppbevare ::: hååkedh
+fortrenge ::: nehkiehtidh
+fortrenge ::: bonhkehtalledh
+framtre ::: jijhtedh
+påvise ::: vuesiehtidh
+påvise ::: tjuvtjiedidh
+påvise ::: vuaptastehtedh
+skissere ::: dåalhkestidh
+skissere ::: tjïelkestidh
+skissere ::: tjilkedh
+skissere ::: reektestidh
+skissere ::: goerkelidh
+skissere ::: bïhkedidh
+skissere ::: guvviedidh
+skissere ::: naajedh
+skissere ::: kreajnoehtidh
+skissere ::: bïhkemdidh
+skissere ::: tjilkestidh
+skissere ::: buerkiestidh
+skissere ::: goerkelehtedh
+skissere ::: defineeredh
+skissere ::: tjaeledh
+skissere ::: tjïelkestehtedh
+skissere ::: tjïelkesidh
+skissere ::: boejhkestidh
+skissere ::: boejhkelidh
+skissere ::: goerkestehtedh
+interessere ::: aabparidh
+interessere ::: pryöjjadidh
+interessere ::: pryjjedh
+interessere ::: eavadidh
+interessere ::: eavedidh
+interessere ::: aaparidh
+interessere ::: seatadidh
+interessere ::: præjjadidh
+interessere ::: gaerhtedh
+interessere ::: krööhkestidh
+interessere ::: seahkaridh
+spores ::: vååjnedh
+spores ::: tuhtjedh
+sidestille ::: ektiedidh
+sidestille ::: iktedidh
+fjerne ::: sjyjjedehtedh
+fjerne ::: nåhkehtidh
+fjerne ::: deehkehtidh
+fjerne ::: njaamedh
+fjerne ::: strovhkesjidh
+fjerne ::: deehkedidh
+fjerne ::: gapsjedh
+fjerne ::: gïerehtehtedh
+fjerne ::: sjyjjehtehtedh
+fjerne ::: gajhkedh
+fjerne ::: jimhkelidh
+fjerne ::: gaajesjidh
+fjerne ::: gajhkehtestedh
+fjerne ::: båarkadehtedh
+fjerne ::: gajhkestehtedh
+fjerne ::: gajhkesjidh
+fjerne ::: gajhkedidh
+skjerpe ::: sneerredh
+foregå ::: deahpadidh
+foregå ::: heannadidh
+foregå ::: sjugniehtovvedh
+slette ::: sjyjjedehtedh
+slette ::: deehkehtidh
+slette ::: feerpedh
+slette ::: njaamedh
+slette ::: strovhkesjidh
+slette ::: måaladidh
+slette ::: sepkiestidh
+slette ::: möölehtidh
+slette ::: deehkedidh
+slette ::: meeledh
+slette ::: gapsjedh
+slette ::: njeervedh
+slette ::: sjyjjehtehtedh
+slette ::: gajhkedh
+slette ::: muerkiestidh
+slette ::: gaajesjidh
+slette ::: gajhkehtestedh
+slette ::: båarkadehtedh
+slette ::: gajhkestehtedh
+slette ::: sepkielidh
+slette ::: gajhkesjidh
+slette ::: gajhkedidh
+spekulere ::: funhterdidh
+spekulere ::: moenedidh
+refse ::: eeledh
+refse ::: bïhkedidh
+refse ::: pliktedh
+refse ::: strååffedh
+refse ::: bïhkemdidh
+refse ::: bæsvodh
+refse ::: bijjiedidh
+avlevere ::: sedtedh
+avlevere ::: seajkodh
+avlevere ::: streehtjedh
+avlevere ::: gietskiedidh
+avlevere ::: skilledh
+avlevere ::: geelkedh
+skolere ::: ööhpehtidh
+skolere ::: lïeredh
+skolere ::: bïhkedidh
+skolere ::: lohkehtidh
+skolere ::: bïhkemdidh
+skolere ::: leeredh
+skolere ::: ööhpehtalledh
+skolere ::: leerehtidh
+skolere ::: skuvlestidh
+skolere ::: lïerehtidh
+skolere ::: boejhkelidh
+sleppe ::: dasselidh
+sleppe ::: dassedh
+sleppe ::: luejhtedh
+sleppe ::: teehpedh
+sleppe ::: biestedh
+sleppe ::: dassedistedh
+sleppe ::: gaerviehtestedh
+sleppe ::: gaerviehtidh
+beregne ::: tjilkedh
+beregne ::: abrodh
+beregne ::: aerviedidh
+beregne ::: obrijidh
+beregne ::: ryöknedh
+beregne ::: tjilkestidh
+beregne ::: defineeredh
+beregne ::: veanhtadidh
+beregne ::: råanjedh
+beregne ::: åbrodh
+beregne ::: vuertedh
+opptre ::: vuesiehtidh
+legge opp til ::: laatjodh
+legge opp til ::: sjïehtesjadtedh
+legge opp til ::: eevtjedh
+invitere ::: bööredidh
+invitere ::: haestedh
+avsette ::: öörnedidh
+avsette ::: narhtodh
+avsette ::: tsåajkoehtidh
+avsette ::: narhtoelidh
+avsette ::: våårkedidh
+avsette ::: vaaroehtidh
+avsette ::: bïedtedh
+avsette ::: öörnedh
+avsette ::: vaatnoehtidh
+bosette ::: veasastidh
+bosette ::: orrijidh
+bosette ::: årrodh
+bosette ::: veasodh
+bosette ::: hööltestidh
+bosette ::: hööllestidh
+bosette ::: veasoestidh
+nedprioritere ::: aassjoestidh
+nedprioritere ::: væssjoehtidh
+oppsummere ::: ussjedistedh
+oppsummere ::: ussjedestielidh
+revidere ::: kraanskodh
+revidere ::: vaaksjodh
+revidere ::: goerehtidh
+revidere ::: gïehtjedidh
+revidere ::: orrestidh
+revidere ::: oddestidh
+revidere ::: goerehtalledh
+bre ::: heesedh
+bre ::: loebpedehtedh
+bre ::: burredh
+bre ::: speedtjedh
+røske ::: struvkestidh
+røske ::: sigkedh
+røske ::: tjaavhkestidh
+røske ::: sigkestidh
+bekymre ::: strerkiestidh
+bekymre ::: straavedh
+bekymre ::: straavvedh
+gjenta ::: geartodh
+gjenta ::: pruvnieldidh
+gjenta ::: provnedh
+gjenta ::: asvedidh
+gjenta ::: butnedh
+rullere ::: målsodh
+rullere ::: låtnodh
+rullere ::: raerhkedh
+rullere ::: molsesovvedh
+ydmyke ::: sjåavoehtidh
+ydmyke ::: sjöövelidh
+ydmyke ::: donhkelidh
+ydmyke ::: doehtedh
+ydmyke ::: domhkelidh
+dukke ::: tjarnedh
+dukke ::: tjummiestidh
+sløyfe ::: sjyjjedehtedh
+sløyfe ::: deehkehtidh
+sløyfe ::: njaamedh
+sløyfe ::: strovhkesjidh
+sløyfe ::: deehkedidh
+sløyfe ::: gapsjedh
+sløyfe ::: sjyjjehtehtedh
+sløyfe ::: gajhkedh
+sløyfe ::: gaajesjidh
+sløyfe ::: gajhkehtestedh
+sløyfe ::: båarkadehtedh
+sløyfe ::: gajhkestehtedh
+sløyfe ::: gajhkesjidh
+sløyfe ::: gajhkedidh
+anvise ::: vuesiehtidh
+lunsje ::: byöpmedalledh
+lunsje ::: barredh
+lunsje ::: tjåaglodh
+lunsje ::: bårrestalledh
+lunsje ::: byöpmedidh
+lunsje ::: bansjedh
+lunsje ::: bårredh
+lunsje ::: maatadadtedh
+lunsje ::: maatadidh
+lunsje ::: barrestalledh
+lunsje ::: meksiehtidh
+lunsje ::: fyödedidh
+opplyse ::: såårnedh
+opplyse ::: saarnodh
+opplyse ::: bæjjoehtidh
+opplyse ::: bïeljelidh
+opplyse ::: soetestidh
+opplyse ::: soptsestidh
+opplyse ::: bievnedh
+opplyse ::: saakestidh
+opplyse ::: ållermaehtedh
+overlevere ::: sedtedh
+overlevere ::: buektedh
+overlevere ::: foeresjidh
+overlevere ::: seajkodh
+overlevere ::: streehtjedh
+overlevere ::: gietskiedidh
+overlevere ::: skilledh
+overlevere ::: saehtedh
+overlevere ::: geelkedh
+kombinere ::: ektiedidh
+kombinere ::: iktedidh
+kombinere ::: ikteridh
+hemme ::: jalloedidh
+hemme ::: aeredh
+hemme ::: hööptedh
+hemme ::: heerredh
+hemme ::: heeptedidh
+hemme ::: jeeredh
+hemme ::: jeeredidh
+hemme ::: jarhpoedidh
+hemme ::: heerredidh
+hemme ::: aededh
+styrkes ::: nænnoestidh
+frita ::: lööveldidh
+frita ::: tjuevtedh
+frita ::: löövedh
+avverge ::: jalloedidh
+avverge ::: aeredh
+avverge ::: hööptedh
+avverge ::: heeptedidh
+avverge ::: jeeredh
+avverge ::: jeeredidh
+avverge ::: jarhpoedidh
+avverge ::: gervedh
+avverge ::: heerredidh
+avverge ::: uvtedh
+avverge ::: aededh
+levne ::: laehpedh
+kunngjøre ::: bæjhkoehtidh
+kunngjøre ::: hiejhtedh
+kunngjøre ::: såårnedh
+kunngjøre ::: saarnodh
+kunngjøre ::: bæjjoehtidh
+kunngjøre ::: bïeljelidh
+kunngjøre ::: bievnedh
+forberede ::: illedh
+forberede ::: ryöjredidh
+forberede ::: båårestidh
+vare ::: ståaradidh
+vare ::: årrodh
+innrette ::: öörnedidh
+innrette ::: damtedh
+innrette ::: tseegkedh
+innrette ::: jurjiehtidh
+innrette ::: öörnedh
+innrette ::: hååkedh
+etterlyse ::: ohtseldidh
+etterlyse ::: gåhkasjidh
+etterlyse ::: syökedh
+etterlyse ::: siekierdidh
+etterlyse ::: heeledovvedh
+etterlyse ::: haeliedidh
+etterlyse ::: ohtselidh
+etterlyse ::: heeledidh
+etterlyse ::: ohtsedh
+etterlyse ::: ohtsedidh
+erkjenne ::: bæjhkoehtidh
+erkjenne ::: byjhkesjidh
+erkjenne ::: mietiehtidh
+erkjenne ::: bïjhkesjidh
+erkjenne ::: bæjhkodh
+erkjenne ::: boejhkesjidh
+forekomme ::: deahpadidh
+forekomme ::: heannadidh
+forekomme ::: sjugniehtovvedh
+forekomme ::: delhkiehtidh
+forekomme ::: dalhkedh
+forekomme ::: jijhtedh
+omhandle ::: garmerdidh
+omhandle ::: girmedh
+omhandle ::: buerkiestidh
+omhandle ::: ållermaehtedh
+svekkes ::: lajjodh
+svekkes ::: veasjodh
+svekkes ::: heajjodh
+svekkes ::: heajjoedidh
+diskriminere ::: nulledh
+diskriminere ::: reetsedh
+undervurdere ::: daltedidh
+undervurdere ::: daltedh
+undervurdere ::: treemhpedh
+hoie ::: rïevnestidh
+hoie ::: hojhkesjidh
+hoie ::: hujhkiehtidh
+hoie ::: tjåarvodh
+hoie ::: hovhkesidh
+hoie ::: håjjedidh
+hoie ::: gæljodh
+hoie ::: goejhkesjidh
+hoie ::: gæljadidh
+rede ::: buerkiestidh
+nulle ::: sjyjjedehtedh
+nulle ::: deehkehtidh
+nulle ::: njaamedh
+nulle ::: strovhkesjidh
+nulle ::: deehkedidh
+nulle ::: gapsjedh
+nulle ::: sjyjjehtehtedh
+nulle ::: gajhkedh
+nulle ::: gaajesjidh
+nulle ::: gajhkehtestedh
+nulle ::: båarkadehtedh
+nulle ::: gajhkestehtedh
+nulle ::: gajhkesjidh
+nulle ::: gajhkedidh
+tilsidesette ::: nehkiehtidh
+tilsidesette ::: bonhkehtalledh
+taste ::: lamkedh
+taste ::: dïedtelidh
+taste ::: diedtedh
+taste ::: dïebtjestidh
+taste ::: dïebtjestehtedh
+taste ::: dïelkestidh
+taste ::: dïemtjestehtedh
+taste ::: dïemtjestidh
+taste ::: dïemtsedidh
+anse ::: nåhkehtidh
+anse ::: nåhtadidh
+anse ::: nahtadidh
+anse ::: nuhtjedh
+anse ::: dååsveridh
+anse ::: provhkedh
+anse ::: pråvhkodh
+anse ::: utnedh
+oppdatere ::: tjïrrehtidh
+oppdatere ::: orrestidh
+oppdatere ::: oddestidh
+tråkke ::: daltedidh
+overkjøre ::: aassjoestidh
+overkjøre ::: daltedidh
+overkjøre ::: daltedh
+overkjøre ::: væssjoehtidh
+overkjøre ::: treemhpedh
+plassere ::: deejedh
+plassere ::: rïjtedh
+plassere ::: bïejedh
+dempe ::: dåastodh
+dempe ::: dïervesjidh
+dempe ::: dåastoehtidh
+dempe ::: råakedh
+dempe ::: heajjoedidh
+dempe ::: dååstehtalledh
+ledsage ::: hulkedh
+ledsage ::: dåeriedidh
+ledsage ::: dåerieridh
+ledsage ::: tjåavodh
+dvele ::: funhterdidh
+dvele ::: tjoeperdidh
+dvele ::: jïermestalledh
+dvele ::: aajahtalledh
+dvele ::: tjomperdidh
+dvele ::: ussjedidh
+dvele ::: vïenhtedh
+dvele ::: ussjedalledh
+dvele ::: assjadalledh
+dvele ::: ussjiedidh
+utsmykke ::: feegredh
+utsmykke ::: rïesedh
+utsmykke ::: feevredh
+anskaffe ::: skååffedh
+yte ::: deelledh
+yte ::: vedtedh
+yte ::: vedtiestidh
+yte ::: geelkedh
+oppnås ::: illesovvedh
+prolongere ::: jåerhkedh
+tyste ::: slognestidh
+tyste ::: feaskadidh
+innlemme ::: ektiedidh
+innlemme ::: iktedidh
+innlemme ::: ikteridh
+rusle ::: vaedtsedh
+rusle ::: vaadtsehtjidh
+overse ::: aassjoestidh
+overse ::: våajaldidh
+overse ::: aajaldehtedh
+overse ::: vaajaldidh
+overse ::: vååjeldehtedh
+overse ::: vaajeldehtedh
+overse ::: væssjoehtidh
+overse ::: åajaldidh
+overse ::: åajaldehtedh
+overse ::: soelkedidh
+justere ::: staeriemdidh
+justere ::: staeriedidh
+justere ::: dåvvodh
+justere ::: davvodh
+justere ::: tjïertestidh
+justere ::: davvoehtidh
+imitere ::: heededh
+imitere ::: heeredh
+imitere ::: dorjehtidh
+imitere ::: dorjedidh
+imitere ::: aepiebalsedh
+imitere ::: tsïevhkehtidh
+imitere ::: dorjehtalledh
+modernisere ::: orrestidh
+modernisere ::: oddestidh
+forebygge ::: jalloedidh
+forebygge ::: aeredh
+forebygge ::: hööptedh
+forebygge ::: heeptedidh
+forebygge ::: jeeredh
+forebygge ::: jeeredidh
+forebygge ::: jarhpoedidh
+forebygge ::: gervedh
+forebygge ::: heerredidh
+forebygge ::: uvtedh
+forebygge ::: aededh
+innskrenke ::: åeniedidh
+innskrenke ::: unniedidh
+innskrenke ::: njoetedh
+innskrenke ::: badtehtidh
+innskrenke ::: måjkoedidh
+innskrenke ::: geehtestidh
+granske nøye ::: geehtedh
+bestå ::: åajsodh
+bestå ::: vaarjelidh
+bestå ::: håsvoeridh
+bestå ::: ståaradidh
+bestå ::: nahkasjidh
+bestå ::: gaegniedidh
+bestå ::: håajsodh
+bestå ::: bïerkenidh
+bestå ::: buektiehtidh
+bestå ::: bearkadidh
+kalkulere ::: abrodh
+kalkulere ::: obrijidh
+kalkulere ::: ryöknedh
+kalkulere ::: råanjedh
+kalkulere ::: åbrodh
+dyrke ::: jieliehtidh
+dyrke ::: bertedh
+dyrke ::: sedtedh
+dyrke ::: reakadehtedh
+dyrke ::: guaktadidh
+dyrke ::: såahpodh
+dyrke ::: heesedh
+dyrke ::: loebpedehtedh
+dyrke ::: bïejedh
+dyrke ::: baersieldidh
+dyrke ::: burredh
+dyrke ::: suehpiehtidh
+dyrke ::: speedtjedh
+løse ::: lööveldidh
+løse ::: tjuevtedh
+løse ::: luejhtedh
+løse ::: slyöhpedh
+løse ::: snjipkedh
+løse ::: biestedh
+løse ::: njolledh
+løse ::: nåålesidh
+løse ::: noeledh
+løse ::: slajkedh
+løse ::: bïesedh
+løse ::: luejhtiestidh
+løse ::: mietedh
+løse ::: slyöbpedh
+løse ::: loevenidh
+løse ::: löövedh
+montere ::: dibrehtidh
+montere ::: debriehtidh
+montere ::: tjöönghkedh
+montere ::: jaksedh
+montere ::: steegkedh
+montere ::: tjåanghkenidh
+montere ::: tjöönghkesovvedh
+montere ::: lustestalledh
+montere ::: seeptjedh
+montere ::: dabreldehtedh
+montere ::: tjåegkedh
+montere ::: jovkestalledh
+montere ::: gaptjedh
+kappe ::: sååkesjidh
+kappe ::: smaahkodh
+overkomme ::: vitnedh
+overkomme ::: vïtnedh
+avholde ::: dïervesjidh
+avholde ::: hööltedh
+avholde ::: dåastoehtidh
+avholde ::: råakedh
+avholde ::: rïeresjidh
+avholde ::: utniehtidh
+avholde ::: steeredh
+avholde ::: utniedidh
+avholde ::: dååstehtalledh
+lovfeste ::: jååhkesjidh
+lovfeste ::: nænnoestidh
+lovfeste ::: vihtiestidh
+monne ::: nåhtadidh
+monne ::: nuhtjedh
+monne ::: provhkedh
+pålegge ::: tjoermedh
+pålegge ::: birredh
+pålegge ::: maedtedh
+pålegge ::: vaetiestidh
+pålegge ::: birresjidh
+pålegge ::: stilledh
+pålegge ::: gohtjedidh
+pålegge ::: raajedh
+pålegge ::: aanoestidh
+pålegge ::: tjoemehtidh
+pålegge ::: rohkelassjedh
+signere ::: tjaelielidh
+trå ::: daltedidh
+trå ::: daltedh
+trå ::: treemhpedh
+sikre ::: vaarjelidh
+sikre ::: jååhkesjidh
+sikre ::: gorredidh
+sikre ::: tjirkedh
+sikre ::: nænnoestidh
+sikre ::: vihtiestidh
+sikre ::: stååresjidh
+forutse ::: guarkedh
+forutse ::: funhterdidh
+forutse ::: aerviedidh
+forutse ::: sovmedh
+forutse ::: vïenhtedh
+forutse ::: moenedidh
+forutse ::: veanhtedh
+fortolke ::: dåalhkestidh
+fortolke ::: guarkedh
+skylde ::: bïedtedh
+skylde ::: gïelkerdidh
+beskylde ::: bïedtedh
+beskylde ::: gïelkerdidh
+strukturere ::: öörnedh
+instruere ::: eeledh
+instruere ::: bïhkedidh
+instruere ::: pliktedh
+instruere ::: strååffedh
+instruere ::: bïhkemdidh
+instruere ::: bæsvodh
+instruere ::: buerkiestidh
+instruere ::: bijjiedidh
+moderere ::: staeriemdidh
+moderere ::: staeriedidh
+moderere ::: heajjoedidh
+mobbe ::: eelpehtidh
+mobbe ::: væssjastehtedh
+mobbe ::: fïrnestehtedh
+mobbe ::: nydtehtidh
+mobbe ::: iermedh
+mobbe ::: næskoehtidh
+mobbe ::: peesedh
+mobbe ::: hodtehtidh
+mobbe ::: nïerhkedh
+mobbe ::: byrrehtidh
+mobbe ::: tsælloehtidh
+mobbe ::: pleekedh
+mobbe ::: eerkedh
+mobbe ::: njuvtedh
+mobbe ::: naskoehtidh
+mobbe ::: domperostedh
+konsolidere ::: ektiedidh
+konsolidere ::: iktedidh
+konsolidere ::: ikteridh
+overskride ::: vaasedh
+overskride ::: dååjestalledh
+overskride ::: dåajodh
+overskride ::: vaesedh
+overskride ::: tsåapkodh
+overskride ::: rastadehtedh
+overskride ::: håajpodh
+overskride ::: tsööpkedh
+hemmes ::: aeredh
+hemmes ::: hööptedh
+underordne ::: ritnedh
+overprøve ::: jarkelidh
+overprøve ::: kraanskodh
+overprøve ::: vaaksjodh
+overprøve ::: jarkoestehtedh
+overprøve ::: eatjahtehtedh
+overprøve ::: goerehtidh
+overprøve ::: jeatjahtehtedh
+overprøve ::: gïehtjedidh
+overprøve ::: jarkoestidh
+overprøve ::: jyötjedehtedh
+overprøve ::: jeatjadehtedh
+overprøve ::: goerehtalledh
+henvise ::: vuesiehtidh
+henvise ::: tjuvtjiedidh
+henvise ::: vuaptastehtedh
+sjokkere ::: eajhkaldehtedh
+sjokkere ::: ierielidh
+tape ::: dasselidh
+tape ::: dassedh
+tape ::: luejhtedh
+tape ::: teehpedh
+tape ::: biestedh
+tape ::: dassedistedh
+tape ::: gaerviehtestedh
+tape ::: gaerviehtidh
+tape ::: tjaajanidh
+saksøke ::: skultedh
+saksøke ::: bïedtedh
+saksøke ::: gïelkerdidh
+forsinke ::: fïjneldehtedh
+forsinke ::: hööptedh
+reflektere ::: funhterdidh
+reflektere ::: jïermestalledh
+reflektere ::: aajahtalledh
+reflektere ::: ussjedidh
+reflektere ::: jïermestidh
+reflektere ::: onterdidh
+reflektere ::: vïenhtedh
+reflektere ::: assjadalledh
+reflektere ::: ussjiedidh
+reflektere ::: rontestalledh
+desentralisere ::: heesedh
+desentralisere ::: loebpedehtedh
+desentralisere ::: burredh
+desentralisere ::: speedtjedh
+utfordre ::: saarnoehtidh
+utfordre ::: raeriestidh
+utfordre ::: treevedh
+utfordre ::: bööredidh
+utfordre ::: maedtedh
+utfordre ::: bööredh
+utfordre ::: saarnahtidh
+utfordre ::: haestedh
+tie ::: magkalidh
+torturere ::: daaresjidh
+introdusere ::: vuesiehtidh
+introdusere ::: åehpiedehtedh
+vigsle ::: dibrehtidh
+vigsle ::: debriehtidh
+vigsle ::: lustestalledh
+vigsle ::: dabreldehtedh
+vigsle ::: jovkestalledh
+ankomme ::: haepkiesjidh
+ankomme ::: sïelkedh
+ankomme ::: såajtalidh
+ankomme ::: sealkedh
+ankomme ::: såajtoelidh
+ankomme ::: girtedh
+ramle ::: gahtjedh
+ramle ::: trïjsedidh
+tilrå ::: raeriestidh
+tilrå ::: åajvahtidh
+tilrå ::: nihtetjistedh
+tilrå ::: åajvahtehtedh
+frigi ::: lööveldidh
+frigi ::: löövedh
+domfelle ::: doemesjidh
+domfelle ::: dööpmesovvedh
+domfelle ::: dööpmedh
+domfelle ::: doepmesjidh
+domfelle ::: doepmedh
+koordinere ::: iktedidh
+omfatte ::: gaanestidh
+omfatte ::: feerhmestidh
+omfatte ::: njååmedidh
+omfatte ::: fååtmestidh
+omfatte ::: feerhmedh
+omfatte ::: fåårhmestidh
+omfatte ::: gaanedidh
+omfatte ::: faerhmiestidh
+omfatte ::: utnedh
+krysse ::: vaasedh
+krysse ::: vaesedh
+krysse ::: rastadehtedh
+krysse ::: restiedidh
+neglisjere ::: aassjoestidh
+neglisjere ::: væssjoehtidh
+tildele ::: laeviehtidh
+tildele ::: heesedh
+tildele ::: loebpedehtedh
+tildele ::: joekedidh
+tildele ::: vedtedh
+tildele ::: vedtiestidh
+tildele ::: burredh
+tildele ::: lööpkedh
+tildele ::: speedtjedh
+tildele ::: geelkedh
+tildele ::: luepkedh
+tildele ::: juekedh
+opprettholde ::: vaarjelidh
+opprettholde ::: hööltedh
+opprettholde ::: baajedh
+opprettholde ::: rïeresjidh
+opprettholde ::: utniehtidh
+opprettholde ::: steeredh
+opprettholde ::: utniedidh
+opprettholde ::: stååresjidh
+samsvare ::: vaarjelidh
+samsvare ::: sjïehtelovvedh
+samsvare ::: geehtedh
+samsvare ::: sjïehtedh
+samsvare ::: hievedh
+samsvare ::: heavadidh
+samsvare ::: hyövedh
+nedsette ::: heajjoedidh
+hevde ::: bagkehtidh
+hevde ::: bagkesidh
+hevde ::: bajjehtidh
+ferdigstilles ::: dorjesovvedh
+ferdigstilles ::: galhkedh
+ferdigstilles ::: galhkasovvedh
+ferdigstilles ::: ryöjredidh
+splitte ::: kroehkedh
+splitte ::: heesedh
+splitte ::: rööhtsedh
+splitte ::: loebpedehtedh
+splitte ::: reevhtsedh
+splitte ::: burredh
+splitte ::: speedtjedh
+splitte ::: röövhtsedh
+inspirere ::: bïhkedidh
+inspirere ::: bïhkemdidh
+inspirere ::: garmerdehtedh
+inspirere ::: skreejrehtidh
+inspirere ::: madtjeldehtedh
+inspirere ::: reesedh
+inspirere ::: skodtedehtedh
+inspirere ::: eadtjaldehtedh
+inspirere ::: sjollehtidh
+abonnere ::: dængkodh
+abonnere ::: hööltedh
+abonnere ::: dyngkedh
+abonnere ::: rïeresjidh
+abonnere ::: dongkedh
+abonnere ::: dongkehtidh
+abonnere ::: utniehtidh
+abonnere ::: steeredh
+abonnere ::: dængkoehtidh
+abonnere ::: utniedidh
+abonnere ::: dangkodh
+frata ::: dasselidh
+frata ::: dassedh
+frata ::: luejhtedh
+frata ::: teehpedh
+frata ::: biestedh
+frata ::: ruhtedh
+frata ::: dassedistedh
+frata ::: gaerviehtestedh
+frata ::: gaerviehtidh
+frata ::: ryövedh
+frata ::: tjåegkedh
+frata ::: röövedh
+ferdigstille ::: galhkedh
+skjemme ::: neeledh
+skjemme ::: biejstedh
+tenne ::: baahkedidh
+orientere ::: hiejhtedh
+orientere ::: såårnedh
+orientere ::: bïeljelidh
+signalisere ::: daejriehtidh
+signalisere ::: nåalodh
+signalisere ::: plåtjkedh
+signalisere ::: blutjkehtidh
+brøyte ::: ööledh
+avgrense ::: geehtestidh
+begeistre ::: madtjelovvedh
+produsere ::: darjodh
+ekskludere ::: bonhkelidh
+ekskludere ::: nehkiehtidh
+innebære ::: lahtestidh
+innebære ::: tjaelielidh
+innebære ::: krööhkedh
+innebære ::: krööhkestidh
+utlåne ::: löönelidh
+utlåne ::: mïetedh
+vaie ::: baajskodh
+vaie ::: goeksegidh
+vaie ::: luehkedh
+trygge ::: seereldehtedh
+trygge ::: seerehtalledh
+tappe ::: heajjoedidh
+tappe ::: liebnedh
+uroe ::: eelpehtidh
+uroe ::: stööredh
+uroe ::: hearaldehtedh
+uroe ::: sturredh
+innmelde ::: hiejhtedh
+innmelde ::: såårnedh
+innmelde ::: bïeljelidh
+innmelde ::: tjaeliestidh
+innmelde ::: tjaeledh
+sprenge ::: smealladidh
+sprenge ::: gåpmanidh
+sprenge ::: gaesvierdidh
+sprenge ::: njuvtedh
+sprenge ::: baahtsedh
+sprenge ::: murhkestidh
+sprenge ::: slaamehtidh
+sprenge ::: gupmiehtidh
+sprenge ::: gaemhpierdidh
+sprenge ::: murhkedh
+sprenge ::: låtnoehtidh
+standardisere ::: ektiedidh
+møte frem ::: dalhkedh
+møte frem ::: dalvedh
+møte frem ::: båetedh
+klapre ::: tsaepmedh
+klapre ::: beenghkedh
+klapre ::: njuvtedh
+daske ::: kleehpedh
+daske ::: deehkehtidh
+daske ::: daajesjidh
+daske ::: deehkedidh
+beholde ::: vaarjelidh
+beholde ::: stååresjidh
+dytte ::: bonhkelidh
+dytte ::: nehkiehtidh
+implementere ::: eadtjaldehtedh
+nyte ::: damtedh
+nyte ::: maejstedh
+nyte ::: smaehkiedidh
+nyte ::: smååhkestidh
+nyte ::: smååhkedh
+leite ::: syökedh
+leite ::: ohtsedh
+leite ::: ohtsedidh
+synse ::: lahtedh
+synse ::: aarvadalledh
+synse ::: jaahkahtidh
+synse ::: aerviedidh
+synse ::: gåhtjodh
+synse ::: lahtestehtedh
+synse ::: sovmedh
+synse ::: vïenhtedh
+synse ::: veanhtedh
+synse ::: jaehkedh
+synse ::: utnedh
+synse ::: tuhtjedh
+synse ::: mïeledh
+fremkomme ::: vååjnedh
+fremkomme ::: delhkiehtidh
+fremkomme ::: damhkedh
+fremkomme ::: dalhkedh
+fremkomme ::: tuhtjedh
+fremkomme ::: jijhtedh
+fremkomme ::: dalvedh
+kjede ::: vïssjehtovvedh
+kjede ::: ovmurriedidh
+kjede ::: ovtræjjadidh
+kjede ::: ovtråjjadidh
+gå for fort ::: evtiedidh
+gå for fort ::: övtiedidh
+gå for fort ::: evtiemdidh
+kjede seg ::: vïssjehtovvedh
+kjede seg ::: ovmurriedidh
+fyre ::: biktedh
+fyre ::: baahkedidh
+garantere ::: jååhkesjidh
+garantere ::: tjirkedh
+garantere ::: nænnoestidh
+rustne ::: råastodh
+rustne ::: roestedh
+granske ::: digkiedidh
+granske ::: giehtjedidh
+granske ::: goerehtalledh
+skåne ::: aarmaridh
+skåne ::: healladidh
+skåne ::: aarhkalestedh
+befare ::: sierngedh
+befare ::: vuartasjidh
+befare ::: vuejnedh
+befare ::: gïehtjelidh
+befare ::: goevledh
+befare ::: vuejniestidh
+befare ::: vuajnajidh
+befare ::: gïehtjedidh
+sluttføre ::: dorjesovvedh
+sluttføre ::: geervedh
+sluttføre ::: orrijidh
+sluttføre ::: galhkedh
+sluttføre ::: illedh
+sluttføre ::: ryöjredidh
+sluttføre ::: galhkasovvedh
+sluttføre ::: geervehtidh
+konstituere ::: bidtjedh
+konstituere ::: tseegkedh
+konstituere ::: bygkedh
+konstituere ::: moenesovvedh
+konstituere ::: bigkedh
+fordømme ::: viesjliedidh
+fordømme ::: laejhtedh
+fordømme ::: gevsiedidh
+øve ::: saavredh
+omsette ::: doekedh
+fokusere ::: vuaptastehtedh
+opparbeide ::: skååffedh
+lagre ::: öörnedidh
+lagre ::: voebnesjidh
+lagre ::: gorredidh
+lagre ::: jurjiehtidh
+lagre ::: geehtestidh
+lagre ::: öörnedh
+lagre ::: hååkedh
+engasjere ::: vuertiehtidh
+engasjere ::: beelhkedh
+engasjere ::: lijrehtidh
+engasjere ::: maeksedh
+engasjere ::: leejjedh
+forankre ::: gurredh
+forankre ::: ektiedidh
+forankre ::: gaarhkedh
+forankre ::: gaaredh
+forankre ::: gårredidh
+forankre ::: viedtedh
+kartlegge ::: goerehtalledh
+gravlegge ::: jöörtedh
+gravlegge ::: boernedidh
+avdekke ::: bæjjoehtidh
+sensurere ::: vierhtiedidh
+etablere ::: öörnedidh
+etablere ::: bidtjedh
+etablere ::: tseegkedh
+etablere ::: jurjiehtidh
+etablere ::: bygkedh
+etablere ::: moenesovvedh
+etablere ::: öörnedh
+etablere ::: bigkedh
+etablere ::: hååkedh
+forhåndsgranske ::: vuartasjidh
+forhåndsgranske ::: vuejnedh
+forhåndsgranske ::: goevledh
+forhåndsgranske ::: vuejniestidh
+forhåndsgranske ::: vuajnajidh
+forhåndsgranske ::: gïehtjedidh
+kommandere ::: saarnoehtidh
+kommandere ::: nommestehtedh
+kommandere ::: lahtedh
+kommandere ::: bööredidh
+kommandere ::: birredh
+kommandere ::: maedtedh
+kommandere ::: lahtestehtedh
+kommandere ::: gåhtjodh
+kommandere ::: tjåarvodh
+kommandere ::: bööredh
+kommandere ::: birresjidh
+kommandere ::: vaetiestidh
+kommandere ::: moenedh
+kommandere ::: saarnahtidh
+kommandere ::: gohtjedidh
+kommandere ::: raajedh
+kommandere ::: aanoestidh
+kommandere ::: rohkelassjedh
+kommandere ::: tjoemehtidh
+innføre ::: öörnedidh
+innføre ::: tseegkedh
+innføre ::: jurjiehtidh
+innføre ::: öörnedh
+innføre ::: hååkedh
+doble ::: provnedh
+bidra ::: sietedh
+bidra ::: foeresjidh
+bidra ::: dïjpedh
+bidra ::: steeredh
+bidra ::: viehkiehtidh
+integreres ::: ektiedidh
+integreres ::: tjoelmelidh
+integreres ::: gaaredh
+integreres ::: gårredidh
+evaluere ::: vierhtiedidh
+evaluere ::: viesjliedidh
+evaluere ::: digkiedidh
+evaluere ::: laejhtedh
+eksperimentere ::: aatskadidh
+eksperimentere ::: voejhkelidh
+eksperimentere ::: pryövedh
+restaurere ::: staeriemdidh
+restaurere ::: staeriedidh
+restaurere ::: dåvvodh
+restaurere ::: davvodh
+restaurere ::: davvoehtidh
+bli ferdigstilt ::: dorjesovvedh
+bli ferdigstilt ::: galhkedh
+bli ferdigstilt ::: illedh
+bli ferdigstilt ::: galhkasovvedh
+bli ferdigstilt ::: ryöjredidh
+ledes ::: reeredh
+ledes ::: sietedh
+ledes ::: eadtjoestidh
+ledes ::: foeresjidh
+ledes ::: steeredh
+ledes ::: lijrehtidh
+ledes ::: tsuvtsedh
+ledes ::: vaedtsiehtidh
+ledes ::: jïjtjereeredh
+ledes ::: mietiedidh
+ledes ::: baejhtedh
+ledes ::: stuvredh
+oppfange ::: reebledh
+oppfange ::: doektjehtidh
+oppfange ::: fihkelidh
+oppfange ::: gaavnedh
+oppfange ::: ribledh
+videreføre ::: sietedh
+videreføre ::: jåerhkedh
+videreføre ::: foeresjidh
+videreføre ::: steeredh
+videreføre ::: saehtedh
+stimulere ::: gïehtjelidh
+stimulere ::: garmerdehtedh
+stimulere ::: skreejrehtidh
+stimulere ::: madtjeldehtedh
+stimulere ::: reesedh
+stimulere ::: skodtedehtedh
+stimulere ::: eadtjaldehtedh
+stimulere ::: sjollehtidh
+skjenke ::: liebnedh
+uttrykke ::: bæjhkoehtidh
+uttrykke ::: evtiedidh
+uttrykke ::: såårnedh
+uttrykke ::: vuesiehtidh
+uttrykke ::: neebnedh
+uttrykke ::: håalodh
+uttrykke ::: jiehtedh
+uttrykke ::: heelsedh
+uttrykke ::: håaledh
+uttrykke ::: hamhkesidh
+uttrykke ::: bïeljelidh
+uttrykke ::: dygkedidh
+uttrykke ::: nåalodh
+uttrykke ::: övtiedidh
+uttrykke ::: buarastalledh
+uttrykke ::: evtiemdidh
+uttrykke ::: buarastehtedh
+uttrykke ::: soptsestidh
+uttrykke ::: åehpiedehtedh
+uttrykke ::: ållermaehtedh
+uttrykke ::: dygkedadtedh
+uttrykke ::: slaamehtidh
+uttrykke ::: gaemhpierdidh
  -->
    <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript"
                  xmlns:xhtml="http://www.w3.org/1999/xhtml"/>
