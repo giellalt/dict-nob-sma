@@ -206,7 +206,7 @@ tilstand	staatuse	dilli	42	92	1423	4
 helsetilstand	starne	dearvvasvuođadilálašvuohta	8	182	1	0
 helsetilstand	healsoe	dearvvasvuođadilálašvuohta	8	459	1	0
 
-arbeidsstipend	barkoestipeende	bargostipeanda	9	0	11	0
++arbeidsstipend	barkoestipeende	bargostipeanda	9	0	11	0
 arbeidsstipend	barkoenstipeende	bargostipeanda	9	0	11	0
 
 studentstipend	learohkestipeende	studeantastipeanda	1	0	1	0
@@ -3680,14 +3680,14 @@ verdighet	aarvoe	gutnálašvuohta/árvvolašvuohta	10	238	1	0
 verdighet	staatuse	árvu/gutnálašvuohta/árvvolašvuohta	10	92	166	7
 
 jobbmulighet	barkoestradtjenuepie	bargovejolašvuohta	2	0	6	0
-jobbmulighet	barkoenuepie	bargovejolašvuohta	2	0	6	2
++jobbmulighet	barkoenuepie	bargovejolašvuohta	2	0	6	2
 jobbmulighet	barkoestradtjennuepie	bargovejolašvuohta	2	0	6	0
 jobbmulighet	barkoennuepie	bargovejolašvuohta	2	0	6	0
 jobbmulighet	barkoehille	bargovejolašvuohta	2	0	6	0
 jobbmulighet	barkoenhille	bargovejolašvuohta	2	0	6	0
 
 valgmulighet	dåehkie	válljenmunni	8	486	10	0
-valgmulighet	veeljemenuepie	válljenmunni	8	1	10	2
++valgmulighet	veeljemenuepie	válljenmunni	8	1	10	2
 valgmulighet	veeljemennuepie	válljenmunni	8	0	10	0
 valgmulighet	moenehtse	válljenmunni	8	344	10	0
 
