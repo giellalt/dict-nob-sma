@@ -19136,16 +19136,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">sekretær</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t margo="e" pos="N" soggi="i" stem="3syll">kontovrebarkije</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">kontorarbeid</l>
       </lg>
       <mg>
@@ -63346,6 +63336,11 @@ For the full license text, see the link above.</lic>
         <t pos="N">tjaelije</t>
       </tg>
     </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t margo="e" pos="N" soggi="i" stem="3syll">kontovrebarkije</t>
+         </tg>
+      </mg>
   </e>
   <e>
     <lg>
@@ -77639,6 +77634,829 @@ For the full license text, see the link above.</lic>
       </tg>
     </mg>
   </e>
+
+   <e>
+      <lg>
+         <l pos="N">penge</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">beetnege</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">forum</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">forume</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">foto</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">guvvie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kamera</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">guvvieaparate</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">debatt</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">digkiedimmie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">blogg</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">blogge</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">video</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">video</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">bedrift</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">sïelte</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kunde</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">oastije</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">utfordring</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">haesteme</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">trening</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">saavreme</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">tvil</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">juerie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">besøk</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">guessie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">opplevelse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">dååjrese</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">omgang</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">våaroe</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">metode</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">vuekie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">profil</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">profijle</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">skjerm</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">monitovre</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">dollar</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">dollare</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">konto</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">konto</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">part</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">bielie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">logg</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">logge</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">mangel</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">vaenie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">snakk</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">sopsteme</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">slags</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">soerths</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">muslim</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">muslime</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">prinsipp</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">prinsippe</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">teori</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">teorije</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">konflikt</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">vigkie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">sekund</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">sekunde</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">handling</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N"> giehtelimmie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">klær</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">vaarjoeh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kontrakt</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">latjkoe</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">utland</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">ålkoelaante</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">formål</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">ulmie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">mamma</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">tjidtjie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">dommer</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">dåapmere</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">artist</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">artiste</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">vinner</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">vitnie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">album</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">albumme</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">fart</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">drïekte</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">statsminister</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">staateministere</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">frykt</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">asvoe</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">frihet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">frijjevuote</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">velger</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">veeljije</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">lokale</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">tjihtjele</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kanal</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">kanale</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">batteri</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">batterije</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">motstander</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">vuestehke</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">forside</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">alkoesæjroe</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">retningslinje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">njoelkedasse</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">økning</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">lissiedimmie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">melding</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">dijne </t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">islam</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">islame</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">brann</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">bueleme</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">pappa</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">aehtjie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">klima</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">klijma</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">gulv</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">guelpie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">gass</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">gasse</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">sykkel</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">sykkele</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">trafikk</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">valkese</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">utstilling</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">vuesiehtimmie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">team</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">barkoedåehkie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">skriver</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">tjaelije</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">konkurrent</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">gaahtjie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">frist</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">aejkiemierie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">utfordring</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">haesteme</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">tilskudd</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N"> doarjoe</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">park</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">såafoe</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">venninne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">voelpe</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">symbol</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">symbole</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">magasin</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">plaerie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">utdrag</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">stuhtje</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">euro</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">euro</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kompis</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">voelpe</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">hud</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">njaltja</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">mottaker</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">dåastoje</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">dødsfall</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">sealadimmie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kjøretøy</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">vuajastahkh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">fotografi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">guvvie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">pizza</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">pizza</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">eple</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">æpla</t>
+         </tg>
+      </mg>
+   </e>
+
+  
   <!-- Bad suggestions, remove next time round: 
 minoritetspublikum ::: unnebelåhkoealmetjh
 postnett ::: påastenehte
