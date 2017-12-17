@@ -27,13 +27,33 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
-   <e>
+   <e src="gg">
       <lg>
-         <l pos="Adv">i langvarig solskinn</l>
+         <l pos="Adv">åpenbart</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Adv">guakedh</t>
+            <t pos="Adv">tjïelkes</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="gg">
+      <lg>
+         <l pos="Adv">tilfeldig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">veajkoej</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="gg">
+      <lg>
+         <l pos="Adv">selvfølgelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">hævvi</t>
          </tg>
       </mg>
    </e>
@@ -55,7 +75,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="Adv">buaredh</t>
             <xg>
-               <x>Når myggen kommer tidlig, så blir det govær og en fin sommer.</x>
+               <x>Når myggen kommer tidlig, så blir det godvær og en fin sommer.</x>
                <xt>Gosse tjoejhkh aareh båetieh, dellie maa buaredh jïh buerie giesie sjædta.</xt>
             </xg>
          </tg>
@@ -68,10 +88,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="Adv">buaredh</t>
-            <xg>
-               <x>Når myggen kommer tidlig, så blir det govær og en fin sommer.</x>
-               <xt>Gosse tjoejhkh aareh båetieh, dellie maa buaredh jïh buerie giesie sjædta.</xt>
-            </xg>
          </tg>
       </mg>
    </e>

@@ -59167,414 +59167,586 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">mobbe</l>
+      <l pos="V" src="fad">mobbe</l>
     </lg>
     <mg>
-      <tg xml:lang="smj">
-        <t pos="A">irhkedh</t>
+      <tg xml:lang="sma">
+        <t pos="V">irhkedh</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">melde</l>
+      <l pos="V" src="fad">melde</l>
     </lg>
     <mg>
-      <tg xml:lang="smj">
-        <t pos="A">bïeljelidh</t>
+      <tg xml:lang="sma">
+        <t pos="V">bïeljelidh</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">skynde</l>
+      <l pos="V" src="fad">skynde</l>
     </lg>
     <mg>
-      <tg xml:lang="smj">
-        <t pos="A">skodtedh</t>
+      <tg xml:lang="sma">
+        <t pos="V">skodtedh</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">ledsage</l>
+      <l pos="V" src="fad">ledsage</l>
     </lg>
     <mg>
-      <tg xml:lang="smj">
-        <t pos="A">fulkedh</t>
+      <tg xml:lang="sma">
+        <t pos="V">fulkedh</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">nedlegge</l>
+      <l pos="V" src="fad">nedlegge</l>
     </lg>
     <mg>
-      <tg xml:lang="smj">
-        <t pos="A">orrijehtedh</t>
+      <tg xml:lang="sma">
+        <t pos="V">orrijehtedh</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">herje</l>
+      <l pos="V" src="fad">herje</l>
     </lg>
     <mg>
-      <tg xml:lang="smj">
-        <t pos="A">rajjadidh</t>
+      <tg xml:lang="sma">
+        <t pos="V">rajjadidh</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">preke</l>
+      <l pos="V" src="fad">preke</l>
     </lg>
     <mg>
-      <tg xml:lang="smj">
-        <t pos="A">saerniedidh</t>
+      <tg xml:lang="sma">
+        <t pos="V">saerniedidh</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">tråkke</l>
+      <l pos="V" src="fad">tråkke</l>
     </lg>
     <mg>
-      <tg xml:lang="smj">
-        <t pos="A">daltedh</t>
+      <tg xml:lang="sma">
+        <t pos="V">daltedh</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">fortolke</l>
+      <l pos="V" src="fad">fortolke</l>
     </lg>
     <mg>
-      <tg xml:lang="smj">
-        <t pos="A">toelhkestidh</t>
+      <tg xml:lang="sma">
+        <t pos="V">toelhkestidh</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">skjenke</l>
+      <l pos="V" src="fad">skjenke</l>
     </lg>
     <mg>
-      <tg xml:lang="smj">
-        <t pos="A">gurhkedh</t>
+      <tg xml:lang="sma">
+        <t pos="V">gurhkedh</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">granske</l>
+      <l pos="V" src="fad">granske</l>
     </lg>
     <mg>
-      <tg xml:lang="smj">
-        <t pos="A">goerehtidh</t>
+      <tg xml:lang="sma">
+        <t pos="V">goerehtidh</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">minske</l>
+      <l pos="V" src="fad">minske</l>
     </lg>
     <mg>
-      <tg xml:lang="smj">
-        <t pos="A">unniedidh</t>
+      <tg xml:lang="sma">
+        <t pos="V">unniedidh</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">utbetale</l>
+      <l pos="V" src="fad">utbetale</l>
     </lg>
     <mg>
-      <tg xml:lang="smj">
-        <t pos="A">maeksedh</t>
+      <tg xml:lang="sma">
+        <t pos="V">maeksedh</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">utforme</l>
+      <l pos="V" src="fad">utforme</l>
     </lg>
     <mg>
-      <tg xml:lang="smj">
-        <t pos="A">hammoedidh</t>
+      <tg xml:lang="sma">
+        <t pos="V">hammoedidh</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">minne</l>
+      <l pos="V" src="fad">minne</l>
     </lg>
     <mg>
-      <tg xml:lang="smj">
-        <t pos="A">mojhtestehtedh</t>
+      <tg xml:lang="sma">
+        <t pos="V">mojhtestehtedh</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">verne</l>
+      <l pos="V" src="fad">verne</l>
     </lg>
     <mg>
-      <tg xml:lang="smj">
-        <t pos="A">vaarjelidh</t>
+      <tg xml:lang="sma">
+        <t pos="V">vaarjelidh</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">utlåne</l>
+      <l pos="V" src="fad">utlåne</l>
     </lg>
     <mg>
-      <tg xml:lang="smj">
-        <t pos="A">löönedh</t>
+      <tg xml:lang="sma">
+        <t pos="V">löönedh</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">kjempe</l>
+      <l pos="V" src="fad">kjempe</l>
     </lg>
     <mg>
-      <tg xml:lang="smj">
-        <t pos="A">gæmhpodh</t>
+      <tg xml:lang="sma">
+        <t pos="V">gæmhpodh</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">oppbevare</l>
+      <l pos="V" src="fad">oppbevare</l>
     </lg>
     <mg>
-      <tg xml:lang="smj">
-        <t pos="A">vöörhkedh</t>
+      <tg xml:lang="sma">
+        <t pos="V">vöörhkedh</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">studere</l>
+      <l pos="V" src="fad">studere</l>
     </lg>
     <mg>
-      <tg xml:lang="smj">
-        <t pos="A">lohkedh</t>
+      <tg xml:lang="sma">
+        <t pos="V">lohkedh</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">invitere</l>
+      <l pos="V" src="fad">invitere</l>
     </lg>
     <mg>
-      <tg xml:lang="smj">
-        <t pos="A">bööredh</t>
+      <tg xml:lang="sma">
+        <t pos="V">bööredh</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">lagre</l>
+      <l pos="V" src="fad">lagre</l>
     </lg>
     <mg>
-      <tg xml:lang="smj">
-        <t pos="A">vöörhkedh</t>
+      <tg xml:lang="sma">
+        <t pos="V">vöörhkedh</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">bekymre</l>
+      <l pos="V" src="fad">bekymre</l>
     </lg>
     <mg>
-      <tg xml:lang="smj">
-        <t pos="A">tjomberdidh</t>
+      <tg xml:lang="sma">
+        <t pos="V">tjomberdidh</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">knyte</l>
+      <l pos="V" src="fad">knyte</l>
     </lg>
     <mg>
-      <tg xml:lang="smj">
-        <t pos="A">gårredidh</t>
+      <tg xml:lang="sma">
+        <t pos="V">gårredidh</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">snike</l>
+      <l pos="V" src="fad">snike</l>
     </lg>
     <mg>
-      <tg xml:lang="smj">
-        <t pos="A">njaakedh</t>
+      <tg xml:lang="sma">
+        <t pos="V">njaakedh</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">dekke</l>
+      <l pos="V" src="fad">dekke</l>
     </lg>
     <mg>
-      <tg xml:lang="smj">
-        <t pos="A">gaptjedh</t>
+      <tg xml:lang="sma">
+        <t pos="V">gaptjedh</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">modne</l>
+      <l pos="V" src="fad">modne</l>
     </lg>
     <mg>
-      <tg xml:lang="smj">
-        <t pos="A">njoetsedh</t>
+      <tg xml:lang="sma">
+        <t pos="V">njoetsedh</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">re</l>
+      <l pos="V" src="fad">re</l>
     </lg>
     <mg>
-      <tg xml:lang="smj">
-        <t pos="A">laatjodh</t>
+      <tg xml:lang="sma">
+        <t pos="V">laatjodh</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">vedvare</l>
+      <l pos="V" src="fad">vedvare</l>
     </lg>
     <mg>
-      <tg xml:lang="smj">
-        <t pos="A">jåarhkasovvedh</t>
+      <tg xml:lang="sma">
+        <t pos="V">jåarhkasovvedh</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">revitalisere</l>
+      <l pos="V" src="fad">revitalisere</l>
     </lg>
     <mg>
-      <tg xml:lang="smj">
-        <t pos="A">jealajehtedh</t>
+      <tg xml:lang="sma">
+        <t pos="V">jealajehtedh</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">publisere</l>
+      <l pos="V" src="fad">publisere</l>
     </lg>
     <mg>
-      <tg xml:lang="smj">
-        <t pos="A">bæjjoehtidh</t>
+      <tg xml:lang="sma">
+        <t pos="V">bæjjoehtidh</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">konkretisere</l>
+      <l pos="V" src="fad">konkretisere</l>
     </lg>
     <mg>
-      <tg xml:lang="smj">
-        <t pos="A">tjïelkestidh</t>
+      <tg xml:lang="sma">
+        <t pos="V">tjïelkestidh</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">arkivere</l>
+      <l pos="V" src="fad">arkivere</l>
     </lg>
     <mg>
-      <tg xml:lang="smj">
-        <t pos="A">vöörhkedh</t>
+      <tg xml:lang="sma">
+        <t pos="V">vöörhkedh</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">sløye</l>
+      <l pos="V" src="fad">sløye</l>
     </lg>
     <mg>
-      <tg xml:lang="smj">
-        <t pos="A">tjåalodh</t>
+      <tg xml:lang="sma">
+        <t pos="V">tjåalodh</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">tie</l>
+      <l pos="V" src="fad">tie</l>
     </lg>
     <mg>
-      <tg xml:lang="smj">
-        <t pos="A">moelhnjedh</t>
+      <tg xml:lang="sma">
+        <t pos="V">moelhnjedh</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">kommandere</l>
+      <l pos="V" src="fad">kommandere</l>
     </lg>
     <mg>
-      <tg xml:lang="smj">
-        <t pos="A">stilledh</t>
+      <tg xml:lang="sma">
+        <t pos="V">stilledh</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">frarå</l>
+      <l pos="V" src="fad">frarå</l>
     </lg>
     <mg>
-      <tg xml:lang="smj">
-        <t pos="A">måårngestehtedh</t>
+      <tg xml:lang="sma">
+        <t pos="V">måårngestehtedh</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">gjenkjenne</l>
+      <l pos="V" src="fad">gjenkjenne</l>
     </lg>
     <mg>
-      <tg xml:lang="smj">
-        <t pos="A">damtedh</t>
+      <tg xml:lang="sma">
+        <t pos="V">damtedh</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">kommandere</l>
+      <l pos="V" src="fad">kommandere</l>
     </lg>
     <mg>
-      <tg xml:lang="smj">
-        <t pos="A">stilledh</t>
+      <tg xml:lang="sma">
+        <t pos="V">stilledh</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">ferdigstilles</l>
+      <l pos="V" src="fad">ferdigstilles</l>
     </lg>
     <mg>
-      <tg xml:lang="smj">
-        <t pos="A">illedh</t>
+      <tg xml:lang="sma">
+        <t pos="V">illedh</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">gjenkjenne</l>
+      <l pos="V" src="fad">gjenkjenne</l>
     </lg>
     <mg>
-      <tg xml:lang="smj">
-        <t pos="A">damtedht</t>
+      <tg xml:lang="sma">
+        <t pos="V">damtedht</t>
       </tg>
     </mg>
   </e>
+   <e src="gg">
+      <lg>
+         <l pos="V">begrense</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="V">gaertjiedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="gg">
+      <lg>
+         <l pos="V">eksaminere</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="V">dïerhkesjidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="gg">
+      <lg>
+         <l pos="V">forenkle</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="V">aelhkiedehtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="gg">
+      <lg>
+         <l pos="V">gjenbruke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="V">mubpesth nuhtjedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="gg">
+      <lg>
+         <l pos="V">hevde</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="V">bajjehtidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="gg">
+      <lg>
+         <l pos="V">høste</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="V">ribledh</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="gg">
+      <lg>
+         <l pos="V">innvandre</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="V">sïjse juhtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="gg">
+      <lg>
+         <l pos="V">installere</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="V">sijjiedehtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="gg">
+      <lg>
+         <l pos="V">megle</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="V">liktedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="gg">
+      <lg>
+         <l pos="V">omfatte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="V">feerhmedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="gg">
+      <lg>
+         <l pos="V">oppdatere</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="V">orrestehtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="gg">
+      <lg>
+         <l pos="V">overleve</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="V">bïerkenidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="gg">
+      <lg>
+         <l pos="V">privatisere</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="V">privatiseredh</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="gg">
+      <lg>
+         <l pos="V">produsere</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="V">darjodh</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="gg">
+      <lg>
+         <l pos="V">publisere</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="V">bæjhkoehtidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="gg">
+      <lg>
+         <l pos="V">utnevne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="V">nammoehtidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="gg">
+      <lg>
+         <l pos="V">virvle</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="V">hïspedh</t>
+         </tg>
+      </mg>
+   </e>
+
+
   <!-- Bad suggestions, remove next time round: 
 øve ::: lierehtalledh
 skjemme ::: aervi

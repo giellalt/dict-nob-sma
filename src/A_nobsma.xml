@@ -7142,7 +7142,8 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="A">gïmpele/ kvihke</t>
+        <t pos="A">gïmpele</t>
+        <t pos="A">kvihke</t>
       </tg>
     </mg>
   </e>
@@ -7152,7 +7153,8 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="A">våårkehke/ vuepties  </t>
+        <t pos="A">våårkehke  </t>
+        <t pos="A">vuepties  </t>
       </tg>
     </mg>
   </e>
@@ -7448,6 +7450,237 @@ For the full license text, see the link above.</lic>
       </tg>
     </mg>
   </e>
+   <e src="gg">
+      <lg>
+         <l pos="A">arbeidskrevende</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="A">barkoes</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="gg">
+      <lg>
+         <l pos="A">digital</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="A">digitaale</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="gg">
+      <lg>
+         <l pos="A">eneveldig</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="A">aajnereerije</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="gg">
+      <lg>
+         <l pos="A">folkevalgt</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="A">almetjiveeljeme</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="gg">
+      <lg>
+         <l pos="A">grufull</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="A">ïskeres</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="gg">
+      <lg>
+         <l pos="A">grunnleggende</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="A">maadthvåarome</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="gg">
+      <lg>
+         <l pos="A">homofil</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="A">homofïjle</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="gg">
+      <lg>
+         <l pos="A">kjedelig</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="A">ov-rovne</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="gg">
+      <lg>
+         <l pos="A">kommersiell</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="A">åesiestimmes</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="gg">
+      <lg>
+         <l pos="A">konservativ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="A">konservatijve</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="gg">
+      <lg>
+         <l pos="A">loddrett</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="A">tseagkode</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="gg">
+      <lg>
+         <l pos="A">lokal</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="A">byjrehks</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="gg">
+      <lg>
+         <l pos="A">magisk</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="A">åavtoes</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="gg">
+      <lg>
+         <l pos="A">negativ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="A">negatijve</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="gg">
+      <lg>
+         <l pos="A">oppfinnsom</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="A">hæhtadihks</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="gg">
+      <lg>
+         <l pos="A">protestantisk</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="A">protestantiske</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="gg">
+      <lg>
+         <l pos="A">radikal</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="A">radikaale</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="gg">
+      <lg>
+         <l pos="A">ren</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="A">raajnes</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="gg">
+      <lg>
+         <l pos="A">rosa</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="A">råvsa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="gg">
+      <lg>
+         <l pos="A">sammenhengende</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="A">ektenes</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="gg">
+      <lg>
+         <l pos="A">tilfeldig</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="A">veajkoej</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="gg">
+      <lg>
+         <l pos="A">ugyldig</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="A">ovdæjpele</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="gg">
+      <lg>
+         <l pos="N">sammenhengende</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">ektenes</t>
+         </tg>
+      </mg>
+   </e>
+  
   <!-- Bad suggestions, remove next time round: 
 økonomisk ::: økonomihkeles
 intensiv ::: eadtjohke-laakan

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
+<?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
+"../../scripts/gt_dictionary.dtd">
+<r id="nobsma" xml:lang="nob">
+   <lics xml:space="preserve">
+      <lic xml:lang="en">
+This code is made available under a Creative Commons Attribution license
+<a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+
+You are free to copy, distribute and adapt the work, as long as you always give
+proper attribution using the attribution text below.
+
+For the full license text, see the link above.</lic>
+      <ref>Work by Giellatekno at UiT, Divvun at the Norwegian Saami Parliament,
+          and members of the language communities. Source code
+          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
+      <sourcenote>
+     THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
+     published dictionary. As such it can and
+     will contain unfinished entries, unpublished entries, entries with
+     objectionable translations, etc. If you find any errors or want to add more
+     words, download the file, edit it, and send it back to
+     <a>mailto:feedback@divvun.no</a> and <a>mailto:giellatekno@hum.uit.no</a>.
+     Please also note that the entries are not necessarily sorted,
+     or could be wrongly sorted.
+     </sourcenote>
+   </lics>
+   <e src="gg">
+      <lg>
+         <l pos="N" type="Prop">Fremskrittspartiet</l>
+      </lg>
+      <mg>
+          <tg xml:lang="sma">
+            <t pos="N" type="Prop">Evtiedimmienkrirrie</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="gg">
+      <lg>
+         <l pos="N" type="Prop">Høyesterett</l>
+      </lg>
+      <mg>
+          <tg xml:lang="sma">
+            <t pos="N" type="Prop">Jollemesreakta</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="gg">
+      <lg>
+         <l pos="N" type="Prop">ILO-konvensjonen</l>
+      </lg>
+      <mg>
+          <tg xml:lang="sma">
+            <t pos="N" type="Prop">ILO-konvensjovne</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="gg">
+      <lg>
+         <l pos="N" type="Prop">Reindriftsloven</l>
+      </lg>
+      <mg>
+          <tg xml:lang="sma">
+            <t pos="N" type="Prop">Båatsoelaake</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="gg">
+      <lg>
+         <l pos="N" type="Prop">Sameloven</l>
+      </lg>
+      <mg>
+          <tg xml:lang="sma">
+            <t pos="N" type="Prop">Saemielaake</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="gg">
+      <lg>
+         <l pos="N" type="Prop">Utenriksdepartementet</l>
+      </lg>
+      <mg>
+          <tg xml:lang="sma">
+            <t pos="N" type="Prop">Ålkoerïjhkedepratemeente</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="gg">
+      <lg>
+         <l pos="N" type="Prop">Venstre</l>
+      </lg>
+      <mg>
+          <tg xml:lang="sma">
+            <t pos="N" type="Prop">Gårroebielien krirrie</t>
+         </tg>
+      </mg>
+   </e>
+</r>
