@@ -27,6 +27,18 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
+   
+      <e usage="dict">
+      <lg>
+         <l pos="Adv">snart</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">rætnoe</t>
+         </tg>
+      </mg>
+   </e>
+   
    <e src="gg">
       <lg>
          <l pos="Adv">åpenbart</l>
