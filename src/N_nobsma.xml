@@ -2330,8 +2330,16 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="N" soggi="ie" stem="2syll">aejkie</t>
             <xg>
-               <x>hver gang den gangen to ganger ofte / mange ganger mange ganger en eller annen gang - somme ganger</x>
-               <xt>fïerhten aejkien aejkien / dan aejkien göökten aejkien måedtien aejkien gellien aejkien såemies aejkien</xt>
+               <x>hver gang</x>
+               <xt>fïerhten aejkien</xt>
+            </xg>
+            <xg>
+               <x>to ganger</x>
+               <xt>göökten aejkien</xt>
+            </xg>
+            <xg>
+               <x>en eller annen gang</x>
+               <xt>såemies aejkien</xt>
             </xg>
          </tg>
       </mg>
