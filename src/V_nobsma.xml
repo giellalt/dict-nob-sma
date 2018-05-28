@@ -17846,7 +17846,7 @@ For the full license text, see the link above.</lic>
             <t pos="V" stem="3syll">lea-</t>
          </tg>
       </mg>
-   </e>   
+   </e>
     <e>
       <lg>
          <l pos="V">eksistere</l>
@@ -59580,7 +59580,7 @@ For the full license text, see the link above.</lic>
          <l pos="V">begrense</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="V">gaertjiedidh</t>
          </tg>
       </mg>
@@ -59590,7 +59590,7 @@ For the full license text, see the link above.</lic>
          <l pos="V">eksaminere</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="V">dïerhkesjidh</t>
          </tg>
       </mg>
@@ -59600,7 +59600,7 @@ For the full license text, see the link above.</lic>
          <l pos="V">forenkle</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="V">aelhkiedehtedh</t>
          </tg>
       </mg>
@@ -59610,7 +59610,7 @@ For the full license text, see the link above.</lic>
          <l pos="V">gjenbruke</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="V">mubpesth nuhtjedh</t>
          </tg>
       </mg>
@@ -59620,7 +59620,7 @@ For the full license text, see the link above.</lic>
          <l pos="V">hevde</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="V">bajjehtidh</t>
          </tg>
       </mg>
@@ -59630,7 +59630,7 @@ For the full license text, see the link above.</lic>
          <l pos="V">høste</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="V">ribledh</t>
          </tg>
       </mg>
@@ -59640,7 +59640,7 @@ For the full license text, see the link above.</lic>
          <l pos="V">innvandre</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="V">sïjse juhtedh</t>
          </tg>
       </mg>
@@ -59650,7 +59650,7 @@ For the full license text, see the link above.</lic>
          <l pos="V">installere</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="V">sijjiedehtedh</t>
          </tg>
       </mg>
@@ -59660,7 +59660,7 @@ For the full license text, see the link above.</lic>
          <l pos="V">megle</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="V">liktedh</t>
          </tg>
       </mg>
@@ -59670,7 +59670,7 @@ For the full license text, see the link above.</lic>
          <l pos="V">omfatte</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="V">feerhmedh</t>
          </tg>
       </mg>
@@ -59680,7 +59680,7 @@ For the full license text, see the link above.</lic>
          <l pos="V">oppdatere</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="V">orrestehtedh</t>
          </tg>
       </mg>
@@ -59690,7 +59690,7 @@ For the full license text, see the link above.</lic>
          <l pos="V">overleve</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="V">bïerkenidh</t>
          </tg>
       </mg>
@@ -59700,7 +59700,7 @@ For the full license text, see the link above.</lic>
          <l pos="V">privatisere</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="V">privatiseredh</t>
          </tg>
       </mg>
@@ -59710,7 +59710,7 @@ For the full license text, see the link above.</lic>
          <l pos="V">produsere</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="V">darjodh</t>
          </tg>
       </mg>
@@ -59720,7 +59720,7 @@ For the full license text, see the link above.</lic>
          <l pos="V">publisere</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="V">bæjhkoehtidh</t>
          </tg>
       </mg>
@@ -59730,7 +59730,7 @@ For the full license text, see the link above.</lic>
          <l pos="V">utnevne</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="V">nammoehtidh</t>
          </tg>
       </mg>
@@ -59740,17 +59740,17 @@ For the full license text, see the link above.</lic>
          <l pos="V">virvle</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="V">hïspedh</t>
          </tg>
       </mg>
    </e>
 
 
-  <!-- Bad suggestions, remove next time round: 
+  <!-- Bad suggestions, remove next time round:
 øve ::: lierehtalledh
 skjemme ::: aervi
-øke ::: 
+øke :::
 spekulere ::: jiermestalledh
 prioritere ::: prioriteeredh
 inspirere ::: tsihkijehtedh
