@@ -1,0 +1,879 @@
+åenehtse	åenehtse+?	inf
+
+provdesheaje	provdesheaje+?	inf
+
+båarkene	båarkene+?	inf
+
+areale	areaale+N+Err/Orth+Sg+Nom	0,000000
+
+vihtesjimmie	vïhtesjidh+V+TV+Der/NomAct+N+Sg+Nom	0,000000
+vihtesjimmie	vïhtesjimmie+N+Sg+Nom	0,000000
+
+mååhtedimmie	nååhtedidh+Err/Orth+V+TV+Der/NomAct+N+Sg+Nom	0,000000
+
+aajege	aajege+N+Sg+Nom	0,000000
+
+aalkoekuvsje	aalkoekurse+Err/Orth+N+Sg+Nom	0,000000
+aalkoekuvsje	aalkoe+v1+Err/Orth+N+Cmp/SgNom+Cmp#kurse+Err/Orth+N+Sg+Nom	10,000000
+aalkoekuvsje	aalkoe+v1+N+Cmp/SgNom+Cmp#kurse+Err/Orth+N+Sg+Nom	10,000000
+
+jiehtese	jiehtege+Err/Orth+N+Sg+Nom	0,000000
+
+eengkele	engkele+Err/Orth+N+Sg+Nom	0,000000
+
+eksponeente	eksponeente+?	inf
+
+siebriedahke	seabradahke+Err/Orth+N+Sg+Nom	0,000000
+
+gïelekuvsje	gïelekurse+Err/Orth+N+Sg+Nom	0,000000
+gïelekuvsje	gïele+N+Cmp/SgNom+Cmp#kurse+Err/Orth+N+Sg+Nom	10,000000
+
+konsuleente	konsuleente+?	inf
+
+kuvsje	kurse+Err/Orth+N+Sg+Nom	0,000000
+
+nietsege	njïetsege+Err/Orth+N+Sg+Nom	0,000000
+
+nietsege	njïetsege+Err/Orth+N+Sg+Nom	0,000000
+
+proseente	proseente+?	inf
+
+assisteente	assisteente+?	inf
+
+åajvaladtje	åajvaladtje+?	inf
+
+åajvaladtje	åajvaladtje+?	inf
+
+akkalasaemiengïele	akkalasaemiengïele+?	inf
+
+kildijnesaemiengïele	kildijnesaemiengïele+?	inf
+
+tjaelemgïele	tjaelemgïele+?	inf
+
+departemeente	departemeente+?	inf
+
+luvlesaemie	luvlesaemie+?	inf
+
+ektiedimmiedepartemeente	ektiedimmiedepartemeente+?	inf
+
+maahtoedepartemeente	maahtoedepartemeente+?	inf
+
+taleente	taleente+?	inf
+
+seammavyörtege	seammavyörtege+?	inf
+
+såjhtoedepartemeente	såjhtoedepartemeente+?	inf
+
+gærhkoedepartemeente	gærhkoedepartemeente+?	inf
+
+kuvsjeplaane	kurseplaane+Err/Orth+N+Sg+Nom	0,000000
+kuvsjeplaane	kurse+Err/Orth+N+Cmp/SgNom+Cmp#plaane+N+Sg+Nom	10,000000
+
+kapïhtele	kapihtele+Err/Orth+N+Sg+Nom	0,000000
+kapïhtele	kapihtele+N+Sg+Nom	0,000000
+
+studeente	studeente+?	inf
+
+Islaante	Island+Err/Orth+N+Prop+Sem/Plc+Attr	0,000000
+Islaante	Island+Err/Orth+N+Prop+Sem/Plc+Sg+Nom	0,000000
+
+Eenglaante	England+Err/Orth+N+Prop+Sem/Plc+Attr	0,000000
+Eenglaante	England+Err/Orth+N+Prop+Sem/Plc+Sg+Nom	0,000000
+
+Austraalia	Australije+Err/Orth+N+Prop+Sem/Plc+Attr	0,000000
+Austraalia	Australije+Err/Orth+N+Prop+Sem/Plc+Sg+Nom	0,000000
+Austraalia	Australije+Err/Orth+N+Prop+Sem/Sur+Attr	0,000000
+Austraalia	Australije+Err/Orth+N+Prop+Sem/Sur+Sg+Nom	0,000000
+
+Indoneesia	Indonesije+Err/Orth+N+Prop+Sem/Plc+Attr	0,000000
+Indoneesia	Indonesije+Err/Orth+N+Prop+Sem/Plc+Sg+Nom	0,000000
+Indoneesia	Indonesije+Err/Orth+N+Prop+Sem/Sur+Attr	0,000000
+Indoneesia	Indonesije+Err/Orth+N+Prop+Sem/Sur+Sg+Nom	0,000000
+
+Bryssele	Brüssel+Err/Orth+N+Prop+Sem/Plc+Sg+Nom+Err/Orth	0,000000
+Bryssele	Brüssel+Err/Orth+N+Prop+Sem/Plc+Sg+Nom	0,000000
+Bryssele	Brüssel+Err/Orth+N+Prop+Sem/Sur+Sg+Nom+Err/Orth	0,000000
+Bryssele	Brüssel+Err/Orth+N+Prop+Sem/Sur+Sg+Nom	0,000000
+
+Beerlijne	Berlin+Err/Orth+N+Prop+Sem/Plc+Attr	0,000000
+Beerlijne	Berlin+Err/Orth+N+Prop+Sem/Plc+Sg+Nom	0,000000
+
+Bovdene	Boden+Err/Orth+N+Prop+Sem/Plc+Sg+Nom	0,000000
+Bovdene	Boden+Err/Orth+N+Prop+Sem/Sur+Sg+Nom	0,000000
+
+Røøpsvaartoe	Rööpsesvaartoe+Err/Orth+N+Prop+Sem/Plc+Attr	0,000000
+Røøpsvaartoe	Rööpsesvaartoe+Err/Orth+N+Prop+Sem/Plc+Sg+Nom	0,000000
+Røøpsvaartoe	Rööpsvaartoe+N+Prop+Sem/Plc+Attr	0,000000
+Røøpsvaartoe	Rööpsvaartoe+N+Prop+Sem/Plc+Sg+Nom	0,000000
+
+Røøpsjaevrie	Rööpsesjaevrie+Err/Orth+N+Prop+Sem/Plc+Attr	0,000000
+Røøpsjaevrie	Rööpsesjaevrie+Err/Orth+N+Prop+Sem/Plc+Sg+Nom	0,000000
+Røøpsjaevrie	Rööpsjaevrie+N+Prop+Sem/Plc+Attr	0,000000
+Røøpsjaevrie	Rööpsjaevrie+N+Prop+Sem/Plc+Sg+Nom	0,000000
+
+Gaajhtvaartoe	Gaajhtsvaartoe+Err/Orth+N+Prop+Sem/Plc+Attr	0,000000
+Gaajhtvaartoe	Gaajhtsvaartoe+Err/Orth+N+Prop+Sem/Plc+Sg+Nom	0,000000
+
+Jijse	Jïjse+Err/Orth+N+Prop+Sem/Plc+Attr	0,000000
+Jijse	Jïjse+Err/Orth+N+Prop+Sem/Plc+Sg+Nom	0,000000
+Jijse	Jïjse+N+Prop+Sem/Plc+Attr	0,000000
+Jijse	Jïjse+N+Prop+Sem/Plc+Sg+Nom	0,000000
+Jijse	jïjse+N+Sg+Nom	0,000000
+
+Gaajhtjaevrie	Gaajhtsjaevrie+Err/Orth+N+Prop+Sem/Plc+Attr	0,000000
+Gaajhtjaevrie	Gaajhtsjaevrie+Err/Orth+N+Prop+Sem/Plc+Sg+Nom	0,000000
+
+Guertiesmehkienbavne	Guertiesmehkienbavne+?	inf
+
+Kjerringtjahke	Tjirrientjahke+Err/Orth+N+Prop+Sem/Plc+Attr	0,000000
+Kjerringtjahke	Tjirrientjahke+Err/Orth+N+Prop+Sem/Plc+Sg+Nom	0,000000
+
+Sijdurrie	Sïjtdurrie+Err/Orth+N+Prop+Sem/Plc+Attr	0,000000
+Sijdurrie	Sïjtdurrie+Err/Orth+N+Prop+Sem/Plc+Sg+Nom	0,000000
+
+Sorretje	Sorrehtje+Err/Orth+N+Prop+Sem/Plc+Sg+Nom	0,000000
+Sorretje	Sorrehtje+Err/Orth+N+Prop+Sem/Sur+Sg+Nom	0,000000
+
+Gyørte	Györte+N+Prop+Sem/Plc+Attr	0,000000
+Gyørte	Györte+N+Prop+Sem/Plc+Sg+Nom	0,000000
+Gyørte	geartodh+V+TV+Ind+Prs+Sg3	0,000000
+Gyørte	györte+N+Sg+Nom	0,000000
+
+Gyørte	Györte+N+Prop+Sem/Plc+Attr	0,000000
+Gyørte	Györte+N+Prop+Sem/Plc+Sg+Nom	0,000000
+Gyørte	geartodh+V+TV+Ind+Prs+Sg3	0,000000
+Gyørte	györte+N+Sg+Nom	0,000000
+
+Aarporte	Aarborte+Err/Orth+N+Prop+Sem/Plc+Attr	0,000000
+Aarporte	Aarborte+Err/Orth+N+Prop+Sem/Plc+Sg+Nom	0,000000
+
+Röörovse	Røros+Err/Orth+N+Prop+Sem/Plc+Attr	0,000000
+Röörovse	Røros+Err/Orth+N+Prop+Sem/Plc+Sg+Nom	0,000000
+
+Liksjuo	Liksjuo+?	inf
+
+Ruosskuo	Ruosskuo+?	inf
+
+ööhpetimmievuekie	ööhpetimmievuekie+?	inf
+
+laanteburriedepartemeente	laanteburriedepartemeente+?	inf
+
+substantive	substantijve+Err/Orth+N+Sg+Nom	0,000000
+substantive	substantijve+N+Err/Orth+Sg+Nom	0,000000
+
+tjueniejåanghkoe	tjueniejåanghkoe+?	inf
+
+baeniedåakterestudeente	baeniedåakterestudeente+?	inf
+
+jiehtese	jiehtege+Err/Orth+N+Sg+Nom	0,000000
+
+kaarhteeprogramme	kaarhteeprogramme+?	inf
+
+baersieldimmiennummere	baersieldidh+V+TV+Der/NomAct+N+Cmp/SgGen+Cmp#nummere+N+Sg+Nom	10,000000
+baersieldimmiennummere	baersieldimmie+N+Cmp/SgGen+Cmp#nummere+N+Sg+Nom	10,000000
+
+baersieldimmienjaepie	baersieldidh+V+TV+Der/NomAct+N+Cmp/SgGen+Cmp#jaepie+N+Sg+Nom	10,000000
+baersieldimmienjaepie	baersieldimmie+N+Cmp/SgGen+Cmp#jaepie+N+Sg+Nom	10,000000
+
+kaarhtenreakta	kaarhte+N+Cmp/SgGen+Cmp#reakta+N+Sg+Nom	10,000000
+
+eejehteaske	eejehteaske+?	inf
+
+sjeltierarie	sjeltierarie+?	inf
+
+siebriedahkedajve	seabradahke+Err/Orth+N+Cmp/SgNom+Cmp#dajve+N+Sg+Nom	10,000000
+
+ektiebarkoemååhtedimmie	ektiebarkoe+N+Cmp/SgNom+Cmp#nååhtedidh+Err/Orth+V+TV+Der/NomAct+N+Sg+Nom	10,000000
+ektiebarkoemååhtedimmie	ektie+A+Cmp/Attr+Cmp#barkoe+N+Cmp/SgNom+Cmp#nååhtedidh+Err/Orth+V+TV+Der/NomAct+N+Sg+Nom	20,000000
+
+studeentemaaksoe	studeentemaaksoe+?	inf
+
+maanajgïertengoevtese	maanajgïerte+N+Cmp/SgGen+Cmp#goevte+N+Sg+Ill	10,000000
+maanajgïertengoevtese	maanajgïerte+N+Cmp/SgGen+Cmp#goevtese+N+Sg+Nom	10,000000
+maanajgïertengoevtese	maana+N+Cmp/PlGen+Cmp#gïerte+N+Cmp/SgGen+Cmp#goevte+N+Sg+Ill	20,000000
+maanajgïertengoevtese	maana+N+Cmp/PlGen+Cmp#gïerte+N+Cmp/SgGen+Cmp#goevte+N+Sg+Nom+PxSg3	20,000000
+maanajgïertengoevtese	maana+N+Cmp/PlGen+Cmp#gïerte+N+Cmp/SgGen+Cmp#goevtese+N+Sg+Nom	20,000000
+
+aalkoealmetjepnolitihke	aalkoealmetjepnolitihke+?	inf
+
+soelmege	soelmege+?	inf
+
+faagejiehtese	faagejiehtege+Err/Orth+N+Sg+Nom	0,000000
+faagejiehtese	faage+N+Cmp/SgNom+Cmp#jiehtege+Err/Orth+N+Sg+Nom	10,000000
+
+kultuvrejiehtese	kultuvre+N+Cmp/SgNom+Cmp#jiehtege+Err/Orth+N+Sg+Nom	10,000000
+
+aalkoealmetjensiebriedahke	aalkoealmetje+N+Cmp/SgGen+Cmp#seabradahke+Err/Orth+N+Sg+Nom	10,000000
+aalkoealmetjensiebriedahke	aalkoe+v1+Err/Orth+N+Cmp/SgNom+Cmp#almetje+N+Cmp/SgGen+Cmp#seabradahke+Err/Orth+N+Sg+Nom	20,000000
+aalkoealmetjensiebriedahke	aalkoe+v1+N+Cmp/SgNom+Cmp#almetje+N+Cmp/SgGen+Cmp#seabradahke+Err/Orth+N+Sg+Nom	20,000000
+
+goevtesenåvtehke	goevtese+N+Cmp/SgGen+Cmp#åvtehke+N+Sg+Nom	10,000000
+
+aamhtesekuvsje	aamhtese+N+Cmp/SgNom+Cmp#kurse+Err/Orth+N+Sg+Nom	10,000000
+
+gåaromekuvsje	gåarodh+V+IV+Der/NomAct+N+Cmp/SgNom+Cmp#kurse+Err/Orth+N+Sg+Nom	10,000000
+gåaromekuvsje	gåarome+N+Cmp/SgNom+Cmp#kurse+Err/Orth+N+Sg+Nom	10,000000
+
+aalkoealmetjestudeente	aalkoealmetjestudeente+?	inf
+
+kuvsjefaaleldahke	kurse+Err/Orth+N+Cmp/SgNom+Cmp#faaleldahke+N+Sg+Nom	10,000000
+
+departemeenteraerie	departemeenteraerie+?	inf
+
+interneehtesæjroe	interneehtesæjroe+?	inf
+
+studeentemaanajgiertie	studeentemaanajgiertie+?	inf
+
+barkeoekonferaanse	barkeoekonferaanse+?	inf
+
+noerijkonferaanse	noerijkonferaanse+?	inf
+
+rijhkeraaja	rïjhke+Err/Orth+N+Cmp/SgNom+Cmp#raaja+N+Sg+Nom	10,000000
+rijhkeraaja	rïjhke+N+Cmp/SgNom+Cmp#raaja+N+Sg+Nom	10,000000
+
+paehperepåssa	paehperepåssa+?	inf
+
+aamhteseheefte	aamhteseheefte+?	inf
+
+testameente	testameente+?	inf
+
+departemeentegoevtese	departemeentegoevtese+?	inf
+
+siebriedahkeevtiedimmie	seabradahke+Err/Orth+N+Cmp/SgNom+Cmp#evtiedimmie+N+Sg+Nom	10,000000
+siebriedahkeevtiedimmie	seabradahke+Err/Orth+N+Cmp/SgNom+Cmp#evtiedidh+V+TV+Der/NomAct+N+Sg+Nom	10,000000
+
+reerementerminologije	reeredh+V+TV+Der/NomAct+N+Cmp/SgGen+Cmp#terminologije+N+Sg+Nom	10,000000
+reerementerminologije	reeredh+V+TV+Der/NomAct+N+Cmp/SgGen+Cmp#terminologije+N+Sg+Err/Orth+Nom	10,000000
+reerementerminologije	reereme+N+Cmp/SgGen+Cmp#terminologije+N+Sg+Nom	10,000000
+reerementerminologije	reereme+N+Cmp/SgGen+Cmp#terminologije+N+Sg+Err/Orth+Nom	10,000000
+
+reerementeerme	reeredh+V+TV+Der/NomAct+N+Cmp/SgGen+Cmp#teerme+N+Sg+Nom	10,000000
+reerementeerme	reereme+N+Cmp/SgGen+Cmp#teerme+N+Sg+Nom	10,000000
+
+seammaviehtegepolitihke	seammaviehtegepolitihke+?	inf
+
+spaanskengïele	spaanskengïele+?	inf
+
+fraanskengïele	fraanskengïele+?	inf
+
+såevmiengïele	soemengïele+Err/Orth+N+Sg+Nom	0,000000
+såevmiengïele	såevmie+N+Cmp/SgGen+Cmp#gïele+N+Sg+Nom	10,000000
+
+jiehtese	jiehtege+Err/Orth+N+Sg+Nom	0,000000
+
+klaassentjïehtjele	klaasse+N+Cmp/SgGen+Cmp#tjïehtjele+Err/Orth+N+Sg+Nom	10,000000
+klaassentjïehtjele	klaasse+N+Cmp/SgGen+Cmp#tjïehtjele+N+Sg+Nom	10,000000
+
+tjïeltesiebriedahke	tjïelte+N+Cmp/SgNom+Cmp#seabradahke+Err/Orth+N+Sg+Nom	10,000000
+
+eatnemesiebriedahke	eatneme+N+Cmp/SgNom+Cmp#seabradahke+Err/Orth+N+Sg+Nom	10,000000
+eatnemesiebriedahke	eatneme+Err/Orth+N+Cmp/SgNom+Cmp#seabradahke+Err/Orth+N+Sg+Nom	10,000000
+
+kuvsjeåejvie	kurse+Err/Orth+N+Cmp/SgNom+Cmp#åejvie+N+Sg+Nom	10,000000
+
+leaksoeviehkije	leaksoeviehkije+?	inf
+
+faktovre	faktore+v2+Err/Orth+N+Sg+Nom	0,000000
+
+siebriedahkesuerkie	seabradahke+Err/Orth+N+Cmp/SgNom+Cmp#suerkie+N+Sg+Nom	10,000000
+
+påastekaassa	påastekaassa+?	inf
+
+saemienkuvsje	saemie+N+Cmp/SgGen+Cmp#kurse+Err/Orth+N+Sg+Nom	10,000000
+
+siebriedahkegåetie	seabradahke+Err/Orth+N+Cmp/SgNom+Cmp#gåetie+N+Sg+Nom	10,000000
+
+arealereakta	areaale+N+Err/Orth+Cmp/SgNom+Cmp#reakta+N+Sg+Nom	10,000000
+
+maahtoelutneme	maahtoelutneme+?	inf
+
+siebredahkefaamoe	seabradahke+Err/Orth+Err/Orth+N+Cmp/SgNom+Cmp#faamoe+N+Sg+Nom	10,000000
+siebredahkefaamoe	sïebredahke+N+Cmp/SgNom+Cmp#faamoe+N+Sg+Nom	10,000000
+
+lohkehtæjjastudeente	lohkehtæjjastudeente+?	inf
+
+faagekonsuleente	faagekonsuleente+?	inf
+
+gïelekonsuleente	gïelekonsuleente+?	inf
+
+sijjienommekonsuleente	sijjienommekonsuleente+?	inf
+
+parlameente	parlameente+?	inf
+
+momeente	momeente+?	inf
+
+dokumeente	dokumeente+?	inf
+
+laakeuvtelassetjatsege	laakeuvtelassetjatsege+?	inf
+
+instrumeente	instrumeente+?	inf
+
+vïrreproseente	vïrreproseente+?	inf
+
+produseente	produseente+?	inf
+
+pateente	pateente+?	inf
+
+seammavyörtegeperspektijve	seammavyörtegeperspektijve+?	inf
+
+siebriedahkeperspektijve	seabradahke+Err/Orth+N+Cmp/SgNom+Cmp#perspektijve+N+Err/Orth+Sg+Nom	10,000000
+siebriedahkeperspektijve	seabradahke+Err/Orth+N+Cmp/SgNom+Cmp#perspektijve+N+Sg+Nom	10,000000
+
+byjjeselaake	byjjeselaake+?	inf
+
+indikatovre	indikaatore+Err/Orth+N+Sg+Nom	0,000000
+
+kalkulatovre	kalkulaatore+Err/Orth+N+Sg+Nom	0,000000
+
+konservatovre	konservaatore+Err/Orth+N+Sg+Nom	0,000000
+
+kultuvrefaktovre	kultuvre+N+Cmp/SgNom+Cmp#faktore+v2+Err/Orth+N+Sg+Nom	10,000000
+
+unnemesfaktovre	onne+A+Superl+Cmp/Attr+Cmp#faktore+v2+Err/Orth+N+Sg+Nom	10,000000
+unnemesfaktovre	onne+A+Superl+Cmp/SgNom+Cmp#faktore+v2+Err/Orth+N+Sg+Nom	10,000000
+unnemesfaktovre	unnies+A+Superl+Cmp/Attr+Cmp#faktore+v2+Err/Orth+N+Sg+Nom	10,000000
+unnemesfaktovre	unnies+A+Superl+Cmp/SgNom+Cmp#faktore+v2+Err/Orth+N+Sg+Nom	10,000000
+
+sosijaleseuerkie	sosijaleseuerkie+?	inf
+
+sjierepedagogihke	sjïere+A+Cmp/Attr+Cmp#pedagogihke+Err/Orth+N+Sg+Nom	10,000000
+sjierepedagogihke	sjïere+A+Cmp/Attr+Cmp#pedagogihke+N+Sg+Nom	10,000000
+sjierepedagogihke	sjïere+A+Cmp/SgNom+Cmp#pedagogihke+Err/Orth+N+Sg+Nom	10,000000
+sjierepedagogihke	sjïere+A+Cmp/SgNom+Cmp#pedagogihke+N+Sg+Nom	10,000000
+
+universitetenklinihke	universiteete+N+Err/Orth+Cmp/SgGen+Cmp#klinihke+Err/Orth+N+Sg+Nom	10,000000
+universitetenklinihke	universiteete+N+Err/Orth+Cmp/SgGen+Cmp#klinihke+N+Sg+Nom	10,000000
+
+gaahtjemeepolitihke	gaahtjemeepolitihke+?	inf
+
+lahkoedimmie	lahkoedimmie+?	inf
+
+giehpidimmie	giehpidimmie+?	inf
+
+bihkedasse	bïhkedasse+N+Sg+Nom	0,000000
+
+ööhpedimmiefeeleme	ööhpedimmiefeeleme+?	inf
+
+sosialeinstitusjovne	sosijaale+Err/Orth+A+Cmp/Attr+Cmp#institusjovne+N+Sg+Nom	10,000000
+sosialeinstitusjovne	sosijaale+Err/Orth+A+Cmp/SgNom+Cmp#institusjovne+N+Sg+Nom	10,000000
+
+variaante	varijaante+N+Err/Orth+Sg+Nom	0,000000
+
+medikameente	medikameente+?	inf
+
+energijedepartemeente	energijedepartemeente+?	inf
+
+sosijaaledepartemeente	sosijaaledepartemeente+?	inf
+
+argumeente	argumeente+?	inf
+
+volumproseente	volumproseente+?	inf
+
+stoerresiebriedahke	stoere+A+Cmp/Attr+Cmp#seabradahke+Err/Orth+N+Sg+Nom	10,000000
+stoerresiebriedahke	stoere+A+Cmp/SgNom+Cmp#seabradahke+Err/Orth+N+Sg+Nom	10,000000
+
+aalkovekuvsje	aalkoe+v2+N+Cmp/SgNom+Cmp#kurse+Err/Orth+N+Sg+Nom	10,000000
+aalkovekuvsje	aalkove+Err/Orth+N+Cmp/SgNom+Cmp#kurse+Err/Orth+N+Sg+Nom	10,000000
+aalkovekuvsje	aalkove+N+Cmp/SgNom+Cmp#kurse+Err/Orth+N+Sg+Nom	10,000000
+
+reaktahövtiedimmie	reaktahövtiedimmie+?	inf
+
+skuvlesiebredahke	skuvle+N+Cmp/SgNom+Cmp#seabradahke+Err/Orth+Err/Orth+N+Sg+Nom	10,000000
+skuvlesiebredahke	skuvle+N+Cmp/SgNom+Cmp#sïebredahke+N+Sg+Nom	10,000000
+
+guoktengïelenvierhtie	guoktengïelenvierhtie+?	inf
+
+maadthkuvsje	maadth+N+Cmp/SgNom+Cmp#kurse+Err/Orth+N+Sg+Nom	10,000000
+
+maadth-ööhpedimmie	maadth-ööhpedimmie+?	inf
+
+åejvietjaarne	åejvietjaarne+?	inf
+
+infrastruktuvre	infrastruktuvre+N+Sg+Nom	0,000000
+
+nommekonsuleente	nommekonsuleente+?	inf
+
+regionaldepartemeente	regionaldepartemeente+?	inf
+
+kultuvredepartemeente	kultuvredepartemeente+?	inf
+
+reeremenkontovre	reeredh+V+TV+Der/NomAct+N+Cmp/SgGen+Cmp#kontovre+N+Sg+Nom	10,000000
+reeremenkontovre	reereme+N+Cmp/SgGen+Cmp#kontovre+N+Sg+Nom	10,000000
+
+sjuvnedstijje	sjuvnedstijje+?	inf
+
+reaktatjielkeme	reakta+N+Cmp/SgNom+Cmp#tjïelkedh+V+IV+Der/NomAct+N+Sg+Nom	10,000000
+
+ööhpehtimmienupie	ööhpehtimmienupie+?	inf
+
+aahkuve	aahkove+Err/Orth+N+Sg+Nom	0,000000
+
+aajjuve	aajjove+Err/Orth+N+Sg+Nom	0,000000
+
+vuestiebiegke	vuestiebïegke+N+Sg+Nom	0,000000
+vuestiebiegke	vuestie+N+Cmp/SgNom+Cmp#bïegke+N+Sg+Nom	10,000000
+
+rieksege	rïeksege+N+Sg+Nom	0,000000
+
+ientje	ïentje+N+Sg+Nom	0,000000
+
+jyøne	jyöne+N+Sg+Nom	0,000000
+
+dirrege	dïrrege+N+Sg+Nom	0,000000
+
+øørneme	öörnedh+V+TV+PrfPrc	0,000000
+øørneme	öörnedh+V+TV+Der/NomAct+N+Sg+Nom	0,000000
+
+kuvsjesijjie	kurse+Err/Orth+N+Cmp/SgNom+Cmp#sijjie+N+Sg+Nom	10,000000
+
+daaroedehtemenbarkoe	daaroedehteme+N+Cmp/SgGen+Cmp#barkoe+N+Sg+Nom	10,000000
+
+maanavaarjelimmienbarkoe	maanavaarjelimmie+N+Cmp/SgGen+Cmp#barkoe+N+Sg+Nom	10,000000
+maanavaarjelimmienbarkoe	maana+N+Cmp/SgNom+Cmp#vaarjelimmie+N+Cmp/SgGen+Cmp#barkoe+N+Sg+Nom	20,000000
+maanavaarjelimmienbarkoe	maana+N+Cmp/SgNom+Cmp#vaarjelidh+V+TV+Der/NomAct+N+Cmp/SgGen+Cmp#barkoe+N+Sg+Nom	20,000000
+
+biejjejege	biejjejege+?	inf
+
+maanavaarjelimmienfaaleldahke	maanavaarjelimmie+N+Cmp/SgGen+Cmp#faaleldahke+N+Sg+Nom	10,000000
+maanavaarjelimmienfaaleldahke	maana+N+Cmp/SgNom+Cmp#vaarjelimmie+N+Cmp/SgGen+Cmp#faaleldahke+N+Sg+Nom	20,000000
+maanavaarjelimmienfaaleldahke	maana+N+Cmp/SgNom+Cmp#vaarjelidh+V+TV+Der/NomAct+N+Cmp/SgGen+Cmp#faaleldahke+N+Sg+Nom	20,000000
+
+litteratuvrendajve	litteratuvre+N+Cmp/SgGen+Cmp#dajve+N+Sg+Nom	10,000000
+
+kultuvrenmaahtoe	kultuvre+N+Cmp/SgGen+Cmp#maahtoe+N+Sg+Nom	10,000000
+
+dokumeentelæstoe	dokumeentelæstoe+?	inf
+
+reantadåarjoe	reantadåarjoe+?	inf
+
+kuvsjenvuekie	kurse+Err/Orth+N+Cmp/SgGen+Cmp#vuekie+N+Sg+Nom	10,000000
+
+siebriedahkegoevtese	seabradahke+Err/Orth+N+Cmp/SgNom+Cmp#goevte+N+Sg+Ill	10,000000
+siebriedahkegoevtese	seabradahke+Err/Orth+N+Cmp/SgNom+Cmp#goevtese+N+Sg+Nom	10,000000
+
+kuvsjegoevtese	kurse+Err/Orth+N+Cmp/SgNom+Cmp#goevte+N+Sg+Ill	10,000000
+kuvsjegoevtese	kurse+Err/Orth+N+Cmp/SgNom+Cmp#goevtese+N+Sg+Nom	10,000000
+
+maanavaarjelimmienaamhtese	maanavaarjelimmie+N+Cmp/SgGen+Cmp#aamhte+N+Sg+Ill	10,000000
+maanavaarjelimmienaamhtese	maanavaarjelimmie+N+Cmp/SgGen+Cmp#aamhtese+N+Sg+Nom	10,000000
+maanavaarjelimmienaamhtese	maana+N+Cmp/SgNom+Cmp#vaarjelimmie+N+Cmp/SgGen+Cmp#aamhte+N+Sg+Ill	20,000000
+maanavaarjelimmienaamhtese	maana+N+Cmp/SgNom+Cmp#vaarjelimmie+N+Cmp/SgGen+Cmp#aamhte+N+Sg+Nom+PxSg3	20,000000
+maanavaarjelimmienaamhtese	maana+N+Cmp/SgNom+Cmp#vaarjelimmie+N+Cmp/SgGen+Cmp#aamhtese+N+Sg+Nom	20,000000
+maanavaarjelimmienaamhtese	maana+N+Cmp/SgNom+Cmp#vaarjelidh+V+TV+Der/NomAct+N+Cmp/SgGen+Cmp#aamhte+N+Sg+Ill	20,000000
+maanavaarjelimmienaamhtese	maana+N+Cmp/SgNom+Cmp#vaarjelidh+V+TV+Der/NomAct+N+Cmp/SgGen+Cmp#aamhte+N+Sg+Nom+PxSg3	20,000000
+maanavaarjelimmienaamhtese	maana+N+Cmp/SgNom+Cmp#vaarjelidh+V+TV+Der/NomAct+N+Cmp/SgGen+Cmp#aamhtese+N+Sg+Nom	20,000000
+
+maanavaarjelimmienpolitihke	maanavaarjelimmie+N+Cmp/SgGen+Cmp#politihke+Err/Orth+N+Sg+Nom	10,000000
+maanavaarjelimmienpolitihke	maanavaarjelimmie+N+Cmp/SgGen+Cmp#politihke+N+Sg+Nom	10,000000
+maanavaarjelimmienpolitihke	maana+N+Cmp/SgNom+Cmp#vaarjelimmie+N+Cmp/SgGen+Cmp#politihke+Err/Orth+N+Sg+Nom	20,000000
+maanavaarjelimmienpolitihke	maana+N+Cmp/SgNom+Cmp#vaarjelimmie+N+Cmp/SgGen+Cmp#politihke+N+Sg+Nom	20,000000
+maanavaarjelimmienpolitihke	maana+N+Cmp/SgNom+Cmp#vaarjelidh+V+TV+Der/NomAct+N+Cmp/SgGen+Cmp#politihke+Err/Orth+N+Sg+Nom	20,000000
+maanavaarjelimmienpolitihke	maana+N+Cmp/SgNom+Cmp#vaarjelidh+V+TV+Der/NomAct+N+Cmp/SgGen+Cmp#politihke+N+Sg+Nom	20,000000
+
+siebriedahkesysteeme	seabradahke+Err/Orth+N+Cmp/SgNom+Cmp#systeeme+N+Sg+Nom	10,000000
+
+arealesoejkesje	areaale+N+Err/Orth+Cmp/SgNom+Cmp#soejkesje+N+Sg+Nom	10,000000
+
+seammavyöerhtegesoejkesje	seammavyöerhtegesoejkesje+?	inf
+
+studeenteneksaamene	studeenteneksaamene+?	inf
+
+staatesiebriedahke	staate+N+Cmp/SgNom+Cmp#seabradahke+Err/Orth+N+Sg+Nom	10,000000
+
+reaktoesiebriedahke	reaktoe+N+Cmp/SgNom+Cmp#seabradahke+Err/Orth+N+Sg+Nom	10,000000
+reaktoesiebriedahke	rïektes+Hom1+A+Cmp/SgNom+Cmp#seabradahke+Err/Orth+N+Sg+Nom	10,000000
+reaktoesiebriedahke	rïektes+Hom2+A+Cmp/SgNom+Cmp#seabradahke+Err/Orth+N+Sg+Nom	10,000000
+
+konsuleentesïelte	konsuleentesïelte+?	inf
+
+siebriedahkemaahtoe	seabradahke+Err/Orth+N+Cmp/SgNom+Cmp#maahtoe+N+Sg+Nom	10,000000
+
+kuvsjejarnge	kurse+Err/Orth+N+Cmp/SgNom+Cmp#jarnge+N+Sg+Nom	10,000000
+
+maanagïertekonsuleente	maanagïertekonsuleente+?	inf
+
+kultuvrekonsuleente	kultuvrekonsuleente+?	inf
+
+bïevnesekonsuleente	bïevnesekonsuleente+?	inf
+
+prosjeektekonsuleente	prosjeektekonsuleente+?	inf
+
+studeentehearra	studeentehearra+?	inf
+
+departemeentendaltese	departemeentendaltese+?	inf
+
+aamhtesenprovsa	aamhtese+N+Cmp/SgGen+Cmp#provsa+N+Sg+Nom	10,000000
+
+soejkesjenboelhke	soejkesje+N+Cmp/SgGen+Cmp#boelhke+N+Sg+Nom	10,000000
+
+aamhtesendajve	aamhtese+N+Cmp/SgGen+Cmp#dajve+N+Sg+Nom	10,000000
+
+maanavaarjelimmienkonferaanse	maanavaarjelimmie+N+Cmp/SgGen+Cmp#konferaanse+N+Sg+Nom	10,000000
+maanavaarjelimmienkonferaanse	maana+N+Cmp/SgNom+Cmp#vaarjelimmie+N+Cmp/SgGen+Cmp#konferaanse+N+Sg+Nom	20,000000
+maanavaarjelimmienkonferaanse	maana+N+Cmp/SgNom+Cmp#vaarjelidh+V+TV+Der/NomAct+N+Cmp/SgGen+Cmp#konferaanse+N+Sg+Nom	20,000000
+
+latjkoenmaahtoe	latjkoe+N+Cmp/SgGen+Cmp#maahtoe+N+Sg+Nom	10,000000
+
+arealeraaja	areaale+N+Err/Orth+Cmp/SgNom+Cmp#raaja+N+Sg+Nom	10,000000
+
+barkoedïenese	barkoedïenese+?	inf
+
+soptsemesvuekie	soptsemesvuekie+?	inf
+
+radioåaejvie	radioåaejvie+?	inf
+
+arealevåarome	areaale+N+Err/Orth+Cmp/SgNom+Cmp#våaroe+N+Sg+Nom+PxSg1	10,000000
+arealevåarome	areaale+N+Err/Orth+Cmp/SgNom+Cmp#våarome+Err/Orth+N+Sg+Nom	10,000000
+arealevåarome	areaale+N+Err/Orth+Cmp/SgNom+Cmp#våarome+N+Sg+Nom	10,000000
+
+studeentevåarome	studeentevåarome+?	inf
+
+veeljemendigkie	veeljedh+V+TV+Der/NomAct+N+Cmp/SgGen+Cmp#digkie+N+Sg+Nom	10,000000
+veeljemendigkie	veeljeme+N+Cmp/SgGen+Cmp#digkie+N+Sg+Nom	10,000000
+
+arealestrategije	areaale+N+Err/Orth+Cmp/SgNom+Cmp#strategije+N+Sg+Nom	10,000000
+arealestrategije	areaale+N+Err/Orth+Cmp/SgNom+Cmp#strategije+N+Sg+Err/Orth+Nom	10,000000
+
+soejkesjenstrategije	soejkesje+N+Cmp/SgGen+Cmp#strategije+N+Sg+Nom	10,000000
+soejkesjenstrategije	soejkesje+N+Cmp/SgGen+Cmp#strategije+N+Sg+Err/Orth+Nom	10,000000
+
+arealeaamhtese	areaale+N+Err/Orth+Cmp/SgNom+Cmp#aamhte+N+Sg+Ill	10,000000
+arealeaamhtese	areaale+N+Err/Orth+Cmp/SgNom+Cmp#aamhtese+N+Sg+Nom	10,000000
+
+kuvsjeråajvarimmie	kurse+Err/Orth+N+Cmp/SgNom+Cmp#råajvarimmie+N+Sg+Nom	10,000000
+kuvsjeråajvarimmie	kurse+Err/Orth+N+Cmp/SgNom+Cmp#råajvaridh+V+IV+Der/NomAct+N+Sg+Nom	10,000000
+
+learoevierhtienpedagogihke	learoevierhtie+N+Cmp/SgGen+Cmp#pedagogihke+Err/Orth+N+Sg+Nom	10,000000
+learoevierhtienpedagogihke	learoevierhtie+N+Cmp/SgGen+Cmp#pedagogihke+N+Sg+Nom	10,000000
+learoevierhtienpedagogihke	learoe+N+Cmp/SgNom+Cmp#vierhtie+N+Cmp/SgGen+Cmp#pedagogihke+Err/Orth+N+Sg+Nom	20,000000
+learoevierhtienpedagogihke	learoe+N+Cmp/SgNom+Cmp#vierhtie+N+Cmp/SgGen+Cmp#pedagogihke+N+Sg+Nom	20,000000
+
+arealepolitihke	areaale+N+Err/Orth+Cmp/SgNom+Cmp#politihke+Err/Orth+N+Sg+Nom	10,000000
+arealepolitihke	areaale+N+Err/Orth+Cmp/SgNom+Cmp#politihke+N+Sg+Nom	10,000000
+
+gïelekapïhtele	gïele+N+Cmp/SgNom+Cmp#kapihtele+Err/Orth+N+Sg+Nom	10,000000
+gïelekapïhtele	gïele+N+Cmp/SgNom+Cmp#kapihtele+N+Sg+Nom	10,000000
+
+studeentelåhkoe	studeentelåhkoe+?	inf
+
+arealegyhtjelasse	areaale+N+Err/Orth+Cmp/SgNom+Cmp#gyhtjelasse+N+Sg+Nom	10,000000
+
+seammavyörhtegegyhtjelasse	seammavyörhtegegyhtjelasse+?	inf
+
+soejkesjenprogramme	soejkesje+N+Cmp/SgGen+Cmp#programme+N+Sg+Nom	10,000000
+
+gïeleöövtiedimmieprogramme	gïele+N+Cmp/SgNom+Cmp#övtiedidh+Err/Orth+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp#programme+N+Sg+Nom	20,000000
+
+noerijhïejme	noerijhïejme+?	inf
+
+maanabaeliengåetie	maanabaelie+N+Cmp/SgGen+Cmp#gåetie+N+Sg+Nom	10,000000
+maanabaeliengåetie	maana+N+Cmp/SgNom+Cmp#baelie+N+Cmp/SgGen+Cmp#gåetie+N+Sg+Nom	20,000000
+
+reerenassenlïhtsege	reerenasse+N+Cmp/SgGen+Cmp#lïhtse+N+Sg+Nom+Foc/ge	10,000000
+reerenassenlïhtsege	reerenasse+N+Cmp/SgGen+Cmp#lïhtsege+N+Sg+Nom	10,000000
+
+siebriedahkedaalhkesh	seabradahke+Err/Orth+N+Cmp/SgNom+Cmp#daalhkese+N+Pl+Nom	10,000000
+siebriedahkedaalhkesh	seabradahke+Err/Orth+N+Cmp/SgNom+Cmp#daalhkesh+N+Pl+Nom	10,000000
+
+sjædtoesiebriedahke	sjædtoe+N+Cmp/SgNom+Cmp#seabradahke+Err/Orth+N+Sg+Nom	10,000000
+
+gïelesiebriedahke	gïele+N+Cmp/SgNom+Cmp#seabradahke+Err/Orth+N+Sg+Nom	10,000000
+
+ööhpehtimmiesiebriedahke	ööhpehtidh+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp#seabradahke+Err/Orth+N+Sg+Nom	10,000000
+ööhpehtimmiesiebriedahke	ööhpehtimmie+N+Cmp/SgNom+Cmp#seabradahke+Err/Orth+N+Sg+Nom	10,000000
+
+bïevnesesiebriedahke	bïevnese+N+Cmp/SgNom+Cmp#seabradahke+Err/Orth+N+Sg+Nom	10,000000
+
+reeremenregijovne	reeredh+V+TV+Der/NomAct+N+Cmp/SgGen+Cmp#regijovne+N+Sg+Nom	10,000000
+reeremenregijovne	reereme+N+Cmp/SgGen+Cmp#regijovne+N+Sg+Nom	10,000000
+
+seammavyörhtegesorganisasjovne	seammavyörhtegesorganisasjovne+?	inf
+
+arealetsiehkie	areaale+N+Err/Orth+Cmp/SgNom+Cmp#tsiehkie+N+Sg+Nom	10,000000
+
+siebriedahkedïedte	seabradahke+Err/Orth+N+Cmp/SgNom+Cmp#dïedte+N+Sg+Nom	10,000000
+
+fylhkekonservatovre	fylhke+N+Cmp/SgNom+Cmp#konservaatore+Err/Orth+N+Sg+Nom	10,000000
+
+identiteetefaktovre	identiteete+N+Cmp/SgNom+Cmp#faktore+v2+Err/Orth+N+Sg+Nom	10,000000
+
+maahtoensuerkie	maahtoe+N+Cmp/SgGen+Cmp#suerkie+N+Sg+Nom	10,000000
+
+siebriedahkestruktuvre	seabradahke+Err/Orth+N+Cmp/SgNom+Cmp#struktuvre+N+Sg+Nom	10,000000
+
+siebriedahkeaktööre	seabradahke+Err/Orth+N+Cmp/SgNom+Cmp#aktööre+N+Sg+Nom	10,000000
+
+kuvsjeåasa	kurse+Err/Orth+N+Cmp/SgNom+Cmp#åasa+N+Sg+Nom	10,000000
+
+gïeleaamhtesekuvsje	gïele+N+Cmp/SgNom+Cmp#aamhtese+N+Cmp/SgNom+Cmp#kurse+Err/Orth+N+Sg+Nom	20,000000
+
+gærjagåetiekuvsje	gærjagåetie+N+Cmp/SgNom+Cmp#kurse+Err/Orth+N+Sg+Nom	10,000000
+gærjagåetiekuvsje	gærja+N+Cmp/SgNom+Cmp#gåetie+N+Cmp/SgNom+Cmp#kurse+Err/Orth+N+Sg+Nom	20,000000
+
+snæikerekuvsje	snæikerekuvsje+?	inf
+
+gånkangåetie	gånka+N+Cmp/SgGen+Cmp#gåetie+N+Sg+Nom	10,000000
+
+noerijgåetie	noerijgåetie+?	inf
+
+seammavyörhtegeprosjeekte	seammavyörhtegeprosjeekte+?	inf
+
+seammavyörhtegekonsuleente	seammavyörhtegekonsuleente+?	inf
+
+politijedepartemeente	politijedepartemeente+?	inf
+
+seammavyörhtegedepartemeente	seammavyörhtegedepartemeente+?	inf
+
+evtiedimmienalternatijve	evtiedimmie+N+Cmp/SgGen+Cmp#alternatijve+N+Err/Orth+Sg+Nom	10,000000
+evtiedimmienalternatijve	evtiedimmie+N+Cmp/SgGen+Cmp#alternatijve+N+Sg+Nom	10,000000
+evtiedimmienalternatijve	evtiedidh+V+TV+Der/NomAct+N+Cmp/SgGen+Cmp#alternatijve+N+Err/Orth+Sg+Nom	10,000000
+evtiedimmienalternatijve	evtiedidh+V+TV+Der/NomAct+N+Cmp/SgGen+Cmp#alternatijve+N+Sg+Nom	10,000000
+
+arealeperspektijve	areaale+N+Err/Orth+Cmp/SgNom+Cmp#perspektijve+N+Err/Orth+Sg+Nom	10,000000
+arealeperspektijve	areaale+N+Err/Orth+Cmp/SgNom+Cmp#perspektijve+N+Sg+Nom	10,000000
+
+seammavyörhtegelaake	seammavyörhtegelaake+?	inf
+
+koordinatovre	koordinaatore+Err/Orth+N+Sg+Nom	0,000000
+
+milliovne	millijovne+N+Err/Orth+Sg+Nom	0,000000
+
+kultvreaerpievuekie	kultvreaerpievuekie+?	inf
+
+finansdepartemeente	finansdepartemeente+?	inf
+
+siebredahkeaamhtese	seabradahke+Err/Orth+Err/Orth+N+Cmp/SgNom+Cmp#aamhte+N+Sg+Ill	10,000000
+siebredahkeaamhtese	seabradahke+Err/Orth+Err/Orth+N+Cmp/SgNom+Cmp#aamhtese+N+Sg+Nom	10,000000
+siebredahkeaamhtese	sïebredahke+N+Cmp/SgNom+Cmp#aamhte+N+Sg+Ill	10,000000
+siebredahkeaamhtese	sïebredahke+N+Cmp/SgNom+Cmp#aamhtese+N+Sg+Nom	10,000000
+
+sjuevnedstijje	sjuevnedstijje+?	inf
+
+guöölemelatjkoe	guöölemelatjkoe+?	inf
+
+beetnegenvadtese	beetnege+N+Cmp/SgGen+Cmp#vadtese+N+Sg+Nom	10,000000
+
+guöölemepolitihke	guöölemepolitihke+?	inf
+
+göölemesiebriedahke	gööledh+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp#seabradahke+Err/Orth+N+Sg+Nom	10,000000
+göölemesiebriedahke	gööleme+N+Cmp/SgNom+Cmp#seabradahke+Err/Orth+N+Sg+Nom	10,000000
+
+giesiekuvsje	giesie+N+Cmp/SgNom+Cmp#kurse+Err/Orth+N+Sg+Nom	10,000000
+
+kultuvrekuvsje	kultuvre+N+Cmp/SgNom+Cmp#kurse+Err/Orth+N+Sg+Nom	10,000000
+
+evtiedimmiekuvsje	evtiedimmie+N+Cmp/SgNom+Cmp#kurse+Err/Orth+N+Sg+Nom	10,000000
+evtiedimmiekuvsje	evtiedidh+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp#kurse+Err/Orth+N+Sg+Nom	10,000000
+
+jaepiekuvsje	jaepie+N+Cmp/SgNom+Cmp#kurse+Err/Orth+N+Sg+Nom	10,000000
+
+kultuvrensuerkie	kultuvre+N+Cmp/SgGen+Cmp#suerkie+N+Sg+Nom	10,000000
+
+learoekonsuleente	learoekonsuleente+?	inf
+
+arealevaarjelimmie	areaale+N+Err/Orth+Cmp/SgNom+Cmp#vaarjelimmie+N+Sg+Nom	10,000000
+arealevaarjelimmie	areaale+N+Err/Orth+Cmp/SgNom+Cmp#vaarjelidh+V+TV+Der/NomAct+N+Sg+Nom	10,000000
+
+bïhkedimmiekuvsje	bïhkedidh+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp#kurse+Err/Orth+N+Sg+Nom	10,000000
+bïhkedimmiekuvsje	bïhkedimmie+N+Cmp/SgNom+Cmp#kurse+Err/Orth+N+Sg+Nom	10,000000
+
+arealevierhtie	areaale+N+Err/Orth+Cmp/SgNom+Cmp#vierhtie+N+Sg+Nom	10,000000
+
+faagensuerkie	faage+N+Cmp/SgGen+Cmp#suerkie+N+Sg+Nom	10,000000
+
+aamhtesensuerkie	aamhtese+N+Cmp/SgGen+Cmp#suerkie+N+Sg+Nom	10,000000
+
+siebriedahkeaamhtese	seabradahke+Err/Orth+N+Cmp/SgNom+Cmp#aamhte+N+Sg+Ill	10,000000
+siebriedahkeaamhtese	seabradahke+Err/Orth+N+Cmp/SgNom+Cmp#aamhtese+N+Sg+Nom	10,000000
+
+siebriedahkegyhtjelasse	seabradahke+Err/Orth+N+Cmp/SgNom+Cmp#gyhtjelasse+N+Sg+Nom	10,000000
+
+tjaktjekuvsje	tjaktje+N+Cmp/SgNom+Cmp#kurse+Err/Orth+N+Sg+Nom	10,000000
+
+siebriedahkevierhtie	seabradahke+Err/Orth+N+Cmp/SgNom+Cmp#vierhtie+N+Sg+Nom	10,000000
+
+reerementeerme	reeredh+V+TV+Der/NomAct+N+Cmp/SgGen+Cmp#teerme+N+Sg+Nom	10,000000
+reerementeerme	reereme+N+Cmp/SgGen+Cmp#teerme+N+Sg+Nom	10,000000
+
+rïjhkesiebriedahke	rïjhke+Err/Orth+N+Cmp/SgNom+Cmp#seabradahke+Err/Orth+N+Sg+Nom	10,000000
+rïjhkesiebriedahke	rïjhke+N+Cmp/SgNom+Cmp#seabradahke+Err/Orth+N+Sg+Nom	10,000000
+
+sjïerekuvsje	sjïere+A+Cmp/Attr+Cmp#kurse+Err/Orth+N+Sg+Nom	10,000000
+sjïerekuvsje	sjïere+A+Cmp/SgNom+Cmp#kurse+Err/Orth+N+Sg+Nom	10,000000
+
+åvtekuvsje	åvte+N+Cmp/SgNom+Cmp#kurse+Err/Orth+N+Sg+Nom	10,000000
+
+övtiedimmiekuvsje	övtiedidh+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp#kurse+Err/Orth+N+Sg+Nom	10,000000
+övtiedimmiekuvsje	övtiedimmie+N+Cmp/SgNom+Cmp#kurse+Err/Orth+N+Sg+Nom	10,000000
+
+voesteskonsuleente	voesteskonsulente+Err/Orth+N+Sg+Nom	0,000000
+
+arealedåarjoe	areaale+N+Err/Orth+Cmp/SgNom+Cmp#dåarjoe+N+Sg+Nom	10,000000
+
+pressefaaleldahke	pressefaaleldahke+?	inf
+
+pressehistovrije	pressehistovrije+?	inf
+
+pressedåarjoe	pressedåarjoe+?	inf
+
+pressetjåanghkoe	pressetjåanghkoe+?	inf
+
+pressegoevtese	pressegoevtese+?	inf
+
+arealevierhtie	areaale+N+Err/Orth+Cmp/SgNom+Cmp#vierhtie+N+Sg+Nom	10,000000
+
+pressepolitihke	pressepolitihke+?	inf
+
+noerijprogramme	noerijprogramme+?	inf
+
+pressetelefovne	pressetelefovne+?	inf
+
+digkiereaktoedåapmere	digkiereaktoedåapmere+?	inf
+
+pressejarnge	pressejarnge+?	inf
+
+beetnehkuvsje	beetnege+N+Cmp/SgNom+Cmp#kurse+Err/Orth+N+Sg+Nom	10,000000
+
+dåarjoeproseente	dåarjoeproseente+?	inf
+
+dotkemeninstituhte	dotkedh+V+TV+Der/NomAct+N+Cmp/SgGen+Cmp#instituhte+N+Sg+Nom	10,000000
+dotkemeninstituhte	dotkedh+V+TV+Der/PassS+V+IV+Der/NomAct+N+Cmp/SgGen+Cmp#instituhte+N+Sg+Nom	10,000000
+dotkemeninstituhte	dotkeme+N+Cmp/SgGen+Cmp#instituhte+N+Sg+Nom	10,000000
+
+healsoekapïhtele	healsoe+N+Cmp/SgNom+Cmp#kapihtele+Err/Orth+N+Sg+Nom	10,000000
+healsoekapïhtele	healsoe+N+Cmp/SgNom+Cmp#kapihtele+N+Sg+Nom	10,000000
+
+healsoenjoekehtse	healsoe+N+Cmp/SgGen+Cmp#joekehtse+N+Sg+Nom	10,000000
+
+lïhkebovre	lïhkebovre+?	inf
+
+kultuvremojhtesenvaarjelimmie	kultuvremojhtese+N+Cmp/SgGen+Cmp#vaarjelimmie+N+Sg+Nom	10,000000
+kultuvremojhtesenvaarjelimmie	kultuvremojhtese+N+Cmp/SgGen+Cmp#vaarjelidh+V+TV+Der/NomAct+N+Sg+Nom	10,000000
+kultuvremojhtesenvaarjelimmie	kultuvre+N+Cmp/SgNom+Cmp#mojhtes+N+Cmp/SgGen+Cmp#vaarjelimmie+N+Sg+Nom	20,000000
+kultuvremojhtesenvaarjelimmie	kultuvre+N+Cmp/SgNom+Cmp#mojhtes+N+Cmp/SgGen+Cmp#vaarjelidh+V+TV+Der/NomAct+N+Sg+Nom	20,000000
+kultuvremojhtesenvaarjelimmie	kultuvre+N+Cmp/SgNom+Cmp#mojhtese+N+Cmp/SgGen+Cmp#vaarjelimmie+N+Sg+Nom	20,000000
+kultuvremojhtesenvaarjelimmie	kultuvre+N+Cmp/SgNom+Cmp#mojhtese+N+Cmp/SgGen+Cmp#vaarjelidh+V+TV+Der/NomAct+N+Sg+Nom	20,000000
+
+internatenlearohke	internaate+N+Err/Orth+Cmp/SgGen+Cmp#learohke+Err/Orth+N+Sg+Nom	10,000000
+internatenlearohke	internaate+N+Err/Orth+Cmp/SgGen+Cmp#learohke+N+Sg+Nom	10,000000
+
+ohtsemeboelke	ohtsemeboelke+?	inf
+
+påastekassa	påastekassa+?	inf
+
+seammavyörtegedåehkie	seammavyörtegedåehkie+?	inf
+
+rïjhkenvåarhkoe	rïjhke+Err/Orth+N+Cmp/SgGen+Cmp#våarhkoe+N+Sg+Nom	10,000000
+rïjhkenvåarhkoe	rïjhke+N+Cmp/SgGen+Cmp#våarhkoe+N+Sg+Nom	10,000000
+
+latjkoenboelhke	latjkoe+N+Cmp/SgGen+Cmp#boelhke+N+Sg+Nom	10,000000
+
+stååkemesgïele	stååkemesgïele+?	inf
+
+reakadahtemebeetnegh	reakadahtemebeetnegh+?	inf
+
+pressedåarjoeöörnege	pressedåarjoeöörnege+?	inf
+
+reakadaehtemesaejkie	reakadaehtemesaejkie+?	inf
+
+margarine	margarine+?	inf
+
+mïngienomme	mïngienomme+?	inf
+
+guvvieaparate	guvvieaparate+?	inf
+
+blogge	blogge+?	inf
+
+video	video+?	inf
+
+oastije	oastije+?	inf
+
+dollare	dollare+?	inf
+
+logge	logge+?	inf
+
+sopsteme	sopsteme+?	inf
+
+soerths	soerths+?	inf
+
+muslime	muslime+?	inf
+
+prinsippe	prinsippe+?	inf
+
+giehtelimmie	gïehtelimmie+N+Sg+Nom	0,000000
+giehtelimmie	gïehtelidh+V+IV+Der/NomAct+N+Sg+Nom	0,000000
+
+dåapmere	dåapmere+?	inf
+
+albumme	albumme+?	inf
+
+asvoe	asvoe+?	inf
+
+frijjevuote	frijjevuote+?	inf
+
+tjihtjele	tjihtjele+?	inf
+
+kanale	kanaale+N+Err/Orth+Sg+Nom	0,000000
+
+alkoesæjroe	alkoesæjroe+?	inf
+
+lissiedimmie	lissiedimmie+?	inf
+
+islame	islame+?	inf
+
+gasse	gasse+?	inf
+
+sykkele	sykkele+?	inf
+
+gaahtjie	gaahtjie+?	inf
+
+symbole	symbole+?	inf
+
+euro	euro+?	inf
+
+vuajastahkh	vuajastahkh+?	inf
+
+æpla	æpla+?	inf
+
+diplomatijelosje	diplomatijelosje+?	inf
+
+vïtnedimmessavka	vïtnedimmessavka+?	inf
+
+mearoelaahpehtsh	mearoelaahpehtsh+?	inf
+
+histovrikere	historihkere+Err/Orth+N+Sg+Nom	0,000000
+
+homofïjlije	homofïjlije+?	inf
+
+keramikere	keramihkere+Err/Orth+N+Sg+Nom	0,000000
+
+urresteskorresjh	urresteskorresjh+?	inf
+
+maabpesysteme	maabpesysteme+?	inf
+
+meedija-bietskh	meedija-bietskh+?	inf
+
+likte-mierie	likte-mierie+?	inf
+
+observatorijumme	observatorijumme+?	inf
+
+pensjovniste	pensjoniste+Err/Orth+N+Sg+Nom	0,000000
+
+sjædtoe-dilhkesh	sjædtoe-dilhkesh+?	inf
+
+dåvveme	dovveme+Err/Orth+N+Sg+Nom	0,000000
+
+skuvlemestjïehtjele	skuvlemestjïehtjele+?	inf
+
+staaten-årroedahke	staaten-årroedahke+?	inf
+
+terroriste	terroriste+?	inf
+
+trihke	trïhke+N+Sg+Nom	0,000000
+
+turistehæhtjoe	turistehæhtjoe+?	inf
+
+gaarsjestadijumme	gaarsjestadijumme+?	inf
+
+gaarsjestadijove	gaarsjestadijove+?	inf
+
