@@ -1563,7 +1563,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" soggi="e" stem="2syll">aalkoekuvsje</t>
+            <t pos="N" soggi="e" stem="2syll">aalkoekurse</t>
          </tg>
       </mg>
    </e>
@@ -9727,7 +9727,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t margo="e" pos="N" soggi="e" stem="3syll">eengkele</t>
+            <t margo="e" pos="N" soggi="e" stem="3syll">engkele</t>
          </tg>
       </mg>
    </e>
@@ -9817,7 +9817,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" soggi="e" stem="2syll">siebriedahke</t>
+            <t pos="N" soggi="e" stem="2syll">seabradahke</t>
          </tg>
       </mg>
    </e>
@@ -57073,7 +57073,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">siebriedahkedajve</t>
+        <t pos="N">seabradahkedajve</t>
       </tg>
     </mg>
   </e>
@@ -57885,7 +57885,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">aalkoealmetjensiebriedahke</t>
+        <t pos="N">aalkoealmetjenseabradahke</t>
       </tg>
     </mg>
   </e>
@@ -60122,7 +60122,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">siebriedahkeevtiedimmie</t>
+        <t pos="N">seabradahkeevtiedimmie</t>
       </tg>
     </mg>
   </e>
@@ -61103,7 +61103,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">tjïeltesiebriedahke</t>
+        <t pos="N">tjïelteseabradahke</t>
       </tg>
     </mg>
   </e>
@@ -61113,7 +61113,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">eatnemesiebriedahke</t>
+        <t pos="N">eatnemeseabradahke</t>
       </tg>
     </mg>
   </e>
@@ -61593,7 +61593,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">siebriedahkesuerkie</t>
+        <t pos="N">seabradahkesuerkie</t>
       </tg>
     </mg>
   </e>
@@ -61833,7 +61833,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">siebriedahkegåetie</t>
+        <t pos="N">seabradahkegåetie</t>
       </tg>
     </mg>
   </e>
@@ -62505,7 +62505,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">siebriedahkeperspektijve</t>
+        <t pos="N">seabradahkeperspektijve</t>
       </tg>
     </mg>
   </e>
@@ -63537,7 +63537,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">stoerresiebriedahke</t>
+        <t pos="N">stoerreseabradahke</t>
       </tg>
     </mg>
   </e>
@@ -67832,7 +67832,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">siebriedahkegoevtese</t>
+        <t pos="N">seabradahkegoevtese</t>
       </tg>
     </mg>
   </e>
@@ -68397,7 +68397,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">siebriedahkesysteeme</t>
+        <t pos="N">seabradahkesysteeme</t>
       </tg>
     </mg>
   </e>
@@ -68597,7 +68597,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">staatesiebriedahke</t>
+        <t pos="N">staateseabradahke</t>
       </tg>
     </mg>
   </e>
@@ -68607,7 +68607,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">reaktoesiebriedahke</t>
+        <t pos="N">reaktoeseabradahke</t>
       </tg>
     </mg>
   </e>
@@ -68719,7 +68719,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">siebriedahkemaahtoe</t>
+        <t pos="N">seabradahkemaahtoe</t>
       </tg>
     </mg>
   </e>
@@ -71863,7 +71863,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">siebriedahkedaalhkesh</t>
+        <t pos="N">seabradahkedaalhkesh</t>
       </tg>
     </mg>
   </e>
@@ -71883,7 +71883,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">sjædtoesiebriedahke</t>
+        <t pos="N">sjædtoeseabradahke</t>
       </tg>
     </mg>
   </e>
@@ -71893,7 +71893,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">gïelesiebriedahke</t>
+        <t pos="N">gïeleseabradahke</t>
       </tg>
     </mg>
   </e>
@@ -71903,7 +71903,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">ööhpehtimmiesiebriedahke</t>
+        <t pos="N">ööhpehtimmieseabradahke</t>
       </tg>
     </mg>
   </e>
@@ -71913,7 +71913,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">bïevnesesiebriedahke</t>
+        <t pos="N">bïevneseseabradahke</t>
       </tg>
     </mg>
   </e>
@@ -72243,7 +72243,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">siebriedahkedïedte</t>
+        <t pos="N">seabradahkedïedte</t>
       </tg>
     </mg>
   </e>
@@ -72463,7 +72463,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">siebriedahkestruktuvre</t>
+        <t pos="N">seabradahkestruktuvre</t>
       </tg>
     </mg>
   </e>
@@ -72533,7 +72533,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">siebriedahkeaktööre</t>
+        <t pos="N">seabradahkeaktööre</t>
       </tg>
     </mg>
   </e>
@@ -74005,7 +74005,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">göölemesiebriedahke</t>
+        <t pos="N">göölemeseabradahke</t>
       </tg>
     </mg>
   </e>
@@ -74886,7 +74886,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">siebriedahkeaamhtese</t>
+        <t pos="N">seabradahkeaamhtese</t>
       </tg>
     </mg>
   </e>
@@ -75066,7 +75066,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">siebriedahkegyhtjelasse</t>
+        <t pos="N">seabradahkegyhtjelasse</t>
       </tg>
     </mg>
   </e>
@@ -75166,7 +75166,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">siebriedahkevierhtie</t>
+        <t pos="N">seabradahkevierhtie</t>
       </tg>
     </mg>
   </e>
@@ -75566,7 +75566,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">rïjhkesiebriedahke</t>
+        <t pos="N">rïjhkeseabradahke</t>
       </tg>
     </mg>
   </e>
@@ -81462,8 +81462,8 @@ flagglov ::: saevegenlaake
 snekkerlinje ::: snæhkeresïeve
 industrisektor ::: industrisuerkie
 industrisektor ::: industrijensuerkie
-samfunnsoppbygging ::: siebriedahketseegkeme
-samfunnsoppbygging ::: siebriedahkentseegkeme
+samfunnsoppbygging ::: seabradahketseegkeme
+samfunnsoppbygging ::: seabradahkentseegkeme
 radiosending ::: radionsaadtege
 planbestemmelse ::: soejkesjenænnoestimmie
 sakstype ::: aamhtesesåarhte
@@ -81520,7 +81520,7 @@ kjernevåpen ::: sjöövemevaeknie
 studentprest ::: studeentenhearra
 studentprest ::: studenthearra
 helsesituasjon ::: healsoentsiehkie
-samfunnsborger ::: siebriedahkebåarkene
+samfunnsborger ::: seabradahkebåarkene
 barnehagenivå ::: maanajgïertedaltese
 farskap ::: aehtjvoete
 kursmåte ::: kuvsjevuekie
@@ -81552,7 +81552,7 @@ internatplass ::: internatsijjie
 underkontor ::: lijhkiekontovre
 sjøfart ::: saelhtiedrïekte
 sjøfart ::: skïhpedrïekte
-samfunnstema ::: siebriedahkenaamhtese
+samfunnstema ::: seabradahkenaamhtese
 samfunnstema ::: ektievoetenaamhtese
 plantype ::: soejkesjesåarhte
 studieplan ::: lohkemeplaane
@@ -81610,7 +81610,7 @@ regionsykehus ::: regijovneskïemtjegåetie
 filmforestilling ::: jielieguvvienvuesiehtimmie
 industriselskap ::: industrijesïelske
 ungdomssamarbeid ::: noerelaavenjasse
-samfunnsspørsmål ::: siebriedahkengyhtjelasse
+samfunnsspørsmål ::: seabradahkengyhtjelasse
 samfunnsspørsmål ::: ektievoetegyhtjelasse
 samfunnsspørsmål ::: ektievoetengyhtjelasse
 merkefrist ::: tsïeglebiejjie
@@ -81646,7 +81646,7 @@ informasjonsdirektør ::: saerniestimmiedirektööre
 underskriving ::: lijhkietjaeleme
 underskriving ::: åavtoetjaeleme
 underskriving ::: lijhkietjaalege
-samfunnsavdeling ::: siebriedahkengoevtese
+samfunnsavdeling ::: seabradahkengoevtese
 høstflytting ::: tjaktjenjuhteme
 høstflytting ::: tjaktjejuhteme
 kulturfelt ::: kultursuerkie
@@ -81827,8 +81827,8 @@ kjerneaktivitet ::: voerngesdarjome
 praksisfelt ::: learoensuerkie
 vertskap ::: båantavoete
 vertskap ::: gåassoehtæjjavoete
-samfunnsaktivitet ::: siebriedahkendarjome
-samfunnsaktivitet ::: siebriedahkedarjome
+samfunnsaktivitet ::: seabradahkendarjome
+samfunnsaktivitet ::: seabradahkedarjome
 samfunnsaktivitet ::: ektievoetendarjome
 samfunnsaktivitet ::: ektievoetedarjome
 million ::: miljovne
@@ -81875,7 +81875,7 @@ tykktarm ::: söökestjåelie
 regiondepartement ::: regijovnendepartemeente
 regiondepartement ::: regiondepartemeente
 regiondepartement ::: regijovnedepartemeente
-samfunnsressurs ::: siebriedahkenvierhtie
+samfunnsressurs ::: seabradahkenvierhtie
 samfunnsressurs ::: ektievoetevierhtie
 samfunnsressurs ::: ektievoetenvierhtie
 språkfolk ::: gïeleåålmege
@@ -81888,7 +81888,7 @@ storområdestrategi ::: stoerredajve
 naturhistorie ::: eatnemenhistovrije
 naturhistorie ::: eatnemevaajese
 naturhistorie ::: eatnemenvaajese
-fiskerisamfunn ::: gueliensiebriedahke
+fiskerisamfunn ::: guelienseabradahke
 radioaktivitet ::: radiodarjome
 radioaktivitet ::: radiondarjome
 radioside ::: radionraedtie
@@ -81934,8 +81934,8 @@ politikeropplæring ::: polijtikereööhpehtimmie
 teknologiutvikling ::: teknologijeevtiedimmie
 filmtiltak ::: jielieguvvieråajvarimmie
 fellessak ::: bartanaamhtese
-samfunnskunnskap ::: siebriedahkendaajroe
-samfunnskunnskap ::: siebriedahkenmaahtoe
+samfunnskunnskap ::: seabradahkendaajroe
+samfunnskunnskap ::: seabradahkenmaahtoe
 helselære ::: healsoelohkehtæjja
 helselære ::: healsoenlearoe
 utmarksressurs ::: miehtjiesdajvenvierhtie
@@ -81971,7 +81971,7 @@ ungdomsleke ::: fijriestååkegaevnie
 klasseromsundervisning ::: klaassentjïehtjeleööhpehtimmie
 bibliotektilbud ::: gærjagåetienuepie
 skolespørsmål ::: skuvlengyhtjelasse
-statssamfunn ::: staatensiebriedahke
+statssamfunn ::: staatenseabradahke
 reindriftsplan ::: båatsoeburrieplaane
 reindriftsplan ::: båatsoeburriesoejkesje
 studenteksamen ::: studenteksaamene
@@ -82061,7 +82061,7 @@ stedsnavnsak ::: sijjienommenaamhtese
 skolefolk ::: skuvleåålmege
 skolefolk ::: skuvlenalmetje
 grovmotorikk ::: kruepiesmotorihke
-samfunnsrolle ::: siebriedahkedåemiedimmie
+samfunnsrolle ::: seabradahkedåemiedimmie
 boskikk ::: årromevuekie
 boskikk ::: veasomevuekie
 boskikk ::: veasomenvuekie
@@ -82093,7 +82093,7 @@ riksplan ::: rïjhkeplaane
 riksplan ::: rïjhkesoejkesje
 avtalemiddel ::: sjïehtedimmievierhtie
 reindriftskontor ::: båatsoeburriekontovre
-rettssamfunn ::: reaktoensiebriedahke
+rettssamfunn ::: reaktoenseabradahke
 rettsmøte ::: reaktoetjåanghkoe
 naturvernområde ::: eatnemevaarjelimmiedajve
 forskningsaktivitet ::: dotkemendarjome
@@ -82197,7 +82197,7 @@ tiltakspunkt ::: råajvarimmiemierie
 politikonferanse ::: politijekonferaanse
 politikonferanse ::: politikonferaanse
 kulturdepartement ::: kultuvrendepartemeente
-samfunnsfag ::: siebriedahkenfaage
+samfunnsfag ::: seabradahkenfaage
 filmpolitikk ::: jielieguvviepolitihke
 filmpolitikk ::: jielieguvvienpolitihke
 ressursskole ::: vierhtienskuvle
@@ -82370,7 +82370,7 @@ samarbeidsgruppe ::: laavenjassedåehkie
 tilleggsressurs ::: lissienvierhtie
 tilskuddsmyndighet ::: dåarjoereakta
 samfunnssammenheng ::: ektievoetentsiehkie
-samfunnssammenheng ::: siebriedahkentsiehkie
+samfunnssammenheng ::: seabradahkentsiehkie
 fiskeriområde ::: gueliendajve
 fiskeriområde ::: gueliedajve
 kjøkkensjef ::: tjöövkeåvtehke
@@ -82498,7 +82498,7 @@ ressursplan ::: vierhtieplaane
 forskningsutvalg ::: dotkemedåehkie
 miljøspørsmål ::: byjresengyhtjelasse
 utviklingsforslag ::: evtiedimmienuvtelasse
-samfunnssystem ::: siebriedahkensysteeme
+samfunnssystem ::: seabradahkensysteeme
 personvern ::: nïerevaarjelimmie
 tilleggsspørsmål ::: lissiengyhtjelasse
 snekkerlærer ::: snæhkerelearoe
@@ -82810,7 +82810,7 @@ kommunikasjonsarbeid ::: gaskesadtemebarkoe
 energisamarbeid ::: energijenektiebarkoe
 energisamarbeid ::: energiektiebarkoe
 lærerdistrikt ::: lohkehtæjjaeatneme
-samfunnsinteresse ::: siebriedahkeïedtje
+samfunnsinteresse ::: seabradahkeïedtje
 forskningsarbeid ::: dotkemenbarkoe
 våpenmerke ::: vaeknievæhta
 fortjenestemedalje ::: dïenestevæhta
@@ -82960,8 +82960,8 @@ forskningssamarbeid ::: dotkemenektiebarkoe
 varelinje ::: vaaroesïeve
 varelinje ::: eekesïeve
 kommunikasjonslinje ::: gaskesadtemesïeve
-reindriftssamfunn ::: båatsoeburriesiebriedahke
-reindriftssamfunn ::: båatsoesiebriedahke
+reindriftssamfunn ::: båatsoeburrieseabradahke
+reindriftssamfunn ::: båatsoeseabradahke
 hjørnestein ::: roenengierkie
 omsorgsperson ::: såjhtoenïere
 skogsamarbeid ::: skåajjeektiebarkoe
@@ -83514,7 +83514,7 @@ Nordvestlandet ::: noerhtejillie
 barmarkskjøring ::: bïevlevuejeme
 adopsjon ::: adopsjovne
 tilsyn av barn ::: vaaksjome
-samfunnsproblem ::: siebriedahkedåeriesmoere
+samfunnsproblem ::: seabradahkedåeriesmoere
 hovedfokus ::: åejviefokuse
 byråkrati ::: byrokratije
 forsøksvirksomhet ::: pryövenasse
@@ -83560,7 +83560,7 @@ sameland ::: saemieeatneme
 avtaleperiode ::: latjkoeboelhke
 vurderingsverktøy ::: vierhtiedimmiedïrrege
 dyktighet ::: maahtaldahke
-samfunnskunnskap ::: siebriedahkedaajroe
+samfunnskunnskap ::: seabradahkedaajroe
 ekspansjon ::: ekspansjovne
 kunstprosjekt ::: kåansteprosjeekte
 behovsendring ::: daerpiesvoetejorkestimmie
@@ -83854,7 +83854,7 @@ filmpolitikk ::: filmepolitihke
 kulturdepartement ::: kultuvredepartemeente
 kulturdepartement ::: kulturdepartemeente
 samfunnsfag ::: siebredahkenaamhtse
-samfunnsfag ::: siebriedahkefaage
+samfunnsfag ::: seabradahkefaage
 samfunnsfag ::: ektievuekiefaage
 ressursskole ::: vierhtieskuvle
 modernitet ::: moderniteete
@@ -84013,7 +84013,7 @@ sameradio ::: saemieradijove
 planstrategi ::: soejkesjestrategije
 brukssedvane ::: pråvhkoevuekie
 skruestikke ::: skruvveherrehke
-samfunnssammenheng ::: siebriedahketsiehkie
+samfunnssammenheng ::: seabradahketsiehkie
 tastatur ::: tastatuvre
 prosjektteater ::: prosjeekteteaatere
 skogbruk ::: skåakeåtnoe
