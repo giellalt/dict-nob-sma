@@ -153,7 +153,7 @@ substantive	substantijve+N+Err/Orth+Sg+Nom	0,000000
 
 tjueniejåanghkoe	tjueniejåanghkoe+?	inf
 
-baeniedåakterestudeente	baeniedåakterestudeente+?	inf
+! baeniedåakterestudeente	baeniedåakterestudeente+?	inf
 
 jiehtese	jiehtege+Err/Orth+N+Sg+Nom	0,000000
 

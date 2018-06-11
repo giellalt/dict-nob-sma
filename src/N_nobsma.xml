@@ -3196,7 +3196,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t margo="e" pos="N" soggi="e" stem="3syll">jiehtese</t>
+            <t margo="e" pos="N" soggi="e" stem="3syll">jiehtege</t>
          </tg>
       </mg>
    </e>
@@ -15339,7 +15339,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" soggi="e" stem="2syll">gïelekuvsje</t>
+            <t pos="N" soggi="e" stem="2syll">gïelekurse</t>
          </tg>
       </mg>
    </e>
@@ -19724,7 +19724,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" soggi="e" stem="2syll">kuvsje</t>
+            <t pos="N" soggi="e" stem="2syll">kurse</t>
          </tg>
       </mg>
    </e>
@@ -39465,7 +39465,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">konferaanse</t>
+            <t pos="N">konferanse</t>
          </tg>
       </mg>
    </e>
@@ -40973,7 +40973,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" soggi="e" stem="2syll">kuvsjeplaane</t>
+            <t pos="N" soggi="e" stem="2syll">kurseplaane</t>
          </tg>
       </mg>
    </e>
@@ -56535,7 +56535,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">jiehtese</t>
+        <t pos="N">jiehtege</t>
       </tg>
     </mg>
   </e>
@@ -57327,7 +57327,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">faaleldahkekonferaanse</t>
+        <t pos="N">faaleldahkekonferanse</t>
       </tg>
     </mg>
   </e>
@@ -57337,7 +57337,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">aalkoealmetjenkonferaanse</t>
+        <t pos="N">aalkoealmetjenkonferanse</t>
       </tg>
     </mg>
   </e>
@@ -57712,7 +57712,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N" stem="3syll">faagejiehtese</t>
+        <t pos="N" stem="3syll">faagejiehtege</t>
         <t pos="N">faagebaakoe</t>
       </tg>
     </mg>
@@ -57723,7 +57723,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">kultuvrejiehtese</t>
+        <t pos="N">kultuvrejiehtege</t>
       </tg>
     </mg>
   </e>
@@ -58261,7 +58261,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">aamhtesekuvsje</t>
+        <t pos="N">aamhtesekurse</t>
       </tg>
     </mg>
   </e>
@@ -58271,7 +58271,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">gåaromekuvsje</t>
+        <t pos="N">gåaromekurse</t>
       </tg>
     </mg>
   </e>
@@ -58901,7 +58901,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">kuvsjefaaleldahke</t>
+        <t pos="N">kursefaaleldahke</t>
       </tg>
     </mg>
   </e>
@@ -58961,7 +58961,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">interneehtesæjroe</t>
+        <t pos="N">internehtesæjroe</t>
         <t pos="N">gaskeviermiesæjroe</t>
       </tg>
     </mg>
@@ -59542,7 +59542,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">saemienkonferaanse</t>
+        <t pos="N">saemienkonferanse</t>
       </tg>
     </mg>
   </e>
@@ -59552,7 +59552,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">tjïeltenkonferaanse</t>
+        <t pos="N">tjïeltenkonferanse</t>
       </tg>
     </mg>
   </e>
@@ -59562,7 +59562,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">gïelekonferaanse</t>
+        <t pos="N">gïelekonferanse</t>
       </tg>
     </mg>
   </e>
@@ -59572,7 +59572,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">maanavaarjelimmiekonferaanse</t>
+        <t pos="N">maanavaarjelimmiekonferanse</t>
       </tg>
     </mg>
   </e>
@@ -59582,7 +59582,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">barkeoekonferaanse</t>
+        <t pos="N">barkeoekonferanse</t>
       </tg>
     </mg>
   </e>
@@ -59592,7 +59592,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">noerijkonferaanse</t>
+        <t pos="N">noerikonferanse</t>
       </tg>
     </mg>
   </e>
@@ -60713,7 +60713,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">jiehtese</t>
+        <t pos="N">jiehtege</t>
       </tg>
     </mg>
   </e>
@@ -61333,7 +61333,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">kuvsjeåejvie</t>
+        <t pos="N">kurseåejvie</t>
       </tg>
     </mg>
   </e>
@@ -61723,7 +61723,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">saemienkuvsje</t>
+        <t pos="N">saemienkurse</t>
       </tg>
     </mg>
   </e>
@@ -63587,7 +63587,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">aalkovekuvsje</t>
+        <t pos="N">aalkovekurse</t>
       </tg>
     </mg>
   </e>
@@ -63968,7 +63968,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">maadthkuvsje</t>
+        <t pos="N">maadthkurse</t>
         <t pos="N">maadth-ööhpedimmie</t>
       </tg>
     </mg>
@@ -65624,7 +65624,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">skuvlekonferaanse</t>
+        <t pos="N">skuvlekonferanse</t>
       </tg>
     </mg>
   </e>
@@ -65905,7 +65905,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">healsoekonferaanse</t>
+        <t pos="N">healsoekonferanse</t>
       </tg>
     </mg>
   </e>
@@ -66556,7 +66556,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">kuvsjesijjie</t>
+        <t pos="N">kursesijjie</t>
       </tg>
     </mg>
   </e>
@@ -67410,7 +67410,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">maanagïertekonferaanse</t>
+        <t pos="N">maanagïertekonferanse</t>
       </tg>
     </mg>
   </e>
@@ -67420,7 +67420,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">skuvlekonferaanse</t>
+        <t pos="N">skuvlekonferanse</t>
       </tg>
     </mg>
   </e>
@@ -67430,7 +67430,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">kultuvremojhtesekonferaanse</t>
+        <t pos="N">kultuvremojhtesekonferanse</t>
       </tg>
     </mg>
   </e>
@@ -67440,7 +67440,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">politijenkonferaanse</t>
+        <t pos="N">politijenkonferanse</t>
       </tg>
     </mg>
   </e>
@@ -67450,7 +67450,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">kultuvrekonferaanse</t>
+        <t pos="N">kultuvrekonferanse</t>
       </tg>
     </mg>
   </e>
@@ -67460,7 +67460,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">ektiebarkoekonferaanse</t>
+        <t pos="N">ektiebarkoekonferanse</t>
       </tg>
     </mg>
   </e>
@@ -67470,7 +67470,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">seammavierhtegekonferaanse</t>
+        <t pos="N">seammavierhtegekonferanse</t>
       </tg>
     </mg>
   </e>
@@ -67480,7 +67480,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">reerenassekonferaanse</t>
+        <t pos="N">reerenassekonferanse</t>
       </tg>
     </mg>
   </e>
@@ -67490,7 +67490,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">jaepiekonferaanse</t>
+        <t pos="N">jaepiekonferanse</t>
       </tg>
     </mg>
   </e>
@@ -67500,7 +67500,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">tjaktjekonferaanse</t>
+        <t pos="N">tjaktjekonferanse</t>
       </tg>
     </mg>
   </e>
@@ -67631,7 +67631,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">kuvsjenvuekie</t>
+        <t pos="N">kursenvuekie</t>
       </tg>
     </mg>
   </e>
@@ -67842,7 +67842,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">kuvsjegoevtese</t>
+        <t pos="N">kursegoevtese</t>
       </tg>
     </mg>
   </e>
@@ -68911,7 +68911,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">kuvsjejarnge</t>
+        <t pos="N">kursejarnge</t>
       </tg>
     </mg>
   </e>
@@ -69833,7 +69833,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">konferaansetæjmoe</t>
+        <t pos="N">konferansetæjmoe</t>
       </tg>
     </mg>
   </e>
@@ -70133,7 +70133,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">gærjagåetiekonferaanse</t>
+        <t pos="N">gærjagåetiekonferanse</t>
       </tg>
     </mg>
   </e>
@@ -70143,7 +70143,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">rïjhkekonferaanse</t>
+        <t pos="N">rïjhkekonferanse</t>
       </tg>
     </mg>
   </e>
@@ -70153,7 +70153,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">ööhpehtimmiekonferaanse</t>
+        <t pos="N">ööhpehtimmiekonferanse</t>
       </tg>
     </mg>
   </e>
@@ -70163,7 +70163,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">maanavaarjelimmienkonferaanse</t>
+        <t pos="N">maanavaarjelimmienkonferanse</t>
       </tg>
     </mg>
   </e>
@@ -71213,7 +71213,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">kuvsjeråajvarimmie</t>
+        <t pos="N">kurseråajvarimmie</t>
       </tg>
     </mg>
   </e>
@@ -72623,7 +72623,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">kuvsjeåasa</t>
+        <t pos="N">kurseåasa</t>
       </tg>
     </mg>
   </e>
@@ -72643,7 +72643,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">gïeleaamhtesekuvsje</t>
+        <t pos="N">gïeleaamhtesekurse</t>
       </tg>
     </mg>
   </e>
@@ -72653,7 +72653,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">gærjagåetiekuvsje</t>
+        <t pos="N">gærjagåetiekurse</t>
       </tg>
     </mg>
   </e>
@@ -72663,7 +72663,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">snæikerekuvsje</t>
+        <t pos="N">snæikerekurse</t>
       </tg>
     </mg>
   </e>
@@ -73524,7 +73524,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">healsoekonferaanse</t>
+        <t pos="N">healsoekonferanse</t>
       </tg>
     </mg>
   </e>
@@ -73534,7 +73534,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">laanteburriekonferaanse</t>
+        <t pos="N">laanteburriekonferanse</t>
       </tg>
     </mg>
   </e>
@@ -74146,7 +74146,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">giesiekuvsje</t>
+        <t pos="N">giesiekurse</t>
       </tg>
     </mg>
   </e>
@@ -74156,7 +74156,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">kultuvrekuvsje</t>
+        <t pos="N">kultuvrekurse</t>
       </tg>
     </mg>
   </e>
@@ -74166,7 +74166,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">evtiedimmiekuvsje</t>
+        <t pos="N">evtiedimmiekurse</t>
       </tg>
     </mg>
   </e>
@@ -74176,7 +74176,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">jaepiekuvsje</t>
+        <t pos="N">jaepiekurse</t>
       </tg>
     </mg>
   </e>
@@ -74766,7 +74766,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">bïhkedimmiekuvsje</t>
+        <t pos="N">bïhkedimmiekurse</t>
       </tg>
     </mg>
   </e>
@@ -75156,7 +75156,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">tjaktjekuvsje</t>
+        <t pos="N">tjaktjekurse</t>
       </tg>
     </mg>
   </e>
@@ -75366,7 +75366,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">sosijaalekonferaanse</t>
+        <t pos="N">sosijaalekonferanse</t>
       </tg>
     </mg>
   </e>
@@ -75656,7 +75656,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">sjïerekuvsje</t>
+        <t pos="N">sjïerekurse</t>
       </tg>
     </mg>
   </e>
@@ -75666,7 +75666,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">åvtekuvsje</t>
+        <t pos="N">åvtekurse</t>
       </tg>
     </mg>
   </e>
@@ -75676,7 +75676,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">övtiedimmiekuvsje</t>
+        <t pos="N">övtiedimmiekurse</t>
       </tg>
     </mg>
   </e>
@@ -75846,7 +75846,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">pressekonferaanse</t>
+        <t pos="N">pressekonferanse</t>
       </tg>
     </mg>
   </e>
@@ -76257,7 +76257,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">beetnehkuvsje</t>
+        <t pos="N">beetnehkurse</t>
       </tg>
     </mg>
   </e>
@@ -81485,7 +81485,7 @@ valgregel ::: veeljemennjoelkedasse
 rettighetsregel ::: reaktannjoelkedasse
 samarbeidslinje ::: laavenjassesïeve
 samarbeidslinje ::: ektiebarkoesïeve
-kursvirksomhet ::: kuvsjegïehtelimmie
+kursvirksomhet ::: kursegïehtelimmie
 grensesamarbeid ::: raajanektiebarkoe
 grensesamarbeid ::: krïenseektiebarkoe
 skolepenger ::: skåvloebeetnege
@@ -81505,7 +81505,7 @@ politimann ::: politijeålma
 merkesak ::: mïerhkeaamhtese
 merkesak ::: tsïegleaamhtese
 grunnutdanning ::: maadthskuvleööhpehtimmie
-likestillingskonferanse ::: mïrrestallemekonferaanse
+likestillingskonferanse ::: mïrrestallemekonferanse
 kunstfelt ::: kåanstesuerkie
 religionstime ::: religijovnetæjma
 praksisbrev ::: learoenprievie
@@ -81523,7 +81523,7 @@ helsesituasjon ::: healsoentsiehkie
 samfunnsborger ::: seabradahkebåarkene
 barnehagenivå ::: maanajgïertedaltese
 farskap ::: aehtjvoete
-kursmåte ::: kuvsjevuekie
+kursmåte ::: kursevuekie
 minoritetsmedlem ::: unnebelåhkoelïhtse
 skolenettverk ::: skuvlenviermie
 industriområde ::: industridajve
@@ -81533,7 +81533,7 @@ fjellsame ::: vaeriensaemie
 fjellsame ::: tjahkensaemie
 fjellsame ::: tjahkesaemie
 fjellsame ::: vaeriesaemie
-samarbeidskonferanse ::: ektiebarkoenkonferaanse
+samarbeidskonferanse ::: ektiebarkoenkonferanse
 omsorgsplan ::: såjhtoeplaane
 fagforening ::: faagensiebrie
 fagforening ::: faagesiebrie
@@ -81658,9 +81658,9 @@ møtebehandling ::: tjåanghkoegïetedalleme
 nordfylkemøte ::: noerhtefylhke
 bruksstørrelse ::: åtnoeståaroe
 studieretning ::: lohkemeotnjege
-sommerkurs ::: giesienkuvsje
+sommerkurs ::: giesienkurse
 forskningssak ::: dotkemenaamhtese
-landbrukskonferanse ::: laanteburrienkonferaanse
+landbrukskonferanse ::: laanteburrienkonferanse
 reindriftsblad ::: båatsoeplaerie
 organisasjonsnummer ::: organisasjovnennummere
 organisasjonsnummer ::: organisationsnummere
@@ -81696,7 +81696,7 @@ tilleggsmelding ::: lissiesaerniestimmie
 husdyrsektor ::: buvviensuerkie
 naturstein ::: eatnemegierkie
 naturstein ::: eatnemengierkie
-barnehagekonferanse ::: maanajgïertekonferaanse
+barnehagekonferanse ::: maanajgïertekonferanse
 regjeringsråd ::: reerenasseståvroe
 regjeringsråd ::: reerenassenraerie
 forside ::: åvteraedtie
@@ -81810,8 +81810,8 @@ formel ::: åvtejaavvoeh
 fellesstyre ::: bartaståvroe
 fellesstyre ::: ruevtieståvroe
 grunntilskudd ::: maadthskuvledåarjoe
-filmkonferanse ::: jielieguvvienkonferaanse
-filmkonferanse ::: jielieguvviekonferaanse
+filmkonferanse ::: jielieguvvienkonferanse
+filmkonferanse ::: jielieguvviekonferanse
 ressursspørsmål ::: vierhtiengyhtjelasse
 forskningspolitikk ::: dotkemenpolitihke
 miljøkonvensjon ::: byjresenkonvensjovne
@@ -81845,7 +81845,7 @@ reindriftssamisk ::: båatsoesaemiengïele
 nøkkelgruppe ::: tjoevtenjedåehkie
 landbruksmelding ::: laanteburriensaerniestimmie
 landbruksmelding ::: laanteburriesaerniestimmie
-utviklingskurs ::: evtiedimmienkuvsje
+utviklingskurs ::: evtiedimmienkurse
 solring ::: biejjierïngke
 solring ::: biejvienreagka
 solring ::: biejviereagka
@@ -81921,8 +81921,8 @@ skolegenser ::: skuvlenabpese
 studium ::: giehtjedimmie
 kulturperspektiv ::: kultuvrenperspektijve
 kulturperspektiv ::: kulturperspektijve
-kulturkonferanse ::: kultuvrenkonferaanse
-kulturkonferanse ::: kulturkonferaanse
+kulturkonferanse ::: kultuvrenkonferanse
+kulturkonferanse ::: kulturkonferanse
 likestillingsmiddel ::: seammavyörtegevierhtie
 internatmiljø ::: internaatenbyjrese
 internatmiljø ::: internatbyjrese
@@ -81942,7 +81942,7 @@ utmarksressurs ::: miehtjiesdajvenvierhtie
 utmarksressurs ::: miehtjiesdajvevierhtie
 læremiddelsamarbeid ::: learoevierhtienektiebarkoe
 rentestøtte ::: lissiemaaksoedåarjoe
-helsekonferanse ::: healsoenkonferaanse
+helsekonferanse ::: healsoenkonferanse
 skogkultur ::: skåajjekultuvre
 kultursak ::: kulturaamhtese
 kultursak ::: kultuvrenaamhtese
@@ -82029,7 +82029,7 @@ undersøkelse ::: joekehtimmie
 sametingsbudsjett ::: saemiedigkiebudsjehte
 grensekommune ::: krïensetjïelte
 skolemester ::: skuvleööhpehtæjja
-kulturminnekonferanse ::: kultuvremojhtesenkonferaanse
+kulturminnekonferanse ::: kultuvremojhtesenkonferanse
 fiskefelt ::: göölemesuerkie
 fiskefelt ::: gueliesuerkie
 fiskefelt ::: gueliensuerkie
@@ -82051,7 +82051,7 @@ fiskeriressurs ::: guelienvierhtie
 tilpasningsmåte ::: sjïehtedimmievuekie
 konkurranselov ::: gaahtjemenlaake
 utviklingssamarbeid ::: evtiedimmienektiebarkoe
-årskonferanse ::: jaepienkonferaanse
+årskonferanse ::: jaepienkonferanse
 regionsenterkommune ::: regijovnenjarnge
 regionsenterkommune ::: regionjarnge
 regionsenterkommune ::: regijovnejarnge
@@ -82152,7 +82152,7 @@ dokumentasjonsordning ::: dokumentasjovneåårdnege
 kirkeavdeling ::: gærhkoegoevtese
 størrelsesgruppe ::: ståaroedåehkie
 språklikestillingsarbeid ::: seammavyörhtegegielebarkoe
-høstkurs ::: tjaktjenkuvsje
+høstkurs ::: tjaktjenkurse
 miljøområde ::: byjresendajve
 telefonlinje ::: telefovnesïeve
 organisasjonsliv ::: organisasjonsjieleme
@@ -82194,8 +82194,8 @@ forvaltningsråd ::: reeremenraerie
 litteraturområde ::: litteraturdajve
 litteraturområde ::: litteratuvredajve
 tiltakspunkt ::: råajvarimmiemierie
-politikonferanse ::: politijekonferaanse
-politikonferanse ::: politikonferaanse
+politikonferanse ::: politijekonferanse
+politikonferanse ::: politikonferanse
 kulturdepartement ::: kultuvrendepartemente
 samfunnsfag ::: seabradahkenfaage
 filmpolitikk ::: jielieguvviepolitihke
@@ -82374,7 +82374,7 @@ samfunnssammenheng ::: seabradahkentsiehkie
 fiskeriområde ::: gueliendajve
 fiskeriområde ::: gueliedajve
 kjøkkensjef ::: tjöövkeåvtehke
-årskurs ::: jaepienkuvsje
+årskurs ::: jaepienkurse
 kuldeperiode ::: tjåetskemeboelhke
 konkurranserett ::: gaahtjemenreaktoe
 prosjektsøker ::: prosjeektenohtsije
@@ -82404,7 +82404,7 @@ reiseliv ::: fealadimmienjieleme
 reiseliv ::: feelemenjieleme
 reiseliv ::: feelemejieleme
 reiseliv ::: fealadimmiejieleme
-kursavdeling ::: kuvsjengoevtese
+kursavdeling ::: kursengoevtese
 kunstinstitusjon ::: kåansteinstitusjovne
 arkivplan ::: våarhkoeplaane
 utviklingsarbeider ::: evtiedimmienbarkije
@@ -82695,7 +82695,7 @@ timefordeling ::: tæjmoejoekedimmie
 hovedaktivitet ::: åejviedarjome
 drift ::: arrangemente
 grunnopplæringstilbud ::: maadthööhpehtimmiefaaleldahke
-regjeringskonferanse ::: reerenassenkonferaanse
+regjeringskonferanse ::: reerenassenkonferanse
 reindriftsfolk ::: båatsoeburriealmetje
 reindriftsfolk ::: båatsoeburrieåålmege
 postbehandling ::: påastegïetedalleme
@@ -82707,7 +82707,7 @@ jordvern ::: laantenvaarjelimmie
 jordvern ::: jåartavaarjelimmie
 jordvern ::: laantevaarjelimmie
 overenskomst ::: sjiehtedimmie
-høstkonferanse ::: tjaktjenkonferaanse
+høstkonferanse ::: tjaktjenkonferanse
 veiledningstilbud ::: bïhkedimmienuepie
 kjernefag ::: sjöövemefaage
 tiltaksplass ::: råajvarimmiesijjie
@@ -82727,7 +82727,7 @@ jordressurs ::: laantevierhtie
 søknadsbehandling ::: ohtsemegïetedalleme
 utdanningshjemmel ::: ööhpehtimmielaaketsiehkie
 undervisningskompetanse ::: bïhkedimmiemaahtoe
-reindriftskurs ::: båatsoeburriekuvsje
+reindriftskurs ::: båatsoeburriekurse
 kulturspørsmål ::: kultuvrengyhtjelasse
 kulturspørsmål ::: kulturgyhtjelasse
 målpris ::: ulmieåasa
@@ -82815,7 +82815,7 @@ forskningsarbeid ::: dotkemenbarkoe
 våpenmerke ::: vaeknievæhta
 fortjenestemedalje ::: dïenestevæhta
 skala ::: skaala-raajtere
-skolekonferanse ::: skåvloekonferaanse
+skolekonferanse ::: skåvloekonferanse
 sluttavtale ::: nåhkemelatjkoe
 miljømelding ::: byjresesaerniestimmie
 miljømelding ::: byjresensaerniestimmie
@@ -82937,7 +82937,7 @@ reisemelding ::: feelemensaerniestimmie
 reisemelding ::: feelemesaerniestimmie
 reisemelding ::: fealadimmiensaerniestimmie
 endringsarbeid ::: jorkestimmienbarkoe
-kurssenter ::: kuvsjenjarnge
+kurssenter ::: kursenjarnge
 bostøtte ::: veasomedåarjoe
 nyskaping ::: innovasjovne
 stemmekrets ::: gïelegievlie
@@ -82991,7 +82991,7 @@ barnevernssak ::: maanavaarjelimmieaamhtese
 energisystem ::: energijensysteeme
 energisystem ::: energisysteeme
 vurderingsgrunnlag ::: vierhtiedimmie-våarome
-musikkuttrykk ::: musihkejiehtese
+musikkuttrykk ::: musihkejiehtege
 musikkuttrykk ::: musihkenbaakoe
 musikkuttrykk ::: musihkebaakoe
 musikkuttrykk ::: musikbaakoe
@@ -83036,16 +83036,16 @@ utviklingssystem ::: evtiedimmiensysteeme
 garnfiske ::: laejkiegööleme
 søknadssenter ::: ohtsemenjarnge
 studieleder ::: lohkemeåejvie
-fjellkurs ::: vaerienkuvsje
-fjellkurs ::: tjahkenkuvsje
-fjellkurs ::: tjahkekuvsje
-fjellkurs ::: vaeriekuvsje
+fjellkurs ::: vaerienkurse
+fjellkurs ::: tjahkenkurse
+fjellkurs ::: tjahkekurse
+fjellkurs ::: vaeriekurse
 skoleundervisning ::: skuvlebïhkedimmie
 eiendomsvirksomhet ::: eekegïehtelimmie
 skoleutvikling ::: skuvlenevtiedimmie
 forvaltningssak ::: reeremenaamhtese
-kulturkurs ::: kultuvrenkuvsje
-kulturkurs ::: kulturkuvsje
+kulturkurs ::: kultuvrenkurse
+kulturkurs ::: kulturkurse
 postkjøring ::: påastevuejeme
 sametingsdokument ::: saemiedigkientjaaleldahke
 sametingsdokument ::: saemiedigkietjaaleldahke
@@ -83092,7 +83092,7 @@ filmsenter ::: jielieguvviejarnge
 filmsenter ::: jielieguvvienjarnge
 hovedlinje ::: åejviesïeve
 førstehjelp ::: voestesviehkie
-kurssted ::: kuvsjensijjie
+kurssted ::: kursensijjie
 planområde ::: soejkesjendajve
 reindriftsunge ::: båatsoemaana
 reindriftsunge ::: båatsoeburriemaana
@@ -83487,7 +83487,7 @@ eierstruktur ::: aajhterenleahta
 eierstruktur ::: aajhteretseegkeme
 opplæringskontor ::: ööhpehtimmiekontovre
 restaurant ::: restauraante
-konferanserapport ::: konferaansereektehts
+konferanserapport ::: konferansereektehts
 nomenklatur ::: nomenklatuvre
 fettfordeling ::: båerviejoekedimmie
 fettfordeling ::: buejtiejoekedimmie
@@ -84035,10 +84035,10 @@ læringordning ::: lïerehtimmieåårdnege
 læringordning ::: lïerehtimmieöörnege
 helt ::: åvteguvvie
 trosopplæring ::: jaahkoeööhpehtimmie
-verdenskonferanse ::: veartenekonferaanse
+verdenskonferanse ::: veartenekonferanse
 språkforvaltningsområde ::: gïelereeremedajve
-kronekurs ::: daalekuvsje
-kronekurs ::: kråvnakuvsje
+kronekurs ::: daalekurse
+kronekurs ::: kråvnakurse
 saksbehandlerprogram ::: aamhtesegïetedallijeprogramme
 tjeneste ::: dïenesje
 landareal ::: laantedajve
@@ -84325,7 +84325,7 @@ avstandshinder ::: gåhkoeheaptoe
 uttrykksform ::: baakoehammoe
 uttrykksform ::: dïejvesehammoe
 uttrykksform ::: baakoetjïertehammoe
-uttrykksform ::: jiehtesehammoe
+uttrykksform ::: jiehtegehammoe
 fusjon ::: fusjovne
 undervisningsfilm ::: bïhkedimmiefilme
 undervisningsfilm ::: bïhkedimmiejielemeguvvie
@@ -84359,7 +84359,7 @@ plenumsarbeid ::: pleenumebarkeme
 ungdomsskolebygg ::: noereskuvlebigkie
 visepresident ::: visepresidente
 budsjettproposisjon ::: budsjehteproposisjovne
-skolekonferanse ::: skuvlekonferaanse
+skolekonferanse ::: skuvlekonferanse
 helsekrone ::: healsoekråvna
 helsekrone ::: healsoetjahta
 helsekrone ::: starnetjåervie
@@ -84541,7 +84541,7 @@ urfolksrepresentant ::: aalkoeåålmegesaadthalmetje
 skinnlue ::: dueljietjohpe
 skinnlue ::: njaltjatjohpe
 formuttrykk ::: haamoebaakoetjïerte
-formuttrykk ::: hammoejiehtese
+formuttrykk ::: hammoejiehtege
 kvinnedag ::: nyjsenebiejjie
 vedtak i sak ::: mieriedimmie
 dispensasjon ::: dispensasjovne
@@ -84938,9 +84938,9 @@ analyse ::: gïehtjedimmie
 rettledelse ::: raeriestimmie
 grunneier ::: eabnoenalmetje
 grunneier ::: eabnoealmetje
-innføringskurs ::: maadthkuvsje
+innføringskurs ::: maadthkurse
 innføringskurs ::: maadthööhpehtimmie
-innføringskurs ::: aalkoekuvsje
+innføringskurs ::: aalkoekurse
 distriktskasse ::: eatnemenskaavtege
 distriktskasse ::: eatnemeskaavtege
 utøver ::: åvtehke
