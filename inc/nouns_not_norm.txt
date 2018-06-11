@@ -34,31 +34,21 @@ kuvsje	kurse+Err/Orth+N+Sg+Nom	0,000000
 
 nietsege	njïetsege+Err/Orth+N+Sg+Nom	0,000000
 
-nietsege	njïetsege+Err/Orth+N+Sg+Nom	0,000000
+! nietsege	njïetsege+Err/Orth+N+Sg+Nom	0,000000
 
-proseente	proseente+?	inf
 
-assisteente	assisteente+?	inf
-
-åajvaladtje	åajvaladtje+?	inf
-
-åajvaladtje	åajvaladtje+?	inf
 
 akkalasaemiengïele	akkalasaemiengïele+?	inf
 
 kildijnesaemiengïele	kildijnesaemiengïele+?	inf
 
-tjaelemgïele	tjaelemgïele+?	inf
 
-departemeente	departemeente+?	inf
+
+
 
 luvlesaemie	luvlesaemie+?	inf
 
-ektiedimmiedepartemeente	ektiedimmiedepartemeente+?	inf
 
-maahtoedepartemeente	maahtoedepartemeente+?	inf
-
-taleente	taleente+?	inf
 
 seammavyörtege	seammavyörtege+?	inf
 
