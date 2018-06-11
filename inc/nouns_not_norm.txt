@@ -19,7 +19,7 @@ aalkoekuvsje	aalkoe+v1+N+Cmp/SgNom+Cmp#kurse+Err/Orth+N+Sg+Nom	10,000000
 
 jiehtese	jiehtege+Err/Orth+N+Sg+Nom	0,000000
 
-eengkele	engkele+Err/Orth+N+Sg+Nom	0,000000
+
 
 eksponeente	eksponeente+?	inf
 
