@@ -61944,7 +61944,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">arealereakta</t>
+        <t pos="N">areaalereakta</t>
       </tg>
     </mg>
   </e>
@@ -62044,7 +62044,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">maahtoelutneme</t>
+        <t pos="N">maahtoelutnjeme</t>
       </tg>
     </mg>
   </e>
@@ -63240,7 +63240,7 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="sma">
         <t pos="N">instruksjovne</t>
-        <t pos="N">bihkedasse</t>
+        <t pos="N">bïhkedasse</t>
       </tg>
     </mg>
   </e>
@@ -63260,7 +63260,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">ööhpedimmiefeeleme</t>
+        <t pos="N">ööhpehtimmiefealadimmie</t>
       </tg>
     </mg>
   </e>
@@ -63280,7 +63280,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">sosialeinstitusjovne</t>
+        <t pos="N">sosiaaleinstitusjovne</t>
       </tg>
     </mg>
   </e>
@@ -63969,7 +63969,7 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="sma">
         <t pos="N">maadthkurse</t>
-        <t pos="N">maadth-ööhpedimmie</t>
+        <t pos="N">maadthööhpehtimmie</t>
       </tg>
     </mg>
   </e>
@@ -64000,8 +64000,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">åejviessmaarege</t>
-        <t pos="N">åejvietjaarne</t>
+        <t pos="N">åejviesmaarege</t>
       </tg>
     </mg>
   </e>
@@ -65815,10 +65814,20 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">sjuvnedstijje</t>
+        <t pos="N">sjuevnjedstïjje</t>
       </tg>
     </mg>
-  </e>
+  </e> 
+  <e>
+    <lg>
+      <l pos="N" src="fad">mørketsrike</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sma">
+        <t pos="N">sjuevnjedsaajmoe</t>
+      </tg>
+    </mg>
+  </e> 
   <e>
     <lg>
       <l pos="N" src="fad">samlingspunkt</l>
@@ -66406,7 +66415,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">rieksege</t>
+        <t pos="N">rïeksege</t>
       </tg>
     </mg>
   </e>
@@ -66426,7 +66435,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">ientje</t>
+        <t pos="N">ïentje</t>
       </tg>
     </mg>
   </e>
@@ -66436,7 +66445,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">jyøne</t>
+        <t pos="N">jyöne</t>
       </tg>
     </mg>
   </e>
@@ -66456,7 +66465,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">dirrege</t>
+        <t pos="N">dïrrege</t>
       </tg>
     </mg>
   </e>
@@ -66757,7 +66766,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">biejjejege</t>
+        <t pos="N">biejjege</t>
       </tg>
     </mg>
   </e>
@@ -67098,7 +67107,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">litteratuvrendajve</t>
+        <t pos="N">litteratuvredajve</t>
       </tg>
     </mg>
   </e>
@@ -67138,7 +67147,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">prosjeektedajve</t>
+        <t pos="N">prosjektedajve</t>
       </tg>
     </mg>
   </e>
@@ -69713,7 +69722,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">soejkesjenboelhke</t>
+        <t pos="N">soejkesjeboelhke</t>
       </tg>
     </mg>
   </e>
@@ -69783,7 +69792,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">bïhkedimmiedåemiedimmie</t>
+        <t pos="N">bïhkedsdåemiedimmie</t>
       </tg>
     </mg>
   </e>
@@ -70223,7 +70232,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">barkoedïenese</t>
+        <t pos="N">barkoedïeneste</t>
       </tg>
     </mg>
   </e>
@@ -70393,7 +70402,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">soptsemesvuekie</t>
+        <t pos="N">soptsesvuekie</t>
       </tg>
     </mg>
   </e>
@@ -71623,7 +71632,8 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">noerijhïejme</t>
+        <t pos="N">noerehïejme</t>
+        <t pos="N">noerebaeliengåetie</t>
       </tg>
     </mg>
   </e>
@@ -72003,7 +72013,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">seammavyörhtegesorganisasjovne</t>
+        <t pos="N">seammavyörhtegsorganisasjovne</t>
       </tg>
     </mg>
   </e>
@@ -81913,7 +81923,7 @@ utviklingstilbud ::: evtiedimmienfaaleldahke
 internatliv ::: internaatenjieleme
 internatliv ::: internatjieleme
 telenett ::: tjïengeleviermie
-instruksjonsrett ::: bihkedassereaktoe
+instruksjonsrett ::: bïhkedassereaktoe
 likestillingssak ::: mïrrestallemeaamhtese
 skolegenser ::: skuvleabpese
 skolegenser ::: skåvloeabpese
@@ -82672,7 +82682,7 @@ fornorskingshistorie ::: daaroedehtemenhistovrije
 departementsnavn ::: departementnomme
 departementsnavn ::: departementenomme
 departementsnavn ::: departementennomme
-instruksjonsmyndighet ::: bihkedassereakta
+instruksjonsmyndighet ::: bïhkedassereakta
 konkurranseregel ::: gaahtjemennjoelkedasse
 kulturmelding ::: kultuvrensaerniestimmie
 kulturmelding ::: kultuvresaerniestimmie
@@ -84920,7 +84930,7 @@ guttunge ::: baarnetje
 guttunge ::: böösetje
 guttunge ::: baahtje
 guttunge ::: baahtjetje
-instruksjonsrett ::: bihkedassereakta
+instruksjonsrett ::: bïhkedassereakta
 handlingsdel ::: darjomengietjie
 handlingsdel ::: darjomegietjie
 matfisk ::: deerpegeguelie
