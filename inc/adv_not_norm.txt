@@ -1,0 +1,21 @@
+dasth	dasth+?	inf
+
+aakedh	ahkedh+Err/Orth+Adv	0,000000
+
+bijjelistie	bijjielistie+Err/Orth+Adv	0,000000
+
+bijjelistie	bijjielistie+Err/Orth+Adv	0,000000
+
+dasth	dasth+?	inf
+
+ovgaath	ovgaath+Interj+Err/Lex	0,000000
+
+jeanasommes	jeanasommes+?	inf
+
+ledtjie	ledtjie+?	inf
+
+na	na+Interj+Err/Lex	0,000000
+na	naa+Err/Orth+Adv	0,000000
+
+duagka	doegkoe+Err/Orth+Adv	0,000000
+

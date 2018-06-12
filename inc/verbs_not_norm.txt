@@ -1,0 +1,36 @@
+vihtesjidh	vïhtesjidh+V+TV+Inf	0,000000
+vihtesjidh	vïhtesjidh+V+TV+Ind+Prt+Pl2	0,000000
+
+mååhtedidh	nååhtedidh+Err/Orth+V+TV+Inf	0,000000
+mååhtedidh	nååhtedidh+Err/Orth+V+TV+Ind+Prt+Pl2	0,000000
+
+vihtesjidh	vïhtesjidh+V+TV+Inf	0,000000
+vihtesjidh	vïhtesjidh+V+TV+Ind+Prt+Pl2	0,000000
+
+vihtesjidh	vïhtesjidh+V+TV+Inf	0,000000
+vihtesjidh	vïhtesjidh+V+TV+Ind+Prt+Pl2	0,000000
+
+gyhtjegidh	gyhtjegidh+?	inf
+
+lea-	lea-+?	inf
+
+giehtjedidh	gïehtjedh+V+TV+Der/d+V+Inf	0,000000
+giehtjedidh	gïehtjedh+V+TV+Der/d+V+Ind+Prt+Pl2	0,000000
+giehtjedidh	gïehtjedidh+V+TV+Inf	0,000000
+giehtjedidh	gïehtjedidh+V+TV+Ind+Prt+Pl2	0,000000
+
+jeatjadehtedh	jeatjahtehtedh+Err/Orth+V+TV+Inf	0,000000
+
+diejveldidh	dïejveldidh+V+IV+Inf	0,000000
+diejveldidh	dïejveldidh+V+IV+Ind+Prt+Pl2	0,000000
+
+damtedht	damtedht+?	inf
+
+privatiseredh	privatiseeredh+Err/Orth+V+TV+ConNeg	0,000000
+privatiseredh	privatiseeredh+Err/Orth+V+TV+Imprt+Sg2	0,000000
+privatiseredh	privatiseeredh+Err/Orth+V+TV+Ind+Prs+Sg2	0,000000
+privatiseredh	privatiseeredh+Err/Orth+V+TV+Inf	0,000000
+privatiseredh	privatiseeredh+Err/Orth+V+TV+Der/d+V+ConNeg	0,000000
+privatiseredh	privatiseeredh+Err/Orth+V+TV+Der/d+V+Imprt+Sg2	0,000000
+privatiseredh	privatiseeredh+Err/Orth+V+TV+Der/d+V+Ind+Prs+Sg2	0,000000
+
