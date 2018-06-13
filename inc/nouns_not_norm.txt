@@ -195,10 +195,6 @@ faktovre	faktore+v2+Err/Orth+N+Sg+Nom	0,000000
 
 påastekaassa	påastekaassa+?	inf
 
-arealereakta	areaale+N+Err/Orth+Cmp/SgNom+Cmp#reakta+N+Sg+Nom	10,000000
-
-maahtoelutneme	maahtoelutneme+?	inf
-
 siebredahkefaamoe	seabradahke+Err/Orth+Err/Orth+N+Cmp/SgNom+Cmp#faamoe+N+Sg+Nom	10,000000
 siebredahkefaamoe	seabradahke+Err/Orth+N+Cmp/SgNom+Cmp#faamoe+N+Sg+Nom	10,000000
 siebredahkefaamoe	sïebredahke+N+Cmp/SgNom+Cmp#faamoe+N+Sg+Nom	10,000000
@@ -238,12 +234,8 @@ lahkoedimmie	lahkoedimmie+?	inf
 
 giehpidimmie	giehpidimmie+?	inf
 
-bihkedasse	bïhkedasse+N+Sg+Nom	0,000000
-
-ööhpedimmiefeeleme	ööhpedimmiefeeleme+?	inf
-
-sosialeinstitusjovne	sosijaale+Err/Orth+A+Cmp/Attr+Cmp#institusjovne+N+Sg+Nom	10,000000
-sosialeinstitusjovne	sosijaale+Err/Orth+A+Cmp/SgNom+Cmp#institusjovne+N+Sg+Nom	10,000000
+sosiaaleinstitusjovne	sosijaale+Err/Orth+A+Cmp/Attr+Cmp#institusjovne+N+Sg+Nom	10,000000
+sosiaaleinstitusjovne	sosijaale+Err/Orth+A+Cmp/SgNom+Cmp#institusjovne+N+Sg+Nom	10,000000
 
 variaante	varijaante+N+Err/Orth+Sg+Nom	0,000000
 
@@ -255,51 +247,15 @@ skuvlesiebredahke	skuvle+N+Cmp/SgNom+Cmp#sïebredahke+N+Sg+Nom	10,000000
 
 guoktengïelenvierhtie	guoktengïelenvierhtie+?	inf
 
-<<<<<<< .mine
-maadthkuvsje	maadth+N+Cmp/SgNom+Cmp#kurse+Err/Orth+N+Sg+Nom	10,000000  rettet i FST og ordbok
-
-||||||| .r167994
-maadthkuvsje	maadth+N+Cmp/SgNom+Cmp#kurse+Err/Orth+N+Sg+Nom	10,000000
-
-=======
->>>>>>> .r168031
-maadth-ööhpedimmie	maadth-ööhpedimmie+?	inf
-
-
-<<<<<<< .mine
-
-! infrastruktuvre	infrastruktuvre+N+Sg+Nom	0,000000  : er i FST
-
-! nommekonsuleente	nommekonsuleente+?	inf : rettet i FST og ordbok
-
-regionaldepartemeente	regionaldepartemeente+?	inf  rettet i FST og ordbok
-
-||||||| .r167994
-infrastruktuvre	infrastruktuvre+N+Sg+Nom	0,000000
-
-nommekonsuleente	nommekonsuleente+?	inf
-
-regionaldepartemeente	regionaldepartemeente+?	inf
-
-kultuvredepartemeente	kultuvredepartemeente+?	inf
-
-=======
->>>>>>> .r168031
-kultuvredepartemeente	kultuvredepartemeente+?	inf  rettet i FST og ordbok
-
 reeremenkontovre	reeredh+V+TV+Der/NomAct+N+Cmp/SgGen+Cmp#kontovre+N+Sg+Nom	10,000000
 reeremenkontovre	reereme+N+Cmp/SgGen+Cmp#kontovre+N+Sg+Nom	10,000000
 
 skuvlekonferanse	skuvlekonferaanse+N+Err/Orth+Sg+Nom	0,000000
 skuvlekonferanse	skuvle+N+Cmp/SgNom+Cmp#konferaanse+N+Err/Orth+Sg+Nom	10,000000
 
-sjuvnedstijje	sjuvnedstijje+?	inf
-
 healsoekonferanse	healsoe+N+Cmp/SgNom+Cmp#konferaanse+N+Err/Orth+Sg+Nom	10,000000
 
 reaktatjielkeme	reakta+N+Cmp/SgNom+Cmp#tjïelkedh+V+IV+Der/NomAct+N+Sg+Nom	10,000000
-
-ööhpehtimmienupie	ööhpehtimmienupie+?	inf
 
 aahkuve	aahkove+Err/Orth+N+Sg+Nom	0,000000
 
@@ -307,14 +263,6 @@ aajjuve	aajjove+Err/Orth+N+Sg+Nom	0,000000
 
 vuestiebiegke	vuestiebïegke+N+Sg+Nom	0,000000
 vuestiebiegke	vuestie+N+Cmp/SgNom+Cmp#bïegke+N+Sg+Nom	10,000000
-
-rieksege	rïeksege+N+Sg+Nom	0,000000  RETTET i ordbok
-
-ientje	ïentje+N+Sg+Nom	0,000000  RETTET i ordbok
-
-jyøne	jyöne+N+Sg+Nom	0,000000  RETTET i ordbok
-
-dirrege	dïrrege+N+Sg+Nom	0,000000
 
 øørneme	öörnedh+V+TV+PrfPrc	0,000000
 øørneme	öörnedh+V+TV+Der/NomAct+N+Sg+Nom	0,000000
@@ -325,13 +273,11 @@ maanavaarjelimmienbarkoe	maanavaarjelimmie+N+Cmp/SgGen+Cmp#barkoe+N+Sg+Nom	10,00
 maanavaarjelimmienbarkoe	maana+N+Cmp/SgNom+Cmp#vaarjelimmie+N+Cmp/SgGen+Cmp#barkoe+N+Sg+Nom	20,000000
 maanavaarjelimmienbarkoe	maana+N+Cmp/SgNom+Cmp#vaarjelidh+V+TV+Der/NomAct+N+Cmp/SgGen+Cmp#barkoe+N+Sg+Nom	20,000000
 
-biejjejege	biejjejege+?	inf
-
 maanavaarjelimmienfaaleldahke	maanavaarjelimmie+N+Cmp/SgGen+Cmp#faaleldahke+N+Sg+Nom	10,000000
 maanavaarjelimmienfaaleldahke	maana+N+Cmp/SgNom+Cmp#vaarjelimmie+N+Cmp/SgGen+Cmp#faaleldahke+N+Sg+Nom	20,000000
 maanavaarjelimmienfaaleldahke	maana+N+Cmp/SgNom+Cmp#vaarjelidh+V+TV+Der/NomAct+N+Cmp/SgGen+Cmp#faaleldahke+N+Sg+Nom	20,000000
 
-litteratuvrendajve	litteratuvre+N+Cmp/SgGen+Cmp#dajve+N+Sg+Nom	10,000000
+prosjektedajve	prosjeekte+N+Err/Orth+Cmp/SgNom+Cmp#dajve+N+Sg+Nom	10,000000
 
 maanagïertekonferanse	maanagïerte+N+Cmp/SgNom+Cmp#konferaanse+N+Err/Orth+Sg+Nom	10,000000
 maanagïertekonferanse	maana+N+Cmp/SgNom+Cmp#gïerte+N+Cmp/SgNom+Cmp#konferaanse+N+Err/Orth+Sg+Nom	20,000000
@@ -389,8 +335,6 @@ seammavyöerhtegesoejkesje	seammavyöerhtegesoejkesje+?	inf
 
 aamhtesenprovsa	aamhtese+N+Cmp/SgGen+Cmp#provsa+N+Sg+Nom	10,000000
 
-soejkesjenboelhke	soejkesje+N+Cmp/SgGen+Cmp#boelhke+N+Sg+Nom	10,000000
-
 aamhtesendajve	aamhtese+N+Cmp/SgGen+Cmp#dajve+N+Sg+Nom	10,000000
 
 konferansetæjmoe	konferaanse+N+Err/Orth+Cmp/SgNom+Cmp#tæjmoe+N+Sg+Nom	10,000000
@@ -398,81 +342,19 @@ konferansetæjmoe	konferaanse+N+Err/Orth+Cmp/SgNom+Cmp#tæjmoe+N+Sg+Nom	10,00000
 gærjagåetiekonferanse	gærjagåetie+N+Cmp/SgNom+Cmp#konferaanse+N+Err/Orth+Sg+Nom	10,000000
 gærjagåetiekonferanse	gærja+N+Cmp/SgNom+Cmp#gåetie+N+Cmp/SgNom+Cmp#konferaanse+N+Err/Orth+Sg+Nom	20,000000
 
-<<<<<<< .mine
-kuvsjejarnge	kurse+Err/Orth+N+Cmp/SgNom+Cmp#jarnge+N+Sg+Nom	10,000000  rettet i FST og ordbok
-||||||| .r167994
-kuvsjejarnge	kurse+Err/Orth+N+Cmp/SgNom+Cmp#jarnge+N+Sg+Nom	10,000000
-=======
 rïjhkekonferanse	rïjhke+Err/Orth+N+Cmp/SgNom+Cmp#konferaanse+N+Err/Orth+Sg+Nom	10,000000
 rïjhkekonferanse	rïjhke+N+Cmp/SgNom+Cmp#konferaanse+N+Err/Orth+Sg+Nom	10,000000
->>>>>>> .r168031
 
-<<<<<<< .mine
-maanagïertekonsuleente	maanagïertekonsuleente+?	inf  rettet i FST og ordbok
-||||||| .r167994
-maanagïertekonsuleente	maanagïertekonsuleente+?	inf
-=======
 ööhpehtimmiekonferanse	ööhpehtidh+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp#konferaanse+N+Err/Orth+Sg+Nom	10,000000
 ööhpehtimmiekonferanse	ööhpehtimmie+N+Cmp/SgNom+Cmp#konferaanse+N+Err/Orth+Sg+Nom	10,000000
->>>>>>> .r168031
 
-<<<<<<< .mine
-kultuvrekonsuleente	kultuvrekonsuleente+?	inf  rettet i FST og ordbok
-||||||| .r167994
-kultuvrekonsuleente	kultuvrekonsuleente+?	inf
-=======
 maanavaarjelimmienkonferanse	maanavaarjelimmie+N+Cmp/SgGen+Cmp#konferaanse+N+Err/Orth+Sg+Nom	10,000000
 maanavaarjelimmienkonferanse	maana+N+Cmp/SgNom+Cmp#vaarjelimmie+N+Cmp/SgGen+Cmp#konferaanse+N+Err/Orth+Sg+Nom	20,000000
 maanavaarjelimmienkonferanse	maana+N+Cmp/SgNom+Cmp#vaarjelidh+V+TV+Der/NomAct+N+Cmp/SgGen+Cmp#konferaanse+N+Err/Orth+Sg+Nom	20,000000
->>>>>>> .r168031
 
-<<<<<<< .mine
-bïevnesekonsuleente	bïevnesekonsuleente+?	inf   rettet i FST og ordbok
-
-prosjeektekonsuleente	prosjeektekonsuleente+?	inf  rettet i FST og ordbok
-
-studeentehearra	studeentehearra+?	inf  rettet i FST og ordbok
-
-departemeentendaltese	departemeentendaltese+?	inf
-
-aamhtesenprovsa	aamhtese+N+Cmp/SgGen+Cmp#provsa+N+Sg+Nom	10,000000
-
-soejkesjenboelhke	soejkesje+N+Cmp/SgGen+Cmp#boelhke+N+Sg+Nom	10,000000
-
-aamhtesendajve	aamhtese+N+Cmp/SgGen+Cmp#dajve+N+Sg+Nom	10,000000
-
-maanavaarjelimmienkonferaanse	maanavaarjelimmie+N+Cmp/SgGen+Cmp#konferaanse+N+Sg+Nom	10,000000
-maanavaarjelimmienkonferaanse	maana+N+Cmp/SgNom+Cmp#vaarjelimmie+N+Cmp/SgGen+Cmp#konferaanse+N+Sg+Nom	20,000000
-maanavaarjelimmienkonferaanse	maana+N+Cmp/SgNom+Cmp#vaarjelidh+V+TV+Der/NomAct+N+Cmp/SgGen+Cmp#konferaanse+N+Sg+Nom	20,000000
-
-||||||| .r167994
-bïevnesekonsuleente	bïevnesekonsuleente+?	inf
-
-prosjeektekonsuleente	prosjeektekonsuleente+?	inf
-
-studeentehearra	studeentehearra+?	inf
-
-departemeentendaltese	departemeentendaltese+?	inf
-
-aamhtesenprovsa	aamhtese+N+Cmp/SgGen+Cmp#provsa+N+Sg+Nom	10,000000
-
-soejkesjenboelhke	soejkesje+N+Cmp/SgGen+Cmp#boelhke+N+Sg+Nom	10,000000
-
-aamhtesendajve	aamhtese+N+Cmp/SgGen+Cmp#dajve+N+Sg+Nom	10,000000
-
-maanavaarjelimmienkonferaanse	maanavaarjelimmie+N+Cmp/SgGen+Cmp#konferaanse+N+Sg+Nom	10,000000
-maanavaarjelimmienkonferaanse	maana+N+Cmp/SgNom+Cmp#vaarjelimmie+N+Cmp/SgGen+Cmp#konferaanse+N+Sg+Nom	20,000000
-maanavaarjelimmienkonferaanse	maana+N+Cmp/SgNom+Cmp#vaarjelidh+V+TV+Der/NomAct+N+Cmp/SgGen+Cmp#konferaanse+N+Sg+Nom	20,000000
-
-=======
->>>>>>> .r168031
 latjkoenmaahtoe	latjkoe+N+Cmp/SgGen+Cmp#maahtoe+N+Sg+Nom	10,000000
 
 arealeraaja	areaale+N+Err/Orth+Cmp/SgNom+Cmp#raaja+N+Sg+Nom	10,000000
-
-barkoedïenese	barkoedïenese+?	inf    rettet i FST og ordbok
-
-soptsemesvuekie	soptsemesvuekie+?	inf
 
 radioåaejvie	radioåaejvie+?	inf
 
@@ -511,7 +393,10 @@ soejkesjenprogramme	soejkesje+N+Cmp/SgGen+Cmp#programme+N+Sg+Nom	10,000000
 
 gïeleöövtiedimmieprogramme	gïele+N+Cmp/SgNom+Cmp#övtiedidh+Err/Orth+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp#programme+N+Sg+Nom	20,000000
 
-noerijhïejme	noerijhïejme+?	inf
+noerebaeliengåetie	noerebaelie+N+Cmp/SgGen+Cmp#gåetie+N+Sg+Nom	10,000000
+noerebaeliengåetie	noere+N+Cmp/SgNom+Cmp#baelie+N+Cmp/SgGen+Cmp#gåetie+N+Sg+Nom	20,000000
+noerebaeliengåetie	noere+A+Cmp/Attr+Cmp#baelie+N+Cmp/SgGen+Cmp#gåetie+N+Sg+Nom	20,000000
+noerebaeliengåetie	noere+A+Cmp/SgNom+Cmp#baelie+N+Cmp/SgGen+Cmp#gåetie+N+Sg+Nom	20,000000
 
 maanabaeliengåetie	maanabaelie+N+Cmp/SgGen+Cmp#gåetie+N+Sg+Nom	10,000000
 maanabaeliengåetie	maana+N+Cmp/SgNom+Cmp#baelie+N+Cmp/SgGen+Cmp#gåetie+N+Sg+Nom	20,000000
@@ -521,8 +406,6 @@ reerenassenlïhtsege	reerenasse+N+Cmp/SgGen+Cmp#lïhtsege+N+Sg+Nom	10,000000
 
 reeremenregijovne	reeredh+V+TV+Der/NomAct+N+Cmp/SgGen+Cmp#regijovne+N+Sg+Nom	10,000000
 reeremenregijovne	reereme+N+Cmp/SgGen+Cmp#regijovne+N+Sg+Nom	10,000000
-
-seammavyörhtegesorganisasjovne	seammavyörhtegesorganisasjovne+?	inf
 
 arealetsiehkie	areaale+N+Err/Orth+Cmp/SgNom+Cmp#tsiehkie+N+Sg+Nom	10,000000
 
@@ -536,7 +419,7 @@ snæikerekurse	snæikerekurse+?	inf
 
 gånkangåetie	gånka+N+Cmp/SgGen+Cmp#gåetie+N+Sg+Nom	10,000000
 
-noerijgåetie	noerijgåetie+?	inf  
+noerijgåetie	noerijgåetie+?	inf
 
 seammavyörhtegeprosjeekte	seammavyörhtegeprosjeekte+?	inf
 
