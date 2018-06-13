@@ -690,7 +690,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" stem="3syll">dajve</t>
-            <t pos="N" src="fad">areale</t>
+            <t pos="N" src="fad">areaale</t>
             <t pos="N" soggi="oe" stem="2syll">goelpeneståaroe</t>
          </tg>
       </mg>
@@ -68486,7 +68486,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">arealesoejkesje</t>
+        <t pos="N">areaalesoejkesje</t>
       </tg>
     </mg>
   </e>
@@ -70222,7 +70222,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">arealeraaja</t>
+        <t pos="N">areaaleraaja</t>
       </tg>
     </mg>
   </e>
@@ -70642,7 +70642,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">arealevåarome</t>
+        <t pos="N">areaalevåarome</t>
       </tg>
     </mg>
   </e>
@@ -71042,7 +71042,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">arealestrategije</t>
+        <t pos="N">areaalestrategije</t>
       </tg>
     </mg>
   </e>
@@ -71122,7 +71122,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">arealeaamhtese</t>
+        <t pos="N">areaaleaamhtese</t>
       </tg>
     </mg>
   </e>
@@ -71312,7 +71312,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">arealepolitihke</t>
+        <t pos="N">areaalepolitihke</t>
       </tg>
     </mg>
   </e>
@@ -71472,7 +71472,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">gïelekapïhtele</t>
+        <t pos="N">gïelekapihtele</t>
       </tg>
     </mg>
   </e>
@@ -71572,7 +71572,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">arealegyhtjelasse</t>
+        <t pos="N">areaalegyhtjelasse</t>
       </tg>
     </mg>
   </e>
@@ -72013,7 +72013,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">seammavyörhtegsorganisasjovne</t>
+        <t pos="N">seammavyörhtegsorganisasjovne</t>  
       </tg>
     </mg>
   </e>
@@ -72033,7 +72033,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">arealetsiehkie</t>
+        <t pos="N">areaaletsiehkie</t>
       </tg>
     </mg>
   </e>
@@ -73043,7 +73043,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">arealeperspektijve</t>
+        <t pos="N">areaaleperspektijve</t>
       </tg>
     </mg>
   </e>
@@ -74696,7 +74696,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">arealevaarjelimmie</t>
+        <t pos="N">areaalevaarjelimmie</t>
       </tg>
     </mg>
   </e>
@@ -74816,7 +74816,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">arealevierhtie</t>
+        <t pos="N">areaalevierhtie</t>
       </tg>
     </mg>
   </e>
@@ -75766,7 +75766,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">arealedåarjoe</t>
+        <t pos="N">areaaledåarjoe</t>
       </tg>
     </mg>
   </e>
@@ -76016,7 +76016,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">arealevierhtie</t>
+        <t pos="N">areaalevierhtie</t>
       </tg>
     </mg>
   </e>
@@ -81488,7 +81488,7 @@ musikkskole ::: musikkskuvle
 musikkskole ::: musihkenskuvle
 musikkskole ::: musikskuvle
 arealbruker ::: goelpeneståaroeburrie
-arealbruker ::: arealeburrie
+arealbruker ::: areaaleburrie
 forvaltningsarbeid ::: reeremenbarkoe
 lagring ::: laagenreagka
 valgregel ::: veeljemennjoelkedasse
@@ -82115,7 +82115,7 @@ barnehagestyrer ::: maanajgïerteståvroe
 bibliotekressurs ::: gærjagåetievierhtie
 bibliotekressurs ::: gærjagåetiemaelmie
 stamvei ::: maadtergeajnoe
-arealmelding ::: arealesaerniestimmie
+arealmelding ::: areaalesaerniestimmie
 arealmelding ::: goelpeneståaroesaerniestimmie
 utviklingssak ::: evtiedimmienaamhtese
 kontaktmøte ::: gaskesetjåanghkoe
@@ -82180,7 +82180,7 @@ tekstforslag ::: teekstenuvtelasse
 tekstforslag ::: tekstuvtelasse
 kulturkonsulent ::: kultuvrenkonsulente
 tilskuddsområde ::: dåarjoedajve
-arealstørrelse ::: arealeståaroe
+arealstørrelse ::: areaaleståaroe
 havrett ::: mearoenreaktoe
 reindriftslinje ::: båatsoesïeve
 reindriftslinje ::: båatsoeburriesïeve
@@ -82541,7 +82541,7 @@ skolekunnskap ::: skuvlenmaahtoe
 skolekunnskap ::: skuvlemaahtoe
 utmarkspolitikk ::: miehtjiesdajvepolitihke
 utmarkspolitikk ::: miehtjiesdajvenpolitihke
-arealplan ::: arealeplaane
+arealplan ::: areaaleplaane
 pyramide ::: pyjramide
 kommunikasjonsavdeling ::: gaskesadtemengoevtese
 kommunikasjonsavdeling ::: gaskesadtemegoevtese
@@ -82628,7 +82628,7 @@ landsforening ::: laantensiebrie
 fellesliste ::: ruevtielæstoe
 fellesliste ::: bartalæstoe
 minoritetsrett ::: unnebelåhkoereaktoe
-arealenhet ::: arealeektievoete
+areaalenhet ::: areaaleektievoete
 politidirektorat ::: politijedirektovraate
 politidirektorat ::: politidirektoraate
 politidirektorat ::: politijendirektoraate
@@ -82654,7 +82654,7 @@ filmspørsmål ::: jielieguvviegyhtjelasse
 rettsregel ::: reaktoennjoelkedasse
 rettsregel ::: reaktoenjoelkedasse
 rettsregel ::: rïektesnjoelkedasse
-arealinteresse ::: arealeïedtje
+arealinteresse ::: areaaleïedtje
 rettighetsnivå ::: reaktandaltese
 handlingskompetanse ::: darjomenmaahtoe
 handlingskompetanse ::: darjomemaahtoe
@@ -83091,7 +83091,7 @@ kommunikasjonsplan ::: gaskesadtemensoejkesje
 kommunikasjonsplan ::: gaskesadtemenplaane
 kommunikasjonsplan ::: gaskesadtemeplaane
 kommunikasjonsplan ::: gaskesadtemesoejkesje
-arealendring ::: arealejorkestimmie
+areaalendring ::: areaalejorkestimmie
 utviklingsmiljø ::: evtiedimmienbyjrese
 forvaltningsstyre ::: reerenasseståvroe
 reisepolitikk ::: fealadimmienpolitihke
@@ -84609,7 +84609,7 @@ alderstrinn ::: aalterendaltese
 engasjement ::: engasjemente
 banklån ::: baanghkelööneme
 arealbruk ::: dajvepråvhkoe
-arealendring ::: goelpeneståaroejorkestimmie
+areaalendring ::: goelpeneståaroejorkestimmie
 sameområde ::: saemielaante
 filmsenter ::: filmejarnge
 koftesøm ::: gåptoegåarome
