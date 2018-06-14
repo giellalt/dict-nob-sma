@@ -196,7 +196,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="V">vihtesjidh</t>
+            <t pos="V">vïhtesjidh</t>
          </tg>
       </mg>
    </e>
@@ -291,7 +291,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="V">mååhtedidh</t>
+            <t pos="V">nååhtedidh</t>
          </tg>
       </mg>
       <mg>
@@ -17073,7 +17073,7 @@ For the full license text, see the link above.</lic>
             <t pos="V" stem="3syll">gyhtjegidh</t>
             <xg>
                <x>Føttene mine er blitt stive og støle.</x>
-               <xt>Mov juelkieh jis gyöhtjegamme.</xt>
+               <xt>Mov juelkieh jis gyhtjegamme.</xt>
             </xg>
          </tg>
       </mg>
@@ -59121,7 +59121,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="V">giehtjedidh</t>
+        <t pos="V">gïehtjedidh</t>
       </tg>
     </mg>
   </e>
@@ -59151,7 +59151,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="V">diejveldidh</t>
+        <t pos="V">dïejveldidh</t>
       </tg>
     </mg>
   </e>
@@ -59571,7 +59571,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="V">damtedht</t>
+        <t pos="V">damtedh</t>
       </tg>
     </mg>
   </e>
@@ -59701,7 +59701,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="V">privatiseredh</t>
+            <t pos="V">privatiseeredh</t>
          </tg>
       </mg>
    </e>
@@ -59754,7 +59754,7 @@ skjemme ::: aervi
 spekulere ::: jiermestalledh
 prioritere ::: prioriteeredh
 inspirere ::: tsihkijehtedh
-studere ::: giehtjedidh
+studere ::: gïehtjedidh
 revidere ::: revideeredh
 regulere ::: reguleeredh
 evaluere ::: evalueeredh
@@ -61488,7 +61488,7 @@ garantere ::: nænnoestidh
 rustne ::: råastodh
 rustne ::: roestedh
 granske ::: digkiedidh
-granske ::: giehtjedidh
+granske ::: gïehtjedidh
 granske ::: goerehtalledh
 skåne ::: aarmaridh
 skåne ::: healladidh
