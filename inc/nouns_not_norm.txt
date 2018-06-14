@@ -25,7 +25,7 @@ luvlesaemie	luvlesaemie	+?
 
 seammavyörtege	seammavyörtege	+?
 
-kapïhtele	kapihtele+Err/Orth+N+Sg+Nom
+svn 	kapihtele+Err/Orth+N+Sg+Nom
 kapïhtele	kapihtele+N+Sg+Nom
 
 Islaante	Island+Err/Orth+N+Prop+Sem/Plc+Attr
