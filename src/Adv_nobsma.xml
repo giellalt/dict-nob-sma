@@ -329,11 +329,6 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Adv">dasth</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="Adv">hojhte</t>
          </tg>
       </mg>
@@ -342,7 +337,7 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">ieskien</t>
             <xg>
                <x>Fortell at bestemor nettopp har dratt til sykehuset.</x>
-               <xt>Saarnoeh, ihke aahka ieskien skïemtjegåatan vualkeme.</xt>
+               <xt>Saarnoeh, aahka ieskien skïemtjegåatan vualkeme.</xt>
             </xg>
          </tg>
       </mg>
@@ -543,7 +538,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Adv">aakedh</t>
+            <t pos="Adv">ahkedh</t>
          </tg>
       </mg>
    </e>
@@ -1112,10 +1107,10 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Adv">bijjelistie</t>
+            <t pos="Adv">bijjielistie</t>
             <xg>
                <x>Vi vet ikke hva som kan komme ovenfra.</x>
-               <xt>Ibie daejrieh mij maahta bijjelistie båetedh.</xt>
+               <xt>Ibie daejrieh mij maahta bijjielistie båetedh.</xt>
             </xg>
          </tg>
       </mg>
@@ -1126,10 +1121,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Adv">bijjelistie</t>
+            <t pos="Adv">bijjielistie</t>
             <xg>
                <x>Vi vet ikke hva som kan komme ovenfra.</x>
-               <xt>Ibie daejrieh mij maahta bijjelistie båetedh.</xt>
+               <xt>Ibie daejrieh mij maahta bijjielistie båetedh.</xt>
             </xg>
          </tg>
       </mg>
@@ -3800,7 +3795,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Adv">jeanasommes</t>
+            <t pos="Adv">jeenemes</t>
          </tg>
       </mg>
    </e>
@@ -4001,7 +3996,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Adv">ledtjie</t>
+            <t pos="Adv">lidtjie</t>
          </tg>
       </mg>
    </e>
@@ -6576,7 +6571,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Adv">duagka</t>
+            <t pos="Adv">doegkoe</t>
          </tg>
       </mg>
    </e>
