@@ -326,7 +326,6 @@ For the full license text, see the link above.</lic>
             <t pos="N" stem="3syll">provrehïeje</t>
             <t pos="N" stem="3syll">pruvrehïeje</t>
             <t pos="N" stem="3syll">provreshïeje</t>
-            <t pos="N" stem="3syll">provdesheaje</t>
          </tg>
       </mg>
    </e>
@@ -747,7 +746,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" stem="3syll">mååhtedimmie</t>
+            <t pos="N" stem="3syll">nååhtedimmie</t>
          </tg>
       </mg>
       <mg>
@@ -23877,7 +23876,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t margo="e" pos="N" soggi="e" stem="3syll">nietsege</t>
+            <t margo="e" pos="N" soggi="e" stem="3syll">njïetsege</t>
          </tg>
       </mg>
    </e>
@@ -39478,11 +39477,6 @@ For the full license text, see the link above.</lic>
             <t pos="N" soggi="ie" stem="2syll">julevsaemie</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">luvlesaemie</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -41183,7 +41177,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">kapïhtele</t>
+            <t pos="N">kapihtele</t>
          </tg>
       </mg>
    </e>
@@ -56334,7 +56328,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">substantive</t>
+        <t pos="N">substantijve</t>
       </tg>
     </mg>
   </e>
@@ -57194,7 +57188,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">ektiebarkoemååhtedimmie</t>
+        <t pos="N">ektiebarkoenååhtedimmie</t>
       </tg>
     </mg>
   </e>
@@ -63127,7 +63121,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">lahkoedimmie</t>
+        <t pos="N">lahkoehtimmie</t>
       </tg>
     </mg>
   </e>
@@ -83426,7 +83420,7 @@ term ::: teerme
 rammekonvensjon ::: rammekonvensjovne
 litteraturformidling ::: litteratuvredorjehtimmie
 utdanningsnivå ::: ööhpehtimmiedaltese
-avtaletekst ::: mååhtedimmieteekste
+avtaletekst ::: nååhtedimmieteekste
 rytmikk ::: rytmihke
 dynamikk ::: dynamihke
 samarbeidsmøte ::: ektverdiiebarkoetjåanghkoe
@@ -84469,7 +84463,7 @@ fiskeredskap ::: tsavtshvierhtie
 applikasjon ::: applikasjovne
 bokavtale ::: gærjanååhtedimmie
 bokavtale ::: gærjalatjkoe
-bokavtale ::: gærjamååhtedimmie
+bokavtale ::: gærjanååhtedimmie
 bokavtale ::: gærjasjïehtedimmie
 hjørnestein ::: kråanegierkie
 hjørnestein ::: roenegierkie
@@ -84519,7 +84513,7 @@ bruksspråk ::: åtnoegïele
 vurderingsgrunnlag ::: vierhtiedimmievåarome
 avtalekompetanse ::: latjkoemaahtoe
 avtalekompetanse ::: nååhtedimmiedaajroe
-avtalekompetanse ::: mååhtedimmiemaahtoe
+avtalekompetanse ::: nååhtedimmiemaahtoe
 avtalekompetanse ::: sjïehtedimmiedaajroe
 avtalekompetanse ::: sjïehtedimmiemaahtaldahke
 kulturgrunnlag ::: kultuvrevåarome
