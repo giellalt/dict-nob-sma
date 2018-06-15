@@ -151,11 +151,7 @@ aamhteseheefte	aamhteseheefte	+?
 
 seammaviehtegepolitihke	seammaviehtegepolitihke	+?
 
-spaanskengïele	spaanskengïele	+?
 
-fraanskengïele	fraanskengïele	+?
-
-leaksoeviehkije	leaksoeviehkije	+?
 
 faktovre	faktore+v2+Err/Orth+N+Sg+Nom
 
