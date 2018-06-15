@@ -184,7 +184,7 @@ unnemesfaktovre	unnies+A+Superl+Cmp/Attr+Cmp#faktore+v2+Err/Orth+N+Sg+Nom
 unnemesfaktovre	onne+A+Superl+Cmp/SgNom+Cmp#faktore+v2+Err/Orth+N+Sg+Nom
 unnemesfaktovre	onne+A+Superl+Cmp/Attr+Cmp#faktore+v2+Err/Orth+N+Sg+Nom
 
-sosijaleseuerkie	sosijaleseuerkie	+?
+      ???   sosijaleseuerkie	sosijaleseuerkie	+?
 
 sjierepedagogihke	sjïere+A+Cmp/Attr+Cmp#pedagogihke+N+Sg+Nom
 sjierepedagogihke	sjïere+A+Cmp/Attr+Cmp#pedagogihke+Err/Orth+N+Sg+Nom
@@ -214,7 +214,7 @@ skuvlesiebredahke	skuvle+N+Cmp/SgNom+Cmp#seabradahke+Err/Orth+Err/Orth+N+Sg+Nom
 skuvlesiebredahke	skuvle+N+Cmp/SgNom+Cmp#seabradahke+Err/Orth+N+Sg+Nom
 skuvlesiebredahke	skuvle+N+Cmp/SgNom+Cmp#sïebredahke+N+Sg+Nom
 
-guoktengïelenvierhtie	guoktengïelenvierhtie	+?
+RETTET!  guoktengïelenvierhtie	guoktengïelenvierhtie	+?
 
 skuvlekonferanse	skuvle+N+Cmp/SgNom+Cmp#konferaanse+N+Err/Orth+Sg+Nom
 skuvlekonferanse	skuvlekonferaanse+N+Err/Orth+Sg+Nom
