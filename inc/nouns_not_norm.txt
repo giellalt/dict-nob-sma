@@ -186,14 +186,11 @@ sjierepedagogihke	sjïere+A+Cmp/SgNom+Cmp#pedagogihke+Err/Orth+N+Sg+Nom
 universitetenklinihke	universiteete+N+Err/Orth+Cmp/SgGen+Cmp#klinihke+N+Sg+Nom
 universitetenklinihke	universiteete+N+Err/Orth+Cmp/SgGen+Cmp#klinihke+Err/Orth+N+Sg+Nom
 
-gaahtjemeepolitihke	gaahtjemeepolitihke	+?
 
-lahkoedimmie	lahkoedimmie	+?
 
-giehpidimmie	giehpidimmie	+?  !!! Denne får analayse? 
 
-    ??  giehpiedimmie
-    ??  giehpiedimmie	giehpiedidh+V+TV+Der/NomAct+N+Sg+Nom
+
+
 
 sosiaaleinstitusjovne	sosijaale+Err/Orth+A+Cmp/SgNom+Cmp#institusjovne+N+Sg+Nom
 sosiaaleinstitusjovne	sosijaale+Err/Orth+A+Cmp/Attr+Cmp#institusjovne+N+Sg+Nom
@@ -251,13 +248,9 @@ seammavierhtegekonferanse	seammavïerhtege+N+Cmp/SgNom+Cmp#konferaanse+N+Err/Ort
 
 reerenassekonferanse	reerenasse+N+Cmp/SgNom+Cmp#konferaanse+N+Err/Orth+Sg+Nom
 
-jaepiekonferanse	jaepie+N+Cmp/SgNom+Cmp#konferaanse+N+Err/Orth+Sg+Nom
-
-tjaktjekonferanse	tjaktje+N+Cmp/SgNom+Cmp#konferaanse+N+Err/Orth+Sg+Nom
 
 reantadåarjoe	reantadåarjoe	+?
 
-seammavyöerhtegesoejkesje	seammavyöerhtegesoejkesje	+?
 
 konferansetæjmoe	konferaanse+N+Err/Orth+Cmp/SgNom+Cmp#tæjmoe+N+Sg+Nom
 
@@ -276,17 +269,17 @@ maanavaarjelimmienkonferanse	maanavaarjelimmie+N+Cmp/SgGen+Cmp#konferaanse+N+Err
 
 radioåaejvie	radioåaejvie	+?
 
-seammavyörhtegegyhtjelasse	seammavyörhtegegyhtjelasse	+?
+
 
 gïeleöövtiedimmieprogramme	gïele+N+Cmp/SgNom+Cmp#övtiedidh+Err/Orth+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp#programme+N+Sg+Nom
 
 fylhkekonservatovre	fylhke+N+Cmp/SgNom+Cmp#konservaatore+Err/Orth+N+Sg+Nom
 
-identiteetefaktovre	identiteete+N+Cmp/SgNom+Cmp#faktore+v2+Err/Orth+N+Sg+Nom
+	
 
 snæikerekurse	snæikerekurse	+?
 
-noerijgåetie	noerijgåetie	+?
+
 
 seammavyörhtegeprosjeekte	seammavyörhtegeprosjeekte	+?
 
