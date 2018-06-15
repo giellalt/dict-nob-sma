@@ -147,9 +147,6 @@ rïjhkerastege	rïjhkerastege	+?
 
 paehperepåssa	paehperepåssa	+?
 
-aamhteseheefte	aamhteseheefte	+?
-
-seammaviehtegepolitihke	seammaviehtegepolitihke	+?
 
 
 
@@ -163,7 +160,6 @@ siebredahkefaamoe	seabradahke+Err/Orth+N+Cmp/SgNom+Cmp#faamoe+N+Sg+Nom
 
 laakeuvtelassetjatsege	laakeuvtelassetjatsege	+?
 
-seammavyörtegeperspektijve	seammavyörtegeperspektijve	+?
 
 byjjeselaake	byjjeselaake	+?
 
