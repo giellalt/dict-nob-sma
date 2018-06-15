@@ -198,7 +198,10 @@ gaahtjemeepolitihke	gaahtjemeepolitihke	+?
 
 lahkoedimmie	lahkoedimmie	+?
 
-giehpidimmie	giehpidimmie	+?
+giehpidimmie	giehpidimmie	+?  !!! Denne får analayse? 
+
+    ??  giehpiedimmie
+    ??  giehpiedimmie	giehpiedidh+V+TV+Der/NomAct+N+Sg+Nom
 
 sosiaaleinstitusjovne	sosijaale+Err/Orth+A+Cmp/SgNom+Cmp#institusjovne+N+Sg+Nom
 sosiaaleinstitusjovne	sosijaale+Err/Orth+A+Cmp/Attr+Cmp#institusjovne+N+Sg+Nom
