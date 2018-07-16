@@ -67929,7 +67929,6 @@ For the full license text, see the link above.</lic>
         <t pos="N">kuvsjegoevtese</t>
       </tg>
     </mg>
-
   </e>
   <e>
     <lg>
@@ -78235,7 +78234,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">alkoesæjroe</t>
+            <t pos="N">aalkoebielie</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">aalkoesæjroe</t>
          </tg>
       </mg>
    </e>
@@ -78325,7 +78329,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">gasse</t>
+            <t pos="N">gaasse</t>
          </tg>
       </mg>
    </e>
@@ -81560,7 +81564,7 @@ industrisektor ::: industrisuerkie
 industrisektor ::: industrijensuerkie
 samfunnsoppbygging ::: seabradahketseegkeme
 samfunnsoppbygging ::: seabradahkentseegkeme
-radiosending ::: radionsaadtege
+
 planbestemmelse ::: soejkesjenænnoestimmie
 sakstype ::: aamhtesesåarhte
 prosjektnummer ::: prosjektennummere
@@ -81836,7 +81840,7 @@ studiesenter ::: learoenjarnge
 opplysningsspørsmål ::: bïevnesegyhtjelasse
 vannfall ::: tjaetsienvaaloe
 vannfall ::: tjaetsievaaloe
-radiotilbud ::: radionfaaleldahke
+
 likestillingspris ::: seammavyörhtebaalhkese
 miljøsenter ::: byjresenjarnge
 hjemkommune ::: heajmetjïelte
