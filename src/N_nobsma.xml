@@ -78269,10 +78269,30 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">dijne </t>
+            <t pos="N">bïevnese</t>
          </tg>
       </mg>
-   </e>
+   </e>  
+    <e>
+      <lg>
+         <l pos="N">informasjon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">bïevnese</t>
+         </tg>
+      </mg>
+   </e>     
+   <e>
+      <lg>
+         <l pos="N">budskap</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">dïjre</t>
+         </tg>
+      </mg>
+   </e>   
    <e>
       <lg>
          <l pos="N">islam</l>
