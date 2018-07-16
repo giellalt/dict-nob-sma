@@ -316,7 +316,8 @@ guöölemepolitihke	guöölemepolitihke	+?
 sosijaalekonferanse	sosijaale+A+Cmp/SgNom+Cmp#konferaanse+N+Err/Orth+Sg+Nom
 sosijaalekonferanse	sosijaale+A+Cmp/Attr+Cmp#konferaanse+N+Err/Orth+Sg+Nom
 
-pressefaaleldahke	pressefaaleldahke	+?
+pressefaaleldahke	pressefaaleldNouns_not_normusma
+ahke	+?
 
 pressehistovrije	pressehistovrije	+?
 
@@ -348,17 +349,17 @@ internatenlearohke	internaate+N+Err/Orth+Cmp/SgGen+Cmp#learohke+Err/Orth+N+Sg+No
 
 ohtsemeboelke	ohtsemeboelke	+?
 
-påastekassa	påastekassa	+?
+
 
 seammavyörtegedåehkie	seammavyörtegedåehkie	+?
 
-stååkemesgïele	stååkemesgïele	+?
+stååkemesgïele	stååkemesgïele	+?  - stååkegïele - lagt til i noun.
 
-reakadahtemebeetnegh	reakadahtemebeetnegh	+?
 
-pressedåarjoeöörnege	pressedåarjoeöörnege	+?
 
-reakadaehtemesaejkie	reakadaehtemesaejkie	+?
+
+
+
 
 margarine	margarine	+?
 
@@ -368,9 +369,9 @@ guvvieaparate	guvvieaparate	+?
 
 blogge	blogge	+?
 
-video	video	+?
 
-dollare	dollare	+?
+
+
 
 logge	logge	+?
 
@@ -378,34 +379,34 @@ sopsteme	sopsteme	+?
 
 soerths	soerths	+?
 
-muslime	muslijme+Err/Orth+N+Sg+Nom
 
-prinsippe	prinsippe	+?
+
+
 
 giehtelimmie	gïehtelimmie+N+Sg+Nom
 giehtelimmie	gïehtelidh+V+IV+Der/NomAct+N+Sg+Nom
 
-dåapmere	dåapmere	+?
+
 
 albumme	albumme	+?
 
 asvoe	asvoe	+?
 
-frijjevuote	frijjevuote	+?
 
-tjihtjele	tjihtjele	+?
 
-kanale	kanaale+N+Err/Orth+Sg+Nom
 
-alkoesæjroe	alkoesæjroe	+?
 
-lissiedimmie	lissiedimmie	+?
+
+
+
+
+
 
 islame	islame	+?
 
-gasse	gasse	+?
 
-sykkele	sykkele	+?
+
+
 
 gaahtjie	gaahtjie	+?
 
@@ -423,11 +424,10 @@ vïtnedimmessavka	vïtnedimmessavka	+?
 
 mearoelaahpehtsh	mearoelaahpehtsh	+?
 
-histovrikere	historihkere+Err/Orth+N+Sg+Nom
 
-homofïjlije	homofïjlije	+?
 
-keramikere	keramihkere+Err/Orth+N+Sg+Nom
+
+
 
 urresteskorresjh	urresteskorresjh	+?
 
