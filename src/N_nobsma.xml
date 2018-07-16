@@ -76271,7 +76271,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">digkiereaktoedåapmere</t>
+        <t pos="N">digkiereaktadåapmere</t>
       </tg>
     </mg>
   </e>
@@ -78028,7 +78028,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">ålkoelaante</t>
+            <t pos="N">ålkoerïjhke</t>
          </tg>
       </mg>
    </e>
@@ -78059,6 +78059,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">dåapmere</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">doemesjæjja</t>
          </tg>
       </mg>
    </e>
