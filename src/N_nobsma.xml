@@ -80253,17 +80253,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="gg">
-      <lg>
-         <l pos="N">mediaklipp</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">meedija-bietskh</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="gg">
+    <e src="gg">
       <lg>
          <l pos="N">meglingsfrist</l>
       </lg>
