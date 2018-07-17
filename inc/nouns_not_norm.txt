@@ -367,10 +367,6 @@ mïngienomme	mïngienomme	+?
 
 guvvieaparate	guvvieaparate	+?
 
-blogge	blogge	+?
-
-
-
 
 
 logge	logge	+?
@@ -381,35 +377,10 @@ soerths	soerths	+?
 
 
 
-
-
-giehtelimmie	gïehtelimmie+N+Sg+Nom
-giehtelimmie	gïehtelidh+V+IV+Der/NomAct+N+Sg+Nom
-
-
-
-albumme	albumme	+?
-
 asvoe	asvoe	+?
 
 
-
-
-
-
-
-
-
-
-
-islame	islame	+?
-
-
-
-
-
 gaahtjie	gaahtjie	+?
-
 
 
 euro	euro	+?
@@ -426,35 +397,18 @@ mearoelaahpehtsh	mearoelaahpehtsh	+?
 
 
 
-
-
-
 urresteskorresjh	urresteskorresjh	+?
 
 maabpesysteme	maabpesysteme	+?
 
-meedija-bietskh	meedija-bietskh	+?
-
-likte-mierie	likte-mierie	+?
-
 observatorijumme	observatorijumme	+?
 
-pensjovniste	pensjovne+N+Pl+Ela+Err/Orth
-pensjovniste	pensjoniste+Err/Orth+N+Sg+Nom
 
 sjædtoe-dilhkesh	sjædtoe-dilhkesh	+?
 
-dåvveme	dovveme+Err/Orth+N+Sg+Nom
-
-skuvlemestjïehtjele	skuvlemestjïehtjele	+?
 
 staaten-årroedahke	staaten-årroedahke	+?
 
-terroriste	terrore+Err/Orth+N+Err/Orth+Pl+Ela+Err/Orth
-
-trihke	trïhke+N+Sg+Nom
-
-turistehæhtjoe	turistehæhtjoe	+?
 
 gaarsjestadijumme	gaarsjestadijumme	+?
 
