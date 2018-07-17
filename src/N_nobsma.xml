@@ -25737,7 +25737,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" stem="3syll">studiovve</t>
+            <t pos="N" stem="3syll">studijovve</t>
          </tg>
       </mg>
       <mg>
@@ -58937,6 +58937,11 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="sma">
         <t pos="N">healsoefaaleldahke</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="sma">
+        <t pos="N">starnefaaleldahke</t>
       </tg>
     </mg>
   </e>
