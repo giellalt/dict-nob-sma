@@ -2501,17 +2501,26 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Adv">ens ærend</l>
+         <l pos="Adv">med vilje, forsettelig</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <t pos="Adv">eanghkoen</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">eanghkomhte</t>
+            <xg>
+               <x>Han gjorde vel ikke det med vilje?</x>
+               <xt>Idtji sån eanghkomhte dam darjoeh?</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
-         <l pos="Adv">med vilje</l>
+         <l pos="Adv">forsettlig</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -2526,6 +2535,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="Adv">easkah</t>
+            <xg>
+               <x>Dellie easkah bööti.</x>
+               <xt>Först da kom han.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
