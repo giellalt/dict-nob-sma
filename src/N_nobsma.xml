@@ -35550,7 +35550,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" soggi="e" stem="2syll">kildijnesaemiengïele</t>
+            <t pos="N" soggi="e" stem="2syll">kildinsaemiengïele</t>
          </tg>
       </mg>
    </e>
@@ -40115,10 +40115,10 @@ For the full license text, see the link above.</lic>
       </mg>
        <mg>
          <tg xml:lang="sma">
-            <t pos="N">seammavyörtege</t>
+            <t pos="N">vyörtege</t>
             <xg>
                <x>Kvinne og mann er likeverdige.</x>
-               <xt>Nyjsenæjjah ålmah lægan seammavyörtegisnie.</xt>
+               <xt>Nyjsenæjjah, ålmah lægan seammavyörtegisnie.</xt>
             </xg>
          </tg>
       </mg>
