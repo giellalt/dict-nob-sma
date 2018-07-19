@@ -26106,19 +26106,10 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t class="III" pos="V" stem="2syll">veanhtedh</t>
+            <t class="III" pos="V" stem="2syll">vïenhtedh</t>
             <xg>
                <x>Jeg antar det er bra.</x>
                <xt>Vïenhtem hijven dïhte.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="IV" p3p="veanhta" pos="V" stem="2syll" umlaut="full" vow="x">vïenhtedh</t>
-            <xg>
-               <x>Å, jeg mente det ikke slik!</x>
-               <xt>Åh, idtjim nimhtie vïenhth!</xt>
             </xg>
          </tg>
       </mg>
