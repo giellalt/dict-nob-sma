@@ -26106,6 +26106,24 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <t class="I" p3p="åtna" pos="V" stem="2syll" umlaut="full" vow="x">utnedh</t>
+            <xg>
+               <x>Jeg synes at den er så stor. Og jeg som synes at du er så stor og sterk.</x>
+               <xt>Manne åtnam dïhte dan stoerre. Manne jis utnieminie, datne dan stoerre, veaksehke.</xt>
+            </xg>
+         </tg>
+      </mg> 
+      <mg>
+         <tg xml:lang="sma">
+            <t class="I" p3p="åtna" pos="V" stem="2syll" umlaut="full" vow="x">utnedh</t>
+            <xg>
+               <x>og jeg som synes at du er så stor og sterk.</x>
+               <xt>Manne jis utnieminie, datne dan stoerre, veaksehke.</xt>
+            </xg>
+         </tg>
+      </mg> 
+      <mg>
+         <tg xml:lang="sma">
             <t class="III" pos="V" stem="2syll">vïenhtedh</t>
             <xg>
                <x>Jeg antar det er bra.</x>
