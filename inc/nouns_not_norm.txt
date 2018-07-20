@@ -10,8 +10,7 @@ kapïhtele	kapihtele+N+Sg+Nom
 Islaante	Island+Err/Orth+N+Prop+Sem/Plc+Attr
 Islaante	Island+Err/Orth+N+Prop+Sem/Plc+Sg+Nom
 
-Eenglaante	England+Err/Orth+N+Prop+Sem/Plc+Attr
-Eenglaante	England+Err/Orth+N+Prop+Sem/Plc+Sg+Nom
+
 
 Austraalia	Australije+Err/Orth+N+Prop+Sem/Plc+Attr
 Austraalia	Australije+Err/Orth+N+Prop+Sem/Plc+Sg+Nom
@@ -81,19 +80,15 @@ Liksjuo	Liksjuo	+?
 
 Ruosskuo	Ruosskuo	+?
 
-ööhpetimmievuekie	ööhpetimmievuekie	+?
 
-substantive	substantijve+N+Err/Orth+Sg+Nom
-substantive	substantijve+Err/Orth+N+Sg+Nom
 
-tjueniejåanghkoe	tjueniejåanghkoe	+?
 
-kaarhteeprogramme	kaarhteeprogramme	+?
 
-eejehteaske	eejehteaske	+?
 
-ektiebarkoemååhtedimmie	ektiebarkoe+N+Cmp/SgNom+Cmp#nååhtedidh+Err/Orth+V+TV+Der/NomAct+N+Sg+Nom
-ektiebarkoemååhtedimmie	ektie+A+Cmp/Attr+Cmp#barkoe+N+Cmp/SgNom+Cmp#nååhtedidh+Err/Orth+V+TV+Der/NomAct+N+Sg+Nom
+
+
+
+
 
 faaleldahkekonferanse	faaledh+V+TV+Der/ldahke+N+Cmp/SgNom+Cmp#konferaanse+N+Err/Orth+Sg+Nom
 faaleldahkekonferanse	faaleldahke+N+Cmp/SgNom+Cmp#konferaanse+N+Err/Orth+Sg+Nom
@@ -104,7 +99,7 @@ aalkoealmetjenkonferanse	aalkoealmetje+N+Cmp/SgGen+Cmp#konferaanse+N+Err/Orth+Sg
 
 aalkoealmetjepnolitihke	aalkoealmetjepnolitihke	+?
 
-soelmege	soelmege	+?
+NB!!!!!  ---- > soelmege	soelmege	+?  = Denne må sjekkes opp nærmerer!! men jeg retter i  N_nobsma til "såalka"
 
 saemienkonferanse	saemie+N+Cmp/SgGen+Cmp#konferaanse+N+Err/Orth+Sg+Nom
 
