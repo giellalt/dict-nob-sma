@@ -1,29 +1,8 @@
-åenehtse	åenehtse	+?
-
-provdesheaje	provdesheaje	+?
-
-båarkene	båarkene	+?
-
-vihtesjimmie	vïhtesjidh+V+TV+Der/NomAct+N+Sg+Nom
-vihtesjimmie	vïhtesjimmie+N+Sg+Nom
-
-mååhtedimmie	nååhtedidh+Err/Orth+V+TV+Der/NomAct+N+Sg+Nom
-
-nietsege	njïetsege+Err/Orth+N+Sg+Nom
-
-åajvaladtje	åajvaladtje	+?
-
-åajvaladtje	åajvaladtje	+?
 
 akkalasaemiengïele	akkalasaemiengïele	+?
 
 kildijnesaemiengïele	kildijnesaemiengïele	+?
 
-konferanse	konferaanse+N+Err/Orth+Sg+Nom
-
-luvlesaemie	luvlesaemie	+?
-
-seammavyörtege	seammavyörtege	+?
 
 svn 	kapihtele+Err/Orth+N+Sg+Nom
 kapïhtele	kapihtele+N+Sg+Nom
@@ -357,13 +336,13 @@ stååkemesgïele	stååkemesgïele	+?  - stååkegïele - lagt til i noun.
 
 
 
-mïngienomme	mïngienomme	+?
-
-guvvieaparate	guvvieaparate	+?
 
 
 
-sopsteme	sopsteme	+?
+
+
+
+
 
 soerths	soerths	+?
 
