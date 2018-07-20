@@ -131,17 +131,6 @@ byjjeselaake	byjjeselaake	+?
 
 
 
-
-
-konservatovre	konservaatore+Err/Orth+N+Sg+Nom
-
-kultuvrefaktovre	kultuvre+N+Cmp/SgNom+Cmp#faktore+v2+Err/Orth+N+Sg+Nom
-
-unnemesfaktovre	unnies+A+Superl+Cmp/SgNom+Cmp#faktore+v2+Err/Orth+N+Sg+Nom
-unnemesfaktovre	unnies+A+Superl+Cmp/Attr+Cmp#faktore+v2+Err/Orth+N+Sg+Nom
-unnemesfaktovre	onne+A+Superl+Cmp/SgNom+Cmp#faktore+v2+Err/Orth+N+Sg+Nom
-unnemesfaktovre	onne+A+Superl+Cmp/Attr+Cmp#faktore+v2+Err/Orth+N+Sg+Nom
-
       ???   sosijaleseuerkie	sosijaleseuerkie	+?
 
 sjierepedagogihke	sjïere+A+Cmp/Attr+Cmp#pedagogihke+N+Sg+Nom
