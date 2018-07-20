@@ -32476,6 +32476,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+    <e>
+      <lg>
+         <l pos="N">prestegjeld</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N" soggi="e" stem="2syll">prïestetjïelte</t>
+         </tg>
+      </mg>
+   </e>
+   
    <e>
       <lg>
          <l pos="N">tulling</l>
@@ -59625,7 +59636,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">tjïeltenkonferanse</t>
+        <t pos="N">tjïeltekonferanse</t>
       </tg>
     </mg>
   </e>
@@ -61096,7 +61107,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">tjïeltensoejkesje</t>
+        <t pos="N">tjïeltesoejkesje</t>
       </tg>
     </mg>
   </e>

@@ -90,8 +90,6 @@ Ruosskuo	Ruosskuo	+?
 
 
 
-faaleldahkekonferanse	faaledh+V+TV+Der/ldahke+N+Cmp/SgNom+Cmp#konferaanse+N+Err/Orth+Sg+Nom
-faaleldahkekonferanse	faaleldahke+N+Cmp/SgNom+Cmp#konferaanse+N+Err/Orth+Sg+Nom
 
 aalkoealmetjenkonferanse	aalkoe+v1+Err/Orth+N+Cmp/SgNom+Cmp#almetje+N+Cmp/SgGen+Cmp#konferaanse+N+Err/Orth+Sg+Nom
 aalkoealmetjenkonferanse	aalkoe+v1+N+Cmp/SgNom+Cmp#almetje+N+Cmp/SgGen+Cmp#konferaanse+N+Err/Orth+Sg+Nom
@@ -103,7 +101,6 @@ NB!!!!!  ---- > soelmege	soelmege	+?  = Denne må sjekkes opp nærmerer!! men je
 
 saemienkonferanse	saemie+N+Cmp/SgGen+Cmp#konferaanse+N+Err/Orth+Sg+Nom
 
-tjïeltenkonferanse	tjïelte+N+Cmp/SgGen+Cmp#konferaanse+N+Err/Orth+Sg+Nom
 
 gïelekonferanse	gïele+N+Cmp/SgNom+Cmp#konferaanse+N+Err/Orth+Sg+Nom
 gïelekonferanse	gïelekonferaanse+N+Err/Orth+Sg+Nom
