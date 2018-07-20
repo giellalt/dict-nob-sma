@@ -114,11 +114,6 @@ barkeoekonferanse	barkeoekonferanse	+?
 noerikonferanse	noere+N+Cmp/PlGen+Cmp#konferaanse+N+Err/Orth+Sg+Nom
 noerikonferanse	noere+A+Cmp/PlGen+Cmp#konferaanse+N+Err/Orth+Sg+Nom
 
-rïjhkerastege	rïjhkerastege	+?
-
-paehperepåssa	paehperepåssa	+?
-
-
 
 
 faktovre	faktore+v2+Err/Orth+N+Sg+Nom
@@ -134,9 +129,9 @@ laakeuvtelassetjatsege	laakeuvtelassetjatsege	+?
 
 byjjeselaake	byjjeselaake	+?
 
-indikatovre	indikaatore+Err/Orth+N+Sg+Nom
 
-kalkulatovre	kalkulaatore+Err/Orth+N+Sg+Nom
+
+
 
 konservatovre	konservaatore+Err/Orth+N+Sg+Nom
 
