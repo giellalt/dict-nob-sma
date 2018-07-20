@@ -57392,7 +57392,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">aalkoealmetjenkonferanse</t>
+        <t pos="N">aalkoeåålmehkonferanse</t>
       </tg>
     </mg>
   </e>
@@ -57402,20 +57402,31 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">guhkiestjaalegegaahtjeme</t>
+        <t pos="N">guhkiestjaalehgaahtjedimmie</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="N" src="fad">urfolkskompetanse</l>
+      <l pos="N" src="fad">urfolkskunnskap</l>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">aalkoeåålmegedaajroe</t>
-        <t pos="N">aalkoealmetjendaajroe</t>
-        <t pos="N">aalkoeåålmegemaahtoe</t>
-        <t pos="N">aalkoealmetjenmaahtoe</t>
+        <t pos="N">aalkoeåålmehmaahtoe</t>
+        <t pos="N">aalkoealmetjimaahtoe</t>
+      </tg>
+    </mg>
+  </e>
+  
+  
+   <e>
+    <lg>
+      <l pos="N" src="fad">urfolksvitenskap</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sma">
+        <t pos="N">aalkoeåålmehdaajroe</t>
+        <t pos="N">aalkoealmetjidaajroe</t>
       </tg>
     </mg>
   </e>
