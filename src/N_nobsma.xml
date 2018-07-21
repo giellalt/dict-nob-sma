@@ -63426,6 +63426,16 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
+      <l pos="N" src="fad">statsekretær</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sma">
+        <t pos="N">staatetjaelije</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
       <l pos="N" src="fad">sekretær</l>
     </lg>
     <mg>
