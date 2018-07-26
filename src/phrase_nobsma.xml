@@ -29,7 +29,7 @@ For the full license text, see the link above.</lic>
    </lics>
    <e>
       <lg>
-         <l t_type="expl" pos="phrase">egenskapen til barkelåg som trekker godt inn i skinn</l>
+         <l t_type="expl" pos="Phrase">egenskapen til barkelåg som trekker godt inn i skinn</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -44,7 +44,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="phrase" type="Indef">et eller annet</l>
+         <l pos="Phrase" type="Indef">et eller annet</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -76,7 +76,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="phrase" type="Indef">til et eller annet</l>
+         <l pos="Phrase" type="Indef">til et eller annet</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -99,7 +99,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="phrase" type="Indef">i et eller annet</l>
+         <l pos="Phrase" type="Indef">i et eller annet</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -114,7 +114,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="phrase" type="Indef">fra et eller annet</l>
+         <l pos="Phrase" type="Indef">fra et eller annet</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -130,7 +130,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="phrase" type="Indef">med et eller annet</l>
+         <l pos="Phrase" type="Indef">med et eller annet</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -144,7 +144,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="phrase" type="Indef">en eller annen</l>
+         <l pos="Phrase" type="Indef">en eller annen</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -176,7 +176,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="phrase" type="Indef">en eller annens</l>
+         <l pos="Phrase" type="Indef">en eller annens</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -199,7 +199,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="phrase" type="Indef">til en eller annen</l>
+         <l pos="Phrase" type="Indef">til en eller annen</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -222,7 +222,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="phrase" type="Indef">hos en eller annen</l>
+         <l pos="Phrase" type="Indef">hos en eller annen</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -232,7 +232,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="phrase" type="Indef">fra en eller annen</l>
+         <l pos="Phrase" type="Indef">fra en eller annen</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -246,7 +246,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="phrase" type="Indef">med en eller annen</l>
+         <l pos="Phrase" type="Indef">med en eller annen</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -260,7 +260,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l t_type="expl" pos="phrase">uttrykker formodning eller forundring</l>
+         <l t_type="expl" pos="Phrase">uttrykker formodning eller forundring</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -355,7 +355,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l t_type="expl" pos="phrase">uttrykker utålmodighet</l>
+         <l t_type="expl" pos="Phrase">uttrykker utålmodighet</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -369,7 +369,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l t_type="expl" pos="phrase">står til nektingsverbet og innebærer at taleren forventer et positivt svar</l>
+         <l t_type="expl" pos="Phrase">står til nektingsverbet og innebærer at taleren forventer et positivt svar</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -383,7 +383,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l t_type="expl" pos="phrase">uttrykker selvfølge eller visshet</l>
+         <l t_type="expl" pos="Phrase">uttrykker selvfølge eller visshet</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -397,7 +397,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="phrase">seg mellom</l>
+         <l pos="Phrase">seg mellom</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -411,7 +411,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="phrase">så mye</l>
+         <l pos="Phrase">så mye</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -425,7 +425,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l t_type="expl" pos="phrase">simla og kalven grynter når de kaller på hverandre</l>
+         <l t_type="expl" pos="Phrase">simla og kalven grynter når de kaller på hverandre</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
