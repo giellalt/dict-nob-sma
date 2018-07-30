@@ -35,13 +35,13 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="N" stem="3syll">radio-boelhketje</t>
          </tg>
-      </mg>  
+      </mg>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" stem="3syll">radijovveboelhketje</t>
          </tg>
       </mg>
-      
+
    </e>
    <e>
       <lg>
@@ -100,7 +100,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" nr="pl" stem="3syll">bïevsterh</t>
+            <t pos="N" nr="Pl" stem="3syll">bïevsterh</t>
             <xg>
                <x>Hvilket humør er han i?</x>
                <xt>Nej bïevsteri sisnie dïhte?</xt>
@@ -346,7 +346,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="x" stem="3syll">vijrije almetjh</t>
+            <t pos="Xxx" stem="3syll">vijrije almetjh</t>
          </tg>
       </mg>
    </e>
@@ -356,7 +356,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="x" stem="3syll">vijrije almetjh</t>
+            <t pos="Xxx" stem="3syll">vijrije almetjh</t>
          </tg>
       </mg>
    </e>
@@ -412,7 +412,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="x" stem="3syll">dååjrehtsi mietie</t>
+            <t pos="Xxx" stem="3syll">dååjrehtsi mietie</t>
          </tg>
       </mg>
    </e>
@@ -433,7 +433,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="x" stem="3syll">mij mestie båata</t>
+            <t pos="Xxx" stem="3syll">mij mestie båata</t>
          </tg>
       </mg>
    </e>
@@ -16275,7 +16275,7 @@ For the full license text, see the link above.</lic>
             <t pos="N" soggi="ie" stem="2syll">tjåarvohtse</t>
          </tg>
       </mg>
-   </e>  
+   </e>
    <e>
       <lg>
          <l pos="N">grotte</l>
@@ -25735,7 +25735,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">studio</t>
          </tg>
       </mg>
-   </e>  
+   </e>
    <e>
       <lg>
          <l pos="N">hardt føre med lite snø</l>
@@ -32486,7 +32486,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   
+
    <e>
       <lg>
          <l pos="N">tulling</l>
@@ -32506,7 +32506,7 @@ For the full license text, see the link above.</lic>
             <t pos="N" soggi="e" stem="2syll">sjalle</t>
          </tg>
       </mg>
-   </e> 
+   </e>
    <e>
       <lg>
          <l pos="N">nabokommune</l>
@@ -40471,7 +40471,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" type="coll">gööktesh</t>
+            <t pos="N" type="Coll">gööktesh</t>
          </tg>
       </mg>
    </e>
@@ -57428,8 +57428,8 @@ For the full license text, see the link above.</lic>
       </tg>
     </mg>
   </e>
-  
-  
+
+
    <e>
     <lg>
       <l pos="N" src="fad">urfolksvitenskap</l>
@@ -63243,12 +63243,12 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="sma">
         <t pos="N">radiostasjovne</t>
       </tg>
-    </mg>   
+    </mg>
     <mg>
       <tg xml:lang="sma">
         <t pos="N">radijovvestasjovne</t>
       </tg>
-    </mg>   
+    </mg>
   </e>
   <e>
     <lg>
@@ -65916,7 +65916,7 @@ For the full license text, see the link above.</lic>
         <t pos="N">sjuevnjedstïjje</t>
       </tg>
     </mg>
-  </e> 
+  </e>
   <e>
     <lg>
       <l pos="N" src="fad">mørketsrike</l>
@@ -65926,7 +65926,7 @@ For the full license text, see the link above.</lic>
         <t pos="N">sjuevnjedsaajmoe</t>
       </tg>
     </mg>
-  </e> 
+  </e>
   <e>
     <lg>
       <l pos="N" src="fad">samlingspunkt</l>
@@ -66962,7 +66962,7 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="sma">
         <t pos="N">radijovvefaaleldahke</t>
       </tg>
-    </mg> 
+    </mg>
   </e>
   <e>
     <lg>
@@ -67912,7 +67912,7 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="sma">
         <t pos="N">radijovvesaadtege</t>
       </tg>
-    </mg>  
+    </mg>
   </e>
   <e>
     <lg>
@@ -72127,7 +72127,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">seammavyörhtegsorganisasjovne</t>  
+        <t pos="N">seammavyörhtegsorganisasjovne</t>
       </tg>
     </mg>
   </e>
@@ -78311,7 +78311,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">bïevnese</t>
          </tg>
       </mg>
-   </e>  
+   </e>
     <e>
       <lg>
          <l pos="N">informasjon</l>
@@ -78321,7 +78321,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">bïevnese</t>
          </tg>
       </mg>
-   </e>     
+   </e>
    <e>
       <lg>
          <l pos="N">budskap</l>
@@ -78331,7 +78331,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">dïjre</t>
          </tg>
       </mg>
-   </e>   
+   </e>
    <e>
       <lg>
          <l pos="N">islam</l>
@@ -80296,7 +80296,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">byötskese</t>
          </tg>
       </mg>
-   </e> 
+   </e>
    <e src="gg">
       <lg>
          <l pos="N">melodi</l>
