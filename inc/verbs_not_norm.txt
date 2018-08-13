@@ -1,3 +1,6 @@
+
+Disse skal være ok nå: 
+
 vihtesjidh	vïhtesjidh+V+TV+Inf	0,000000
 vihtesjidh	vïhtesjidh+V+TV+Ind+Prt+Pl2	0,000000
 
