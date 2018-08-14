@@ -1,16 +1,21 @@
+vihtesjimmie	vïhtesjidh+V+TV+Der/NomAct+N+Sg+Nom
+vihtesjimmie	vïhtesjimmie+N+Sg+Nom
+
+studio	studio	+?
+
+åajvaladtje	åajvaladtje	+?
+
+åajvaladtje	åajvaladtje	+?
 
 akkalasaemiengïele	akkalasaemiengïele	+?
 
-kildijnesaemiengïele	kildijnesaemiengïele	+?
-
-
-svn 	kapihtele+Err/Orth+N+Sg+Nom
-kapïhtele	kapihtele+N+Sg+Nom
+prosjekte	prosjeekte+N+Err/Orth+Sg+Nom
 
 Islaante	Island+Err/Orth+N+Prop+Sem/Plc+Attr
 Islaante	Island+Err/Orth+N+Prop+Sem/Plc+Sg+Nom
 
-
+Eenglaante	England+Err/Orth+N+Prop+Sem/Plc+Attr
+Eenglaante	England+Err/Orth+N+Prop+Sem/Plc+Sg+Nom
 
 Austraalia	Australije+Err/Orth+N+Prop+Sem/Plc+Attr
 Austraalia	Australije+Err/Orth+N+Prop+Sem/Plc+Sg+Nom
@@ -22,13 +27,7 @@ Indoneesia	Indonesije+Err/Orth+N+Prop+Sem/Plc+Sg+Nom
 Indoneesia	Indonesije+Err/Orth+N+Prop+Sem/Sur+Attr
 Indoneesia	Indonesije+Err/Orth+N+Prop+Sem/Sur+Sg+Nom
 
-Bryssele	Brüssel+Err/Orth+N+Prop+Sem/Plc+Sg+Nom+Err/Orth
-Bryssele	Brüssel+Err/Orth+N+Prop+Sem/Plc+Sg+Nom
-Bryssele	Brüssel+Err/Orth+N+Prop+Sem/Sur+Sg+Nom+Err/Orth
-Bryssele	Brüssel+Err/Orth+N+Prop+Sem/Sur+Sg+Nom
-
-Beerlijne	Berlin+Err/Orth+N+Prop+Sem/Plc+Attr
-Beerlijne	Berlin+Err/Orth+N+Prop+Sem/Plc+Sg+Nom
+Berlijne	Berlijne	+?
 
 Bovdene	Boden+Err/Orth+N+Prop+Sem/Plc+Sg+Nom
 Bovdene	Boden+Err/Orth+N+Prop+Sem/Sur+Sg+Nom
@@ -80,175 +79,146 @@ Liksjuo	Liksjuo	+?
 
 Ruosskuo	Ruosskuo	+?
 
+ööhpetimmievuekie	ööhpetimmievuekie	+?
 
+tjueniejåanghkoe	tjueniejåanghkoe	+?
 
+kaarhteeprogramme	kaarhteeprogramme	+?
 
+eejehteaske	eejehteaske	+?
 
+aalkoealmetjeprosjekte	aalkoe+v1+Err/Orth+N+Cmp/SgNom+Cmp#almetje+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
+aalkoealmetjeprosjekte	aalkoe+v1+N+Cmp/SgNom+Cmp#almetje+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
+aalkoealmetjeprosjekte	aalkoealmetje+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
 
+prosjekteohtseme	prosjeekte+N+Err/Orth+Cmp/SgNom+Cmp#ohtsedh+V+TV+Der/PassS+V+IV+Der/NomAct+N+Sg+Nom
+prosjekteohtseme	prosjeekte+N+Err/Orth+Cmp/SgNom+Cmp#ohtsedh+V+TV+Der/NomAct+N+Sg+Nom
+prosjekteohtseme	prosjeekte+N+Err/Orth+Cmp/SgNom+Cmp#ohtseme+N+Sg+Nom
 
+prosjekteboelhke	prosjeekte+N+Err/Orth+Cmp/SgNom+Cmp#boelhke+N+Sg+Nom
 
-
-
-
-
-aalkoealmetjenkonferanse	aalkoe+v1+Err/Orth+N+Cmp/SgNom+Cmp#almetje+N+Cmp/SgGen+Cmp#konferaanse+N+Err/Orth+Sg+Nom
-aalkoealmetjenkonferanse	aalkoe+v1+N+Cmp/SgNom+Cmp#almetje+N+Cmp/SgGen+Cmp#konferaanse+N+Err/Orth+Sg+Nom
-aalkoealmetjenkonferanse	aalkoealmetje+N+Cmp/SgGen+Cmp#konferaanse+N+Err/Orth+Sg+Nom
-
-aalkoealmetjepnolitihke	aalkoealmetjepnolitihke	+?
-
-NB!!!!!  ---- > soelmege	soelmege	+?  = Denne må sjekkes opp nærmerer!! men jeg retter i  N_nobsma til "såalka"
-
-saemienkonferanse	saemie+N+Cmp/SgGen+Cmp#konferaanse+N+Err/Orth+Sg+Nom
-
-
-gïelekonferanse	gïele+N+Cmp/SgNom+Cmp#konferaanse+N+Err/Orth+Sg+Nom
-gïelekonferanse	gïelekonferaanse+N+Err/Orth+Sg+Nom
-
-maanavaarjelimmiekonferanse	maana+N+Cmp/SgNom+Cmp#vaarjelidh+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp#konferaanse+N+Err/Orth+Sg+Nom
-maanavaarjelimmiekonferanse	maana+N+Cmp/SgNom+Cmp#vaarjelimmie+N+Cmp/SgNom+Cmp#konferaanse+N+Err/Orth+Sg+Nom
-maanavaarjelimmiekonferanse	maanavaarjelimmie+N+Cmp/SgNom+Cmp#konferaanse+N+Err/Orth+Sg+Nom
+prosjektedåehkie	prosjeekte+N+Err/Orth+Cmp/SgNom+Cmp#dåehkie+N+Sg+Nom
 
 barkeoekonferanse	barkeoekonferanse	+?
 
-noerikonferanse	noere+N+Cmp/PlGen+Cmp#konferaanse+N+Err/Orth+Sg+Nom
-noerikonferanse	noere+A+Cmp/PlGen+Cmp#konferaanse+N+Err/Orth+Sg+Nom
+paehperepåssa	paehperepåssa	+?
 
+prosjektedåarjoe	prosjeekte+N+Err/Orth+Cmp/SgNom+Cmp#dåarjoe+N+Sg+Nom
 
+spanskegïele	spaanske+Err/Orth+A+Cmp/Attr+Cmp#gïele+N+Sg+Nom
 
-faktovre	faktore+v2+Err/Orth+N+Sg+Nom
+franskengïele	franskengïele	+?
+
+prosjekteåejvie	prosjeekte+N+Err/Orth+Cmp/SgNom+Cmp#åejvie+N+Sg+Nom
 
 påastekaassa	påastekaassa	+?
 
-siebredahkefaamoe	sïebredahke+N+Cmp/SgNom+Cmp#faamoe+N+Sg+Nom
-siebredahkefaamoe	seabradahke+Err/Orth+Err/Orth+N+Cmp/SgNom+Cmp#faamoe+N+Sg+Nom
-siebredahkefaamoe	seabradahke+Err/Orth+N+Cmp/SgNom+Cmp#faamoe+N+Sg+Nom
+learoevierhtieprosjekte	learoe+N+Cmp/SgNom+Cmp#vierhtie+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
+learoevierhtieprosjekte	learoevierhtie+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
 
-laakeuvtelassetjatsege	laakeuvtelassetjatsege	+?
+dajvenommeprosjekte	dajve+N+Cmp/SgNom+Cmp#nomme+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
+dajvenommeprosjekte	dajvenomme+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
 
+ektiebarkoeprosjekte	ektiebarkoe+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
+ektiebarkoeprosjekte	ektie+A+Cmp/Attr+Cmp#barkoe+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
+ektiebarkoeprosjekte	ektiebarkoeprosjeekte+N+Err/Orth+Sg+Nom
+
+evtiedimmieprosjekte	evtiedimmie+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
+evtiedimmieprosjekte	evtiedidh+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
 
 byjjeselaake	byjjeselaake	+?
 
+kultuvrefaaktore	kultuvre+N+Cmp/SgNom+Cmp#faktore+Err/Orth+N+Sg+Nom
 
+unnemesfaaktore	unnies+A+Superl+Cmp/SgNom+Cmp#faktore+Err/Orth+N+Sg+Nom
+unnemesfaaktore	unnies+A+Superl+Cmp/Attr+Cmp#faktore+Err/Orth+N+Sg+Nom
+unnemesfaaktore	onne+A+Superl+Cmp/SgNom+Cmp#faktore+Err/Orth+N+Sg+Nom
+unnemesfaaktore	onne+A+Superl+Cmp/Attr+Cmp#faktore+Err/Orth+N+Sg+Nom
 
-      ???   sosijaleseuerkie	sosijaleseuerkie	+?
+sosijaaleseuerkie	sosijaaleseuerkie	+?
 
-sjierepedagogihke	sjïere+A+Cmp/Attr+Cmp#pedagogihke+N+Sg+Nom
-sjierepedagogihke	sjïere+A+Cmp/Attr+Cmp#pedagogihke+Err/Orth+N+Sg+Nom
-sjierepedagogihke	sjïere+A+Cmp/SgNom+Cmp#pedagogihke+N+Sg+Nom
-sjierepedagogihke	sjïere+A+Cmp/SgNom+Cmp#pedagogihke+Err/Orth+N+Sg+Nom
+åejvieprosjekte	åejvie+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
+åejvieprosjekte	åejvies+A+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
 
-universitetenklinihke	universiteete+N+Err/Orth+Cmp/SgGen+Cmp#klinihke+N+Sg+Nom
-universitetenklinihke	universiteete+N+Err/Orth+Cmp/SgGen+Cmp#klinihke+Err/Orth+N+Sg+Nom
+guektiengïelehvierhtie	gööktengïeleh+Err/Orth+A+Cmp/Attr+Cmp#vierhtie+N+Sg+Nom
 
+åvteprosjekte	åvte+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
+åvteprosjekte	åvteprosjeekte+N+Err/Orth+Sg+Nom
 
+prosjektevierhtie	prosjeekte+N+Err/Orth+Cmp/SgNom+Cmp#vierhtie+N+Sg+Nom
 
-
-
-
-
-sosiaaleinstitusjovne	sosijaale+Err/Orth+A+Cmp/SgNom+Cmp#institusjovne+N+Sg+Nom
-sosiaaleinstitusjovne	sosijaale+Err/Orth+A+Cmp/Attr+Cmp#institusjovne+N+Sg+Nom
-
-variaante	varijaante+N+Err/Orth+Sg+Nom
-
-reaktahövtiedimmie	reaktahövtiedimmie	+?
-
-skuvlesiebredahke	skuvle+N+Cmp/SgNom+Cmp#seabradahke+Err/Orth+Err/Orth+N+Sg+Nom
-skuvlesiebredahke	skuvle+N+Cmp/SgNom+Cmp#seabradahke+Err/Orth+N+Sg+Nom
-skuvlesiebredahke	skuvle+N+Cmp/SgNom+Cmp#sïebredahke+N+Sg+Nom
-
-RETTET!  guoktengïelenvierhtie	guoktengïelenvierhtie	+?
-
-skuvlekonferanse	skuvle+N+Cmp/SgNom+Cmp#konferaanse+N+Err/Orth+Sg+Nom
-skuvlekonferanse	skuvlekonferaanse+N+Err/Orth+Sg+Nom
-
-healsoekonferanse	healsoe+N+Cmp/SgNom+Cmp#konferaanse+N+Err/Orth+Sg+Nom
+kultuvreprosjekte	kultuvre+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
 
 reaktatjielkeme	reakta+N+Cmp/SgNom+Cmp#tjïelkedh+V+IV+Der/NomAct+N+Sg+Nom
+
+ööhpehtimmieprosjekte	ööhpehtidh+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
+ööhpehtimmieprosjekte	ööhpehtimmie+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
+
+våarhkoeprosjekte	våarhkoe+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
 
 aahkuve	aahkove+Err/Orth+N+Sg+Nom
 
 aajjuve	aajjove+Err/Orth+N+Sg+Nom
 
-vuestiebiegke	vuestie+N+Cmp/SgNom+Cmp#bïegke+N+Sg+Nom
-vuestiebiegke	vuestiebïegke+N+Sg+Nom
+prosjekteektiebarkoe	prosjeekte+N+Err/Orth+Cmp/SgNom+Cmp#ektiebarkoe+N+Sg+Nom
 
-øørneme	öörnedh+V+TV+Der/NomAct+N+Sg+Nom
-øørneme	öörnedh+V+TV+PrfPrc
+prosjektebarkoe	prosjeekte+N+Err/Orth+Cmp/SgNom+Cmp#barkoe+N+Sg+Nom
 
 prosjektedajve	prosjeekte+N+Err/Orth+Cmp/SgNom+Cmp#dajve+N+Sg+Nom
 
-maanagïertekonferanse	maana+N+Cmp/SgNom+Cmp#gïerte+N+Cmp/SgNom+Cmp#konferaanse+N+Err/Orth+Sg+Nom
-maanagïertekonferanse	maanagïerte+N+Cmp/SgNom+Cmp#konferaanse+N+Err/Orth+Sg+Nom
-
-skuvlekonferanse	skuvle+N+Cmp/SgNom+Cmp#konferaanse+N+Err/Orth+Sg+Nom
-skuvlekonferanse	skuvlekonferaanse+N+Err/Orth+Sg+Nom
-
-kultuvremojhtesekonferanse	kultuvre+N+Cmp/SgNom+Cmp#mojhtese+N+Cmp/SgNom+Cmp#konferaanse+N+Err/Orth+Sg+Nom
-kultuvremojhtesekonferanse	kultuvremojhtese+N+Cmp/SgNom+Cmp#konferaanse+N+Err/Orth+Sg+Nom
-
-politijenkonferanse	politije+N+Cmp/SgGen+Cmp#konferaanse+N+Err/Orth+Sg+Nom
-politijenkonferanse	politije+N+Err/Orth+Cmp/SgGen+Cmp#konferaanse+N+Err/Orth+Sg+Nom
-
-kultuvrekonferanse	kultuvre+N+Cmp/SgNom+Cmp#konferaanse+N+Err/Orth+Sg+Nom
-
-ektiebarkoekonferanse	ektiebarkoe+N+Cmp/SgNom+Cmp#konferaanse+N+Err/Orth+Sg+Nom
-ektiebarkoekonferanse	ektie+A+Cmp/Attr+Cmp#barkoe+N+Cmp/SgNom+Cmp#konferaanse+N+Err/Orth+Sg+Nom
-
-seammavierhtegekonferanse	seamma+N+Cmp/SgNom+Cmp#vierhtege+N+Cmp/SgNom+Cmp#konferaanse+N+Err/Orth+Sg+Nom
-seammavierhtegekonferanse	seamma+A+Cmp/Attr+Cmp#vierhtege+N+Cmp/SgNom+Cmp#konferaanse+N+Err/Orth+Sg+Nom
-seammavierhtegekonferanse	seammavïerhtege+Err/Orth+N+Cmp/SgNom+Cmp#konferaanse+N+Err/Orth+Sg+Nom
-seammavierhtegekonferanse	seammavïerhtege+N+Cmp/SgNom+Cmp#konferaanse+N+Err/Orth+Sg+Nom
-
-reerenassekonferanse	reerenasse+N+Cmp/SgNom+Cmp#konferaanse+N+Err/Orth+Sg+Nom
-
-
 reantadåarjoe	reantadåarjoe	+?
 
+prosjekteuvtelasse	prosjeekte+N+Err/Orth+Cmp/SgNom+Cmp#uvtelasse+N+Sg+Nom
 
-konferansetæjmoe	konferaanse+N+Err/Orth+Cmp/SgNom+Cmp#tæjmoe+N+Sg+Nom
+prosjekteevtiedimmie	prosjeekte+N+Err/Orth+Cmp/SgNom+Cmp#evtiedidh+V+TV+Der/NomAct+N+Sg+Nom
+prosjekteevtiedimmie	prosjeekte+N+Err/Orth+Cmp/SgNom+Cmp#evtiedimmie+N+Sg+Nom
 
-gærjagåetiekonferanse	gærja+N+Cmp/SgNom+Cmp#gåetie+N+Cmp/SgNom+Cmp#konferaanse+N+Err/Orth+Sg+Nom
-gærjagåetiekonferanse	gærjagåetie+N+Cmp/SgNom+Cmp#konferaanse+N+Err/Orth+Sg+Nom
+prosjekteövtiedimmie	prosjeekte+N+Err/Orth+Cmp/SgNom+Cmp#övtiedidh+V+TV+Der/NomAct+N+Sg+Nom
+prosjekteövtiedimmie	prosjeekte+N+Err/Orth+Cmp/SgNom+Cmp#övtiedimmie+N+Sg+Nom
 
-rïjhkekonferanse	rïjhke+Err/Orth+N+Cmp/SgNom+Cmp#konferaanse+N+Err/Orth+Sg+Nom
-rïjhkekonferanse	rïjhke+N+Cmp/SgNom+Cmp#konferaanse+N+Err/Orth+Sg+Nom
+prosjektesoejkesje	prosjeekte+N+Err/Orth+Cmp/SgNom+Cmp#soejkesje+N+Sg+Nom
 
-ööhpehtimmiekonferanse	ööhpehtidh+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp#konferaanse+N+Err/Orth+Sg+Nom
-ööhpehtimmiekonferanse	ööhpehtimmie+N+Cmp/SgNom+Cmp#konferaanse+N+Err/Orth+Sg+Nom
+prosjektenomme	prosjeekte+N+Err/Orth+Cmp/SgNom+Cmp#nomme+N+Sg+Nom
 
-maanavaarjelimmienkonferanse	maana+N+Cmp/SgNom+Cmp#vaarjelidh+V+TV+Der/NomAct+N+Cmp/SgGen+Cmp#konferaanse+N+Err/Orth+Sg+Nom
-maanavaarjelimmienkonferanse	maana+N+Cmp/SgNom+Cmp#vaarjelimmie+N+Cmp/SgGen+Cmp#konferaanse+N+Err/Orth+Sg+Nom
-maanavaarjelimmienkonferanse	maanavaarjelimmie+N+Cmp/SgGen+Cmp#konferaanse+N+Err/Orth+Sg+Nom
+prosjekteohtsije	prosjeekte+N+Err/Orth+Cmp/SgNom+Cmp#ohtsedh+V+TV+Der/NomAg+N+Sg+Nom
+prosjekteohtsije	prosjeekte+N+Err/Orth+Cmp/SgNom+Cmp#ohtsedh+V+TV+PrsPrc
+prosjekteohtsije	prosjeekte+N+Err/Orth+Cmp/SgNom+Cmp#ohtsije+N+Sg+Nom
 
-radioåaejvie	radioåaejvie	+?
+prosjektenummere	prosjeekte+N+Err/Orth+Cmp/SgNom+Cmp#nummere+N+Sg+Nom
 
+prosjektekonsulente	prosjeekte+N+Err/Orth+Cmp/SgNom+Cmp#konsulente+N+Sg+Nom
 
+gïeleprosjekteohtseme	gïele+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Cmp/SgNom+Cmp#ohtsedh+V+TV+Der/PassS+V+IV+Der/NomAct+N+Sg+Nom
+gïeleprosjekteohtseme	gïele+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Cmp/SgNom+Cmp#ohtsedh+V+TV+Der/NomAct+N+Sg+Nom
+gïeleprosjekteohtseme	gïele+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Cmp/SgNom+Cmp#ohtseme+N+Sg+Nom
+
+prosjektetjïelte	prosjeekte+N+Err/Orth+Cmp/SgNom+Cmp#tjïelte+N+Sg+Nom
 
 gïeleöövtiedimmieprogramme	gïele+N+Cmp/SgNom+Cmp#övtiedidh+Err/Orth+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp#programme+N+Sg+Nom
 
-fylhkekonservatovre	fylhke+N+Cmp/SgNom+Cmp#konservaatore+Err/Orth+N+Sg+Nom
+prosjektedïedte	prosjeekte+N+Err/Orth+Cmp/SgNom+Cmp#dïedte+N+Sg+Nom
 
-	
+fylhkekonservaatove	fylhkekonservaatove	+?
+
+identiteetefaaktore	identiteete+N+Cmp/SgNom+Cmp#faktore+Err/Orth+N+Sg+Nom
 
 snæikerekurse	snæikerekurse	+?
 
+faageevtiedimmieprosjekte	faage+N+Cmp/SgNom+Cmp#evtiedidh+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
+faageevtiedimmieprosjekte	faage+N+Cmp/SgNom+Cmp#evtiedimmie+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
 
+gïeleevtiedimmieprosjekte	gïeleevtiedimmie+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
+gïeleevtiedimmieprosjekte	gïele+N+Cmp/SgNom+Cmp#evtiedidh+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
+gïeleevtiedimmieprosjekte	gïele+N+Cmp/SgNom+Cmp#evtiedimmie+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
 
-seammavyörhtegeprosjeekte	seammavyörhtegeprosjeekte	+?
+mïrrestallemeprosjekte	mïrrestalleme+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
+mïrrestallemeprosjekte	mïrrestalledh+V+IV+Der/NomAct+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
 
-seammavyörhtegekonsulente	seammavyörhtegekonsulente	+?
+såjhtoeprosjekte	såjhtoe+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
 
-seammavyörhtegedepartemente	seammavyörhtegedepartemente	+?
-
-seammavyörhtegelaake	seammavyörhtegelaake	+?
+bïevneseprosjekte	bïevnese+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
 
 koordinatovre	koordinaatore+Err/Orth+N+Sg+Nom
-
-milliovne	millijovne+N+Err/Orth+Sg+Nom
-
-kultvreaerpievuekie	kultvreaerpievuekie	+?
 
 siebredahkeaamhtese	sïebredahke+N+Cmp/SgNom+Cmp#aamhte+N+Sg+Ill
 siebredahkeaamhtese	sïebredahke+N+Cmp/SgNom+Cmp#aamhtese+N+Sg+Nom
@@ -261,22 +231,13 @@ sjuevnedstijje	sjuevnjeds+Err/Orth+A+Cmp/Attr+Cmp#tïjje+N+Sg+Nom
 
 guöölemelatjkoe	guöölemelatjkoe	+?
 
-healsoekonferanse	healsoe+N+Cmp/SgNom+Cmp#konferaanse+N+Err/Orth+Sg+Nom
-
-laanteburriekonferanse	laante+N+Cmp/SgNom+Cmp#burrie+v1+N+Cmp/SgNom+Cmp#konferaanse+N+Err/Orth+Sg+Nom
-laanteburriekonferanse	laanteburrie+v1+N+Cmp/SgNom+Cmp#konferaanse+N+Err/Orth+Sg+Nom
-
 guöölemepolitihke	guöölemepolitihke	+?
 
-sosijaalekonferanse	sosijaale+A+Cmp/SgNom+Cmp#konferaanse+N+Err/Orth+Sg+Nom
-sosijaalekonferanse	sosijaale+A+Cmp/Attr+Cmp#konferaanse+N+Err/Orth+Sg+Nom
+prosjektevierhtie	prosjeekte+N+Err/Orth+Cmp/SgNom+Cmp#vierhtie+N+Sg+Nom
 
-pressefaaleldahke	pressefaaleldNouns_not_normusma
-ahke	+?
+pressefaalenasse	pressefaalenasse	+?
 
 pressehistovrije	pressehistovrije	+?
-
-pressekonferanse	pressekonferaanse+N+Err/Orth+Sg+Nom
 
 pressedåarjoe	pressedåarjoe	+?
 
@@ -286,13 +247,12 @@ pressegoevtese	pressegoevtese	+?
 
 pressepolitihke	pressepolitihke	+?
 
-noerijprogramme	noerijprogramme	+?
-
 pressetelefovne	pressetelefovne	+?
 
-digkiereaktoedåapmere	digkiereaktoedåapmere	+?
-
 pressejarnge	pressejarnge	+?
+
+sosijaaleprosjekte	sosijaale+A+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
+sosijaaleprosjekte	sosijaale+A+Cmp/Attr+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
 
 healsoekapïhtele	healsoe+N+Cmp/SgNom+Cmp#kapihtele+Err/Orth+N+Sg+Nom
 healsoekapïhtele	healsoe+N+Cmp/SgNom+Cmp#kapihtele+N+Sg+Nom
@@ -302,37 +262,19 @@ lïhkebovre	lïhkebovre	+?
 internatenlearohke	internaate+N+Err/Orth+Cmp/SgGen+Cmp#learohke+N+Sg+Nom
 internatenlearohke	internaate+N+Err/Orth+Cmp/SgGen+Cmp#learohke+Err/Orth+N+Sg+Nom
 
-ohtsemeboelke	ohtsemeboelke	+?
+reakadaehtemesaejkie	reakadaehtemesaejkie	+?
 
+dållare	dållare	+?
 
-
-seammavyörtegedåehkie	seammavyörtegedåehkie	+?
-
-stååkemesgïele	stååkemesgïele	+?  - stååkegïele - lagt til i noun.
-
-
-
-
-
-
-
-
-
-
-
-soerths	soerths	+?
-
-
+såarths	såarths	+?
 
 asvoe	asvoe	+?
 
-
 gaahtjie	gaahtjie	+?
 
+symbovle	symbovle	+?
 
 euro	euro	+?
-
-vuajastahkh	vuajastahkh	+?
 
 æpla	æpla	+?
 
@@ -342,20 +284,15 @@ vïtnedimmessavka	vïtnedimmessavka	+?
 
 mearoelaahpehtsh	mearoelaahpehtsh	+?
 
-
-
-urresteskorresjh	urresteskorresjh	+?
-
-maabpesysteme	maabpesysteme	+?
+mappesysteeme	mappesysteeme	+?
 
 observatorijumme	observatorijumme	+?
 
-
 sjædtoe-dilhkesh	sjædtoe-dilhkesh	+?
-
 
 staaten-årroedahke	staaten-årroedahke	+?
 
+turistehæhtjoe	turistehæhtjoe	+?
 
 gaarsjestadijumme	gaarsjestadijumme	+?
 

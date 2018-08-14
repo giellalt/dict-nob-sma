@@ -62186,7 +62186,27 @@ For the full license text, see the link above.</lic>
         <t pos="N">evtiedimmieprosjekte</t>
       </tg>
     </mg>
-  </e>
+  </e>  
+  <e>
+    <lg>
+      <l pos="N" src="fad">pilotprosjekt</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sma">
+        <t pos="N">pilovteprosjekte</t>
+      </tg>
+    </mg>
+  </e>    
+  <e>
+    <lg>
+      <l pos="N" src="fad">kulturdokumentasjonsprosjekt</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sma">
+        <t pos="N">kultuvredokumentasjovneprosjekte</t>
+      </tg>
+    </mg>
+  </e>  
   <e>
     <lg>
       <l pos="N" src="fad">arbeidsfelt</l>
