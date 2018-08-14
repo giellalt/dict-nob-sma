@@ -62167,6 +62167,16 @@ For the full license text, see the link above.</lic>
       </tg>
     </mg>
   </e>
+   <e>
+    <lg>
+      <l pos="N" src="fad">stedsnavnprosjekt</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sma">
+        <t pos="N">sijjienommeprosjekte</t>
+      </tg>
+    </mg>
+  </e> 
   <e>
     <lg>
       <l pos="N" src="fad">samarbeidsprosjekt</l>
@@ -62914,7 +62924,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">kultuvrefaaktore</t>
+        <t pos="N">kultuvrefaktore</t>
       </tg>
     </mg>
   </e>

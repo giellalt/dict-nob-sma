@@ -119,12 +119,6 @@ learoevierhtieprosjekte	learoevierhtie+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+
 dajvenommeprosjekte	dajve+N+Cmp/SgNom+Cmp#nomme+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
 dajvenommeprosjekte	dajvenomme+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
 
-ektiebarkoeprosjekte	ektiebarkoe+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
-ektiebarkoeprosjekte	ektie+A+Cmp/Attr+Cmp#barkoe+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
-ektiebarkoeprosjekte	ektiebarkoeprosjeekte+N+Err/Orth+Sg+Nom
-
-evtiedimmieprosjekte	evtiedimmie+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
-evtiedimmieprosjekte	evtiedidh+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
 
 byjjeselaake	byjjeselaake	+?
 
