@@ -148,13 +148,6 @@ reaktatjielkeme	reakta+N+Cmp/SgNom+Cmp#tjïelkedh+V+IV+Der/NomAct+N+Sg+Nom
 ööhpehtimmieprosjekte	ööhpehtidh+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
 ööhpehtimmieprosjekte	ööhpehtimmie+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
 
-våarhkoeprosjekte	våarhkoe+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
-
-aahkuve	aahkove+Err/Orth+N+Sg+Nom
-
-aajjuve	aajjove+Err/Orth+N+Sg+Nom
-
-prosjekteektiebarkoe	prosjeekte+N+Err/Orth+Cmp/SgNom+Cmp#ektiebarkoe+N+Sg+Nom
 
 prosjektebarkoe	prosjeekte+N+Err/Orth+Cmp/SgNom+Cmp#barkoe+N+Sg+Nom
 

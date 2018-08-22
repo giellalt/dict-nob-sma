@@ -63737,6 +63737,36 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
+      <l pos="N" src="fad">pilotprosjekt</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sma">
+        <t pos="N">pilovteprosjekte</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">forvaringsprosjekt</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sma">
+        <t pos="N">våarhkoeprosjekte</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">lagerprosjekt</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sma">
+        <t pos="N">våarhkoeprosjekte</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
       <l pos="N" src="fad">utgangspunkt</l>
     </lg>
     <mg>
