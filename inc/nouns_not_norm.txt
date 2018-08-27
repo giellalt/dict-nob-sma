@@ -135,10 +135,6 @@ sosijaaleseuerkie	sosijaaleseuerkie	+?
 åejvieprosjekte	åejvies+A+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
 
 guektiengïelehvierhtie	gööktengïeleh+Err/Orth+A+Cmp/Attr+Cmp#vierhtie+N+Sg+Nom
-
-åvteprosjekte	åvte+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
-åvteprosjekte	åvteprosjeekte+N+Err/Orth+Sg+Nom
-
 prosjektevierhtie	prosjeekte+N+Err/Orth+Cmp/SgNom+Cmp#vierhtie+N+Sg+Nom
 
 kultuvreprosjekte	kultuvre+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
@@ -149,16 +145,9 @@ reaktatjielkeme	reakta+N+Cmp/SgNom+Cmp#tjïelkedh+V+IV+Der/NomAct+N+Sg+Nom
 ööhpehtimmieprosjekte	ööhpehtimmie+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
 
 
-
-gïeleöövtiedimmieprogramme	gïele+N+Cmp/SgNom+Cmp#övtiedidh+Err/Orth+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp#programme+N+Sg+Nom
-
-prosjektedïedte	prosjeekte+N+Err/Orth+Cmp/SgNom+Cmp#dïedte+N+Sg+Nom
-
 fylhkekonservaatove	fylhkekonservaatove	+?
 
-identiteetefaaktore	identiteete+N+Cmp/SgNom+Cmp#faktore+Err/Orth+N+Sg+Nom
 
-snæikerekurse	snæikerekurse	+?
 
 faageevtiedimmieprosjekte	faage+N+Cmp/SgNom+Cmp#evtiedidh+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
 faageevtiedimmieprosjekte	faage+N+Cmp/SgNom+Cmp#evtiedimmie+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
