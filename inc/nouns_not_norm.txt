@@ -147,15 +147,6 @@ reaktatjielkeme	reakta+N+Cmp/SgNom+Cmp#tjïelkedh+V+IV+Der/NomAct+N+Sg+Nom
 
 fylhkekonservaatove	fylhkekonservaatove	+?
 
-
-
-faageevtiedimmieprosjekte	faage+N+Cmp/SgNom+Cmp#evtiedidh+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
-faageevtiedimmieprosjekte	faage+N+Cmp/SgNom+Cmp#evtiedimmie+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
-
-gïeleevtiedimmieprosjekte	gïeleevtiedimmie+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
-gïeleevtiedimmieprosjekte	gïele+N+Cmp/SgNom+Cmp#evtiedidh+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
-gïeleevtiedimmieprosjekte	gïele+N+Cmp/SgNom+Cmp#evtiedimmie+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
-
 mïrrestallemeprosjekte	mïrrestalleme+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
 mïrrestallemeprosjekte	mïrrestalledh+V+IV+Der/NomAct+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
 
