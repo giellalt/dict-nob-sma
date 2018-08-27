@@ -149,14 +149,6 @@ reaktatjielkeme	reakta+N+Cmp/SgNom+Cmp#tjïelkedh+V+IV+Der/NomAct+N+Sg+Nom
 ööhpehtimmieprosjekte	ööhpehtimmie+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
 
 
-prosjektesoejkesje	prosjeekte+N+Err/Orth+Cmp/SgNom+Cmp#soejkesje+N+Sg+Nom
-
-prosjektenomme	prosjeekte+N+Err/Orth+Cmp/SgNom+Cmp#nomme+N+Sg+Nom
-
-prosjekteohtsije	prosjeekte+N+Err/Orth+Cmp/SgNom+Cmp#ohtsedh+V+TV+Der/NomAg+N+Sg+Nom
-prosjekteohtsije	prosjeekte+N+Err/Orth+Cmp/SgNom+Cmp#ohtsedh+V+TV+PrsPrc
-prosjekteohtsije	prosjeekte+N+Err/Orth+Cmp/SgNom+Cmp#ohtsije+N+Sg+Nom
-
 
 gïeleöövtiedimmieprogramme	gïele+N+Cmp/SgNom+Cmp#övtiedidh+Err/Orth+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp#programme+N+Sg+Nom
 
