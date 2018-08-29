@@ -73458,7 +73458,18 @@ For the full license text, see the link above.</lic>
   </e>
    <e>
     <lg>
-      <l pos="N" src="fad">øyenstikker</l>
+      <l pos="N" src="fad">øyestikker</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sma">
+        <t pos="N">bieljieskorpedahke</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">libelle</l>
     </lg>
     <mg>
       <tg xml:lang="sma">
