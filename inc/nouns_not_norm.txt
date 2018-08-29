@@ -150,50 +150,14 @@ fylhkekonservaatove	fylhkekonservaatove	+?
 mïrrestallemeprosjekte	mïrrestalleme+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
 mïrrestallemeprosjekte	mïrrestalledh+V+IV+Der/NomAct+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
 
-såjhtoeprosjekte	såjhtoe+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
-
-bïevneseprosjekte	bïevnese+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
-
-koordinatovre	koordinaatore+Err/Orth+N+Sg+Nom
-
-siebredahkeaamhtese	sïebredahke+N+Cmp/SgNom+Cmp#aamhte+N+Sg+Ill
-siebredahkeaamhtese	sïebredahke+N+Cmp/SgNom+Cmp#aamhtese+N+Sg+Nom
-siebredahkeaamhtese	seabradahke+Err/Orth+Err/Orth+N+Cmp/SgNom+Cmp#aamhte+N+Sg+Ill
-siebredahkeaamhtese	seabradahke+Err/Orth+Err/Orth+N+Cmp/SgNom+Cmp#aamhtese+N+Sg+Nom
-siebredahkeaamhtese	seabradahke+Err/Orth+N+Cmp/SgNom+Cmp#aamhte+N+Sg+Ill
-siebredahkeaamhtese	seabradahke+Err/Orth+N+Cmp/SgNom+Cmp#aamhtese+N+Sg+Nom
-
 sjuevnedstijje	sjuevnjeds+Err/Orth+A+Cmp/Attr+Cmp#tïjje+N+Sg+Nom
 
 guöölemelatjkoe	guöölemelatjkoe	+?
 
 guöölemepolitihke	guöölemepolitihke	+?
 
-prosjektevierhtie	prosjeekte+N+Err/Orth+Cmp/SgNom+Cmp#vierhtie+N+Sg+Nom
-
-pressefaalenasse	pressefaalenasse	+?
-
-pressehistovrije	pressehistovrije	+?
-
-pressedåarjoe	pressedåarjoe	+?
-
-pressetjåanghkoe	pressetjåanghkoe	+?
-
-pressegoevtese	pressegoevtese	+?
-
-pressepolitihke	pressepolitihke	+?
-
-pressetelefovne	pressetelefovne	+?
-
-pressejarnge	pressejarnge	+?
-
 sosijaaleprosjekte	sosijaale+A+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
 sosijaaleprosjekte	sosijaale+A+Cmp/Attr+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
-
-healsoekapïhtele	healsoe+N+Cmp/SgNom+Cmp#kapihtele+Err/Orth+N+Sg+Nom
-healsoekapïhtele	healsoe+N+Cmp/SgNom+Cmp#kapihtele+N+Sg+Nom
-
-lïhkebovre	lïhkebovre	+?
 
 internatenlearohke	internaate+N+Err/Orth+Cmp/SgGen+Cmp#learohke+N+Sg+Nom
 internatenlearohke	internaate+N+Err/Orth+Cmp/SgGen+Cmp#learohke+Err/Orth+N+Sg+Nom
@@ -207,8 +171,6 @@ såarths	såarths	+?
 asvoe	asvoe	+?
 
 gaahtjie	gaahtjie	+?
-
-symbovle	symbovle	+?
 
 euro	euro	+?
 
