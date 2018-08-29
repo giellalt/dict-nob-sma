@@ -59671,7 +59671,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">barkeoekonferanse</t>
+        <t pos="N">barkoekonferanse</t>
       </tg>
     </mg>
   </e>
@@ -60732,7 +60732,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">franskengïele</t>
+        <t pos="N">franskegïele</t>
       </tg>
     </mg>
   </e>
@@ -61802,7 +61802,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">påastekaassa</t>
+        <t pos="N">påasteborhtje</t>
       </tg>
     </mg>
   </e>
@@ -73574,7 +73574,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">sjuevnedstijje</t>
+        <t pos="N">sjuevnedstïjje</t>
       </tg>
     </mg>
   </e>
@@ -73674,7 +73674,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">guöölemelatjkoe</t>
+        <t pos="N">göölemelatjkoe</t>
       </tg>
     </mg>
   </e>
@@ -73935,7 +73935,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">guöölemepolitihke</t>
+        <t pos="N">göölemepolitihke</t>
       </tg>
     </mg>
   </e>
@@ -78295,11 +78295,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">frykt</l>
+         <l pos="N">angst</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">asvoe</t>
+            <t pos="N">asve</t>
          </tg>
       </mg>
    </e>
@@ -79689,7 +79689,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">vïtnedimmessavka</t>
+            <t pos="N">vïtnedimmiesavka</t>
          </tg>
       </mg>
    </e>
