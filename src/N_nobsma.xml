@@ -62176,7 +62176,7 @@ For the full license text, see the link above.</lic>
         <t pos="N">sijjienommeprosjekte</t>
       </tg>
     </mg>
-  </e> 
+  </e>
   <e>
     <lg>
       <l pos="N" src="fad">samarbeidsprosjekt</l>
@@ -62196,7 +62196,7 @@ For the full license text, see the link above.</lic>
         <t pos="N">evtiedimmieprosjekte</t>
       </tg>
     </mg>
-  </e>  
+  </e>
   <e>
     <lg>
       <l pos="N" src="fad">pilotprosjekt</l>
@@ -62206,7 +62206,7 @@ For the full license text, see the link above.</lic>
         <t pos="N">pilovteprosjekte</t>
       </tg>
     </mg>
-  </e>    
+  </e>
   <e>
     <lg>
       <l pos="N" src="fad">kulturdokumentasjonsprosjekt</l>
@@ -62216,7 +62216,7 @@ For the full license text, see the link above.</lic>
         <t pos="N">kultuvredokumentasjovneprosjekte</t>
       </tg>
     </mg>
-  </e>  
+  </e>
   <e>
     <lg>
       <l pos="N" src="fad">arbeidsfelt</l>
@@ -73453,6 +73453,16 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="sma">
         <t pos="N">dotkemeaamhtese</t>
+      </tg>
+    </mg>
+  </e>
+   <e>
+    <lg>
+      <l pos="N" src="fad">øyenstikker</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sma">
+        <t pos="N">bieljieskorpedahke</t>
       </tg>
     </mg>
   </e>
