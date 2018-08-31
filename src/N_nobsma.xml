@@ -73477,7 +73477,6 @@ For the full license text, see the link above.</lic>
     </mg>
   </e>
   <e>
-  <e>
     <lg>
       <l pos="N" src="fad">libelle</l>
     </lg>
@@ -81664,7 +81663,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-
+</r>
 
   <!-- Bad suggestions, remove next time round:
 minoritetspublikum ::: unnebelåhkoealmetjh
@@ -85359,6 +85358,4 @@ andrespråksplan	mubpiengïeleplaane	nubbigiellaplána	1	0	0	0
 ?fornorskningssynd	daaroedehtemesådtoe	dáruiduhttinsuddu	1	0	1	0
 
  -->
-   <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript"
-                 xmlns:xhtml="http://www.w3.org/1999/xhtml"/>
-</r>
+
