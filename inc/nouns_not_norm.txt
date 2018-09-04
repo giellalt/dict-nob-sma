@@ -72,7 +72,6 @@ Liksjuo	Liksjuo	+?
 
 Ruosskuo	Ruosskuo	+?
 
-ööhpetimmievuekie	ööhpetimmievuekie	+?
 
 tjueniejåanghkoe	tjueniejåanghkoe	+?
 
@@ -86,14 +85,7 @@ aalkoealmetjeprosjekte	aalkoealmetje+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+No
 
 prosjekteohtseme	prosjeekte+N+Err/Orth+Cmp/SgNom+Cmp#ohtsedh+V+TV+Der/PassS+V+IV+Der/NomAct+N+Sg+Nom
 prosjekteohtseme	prosjeekte+N+Err/Orth+Cmp/SgNom+Cmp#ohtsedh+V+TV+Der/NomAct+N+Sg+Nom
-prosjekteohtseme	prosjeekte+N+Err/Orth+Cmp/SgNom+Cmp#ohtseme+N+Sg+Nom
-
-
-dajvenommeprosjekte	dajve+N+Cmp/SgNom+Cmp#nomme+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
-dajvenommeprosjekte	dajvenomme+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
-
-
-byjjeselaake	byjjeselaake	+?
+prosjekteohtseme	prosjeekte+N+Err/Orth+Cmp/SgNom+Cmp#ohtseme+N+Sg+Nombyjjeselaake	byjjeselaake	+?
 
 kultuvrefaaktore	kultuvre+N+Cmp/SgNom+Cmp#faktore+Err/Orth+N+Sg+Nom
 
@@ -102,31 +94,11 @@ unnemesfaaktore	unnies+A+Superl+Cmp/Attr+Cmp#faktore+Err/Orth+N+Sg+Nom
 unnemesfaaktore	onne+A+Superl+Cmp/SgNom+Cmp#faktore+Err/Orth+N+Sg+Nom
 unnemesfaaktore	onne+A+Superl+Cmp/Attr+Cmp#faktore+Err/Orth+N+Sg+Nom
 
-
-åejvieprosjekte	åejvie+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
-åejvieprosjekte	åejvies+A+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
-
-guektiengïelehvierhtie	gööktengïeleh+Err/Orth+A+Cmp/Attr+Cmp#vierhtie+N+Sg+Nom
-prosjektevierhtie	prosjeekte+N+Err/Orth+Cmp/SgNom+Cmp#vierhtie+N+Sg+Nom
-
-kultuvreprosjekte	kultuvre+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
-
 reaktatjielkeme	reakta+N+Cmp/SgNom+Cmp#tjïelkedh+V+IV+Der/NomAct+N+Sg+Nom
-
-
-
-
-sosijaaleprosjekte	sosijaale+A+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
-sosijaaleprosjekte	sosijaale+A+Cmp/Attr+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
-
-internatenlearohke	internaate+N+Err/Orth+Cmp/SgGen+Cmp#learohke+N+Sg+Nom
-internatenlearohke	internaate+N+Err/Orth+Cmp/SgGen+Cmp#learohke+Err/Orth+N+Sg+Nom
 
 reakadaehtemesaejkie	reakadaehtemesaejkie	+?
 
-
 såarths	såarths	+?
-
 
 gaahtjie	gaahtjie	+?
 
