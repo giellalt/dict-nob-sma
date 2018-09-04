@@ -62955,7 +62955,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">sosiaaleseuerkie</t>
+        <t pos="N">sosijaalesuerkie</t>
       </tg>
     </mg>
   </e>
@@ -72553,7 +72553,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">fylhkekonservaatove</t>
+        <t pos="N">fylhkekonservaatore</t>
       </tg>
     </mg>
   </e>
@@ -78033,7 +78033,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+    <e>
       <lg>
          <l pos="N">skjerm</l>
       </lg>
@@ -78049,7 +78049,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">dållare</t>
+            <t pos="N">dåallere</t>
          </tg>
       </mg>
    </e>

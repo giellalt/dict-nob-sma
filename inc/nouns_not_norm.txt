@@ -1,15 +1,8 @@
-vihtesjimmie	vïhtesjidh+V+TV+Der/NomAct+N+Sg+Nom
-vihtesjimmie	vïhtesjimmie+N+Sg+Nom
 
 studio	studio	+?
 
-åajvaladtje	åajvaladtje	+?
-
-åajvaladtje	åajvaladtje	+?
 
 akkalasaemiengïele	akkalasaemiengïele	+?
-
-prosjekte	prosjeekte+N+Err/Orth+Sg+Nom
 
 Islaante	Island+Err/Orth+N+Prop+Sem/Plc+Attr
 Islaante	Island+Err/Orth+N+Prop+Sem/Plc+Sg+Nom
@@ -95,26 +88,6 @@ prosjekteohtseme	prosjeekte+N+Err/Orth+Cmp/SgNom+Cmp#ohtsedh+V+TV+Der/PassS+V+IV
 prosjekteohtseme	prosjeekte+N+Err/Orth+Cmp/SgNom+Cmp#ohtsedh+V+TV+Der/NomAct+N+Sg+Nom
 prosjekteohtseme	prosjeekte+N+Err/Orth+Cmp/SgNom+Cmp#ohtseme+N+Sg+Nom
 
-prosjekteboelhke	prosjeekte+N+Err/Orth+Cmp/SgNom+Cmp#boelhke+N+Sg+Nom
-
-prosjektedåehkie	prosjeekte+N+Err/Orth+Cmp/SgNom+Cmp#dåehkie+N+Sg+Nom
-
-barkeoekonferanse	barkeoekonferanse	+?
-
-paehperepåssa	paehperepåssa	+?
-
-prosjektedåarjoe	prosjeekte+N+Err/Orth+Cmp/SgNom+Cmp#dåarjoe+N+Sg+Nom
-
-spanskegïele	spaanske+Err/Orth+A+Cmp/Attr+Cmp#gïele+N+Sg+Nom
-
-franskengïele	franskengïele	+?
-
-prosjekteåejvie	prosjeekte+N+Err/Orth+Cmp/SgNom+Cmp#åejvie+N+Sg+Nom
-
-påastekaassa	påastekaassa	+?
-
-learoevierhtieprosjekte	learoe+N+Cmp/SgNom+Cmp#vierhtie+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
-learoevierhtieprosjekte	learoevierhtie+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
 
 dajvenommeprosjekte	dajve+N+Cmp/SgNom+Cmp#nomme+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
 dajvenommeprosjekte	dajvenomme+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
@@ -129,7 +102,6 @@ unnemesfaaktore	unnies+A+Superl+Cmp/Attr+Cmp#faktore+Err/Orth+N+Sg+Nom
 unnemesfaaktore	onne+A+Superl+Cmp/SgNom+Cmp#faktore+Err/Orth+N+Sg+Nom
 unnemesfaaktore	onne+A+Superl+Cmp/Attr+Cmp#faktore+Err/Orth+N+Sg+Nom
 
-sosijaaleseuerkie	sosijaaleseuerkie	+?
 
 åejvieprosjekte	åejvie+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
 åejvieprosjekte	åejvies+A+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
@@ -141,20 +113,8 @@ kultuvreprosjekte	kultuvre+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
 
 reaktatjielkeme	reakta+N+Cmp/SgNom+Cmp#tjïelkedh+V+IV+Der/NomAct+N+Sg+Nom
 
-ööhpehtimmieprosjekte	ööhpehtidh+V+TV+Der/NomAct+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
-ööhpehtimmieprosjekte	ööhpehtimmie+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
 
 
-fylhkekonservaatove	fylhkekonservaatove	+?
-
-mïrrestallemeprosjekte	mïrrestalleme+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
-mïrrestallemeprosjekte	mïrrestalledh+V+IV+Der/NomAct+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
-
-sjuevnedstijje	sjuevnjeds+Err/Orth+A+Cmp/Attr+Cmp#tïjje+N+Sg+Nom
-
-guöölemelatjkoe	guöölemelatjkoe	+?
-
-guöölemepolitihke	guöölemepolitihke	+?
 
 sosijaaleprosjekte	sosijaale+A+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
 sosijaaleprosjekte	sosijaale+A+Cmp/Attr+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
@@ -164,33 +124,19 @@ internatenlearohke	internaate+N+Err/Orth+Cmp/SgGen+Cmp#learohke+Err/Orth+N+Sg+No
 
 reakadaehtemesaejkie	reakadaehtemesaejkie	+?
 
-dållare	dållare	+?
 
 såarths	såarths	+?
 
-asvoe	asvoe	+?
 
 gaahtjie	gaahtjie	+?
 
 euro	euro	+?
 
-æpla	æpla	+?
-
-diplomatijelosje	diplomatijelosje	+?
-
-vïtnedimmessavka	vïtnedimmessavka	+?
-
 mearoelaahpehtsh	mearoelaahpehtsh	+?
-
-mappesysteeme	mappesysteeme	+?
 
 observatorijumme	observatorijumme	+?
 
 sjædtoe-dilhkesh	sjædtoe-dilhkesh	+?
-
-staaten-årroedahke	staaten-årroedahke	+?
-
-turistehæhtjoe	turistehæhtjoe	+?
 
 gaarsjestadijumme	gaarsjestadijumme	+?
 
