@@ -62,8 +62,6 @@ Gyørte	geartodh+V+TV+Ind+Prs+Sg3
 Gyørte	Györte+N+Prop+Sem/Plc+Attr
 Gyørte	Györte+N+Prop+Sem/Plc+Sg+Nom
 
-Aarporte	Aarborte+Err/Orth+N+Prop+Sem/Plc+Attr
-Aarporte	Aarborte+Err/Orth+N+Prop+Sem/Plc+Sg+Nom
 
 Röörovse	Røros+Err/Orth+N+Prop+Sem/Plc+Attr
 Röörovse	Røros+Err/Orth+N+Prop+Sem/Plc+Sg+Nom
@@ -94,13 +92,9 @@ unnemesfaaktore	unnies+A+Superl+Cmp/Attr+Cmp#faktore+Err/Orth+N+Sg+Nom
 unnemesfaaktore	onne+A+Superl+Cmp/SgNom+Cmp#faktore+Err/Orth+N+Sg+Nom
 unnemesfaaktore	onne+A+Superl+Cmp/Attr+Cmp#faktore+Err/Orth+N+Sg+Nom
 
-reaktatjielkeme	reakta+N+Cmp/SgNom+Cmp#tjïelkedh+V+IV+Der/NomAct+N+Sg+Nom
 
 reakadaehtemesaejkie	reakadaehtemesaejkie	+?
 
-såarths	såarths	+?
-
-gaahtjie	gaahtjie	+?
 
 euro	euro	+?
 
