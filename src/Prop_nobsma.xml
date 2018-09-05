@@ -1,32 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
-<?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
-"../../scripts/gt_dictionary.dtd">
 <r id="nobsma" xml:lang="nob">
-   <lics xml:space="preserve">
-      <lic xml:lang="en">
-This code is made available under a Creative Commons Attribution license
-<a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
-
-You are free to copy, distribute and adapt the work, as long as you always give
-proper attribution using the attribution text below.
-
-For the full license text, see the link above.</lic>
-      <ref>Work by Giellatekno at UiT, Divvun at the Norwegian Saami Parliament,
-          and members of the language communities. Source code
-          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
-      <sourcenote>
-     THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
-     published dictionary. As such it can and
-     will contain unfinished entries, unpublished entries, entries with
-     objectionable translations, etc. If you find any errors or want to add more
-     words, download the file, edit it, and send it back to
-     <a>mailto:feedback@divvun.no</a> and <a>mailto:giellatekno@hum.uit.no</a>.
-     Please also note that the entries are not necessarily sorted,
-     or could be wrongly sorted.
-     </sourcenote>
-   </lics>
    <e>
       <lg>
          <l pos="N" type="Prop" sem_type="Plc">Östersund</l>
@@ -34,25 +7,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Luvlieluspie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Östersund</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" type="Prop">Staare</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Östersund</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" type="Prop">Tjåalmere</t>
          </tg>
       </mg>
@@ -194,15 +149,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Jïengelaante</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Island</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" type="Prop">Island</t>
          </tg>
       </mg>
@@ -574,6 +520,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Bijjiejaevrie</t>
+            <t pos="N" type="Prop">Guhkiesjaevrie</t>
+            <t pos="N" type="Prop">Skaalnje</t>
+            <t pos="N" type="Prop">Guhkiestjonne</t>
+            <t pos="N" type="Prop">Loevesjaevrie</t>
          </tg>
       </mg>
    </e>
@@ -1324,6 +1274,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Voertjejaevrie</t>
+            <t pos="N" type="Prop">Vaajjatjonne</t>
          </tg>
       </mg>
    </e>
@@ -1509,16 +1460,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Langvatnet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" type="Prop">Guhkiesjaevrie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N" type="Prop" sem_type="Plc">Kjåppån</l>
       </lg>
       <mg>
@@ -1594,16 +1535,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Sarvejaevrie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Skardtjønna</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" type="Prop">Vaajjatjonne</t>
          </tg>
       </mg>
    </e>
@@ -1744,6 +1675,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Raavnejegaejsie</t>
+            <t pos="N" type="Prop">Noerhtegaejsie</t>
          </tg>
       </mg>
    </e>
@@ -1789,31 +1721,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Langvatnet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" type="Prop">Skaalnje</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N" type="Prop" sem_type="Plc">Løysmundhatten</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Raassje</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Nordre Gauptjønnaksla</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" type="Prop">Noerhtegaejsie</t>
          </tg>
       </mg>
    </e>
@@ -1914,6 +1826,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Tjoemenjohke</t>
+            <t pos="N" type="Prop">Baajmenjohke</t>
+            <t pos="N" type="Prop">Dåeriesjohke</t>
+            <t pos="N" type="Prop">Garsjohke</t>
          </tg>
       </mg>
    </e>
@@ -1934,6 +1849,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Såekiejaevrie</t>
+            <t pos="N" type="Prop">Såekiesjaevrie</t>
          </tg>
       </mg>
    </e>
@@ -1999,16 +1915,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Langvatnet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" type="Prop">Guhkiestjonne</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N" type="Prop" sem_type="Plc">Stortangaksla</l>
       </lg>
       <mg>
@@ -2034,6 +1940,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Åakerebahke</t>
+            <t pos="N" type="Prop">Bielnie</t>
          </tg>
       </mg>
    </e>
@@ -2064,25 +1971,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Såaloejaevrie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Holmvatnet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" type="Prop">Såaloejaevrie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Holmvatnet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" type="Prop">Såålejaevrie</t>
          </tg>
       </mg>
@@ -2234,6 +2122,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Gåetienjohke</t>
+            <t pos="N" type="Prop">Gåetiejohke</t>
          </tg>
       </mg>
    </e>
@@ -2274,6 +2163,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Njoelevaartoe</t>
+            <t pos="N" type="Prop">Stoerrebaertie</t>
+            <t pos="N" type="Prop">Gierkietjahke</t>
          </tg>
       </mg>
    </e>
@@ -2314,16 +2205,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Njallevaartoe</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Langvatnet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" type="Prop">Loevesjaevrie</t>
+            <t pos="N" type="Prop">Gaskebiejjiensnjurhtjie</t>
          </tg>
       </mg>
    </e>
@@ -2544,6 +2426,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Aahkabieljiejaevrie</t>
+            <t pos="N" type="Prop">Gabpenjaevrie</t>
          </tg>
       </mg>
    </e>
@@ -2674,6 +2557,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Giedtienjuana</t>
+            <t pos="N" type="Prop">Buhtjemenjuana</t>
          </tg>
       </mg>
    </e>
@@ -2714,15 +2598,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Skarnjanvaartoe</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Skånalifjellet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" type="Prop">Golmesvaartoe</t>
          </tg>
       </mg>
@@ -2734,6 +2609,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Noamesjenloekte</t>
+            <t pos="N" type="Prop">Buvriejaevrie</t>
          </tg>
       </mg>
    </e>
@@ -2744,6 +2620,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Goeblenjaevrie</t>
+            <t pos="N" type="Prop">Guhkiesjaavretje</t>
+            <t pos="N" type="Prop">Årroejaevrie</t>
          </tg>
       </mg>
    </e>
@@ -2814,6 +2692,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Faavrehtjahke</t>
+            <t pos="N" type="Prop">Tjaeksie</t>
          </tg>
       </mg>
    </e>
@@ -2844,6 +2723,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Hutnegebaarmoe</t>
+            <t pos="N" type="Prop">Svaalenjunie</t>
          </tg>
       </mg>
    </e>
@@ -2894,6 +2774,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Såålejaevrie</t>
+            <t pos="N" type="Prop">Guelehtsjaevrie</t>
          </tg>
       </mg>
    </e>
@@ -2924,6 +2805,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Durrienjohke</t>
+            <t pos="N" type="Prop">Sealmanjohke</t>
          </tg>
       </mg>
    </e>
@@ -3049,16 +2931,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Finnhusbekken</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" type="Prop">Gåetiejohke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N" type="Prop" sem_type="Plc">Rurukelva</l>
       </lg>
       <mg>
@@ -3084,6 +2956,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Såekievaartoe</t>
+            <t pos="N" type="Prop">Lievkiesåajja</t>
          </tg>
       </mg>
    </e>
@@ -3104,16 +2977,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Gåetietjonne</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Langtjønna</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" type="Prop">Guhkiesjaavretje</t>
          </tg>
       </mg>
    </e>
@@ -3254,15 +3117,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Vuakterenvaartoe</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Litlvassklumpen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" type="Prop">Speerregenvaartoe</t>
          </tg>
       </mg>
@@ -3284,6 +3138,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Kråavvajaevrie</t>
+            <t pos="N" type="Prop">Skijlevaajjanjaevrie</t>
+            <t pos="N" type="Prop">Tjyjsejaevrie</t>
          </tg>
       </mg>
    </e>
@@ -3369,16 +3225,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Tverrelva</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" type="Prop">Baajmenjohke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N" type="Prop" sem_type="Plc">Luliefjellet</l>
       </lg>
       <mg>
@@ -3404,6 +3250,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Staelliennjuenie</t>
+            <t pos="N" type="Prop">Laakesvaartoe</t>
+            <t pos="N" type="Prop">Rånhtjoehvaartoe</t>
          </tg>
       </mg>
    </e>
@@ -3489,16 +3337,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Søluberget</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" type="Prop">Svaalenjunie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N" type="Prop" sem_type="Plc">Storvika</l>
       </lg>
       <mg>
@@ -3564,26 +3402,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Hutnegejaevrie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Krutangen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" type="Prop">Buhtjemenjuana</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Fiskløystjønna</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" type="Prop">Guelehtsjaevrie</t>
          </tg>
       </mg>
    </e>
@@ -3784,16 +3602,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Guevtelejohke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Seterklumpen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" type="Prop">Tjaeksie</t>
+            <t pos="N" type="Prop">Stoerrejohke</t>
+            <t pos="N" type="Prop">Smeelehjohke</t>
+            <t pos="N" type="Prop">Stuhpeljohke</t>
          </tg>
       </mg>
    </e>
@@ -3804,15 +3615,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Stoerresovvene</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Storflya</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" type="Prop">Guhkiessovvene</t>
          </tg>
       </mg>
@@ -3834,26 +3636,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Leemtsenvuemie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Lybekkdalen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" type="Prop">Våellerenvuemie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Midtiklumpen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" type="Prop">Bielnie</t>
          </tg>
       </mg>
    </e>
@@ -3914,6 +3697,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Gåasavaartoe</t>
+            <t pos="N" type="Prop">Slaateretjahke</t>
          </tg>
       </mg>
    </e>
@@ -3984,15 +3768,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Jarpesovvene</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Langflyen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" type="Prop">Gaskesovvene</t>
          </tg>
       </mg>
@@ -4114,26 +3889,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Buvriejohke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Litlfjellet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" type="Prop">Laakesvaartoe</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Storelva</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" type="Prop">Stoerrejohke</t>
          </tg>
       </mg>
    </e>
@@ -4274,15 +4029,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Dievienjaevrie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Devikvatnet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" type="Prop">Duvvienjaevrie</t>
          </tg>
       </mg>
@@ -4324,16 +4070,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Gåasajaevrie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Bjørkvassklumpen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" type="Prop">Lievkiesåajja</t>
+            <t pos="N" type="Prop">Sarvejællanjaevrie</t>
          </tg>
       </mg>
    </e>
@@ -4349,31 +4086,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Litlvatnet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" type="Prop">Buvriejaevrie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N" type="Prop" sem_type="Plc">Firklumpen</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Apmatjahke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Bjørkvatnet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" type="Prop">Såekiesjaevrie</t>
          </tg>
       </mg>
    </e>
@@ -4394,16 +4111,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Såekiejohke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Skardselva</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" type="Prop">Sealmanjohke</t>
          </tg>
       </mg>
    </e>
@@ -4609,16 +4316,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Krokvatnet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" type="Prop">Skijlevaajjanjaevrie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N" type="Prop" sem_type="Plc">Grøndalsdomma</l>
       </lg>
       <mg>
@@ -4764,15 +4461,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Smeelehaesie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Smalåsen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" type="Prop">Smaalanjuenie</t>
          </tg>
       </mg>
@@ -4884,16 +4572,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Sierkesjohke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Steinfjellet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" type="Prop">Stoerrebaertie</t>
          </tg>
       </mg>
    </e>
@@ -5119,21 +4797,12 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Skarvåsen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" type="Prop">Brïenne</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N" type="Prop" sem_type="Plc">Storholmen</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Stoerresååle</t>
+            <t pos="N" type="Prop">Eerhtssååle</t>
          </tg>
       </mg>
    </e>
@@ -5164,6 +4833,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Brïennedurrie</t>
+            <t pos="N" type="Prop">Briennedurrie</t>
          </tg>
       </mg>
    </e>
@@ -5204,6 +4874,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Plïehtjeguevtelennjuenie</t>
+            <t pos="N" type="Prop">Goernentjahke</t>
          </tg>
       </mg>
    </e>
@@ -5444,6 +5115,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Giedtienjaevrie</t>
+            <t pos="N" type="Prop">Gaskevaeriengiedtienjaevrie</t>
          </tg>
       </mg>
    </e>
@@ -5549,16 +5221,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Finnkruvatnet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" type="Prop">Gaskevaeriengiedtienjaevrie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N" type="Prop" sem_type="Plc">Sandvassåsen</l>
       </lg>
       <mg>
@@ -5644,6 +5306,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Skaaloevaajjanjaevrie</t>
+            <t pos="N" type="Prop">Råavkoejaevrie</t>
          </tg>
       </mg>
    </e>
@@ -5869,16 +5532,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Brennelvdalen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" type="Prop">Briennedurrie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N" type="Prop" sem_type="Plc">Kalvfjellet</l>
       </lg>
       <mg>
@@ -5904,16 +5557,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Såekremeskie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Kvernfjellet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" type="Prop">Goernentjahke</t>
          </tg>
       </mg>
    </e>
@@ -6024,16 +5667,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Baelkiesdurrie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Middagsfjellet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" type="Prop">Gaskebiejjiensnjurhtjie</t>
          </tg>
       </mg>
    </e>
@@ -6174,6 +5807,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Jearhta</t>
+            <t pos="N" type="Prop">Jïerhtetjahke</t>
          </tg>
       </mg>
    </e>
@@ -6309,16 +5943,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Tverrelva</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" type="Prop">Dåeriesjohke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N" type="Prop" sem_type="Plc">Sirijordaksla</l>
       </lg>
       <mg>
@@ -6384,6 +6008,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Tjeehpesjaavretje</t>
+            <t pos="N" type="Prop">Grååvejaevrie</t>
          </tg>
       </mg>
    </e>
@@ -6394,6 +6019,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Stoerremeskie</t>
+            <t pos="N" type="Prop">Guhkiesdurrie</t>
          </tg>
       </mg>
    </e>
@@ -6664,15 +6290,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Feelpsvuemie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Fiplingdalen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" type="Prop">Feelphvuemie</t>
          </tg>
       </mg>
@@ -6949,16 +6566,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Krokvatnet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" type="Prop">Tjyjsejaevrie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N" type="Prop" sem_type="Plc">Bergdalskloven</l>
       </lg>
       <mg>
@@ -6984,6 +6591,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Staavtjevaartoe</t>
+            <t pos="N" type="Prop">Gaalloe</t>
          </tg>
       </mg>
    </e>
@@ -7014,16 +6622,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Sarvenvaartoe</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Gåsvatnet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" type="Prop">Sarvejællanjaevrie</t>
          </tg>
       </mg>
    </e>
@@ -7194,6 +6792,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Gyöjnedhdurrienjohke</t>
+            <t pos="N" type="Prop">Gyöjnedjohke</t>
          </tg>
       </mg>
    </e>
@@ -7204,16 +6803,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Gyöjnedhdurrie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Langskardet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" type="Prop">Guhkiesdurrie</t>
          </tg>
       </mg>
    </e>
@@ -7284,16 +6873,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Gaebpiensealma</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Storholmen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" type="Prop">Eerhtssååle</t>
          </tg>
       </mg>
    </e>
@@ -7379,16 +6958,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Tuva</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" type="Prop">Gaalloe</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N" type="Prop" sem_type="Plc">Pilfjellet</l>
       </lg>
       <mg>
@@ -7434,6 +7003,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Åerjieglunhkie</t>
+            <t pos="N" type="Prop">Glunhkie</t>
          </tg>
       </mg>
    </e>
@@ -7504,25 +7074,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Smeelehmehkie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Storelva</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" type="Prop">Smeelehjohke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Storelvdalen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" type="Prop">Smeelehdurrie</t>
          </tg>
       </mg>
@@ -7534,16 +7085,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Smaalavaartoe</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Seterfjellet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" type="Prop">Slaateretjahke</t>
          </tg>
       </mg>
    </e>
@@ -7649,16 +7190,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Storvatnet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" type="Prop">Gabpenjaevrie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N" type="Prop" sem_type="Plc">Forsenghaugen</l>
       </lg>
       <mg>
@@ -7694,16 +7225,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Skearoesjaevrie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Langtjønna</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" type="Prop">Årroejaevrie</t>
+            <t pos="N" type="Prop">Aahkanjaevrie</t>
          </tg>
       </mg>
    </e>
@@ -7719,31 +7241,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Litlfjellet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" type="Prop">Rånhtjoehvaartoe</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N" type="Prop" sem_type="Plc">Simskardmyra</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Sïjtdurrienvaegkie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Klubbfjellet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" type="Prop">Glunhkie</t>
          </tg>
       </mg>
    </e>
@@ -8029,16 +7531,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Storvegskardelva</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" type="Prop">Gyöjnedjohke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N" type="Prop" sem_type="Plc">Sommarfjellet</l>
       </lg>
       <mg>
@@ -8074,6 +7566,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Slaktoe</t>
+            <t pos="N" type="Prop">Raavtetje</t>
          </tg>
       </mg>
    </e>
@@ -8084,16 +7577,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Sïjtdurrienjaevrie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Tverrelva</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" type="Prop">Garsjohke</t>
          </tg>
       </mg>
    </e>
@@ -8134,6 +7617,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Raavrejaevrienjohke</t>
+            <t pos="N" type="Prop">Raavrijejohke</t>
          </tg>
       </mg>
    </e>
@@ -8539,16 +8023,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Raudvasselva</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" type="Prop">Raavrijejohke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N" type="Prop" sem_type="Plc">Saksenfjellet</l>
       </lg>
       <mg>
@@ -8594,16 +8068,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Braahkoevaartoe</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Mellavatnet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" type="Prop">Råavkoejaevrie</t>
          </tg>
       </mg>
    </e>
@@ -8769,16 +8233,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Kjerringvatnet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" type="Prop">Aahkanjaevrie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N" type="Prop" sem_type="Plc">Kjerringtinden</l>
       </lg>
       <mg>
@@ -8814,16 +8268,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Aalesjaevrie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Slettfjellet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" type="Prop">Raavtetje</t>
          </tg>
       </mg>
    </e>
@@ -8999,16 +8443,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Steinfjellet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" type="Prop">Gierkietjahke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N" type="Prop" sem_type="Plc">Laukskardet</l>
       </lg>
       <mg>
@@ -9144,15 +8578,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Vaekie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Vågfjellet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" type="Prop">Vadtije</t>
          </tg>
       </mg>
@@ -9274,16 +8699,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Snugliejaevrie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Svarttjønna</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" type="Prop">Grååvejaevrie</t>
          </tg>
       </mg>
    </e>
@@ -9579,16 +8994,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Storelva</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" type="Prop">Stuhpeljohke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N" type="Prop" sem_type="Plc">Gresvatnet</l>
       </lg>
       <mg>
@@ -9604,16 +9009,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Spielhtebåvloe</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Hjartfjellet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" type="Prop">Jïerhtetjahke</t>
          </tg>
       </mg>
    </e>
@@ -10039,16 +9434,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Røros</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" type="Prop">Plassje</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N" type="Prop" sem_type="Plc">Jemtland</l>
       </lg>
       <mg>
@@ -10084,15 +9469,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Aaha</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Aha</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" type="Prop">Áhá</t>
          </tg>
       </mg>
@@ -10134,15 +9510,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Aarejaevriengïeles</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Aronsjöliden</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" type="Prop">Aarenlaedtie</t>
          </tg>
       </mg>
@@ -10154,15 +9521,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Aarjepluevie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Arjeplog</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" type="Prop">Árjjepluovve</t>
          </tg>
       </mg>
@@ -10174,15 +9532,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Aavhjaevrie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Ajaur</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" type="Prop">Avjávrrie</t>
          </tg>
       </mg>
@@ -10224,15 +9573,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Aerviesjaevrie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Arvidsjaur</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" type="Prop">Árviesjávrrie</t>
          </tg>
       </mg>
@@ -10264,15 +9604,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Baektiesbierjie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Djupdal</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" type="Prop">Gïengelesgovre</t>
          </tg>
       </mg>
@@ -10304,6 +9635,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Ballore</t>
+            <t pos="N" type="Prop">Bealloejaevrie</t>
          </tg>
       </mg>
    </e>
@@ -10319,30 +9651,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Ballaren</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" type="Prop">Bealloejaevrie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N" type="Prop" sem_type="Plc">Barsele</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Barresoene</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Barsele</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" type="Prop">Bárjiege</t>
          </tg>
       </mg>
@@ -10394,25 +9707,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Blaahnege</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Blattniksele</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" type="Prop">Bláhnage</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Blattniksele</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" type="Prop">Bláhnagesuvvane</t>
          </tg>
       </mg>
@@ -10474,15 +9769,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Deatnahkejaevrie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Tängvattnet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" type="Prop">Dïeknjehke</t>
          </tg>
       </mg>
@@ -10504,15 +9790,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Digkiesovvene</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Diksele</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" type="Prop">Diggiesuvvane</t>
          </tg>
       </mg>
@@ -10524,15 +9801,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Doeltemejaevrie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Kokträsk</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" type="Prop">Duölddiemejávrrie</t>
          </tg>
       </mg>
@@ -10544,15 +9812,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Draehkie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Gargnäs</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" type="Prop">Dráhkie</t>
          </tg>
       </mg>
@@ -10574,15 +9833,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Döörte</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Dorotea</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" type="Prop">Kraapohke</t>
          </tg>
       </mg>
@@ -10614,15 +9864,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Faahtjere</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Fättjaur</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" type="Prop">Feehtjere</t>
          </tg>
       </mg>
@@ -10634,15 +9875,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Faantse</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Fansen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" type="Prop">Fántsa</t>
          </tg>
       </mg>
@@ -10704,15 +9936,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Gaertiejaevrie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Gardsjön</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" type="Prop">Gárddiejávrrie</t>
          </tg>
       </mg>
@@ -10724,15 +9947,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Gajhrege</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Matsdal</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" type="Prop">Gajhtohke</t>
          </tg>
       </mg>
@@ -10754,15 +9968,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Geavtse</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Ammarnäs</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" type="Prop">Gávtsjávrrie</t>
          </tg>
       </mg>
@@ -10784,15 +9989,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Gierkiesovvene</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Stensele</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" type="Prop">Geärggiesuvvane</t>
          </tg>
       </mg>
@@ -10804,15 +10000,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Glijre</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Glen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" type="Prop">Klïere</t>
          </tg>
       </mg>
@@ -10824,15 +10011,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Goerbevaerie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Kurbevare</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" type="Prop">Guorbbavárrie</t>
          </tg>
       </mg>
@@ -10884,15 +10062,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Hierkiejaevrie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Fjällbosjö</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" type="Prop">Heärggiejávrrie</t>
          </tg>
       </mg>
@@ -10964,15 +10133,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Juksjaevrie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Juksjaur</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" type="Prop">Juksjávrrie</t>
          </tg>
       </mg>
@@ -11004,15 +10164,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Klimhpe</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Klimpfjäll</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" type="Prop">Klimhpese</t>
          </tg>
       </mg>
@@ -11034,25 +10185,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Kraeniesovvene</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Vindelgransele</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" type="Prop">Krániesuvvane</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Vindelgransele</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" type="Prop">Guossasuvvane</t>
          </tg>
       </mg>
@@ -11084,15 +10217,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Laajnejaevrie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Lainejaur</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" type="Prop">Lájdniejávrrie</t>
          </tg>
       </mg>
@@ -11114,35 +10238,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Læksjoe</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Lycksele</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" type="Prop">Liksjuo</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Lycksele</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" type="Prop">Liksjsovvene</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Lycksele</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" type="Prop">Liksjsoene</t>
          </tg>
       </mg>
@@ -11184,15 +10281,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Maalege</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Malå</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" type="Prop">Máláge</t>
          </tg>
       </mg>
@@ -11314,15 +10402,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Nolhpe</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Nolpen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" type="Prop">Nulppa</t>
          </tg>
       </mg>
@@ -11344,15 +10423,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Nordmelikse</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Nordmaling</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" type="Prop">Novlemaanege</t>
          </tg>
       </mg>
@@ -11374,15 +10444,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Nåarene</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Norsjö</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" type="Prop">Nuoráne</t>
          </tg>
       </mg>
@@ -11524,15 +10585,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Råaskoe</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Rusksele</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" type="Prop">Ruosskuo</t>
          </tg>
       </mg>
@@ -11544,15 +10596,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Råava</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Råsele</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" type="Prop">Råavoe</t>
          </tg>
       </mg>
@@ -11584,15 +10627,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Saedtieloekte</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Blajken</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" type="Prop">Sáddieluoktta</t>
          </tg>
       </mg>
@@ -11674,25 +10708,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Skillehte</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Skellefteå</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" type="Prop">Syöldete</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Skellefteå</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" type="Prop">Syöldate</t>
          </tg>
       </mg>
@@ -11734,15 +10750,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Stejhka</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Malånäs</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" type="Prop">Steäjkka</t>
          </tg>
       </mg>
@@ -11784,15 +10791,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Suarsa</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Sorsele</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" type="Prop">Suarssá</t>
          </tg>
       </mg>
@@ -11814,15 +10812,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Såehkiedeava</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Björkbacka</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" type="Prop">Såhkiedievvá</t>
          </tg>
       </mg>
@@ -11904,15 +10893,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Upmeje</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Umeå</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" type="Prop">Ubmeje</t>
          </tg>
       </mg>
@@ -11984,15 +10964,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Vuarnasovvene</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Vormsele</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" type="Prop">Vuordnasuvváne</t>
          </tg>
       </mg>
@@ -12004,15 +10975,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Vudtele</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Vindeln</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" type="Prop">Vyöddale</t>
          </tg>
       </mg>
@@ -12142,7 +11104,7 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop" sem_type="Txt">Sameloven</l>
       </lg>
       <mg>
-          <tg xml:lang="sma">
+         <tg xml:lang="sma">
             <t pos="N" type="Prop">Saemielaake</t>
          </tg>
       </mg>
