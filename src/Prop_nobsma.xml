@@ -2615,13 +2615,30 @@
    </e>
    <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Langtjønna</l>
+         <l pos="N" type="Prop">Langtjønna</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>Røyrvik</re>
             <t pos="N" type="Prop">Goeblenjaevrie</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>Røyrvik</re>
             <t pos="N" type="Prop">Guhkiesjaavretje</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>Grane</re>
             <t pos="N" type="Prop">Årroejaevrie</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>Namsskogan</re>
+            <t pos="N" type="Prop" nr="Pl">Guhkiestjonneh</t>
          </tg>
       </mg>
    </e>
@@ -11106,6 +11123,487 @@
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Saemielaake</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop">Tangvatna</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>Rindal</re>
+            <t pos="N" type="Prop" nr="Pl">Njuanajaevrieh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop">Skarvan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>Selbu</re>
+            <t pos="N" type="Prop" nr="Pl">Tjohkeleh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop">Skreddarsjøane</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>Tydal</re>
+            <t pos="N" type="Prop" nr="Pl">Faatnajabpejaevrieh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop">Sylan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>Tydal</re>
+            <t pos="N" type="Prop" nr="Pl">Bealjehkh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop">Lødøljsjøan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>Meråker</re>
+            <t pos="N" type="Prop" nr="Pl">Pliehkiejaevrieh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop">Grønflatknulen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>Nordli</re>
+            <t pos="N" type="Prop" nr="Pl">Saedtietjaerhvieh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop">Akkavassøran</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>Nordli</re>
+            <t pos="N" type="Prop" nr="Pl">Aahkabieljieh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop">Fiskløysvatna</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>Nordli</re>
+            <t pos="N" type="Prop" nr="Pl">Guelehtsjaevrieh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop">Storgollomsvatnet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>Røyrvik</re>
+            <t pos="N" type="Prop" nr="Pl">Golmesjaevrieh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop">Husviktjønnin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>Røyrvik</re>
+            <t pos="N" type="Prop" nr="Pl">Gåetbielesdurrienjaevrieh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop">Renselskardtjønnin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>Røyrvik</re>
+            <t pos="N" type="Prop" nr="Pl">Tjaeksienjaevrieh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop">Beinvatna</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>Røyrvik</re>
+            <t pos="N" type="Prop" nr="Pl">Måarenjaevrieh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop">Tjermavatna</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>Røyrvik</re>
+            <t pos="N" type="Prop" nr="Pl">Tjiermejaevrieh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop">Jassånilstjønnin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>Røyrvik</re>
+            <t pos="N" type="Prop" nr="Pl">Jassehkentjonneh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop">Sætertjørnin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>Namsskogan</re>
+            <t pos="N" type="Prop" nr="Pl">Sieteretjonneh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop">Finntroppin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>Høylandet</re>
+            <t pos="N" type="Prop" nr="Pl">Jahtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop">Årkverntjørnin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>Høylandet</re>
+            <t pos="N" type="Prop" nr="Pl">Snuvrejaevrieh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop">Nilsinetjørnin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>Nordbindalen</re>
+            <t pos="N" type="Prop" nr="Pl">Gaelpientjonneh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>Nordbindalen</re>
+            <t pos="N" type="Prop" nr="Pl">Gaelpienjaevrieh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop">Grytendalsvatnan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>Nordbindalen</re>
+            <t pos="N" type="Prop" nr="Pl">Grovhtemehkienjaevrieh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop">Nilsfinntjønnin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>Nordbindalen</re>
+            <t pos="N" type="Prop" nr="Pl">Bueleksjællanjaevrieh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop">Sætertjønnan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>Hattfjelldal</re>
+            <t pos="N" type="Prop" nr="Pl">Giedtiejaevrieh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop">Pinkelvatnan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>Hattfjelldal</re>
+            <t pos="N" type="Prop" nr="Pl">Pingkelejaavretjh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop">Jordbekkvatnan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>Mo</re>
+            <t pos="N" type="Prop" nr="Pl">Gaajsetjenjaevrieh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop">Blerekvatnan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>Mo</re>
+            <t pos="N" type="Prop" nr="Pl">Plierehkejaevrieh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop">Småtindan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>Mo</re>
+            <t pos="N" type="Prop" nr="Pl">Gaajsetjh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop">Kiruna</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pg="no" pos="N" type="Prop">Giron</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop">Nesseby</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pg="no" pos="N" type="Prop">Unjárga</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop">Porsanger</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pg="no" pos="N" type="Prop">Porsángu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop">Lakselv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pg="no" pos="N" type="Prop">Leavdnja</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop">Kåfjord</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pg="no" pos="N" type="Prop">Gáivuotna</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop">Karasjok</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pg="no" pos="N" type="Prop">Kárášjohka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop">Elgå reinbeitedistrikt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pg="no" pos="N" type="Prop">Svahken sïjte</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop">Riast/Hylling reinbeitedistrikt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pg="no" pos="N" type="Prop">Gåebrien sïjte</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop">Essand reinbeitedistrikt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pg="no" pos="N" type="Prop">Saanti sïjte</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop">Færen reinbeitedistrikt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pg="no" pos="N" type="Prop">Gaskelaanten sïjte</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop">Fosen reinbeitedistrikt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pg="no" pos="N" type="Prop">Fovsen-Njaarken sïjte</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop">Skjækerfjell reinbeitedistrikt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pg="no" pos="N" type="Prop">Skæhkeren sïjte</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop">Luru reinbeitedistrikt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pg="no" pos="N" type="Prop">Låarten sïjte</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop">Østre-Namdal reinbeitedistrikt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pg="no" pos="N" type="Prop">Luvlie-Nåamesjen båatsoej sïjte</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop">Voengelh-Njaarke reinbeitedistrikt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pg="no" pos="N" type="Prop">Voengelh-Njaarken sïjte</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop">Byrkije reinbeitedistrikt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pg="no" pos="N" type="Prop">Byrkijen sïjte</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop">Jillen-Njaarke reinbeitedistrikt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pg="no" pos="N" type="Prop">Jillen-Njaarken sïjte</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop">Vestre-Namdal reinbeitedistrikt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pg="no" pos="N" type="Prop">Åarjel-Njaarken sïjte</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop">Ruvhten sameby</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pg="no" pos="N" type="Prop">Ruvhten sïjte</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop">Ubmeje sameby</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pg="no" pos="N" type="Prop">Ubmeje tjeälddie</t>
          </tg>
       </mg>
    </e>
