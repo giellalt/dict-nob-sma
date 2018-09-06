@@ -520,9 +520,25 @@
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Bijjiejaevrie</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
             <t pos="N" type="Prop">Guhkiesjaevrie</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
             <t pos="N" type="Prop">Skaalnje</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
             <t pos="N" type="Prop">Guhkiestjonne</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
             <t pos="N" type="Prop">Loevesjaevrie</t>
          </tg>
       </mg>
@@ -2615,7 +2631,7 @@
    </e>
    <e>
       <lg>
-         <l pos="N" type="Prop">Langtjønna</l>
+         <l pos="N" type="Prop" sem_type="Plc">Langtjønna</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
