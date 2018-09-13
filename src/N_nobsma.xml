@@ -9196,7 +9196,7 @@ For the full license text, see the link above.</lic>
             <t pos="N" soggi="ie" stem="2syll">dååjrehtimmie</t>
             <xg>
                <x>solid erfaring</x>
-               <xt>nannoes dååjrehtimmie</xt>
+               <xt>nænnoes dååjrehtimmie</xt>
             </xg>
          </tg>
       </mg>
@@ -9231,6 +9231,48 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+    <e>
+      <lg>
+         <l pos="N">grendehus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N" soggi="a" stem="2syll">voenengåetie</t>
+         </tg>
+      </mg>
+   </e>  
+     <e>
+      <lg>
+         <l pos="N">samfunnshus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N" soggi="a" stem="2syll">seabredhgåetie</t>
+         </tg>
+      </mg>
+   </e>  
+   </e>  
+     <e>
+      <lg>
+         <l pos="N">flerbrukshall</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N" soggi="a" stem="2syll">måedtieåtnoehaalle</t>
+         </tg>
+      </mg>
+   </e>  
+    </e>  
+     <e>
+      <lg>
+         <l pos="N">hall</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N" soggi="a" stem="2syll">haalle</t>
+         </tg>
+      </mg>
+   </e>  
    <e>
       <lg>
          <l pos="N">ansvar</l>

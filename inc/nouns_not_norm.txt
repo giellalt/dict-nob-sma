@@ -92,9 +92,7 @@ unnemesfaaktore	unnies+A+Superl+Cmp/Attr+Cmp#faktore+Err/Orth+N+Sg+Nom
 unnemesfaaktore	onne+A+Superl+Cmp/SgNom+Cmp#faktore+Err/Orth+N+Sg+Nom
 unnemesfaaktore	onne+A+Superl+Cmp/Attr+Cmp#faktore+Err/Orth+N+Sg+Nom
 
-
 reakadaehtemesaejkie	reakadaehtemesaejkie	+?
-
 
 euro	euro	+?
 
