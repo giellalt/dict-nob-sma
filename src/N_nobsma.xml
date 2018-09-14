@@ -9263,11 +9263,53 @@ For the full license text, see the link above.</lic>
    </e>  
      <e>
       <lg>
+         <l pos="N">pengeoverføring</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N" soggi="a" stem="2syll">beetnehserteme</t>
+         </tg>
+      </mg>
+   </e>  
+    </e>  
+     <e>
+      <lg>
+         <l pos="N">affærtransaksjon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N" soggi="a" stem="2syll">åesiesserteme</t>
+         </tg>
+      </mg>
+   </e>    
+ 
+     <e>
+      <lg>
          <l pos="N">hall</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" soggi="a" stem="2syll">haalle</t>
+         </tg>
+      </mg>
+   </e> 
+    <e>
+      <lg>
+         <l pos="N">kassør</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N" soggi="a" stem="2syll">beetnehdïedteguedtije</t>
+         </tg>
+      </mg>
+   </e> 
+    <e>
+      <lg>
+         <l pos="N">ansvarlig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N" soggi="a" stem="2syll">dïedteguedtije</t>
          </tg>
       </mg>
    </e>  
