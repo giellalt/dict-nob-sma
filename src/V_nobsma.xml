@@ -10965,6 +10965,20 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
+         <l pos="V">utfordre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t minip="onlyPl" pos="V" stem="3syll">evtiedidh</t>
+            <xg>
+               <x>Hun skulle utfordre søstera si.</x>
+               <xt>Edtji åabpebem evtiedidh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="V">forlove seg</l>
       </lg>
       <mg>
