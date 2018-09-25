@@ -8714,6 +8714,26 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+     <e>
+      <lg>
+         <l pos="N">beredskapsgruppe</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N" soggi="ie" stem="2syll">ryöjredimmiedåehkie</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="N">fostermor</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N" soggi="ie" stem="2syll">beapmoeietnie</t>
+         </tg>
+      </mg>
+   </e>
    <e>
       <lg>
          <l pos="N">skar</l>
