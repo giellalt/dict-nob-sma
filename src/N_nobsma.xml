@@ -8704,6 +8704,27 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+    <e>
+      <lg>
+         <l pos="N">forrett</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N" soggi="ie" stem="2syll">åvtelh-maalese</t>
+         </tg>
+      </mg>
+   </e>    
+   </e>
+    <e>
+      <lg>
+         <l pos="N">myndighet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N" soggi="ie" stem="2syll">byjjesfaamoe</t>
+         </tg>
+      </mg>
+   </e>  
    <e>
       <lg>
          <l pos="N">flom</l>
@@ -8711,6 +8732,37 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" soggi="ie" stem="2syll">dulvie</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="N">voldshandling</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N" soggi="ie" stem="2syll">rantandahkoe</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="N">litteraturhistorieverk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N" soggi="ie" stem="2syll">litteratuvre-histovrijegærja</t>
+         </tg>
+      </mg>
+   </e>
+  </e>
+    <e>
+      <lg>
+         <l pos="N">misjonselskap</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N" soggi="ie" stem="2syll">misjovnesiebrie</t>
          </tg>
       </mg>
    </e>
