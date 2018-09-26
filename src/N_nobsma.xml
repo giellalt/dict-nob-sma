@@ -8776,6 +8776,28 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   </e>
+     <e>
+      <lg>
+         <l pos="N">solsystem</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N" soggi="ie" stem="2syll">biejjiesysteeme</t>
+         </tg>
+      </mg>
+   </e>
+    </e>
+     <e>
+      <lg>
+         <l pos="N">tilhenger</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N" soggi="ie" stem="2syll">dåarjoje</t>
+         </tg>
+      </mg>
+   </e> 
     <e>
       <lg>
          <l pos="N">fostermor</l>
