@@ -78923,6 +78923,16 @@ For the full license text, see the link above.</lic>
             <t pos="N">æbla</t>
          </tg>
       </mg>
+       <mg>
+         <tg xml:lang="sma">
+            <t pos="N">æpla</t>
+         </tg>
+      </mg>
+       <mg>
+         <tg xml:lang="sma">
+            <t pos="N">eahpele</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -78933,8 +78943,16 @@ For the full license text, see the link above.</lic>
             <t pos="N">æblagaahkoe</t>
          </tg>
       </mg>
-   </e>
-   
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">æplagaahkoe</t>
+         </tg>
+      </mg><mg>
+         <tg xml:lang="sma">
+            <t pos="N">eahpelegaahkoe</t>
+         </tg>
+      </mg>
+   </e> 
    <e src="gg">
       <lg>
          <l pos="N">president</l>
