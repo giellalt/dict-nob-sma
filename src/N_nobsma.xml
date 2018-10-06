@@ -8713,7 +8713,7 @@ For the full license text, see the link above.</lic>
             <t pos="N" soggi="ie" stem="2syll">åvtelh-maalese</t>
          </tg>
       </mg>
-   </e>    
+   </e>
     <e>
       <lg>
          <l pos="N">myndighet</l>
@@ -8723,7 +8723,7 @@ For the full license text, see the link above.</lic>
             <t pos="N" soggi="ie" stem="2syll">byjjesfaamoe</t>
          </tg>
       </mg>
-   </e>  
+   </e>
    <e>
       <lg>
          <l pos="N">flom</l>
@@ -8793,7 +8793,7 @@ For the full license text, see the link above.</lic>
             <t pos="N" soggi="ie" stem="2syll">dåarjoje</t>
          </tg>
       </mg>
-   </e> 
+   </e>
    <e>
       <lg>
          <l pos="N">avlatsbrev</l>
@@ -8803,7 +8803,7 @@ For the full license text, see the link above.</lic>
             <t pos="N" soggi="ie" stem="2syll">aantegesluejhteme-prievie</t>
          </tg>
       </mg>
-   </e> 
+   </e>
     <e>
       <lg>
          <l pos="N">fostermor</l>
@@ -9340,7 +9340,7 @@ For the full license text, see the link above.</lic>
             <t pos="N" soggi="a" stem="2syll">voenengåetie</t>
          </tg>
       </mg>
-   </e>  
+   </e>
      <e>
       <lg>
          <l pos="N">samfunnshus</l>
@@ -9350,7 +9350,7 @@ For the full license text, see the link above.</lic>
             <t pos="N" soggi="a" stem="2syll">seabredhgåetie</t>
          </tg>
       </mg>
-   </e>  
+   </e>
      <e>
       <lg>
          <l pos="N">flerbrukshall</l>
@@ -9360,7 +9360,7 @@ For the full license text, see the link above.</lic>
             <t pos="N" soggi="a" stem="2syll">måedtieåtnoehaalle</t>
          </tg>
       </mg>
-   </e>  
+   </e>
      <e>
       <lg>
          <l pos="N">pengeoverføring</l>
@@ -9370,7 +9370,7 @@ For the full license text, see the link above.</lic>
             <t pos="N" soggi="a" stem="2syll">beetnehserteme</t>
          </tg>
       </mg>
-   </e>  
+   </e>
      <e>
       <lg>
          <l pos="N">affærtransaksjon</l>
@@ -9380,8 +9380,8 @@ For the full license text, see the link above.</lic>
             <t pos="N" soggi="a" stem="2syll">åesiesserteme</t>
          </tg>
       </mg>
-   </e>    
- 
+   </e>
+
      <e>
       <lg>
          <l pos="N">hall</l>
@@ -9391,7 +9391,7 @@ For the full license text, see the link above.</lic>
             <t pos="N" soggi="a" stem="2syll">haalle</t>
          </tg>
       </mg>
-   </e> 
+   </e>
     <e>
       <lg>
          <l pos="N">kassør</l>
@@ -9401,7 +9401,7 @@ For the full license text, see the link above.</lic>
             <t pos="N" soggi="a" stem="2syll">beetnehdïedteguedtije</t>
          </tg>
       </mg>
-   </e> 
+   </e>
     <e>
       <lg>
          <l pos="N">ansvarlig</l>
@@ -9416,7 +9416,7 @@ For the full license text, see the link above.</lic>
             <t pos="N" soggi="a" stem="2syll">dïedteguedtije</t>
          </tg>
       </mg>
-   </e>  
+   </e>
    <e>
       <lg>
          <l pos="N">ansvar</l>
@@ -27400,7 +27400,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    </e>
      <e>
       <lg>
          <l pos="N">diskriminering</l>
@@ -27410,7 +27409,7 @@ For the full license text, see the link above.</lic>
             <t pos="N" soggi="oe" stem="2syll">dïedtelgimmie</t>
          </tg>
       </mg>
-   </e> 
+   </e>
    <e>
       <lg>
          <l pos="N">forsoning</l>
@@ -78983,7 +78982,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">eahpelegaahkoe</t>
          </tg>
       </mg>
-   </e> 
+   </e>
    <e src="gg">
       <lg>
          <l pos="N">president</l>
