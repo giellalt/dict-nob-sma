@@ -7832,6 +7832,20 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   
+    <e>
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Dolstad</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>Vefsn</re>
+            <t pos="N" type="Prop">Dållesijjie</t>
+         </tg>
+      </mg>
+   </e>
+
+   
    <e>
       <lg>
          <l pos="N" type="Prop" sem_type="Plc">Bæråsen</l>
