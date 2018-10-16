@@ -1,6 +1,4 @@
-
 studio	studio	+?
-
 
 akkalasaemiengïele	akkalasaemiengïele	+?
 
@@ -19,8 +17,6 @@ Indoneesia	Indonesije+Err/Orth+N+Prop+Sem/Plc+Attr
 Indoneesia	Indonesije+Err/Orth+N+Prop+Sem/Plc+Sg+Nom
 Indoneesia	Indonesije+Err/Orth+N+Prop+Sem/Sur+Attr
 Indoneesia	Indonesije+Err/Orth+N+Prop+Sem/Sur+Sg+Nom
-
-Berlijne	Berlijne	+?
 
 Bovdene	Boden+Err/Orth+N+Prop+Sem/Plc+Sg+Nom
 Bovdene	Boden+Err/Orth+N+Prop+Sem/Sur+Sg+Nom
@@ -43,7 +39,7 @@ Gaajhtjaevrie	Gaajhtsjaevrie+Err/Orth+N+Prop+Sem/Plc+Sg+Nom
 
 Guertiesmehkienbavne	Guertiesmehkienbavne	+?
 
-øørte	Tjirrientjahke+Err/Orth+N+Prop+Sem/Plc+Attr
+Kjerringtjahke	Tjirrientjahke+Err/Orth+N+Prop+Sem/Plc+Attr
 Kjerringtjahke	Tjirrientjahke+Err/Orth+N+Prop+Sem/Plc+Sg+Nom
 
 Sijdurrie	Sïjtdurrie+Err/Orth+N+Prop+Sem/Plc+Attr
@@ -62,6 +58,8 @@ Gyørte	geartodh+V+TV+Ind+Prs+Sg3
 Gyørte	Györte+N+Prop+Sem/Plc+Attr
 Gyørte	Györte+N+Prop+Sem/Plc+Sg+Nom
 
+Aarporte	Aarborte+Err/Orth+N+Prop+Sem/Plc+Attr
+Aarporte	Aarborte+Err/Orth+N+Prop+Sem/Plc+Sg+Nom
 
 Röörovse	Røros+Err/Orth+N+Prop+Sem/Plc+Attr
 Röörovse	Røros+Err/Orth+N+Prop+Sem/Plc+Sg+Nom
@@ -70,28 +68,14 @@ Liksjuo	Liksjuo	+?
 
 Ruosskuo	Ruosskuo	+?
 
-
-tjueniejåanghkoe	tjueniejåanghkoe	+?
+tjåenietjåanghkoe	tjåenietjåanghkoe	+?
 
 kaarhteeprogramme	kaarhteeprogramme	+?
 
 eejehteaske	eejehteaske	+?
 
-aalkoealmetjeprosjekte	aalkoe+v1+Err/Orth+N+Cmp/SgNom+Cmp#almetje+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
-aalkoealmetjeprosjekte	aalkoe+v1+N+Cmp/SgNom+Cmp#almetje+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
-aalkoealmetjeprosjekte	aalkoealmetje+N+Cmp/SgNom+Cmp#prosjeekte+N+Err/Orth+Sg+Nom
+byjjeselaake	byjjeselaake	+?
 
-prosjekteohtseme	prosjeekte+N+Err/Orth+Cmp/SgNom+Cmp#ohtsedh+V+TV+Der/PassS+V+IV+Der/NomAct+N+Sg+Nom
-prosjekteohtseme	prosjeekte+N+Err/Orth+Cmp/SgNom+Cmp#ohtsedh+V+TV+Der/NomAct+N+Sg+Nom
-prosjekteohtseme	prosjeekte+N+Err/Orth+Cmp/SgNom+Cmp#ohtseme+N+Sg+Nombyjjeselaake	byjjeselaake	+?
-
-kultuvrefaaktore	kultuvre+N+Cmp/SgNom+Cmp#faktore+Err/Orth+N+Sg+Nom
-
-unnemesfaaktore	unnies+A+Superl+Cmp/SgNom+Cmp#faktore+Err/Orth+N+Sg+Nom
-unnemesfaaktore	unnies+A+Superl+Cmp/Attr+Cmp#faktore+Err/Orth+N+Sg+Nom
-unnemesfaaktore	onne+A+Superl+Cmp/SgNom+Cmp#faktore+Err/Orth+N+Sg+Nom
-unnemesfaaktore	onne+A+Superl+Cmp/Attr+Cmp#faktore+Err/Orth+N+Sg+Nom
-ç
 reakadaehtemesaejkie	reakadaehtemesaejkie	+?
 
 euro	euro	+?
@@ -101,6 +85,8 @@ mearoelaahpehtsh	mearoelaahpehtsh	+?
 observatorijumme	observatorijumme	+?
 
 sjædtoe-dilhkesh	sjædtoe-dilhkesh	+?
+
+staaten-årroedahke	staaten-årroedahke	+?
 
 gaarsjestadijumme	gaarsjestadijumme	+?
 
