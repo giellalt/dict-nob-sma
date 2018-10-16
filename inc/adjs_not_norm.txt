@@ -1,64 +1,65 @@
-gaahtsehks	gaahtsehkes+Err/Orth+A+Attr	0,000000
-gaahtsehks	gaahtsehkes+Err/Orth+A+Sg+Nom	0,000000
+gaahtsehks	gaahtsehkes+Err/Orth+A+Attr
+gaahtsehks	gaahtsehkes+Err/Orth+A+Sg+Nom
 
-gaahtsehks	gaahtsehkes+Err/Orth+A+Attr	0,000000
-gaahtsehks	gaahtsehkes+Err/Orth+A+Sg+Nom	0,000000
+gaahtsehks	gaahtsehkes+Err/Orth+A+Attr
+gaahtsehks	gaahtsehkes+Err/Orth+A+Sg+Nom
 
-njåajjah	njåajjah+?	inf
+njåajjah	njåajjah	+?
 
-golmenlïhtsen	golmenlïhtsen+?	inf
+golmenlïhtsen	golmenlïhtsen	+?
 
-sleagrah	sleagrah+?	inf
+sleagrah	sleagrah	+?
 
-sleagrah	sleagrah+?	inf
+sleagrah	sleagrah	+?
 
-vealah	vealah+?	inf
+vealah	vealah	+?
 
-daaroengïeleldh	daaroengïeleh+Err/Orth+A+Attr	0,000000
-daaroengïeleldh	daaroengïeleh+Err/Orth+A+Sg+Nom	0,000000
-daaroengïeleldh	daaroengïeleh+Err/Orth+A+Sg+Pl	0,000000
+daaroengïeleldh	daaroengïeleh+Err/Orth+A+Attr
+daaroengïeleldh	daaroengïeleh+Err/Orth+A+Sg+Nom
+daaroengïeleldh	daaroengïeleh+Err/Orth+A+Sg+Pl
 
-sjeaovhth	sjeaovhth+?	inf
+sjeaovhth	sjeaovhth	+?
 
-guaktengïeleldh	guaktengïeleldh+?	inf
+guaktengïeleldh	guaktengïeleldh	+?
 
-gelliengïeledh	gelliengïeledh+?	inf
+gelliengïeledh	gelliengïeledh	+?
 
-dæjpeladtje	dæjpeladtje+?	inf
+dæjpeladtje	dæjpeladtje	+?
 
-daaroengïeleldh	daaroengïeleh+Err/Orth+A+Attr	0,000000
-daaroengïeleldh	daaroengïeleh+Err/Orth+A+Sg+Nom	0,000000
-daaroengïeleldh	daaroengïeleh+Err/Orth+A+Sg+Pl	0,000000
+daaroengïeleldh	daaroengïeleh+Err/Orth+A+Attr
+daaroengïeleldh	daaroengïeleh+Err/Orth+A+Sg+Nom
+daaroengïeleldh	daaroengïeleh+Err/Orth+A+Sg+Pl
 
-aktengïeleldh	aktengïeleh+Err/Orth+A+Attr	0,000000
-aktengïeleldh	aktengïeleh+Err/Orth+A+Sg+Nom	0,000000
-aktengïeleldh	aktengïeleh+Err/Orth+A+Sg+Pl	0,000000
+aktengïeleldh	aktengïeleh+Err/Orth+A+Attr
+aktengïeleldh	aktengïeleh+Err/Orth+A+Sg+Nom
+aktengïeleldh	aktengïeleh+Err/Orth+A+Sg+Pl
 
-laantenvijries	laantenvijries+?	inf
+laantenvijries	laantenvijries	+?
 
-joekehts-laakan	joekehts+A+Der/laakan+Err/Orth+Adv	10,000000
-joekehts-laakan	joekehtslaakan+Err/Orth+Adv	10,000000
-joekehts-laakan	joekehts+A+Cmp/Attr+Cmp/Hyph+Cmp#laake+Err/Orth+N+Sg+Gen	20,000000
-joekehts-laakan	joekehts+N+Cmp/SgNom+Cmp/Hyph+Cmp#laake+Err/Orth+N+Sg+Gen	20,000000
+joekehts-laakan	joekehts+A+Cmp/Attr+Cmp/Hyph+Cmp#laake+Err/Orth+N+Sg+Gen
+joekehts-laakan	joekehts+A+Der/laakan+Err/Orth+Adv
+joekehts-laakan	joekehtslaakan+Err/Orth+Adv
+joekehts-laakan	joekehts+N+Cmp/SgNom+Cmp/Hyph+Cmp#laake+Err/Orth+N+Sg+Gen
 
-riekte	rïekte+A+Attr	0,000000
-riekte	rïekte+Adv	0,000000
+riekte	rïekte+A+Sg+Nom
+riekte	rïekte+A+Attr
+riekte	rïekte+Adv
 
-siejhme	sïejhme+A+Attr	0,000000
-siejhme	sïejhme+A+Sg+Nom	0,000000
-siejhme	sïejhme+N+Sg+Nom	0,000000
+siejhme	sïejhme+A+Sg+Nom
+siejhme	sïejhme+A+Attr
+siejhme	sïejhme+N+Sg+Nom
 
-kvihke	kvïhke+A+Attr	0,000000
-kvihke	kvïhke+A+Sg+Nom	0,000000
+kvihke	kvïhke+A+Sg+Nom
+kvihke	kvïhke+A+Attr
 
-earoladtje	earoladtje+?	inf
+earoladtje	earoladtje	+?
 
-beltehks	beltehks+?	inf
+beltehks	beltehks	+?
 
-barkehts	barkehts+?	inf
+barkehts	barkehts	+?
 
-ov-rovne	ovrovne+Err/Orth+A+Attr	10,000000
-ov-rovne	ovrovne+Err/Orth+A+Sg+Nom	10,000000
+ov-rovne	ovrovne+Err/Orth+A+Sg+Nom
+ov-rovne	ovrovne+Err/Orth+A+Attr
 
-protestantiske	protestantiske+?	inf
+protestantiske	protestantiske	+?
 
