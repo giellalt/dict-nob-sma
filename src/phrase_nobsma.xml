@@ -44,11 +44,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase" type="indef">et eller annet</l>
+         <l pos="Phrase" type="Indef">et eller annet</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="indef">mij akt</t>
+            <t pos="Pron" type="Indef">mij akt</t>
             <xg>
                <x>Der borte i skogen var det et eller annet som rørte på seg.</x>
                <xt>Dunnie skåajjesne mij akt svïhtji.</xt>
@@ -57,7 +57,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="indef">maam akt</t>
+            <t pos="Pron" type="Indef">maam akt</t>
             <xg>
                <x>Vi må jo gjøre et eller annet.</x>
                <xt>Mijjieh hov tjoeveribie maam akt darjodh.</xt>
@@ -66,7 +66,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="indef">man akt</t>
+            <t pos="Pron" type="Indef">man akt</t>
             <xg>
                <x>Og så begynte læreren å fortelle om ett eller annet, men jeg forsto ingenting av det.</x>
                <xt>Dellie dïhte lohkehtæjja eelki man akt bïjre soptsestidh, men idtjim manne maamkh destie guarkah.</xt>
@@ -76,11 +76,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase" type="indef">til et eller annet</l>
+         <l pos="Phrase" type="Indef">til et eller annet</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="indef">mïsse akt</t>
+            <t pos="Pron" type="Indef">mïsse akt</t>
             <xg>
                <x>Det går sikkert an å bruke dette til et eller annet også.</x>
                <xt>Nov gujht gåarede dam aaj mïsse akt nuhtjedh.</xt>
@@ -89,7 +89,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="indef">masse akt</t>
+            <t pos="Pron" type="Indef">masse akt</t>
             <xg>
                <x>Det går sikkert an å bruke dette til et eller annet også.</x>
                <xt>Nov gujht gåarede dam aaj masse akt nuhtjedh.</xt>
@@ -99,11 +99,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase" type="indef">i et eller annet</l>
+         <l pos="Phrase" type="Indef">i et eller annet</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="indef">mesnie akt</t>
+            <t pos="Pron" type="Indef">mesnie akt</t>
             <xg>
                <x>Jeg husker ikke om det var i eska eller i sekken, men jeg husker at det var i et eller annet på
                kjøkkenet.</x>
@@ -114,11 +114,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase" type="indef">fra et eller annet</l>
+         <l pos="Phrase" type="Indef">fra et eller annet</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="indef">mestie akt</t>
+            <t pos="Pron" type="Indef">mestie akt</t>
             <xg>
                <x>Jeg vet ikke hva jeg skal sy veska av, men jeg må nok sy av et eller annet som jeg har i denne
                posen.</x>
@@ -130,11 +130,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase" type="indef">med et eller annet</l>
+         <l pos="Phrase" type="Indef">med et eller annet</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="indef">mejnie akt</t>
+            <t pos="Pron" type="Indef">mejnie akt</t>
             <xg>
                <x>Han kom til meg med et eller annet, og ba meg gi det til Laara.</x>
                <xt>Dïhte mejnie akt mov gåajkoe bööti jïh mannem stilli dam Laarese vedtedh.</xt>
@@ -144,11 +144,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase" type="indef">en eller annen</l>
+         <l pos="Phrase" type="Indef">en eller annen</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="indef">gie akt</t>
+            <t pos="Pron" type="Indef">gie akt</t>
             <xg>
                <x>Her har det nok vært noen tidligere.</x>
                <xt>Daesnie gujht gie akt aarebi orreme.</xt>
@@ -157,7 +157,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="indef">gïem akt</t>
+            <t pos="Pron" type="Indef">gïem akt</t>
             <xg>
                <x>Jeg hørte en eller annen i fra det huset.</x>
                <xt>Manne gïem akt dehtie gåeteste govlim.</xt>
@@ -166,7 +166,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="indef">geam akt</t>
+            <t pos="Pron" type="Indef">geam akt</t>
             <xg>
                <x>Jeg hørte en eller annen i fra det huset.</x>
                <xt>Manne geam akt dehtie gåeteste govlim.</xt>
@@ -176,11 +176,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase" type="indef">en eller annens</l>
+         <l pos="Phrase" type="Indef">en eller annens</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="indef">gïen akt</t>
+            <t pos="Pron" type="Indef">gïen akt</t>
             <xg>
                <x>Jeg vet ikke hvem sin dette her er, men en eller annens er det.</x>
                <xt>Im daejrieh gïen daate lea, men gïen akt lea.</xt>
@@ -189,7 +189,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="indef">gean akt</t>
+            <t pos="Pron" type="Indef">gean akt</t>
             <xg>
                <x>Jeg vet ikke hvem sin dette her er, men en eller annens er det.</x>
                <xt>Im daejrieh gean daate lea, men gean akt lea.</xt>
@@ -199,11 +199,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase" type="indef">til en eller annen</l>
+         <l pos="Phrase" type="Indef">til en eller annen</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="indef">gïese akt</t>
+            <t pos="Pron" type="Indef">gïese akt</t>
             <xg>
                <x>Jeg må ringe til en eller annen.</x>
                <xt>Manne tjoeverem gïese akt ringkedh.</xt>
@@ -212,7 +212,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="indef">gease akt</t>
+            <t pos="Pron" type="Indef">gease akt</t>
             <xg>
                <x>Jeg må ringe til en eller annen.</x>
                <xt>Manne tjoeverem gease akt ringkedh.</xt>
@@ -222,21 +222,21 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase" type="indef">hos en eller annen</l>
+         <l pos="Phrase" type="Indef">hos en eller annen</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="indef">giesnie akt</t>
+            <t pos="Pron" type="Indef">giesnie akt</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Phrase" type="indef">fra en eller annen</l>
+         <l pos="Phrase" type="Indef">fra en eller annen</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="indef">giestie akt</t>
+            <t pos="Pron" type="Indef">giestie akt</t>
             <xg>
                <x>Jeg hørte det fra en eller annen på skolen.</x>
                <xt>Manne dam giestie akt skuvlesne govlim.</xt>
@@ -246,11 +246,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase" type="indef">med en eller annen</l>
+         <l pos="Phrase" type="Indef">med en eller annen</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="indef">giejnie akt</t>
+            <t pos="Pron" type="Indef">giejnie akt</t>
             <xg>
                <x>Behøver du en eller annen å prate med?</x>
                <xt>Daarpesjh goh giejnie akt soptsestidh?</xt>

@@ -69,7 +69,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pg="no" pos="Pron" type="indef">såemies</t>
+            <t pg="no" pos="Pron" type="Indef">såemies</t>
             <xg>
                <x>Noen skoler skal tilby undervisning i samisk.</x>
                <xt>Såemies skuvlh edtjieh ööhpehtimmiem saemiengïelesne faaledh.</xt>
@@ -99,11 +99,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="dem">den</l>
+         <l pos="Pron" type="Dem">den</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">dïhte</t>
+            <t pos="Pron" type="Dem">dïhte</t>
             <xg>
                <x>Er den lua di?</x>
                <xt>Dïhte tjohpe lea dov?</xt>
@@ -112,7 +112,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">dam</t>
+            <t pos="Pron" type="Dem">dam</t>
             <xg>
                <x>Har du strikket den lua sjøl?</x>
                <xt>Dam tjohpem jïjtje gårreme?</xt>
@@ -121,7 +121,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">dan</t>
+            <t pos="Pron" type="Dem">dan</t>
             <xg>
                <x>Den lua har ingen dusk.</x>
                <xt>Dan tjohpen ij naan duahpa.</xt>
@@ -131,7 +131,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re>nærmere deg enn meg</re>
-            <t pos="Pron" type="dem">doete</t>
+            <t pos="Pron" type="Dem">doete</t>
             <xg>
                <x>Det bordet ved siden av deg er nytt.</x>
                <xt>Doete buertie orre.</xt>
@@ -141,7 +141,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re>nærmere deg enn meg</re>
-            <t pos="Pron" type="dem">doem</t>
+            <t pos="Pron" type="Dem">doem</t>
             <xg>
                <x>Det bordet der brakte bestefar hit.</x>
                <xt>Doem buertiem aajja böökti diekie.</xt>
@@ -169,11 +169,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="dem">til den</l>
+         <l pos="Pron" type="Dem">til den</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">dan</t>
+            <t pos="Pron" type="Dem">dan</t>
             <xg>
                <x>Til den lua må du knytte en dusk.</x>
                <xt>Dan tjohpese tjoeverh duahpam gårredidh.</xt>
@@ -183,13 +183,13 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re>nærmere deg enn meg</re>
-            <t pos="Pron" type="dem">doen</t>
+            <t pos="Pron" type="Dem">doen</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
             <re>nærmere deg enn meg</re>
-            <t pos="Pron" type="dem">doese</t>
+            <t pos="Pron" type="Dem">doese</t>
             <xg>
                <x>Legg boka på det bordet!</x>
                <xt>Bïejh gærjam doen buartan!</xt>
@@ -199,11 +199,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="dem">i den</l>
+         <l pos="Pron" type="Dem">i den</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">dennie</t>
+            <t pos="Pron" type="Dem">dennie</t>
             <xg>
                <x>Vi to skulle se hva som var i den store pakken.</x>
                <xt>Månnoeh edtjimen goevlestidh mij dennie stoerre pahkesne.</xt>
@@ -213,11 +213,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="dem">fra den</l>
+         <l pos="Pron" type="Dem">fra den</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">dehtie</t>
+            <t pos="Pron" type="Dem">dehtie</t>
             <xg>
                <x>Av den lua ser du hvem det er.</x>
                <xt>Dehtie tjohpeste vuajna gie lea.</xt>
@@ -227,7 +227,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re>nærmere deg enn meg</re>
-            <t pos="Pron" type="dem">duestie</t>
+            <t pos="Pron" type="Dem">duestie</t>
             <xg>
                <x>Det kom fra den.</x>
                <xt>Duestie bööti.</xt>
@@ -237,7 +237,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re>nærmere deg enn meg</re>
-            <t pos="Pron" type="dem">duehtie</t>
+            <t pos="Pron" type="Dem">duehtie</t>
             <xg>
                <x>Det kom fra det bordet.</x>
                <xt>Duehtie buerteste bööti.</xt>
@@ -247,11 +247,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="dem">med den</l>
+         <l pos="Pron" type="Dem">med den</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t nr="Sg" pos="Pron" type="dem">dejnie</t>
+            <t nr="Sg" pos="Pron" type="Dem">dejnie</t>
             <xg>
                <x>Du kan gå til skolen med den lua.</x>
                <xt>Dejnie tjohpine maahta skuvlese vaedtsedh.</xt>
@@ -261,7 +261,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re>nærmere deg enn meg</re>
-            <t nr="Sg" pos="Pron" type="dem">duejnie</t>
+            <t nr="Sg" pos="Pron" type="Dem">duejnie</t>
             <xg>
                <x>Det blir fint med det bordet.</x>
                <xt>Tjaebpie sjædta duejnie buertine.</xt>
@@ -271,11 +271,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="dem">de</l>
+         <l pos="Pron" type="Dem">de</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">dah</t>
+            <t pos="Pron" type="Dem">dah</t>
             <xg>
                <x>De husene er våre!</x>
                <xt>Dah gåetieh leah mijjen!</xt>
@@ -284,7 +284,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">dejtie</t>
+            <t pos="Pron" type="Dem">dejtie</t>
             <xg>
                <x>Du må vaske de husene!</x>
                <xt>Dejtie gåetide tjoeverh bïssedh!</xt>
@@ -303,11 +303,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="dem">til dem</l>
+         <l pos="Pron" type="Dem">til dem</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">dejtie</t>
+            <t pos="Pron" type="Dem">dejtie</t>
             <xg>
                <x>Til de nye husene skal jeg kjøpe nye dører.</x>
                <xt>Dejtie gåetide edtjem orre oksh åestedh.</xt>
@@ -326,11 +326,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="dem">deres</l>
+         <l pos="Pron" type="Dem">deres</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">dej</t>
+            <t pos="Pron" type="Dem">dej</t>
             <xg>
                <x>Jeg måtte natt og dag være i nærheten av de reinsimlene.</x>
                <xt>Tjïehtim jïjjh biejjieh dej aaltoej lïhke.</xt>
@@ -382,11 +382,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="dem">med dem</l>
+         <l pos="Pron" type="Dem">med dem</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">dej</t>
+            <t pos="Pron" type="Dem">dej</t>
             <xg>
                <x>Mor skal snakke med de folkene.</x>
                <xt>Tjidtjie edtja soptsestidh dej almetjigujmie.</xt>
@@ -405,11 +405,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="dem">i dem</l>
+         <l pos="Pron" type="Dem">i dem</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t nr="Pl" pos="Pron" type="dem">dejnie</t>
+            <t nr="Pl" pos="Pron" type="Dem">dejnie</t>
             <xg>
                <x>I de husene er det mye å gjøre.</x>
                <xt>Dejnie gåetine jïjnjem darjodh.</xt>
@@ -418,7 +418,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">dejstie</t>
+            <t pos="Pron" type="Dem">dejstie</t>
             <xg>
                <x>Man får stor glede av de husene.</x>
                <xt>Dejstie gåetijste jïjnje aavoem åådtje.</xt>
@@ -433,11 +433,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="dem">denne</l>
+         <l pos="Pron" type="Dem">denne</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">daate</t>
+            <t pos="Pron" type="Dem">daate</t>
             <xg>
                <x>Dette huset er mitt.</x>
                <xt>Daate gåetie lea mov.</xt>
@@ -446,7 +446,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">daam</t>
+            <t pos="Pron" type="Dem">daam</t>
             <xg>
                <x>Dette huset har jeg kjøpt.</x>
                <xt>Daam gåetiem leam åasteme.</xt>
@@ -455,7 +455,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">daan</t>
+            <t pos="Pron" type="Dem">daan</t>
             <xg>
                <x>Dette huset har to dører og tre vinduer.</x>
                <xt>Daan gåetien göökte oksh jïh golme klaash.</xt>
@@ -465,11 +465,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="dem">til denne</l>
+         <l pos="Pron" type="Dem">til denne</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">daan</t>
+            <t pos="Pron" type="Dem">daan</t>
             <xg>
                <x>Til dette huset flyttet jeg i fjor.</x>
                <xt>Daan gåatan dæjman juhtiejim.</xt>
@@ -478,7 +478,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">daase</t>
+            <t pos="Pron" type="Dem">daase</t>
             <xg>
                <x>Til dette flyttet jeg i fjor.</x>
                <xt>Daase dæjman juhtiejim.</xt>
@@ -488,11 +488,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="dem">i denne</l>
+         <l pos="Pron" type="Dem">i denne</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">daesnie</t>
+            <t pos="Pron" type="Dem">daesnie</t>
             <xg>
                <x>Til dette flyttet jeg i fjor.</x>
                <xt>Daase dæjman juhtiejim.</xt>
@@ -501,7 +501,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">daennie</t>
+            <t pos="Pron" type="Dem">daennie</t>
             <xg>
                <x>I dette huset trives jeg.</x>
                <xt>Daennie gåetesne murredem.</xt>
@@ -510,22 +510,22 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t nr="Pl" pos="Pron" type="dem">daejnie</t>
+            <t nr="Pl" pos="Pron" type="Dem">daejnie</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="dem">fra denne</l>
+         <l pos="Pron" type="Dem">fra denne</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">daestie</t>
+            <t pos="Pron" type="Dem">daestie</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">daehtie</t>
+            <t pos="Pron" type="Dem">daehtie</t>
             <xg>
                <x>Fra dette huset er det langt til byen.</x>
                <xt>Daehtie gåeteste lea gåhkese staarese.</xt>
@@ -535,11 +535,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="dem">med denne</l>
+         <l pos="Pron" type="Dem">med denne</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t nr="Sg" pos="Pron" type="dem">daejnie</t>
+            <t nr="Sg" pos="Pron" type="Dem">daejnie</t>
             <xg>
                <x>Med dette huset berges jeg lenge.</x>
                <xt>Daejnie gåetine guhkiem bearkedem.</xt>
@@ -549,11 +549,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="dem">disse</l>
+         <l pos="Pron" type="Dem">disse</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">daah</t>
+            <t pos="Pron" type="Dem">daah</t>
             <xg>
                <x>Disse vottene er mine.</x>
                <xt>Daah vaanhtsh leah mov.</xt>
@@ -562,7 +562,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">daejtie</t>
+            <t pos="Pron" type="Dem">daejtie</t>
             <xg>
                <x>Disse vottene kjøpte jeg i fjor.</x>
                <xt>Daejtie vaanhtside dæjman ööstim.</xt>
@@ -572,11 +572,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="dem">til disse</l>
+         <l pos="Pron" type="Dem">til disse</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">daejtie</t>
+            <t pos="Pron" type="Dem">daejtie</t>
             <xg>
                <x>Jeg skal sy lommer i disse buksene.</x>
                <xt>Manne edtjem daejtie måvhkide låammah gåarodh.</xt>
@@ -586,11 +586,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="dem">disses</l>
+         <l pos="Pron" type="Dem">disses</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">daaj</t>
+            <t pos="Pron" type="Dem">daaj</t>
             <xg>
                <x>Disse vottene har dusker på hver finger!</x>
                <xt>Daaj vaanhtsi leah duahpah fïereguhtine soermine!</xt>
@@ -599,7 +599,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">daej</t>
+            <t pos="Pron" type="Dem">daej</t>
             <xg>
                <x>Disse vottene har dusker på hver finger!</x>
                <xt>Daej vaanhtsi leah duahpah fïereguhtine soermine!</xt>
@@ -609,11 +609,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="dem">med disse</l>
+         <l pos="Pron" type="Dem">med disse</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">daaj</t>
+            <t pos="Pron" type="Dem">daaj</t>
             <xg>
                <x>Jeg berges lenge med disse vottene.</x>
                <xt>Daaj vaanhtsigujmie guhkiem bearkedem.</xt>
@@ -622,7 +622,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">daej</t>
+            <t pos="Pron" type="Dem">daej</t>
             <xg>
                <x>Jeg berges lenge med disse vottene.</x>
                <xt>Daej vaanhtsigujmie guhkiem bearkedem.</xt>
@@ -631,7 +631,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">daajgujmie</t>
+            <t pos="Pron" type="Dem">daajgujmie</t>
             <xg>
                <x>Jeg drar hjem med disse.</x>
                <xt>Manne gåatan vualkam daajgujmie.</xt>
@@ -640,7 +640,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">daejgujmie</t>
+            <t pos="Pron" type="Dem">daejgujmie</t>
             <xg>
                <x>Jeg drar hjem med disse.</x>
                <xt>Manne gåatan vualkam daejgujmie.</xt>
@@ -650,11 +650,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="dem">fra disse</l>
+         <l pos="Pron" type="Dem">fra disse</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">daejstie</t>
+            <t pos="Pron" type="Dem">daejstie</t>
             <xg>
                <x>Fra disse husene er det ganske langt til butikken.</x>
                <xt>Daejstie gåetijste lea naa gåhkese bovrese.</xt>
@@ -664,12 +664,12 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="dem">den sitt</l>
+         <l pos="Pron" type="Dem">den sitt</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re>nærmere deg enn meg</re>
-            <t pos="Pron" type="dem">doen</t>
+            <t pos="Pron" type="Dem">doen</t>
             <xg>
                <x>Det bordet har svarte bein.</x>
                <xt>Doen buertien tjeehpes juelkieh.</xt>
@@ -679,12 +679,12 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="dem">hos den</l>
+         <l pos="Pron" type="Dem">hos den</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re>nærmere deg enn meg</re>
-            <t pos="Pron" type="dem">duesnie</t>
+            <t pos="Pron" type="Dem">duesnie</t>
             <xg>
                <x>I den der borte er koppen.</x>
                <xt>Duesnie lea dïhte kåahpe.</xt>
@@ -694,7 +694,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re>nærmere deg enn meg</re>
-            <t pos="Pron" type="dem">duennie</t>
+            <t pos="Pron" type="Dem">duennie</t>
             <xg>
                <x>På det bordet er koppen.</x>
                <xt>Duennie buertesne lea dïhte kåahpe.</xt>
@@ -704,12 +704,12 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="dem">de der</l>
+         <l pos="Pron" type="Dem">de der</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re>nærmere deg enn meg</re>
-            <t pos="Pron" type="dem">doeh</t>
+            <t pos="Pron" type="Dem">doeh</t>
             <xg>
                <x>De der buksene er nye.</x>
                <xt>Doeh måvhkah orre.</xt>
@@ -719,7 +719,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re>nærmere deg enn meg</re>
-            <t pos="Pron" type="dem">duejtie</t>
+            <t pos="Pron" type="Dem">duejtie</t>
             <xg>
                <x>La de der buksene være!</x>
                <xt>Baajh duejtie måvhkide årrodh!</xt>
@@ -729,12 +729,12 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="dem">til de der</l>
+         <l pos="Pron" type="Dem">til de der</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re>nærmere deg enn meg_SWE</re>
-            <t pos="Pron" type="dem">duejtie</t>
+            <t pos="Pron" type="Dem">duejtie</t>
             <xg>
                <x>Jeg skal kjøpe nye knapper til de buksene.</x>
                <xt>Manne edtjem duejtie måvhkide orre båaloeh åestedh.</xt>
@@ -744,12 +744,12 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="dem">de der sine</l>
+         <l pos="Pron" type="Dem">de der sine</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re>nærmere deg enn meg</re>
-            <t pos="Pron" type="dem">doej</t>
+            <t pos="Pron" type="Dem">doej</t>
             <xg>
                <x>De buksene har også lommer.</x>
                <xt>Doej måvhkaj leah aaj låammah.</xt>
@@ -759,12 +759,12 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="dem">med de der</l>
+         <l pos="Pron" type="Dem">med de der</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re>nærmere deg enn meg</re>
-            <t pos="Pron" type="dem">doej</t>
+            <t pos="Pron" type="Dem">doej</t>
             <xg>
                <x>Det er behagelig å gå med de buksene.</x>
                <xt>Doj måvhkajgujmie hijven vaedtsedh.</xt>
@@ -774,7 +774,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re>nærmere deg enn meg</re>
-            <t pos="Pron" type="dem">doejgujmie</t>
+            <t pos="Pron" type="Dem">doejgujmie</t>
             <xg>
                <x>Det er behagelig å gå med de der.</x>
                <xt>Doejgujmie hijven vaedtsedh.</xt>
@@ -784,23 +784,23 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="dem">hos de der</l>
+         <l pos="Pron" type="Dem">hos de der</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re>nærmere deg enn meg</re>
-            <t nr="Pl" pos="Pron" type="dem">duejnie</t>
+            <t nr="Pl" pos="Pron" type="Dem">duejnie</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="dem">fra de der</l>
+         <l pos="Pron" type="Dem">fra de der</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re>nærmere deg enn meg</re>
-            <t pos="Pron" type="dem">duejstie</t>
+            <t pos="Pron" type="Dem">duejstie</t>
             <xg>
                <x>Av de nyvaskede buksene lukter det godt.</x>
                <xt>Duejstie bïsseldihkie måvhkijste njaelkieslaakan hapsoe.</xt>
@@ -810,11 +810,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="dem">den der borte</l>
+         <l pos="Pron" type="Dem">den der borte</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">dohte</t>
+            <t pos="Pron" type="Dem">dohte</t>
             <xg>
                <x>Den der tønna ser så full ut.</x>
                <xt>Dohte geegke dan dïeves vååjnoe.</xt>
@@ -823,7 +823,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">dom</t>
+            <t pos="Pron" type="Dem">dom</t>
             <xg>
                <x>Bring den tønna hit!</x>
                <xt>Buektieh dom geegkem diekie!</xt>
@@ -837,7 +837,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">dohte</t>
+            <t pos="Pron" type="Dem">dohte</t>
             <xg>
                <x>Å, den der ungen!</x>
                <xt>Å dohte maana jis!</xt>
@@ -847,11 +847,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="dem">den der borte sin</l>
+         <l pos="Pron" type="Dem">den der borte sin</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">don</t>
+            <t pos="Pron" type="Dem">don</t>
             <xg>
                <x>Dette er den der tønnas lokk.</x>
                <xt>Daate lea don geegken luehkie.</xt>
@@ -861,11 +861,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="dem">til den der borte</l>
+         <l pos="Pron" type="Dem">til den der borte</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">don</t>
+            <t pos="Pron" type="Dem">don</t>
             <xg>
                <x>Disse skal til den tønna der borte.</x>
                <xt>Dah edtjieh don geegkese.</xt>
@@ -874,7 +874,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">dosse</t>
+            <t pos="Pron" type="Dem">dosse</t>
             <xg>
                <x>Disse skal til den der borte.</x>
                <xt>Dah edtjieh dosse.</xt>
@@ -884,11 +884,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="dem">i den der borte</l>
+         <l pos="Pron" type="Dem">i den der borte</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">dusnie</t>
+            <t pos="Pron" type="Dem">dusnie</t>
             <xg>
                <x>I den der borte er det kjøtt.</x>
                <xt>Dusnie leah bearkoeh.</xt>
@@ -897,7 +897,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">dunnie</t>
+            <t pos="Pron" type="Dem">dunnie</t>
             <xg>
                <x>I den tønna der borte er det kjøtt. Vi skulle gå på ski og treffe de andre på den bortre siden av reinflokken.</x>
                <xt>Dunnie geegkesne leah bearkoeh. Galkimh tjoejkedh jïh dunnie raedtesne råakedidh mubpigujmie.</xt>
@@ -907,11 +907,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="dem">fra den der borte</l>
+         <l pos="Pron" type="Dem">fra den der borte</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">dustie</t>
+            <t pos="Pron" type="Dem">dustie</t>
             <xg>
                <x>Fra den der borte skal jeg tømme kjøtt.</x>
                <xt>Dustie geegkeste edtjem bearkoeh döömedh.</xt>
@@ -920,7 +920,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">duhtie</t>
+            <t pos="Pron" type="Dem">duhtie</t>
             <xg>
                <x>Fra den tønna skal jeg tømme kjøtt.</x>
                <xt>Duhtie geegkeste edtjem bearkoeh döömedh.</xt>
@@ -930,11 +930,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="dem">med den der borte</l>
+         <l pos="Pron" type="Dem">med den der borte</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t nr="Sg" pos="Pron" type="dem">dujnie</t>
+            <t nr="Sg" pos="Pron" type="Dem">dujnie</t>
             <xg>
                <x>Jeg skal gå med den tønna der borte.</x>
                <xt>Manne edtjem dujnie geegkine vaedtsedh.</xt>
@@ -944,11 +944,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="dem">de der borte</l>
+         <l pos="Pron" type="Dem">de der borte</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">doh</t>
+            <t pos="Pron" type="Dem">doh</t>
             <xg>
                <x>De koftene der borte er mine. Så kommer også folkene i de husene der borte.</x>
                <xt>Doh gåptoeh leah mov. Dellie doh gåetieh almetjh aaj båetieh.</xt>
@@ -957,7 +957,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">dujtie</t>
+            <t pos="Pron" type="Dem">dujtie</t>
             <xg>
                <x>Bring de koftene der borte.</x>
                <xt>Buektieh meatan dujtie gåptojde.</xt>
@@ -967,11 +967,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="dem">til dem der borte</l>
+         <l pos="Pron" type="Dem">til dem der borte</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">dujtie</t>
+            <t pos="Pron" type="Dem">dujtie</t>
             <xg>
                <x>Jeg skal sy nye kantebånd til de koftene der borte.</x>
                <xt>Dujtie gåptojde edtjem orre budtestahkh gåarodh.</xt>
@@ -981,11 +981,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="dem">de der borte sine</l>
+         <l pos="Pron" type="Dem">de der borte sine</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">doj</t>
+            <t pos="Pron" type="Dem">doj</t>
             <xg>
                <x>De koftene der borte har så fine farger.</x>
                <xt>Doj gåptoej dan tjaebpies klaerieh.</xt>
@@ -994,7 +994,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">dyj</t>
+            <t pos="Pron" type="Dem">dyj</t>
             <xg>
                <x>De koftene der borte har så fine farger.</x>
                <xt>Dyj gåptoej dan tjaebpies klaerieh.</xt>
@@ -1004,11 +1004,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="dem">med dem der borte</l>
+         <l pos="Pron" type="Dem">med dem der borte</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">doj</t>
+            <t pos="Pron" type="Dem">doj</t>
             <xg>
                <x>Jeg drar hjem med de koftene der borte.</x>
                <xt>Manne gåatan vualkam doj gåptoejgujmie.</xt>
@@ -1017,7 +1017,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">dyj</t>
+            <t pos="Pron" type="Dem">dyj</t>
             <xg>
                <x>Jeg drar hjem med de koftene der borte.</x>
                <xt>Manne gåatan vualkam dyj gåptoejgujmie.</xt>
@@ -1026,7 +1026,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">dojgujmie</t>
+            <t pos="Pron" type="Dem">dojgujmie</t>
             <xg>
                <x>Jeg drar hjem med dem der borte.</x>
                <xt>Manne gåatan vualkam dojgujmie.</xt>
@@ -1035,7 +1035,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">dyjgujmie</t>
+            <t pos="Pron" type="Dem">dyjgujmie</t>
             <xg>
                <x>Jeg drar hjem med dem der borte.</x>
                <xt>Manne gåatan vualkam dyjgujmie.</xt>
@@ -1045,21 +1045,21 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="dem">i de der borte</l>
+         <l pos="Pron" type="Dem">i de der borte</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t nr="Pl" pos="Pron" type="dem">dujnie</t>
+            <t nr="Pl" pos="Pron" type="Dem">dujnie</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="dem">fra de der borte</l>
+         <l pos="Pron" type="Dem">fra de der borte</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">dujstie</t>
+            <t pos="Pron" type="Dem">dujstie</t>
             <xg>
                <x>Det lukter godt av de nyvaskede kjolene der borte.</x>
                <xt>Dujstie bïsseldihkie gåptojste njaelkieslaakan hapsoe.</xt>
@@ -1073,7 +1073,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">dagkeres</t>
+            <t pos="Pron" type="Dem">dagkeres</t>
             <xg>
                <x>Jeg har ikke slik bil.</x>
                <xt>Ij mov leah dagkeres bïjle.</xt>
@@ -1082,12 +1082,12 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">dagkere</t>
+            <t pos="Pron" type="Dem">dagkere</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">dagkerem</t>
+            <t pos="Pron" type="Dem">dagkerem</t>
             <xg>
                <x>Birje bør få en slik gave.</x>
                <xt>Birje byöroe dagkerem vadtesem åadtjodh.</xt>
@@ -1101,7 +1101,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">dagkerem</t>
+            <t pos="Pron" type="Dem">dagkerem</t>
             <xg>
                <x>Birje bør få en slik gave.</x>
                <xt>Birje byöroe dagkerem vadtesem åadtjodh.</xt>
@@ -1115,7 +1115,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">dagkeren</t>
+            <t pos="Pron" type="Dem">dagkeren</t>
             <xg>
                <x>Så kan hvem som helst tenke på hvor mye arbeid det er før en slik konferanse.</x>
                <xt>Dellie fïereguhte maahta ussjedalledh, man jïjnje barkoe lea dagkeren konferansen åvtelen.</xt>
@@ -1129,7 +1129,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">dagkarasse</t>
+            <t pos="Pron" type="Dem">dagkarasse</t>
          </tg>
       </mg>
    </e>
@@ -1139,12 +1139,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">dagkarisnie</t>
+            <t pos="Pron" type="Dem">dagkarisnie</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem" case="ine">dagkarinie</t>
+            <t pos="Pron" type="Dem" case="ine">dagkarinie</t>
          </tg>
       </mg>
    </e>
@@ -1154,7 +1154,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem" case="ine">dagkarinie</t>
+            <t pos="Pron" type="Dem" case="ine">dagkarinie</t>
          </tg>
       </mg>
    </e>
@@ -1164,7 +1164,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">dagkaristie</t>
+            <t pos="Pron" type="Dem">dagkaristie</t>
          </tg>
       </mg>
    </e>
@@ -1174,12 +1174,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">dagkerh</t>
+            <t pos="Pron" type="Dem">dagkerh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">dagkaridie</t>
+            <t pos="Pron" type="Dem">dagkaridie</t>
          </tg>
       </mg>
    </e>
@@ -1189,7 +1189,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">dagkaridie</t>
+            <t pos="Pron" type="Dem">dagkaridie</t>
          </tg>
       </mg>
    </e>
@@ -1199,7 +1199,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">dagkeri</t>
+            <t pos="Pron" type="Dem">dagkeri</t>
             <xg>
                <x>Med slike ski er det spesielt bra å gå på ski.</x>
                <xt>Dagkeri treavkajgujmie joekoen hijven tjoejkedh.</xt>
@@ -1214,7 +1214,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re>om flere</re>
-            <t pos="Pron" type="dem">dagkarijnie</t>
+            <t pos="Pron" type="Dem">dagkarijnie</t>
          </tg>
       </mg>
    </e>
@@ -1224,7 +1224,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">dagkarijstie</t>
+            <t pos="Pron" type="Dem">dagkarijstie</t>
          </tg>
       </mg>
    </e>
@@ -1234,7 +1234,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">dagkerigujmie</t>
+            <t pos="Pron" type="Dem">dagkerigujmie</t>
          </tg>
       </mg>
    </e>
@@ -1244,7 +1244,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">daagkeres</t>
+            <t pos="Pron" type="Dem">daagkeres</t>
             <xg>
                <x>Jeg tenker i hvert fall at det ikke er riktig å kjøre så fort der hvor det er så dårlig vei som dette.</x>
                <xt>Manne gujht ussjedem, ij leah reaktoe daan varki vuejedh gosse daagkeres geajnoe.</xt>
@@ -1253,12 +1253,12 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">daagkere</t>
+            <t pos="Pron" type="Dem">daagkere</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">daagkerem</t>
+            <t pos="Pron" type="Dem">daagkerem</t>
          </tg>
       </mg>
    </e>
@@ -1268,7 +1268,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">daagkeren</t>
+            <t pos="Pron" type="Dem">daagkeren</t>
          </tg>
       </mg>
    </e>
@@ -1278,7 +1278,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">daagkarasse</t>
+            <t pos="Pron" type="Dem">daagkarasse</t>
          </tg>
       </mg>
    </e>
@@ -1288,12 +1288,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">daagkarisnie</t>
+            <t pos="Pron" type="Dem">daagkarisnie</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem" case="ine">daagkarinie</t>
+            <t pos="Pron" type="Dem" case="ine">daagkarinie</t>
          </tg>
       </mg>
    </e>
@@ -1303,7 +1303,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem" case="ine">daagkarinie</t>
+            <t pos="Pron" type="Dem" case="ine">daagkarinie</t>
          </tg>
       </mg>
    </e>
@@ -1313,7 +1313,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">daagkaristie</t>
+            <t pos="Pron" type="Dem">daagkaristie</t>
          </tg>
       </mg>
    </e>
@@ -1323,12 +1323,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">daagkerh</t>
+            <t pos="Pron" type="Dem">daagkerh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">daagkaridie</t>
+            <t pos="Pron" type="Dem">daagkaridie</t>
          </tg>
       </mg>
    </e>
@@ -1339,7 +1339,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re>om flere</re>
-            <t pos="Pron" type="dem">daagkaridie</t>
+            <t pos="Pron" type="Dem">daagkaridie</t>
          </tg>
       </mg>
    </e>
@@ -1349,7 +1349,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">daagkeri</t>
+            <t pos="Pron" type="Dem">daagkeri</t>
          </tg>
       </mg>
    </e>
@@ -1359,7 +1359,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">daagkarijnie</t>
+            <t pos="Pron" type="Dem">daagkarijnie</t>
          </tg>
       </mg>
    </e>
@@ -1369,7 +1369,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">daagkarijstie</t>
+            <t pos="Pron" type="Dem">daagkarijstie</t>
          </tg>
       </mg>
    </e>
@@ -1379,7 +1379,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">daagkerigujmie</t>
+            <t pos="Pron" type="Dem">daagkerigujmie</t>
          </tg>
       </mg>
    </e>
@@ -1389,17 +1389,17 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">dogkeres</t>
+            <t pos="Pron" type="Dem">dogkeres</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">dogkere</t>
+            <t pos="Pron" type="Dem">dogkere</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">dogkerem</t>
+            <t pos="Pron" type="Dem">dogkerem</t>
          </tg>
       </mg>
    </e>
@@ -1409,7 +1409,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">dogkeren</t>
+            <t pos="Pron" type="Dem">dogkeren</t>
          </tg>
       </mg>
    </e>
@@ -1419,7 +1419,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">dogkarasse</t>
+            <t pos="Pron" type="Dem">dogkarasse</t>
          </tg>
       </mg>
    </e>
@@ -1429,12 +1429,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">dogkarisnie</t>
+            <t pos="Pron" type="Dem">dogkarisnie</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem" case="ine">dogkarinie</t>
+            <t pos="Pron" type="Dem" case="ine">dogkarinie</t>
          </tg>
       </mg>
    </e>
@@ -1444,7 +1444,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem" case="ine">dogkarinie</t>
+            <t pos="Pron" type="Dem" case="ine">dogkarinie</t>
          </tg>
       </mg>
    </e>
@@ -1454,7 +1454,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">dogkaristie</t>
+            <t pos="Pron" type="Dem">dogkaristie</t>
          </tg>
       </mg>
    </e>
@@ -1464,12 +1464,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">dogkerh</t>
+            <t pos="Pron" type="Dem">dogkerh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">dogkaridie</t>
+            <t pos="Pron" type="Dem">dogkaridie</t>
          </tg>
       </mg>
    </e>
@@ -1479,7 +1479,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">dogkaridie</t>
+            <t pos="Pron" type="Dem">dogkaridie</t>
          </tg>
       </mg>
    </e>
@@ -1489,7 +1489,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">dogkeri</t>
+            <t pos="Pron" type="Dem">dogkeri</t>
          </tg>
       </mg>
    </e>
@@ -1500,7 +1500,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re>om flere</re>
-            <t pos="Pron" type="dem">dogkarijnie</t>
+            <t pos="Pron" type="Dem">dogkarijnie</t>
          </tg>
       </mg>
    </e>
@@ -1510,7 +1510,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">dogkarijstie</t>
+            <t pos="Pron" type="Dem">dogkarijstie</t>
          </tg>
       </mg>
    </e>
@@ -1520,7 +1520,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">dogkerigujmie</t>
+            <t pos="Pron" type="Dem">dogkerigujmie</t>
          </tg>
       </mg>
    </e>
@@ -1530,17 +1530,17 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">doegkeres</t>
+            <t pos="Pron" type="Dem">doegkeres</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">doegkere</t>
+            <t pos="Pron" type="Dem">doegkere</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">doegkerem</t>
+            <t pos="Pron" type="Dem">doegkerem</t>
          </tg>
       </mg>
    </e>
@@ -1550,7 +1550,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">doegkeren</t>
+            <t pos="Pron" type="Dem">doegkeren</t>
          </tg>
       </mg>
    </e>
@@ -1560,7 +1560,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">doegkarasse</t>
+            <t pos="Pron" type="Dem">doegkarasse</t>
          </tg>
       </mg>
    </e>
@@ -1570,12 +1570,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">doegkarisnie</t>
+            <t pos="Pron" type="Dem">doegkarisnie</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem" case="ine">doegkarinie</t>
+            <t pos="Pron" type="Dem" case="ine">doegkarinie</t>
          </tg>
       </mg>
    </e>
@@ -1585,7 +1585,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem" case="ine">doegkarinie</t>
+            <t pos="Pron" type="Dem" case="ine">doegkarinie</t>
          </tg>
       </mg>
    </e>
@@ -1595,7 +1595,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">doegkaristie</t>
+            <t pos="Pron" type="Dem">doegkaristie</t>
          </tg>
       </mg>
    </e>
@@ -1605,12 +1605,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">doegkerh</t>
+            <t pos="Pron" type="Dem">doegkerh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">doegkaridie</t>
+            <t pos="Pron" type="Dem">doegkaridie</t>
          </tg>
       </mg>
    </e>
@@ -1620,7 +1620,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">doegkaridie</t>
+            <t pos="Pron" type="Dem">doegkaridie</t>
          </tg>
       </mg>
    </e>
@@ -1630,7 +1630,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">doegkeri</t>
+            <t pos="Pron" type="Dem">doegkeri</t>
          </tg>
       </mg>
    </e>
@@ -1641,7 +1641,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re>om flere</re>
-            <t pos="Pron" type="dem">doegkarijnie</t>
+            <t pos="Pron" type="Dem">doegkarijnie</t>
          </tg>
       </mg>
    </e>
@@ -1651,7 +1651,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">doegkarijstie</t>
+            <t pos="Pron" type="Dem">doegkarijstie</t>
          </tg>
       </mg>
    </e>
@@ -1661,7 +1661,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="dem">doegkerigujmie</t>
+            <t pos="Pron" type="Dem">doegkerigujmie</t>
          </tg>
       </mg>
    </e>
@@ -1671,7 +1671,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pg="no" pos="Pron" type="indef">ohtjetje</t>
+            <t pg="no" pos="Pron" type="Indef">ohtjetje</t>
          </tg>
       </mg>
    </e>
@@ -1681,7 +1681,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="indef">måedtie</t>
+            <t pos="Pron" type="Indef">måedtie</t>
             <xg>
                <x>mange ganger</x>
                <xt>måedtien aejkien</xt>
@@ -1690,7 +1690,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="indef">muvhte</t>
+            <t pos="Pron" type="Indef">muvhte</t>
             <xg>
                <x>stedvis Og så noen steder dukker sola fram mellom skyene og gjør mennesket glad. Bruden og brudgommen fikk gaver, av noen fikk de rein, og av noen penger og av noen sølv.</x>
                <xt>muvhten lehkien Jïh dle muvhth lehkieh biejjie balvi gaskem jæjhta jïh almetjem madtjeldahta. Provrese jïh provkome sjïelh fihkieh, muvhtijste bovtsh, jïh muvhtijste beetnegh, jïh muvhtijste sïlph.</xt>
@@ -1699,7 +1699,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pg="no" pos="Pron" type="indef">såemies</t>
+            <t pg="no" pos="Pron" type="Indef">såemies</t>
             <xg>
                <x>Noen skoler skal tilby undervisning i samisk.</x>
                <xt>Såemies skuvlh edtjieh ööhpehtimmiem saemiengïelesne faaledh.</xt>
@@ -1713,7 +1713,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="indef">måedtie</t>
+            <t pos="Pron" type="Indef">måedtie</t>
             <xg>
                <x>mange ganger</x>
                <xt>måedtien aejkien</xt>
@@ -1727,7 +1727,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="indef">muvhte</t>
+            <t pos="Pron" type="Indef">muvhte</t>
             <xg>
                <x>stedvis Og så noen steder dukker sola fram mellom skyene og gjør mennesket glad. Bruden og brudgommen fikk gaver, av noen fikk de rein, og av noen penger og av noen sølv.</x>
                <xt>muvhten lehkien Jïh dle muvhth lehkieh biejjie balvi gaskem jæjhta jïh almetjem madtjeldahta. Provrese jïh provkome sjïelh fihkieh, muvhtijste bovtsh, jïh muvhtijste beetnegh, jïh muvhtijste sïlph.</xt>
@@ -1741,12 +1741,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="indef">naakene</t>
+            <t pos="Pron" type="Indef">naakene</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pg="no" pos="Pron" type="indef">naan</t>
+            <t pg="no" pos="Pron" type="Indef">naan</t>
             <xg>
                <x>Og noen unge mennesker hadde allerede kommet. Den lua har ingen dusk.</x>
                <xt>Jïh naan noere almetjh lin joe båateme. Dan tjohpen ij naan duahpa.</xt>
@@ -1756,7 +1756,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re>ved nekting</re>
-            <t pg="no" pos="Pron" type="indef">mejtegh</t>
+            <t pg="no" pos="Pron" type="Indef">mejtegh</t>
             <xg>
                <x>Det gjør ikke noe.</x>
                <xt>Ij mejtegh darjoeh.</xt>
@@ -1765,7 +1765,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="rel">mij</t>
+            <t pos="Pron" type="Rel">mij</t>
             <xg>
                <x>Hva er det? Hva som helst. Hva er det i veien med deg? Hvilken dag er det i dag? Det som dukket opp i går, hva var nå det? Det står ingenting om det her. Ikke noe engang.</x>
                <xt>Mij dïhte? Saaht mij. Mij dov faatoes? Mij biejjide daan biejjien? Dïhte mij jååktan jijhtieji, mij bist dïhte lij? Ij mij daesnie tjåadtjoeh dan bïjre. Ij mij gænnah.</xt>
@@ -1779,12 +1779,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="indef">naakene</t>
+            <t pos="Pron" type="Indef">naakene</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pg="no" pos="Pron" type="indef">naan</t>
+            <t pg="no" pos="Pron" type="Indef">naan</t>
             <xg>
                <x>Og noen unge mennesker hadde allerede kommet. Den lua har ingen dusk.</x>
                <xt>Jïh naan noere almetjh lin joe båateme. Dan tjohpen ij naan duahpa.</xt>
@@ -1793,7 +1793,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="indef">gille</t>
+            <t pos="Pron" type="Indef">gille</t>
             <xg>
                <x>Nå er det bare noen få dager igjen av dette skoleåret.</x>
                <xt>Daelie barre gille biejjieh aajmene daehtie skuvlejaepeste.</xt>
@@ -1807,7 +1807,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="indef">gaajhke</t>
+            <t pos="Pron" type="Indef">gaajhke</t>
             <xg>
                <x>Laara tok alt i fra meg. ikke alle ganger Eller har kanskje den stygge musa spist alle musene? Marka var veldig oppgravd, byggeredskaper på alle kanter.</x>
                <xt>Laara gaajhkem manneste veelti. ij gaajhken aejkien Vuj dïhte vesties snjeara ojhte gaajhkide snjearide bårrelamme? Deavesne joekoen röödtseldihkie, bigkemedïrregh gaajhkene lehkesne.</xt>
@@ -1821,7 +1821,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="indef">gaajhke</t>
+            <t pos="Pron" type="Indef">gaajhke</t>
             <xg>
                <x>Laara tok alt i fra meg. ikke alle ganger Eller har kanskje den stygge musa spist alle musene? Marka var veldig oppgravd, byggeredskaper på alle kanter.</x>
                <xt>Laara gaajhkem manneste veelti. ij gaajhken aejkien Vuj dïhte vesties snjeara ojhte gaajhkide snjearide bårrelamme? Deavesne joekoen röödtseldihkie, bigkemedïrregh gaajhkene lehkesne.</xt>
@@ -1849,7 +1849,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="indef">gåabpatjahkh</t>
+            <t pos="Pron" type="Indef">gåabpatjahkh</t>
          </tg>
       </mg>
    </e>
@@ -1859,7 +1859,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pg="no" pos="Pron" type="indef">gellie</t>
+            <t pg="no" pos="Pron" type="Indef">gellie</t>
             <xg>
                <x>Det er mange spørsmål. Og nå er det ikke lenger så mange dager igjen til jonsok.</x>
                <xt>Gyhtjelassh leah gellie. Jïh dellie ij leah vielie man gellieh biejjieh aajmene jovnesåhkojde.</xt>
@@ -1868,7 +1868,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pg="no" pos="Pron" type="indef">gellieh</t>
+            <t pg="no" pos="Pron" type="Indef">gellieh</t>
             <xg>
                <x>Hvor mange bøker har du? Like mange som fingrene dine.</x>
                <xt>Man gellieh gærjah dov leah? Seamma gellieh dov soermijste.</xt>
@@ -1882,7 +1882,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pg="no" pos="Pron" type="indef">guhtegh</t>
+            <t pg="no" pos="Pron" type="Indef">guhtegh</t>
             <xg>
                <x>Ikke noen av de arbeidstakerne ble med fra Havika til Hattfjelldal.</x>
                <xt>Idtjin guhtegh dejstie barkijijstie Havikeste Aarportese dåeredh.</xt>
@@ -1896,7 +1896,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="indef">jeatja</t>
+            <t pos="Pron" type="Indef">jeatja</t>
             <xg>
                <x>kunnskap om en annen kultur og et annet språk andre opplysninger Vil du ha noe annet da?</x>
                <xt>maahtoe jeatja kultuvren bïjre jïh jeatja gïelen bïjre jeatjah bïevnesh Sïjhth maam jeatjah utnedh dellie?</xt>
@@ -1905,7 +1905,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="indef">jeatjebe</t>
+            <t pos="Pron" type="Indef">jeatjebe</t>
             <xg>
                <x>gjøre noe annet De andre kom etter oss.</x>
                <xt>jeatjebem darjodh Dah jeatjebh mijjen mænngan böötin.</xt>
@@ -1919,7 +1919,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="indef">jeatjebe</t>
+            <t pos="Pron" type="Indef">jeatjebe</t>
             <xg>
                <x>gjøre noe annet De andre kom etter oss.</x>
                <xt>jeatjebem darjodh Dah jeatjebh mijjen mænngan böötin.</xt>
@@ -1933,7 +1933,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="indef">jienebe</t>
+            <t pos="Pron" type="Indef">jienebe</t>
             <xg>
                <x>Slik blir det også billigere når vi er flere.</x>
                <xt>Nimhtie aaj liehtebe sjædta gosse libie jienebh.</xt>
@@ -1947,7 +1947,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="indef">fïerhte</t>
+            <t pos="Pron" type="Indef">fïerhte</t>
             <xg>
                <x>i hver sin kommune i hver kommune hver gang Man bør pusse tennene hver morgen.</x>
                <xt>fïerhtene tjïeltesne fïerhten tjïeltesne fïerhten aejkien Fïerhten aereden byöroe baenide skubpedh.</xt>
@@ -1961,7 +1961,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pg="no" pos="Pron" type="indef">abpe</t>
+            <t pg="no" pos="Pron" type="Indef">abpe</t>
             <xg>
                <x>Hele vinteren hadde vi gått på skolen slik at vi var gått lei.</x>
                <xt>Abpe daelviem limh skuvlesne vaadtseme guktie eevre vïssjehtovveme.</xt>
@@ -1975,7 +1975,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pg="no" pos="Pron" type="indef">såemies</t>
+            <t pg="no" pos="Pron" type="Indef">såemies</t>
             <xg>
                <x>Noen skoler skal tilby undervisning i samisk.</x>
                <xt>Såemies skuvlh edtjieh ööhpehtimmiem saemiengïelesne faaledh.</xt>
@@ -1989,12 +1989,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pg="no" pos="Pron" type="indef">mijgih</t>
+            <t pg="no" pos="Pron" type="Indef">mijgih</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pg="no" pos="Pron" type="indef">maamgih</t>
+            <t pg="no" pos="Pron" type="Indef">maamgih</t>
             <xg>
                <x>Piere hadde ikke noe som helst.</x>
                <xt>Idtji Piere maamgih utnieh.</xt>
@@ -3701,7 +3701,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="refl">jïjtje</t>
+            <t pos="Pron" type="Refl">jïjtje</t>
             <xg>
                <x>Vinden blåser dit den vil selv. Åvla tar bøtta sjøl. Gå selv!</x>
                <xt>Bïegke jårra gåabph jïjtje sæjhta. Åvla jïjtje bæhtoem vaalta. Vaedtsieh jïjtje!</xt>
@@ -3715,7 +3715,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="refl">jïjtjeme</t>
+            <t pos="Pron" type="Refl">jïjtjeme</t>
             <xg>
                <x>Jeg ser meg selv i speilet.</x>
                <xt>Manne jïjtjeme guelmiedahkesne vuajnam.</xt>
@@ -3724,7 +3724,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="refl">jïjtjemem</t>
+            <t pos="Pron" type="Refl">jïjtjemem</t>
             <xg>
                <x>Jeg ser meg selv i speilet.</x>
                <xt>Manne jïjtjemem guelmiedahkesne vuajnam.</xt>
@@ -3738,7 +3738,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="refl">jïjtjen</t>
+            <t pos="Pron" type="Refl">jïjtjen</t>
             <xg>
                <x>Jeg har min egen bil.</x>
                <xt>Mov lea jïjtjen bïjle.</xt>
@@ -3752,7 +3752,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="refl">jïjtjen</t>
+            <t pos="Pron" type="Refl">jïjtjen</t>
             <xg>
                <x>Jeg har min egen bil.</x>
                <xt>Mov lea jïjtjen bïjle.</xt>
@@ -3766,7 +3766,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="refl">jïjtsanne</t>
+            <t pos="Pron" type="Refl">jïjtsanne</t>
             <xg>
                <x>Jeg kokte mat til meg selv.</x>
                <xt>Jïjtsanne beapmoeh voessjim.</xt>
@@ -3775,7 +3775,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="refl">jïjtsene</t>
+            <t pos="Pron" type="Refl">jïjtsene</t>
             <xg>
                <x>Jeg kokte mat til meg selv.</x>
                <xt>Jïjtsene beapmoeh voessjim.</xt>
@@ -3784,7 +3784,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="refl">jïjtjenistie</t>
+            <t pos="Pron" type="Refl">jïjtjenistie</t>
             <xg>
                <x>Jeg gir ingenting fra meg selv.</x>
                <xt>Im jïjtjenistie maam vedtieh.</xt>
@@ -3798,7 +3798,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="refl">jïjtjemisnie</t>
+            <t pos="Pron" type="Refl">jïjtjemisnie</t>
             <xg>
                <x>Jeg så rusk på meg selv.</x>
                <xt>Jïjtjemisnie tsumhtsieh vööjnim.</xt>
@@ -3812,7 +3812,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="refl">jïjtjestanne</t>
+            <t pos="Pron" type="Refl">jïjtjestanne</t>
             <xg>
                <x>Jeg gir ingenting fra meg.</x>
                <xt>Im jïjtjestanne maam vedtieh.</xt>
@@ -3826,7 +3826,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="refl">jïjtjeninie</t>
+            <t pos="Pron" type="Refl">jïjtjeninie</t>
             <xg>
                <x>Jeg må bli enig med meg selv.</x>
                <xt>Tjoeverem jïjtjeninie latjkedh.</xt>
@@ -3835,7 +3835,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="refl">jïjtjenæjnene</t>
+            <t pos="Pron" type="Refl">jïjtjenæjnene</t>
             <xg>
                <x>Jeg må bli enig med meg selv.</x>
                <xt>Tjoeverem jïjtjenæjnene latjkedh.</xt>
@@ -3849,7 +3849,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="refl">jïjtjemdh</t>
+            <t pos="Pron" type="Refl">jïjtjemdh</t>
             <xg>
                <x>Du ser deg selv i speilet.</x>
                <xt>Datne jïjtjemdh guelmiedahkesne vuajnah.</xt>
@@ -3863,7 +3863,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="refl">jïjtjedh</t>
+            <t pos="Pron" type="Refl">jïjtjedh</t>
             <xg>
                <x>Ser du din egen simle?</x>
                <xt>Vuajnah jïjtjedh aaltoem?</xt>
@@ -3877,7 +3877,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="refl">jïjtsadth</t>
+            <t pos="Pron" type="Refl">jïjtsadth</t>
             <xg>
                <x>Du kjøper vel boka til deg selv.</x>
                <xt>Datne dån gærjam jïjtsadth åastah.</xt>
@@ -3891,7 +3891,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="refl">jïjtjenadth</t>
+            <t pos="Pron" type="Refl">jïjtjenadth</t>
             <xg>
                <x>Det kjenner du på deg selv.</x>
                <xt>Jïjtjenadth dam damth.</xt>
@@ -3905,7 +3905,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="refl">jïjtjenadth</t>
+            <t pos="Pron" type="Refl">jïjtjenadth</t>
             <xg>
                <x>Det kjenner du på deg selv.</x>
                <xt>Jïjtjenadth dam damth.</xt>
@@ -3919,7 +3919,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="refl">jïjtjestadth</t>
+            <t pos="Pron" type="Refl">jïjtjestadth</t>
             <xg>
                <x>Du gjør det av deg selv.</x>
                <xt>Jïjtjestadth darjoeh.</xt>
@@ -3933,7 +3933,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="refl">jïjtjestadth</t>
+            <t pos="Pron" type="Refl">jïjtjestadth</t>
             <xg>
                <x>Du gjør det av deg selv.</x>
                <xt>Jïjtjestadth darjoeh.</xt>
@@ -3947,7 +3947,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="refl">jïjtjenæjnedh</t>
+            <t pos="Pron" type="Refl">jïjtjenæjnedh</t>
             <xg>
                <x>Du står og synger for deg selv.</x>
                <xt>Datne jïjtjenæjnedh tjåadtjoeh laavloeminie.</xt>
@@ -3956,7 +3956,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="refl">jïjtjenedh</t>
+            <t pos="Pron" type="Refl">jïjtjenedh</t>
             <xg>
                <x>Du står og synger for deg selv.</x>
                <xt>Datne jïjtjenedh tjåadtjoeh laavloeminie.</xt>
@@ -3970,7 +3970,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="refl">jïjtjemse</t>
+            <t pos="Pron" type="Refl">jïjtjemse</t>
             <xg>
                <x>Åvla ser seg selv i speilet.</x>
                <xt>Åvla jïjtjemse guelmiedahkesne vuajna.</xt>
@@ -3984,7 +3984,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="refl">jïjtse</t>
+            <t pos="Pron" type="Refl">jïjtse</t>
             <xg>
                <x>Han tar sin egen sekk på ryggen.</x>
                <xt>Jïjtse voessem mååjsede.</xt>
@@ -3998,7 +3998,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="refl">jïjtsasse</t>
+            <t pos="Pron" type="Refl">jïjtsasse</t>
             <xg>
                <x>Han koker kaffe bare til seg selv.</x>
                <xt>Barre jïjtsasse kaaffem vuassja.</xt>
@@ -4007,7 +4007,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="refl">jïjtsinie</t>
+            <t pos="Pron" type="Refl">jïjtsinie</t>
             <xg>
                <x>Piere står og synger for seg selv.</x>
                <xt>Piere tjåådtje jïjtsinie laavloeminie.</xt>
@@ -4021,7 +4021,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="refl">jïjtjisnie</t>
+            <t pos="Pron" type="Refl">jïjtjisnie</t>
             <xg>
                <x>Barnet er hos seg selv. Buksa passer ikke på han selv.</x>
                <xt>Maana jïjtjisnie. Ij jïjtjisnie dïhte måvhka sjïehth.</xt>
@@ -4035,7 +4035,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="refl">jïjtjisnie</t>
+            <t pos="Pron" type="Refl">jïjtjisnie</t>
             <xg>
                <x>Barnet er hos seg selv. Buksa passer ikke på han selv.</x>
                <xt>Maana jïjtjisnie. Ij jïjtjisnie dïhte måvhka sjïehth.</xt>
@@ -4049,7 +4049,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="refl">jïjtjisnie</t>
+            <t pos="Pron" type="Refl">jïjtjisnie</t>
             <xg>
                <x>Barnet er hos seg selv. Buksa passer ikke på han selv.</x>
                <xt>Maana jïjtjisnie. Ij jïjtjisnie dïhte måvhka sjïehth.</xt>
@@ -4063,7 +4063,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="refl">jïjtjestissie</t>
+            <t pos="Pron" type="Refl">jïjtjestissie</t>
             <xg>
                <x>Laara gjør det av seg selv.</x>
                <xt>Laara jïjtjestissie dorje.</xt>
@@ -4072,7 +4072,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="refl">jïjtsistie</t>
+            <t pos="Pron" type="Refl">jïjtsistie</t>
             <xg>
                <x>Laara gjør det av seg selv.</x>
                <xt>Laara jïjtsistie dorje.</xt>
@@ -4086,7 +4086,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="rel">mij</t>
+            <t pos="Pron" type="Rel">mij</t>
             <xg>
                <x>Hva er det? Hva som helst. Hva er det i veien med deg? Hvilken dag er det i dag? Det som dukket opp i går, hva var nå det? Det står ingenting om det her. Ikke noe engang.</x>
                <xt>Mij dïhte? Saaht mij. Mij dov faatoes? Mij biejjide daan biejjien? Dïhte mij jååktan jijhtieji, mij bist dïhte lij? Ij mij daesnie tjåadtjoeh dan bïjre. Ij mij gænnah.</xt>
@@ -4095,7 +4095,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="rel">maam</t>
+            <t pos="Pron" type="Rel">maam</t>
             <xg>
                <x>Har du hørt noe om krigen? Hva skal vi spise til middag idag? Bilen som far kjøpte i går, er hvit. Han hadde absolutt ingenting.</x>
                <xt>Dagke datne maam dåaroen bïjre govleme? Maam edtjebe gaskebeajjan byöpmedidh? Bïjle maam aehtjie jååktan öösti, lea veelkes. Idtji maam gih utnieh.</xt>
@@ -4104,7 +4104,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="rel">man</t>
+            <t pos="Pron" type="Rel">man</t>
             <xg>
                <x>Hva skriver dere om? Hvem sin simle er det som har bjelle med dump klang?</x>
                <xt>Man bïjre tjaelede? Gïen dïhte aaltoe man tsåalhkoeh bealloe lea?</xt>
@@ -4113,7 +4113,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="rel">mejtie</t>
+            <t pos="Pron" type="Rel">mejtie</t>
             <xg>
                <x>De jentene som jeg så i byen i går...</x>
                <xt>Dah nïejth mejtie jååktan staaresne vööjnim...</xt>
@@ -4127,7 +4127,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="rel">man</t>
+            <t pos="Pron" type="Rel">man</t>
             <xg>
                <x>Hva skriver dere om? Hvem sin simle er det som har bjelle med dump klang?</x>
                <xt>Man bïjre tjaelede? Gïen dïhte aaltoe man tsåalhkoeh bealloe lea?</xt>
@@ -4141,7 +4141,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="rel">mïsse</t>
+            <t pos="Pron" type="Rel">mïsse</t>
             <xg>
                <x>Hva skal du bruke denne til? Hvor ble det av hunden som jeg ga mat til? Den passer ikke til noen ting.</x>
                <xt>Mïsse edtjh dam utnedh? Gåabph dïhte bïenje mïsse beapmoeh vedtim? Ij mïsse sjïehth.</xt>
@@ -4150,7 +4150,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="rel">masse</t>
+            <t pos="Pron" type="Rel">masse</t>
             <xg>
                <x>Hva skal du bruke denne til? Hvor ble det av hunden som jeg ga mat til?</x>
                <xt>Masse edtjh dam utnedh? Gåabph dïhte bïenje masse beapmoeh vedtim?</xt>
@@ -4160,7 +4160,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re>om flere</re>
-            <t pos="Pron" type="rel">mejtie</t>
+            <t pos="Pron" type="Rel">mejtie</t>
             <xg>
                <x>Til hva skal du bruke disse? De kuene som du ga salt til, kommer jo tilbake.</x>
                <xt>Mejtie edtjh daejtie utnedh? Dah govsh mejtie datne saelhtieh vedtih, dah hov bååstide båetieh.</xt>
@@ -4174,7 +4174,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="rel">mesnie</t>
+            <t pos="Pron" type="Rel">mesnie</t>
             <xg>
                <x>På hva så du det? Jeg har et papir hvor det står at dette jordet er mitt.</x>
                <xt>Mesnie dam vööjnih? Mov lea paehpere mesnie tjåådtje daate jåarta lea mov.</xt>
@@ -4184,7 +4184,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re>om flere</re>
-            <t nr="Pl" pos="Pron" type="rel">mejnie</t>
+            <t nr="Pl" pos="Pron" type="Rel">mejnie</t>
          </tg>
       </mg>
    </e>
@@ -4194,7 +4194,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="rel">mesnie</t>
+            <t pos="Pron" type="Rel">mesnie</t>
             <xg>
                <x>På hva så du det? Jeg har et papir hvor det står at dette jordet er mitt.</x>
                <xt>Mesnie dam vööjnih? Mov lea paehpere mesnie tjåådtje daate jåarta lea mov.</xt>
@@ -4208,7 +4208,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="rel">mestie</t>
+            <t pos="Pron" type="Rel">mestie</t>
             <xg>
                <x>Hva kommer det av? Ta den skåla som du kan helle vann av. Han er ikke redd for noe.</x>
                <xt>Mestie dïhte båata? Vaeltieh dam gaeriem mestie maahta tjaetsiem gurhkedh. Ij mestie gænnah bïllh.</xt>
@@ -4222,7 +4222,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t nr="Sg" pos="Pron" type="rel">mejnie</t>
+            <t nr="Sg" pos="Pron" type="Rel">mejnie</t>
             <xg>
                <x>Med hva skal jeg skjære? Kom med kniven som jeg kan skjære med.</x>
                <xt>Mejnie edtjem tjoehpedh? Båetieh nejpine mejnie maahtam tjoehpedh.</xt>
@@ -4236,7 +4236,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t nr="Sg" pos="Pron" type="rel">mannasinie</t>
+            <t nr="Sg" pos="Pron" type="Rel">mannasinie</t>
          </tg>
       </mg>
    </e>
@@ -4246,7 +4246,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t nr="Sg" pos="Pron" type="rel">mannasinie</t>
+            <t nr="Sg" pos="Pron" type="Rel">mannasinie</t>
          </tg>
       </mg>
    </e>
@@ -4256,7 +4256,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="rel">mah</t>
+            <t pos="Pron" type="Rel">mah</t>
             <xg>
                <x>Hvilke nyheter har du? De fiskene som ble igjen, hvor er de?</x>
                <xt>Mah saernieh åtnah? Dah guelieh mah beetsin, gusnie dah?</xt>
@@ -4265,7 +4265,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="rel">mej</t>
+            <t pos="Pron" type="Rel">mej</t>
             <xg>
                <x>De sauene som har bjeller med dump lyd, er våre sauer. Der bodde det to småtroll som het Karius og Baktus.</x>
                <xt>Dah sïrvh mej tsåalhkoeh bealloeh, leah mijjen sïrvh. Desnie lin göökte nïerretjh årroeminie mej nomme Karijuse jïh Baktuse.</xt>
@@ -4279,7 +4279,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="rel">mejstie</t>
+            <t pos="Pron" type="Rel">mejstie</t>
             <xg>
                <x>De åkrene hvor man har tatt opp poteter, ser helt svarte ut nå.</x>
                <xt>Dah ïentjh mejstie pearah kroehkeme, eevre tjeehpes vååjnoeh daelie.</xt>
@@ -4293,7 +4293,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="rel">mejgujmie</t>
+            <t pos="Pron" type="Rel">mejgujmie</t>
             <xg>
                <x>Med hva drar du? Rein som man jobber ordentlig med, blir tamme. Her er lekene som du får leke med.</x>
                <xt>Mejgujmie vualkah? Bovtsh mejgujmie eensilaakan barka, hov låebties sjidtieh. Daesnie dah gaevnieh mejgujmie åadtjoeh stååkedidh.</xt>
@@ -4427,7 +4427,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="rel">gie</t>
+            <t pos="Pron" type="Rel">gie</t>
             <xg>
                <x>Hvem er så du? Den som kommer først, skal koke kaffe. Hvilken Meehte? Har ingen kommet enda?</x>
                <xt>Gie bist datne dellie? Dïhte gie voestegh båata, edtja kaaffem voessjedh. Gie dejstie Meehtijste? Ij gie annje leah båateme?</xt>
@@ -4436,7 +4436,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="rel">gïem</t>
+            <t pos="Pron" type="Rel">gïem</t>
             <xg>
                <x>Hvem skal jeg hjelpe? Den norske dama som du så i dag, er min nabo.</x>
                <xt>Gïem edtjem viehkiehtidh? Dïhte rovkije gïem daan biejjien vööjnih, lea mov kraanna.</xt>
@@ -4445,7 +4445,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="rel">geam</t>
+            <t pos="Pron" type="Rel">geam</t>
             <xg>
                <x>Hvem så du? Den norske dama som du så i dag, er min nabo.</x>
                <xt>Geam datne vööjnih? Dïhte rovkije geam daan biejjien vööjnih, lea mov kraanna.</xt>
@@ -4454,7 +4454,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="rel">gïen</t>
+            <t pos="Pron" type="Rel">gïen</t>
             <xg>
                <x>Hvem er det sin? Den personen som har den bilen, er fra Sverige. Hvem vet hvem sin reinkalv det er?</x>
                <xt>Gïen dïhte lea? Dïhte almetje gïen doete bïjle, lea Sveerjeste. Gie dïhte daajra gïen miesie dïhte lea?</xt>
@@ -4464,7 +4464,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re>om flere</re>
-            <t pos="Pron" type="rel">gïeh</t>
+            <t pos="Pron" type="Rel">gïeh</t>
             <xg>
                <x>Hvem er de? De som vil ha mat, må skynde seg!</x>
                <xt>Gïeh dah leah? Dah gïeh beapmoeh sijhtieh, tjoeverieh skodtedh!</xt>
@@ -4474,7 +4474,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re>om flere</re>
-            <t pos="Pron" type="rel">giejtie</t>
+            <t pos="Pron" type="Rel">giejtie</t>
             <xg>
                <x>Hvor ble det av gjestene som du så?</x>
                <xt>Gåabph dah guessieh sjïdtin giejtie vööjnih?</xt>
@@ -4488,7 +4488,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="rel">gïen</t>
+            <t pos="Pron" type="Rel">gïen</t>
             <xg>
                <x>Hvem er det sin? Den personen som har den bilen, er fra Sverige. Hvem vet hvem sin reinkalv det er?</x>
                <xt>Gïen dïhte lea? Dïhte almetje gïen doete bïjle, lea Sveerjeste. Gie dïhte daajra gïen miesie dïhte lea?</xt>
@@ -4497,7 +4497,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="rel">gean</t>
+            <t pos="Pron" type="Rel">gean</t>
             <xg>
                <x>Hvem er det sin? Den hunden som har lang hale, er min hund.</x>
                <xt>Gean dïhte lea? Dïhte bïenje gean guhkies sïejpe, lea mov bïenje.</xt>
@@ -4511,7 +4511,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="rel">gïese</t>
+            <t pos="Pron" type="Rel">gïese</t>
             <xg>
                <x>For hvem er det til nytte? Den ungen som jeg strikket en lue til, hvor ble han av?</x>
                <xt>Gïese lea dïhte aevhkine? Dïhte maana gïese tjohpem gurriejim, gåabph maa dïhte sjïdti?</xt>
@@ -4520,7 +4520,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="rel">gease</t>
+            <t pos="Pron" type="Rel">gease</t>
             <xg>
                <x>For hvem er det til nytte? Den ungen som jeg strikket en lue til, hvor ble hun av?</x>
                <xt>Gease lea dïhte aevhkine? Dïhte maana gease tjohpem gurriejim, gåabph maa dïhte sjïdti?</xt>
@@ -4530,7 +4530,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re>om flere</re>
-            <t pos="Pron" type="rel">giejtie</t>
+            <t pos="Pron" type="Rel">giejtie</t>
             <xg>
                <x>Til hvem har du tenkt å gi disse? De barna som Anna hadde tenkt å gi kofter til, er hennes tantebarn.</x>
                <xt>Giejtie daejtie ussjedh vedtedh? Dah maanah giejtie Aanna lea ussjedamme gåptoeh vedtedh, leah sov sïeselh.</xt>
@@ -4544,7 +4544,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="rel">giesnie</t>
+            <t pos="Pron" type="Rel">giesnie</t>
             <xg>
                <x>På hvem ser du det? Hvem er nå det, som jeg så i går med så rar hatt?</x>
                <xt>Giesnie dam vuajnah? Gie bist dïhte, giesnie manne jååktan dam rovnegs gajpem vööjnim?</xt>
@@ -4554,7 +4554,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re>om flere</re>
-            <t nr="Pl" pos="Pron" type="rel">giejnie</t>
+            <t nr="Pl" pos="Pron" type="Rel">giejnie</t>
             <xg>
                <x>Folk som du ser har slik poncho, kommer jo langveis fra.</x>
                <xt>Almetjh giejnie dagkerem skopmehkem vuajnah, hov guhkede båetieh.</xt>
@@ -4568,7 +4568,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="rel">giesnie</t>
+            <t pos="Pron" type="Rel">giesnie</t>
             <xg>
                <x>På hvem ser du det? Hvem er nå det, som jeg så i går med så rar hatt?</x>
                <xt>Giesnie dam vuajnah? Gie bist dïhte, giesnie manne jååktan dam rovnegs gajpem vööjnim?</xt>
@@ -4582,7 +4582,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="rel">giestie</t>
+            <t pos="Pron" type="Rel">giestie</t>
             <xg>
                <x>Fra hvem har du fått den? Birje, som jeg har fått denne av, er tanta mi.</x>
                <xt>Giestie lea dam åådtjeme? Birje, giestie dam åadtjoejim, lea mov muahra.</xt>
@@ -4592,7 +4592,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re>om flere</re>
-            <t pos="Pron" type="rel">giejstie</t>
+            <t pos="Pron" type="Rel">giejstie</t>
             <xg>
                <x>Fra hvem kommer de? De personene som du har fått denne fra, hvem er de?</x>
                <xt>Giejstie dah båetieh? Doh almetjh giejstie datne dam åadtjoejih, gïeh lin dah?</xt>
@@ -4606,7 +4606,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="rel">giestie</t>
+            <t pos="Pron" type="Rel">giestie</t>
             <xg>
                <x>Fra hvem har du fått den? Birje, som jeg har fått denne av, er tanta mi.</x>
                <xt>Giestie lea dam åådtjeme? Birje, giestie dam åadtjoejim, lea mov muahra.</xt>
@@ -4620,7 +4620,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t nr="Sg" pos="Pron" type="rel">giejnie</t>
+            <t nr="Sg" pos="Pron" type="Rel">giejnie</t>
             <xg>
                <x>Hvem kom du sammen med? Den jenta som jeg var sammen med i går, er min kusine.</x>
                <xt>Giejnie ektesne böötih? Dïhte nyöjtetje giejnie jååktan lim ektesne, lea mov aajkohke.</xt>
@@ -4630,7 +4630,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re>om flere</re>
-            <t pos="Pron" type="rel">giejgujmie</t>
+            <t pos="Pron" type="Rel">giejgujmie</t>
             <xg>
                <x>Hvem kom du sammen med? De elevene, som du er sammen med, hvor mange er de?</x>
                <xt>Giejgujmie ektine datne böötih? Dah learohkh, giejgujmie datne ektesne, man gallesh dah?</xt>
@@ -4640,7 +4640,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re>om flere</re>
-            <t pos="Pron" type="rel">geajgujmie</t>
+            <t pos="Pron" type="Rel">geajgujmie</t>
             <xg>
                <x>Hvem kom du sammen med? De elevene, som du er sammen med, hvor mange er de?</x>
                <xt>Giejgujmie ektine datne böötih? Dah learohkh, geajgujmie datne ektesne, man gallesh dah?</xt>
@@ -4655,7 +4655,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re>om flere</re>
-            <t pos="Pron" type="rel">giej</t>
+            <t pos="Pron" type="Rel">giej</t>
             <xg>
                <x>Hvem sine er disse? Folk med tjukt hår, trenger ikke lue!</x>
                <xt>Giej leah daah? Almetjh giej söökes voepth, eah tjohpem daarpesjh!</xt>
@@ -4670,7 +4670,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re>om flere</re>
-            <t nr="Pl" pos="Pron" type="rel">giejnie</t>
+            <t nr="Pl" pos="Pron" type="Rel">giejnie</t>
             <xg>
                <x>Folk som du ser har slik poncho, kommer jo langveis fra.</x>
                <xt>Almetjh giejnie dagkerem skopmehkem vuajnah, hov guhkede båetieh.</xt>
@@ -4684,7 +4684,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="rel">guhte</t>
+            <t pos="Pron" type="Rel">guhte</t>
             <xg>
                <x>Hvem av dem sa det? Hvem av dem er det som har gjort dette? Ingen har fortalt det til meg. Om det er noen her som kan hjelpe meg?</x>
                <xt>Guhte dam jeehti? Gie guhte naemhtie dorjeme? Ij guhte dam munnjien soptsestamme. Mah guhte sæjhta mannem viehkiehtidh?</xt>
@@ -4693,7 +4693,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="rel">guhtem</t>
+            <t pos="Pron" type="Rel">guhtem</t>
             <xg>
                <x>Jeg har ikke spurt noen om det.</x>
                <xt>Im leah manne guhtem dan bïjre gihtjeme.</xt>
@@ -4703,7 +4703,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re>om flere</re>
-            <t pos="Pron" type="rel">guhth</t>
+            <t pos="Pron" type="Rel">guhth</t>
             <xg>
                <x>Hvem av dem var det som dro? Hvem av dem sa det? De som har gått i lære, får fortere jobb.</x>
                <xt>Guhth dah vöölkin? Guhth dah nemhtie jeehtin? Dah guhth learoeh vaadtseme, verkebe barkoeh åadtjoeh.</xt>
@@ -4713,7 +4713,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re>om flere</re>
-            <t case="Acc" pos="Pron" type="rel">guhtide</t>
+            <t case="Acc" pos="Pron" type="Rel">guhtide</t>
             <xg>
                <x>Laara har ikke spurt noen om det.</x>
                <xt>Laara ij leah gujhth guhtide gihtjeme dan bïjre.</xt>
@@ -4727,7 +4727,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="rel">guhte</t>
+            <t pos="Pron" type="Rel">guhte</t>
             <xg>
                <x>Hvem av dem sa det? Hvem av dem er det som har gjort dette? Ingen har fortalt det til meg. Om det er noen her som kan hjelpe meg?</x>
                <xt>Guhte dam jeehti? Gie guhte naemhtie dorjeme? Ij guhte dam munnjien soptsestamme. Mah guhte sæjhta mannem viehkiehtidh?</xt>
@@ -4741,7 +4741,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="rel">guhten</t>
+            <t pos="Pron" type="Rel">guhten</t>
             <xg>
                <x>Hvem sine bukser er dette?</x>
                <xt>Guhten måvhkah leah daah?</xt>
@@ -4751,7 +4751,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re>om flere</re>
-            <t pos="Pron" type="rel">guhti</t>
+            <t pos="Pron" type="Rel">guhti</t>
             <xg>
                <x>Hvem sine klær er dette?</x>
                <xt>Guhti vaarjoeh leah daah?</xt>
@@ -4765,7 +4765,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="rel">guhtese</t>
+            <t pos="Pron" type="Rel">guhtese</t>
             <xg>
                <x>Ikke fortell det til noen av dem!</x>
                <xt>Aellieh guhtese dam soptsesth!</xt>
@@ -4775,7 +4775,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re>om flere</re>
-            <t case="Acc" pos="Pron" type="rel">guhtide</t>
+            <t case="Acc" pos="Pron" type="Rel">guhtide</t>
          </tg>
       </mg>
    </e>
@@ -4785,13 +4785,13 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="rel">guhtesne</t>
+            <t pos="Pron" type="Rel">guhtesne</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
             <re>om flere</re>
-            <t pos="Pron" type="rel">guhtine</t>
+            <t pos="Pron" type="Rel">guhtine</t>
          </tg>
       </mg>
    </e>
@@ -4801,7 +4801,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="rel">guhteste</t>
+            <t pos="Pron" type="Rel">guhteste</t>
             <xg>
                <x>Fra hvem har du hørt det?</x>
                <xt>Guhteste dam govleme?</xt>
@@ -4811,7 +4811,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re>om flere</re>
-            <t pos="Pron" type="rel">guhtijste</t>
+            <t pos="Pron" type="Rel">guhtijste</t>
          </tg>
       </mg>
    </e>
@@ -4821,13 +4821,13 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t nr="Sg" pos="Pron" type="rel">guhtine</t>
+            <t nr="Sg" pos="Pron" type="Rel">guhtine</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
             <re>om flere</re>
-            <t nr="Pl" pos="Pron" type="rel">guhtigujmie</t>
+            <t nr="Pl" pos="Pron" type="Rel">guhtigujmie</t>
          </tg>
       </mg>
    </e>
@@ -4838,7 +4838,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re>om flere</re>
-            <t pos="Pron" type="rel">guhtine</t>
+            <t pos="Pron" type="Rel">guhtine</t>
          </tg>
       </mg>
    </e>
@@ -4848,7 +4848,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="rel">gåabpa</t>
+            <t pos="Pron" type="Rel">gåabpa</t>
             <xg>
                <x>Ingen av de to hører at døra går opp og mor og far står og ser på dem. Hvilken hånd? Høyre eller venstre? Hvilken hånd er det som gjør vondt? Hvem av de to sa det?</x>
                <xt>Ij gåabpa govlh okse rïhpese jïh aehtjie gon tjidtjieh tjåadtjoeminie vuartesjeminie. Gåabpa gïete? Åelkies vuj gårroeh? Gåabpa gïete dïhte mij bååktjehke? Gåabpa dïhte nemhtie jeehti??</xt>
@@ -4857,7 +4857,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="rel">gåabpam</t>
+            <t pos="Pron" type="Rel">gåabpam</t>
             <xg>
                <x>Hvilken av disse to sekkene skal jeg bære?</x>
                <xt>Gåabpam daejstie voessijste edtjem guedtedh?</xt>
@@ -4866,12 +4866,12 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="rel">gåabpetje</t>
+            <t pos="Pron" type="Rel">gåabpetje</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="rel">gåabpetjem</t>
+            <t pos="Pron" type="Rel">gåabpetjem</t>
          </tg>
       </mg>
    </e>
@@ -4881,7 +4881,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="rel">gåabpan</t>
+            <t pos="Pron" type="Rel">gåabpan</t>
             <xg>
                <x>Så skulle de to se hvem av dem som hadde den sterkeste handa.</x>
                <xt>Dle edtjigan vuejnedh gåabpan veaksahkommes gïete.</xt>
@@ -4895,12 +4895,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="rel">gåabpese</t>
+            <t pos="Pron" type="Rel">gåabpese</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="rel">gåabpatjasse</t>
+            <t pos="Pron" type="Rel">gåabpatjasse</t>
          </tg>
       </mg>
    </e>
@@ -4910,12 +4910,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="rel">gåabpesne</t>
+            <t pos="Pron" type="Rel">gåabpesne</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="rel">gåabpene</t>
+            <t pos="Pron" type="Rel">gåabpene</t>
             <xg>
                <x>På hvilken av de to sidene er den?</x>
                <xt>Gåabpene bielesne lea dïhte?</xt>
@@ -4924,7 +4924,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="rel">gåabpatjisnie</t>
+            <t pos="Pron" type="Rel">gåabpatjisnie</t>
          </tg>
       </mg>
    </e>
@@ -4934,7 +4934,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="rel">gåabpene</t>
+            <t pos="Pron" type="Rel">gåabpene</t>
             <xg>
                <x>På hvilken av de to sidene er den?</x>
                <xt>Gåabpene bielesne lea dïhte?</xt>
@@ -4948,17 +4948,17 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="rel">gåabpeste</t>
+            <t pos="Pron" type="Rel">gåabpeste</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="rel">gåabpede</t>
+            <t pos="Pron" type="Rel">gåabpede</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="rel">gåabpatjistie</t>
+            <t pos="Pron" type="Rel">gåabpatjistie</t>
          </tg>
       </mg>
    </e>
@@ -4968,12 +4968,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t nr="Sg" pos="Pron" type="rel">gåabpine</t>
+            <t nr="Sg" pos="Pron" type="Rel">gåabpine</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t nr="Sg" pos="Pron" type="rel">gåabpatjinie</t>
+            <t nr="Sg" pos="Pron" type="Rel">gåabpatjinie</t>
          </tg>
       </mg>
    </e>
@@ -4983,7 +4983,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="rel">gåabpetjen</t>
+            <t pos="Pron" type="Rel">gåabpetjen</t>
          </tg>
       </mg>
    </e>
