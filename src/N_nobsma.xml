@@ -18725,7 +18725,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" soggi="e" stem="2syll">jåvle</t>
+            <t pos="N" soggi="e" stem="2syll">jåvleh</t>
+            <xg>
+               <x>God jul og godt nytt år</x>
+               <xt>Lahkoe jåvleh jïh buerie orre jaepie</xt>
+            </xg>
          </tg>
       </mg>
    </e>
