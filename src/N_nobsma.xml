@@ -753,15 +753,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" stem="3syll">nååhtedimmie</t>
+            <t pos="N" stem="3syll">mååhtedimmie</t>
+             <t pos="N" stem="3syll">latjkoe</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" stem="3syll">nååhtedimmie</t>
-         </tg>
-      </mg>
-   </e>
+     </e>
     <e>
       <lg>
          <l pos="N">bakgrunn</l>
@@ -15830,16 +15826,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" soggi="e" stem="2syll">gïhpe</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">bløtkake</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" soggi="ie" stem="2syll">gïhpelaejpie</t>
          </tg>
       </mg>
    </e>
@@ -33262,16 +33248,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">bringebær</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" stem="2syll">tsietsehthmuerjie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">kjøtthinne</l>
       </lg>
       <mg>
@@ -36341,16 +36317,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t margo="e" pos="N" soggi="oe" stem="3syll">årroje</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">bosted</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" soggi="e" stem="2syll">årromesijjie</t>
          </tg>
       </mg>
    </e>
@@ -40098,16 +40064,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">övtiedimmiesoptsestalleme</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">ansvarlig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">dïedtije</t>
          </tg>
       </mg>
    </e>
@@ -56617,16 +56573,6 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="N" src="fad">behov</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sma">
-        <t pos="N">daarpoe</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="N" src="fad">substantiv</l>
     </lg>
     <mg>
@@ -65884,6 +65830,7 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="sma">
         <t pos="N">åtnoevuekie</t>
+        <t pos="N">pråvhkoevuekie</t>
       </tg>
     </mg>
   </e>
@@ -70818,16 +70765,6 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="sma">
         <t pos="N">soptsesvuekie</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N" src="fad">bruksmåte</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sma">
-        <t pos="N">pråvhkoevuekie</t>
       </tg>
     </mg>
   </e>
@@ -82159,23 +82096,13 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
+            <t pos="n">gihperemuerjie</t>
+            <t pos="n">tjohpenmuerjie</t>
+            <t pos="n">dållemuerjie</t>
             <t pos="n">tsietsehthmuerjie</t>
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l pos="n">bringebær</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">gihperemuerjie</t>
-            <t pos="n">tjohpenmuerjie</t>
-            <t pos="n">dållemuerjie</t>
-         </tg>
-      </mg>
-   </e>
-
    <e>
       <lg>
          <l pos="n">jordbær</l>
