@@ -40855,16 +40855,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">data</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" soggi="a" stem="2syll">daata</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">øvrighetspersoner</l>
       </lg>
       <mg>
@@ -63535,16 +63525,6 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="N" src="fad">diskusjon</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sma">
-        <t pos="N">digkiedimmie</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="N" src="fad">sosialinstitusjon</l>
     </lg>
     <mg>
@@ -79359,16 +79339,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="gg">
       <lg>
-         <l pos="N">debatt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">digkiedimmie</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="gg">
-      <lg>
          <l pos="N">diplomati</l>
       </lg>
       <mg>
@@ -81901,16 +81871,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l pos="n">eplekake</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">eahpelegaahkoe</t>
-         </tg>
-      </mg>
-    </e>
    <e>
       <lg>
          <l pos="n">marsipankake</l>
