@@ -9542,6 +9542,15 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
+       <mg>
+         <tg xml:lang="sma">
+            <t pos="N" soggi="e" stem="2syll">sjuvvesje</t>
+            <xg>
+               <x>dam sjuvvesjem leah datne govleme?</x>
+               <xt>Har du hørt dødsbudskapet?</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -15057,21 +15066,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" soggi="ie" stem="2syll">gåevie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">bue</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" soggi="ie" stem="2syll">gåevie</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">joekse</t>
          </tg>
       </mg>
    </e>
@@ -78556,16 +78550,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">bïevnese</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">budskap</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">dïjre</t>
          </tg>
       </mg>
    </e>
