@@ -799,16 +799,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">veiviser</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" stem="3syll">tsïegle</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">klokkeviser</l>
       </lg>
       <mg>
@@ -59294,7 +59284,7 @@ For the full license text, see the link above.</lic>
     <lg>
       <l pos="N" src="fad">skogområde</l>
     </lg>
-    <mg>
+    <m
       <tg xml:lang="sma">
         <t pos="N">skåajjedajve</t>
       </tg>
@@ -64927,16 +64917,6 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="N" src="fad">valgting</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sma">
-        <t pos="N">veeljemedigkie</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="N" src="fad">rammevilkår</l>
     </lg>
     <mg>
@@ -65824,16 +65804,6 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="sma">
         <t pos="N">vierhtiedimmievåarome</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N" src="fad">virksomhetsområde</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sma">
-        <t pos="N">gïehtelimmiesuerkie</t>
       </tg>
     </mg>
   </e>
@@ -67433,6 +67403,7 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="sma">
         <t pos="N">gïehtelimmiedajve</t>
+        <t pos="N">gïehtelimmiesuerkie</t>
       </tg>
     </mg>
   </e>
@@ -70038,16 +70009,6 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="sma">
         <t pos="N">gærjagåetiedajve</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N" src="fad">vannområde</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sma">
-        <t pos="N">tjaetsiedajve</t>
       </tg>
     </mg>
   </e>
@@ -74131,6 +74092,7 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="sma">
         <t pos="N">evtiedimmievierhtie</t>
+        <t pos="N">övtiedimmievierhtie</t>
       </tg>
     </mg>
   </e>
@@ -74502,6 +74464,7 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="sma">
         <t pos="N">evtiedimmiekurse</t>
+        <t pos="N">övtiedimmiekurse</t>
       </tg>
     </mg>
   </e>
@@ -74562,6 +74525,7 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="sma">
         <t pos="N">evtiedimmievierhtie</t>
+        <t pos="N">övtiedimmievierhtie</t>
       </tg>
     </mg>
   </e>
@@ -75102,16 +75066,6 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="sma">
         <t pos="N">bïhkedimmiekurse</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N" src="fad">vindressurs</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sma">
-        <t pos="N">bïegkevierhtie</t>
       </tg>
     </mg>
   </e>
@@ -75807,16 +75761,6 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="N" src="fad">utviklingsmiddel</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sma">
-        <t pos="N">övtiedimmievierhtie</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="N" src="fad">likestillingsmiddel</l>
     </lg>
     <mg>
@@ -76007,16 +75951,6 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="N" src="fad">utviklingskurs</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sma">
-        <t pos="N">övtiedimmiekurse</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="N" src="fad">timeressurs</l>
     </lg>
     <mg>
@@ -76032,16 +75966,6 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="sma">
         <t pos="N">skåajjevierhtie</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N" src="fad">utviklingsressurs</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sma">
-        <t pos="N">övtiedimmievierhtie</t>
       </tg>
     </mg>
   </e>
@@ -76443,6 +76367,7 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="sma">
         <t pos="N">gïeleevtiedimmievierhtie</t>
+        <t pos="N">gïeleövtiedimmievierhtie</t>
       </tg>
     </mg>
   </e>
@@ -78620,6 +78545,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">vuasahtalleme</t>
+            <t pos="N">vuesiehtimmie</t>
          </tg>
       </mg>
    </e>
@@ -81539,16 +81465,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">ålkoerïjhkeministeere</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="gg">
-      <lg>
-         <l pos="N">utstilling</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">vuesiehtimmie</t>
          </tg>
       </mg>
    </e>
