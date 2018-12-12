@@ -757,21 +757,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e>
-      <lg>
-         <l pos="N">ressurs</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" stem="3syll">maelmie</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" stem="3syll">vierhtie</t>
-         </tg>
-      </mg>
-   </e>
    <e>
       <lg>
          <l pos="N">publikum</l>
@@ -841,16 +826,6 @@ For the full license text, see the link above.</lic>
     <e>
       <lg>
          <l pos="N">kjegle</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" stem="3syll">snjuhtjie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">spiss</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -3648,16 +3623,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" soggi="ie" stem="2syll">baenie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">tannlege</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t margo="e" pos="N" soggi="a" stem="3syll">baeniedåaktere</t>
          </tg>
       </mg>
    </e>
@@ -7744,10 +7709,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" soggi="e" stem="2syll">dajvenomme</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" soggi="e" stem="2syll">sijjienomme</t>
          </tg>
       </mg>
@@ -9313,6 +9274,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" soggi="a" stem="2syll">seabredhgåetie</t>
+            <t pos="N" soggi="a" stem="2syll">seabradahkengåetie</t>
          </tg>
       </mg>
    </e>
@@ -10540,7 +10502,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" soggi="ie" stem="2syll">fijrie</t>
+            <t pos="N" soggi="ie" stem="2syll">noere</t>
          </tg>
       </mg>
    </e>
@@ -20618,6 +20580,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" soggi="a" stem="2syll">leahta</t>
+            <t pos="N" soggi="a" stem="2syll">struktuvre</t>
             <xg>
                <x>strukturen i faget</x>
                <xt>faagen leahtah</xt>
@@ -25954,6 +25917,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t margo="e" pos="N" soggi="i" stem="3syll">raerievedtije</t>
+            <t margo="e" pos="N" soggi="i" stem="3syll">raeriestæjja</t>
          </tg>
       </mg>
    </e>
@@ -26084,16 +26048,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" soggi="ie" stem="2syll">reakedsbiejjie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">rettighet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" soggi="a" stem="2syll">reakta</t>
          </tg>
       </mg>
    </e>
@@ -26841,16 +26795,6 @@ For the full license text, see the link above.</lic>
    <e>
       <lg>
          <l pos="N">sendebud</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t margo="e" pos="N" soggi="e" stem="3syll">saadthalmetje</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">representant</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -30238,16 +30182,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">sektor</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" soggi="ie" stem="2syll">suerkie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">asp</l>
       </lg>
       <mg>
@@ -31189,16 +31123,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" soggi="e" stem="2syll">tjaangeldahke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">skriftspråk</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" soggi="e" stem="2syll">tjaaleldhgïele</t>
          </tg>
       </mg>
    </e>
@@ -35022,16 +34946,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">skikk</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" soggi="ie" stem="2syll">vuekie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">måte</l>
       </lg>
       <mg>
@@ -35672,16 +35586,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" soggi="ie" stem="2syll">åarjelraedtie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">sørsame</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" soggi="ie" stem="2syll">åarjelsaemie</t>
          </tg>
       </mg>
    </e>
@@ -39557,16 +39461,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">tidsperspektiv</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">tïjjeperspektijve</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">klokskap</l>
       </lg>
       <mg>
@@ -40197,16 +40091,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">ekonomije</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">substantiv</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">substantijve</t>
          </tg>
       </mg>
    </e>
@@ -56530,7 +56414,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">åarjel-saemie</t>
+        <t pos="N">åarjelsaemie</t>
       </tg>
     </mg>
   </e>
@@ -56611,16 +56495,6 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="sma">
         <t pos="N">tjåenietjåanghkoe</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N" src="fad">tannlegeutdanning</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sma">
-        <t pos="N">baeniedåaktereööhpehtimmie</t>
       </tg>
     </mg>
   </e>
@@ -58284,16 +58158,6 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="N" src="fad">urfolkskunnskap</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sma">
-        <t pos="N">aalkoealmetjenmaahtoe</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="N" src="fad">gjeterhjelp</l>
     </lg>
     <mg>
@@ -59457,16 +59321,6 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="sma">
         <t pos="N">bealloe</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N" src="fad">sameskole</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sma">
-        <t pos="N">saemienskuvle</t>
       </tg>
     </mg>
   </e>
@@ -61713,16 +61567,6 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="N" src="fad">rådgiver</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sma">
-        <t pos="N">raeriestæjja</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="N" src="fad">faktor</l>
     </lg>
     <mg>
@@ -62043,16 +61887,6 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="N" src="fad">samfunnshus</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sma">
-        <t pos="N">seabradahkegåetie</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="N" src="fad">status</l>
     </lg>
     <mg>
@@ -62289,15 +62123,6 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="sma">
         <t pos="N">dajvenommeprosjekte</t>
-      </tg>
-    </mg>
-  </e>
-   <e>
-    <lg>
-      <l pos="N" src="fad">stedsnavnprosjekt</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sma">
         <t pos="N">sijjienommeprosjekte</t>
       </tg>
     </mg>
@@ -63072,6 +62897,11 @@ For the full license text, see the link above.</lic>
         <t pos="N">suerkie</t>
       </tg>
     </mg>
+    <mg>
+      <tg xml:lang="sma">
+        <t pos="N">sektovre</t>
+      </tg>
+    </mg>
   </e>
   <e>
     <lg>
@@ -63636,7 +63466,8 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="sma">
         <t pos="N">saadthalmetje</t>
-        <t pos="N">representaante</t>
+        <t pos="N">representante</t>
+        <t pos="N">tjirkije</t>
       </tg>
     </mg>
   </e>
@@ -63882,16 +63713,6 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="N" src="fad">utgangspunkt</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sma">
-        <t pos="N">aalkoetsiehkie</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="N" src="fad">fartøy</l>
     </lg>
     <mg>
@@ -63958,16 +63779,6 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="sma">
         <t pos="N">maahtoesuerkie</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N" src="fad">språkområde</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sma">
-        <t pos="N"> gïeledajve</t>
       </tg>
     </mg>
   </e>
@@ -65477,16 +65288,6 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="N" src="fad">rettsregel</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sma">
-        <t pos="N">reaktanjoelkedasse</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="N" src="fad">reformasjon</l>
     </lg>
     <mg>
@@ -65819,16 +65620,6 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="N" src="fad">undersøkelse</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sma">
-        <t pos="N">dotkeme</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="N" src="fad">tradisjonskunnskap</l>
     </lg>
     <mg>
@@ -65874,16 +65665,6 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="sma">
         <t pos="N">skulptuvre</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N" src="fad">skolekonferanse</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sma">
-        <t pos="N">skuvlekonferanse</t>
       </tg>
     </mg>
   </e>
@@ -69709,16 +69490,6 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="sma">
         <t pos="N">vierhtiebyjrese</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N" src="fad">sakprosa</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sma">
-        <t pos="N">aamhtesenprovsa</t>
       </tg>
     </mg>
   </e>
@@ -75151,16 +74922,6 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="N" src="fad">ungdomsmiljø</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sma">
-        <t pos="N">noeribyjrese</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="N" src="fad">reindriftsmiljø</l>
     </lg>
     <mg>
@@ -75171,31 +74932,11 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="N" src="fad">samfunnstema</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sma">
-        <t pos="N">seabradahkeaamhtese</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="N" src="fad">forside</l>
     </lg>
     <mg>
       <tg xml:lang="sma">
         <t pos="N">åvtesæjroe</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N" src="fad">søknadsperiode</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sma">
-        <t pos="N">ohtsemeboelhke</t>
       </tg>
     </mg>
   </e>
@@ -75306,16 +75047,6 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="sma">
         <t pos="N">reaktanjoelkedasse</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N" src="fad">skolespørsmål</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sma">
-        <t pos="N">skuvlegyhtjelasse</t>
       </tg>
     </mg>
   </e>
@@ -75556,16 +75287,6 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="sma">
         <t pos="N">åejviefaaleldahke</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N" src="fad">sosialtilbud</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sma">
-        <t pos="N">sosijaalefaaleldahke</t>
       </tg>
     </mg>
   </e>
@@ -77384,16 +77105,6 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">skolegård</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sma">
-        <t pos="A">skuvlegaertene</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="A" src="fad">økonomiområde</l>
     </lg>
     <mg>
@@ -77995,16 +77706,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">utfordring</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">haesteme</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">trening</l>
       </lg>
       <mg>
@@ -78586,16 +78287,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">aejkiemierie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">utfordring</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">haesteme</t>
          </tg>
       </mg>
    </e>
@@ -81420,16 +81111,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="gg">
       <lg>
-         <l pos="N">tvil</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">juerie</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="gg">
-      <lg>
          <l pos="N" nr="Pl">tøfler</l>
       </lg>
       <mg>
@@ -81591,17 +81272,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="N">pååssajoptse</t>
             <t pos="N">passajoptse</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="gg">
-      <lg>
-         <l pos="N">rengjøringsassistent</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">sjïekedæjja</t>
-            <t pos="N">sjeakoje</t>
          </tg>
       </mg>
    </e>
