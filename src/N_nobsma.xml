@@ -33136,6 +33136,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" soggi="ie" stem="2syll">tsåelhkielaejpie</t>
+            <t pos="n">tsåalhkelaejpie</t>
          </tg>
       </mg>
    </e>
@@ -61968,16 +61969,6 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="N" src="fad">pilotprosjekt</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sma">
-        <t pos="N">pilovteprosjekte</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="N" src="fad">kulturdokumentasjonsprosjekt</l>
     </lg>
     <mg>
@@ -66236,7 +66227,7 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="N" src="fad">pesk</l>
+      <l pos="N" src="fad">lukket-pesk</l>
     </lg>
     <mg>
       <tg xml:lang="sma">
@@ -69434,16 +69425,6 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="sma">
         <t pos="N">tjïelteveeljemeboelhke</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N" src="fad">planperiode</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sma">
-        <t pos="N">soejkesjeboelhke</t>
       </tg>
     </mg>
   </e>
@@ -80934,17 +80915,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="n">jissehtslaejpie</t>
-         </tg>
-      </mg>
-   </e>
-   
-   <e>
-      <lg>
-         <l pos="n">pikkebrød</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">tsåalhkelaejpie</t>
          </tg>
       </mg>
    </e>
