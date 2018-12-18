@@ -69448,6 +69448,17 @@ For the full license text, see the link above.</lic>
       </tg>
     </mg>
   </e>
+    <e>
+    <lg>
+      <l pos="N" src="fad">sammendrag</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sma">
+        <t pos="N">veesmedahke</t>
+        <t pos="N">iktedimmie</t>
+      </tg>
+    </mg>
+  </e>
   <e>
     <lg>
       <l pos="N" src="fad">fylkeslege</l>
