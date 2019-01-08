@@ -81457,4 +81457,63 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   </e>
+      <e src="gg">
+      <lg>
+         <l pos="N">iskake</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">tjastegaahkoe</t>
+         </tg>
+      </mg>
+   </e>
+      </e>
+      <e src="gg">
+      <lg>
+         <l pos="N">vuastasnaejrie</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">vuastasnaejrie</t>
+         </tg>
+      </mg>
+   </e>
+   </e>
+      </e>
+      <e src="gg">
+      <lg>
+         <l pos="N">bissememunnie</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">speilegg</t>
+         </tg>
+      </mg>
+   </e>
+   </e>
+      </e>
+      <e src="gg">
+      <lg>
+         <l pos="N">salamije</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">salami</t>
+         </tg>
+      </mg>
+   </e>
+   </e>
+      </e>
+      <e src="gg">
+      <lg>
+         <l pos="N">kjöttrulle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">skompe</t>
+            <t pos="N">gïebremegoerve</t>
+         </tg>
+      </mg>
+   </e>
 </r>
