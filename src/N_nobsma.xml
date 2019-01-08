@@ -80897,13 +80897,13 @@ For the full license text, see the link above.</lic>
          <l pos="N">bolle</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
          <re>om bakverk</re>
             <t pos="N">jorpegååhketje</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
          <re>om beholder</re>
             <t pos="N">gaerie</t>
          </tg>
@@ -80914,7 +80914,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">rundstykke</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="N">gaavnjeresgaahkoe</t>
          </tg>
       </mg>
@@ -80924,7 +80924,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">flatbrød</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="N">jissehtslaejpie</t>
          </tg>
       </mg>
@@ -80934,7 +80934,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">mykbrød</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="N">möövhkeslaejpie</t>
          </tg>
       </mg>
@@ -80944,7 +80944,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">glokake</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="N">sjïjlelaejpie</t>
          </tg>
       </mg>
@@ -80954,12 +80954,12 @@ For the full license text, see the link above.</lic>
          <l pos="N">hyllkake</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="N">ruevtienlaejpie</t>
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="N">gierkienlaejpie</t>
          </tg>
       </mg>
@@ -80969,7 +80969,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">bløtkake</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="N">måasoehgaahkoe</t>
             <t pos="N">måasasgaahkoe</t>
             <t pos="N">måasoehlaejpie</t>
@@ -80982,7 +80982,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">sjokoladekake</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="N">sjokolaadegaahkoe</t>
          </tg>
       </mg>
@@ -80992,7 +80992,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">gulrotkake</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="N">viskesroehtsegaahkoe</t>
          </tg>
       </mg>
@@ -81002,7 +81002,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">marsipankake</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="N">marsipaanegaahkoe</t>
          </tg>
       </mg>
@@ -81012,7 +81012,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">ostekake</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="N">vuastagaahkoe</t>
          </tg>
       </mg>
@@ -81022,7 +81022,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">fruktkake</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="N">muerjiegaahkoe</t>
          </tg>
       </mg>
@@ -81032,7 +81032,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">iskake</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="N">tjastegaahkoe</t>
          </tg>
       </mg>
@@ -81043,7 +81043,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">hvitostskive</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="N">vuastasnaejrie</t>
          </tg>
       </mg>
@@ -81053,7 +81053,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">speilegg</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="N">bïssememunnie</t>
          </tg>
       </mg>
@@ -81063,7 +81063,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">servelat</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="N">servelaate</t>
          </tg>
       </mg>
@@ -81073,7 +81073,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">salami</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="N">salamije</t>
          </tg>
       </mg>
@@ -81083,7 +81083,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">kjøttrull</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="N">skompe</t>
          </tg>
       </mg>
@@ -81093,7 +81093,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">nugatti</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="N">nugatti</t>
          </tg>
       </mg>
@@ -81104,7 +81104,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">cornflakes</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="N">gerniebliehkie</t>
          </tg>
       </mg>
@@ -81114,7 +81114,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">honnikorn</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="N">hååneskegernieh</t>
          </tg>
       </mg>
@@ -81124,7 +81124,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">syltetøy</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="N">muerjie</t>
          </tg>
       </mg>
@@ -81134,7 +81134,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">bringebær</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="N">gihperemuerjie</t>
             <t pos="N">tjohpenmuerjie</t>
             <t pos="N">dållemuerjie</t>
@@ -81147,7 +81147,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">jordbær</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="N">jåartemuerjie</t>
             <t pos="N">eatnemenmuerjie</t>
             <t pos="N">laantenmuerjie</t>
@@ -81159,7 +81159,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">solbær</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="N">biejjienmuerjie</t>
          </tg>
       </mg>
@@ -81169,7 +81169,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">leverpostie</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="N">libriepoeste</t>
             <t pos="N">mueksientjavkese</t>
          </tg>
@@ -81180,7 +81180,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">prim</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="N">prijme</t>
          </tg>
       </mg>
@@ -81190,7 +81190,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">majones</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="N">majoneese</t>
          </tg>
       </mg>
@@ -81200,7 +81200,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">tomat</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="N">tomaate</t>
          </tg>
       </mg>
@@ -81210,7 +81210,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">agurk</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="N">agurke</t>
          </tg>
       </mg>
@@ -81220,7 +81220,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">paprika</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="N">paprika</t>
          </tg>
       </mg>
@@ -81230,7 +81230,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">brus</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="N">bruvse</t>
          </tg>
       </mg>
@@ -81240,7 +81240,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">kakao</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="N">kakaove</t>
          </tg>
       </mg>
@@ -81250,7 +81250,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">ingefærøl</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="N">ingefæærenvoelege</t>
          </tg>
       </mg>
@@ -81260,7 +81260,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">middagspølse</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="N">gaskebiejjiengoerve</t>
          </tg>
       </mg>
@@ -81270,7 +81270,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">kjøttkake</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="N">bearkoegaamsoe</t>
             <t pos="N">bearkoegaahkoe</t>
          </tg>
@@ -81281,7 +81281,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">kjøttpudding</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="N">bearkoestongke</t>
          </tg>
       </mg>
@@ -81291,7 +81291,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">kjøttfarse</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="N">bearkoedaajje</t>
          </tg>
       </mg>
@@ -81301,7 +81301,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">kalkun</l>
       </lg>
       <mg>
-         <tg>
+         <tg xml:lang="sma">
             <t pos="N">kalkovne</t>
          </tg>
       </mg>
