@@ -81329,4 +81329,78 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="gg">
+      <lg>
+         <l pos="N">ostesmørbrød</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">vuastavoejesnaejrie</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="gg">
+      <lg>
+         <l pos="N">bolle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">jorpegååhketje</t>
+         </tg>
+      </mg>
+    </e>
+    <e src="gg">
+      <lg>
+         <l pos="N">rundstykke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">gaavnjeresgaahkoe</t>
+         </tg>
+      </mg>
+    </e>
+    <e src="gg">
+      <lg>
+         <l pos="N">flatbrød</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">jissehtslaejpie</t>
+         </tg>
+      </mg>
+     </e>
+     <e src="gg">
+      <lg>
+         <l pos="N">hyllkake</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">ruevtienlaejpie</t>
+            <t pos="N">gierkienlaejpie</t>
+         </tg>
+      </mg>
+     </e>
+     <e src="gg">
+      <lg>
+         <l pos="N">glokake</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">sjïjlelaejpie</t>
+         </tg>
+      </mg>
+     </e>
+   <e src="gg">
+      <lg>
+         <l pos="N">bløtkake</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">måasasgaahkoe</t>
+            <t pos="N">måasoehgaahkoe</t>
+            <t pos="N">måasoehlaejpie</t>
+            <t pos="N">gïhpelaejpie</t>
+         </tg>
+      </mg>
+   </e>
 </r>
