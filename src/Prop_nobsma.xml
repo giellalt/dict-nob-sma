@@ -7845,6 +7845,17 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
 
+   <e>
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Løytnantsklumpen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>Vefsn</re>
+            <t pos="N" type="Prop">Veeln snjaptje</t>
+         </tg>
+      </mg>
+   </e>
    
    <e>
       <lg>
