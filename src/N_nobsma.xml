@@ -21472,7 +21472,7 @@ For the full license text, see the link above.</lic>
             <t pos="N" soggi="oe" stem="2syll">låajtoe</t>
          </tg>
       </mg>
-   </e> 
+   </e>
    <e>
      <lg>
          <l pos="N">hjertebör</l>
@@ -21482,7 +21482,7 @@ For the full license text, see the link above.</lic>
             <t pos="N" soggi="oe" stem="2syll">vaajmoemaajsoe</t>
          </tg>
       </mg>
-   </e> 
+   </e>
    <e>
       <lg>
          <l pos="N">lomme</l>
@@ -33136,7 +33136,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" soggi="ie" stem="2syll">tsåelhkielaejpie</t>
-            <t pos="n">tsåalhkelaejpie</t>
+            <t pos="N">tsåalhkelaejpie</t>
          </tg>
       </mg>
    </e>
@@ -56700,7 +56700,7 @@ For the full license text, see the link above.</lic>
         <t pos="N">eatnemegoerpe</t>
       </tg>
     </mg>
-  </e> 
+  </e>
   <e>
     <lg>
       <l pos="N" src="fad">nettsted</l>
@@ -80894,415 +80894,415 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="n">bolle</l>
+         <l pos="N">bolle</l>
       </lg>
       <mg>
          <tg>
          <re>om bakverk</re>
-            <t pos="n">jorpegååhketje</t>
+            <t pos="N">jorpegååhketje</t>
          </tg>
       </mg>
       <mg>
          <tg>
          <re>om beholder</re>
-            <t pos="n">gaerie</t>
+            <t pos="N">gaerie</t>
          </tg>
       </mg>
-   </e>   
+   </e>
      <e>
       <lg>
-         <l pos="n">rundstykke</l>
+         <l pos="N">rundstykke</l>
       </lg>
       <mg>
          <tg>
-            <t pos="n">gaavnjeresgaahkoe</t>
+            <t pos="N">gaavnjeresgaahkoe</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="n">flatbrød</l>
+         <l pos="N">flatbrød</l>
       </lg>
       <mg>
          <tg>
-            <t pos="n">jissehtslaejpie</t>
+            <t pos="N">jissehtslaejpie</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="n">mykbrød</l>
+         <l pos="N">mykbrød</l>
       </lg>
       <mg>
          <tg>
-            <t pos="n">möövhkeslaejpie</t>
+            <t pos="N">möövhkeslaejpie</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="n">glokake</l>
+         <l pos="N">glokake</l>
       </lg>
       <mg>
          <tg>
-            <t pos="n">sjïjlelaejpie</t>
+            <t pos="N">sjïjlelaejpie</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="n">hyllkake</l>
+         <l pos="N">hyllkake</l>
       </lg>
       <mg>
          <tg>
-            <t pos="n">ruevtienlaejpie</t>
+            <t pos="N">ruevtienlaejpie</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="n">gierkienlaejpie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">bløtkake</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">måasoehgaahkoe</t>
-            <t pos="n">måasasgaahkoe</t>
-            <t pos="n">måasoehlaejpie</t>
-            <t pos="n">gïhpelaejpie</t>
+            <t pos="N">gierkienlaejpie</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="n">sjokoladekake</l>
+         <l pos="N">bløtkake</l>
       </lg>
       <mg>
          <tg>
-            <t pos="n">sjokolaadegaahkoe</t>
+            <t pos="N">måasoehgaahkoe</t>
+            <t pos="N">måasasgaahkoe</t>
+            <t pos="N">måasoehlaejpie</t>
+            <t pos="N">gïhpelaejpie</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="n">gulrotkake</l>
+         <l pos="N">sjokoladekake</l>
       </lg>
       <mg>
          <tg>
-            <t pos="n">viskesroehtsegaahkoe</t>
+            <t pos="N">sjokolaadegaahkoe</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="n">marsipankake</l>
+         <l pos="N">gulrotkake</l>
       </lg>
       <mg>
          <tg>
-            <t pos="n">marsipaanegaahkoe</t>
+            <t pos="N">viskesroehtsegaahkoe</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="n">ostekake</l>
+         <l pos="N">marsipankake</l>
       </lg>
       <mg>
          <tg>
-            <t pos="n">vuastagaahkoe</t>
+            <t pos="N">marsipaanegaahkoe</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="n">fruktkake</l>
+         <l pos="N">ostekake</l>
       </lg>
       <mg>
          <tg>
-            <t pos="n">muerjiegaahkoe</t>
+            <t pos="N">vuastagaahkoe</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">fruktkake</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">muerjiegaahkoe</t>
          </tg>
       </mg>
     </e>
     <e>
       <lg>
-         <l pos="n">iskake</l>
+         <l pos="N">iskake</l>
       </lg>
       <mg>
          <tg>
-            <t pos="n">tjastegaahkoe</t>
+            <t pos="N">tjastegaahkoe</t>
          </tg>
       </mg>
     </e>
-    
+
     <e>
       <lg>
-         <l pos="n">hvitostskive</l>
+         <l pos="N">hvitostskive</l>
       </lg>
       <mg>
          <tg>
-            <t pos="n">vuastasnaejrie</t>
+            <t pos="N">vuastasnaejrie</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="n">speilegg</l>
+         <l pos="N">speilegg</l>
       </lg>
       <mg>
          <tg>
-            <t pos="n">bïssememunnie</t>
+            <t pos="N">bïssememunnie</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="n">servelat</l>
+         <l pos="N">servelat</l>
       </lg>
       <mg>
          <tg>
-            <t pos="n">servelaate</t>
+            <t pos="N">servelaate</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="n">salami</l>
+         <l pos="N">salami</l>
       </lg>
       <mg>
          <tg>
-            <t pos="n">salamije</t>
+            <t pos="N">salamije</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="n">kjøttrull</l>
+         <l pos="N">kjøttrull</l>
       </lg>
       <mg>
          <tg>
-            <t pos="n">skompe</t>
+            <t pos="N">skompe</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="n">nugatti</l>
+         <l pos="N">nugatti</l>
       </lg>
       <mg>
          <tg>
-            <t pos="n">nugatti</t>
+            <t pos="N">nugatti</t>
          </tg>
       </mg>
    </e>
-   
+
    <e>
       <lg>
-         <l pos="n">cornflakes</l>
+         <l pos="N">cornflakes</l>
       </lg>
       <mg>
          <tg>
-            <t pos="n">gerniebliehkie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">honnikorn</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">hååneskegernieh</t>
+            <t pos="N">gerniebliehkie</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="n">syltetøy</l>
+         <l pos="N">honnikorn</l>
       </lg>
       <mg>
          <tg>
-            <t pos="n">muerjie</t>
+            <t pos="N">hååneskegernieh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="n">bringebær</l>
+         <l pos="N">syltetøy</l>
       </lg>
       <mg>
          <tg>
-            <t pos="n">gihperemuerjie</t>
-            <t pos="n">tjohpenmuerjie</t>
-            <t pos="n">dållemuerjie</t>
-            <t pos="n">tsietsehthmuerjie</t>
+            <t pos="N">muerjie</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="n">jordbær</l>
+         <l pos="N">bringebær</l>
       </lg>
       <mg>
          <tg>
-            <t pos="n">jåartemuerjie</t>
-            <t pos="n">eatnemenmuerjie</t>
+            <t pos="N">gihperemuerjie</t>
+            <t pos="N">tjohpenmuerjie</t>
+            <t pos="N">dållemuerjie</t>
+            <t pos="N">tsietsehthmuerjie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">jordbær</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">jåartemuerjie</t>
+            <t pos="N">eatnemenmuerjie</t>
             <t pos="N">laantenmuerjie</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="n">solbær</l>
+         <l pos="N">solbær</l>
       </lg>
       <mg>
          <tg>
-            <t pos="n">biejjienmuerjie</t>
+            <t pos="N">biejjienmuerjie</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="n">leverpostie</l>
+         <l pos="N">leverpostie</l>
       </lg>
       <mg>
          <tg>
-            <t pos="n">libriepoeste</t>
-            <t pos="n">mueksientjavkese</t>
-         </tg>
-      </mg>
-   </e>
-   <e>   
-      <lg>
-         <l pos="n">prim</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">prijme</t>
+            <t pos="N">libriepoeste</t>
+            <t pos="N">mueksientjavkese</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="n">majones</l>
+         <l pos="N">prim</l>
       </lg>
       <mg>
          <tg>
-            <t pos="n">majoneese</t>
+            <t pos="N">prijme</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="n">tomat</l>
+         <l pos="N">majones</l>
       </lg>
       <mg>
          <tg>
-            <t pos="n">tomaate</t>
+            <t pos="N">majoneese</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="n">agurk</l>
+         <l pos="N">tomat</l>
       </lg>
       <mg>
          <tg>
-            <t pos="n">agurke</t>
+            <t pos="N">tomaate</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="n">paprika</l>
+         <l pos="N">agurk</l>
       </lg>
       <mg>
          <tg>
-            <t pos="n">paprika</t>
+            <t pos="N">agurke</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="n">brus</l>
+         <l pos="N">paprika</l>
       </lg>
       <mg>
          <tg>
-            <t pos="n">bruvse</t>
+            <t pos="N">paprika</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="n">kakao</l>
+         <l pos="N">brus</l>
       </lg>
       <mg>
          <tg>
-            <t pos="n">kakaove</t>
+            <t pos="N">bruvse</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="n">ingefærøl</l>
+         <l pos="N">kakao</l>
       </lg>
       <mg>
          <tg>
-            <t pos="n">ingefæærenvoelege</t>
+            <t pos="N">kakaove</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="n">middagspølse</l>
+         <l pos="N">ingefærøl</l>
       </lg>
       <mg>
          <tg>
-            <t pos="n">gaskebiejjiengoerve</t>
+            <t pos="N">ingefæærenvoelege</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="n">kjøttkake</l>
+         <l pos="N">middagspølse</l>
       </lg>
       <mg>
          <tg>
-            <t pos="n">bearkoegaamsoe</t>
-            <t pos="n">bearkoegaahkoe</t>
+            <t pos="N">gaskebiejjiengoerve</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="n">kjøttpudding</l>
+         <l pos="N">kjøttkake</l>
       </lg>
       <mg>
          <tg>
-            <t pos="n">bearkoestongke</t>
+            <t pos="N">bearkoegaamsoe</t>
+            <t pos="N">bearkoegaahkoe</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="n">kjøttfarse</l>
+         <l pos="N">kjøttpudding</l>
       </lg>
       <mg>
          <tg>
-            <t pos="n">bearkoedaajje</t>
+            <t pos="N">bearkoestongke</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kjøttfarse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">bearkoedaajje</t>
          </tg>
       </mg>
    </e>
     <e>
       <lg>
-         <l pos="n">kalkun</l>
+         <l pos="N">kalkun</l>
       </lg>
       <mg>
          <tg>
-            <t pos="n">kalkovne</t>
+            <t pos="N">kalkovne</t>
          </tg>
       </mg>
    </e>
