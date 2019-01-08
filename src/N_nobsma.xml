@@ -81403,4 +81403,58 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+      <e src="gg">
+      <lg>
+         <l pos="N">gulrotkake</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">viskesroehtsegaahkoe</t>
+         </tg>
+      </mg>
+   </e>
+   </e>
+      <e src="gg">
+      <lg>
+         <l pos="N">banankake</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">banaanegaahkoe</t>
+         </tg>
+      </mg>
+   </e>
+   </e>
+      <e src="gg">
+      <lg>
+         <l pos="N">marsipankake</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">marsipaanegaahkoe</t>
+         </tg>
+      </mg>
+   </e>
+   </e>
+      <e src="gg">
+      <lg>
+         <l pos="N">ostekake</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">vuastagaahkoe</t>
+         </tg>
+      </mg>
+   </e>
+   </e>
+      <e src="gg">
+      <lg>
+         <l pos="N">fruktkake</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">muerjiegaahkoe</t>
+         </tg>
+      </mg>
+   </e>
 </r>
