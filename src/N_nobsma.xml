@@ -81731,5 +81731,126 @@ For the full license text, see the link above.</lic>
             <t pos="n">liemie</t>
          </tg>
       </mg>
-   </e>   
+   </e> 
+   <e> 
+      <lg>
+         <l pos="n">kotelett</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kotelehte</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kjøttbein</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">måaroenbearkoe</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ribbe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">snurkenïehterdahke</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">havregrøt</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">haegriekrovnekraavhtse</t>
+         </tg>
+      </mg>
+   </e>
+   
+   <e>
+      <lg>
+         <lnatord_fra_kurs pos="n">risengrynsgrøt</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">rijsenkrovnekraavhtse</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">grynmelsgrøt</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">krovnejavvoehkraavhtse</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">rømmegrøt</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">såvroegïhpekraavhtse</t>
+         </tg>
+      </mg>
+   </e>
+     <e>
+      <lg>
+         <l pos="n">kylling</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">vöönhtsentjovke</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">taco</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">taakoe</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">pizza</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">pizza</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">pannekake</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">paannelaejpie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ertesuppe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">earhtenejoptse</t>
+         </tg>
+      </mg>
+   </e>
 </r>
