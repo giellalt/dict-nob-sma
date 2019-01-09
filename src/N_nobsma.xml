@@ -81237,16 +81237,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">kakao</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">kakaove</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">ingefærøl</l>
       </lg>
       <mg>
@@ -81492,7 +81482,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">salami</t>
          </tg>
       </mg>
-      </e>
+   </e>
       <e src="gg">
       <lg>
          <l pos="N">kjöttrulle</l>
@@ -81504,4 +81494,244 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   </e>
+      <e src="gg">
+      <lg>
+         <l pos="N">nugatti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">nugattije</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">cornflaces</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">gerniebliehkie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">honnikorn</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">håannegegernieh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">bringebær</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">tsihtsehthmuerjie</t>
+            <t pos="n">tsietsehthmuerjie</t>
+            <t pos="n">gihperemuerjie</t>
+            <t pos="n">dållemuerjie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">jordbær</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">jåartemuerjie</t>
+            <t pos="n">laantenmuerjie</t>
+            <t pos="n">eatnemenmuerjie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">solbær</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">biejjienmuerjie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">leverpostei</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">libriepoeste</t>
+            <t pos="n">mueksietjavkese</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+	<e>   
+      <lg>
+         <l pos="n">prim</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">prijme</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">majones</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">majoneese</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tomat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">tomaate</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">agurk</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">agurhke</t>
+         </tg>
+      </mg>
+   </e>
+      <e>
+      <lg>
+         <l pos="n">paprika</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">paprika</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">brus</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">bruvse</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kakao</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">kakaove</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ingefærøl</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">ingefærenvoelege</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">middagspølse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">gaskebiejjhgoerve</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kjøttkake</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">bearkoegaamsoe</t>
+            <t pos="n">bearkoegaahkoe</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kjøttpudding</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">bearkoestongke</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kjøttdeig</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">njeervemebearkoe</t>
+            <t pos="n">meeelemebearkoe</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">skavekjøtt</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">bïjremebearkoe</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">stekkjøtt</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">bissemebearkoe</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">røykakjøtt</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">soevesbearkoe</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kjøttkraft</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">liemie</t>
+         </tg>
+      </mg>
+   </e>   
 </r>
