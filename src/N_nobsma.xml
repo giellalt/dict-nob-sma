@@ -81506,350 +81506,350 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="n">cornflaces</l>
+         <l pos="N">cornflaces</l>
       </lg>
       <mg>
-         <tg>
-            <t pos="n">gerniebliehkie</t>
+         <tg xml:lang="sma">
+            <t pos="N">gerniebliehkie</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="n">honnikorn</l>
+         <l pos="N">honnikorn</l>
       </lg>
       <mg>
-         <tg>
-            <t pos="n">håannegegernieh</t>
+         <tg xml:lang="sma">
+            <t pos="N">håannegegernieh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="n">bringebær</l>
+         <l pos="N">bringebær</l>
       </lg>
       <mg>
-         <tg>
-            <t pos="n">tsihtsehthmuerjie</t>
-            <t pos="n">tsietsehthmuerjie</t>
-            <t pos="n">gihperemuerjie</t>
-            <t pos="n">dållemuerjie</t>
+         <tg xml:lang="sma">
+            <t pos="N">tsihtsehthmuerjie</t>
+            <t pos="N">tsietsehthmuerjie</t>
+            <t pos="N">gihperemuerjie</t>
+            <t pos="N">dållemuerjie</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="n">jordbær</l>
+         <l pos="N">jordbær</l>
       </lg>
       <mg>
-         <tg>
-            <t pos="n">jåartemuerjie</t>
-            <t pos="n">laantenmuerjie</t>
-            <t pos="n">eatnemenmuerjie</t>
+         <tg xml:lang="sma">
+            <t pos="N">jåartemuerjie</t>
+            <t pos="N">laantenmuerjie</t>
+            <t pos="N">eatnemenmuerjie</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="n">solbær</l>
+         <l pos="N">solbær</l>
       </lg>
       <mg>
-         <tg>
-            <t pos="n">biejjienmuerjie</t>
+         <tg xml:lang="sma">
+            <t pos="N">biejjienmuerjie</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="n">leverpostei</l>
+         <l pos="N">leverpostei</l>
       </lg>
       <mg>
-         <tg>
-            <t pos="n">libriepoeste</t>
-            <t pos="n">mueksietjavkese</t>
+         <tg xml:lang="sma">
+            <t pos="N">libriepoeste</t>
+            <t pos="N">mueksietjavkese</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="n">prim</l>
+         <l pos="N">prim</l>
       </lg>
       <mg>
-         <tg>
-            <t pos="n">prijme</t>
+         <tg xml:lang="sma">
+            <t pos="N">prijme</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="n">majones</l>
+         <l pos="N">majones</l>
       </lg>
       <mg>
-         <tg>
-            <t pos="n">majoneese</t>
+         <tg xml:lang="sma">
+            <t pos="N">majoneese</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="n">tomat</l>
+         <l pos="N">tomat</l>
       </lg>
       <mg>
-         <tg>
-            <t pos="n">tomaate</t>
+         <tg xml:lang="sma">
+            <t pos="N">tomaate</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="n">agurk</l>
+         <l pos="N">agurk</l>
       </lg>
       <mg>
-         <tg>
-            <t pos="n">agurhke</t>
+         <tg xml:lang="sma">
+            <t pos="N">agurhke</t>
          </tg>
       </mg>
    </e>
       <e>
       <lg>
-         <l pos="n">paprika</l>
+         <l pos="N">paprika</l>
       </lg>
       <mg>
-         <tg>
-            <t pos="n">paprika</t>
+         <tg xml:lang="sma">
+            <t pos="N">paprika</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="n">brus</l>
+         <l pos="N">brus</l>
       </lg>
       <mg>
-         <tg>
-            <t pos="n">bruvse</t>
+         <tg xml:lang="sma">
+            <t pos="N">bruvse</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="n">kakao</l>
+         <l pos="N">kakao</l>
       </lg>
       <mg>
-         <tg>
-            <t pos="n">kakaove</t>
+         <tg xml:lang="sma">
+            <t pos="N">kakaove</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="n">ingefærøl</l>
+         <l pos="N">ingefærøl</l>
       </lg>
       <mg>
-         <tg>
-            <t pos="n">ingefærenvoelege</t>
+         <tg xml:lang="sma">
+            <t pos="N">ingefærenvoelege</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="n">middagspølse</l>
+         <l pos="N">middagspølse</l>
       </lg>
       <mg>
-         <tg>
-            <t pos="n">gaskebiejjhgoerve</t>
+         <tg xml:lang="sma">
+            <t pos="N">gaskebiejjhgoerve</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="n">kjøttkake</l>
+         <l pos="N">kjøttkake</l>
       </lg>
       <mg>
-         <tg>
-            <t pos="n">bearkoegaamsoe</t>
-            <t pos="n">bearkoegaahkoe</t>
+         <tg xml:lang="sma">
+            <t pos="N">bearkoegaamsoe</t>
+            <t pos="N">bearkoegaahkoe</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="n">kjøttpudding</l>
+         <l pos="N">kjøttpudding</l>
       </lg>
       <mg>
-         <tg>
-            <t pos="n">bearkoestongke</t>
+         <tg xml:lang="sma">
+            <t pos="N">bearkoestongke</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="n">kjøttdeig</l>
+         <l pos="N">kjøttdeig</l>
       </lg>
       <mg>
-         <tg>
-            <t pos="n">njeervemebearkoe</t>
-            <t pos="n">meeelemebearkoe</t>
+         <tg xml:lang="sma">
+            <t pos="N">njeervemebearkoe</t>
+            <t pos="N">meeelemebearkoe</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="n">skavekjøtt</l>
+         <l pos="N">skavekjøtt</l>
       </lg>
       <mg>
-         <tg>
-            <t pos="n">bïjremebearkoe</t>
+         <tg xml:lang="sma">
+            <t pos="N">bïjremebearkoe</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="n">stekkjøtt</l>
+         <l pos="N">stekkjøtt</l>
       </lg>
       <mg>
-         <tg>
-            <t pos="n">bissemebearkoe</t>
+         <tg xml:lang="sma">
+            <t pos="N">bissemebearkoe</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="n">røykakjøtt</l>
+         <l pos="N">røykakjøtt</l>
       </lg>
       <mg>
-         <tg>
-            <t pos="n">soevesbearkoe</t>
+         <tg xml:lang="sma">
+            <t pos="N">soevesbearkoe</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="n">kjøttkraft</l>
+         <l pos="N">kjøttkraft</l>
       </lg>
       <mg>
-         <tg>
-            <t pos="n">liemie</t>
-         </tg>
-      </mg>
-   </e> 
-   <e> 
-      <lg>
-         <l pos="n">kotelett</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">kotelehte</t>
+         <tg xml:lang="sma">
+            <t pos="N">liemie</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="n">kjøttbein</l>
+         <l pos="N">kotelett</l>
       </lg>
       <mg>
-         <tg>
-            <t pos="n">måaroenbearkoe</t>
+         <tg xml:lang="sma">
+            <t pos="N">kotelehte</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="n">ribbe</l>
+         <l pos="N">kjøttbein</l>
       </lg>
       <mg>
-         <tg>
-            <t pos="n">snurkenïehterdahke</t>
+         <tg xml:lang="sma">
+            <t pos="N">måaroenbearkoe</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="n">havregrøt</l>
+         <l pos="N">ribbe</l>
       </lg>
       <mg>
-         <tg>
-            <t pos="n">haegriekrovnekraavhtse</t>
-         </tg>
-      </mg>
-   </e>
-   
-   <e>
-      <lg>
-         <lnatord_fra_kurs pos="n">risengrynsgrøt</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n">rijsenkrovnekraavhtse</t>
+         <tg xml:lang="sma">
+            <t pos="N">snurkenïehterdahke</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="n">grynmelsgrøt</l>
+         <l pos="N">havregrøt</l>
       </lg>
       <mg>
-         <tg>
-            <t pos="n">krovnejavvoehkraavhtse</t>
+         <tg xml:lang="sma">
+            <t pos="N">haegriekrovnekraavhtse</t>
+         </tg>
+      </mg>
+   </e>
+
+   <e>
+      <lg>
+         <lnatord_fra_kurs pos="N">risengrynsgrøt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">rijsenkrovnekraavhtse</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="n">rømmegrøt</l>
+         <l pos="N">grynmelsgrøt</l>
       </lg>
       <mg>
-         <tg>
-            <t pos="n">såvroegïhpekraavhtse</t>
+         <tg xml:lang="sma">
+            <t pos="N">krovnejavvoehkraavhtse</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">rømmegrøt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">såvroegïhpekraavhtse</t>
          </tg>
       </mg>
    </e>
      <e>
       <lg>
-         <l pos="n">kylling</l>
+         <l pos="N">kylling</l>
       </lg>
       <mg>
-         <tg>
-            <t pos="n">vöönhtsentjovke</t>
+         <tg xml:lang="sma">
+            <t pos="N">vöönhtsentjovke</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="n">taco</l>
+         <l pos="N">taco</l>
       </lg>
       <mg>
-         <tg>
-            <t pos="n">taakoe</t>
+         <tg xml:lang="sma">
+            <t pos="N">taakoe</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="n">pizza</l>
+         <l pos="N">pizza</l>
       </lg>
       <mg>
-         <tg>
-            <t pos="n">pizza</t>
+         <tg xml:lang="sma">
+            <t pos="N">pizza</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="n">pannekake</l>
+         <l pos="N">pannekake</l>
       </lg>
       <mg>
-         <tg>
-            <t pos="n">paannelaejpie</t>
+         <tg xml:lang="sma">
+            <t pos="N">paannelaejpie</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="n">ertesuppe</l>
+         <l pos="N">ertesuppe</l>
       </lg>
       <mg>
-         <tg>
-            <t pos="n">earhtenejoptse</t>
+         <tg xml:lang="sma">
+            <t pos="N">earhtenejoptse</t>
          </tg>
       </mg>
    </e>
