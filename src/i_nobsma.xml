@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
-"../../scripts/gt_dictionary.dtd">
-<r id="nobsma" xml:lang="nob">
-   <lics xml:space="preserve">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<r xmlns:xhtml="http://www.w3.org/1999/xhtml" id="nobsma" xml:lang="nob">
+   <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve">
       <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
@@ -32,7 +31,7 @@ For the full license text, see the link above.</lic>
          <l pos="Interj">gid</l>
       </lg>
       <mg>
-         <tg xml:lang="sma">
+         <tg xml:lang="sma" tw_id="gid 9bcbd145-e298-411e-9c44-f12f8a1697b4">
             <t pos="Interj">vaejtie</t>
             <xg>
                <x>Gid det ville være slik!</x>
@@ -46,7 +45,7 @@ For the full license text, see the link above.</lic>
          <l pos="Interj">skål</l>
       </lg>
       <mg>
-         <tg xml:lang="sma">
+         <tg xml:lang="sma" tw_id="skål f15c99fd-bd16-4fb9-8160-e47bb987a293">
             <t pos="Interj">båetieh bööresth</t>
          </tg>
       </mg>
@@ -56,7 +55,7 @@ For the full license text, see the link above.</lic>
          <l pos="Interj">å jøje meg</l>
       </lg>
       <mg>
-         <tg xml:lang="sma">
+         <tg xml:lang="sma" tw_id="å jøje meg ba054c6b-0797-47f4-8de7-d3af7fa951eb">
             <t pos="Interj">jöödtedh</t>
             <xg>
                <x>A jøje meg, det der var en flott bil!</x>
@@ -70,7 +69,7 @@ For the full license text, see the link above.</lic>
          <l pos="Interj">takk</l>
       </lg>
       <mg>
-         <tg xml:lang="sma">
+         <tg xml:lang="sma" tw_id="takk 204587f2-4479-47dc-b41c-9b7d10410894">
             <re>om mat og drikke</re>
             <t pos="Interj">gudtsien</t>
             <xg>
@@ -85,7 +84,7 @@ For the full license text, see the link above.</lic>
          <l pos="Interj">ja, det har du sannelig rett i</l>
       </lg>
       <mg>
-         <tg xml:lang="sma">
+         <tg xml:lang="sma" tw_id="ja, det har du sannelig rett i 2387ebd2-1a62-4655-b043-1ada9dc2afbb">
             <t pos="Interj">nåah</t>
          </tg>
       </mg>
@@ -95,7 +94,7 @@ For the full license text, see the link above.</lic>
          <l pos="Interj">nei</l>
       </lg>
       <mg>
-         <tg xml:lang="sma">
+         <tg xml:lang="sma" tw_id="nei aa6ffa06-1c74-4851-9ecd-a6463f0ca815">
             <t pos="Interj">ijje</t>
          </tg>
       </mg>
@@ -105,12 +104,12 @@ For the full license text, see the link above.</lic>
          <l pos="Interj">ja</l>
       </lg>
       <mg>
-         <tg xml:lang="sma">
+         <tg xml:lang="sma" tw_id="ja ae1f4992-9ceb-4ae3-8c51-d5784dca6603">
             <t pos="Interj">jaavoe</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma">
+         <tg xml:lang="sma" tw_id="ja d66e5117-7be8-426d-a3d4-d9157a6156cb">
             <t pos="Interj">jaa</t>
          </tg>
       </mg>
@@ -120,7 +119,7 @@ For the full license text, see the link above.</lic>
          <l pos="Interj">hva i all verden</l>
       </lg>
       <mg>
-         <tg xml:lang="sma">
+         <tg xml:lang="sma" tw_id="hva i all verden 5f51bd73-048f-4209-b5d4-81046f1bc5e2">
             <t pos="Interj">saarnoeh</t>
          </tg>
       </mg>
@@ -130,12 +129,12 @@ For the full license text, see the link above.</lic>
          <l pos="Interj">uff, det var synd</l>
       </lg>
       <mg>
-         <tg xml:lang="sma">
+         <tg xml:lang="sma" tw_id="uff, det var synd 7cada292-30ca-42a8-8efa-ad9c0baf9e6b">
             <t pos="Interj">gaath</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma">
+         <tg xml:lang="sma" tw_id="uff, det var synd 54e322a0-7853-48ce-a37c-ff82f1bbc119">
             <t pos="Interj">ovgaath</t>
             <xg>
                <x>Uff, det barnet!</x>
@@ -149,7 +148,7 @@ For the full license text, see the link above.</lic>
          <l pos="Interj">nei og nei</l>
       </lg>
       <mg>
-         <tg xml:lang="sma">
+         <tg xml:lang="sma" tw_id="nei og nei 4120c841-d50a-4dc4-a10a-91e89907e96c">
             <t pos="Interj">jemmede</t>
             <xg>
                <x>Å nei og nei!</x>
@@ -163,7 +162,7 @@ For the full license text, see the link above.</lic>
          <l pos="Interj">skitt au</l>
       </lg>
       <mg>
-         <tg xml:lang="sma">
+         <tg xml:lang="sma" tw_id="skitt au 687841e9-dfb8-495c-8788-6c719f598dcc">
             <t pos="Interj">bajhke</t>
          </tg>
       </mg>
@@ -173,7 +172,7 @@ For the full license text, see the link above.</lic>
          <l pos="Interj">se der</l>
       </lg>
       <mg>
-         <tg xml:lang="sma">
+         <tg xml:lang="sma" tw_id="se der f812d9fb-970a-4e24-8b17-67fe51166772">
             <t pos="Interj">duelie vuajnah</t>
          </tg>
       </mg>
@@ -183,7 +182,7 @@ For the full license text, see the link above.</lic>
          <l pos="Interj">vær så god</l>
       </lg>
       <mg>
-         <tg xml:lang="sma">
+         <tg xml:lang="sma" tw_id="vær så god d0781087-cf4b-4649-8210-89d2aa8ef86d">
             <t pos="Interj">duelie vuajnah</t>
          </tg>
       </mg>
@@ -193,12 +192,12 @@ For the full license text, see the link above.</lic>
          <l pos="Interj">ja selvfølgelig</l>
       </lg>
       <mg>
-         <tg xml:lang="sma">
+         <tg xml:lang="sma" tw_id="ja selvfølgelig 0f92cf7f-8d2a-42c3-9595-4a8b0ed655ae">
             <t pos="Interj">jaa hævvi</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma">
+         <tg xml:lang="sma" tw_id="ja selvfølgelig c818dc3b-6934-41fd-a95d-36b35899b7cd">
             <t pos="Interj">jaa nov maa</t>
          </tg>
       </mg>
@@ -208,12 +207,12 @@ For the full license text, see the link above.</lic>
          <l pos="Interj">jo visst</l>
       </lg>
       <mg>
-         <tg xml:lang="sma">
+         <tg xml:lang="sma" tw_id="jo visst 0667861e-c62d-4230-bf88-ffb047656d85">
             <t pos="Interj">novh amma</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma">
+         <tg xml:lang="sma" tw_id="jo visst a2ef75cc-88f9-4052-992e-1c2fcfa7b044">
             <t pos="Interj">novh gujht</t>
          </tg>
       </mg>
@@ -223,7 +222,7 @@ For the full license text, see the link above.</lic>
          <l pos="Interj">ja slik er det</l>
       </lg>
       <mg>
-         <tg xml:lang="sma">
+         <tg xml:lang="sma" tw_id="ja slik er det bb654cf5-e42c-4c76-983f-e52432a502e6">
             <t pos="Interj">novh lea</t>
          </tg>
       </mg>
@@ -233,7 +232,7 @@ For the full license text, see the link above.</lic>
          <l pos="Interj">jo da</l>
       </lg>
       <mg>
-         <tg xml:lang="sma">
+         <tg xml:lang="sma" tw_id="jo da 667c7c9d-4c49-4098-b824-fca83431f2c1">
             <t pos="Interj">novh maa</t>
          </tg>
       </mg>
@@ -243,7 +242,7 @@ For the full license text, see the link above.</lic>
          <l pos="Interj">ja riktignok</l>
       </lg>
       <mg>
-         <tg xml:lang="sma">
+         <tg xml:lang="sma" tw_id="ja riktignok 9442e2e9-6fee-43f3-8db6-c21ba155316e">
             <t pos="Interj">novh maa</t>
          </tg>
       </mg>
@@ -253,7 +252,7 @@ For the full license text, see the link above.</lic>
          <l pos="Interj">adjø</l>
       </lg>
       <mg>
-         <tg xml:lang="sma">
+         <tg xml:lang="sma" tw_id="adjø f925e9cb-7c66-445a-a01d-988c953fb2d2">
             <t pos="Interj">nåå nåå</t>
          </tg>
       </mg>
@@ -263,7 +262,7 @@ For the full license text, see the link above.</lic>
          <l pos="Interj">adjø så lenge</l>
       </lg>
       <mg>
-         <tg xml:lang="sma">
+         <tg xml:lang="sma" tw_id="adjø så lenge 37f423ae-48d1-4a9c-90d5-05046d8707d7">
             <t pos="Interj">nåå nåå dellie</t>
          </tg>
       </mg>
@@ -273,7 +272,7 @@ For the full license text, see the link above.</lic>
          <l pos="Interj">du store min</l>
       </lg>
       <mg>
-         <tg xml:lang="sma">
+         <tg xml:lang="sma" tw_id="du store min 9fe4567c-8055-4d5b-915f-fbb0fc885095">
             <t pos="Interj">ov jösses</t>
          </tg>
       </mg>
@@ -283,7 +282,7 @@ For the full license text, see the link above.</lic>
          <l pos="Interj">i alle dager</l>
       </lg>
       <mg>
-         <tg xml:lang="sma">
+         <tg xml:lang="sma" tw_id="i alle dager acaeefa7-038e-4cb7-82cb-4079c8a52690">
             <t pos="Interj">saarnoeh jeahtah</t>
          </tg>
       </mg>
@@ -293,7 +292,7 @@ For the full license text, see the link above.</lic>
          <l pos="Interj">vær så god og gå inn</l>
       </lg>
       <mg>
-         <tg xml:lang="sma">
+         <tg xml:lang="sma" tw_id="vær så god og gå inn ab6cfdcc-688f-445e-9aed-676f0eb32469">
             <t pos="Interj">vuajnah tjaangh</t>
          </tg>
       </mg>
@@ -303,11 +302,10 @@ For the full license text, see the link above.</lic>
          <l pos="Interj">hører du</l>
       </lg>
       <mg>
-         <tg xml:lang="sma">
+         <tg xml:lang="sma" tw_id="hører du 03cc4393-2674-426c-80cb-225cd4733afc">
             <t pos="Pcle">golh</t>
          </tg>
       </mg>
    </e>
-   <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript"
-                 xmlns:xhtml="http://www.w3.org/1999/xhtml"/>
+   <xhtml:script xmlns:xhtml="http://www.w3.org/1999/xhtml" src="../../scripts/gt_dictionary.js" type="text/javascript"/>
 </r>

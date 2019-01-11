@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
-"../../scripts/gt_dictionary.dtd">
-<r id="nobsma" xml:lang="nob">
-   <lics xml:space="preserve">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<r xmlns:xhtml="http://www.w3.org/1999/xhtml" id="nobsma" xml:lang="nob">
+   <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve">
       <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
@@ -32,7 +31,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">uten</l>
       </lg>
       <mg>
-         <tg xml:lang="sma">
+         <tg xml:lang="sma" tw_id="uten 117a6f72-d586-435d-ad19-60839cbb03a5">
             <re>om flere</re>
             <t pos="Po">bieleli</t>
             <xg>
@@ -47,7 +46,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">hverandre</l>
       </lg>
       <mg>
-         <tg xml:lang="sma">
+         <tg xml:lang="sma" tw_id="hverandre 53ed29fc-9b63-4b6c-8229-13185915c154">
             <t pos="Po">gaskemsh</t>
             <xg>
                <x>Mellom dem er det slik.</x>
@@ -61,7 +60,7 @@ For the full license text, see the link above.</lic>
          <l pos="Po">innenfor</l>
       </lg>
       <mg>
-         <tg xml:lang="sma">
+         <tg xml:lang="sma" tw_id="innenfor edbed6a1-1d69-4956-9690-be2c5134c2dc">
             <t pos="Po">sisnjielisnie</t>
             <xg>
                <x>Det er bra å ha en tynn undertrøye innenfor kofta.</x>
@@ -70,6 +69,5 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript"
-                 xmlns:xhtml="http://www.w3.org/1999/xhtml"/>
+   <xhtml:script xmlns:xhtml="http://www.w3.org/1999/xhtml" src="../../scripts/gt_dictionary.js" type="text/javascript"/>
 </r>

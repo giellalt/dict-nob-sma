@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
-"../../scripts/gt_dictionary.dtd">
-<r id="nobsma" xml:lang="nob">
-   <lics xml:space="preserve">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<r xmlns:xhtml="http://www.w3.org/1999/xhtml" id="nobsma" xml:lang="nob">
+   <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve">
       <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
@@ -32,7 +31,7 @@ For the full license text, see the link above.</lic>
          <l pos="CC">og</l>
       </lg>
       <mg>
-         <tg xml:lang="sma">
+         <tg xml:lang="sma" tw_id="og d9b87bbb-29a8-4cba-9af1-2b3fb832d657">
             <re>om to som hører sammen</re>
             <t pos="CC">gon</t>
             <xg>
@@ -42,7 +41,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma">
+         <tg xml:lang="sma" tw_id="og 5be7bcd2-8d07-49f4-ae3d-20b7732e7f1e">
             <re>om to som hører sammen</re>
             <t pos="CC">gonnoeh</t>
             <xg>
@@ -52,7 +51,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma">
+         <tg xml:lang="sma" tw_id="og 6e7a2f41-35bb-4db9-b911-9a7b6a73beec">
             <t pos="CC">jïh</t>
             <xg>
                <x>Både Paul og Lars var der.</x>
@@ -66,7 +65,7 @@ For the full license text, see the link above.</lic>
          <l pos="CC">eller</l>
       </lg>
       <mg>
-         <tg xml:lang="sma">
+         <tg xml:lang="sma" tw_id="eller ea8157cb-27b4-4cde-9211-d0764c090ebd">
             <t pos="CC">jallh</t>
             <xg>
                <x>Der det ikke er vei kan man reise med fly eller helikopter.</x>
@@ -75,13 +74,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma">
+         <tg xml:lang="sma" tw_id="eller 8b559a11-d45f-41ae-9b24-bc6c992de90c">
             <re>i spørsmål om to alternativer</re>
             <t pos="CC">vïj</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma">
+         <tg xml:lang="sma" tw_id="eller b2b75f13-7b06-4bac-9433-5b4e1691eb73">
             <re>i spørsmål om to alternativer</re>
             <t pos="CC">vuj</t>
             <xg>
@@ -96,12 +95,12 @@ For the full license text, see the link above.</lic>
          <l pos="CC">men</l>
       </lg>
       <mg>
-         <tg xml:lang="sma">
+         <tg xml:lang="sma" tw_id="men 7a3c8a53-915f-4740-aca8-c373df982501">
             <t pos="CC">men</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma">
+         <tg xml:lang="sma" tw_id="men 94b87712-4070-4de3-ab4a-900a01c9e296">
             <t pos="CC">mohte</t>
             <xg>
                <x>Det er ruskevær med sludd, men så er det jo høst. Den veien dit er så smal, men den andre veien er mye bedre.</x>
@@ -110,11 +109,10 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma">
+         <tg xml:lang="sma" tw_id="men b7e42b0b-535b-4f61-9a84-45103b8b3b17">
             <t pos="CS">bene</t>
          </tg>
       </mg>
    </e>
-   <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript"
-                 xmlns:xhtml="http://www.w3.org/1999/xhtml"/>
+   <xhtml:script xmlns:xhtml="http://www.w3.org/1999/xhtml" src="../../scripts/gt_dictionary.js" type="text/javascript"/>
 </r>
