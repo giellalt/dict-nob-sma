@@ -179,16 +179,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l pos="V">våge</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="våge ecd36f35-b716-4c34-a855-e1b778c24b98">
-            <t pos="V">jolkedh</t>
-         </tg>
-      </mg>
-   </e>
     <e>
       <lg>
          <l pos="V">dokumentere</l>
@@ -9094,6 +9084,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="våge 3bf9636d-e8dd-4744-992a-69ae0d98226a">
             <t pos="V" stem="3syll">tjorkedidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="våge ecd36f35-b716-4c34-a855-e1b778c24b98">
+            <t pos="V">jolkedh</t>
          </tg>
       </mg>
    </e>
