@@ -10140,13 +10140,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="kraft b596cc6a-419f-426a-9a6a-976b549b727f">
-            <t pos="N" soggi="e" stem="2syll">lïeme</t>
+         <tg xml:lang="sma" tw_id="kraft bb314fa6-323f-45e8-8c46-37bd7eef3def">
+            <t pos="N">vieksiesvoete</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="kraft bb314fa6-323f-45e8-8c46-37bd7eef3def">
-            <t pos="N">vieksiesvoete</t>
+         <tg xml:lang="sma" tw_id="kraft b596cc6a-419f-426a-9a6a-976b549b727f">
+         <re>om buljong</re>
+            <t pos="N" soggi="e" stem="2syll">lïeme</t>
          </tg>
       </mg>
    </e>
