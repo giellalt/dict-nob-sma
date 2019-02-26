@@ -4625,11 +4625,6 @@ For the full license text, see the link above.</lic>
             <t margo="e" pos="N" soggi="i" stem="3syll">bertije</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="forlegger 7ed44332-dfb4-4bfe-a900-f8a512944811">
-            <t pos="N">dïedtije</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -9276,8 +9271,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-
-     <e>
+   <e>
       <lg>
          <l pos="N">hall</l>
       </lg>
@@ -9286,14 +9280,14 @@ For the full license text, see the link above.</lic>
             <t pos="N" soggi="a" stem="2syll">haalle</t>
          </tg>
       </mg>
-   </e>
+   </e>   
     <e>
       <lg>
          <l pos="N">kassør</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="kassør 24fdd319-7f6f-429b-a5a2-2d77772a6a42">
-            <t pos="N" soggi="a" stem="2syll">beetnehdïedteguedtije</t>
+            <t pos="N" soggi="a" stem="2syll">beetnehtjåadtjoehtæjja</t>
          </tg>
       </mg>
    </e>
@@ -78452,6 +78446,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="dagsorden 875c4079-7b71-455c-a035-c85ec3f048e7">
             <t pos="N">biejjieöörnege</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="gg">
+      <lg>
+         <l pos="N">innkalling</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma" tw_id="dagsorden 875c4079-7b71-455c-a035-c85ec3f048e7">
+            <t pos="N">gåhtjome</t>
          </tg>
       </mg>
    </e>
