@@ -76189,7 +76189,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma" tw_id="samekulturutvalg d2a24c45-5ade-4419-8a65-485b7102cc17">
-        <t pos="N">saemienkultuvredåehkie</t>
+        <t pos="N">saemienkultuvremoenehtse</t>
       </tg>
     </mg>
   </e>
@@ -76203,6 +76203,18 @@ For the full license text, see the link above.</lic>
         <t pos="N">seammavyörtegemoenehtse</t>
         <t pos="N">mïrrestallemedåehkie</t>
         <t pos="N">mïrrestallememoenehtse</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">klima</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sma" tw_id="likestillingsutvalg 6f27d0c2-6f86-4145-8743-aecc7dfacf71">
+        <t pos="N">daalhkadahke</t>
+        <t pos="N">klæjma</t>
+        <t pos="N">klimaahte</t>
       </tg>
     </mg>
   </e>
