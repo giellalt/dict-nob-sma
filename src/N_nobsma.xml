@@ -5620,6 +5620,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="jerpe 4f2c74d8-b715-4fe8-9491-aa0ddec98a5c">
+            <re x="lat">bonasa bonasia</re>
             <t pos="N" soggi="e" stem="2syll">brorke</t>
          </tg>
       </mg>
@@ -5735,7 +5736,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="kjøttmeis a9531425-078d-4bda-8c65-10927d9845cb">
+            <re x="lat">parus major</re>
             <t margo="e" pos="N" soggi="e" stem="3syll">buejtietsöötsege</t>
+            <t pos="N">buejtehke</t>
+            <t pos="N">buejtie-bahte</t>
          </tg>
       </mg>
    </e>
@@ -6328,8 +6332,12 @@ For the full license text, see the link above.</lic>
          <l pos="N">fjellvåk</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="fjellvåk c4c82cd0-24bd-4997-8e96-bdb9147feda5">
+	<tg xml:lang="sma" tw_id="fjellvåk c4c82cd0-24bd-4997-8e96-bdb9147feda5">
+            <re x="lat">buteo lagopus</re>	  
             <t pos="N" soggi="e" stem="2syll">båejme</t>
+            <t pos="N">båajme</t>
+            <t pos="N">spåajme</t>
+            <t pos="N">spååjme</t>
          </tg>
       </mg>
    </e>
@@ -8754,6 +8762,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="storlom 85a031f2-346b-4d06-b4a9-a8c63ae0eaa6">
+            <re x="lat">gavia arctica</re>
             <t margo="e" pos="N" soggi="ie" stem="3syll">duvvehke</t>
          </tg>
       </mg>
@@ -11189,7 +11198,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="ravn 2fe1cce3-5545-4310-ad2e-cb7a69d76fa5">
+            <re x="lat">corvus corax</re>
             <t pos="N" soggi="e" stem="2syll">gaaranasse</t>
+            <t pos="N">goerhpe</t>
+            <t pos="N">krungke</t>
          </tg>
       </mg>
    </e>
@@ -13289,6 +13301,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="trane 9c7a10a2-e41d-4b9b-aa93-8de228ef9258">
+            <re x="lat">grus grus</re>
             <t pos="N" soggi="e" stem="2syll">goerke</t>
          </tg>
       </mg>
@@ -13426,7 +13439,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="nøtteskrike 467315ef-c6c9-439e-be4f-15c26c96002d">
+            <re x="lat">garrulus glandarius</re>
             <t pos="N" soggi="e" stem="2syll">goetske</t>
+            <t pos="N">nöödte-kruaksa</t>
          </tg>
       </mg>
    </e>
@@ -14190,7 +14205,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="smålom 619de3e5-52f7-4dfa-a41e-241ae099a7ab">
+            <re x="lat">gavia stellata</re>
             <t pos="N" soggi="ie" stem="2syll">gurhtie</t>
+            <t pos="N">gaagka</t>
          </tg>
       </mg>
    </e>
@@ -15382,7 +15399,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="gjøk f556da7a-1bd9-4730-9ded-4b0aba4f2ee4">
+            <re x="lat">cuculus canorus</re>
             <t pos="N" soggi="e" stem="2syll">gïeke</t>
+            <t pos="N" soggi="e" stem="2syll">gïege</t>
          </tg>
       </mg>
    </e>
@@ -15532,6 +15551,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="fjellrype 449b3ecd-7e73-48b2-8b19-781c8262f22e">
+            <re x="lat">lagopus mutus</re>
             <t margo="e" pos="N" soggi="e" stem="3syll">gïerene</t>
          </tg>
       </mg>
@@ -18784,7 +18804,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="hubro f1897103-46c3-4ab1-b6f8-e320de7fcfdc">
+            <re x="lat">bubo bubo</re>
             <t pos="N">jïhpe</t>
+            <t pos="N">spïhtehke</t>
          </tg>
       </mg>
    </e>
@@ -18824,7 +18846,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="kattugle e76d4adb-e1c3-4fdd-9298-281640f73d13">
+            <re x="lat">strix aluco</re>
             <t pos="N" soggi="oe" stem="2syll">jïjjesnjågloe</t>
+            <t pos="N">gaahtoe-snjagla</t>
          </tg>
       </mg>
    </e>
@@ -18834,7 +18858,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="snøugle 3a44af7a-baf8-4f54-ba8a-7427c032e9ba">
+            <re x="lat">nyctea scandiaca</re>
             <t pos="N" soggi="e" stem="2syll">jïjse</t>
+            <t pos="N">jïjsen-ledtie</t>
+            <t pos="N">vaarhuge</t>
          </tg>
       </mg>
    </e>
@@ -26602,6 +26629,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="lirype 053668c4-9bc0-46a1-a76a-7a9d3c67d153">
+            <re x="lat">lagopus lagopus</re>
             <t margo="e" pos="N" soggi="e" stem="3syll">rïeksege</t>
          </tg>
       </mg>
@@ -28066,7 +28094,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="skjære 73f125d2-31d2-4497-9863-7d0ee137eb93">
+            <re x="lat">pica pica</re>
             <t pos="N" soggi="e" stem="2syll">skijre</t>
+            <t pos="N">skäjroe</t>
+            <t pos="N">skärhtjoe</t>
          </tg>
       </mg>
    </e>
@@ -28988,7 +29019,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="snøspurv b72612c6-c219-4bb0-9e6c-4bba86ad5f3a">
+            <re x="lat">plectrophenax nivalis</re>
             <t margo="e" pos="N" soggi="e" stem="3syll">slïehtehke</t>
+            <t pos="N">guelhtehke</t>
          </tg>
       </mg>
    </e>
@@ -31738,7 +31771,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="strandsnipe c93b02c7-2e6f-4d5f-a11e-e0c0342436fe">
+            <re x="lat">actitis hypoleucos</re>
             <t pos="N" soggi="e" stem="2syll">tjïevhtje</t>
+            <t pos="N">tjoevhtje</t>
          </tg>
       </mg>
    </e>
@@ -34587,6 +34622,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="kråke 59dc078d-24fc-4a5e-a18a-e37a8c1656ce">
+            <re x="lat">corvus cornix</re>
             <t pos="N" soggi="e" stem="2syll">voerhtje</t>
          </tg>
       </mg>
@@ -81325,6 +81361,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="kalkun d8f0f7f2-fb73-4248-b12a-21fe981ec0ee">
+            <re x="lat">meleagris gallopavo</re>
             <t pos="N">kalkovne</t>
          </tg>
       </mg>
@@ -81893,29 +81930,6 @@ For the full license text, see the link above.</lic>
          <tg>
             <re x="lat">struthio camelus</re>
             <t pos="N">strutse</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="husbykuhmunen">
-      <lg>
-         <l pos="N">smålom</l>
-      </lg>
-      <mg>
-         <tg>
-            <re x="lat">gavia stellata</re>
-            <t pos="N">gurhtie</t>
-            <t pos="N">gaagka</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="husbykuhmunen">
-      <lg>
-         <l pos="N">storlom</l>
-      </lg>
-      <mg>
-         <tg>
-            <re x="lat">gavia arctica</re>
-            <t pos="N">duvvehke</t>
          </tg>
       </mg>
    </e>
@@ -82631,19 +82645,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="husbykuhmunen">
       <lg>
-         <l pos="N">fjellvåk</l>
-      </lg>
-      <mg>
-         <tg>
-            <re x="lat">buteo lagopus</re>
-            <t pos="N">båajme</t>
-            <t pos="N">spåajme</t>
-            <t pos="N">spååjme</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="husbykuhmunen">
-      <lg>
          <l pos="N">kongeørn</l>
       </lg>
       <mg>
@@ -82712,40 +82713,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="husbykuhmunen">
       <lg>
-         <l pos="N">kalkun</l>
-      </lg>
-      <mg>
-         <tg>
-            <re x="lat">meleagris gallopavo</re>
-            <t pos="N">kalkuvne</t>
-            <t pos="N">kalkovne</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="husbykuhmunen">
-      <lg>
-         <l pos="N">lirype</l>
-      </lg>
-      <mg>
-         <tg>
-            <re x="lat">lagopus lagopus</re>
-            <t pos="N">rïeksege</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="husbykuhmunen">
-      <lg>
-         <l pos="N">fjellrype</l>
-      </lg>
-      <mg>
-         <tg>
-            <re x="lat">lagopus mutus</re>
-            <t pos="N">gïerene</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="husbykuhmunen">
-      <lg>
          <l pos="N">orrfugl</l>
       </lg>
       <mg>
@@ -82765,19 +82732,6 @@ For the full license text, see the link above.</lic>
             <t pos="N">tjaktje</t>
             <t pos="N">tjuktjie</t>
             <t pos="N">tjåktja</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="husbykuhmunen">
-      <lg>
-         <l pos="N">jerpe</l>
-      </lg>
-      <mg>
-         <tg>
-            <re x="lat">bonasa bonasia</re>
-            <t pos="N">brorke</t>
-            <t pos="N">frorke</t>
-            <t pos="N">frodke</t>
          </tg>
       </mg>
    </e>
@@ -82811,17 +82765,6 @@ For the full license text, see the link above.</lic>
          <tg>
             <re x="lat">phasianus colchicus</re>
             <t pos="N">fasaane</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="husbykuhmunen">
-      <lg>
-         <l pos="N">trane</l>
-      </lg>
-      <mg>
-         <tg>
-            <re x="lat">grus grus</re>
-            <t pos="N">goerke</t>
          </tg>
       </mg>
    </e>
@@ -83055,18 +82998,6 @@ For the full license text, see the link above.</lic>
          <tg>
             <re x="lat">tringa glareola</re>
             <t pos="N">kruana-stïelhke</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="husbykuhmunen">
-      <lg>
-         <l pos="N">strandsnipe</l>
-      </lg>
-      <mg>
-         <tg>
-            <re x="lat">actitis hypoleucos</re>
-            <t pos="N">tjievhtje</t>
-            <t pos="N">tjoevhtje</t>
          </tg>
       </mg>
    </e>
@@ -83557,54 +83488,6 @@ For the full license text, see the link above.</lic>
          <tg>
             <re x="lat">streptopelia decaocto</re>
             <t pos="N">tyrkere-duvvege</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="husbykuhmunen">
-      <lg>
-         <l pos="N">gjøk</l>
-      </lg>
-      <mg>
-         <tg>
-            <re x="lat">cuculus canorus</re>
-            <t pos="N">gïeke</t>
-            <t pos="N">gïege</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="husbykuhmunen">
-      <lg>
-         <l pos="N">hubro</l>
-      </lg>
-      <mg>
-         <tg>
-            <re x="lat">bubo bubo</re>
-            <t pos="N">jïhpe</t>
-            <t pos="N">spïhtehke</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="husbykuhmunen">
-      <lg>
-         <l pos="N">snøugle</l>
-      </lg>
-      <mg>
-         <tg>
-            <re x="lat">nyctea scandiaca</re>
-            <t pos="N">jïjse</t>
-            <t pos="N">jïjsen-ledtie</t>
-            <t pos="N">vaarhuge</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="husbykuhmunen">
-      <lg>
-         <l pos="N">kattugle</l>
-      </lg>
-      <mg>
-         <tg>
-            <re x="lat">strix aluco</re>
-            <t pos="N">gaahtoe-snjagla</t>
          </tg>
       </mg>
    </e>
@@ -84460,18 +84343,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="husbykuhmunen">
       <lg>
-         <l pos="N">kjøttmeis</l>
-      </lg>
-      <mg>
-         <tg>
-            <re x="lat">parus major</re>
-            <t pos="N">buejtehke</t>
-            <t pos="N">buejtie-bahte</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="husbykuhmunen">
-      <lg>
          <l pos="N">blåmeis</l>
       </lg>
       <mg>
@@ -84566,18 +84437,6 @@ For the full license text, see the link above.</lic>
          <tg>
             <re x="lat">calcarius lapponicus</re>
             <t pos="N">noerhte-tsöötsege</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="husbykuhmunen">
-      <lg>
-         <l pos="N">snøspurv</l>
-      </lg>
-      <mg>
-         <tg>
-            <re x="lat">plectrophenax nivalis</re>
-            <t pos="N">guelhtehke</t>
-            <t pos="N">sliehtehke</t>
          </tg>
       </mg>
    </e>
@@ -84825,17 +84684,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="husbykuhmunen">
       <lg>
-         <l pos="N">nøtteskrike</l>
-      </lg>
-      <mg>
-         <tg>
-            <re x="lat">garrulus glandarius</re>
-            <t pos="N">nöödte-kruaksa</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="husbykuhmunen">
-      <lg>
          <l pos="N">lavskrike</l>
       </lg>
       <mg>
@@ -84844,19 +84692,6 @@ For the full license text, see the link above.</lic>
             <t pos="N">goeksege</t>
             <t pos="N">guaksa</t>
             <t pos="N">kruaksa</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="husbykuhmunen">
-      <lg>
-         <l pos="N">skjære</l>
-      </lg>
-      <mg>
-         <tg>
-            <re x="lat">pica pica</re>
-            <t pos="N">skijre</t>
-            <t pos="N">skäjroe</t>
-            <t pos="N">skärhtjoe</t>
          </tg>
       </mg>
    </e>
@@ -84902,30 +84737,6 @@ For the full license text, see the link above.</lic>
          <tg>
             <re x="lat">corvus corone</re>
             <t pos="N">tjeehpes-voerhtje</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="husbykuhmunen">
-      <lg>
-         <l pos="N">ravn</l>
-      </lg>
-      <mg>
-         <tg>
-            <re x="lat">corvus corax</re>
-            <t pos="N">gaaranasse</t>
-            <t pos="N">goerhpe</t>
-            <t pos="N">krungke</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="husbykuhmunen">
-      <lg>
-         <l pos="N">kråke</l>
-      </lg>
-      <mg>
-         <tg>
-            <re x="lat">corvus cornix</re>
-            <t pos="N">voerhtje</t>
          </tg>
       </mg>
    </e>
