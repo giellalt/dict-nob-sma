@@ -5620,7 +5620,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="jerpe 4f2c74d8-b715-4fe8-9491-aa0ddec98a5c">
-            <re x="lat">bonasa bonasia</re>
+            <re xml:lang="lat">bonasa bonasia</re>
             <t pos="N" soggi="e" stem="2syll">brorke</t>
          </tg>
       </mg>
@@ -5736,7 +5736,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="kjøttmeis a9531425-078d-4bda-8c65-10927d9845cb">
-            <re x="lat">parus major</re>
+            <re xml:lang="lat">parus major</re>
             <t margo="e" pos="N" soggi="e" stem="3syll">buejtietsöötsege</t>
             <t pos="N">buejtehke</t>
             <t pos="N">buejtie-bahte</t>
@@ -6333,7 +6333,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
 	<tg xml:lang="sma" tw_id="fjellvåk c4c82cd0-24bd-4997-8e96-bdb9147feda5">
-            <re x="lat">buteo lagopus</re>	  
+            <re xml:lang="lat">buteo lagopus</re>
             <t pos="N" soggi="e" stem="2syll">båejme</t>
             <t pos="N">båajme</t>
             <t pos="N">spåajme</t>
@@ -8762,7 +8762,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="storlom 85a031f2-346b-4d06-b4a9-a8c63ae0eaa6">
-            <re x="lat">gavia arctica</re>
+            <re xml:lang="lat">gavia arctica</re>
             <t margo="e" pos="N" soggi="ie" stem="3syll">duvvehke</t>
          </tg>
       </mg>
@@ -9289,7 +9289,7 @@ For the full license text, see the link above.</lic>
             <t pos="N" soggi="a" stem="2syll">haalle</t>
          </tg>
       </mg>
-   </e>   
+   </e>
     <e>
       <lg>
          <l pos="N">kassør</l>
@@ -11198,7 +11198,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="ravn 2fe1cce3-5545-4310-ad2e-cb7a69d76fa5">
-            <re x="lat">corvus corax</re>
+            <re xml:lang="lat">corvus corax</re>
             <t pos="N" soggi="e" stem="2syll">gaaranasse</t>
             <t pos="N">goerhpe</t>
             <t pos="N">krungke</t>
@@ -13301,7 +13301,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="trane 9c7a10a2-e41d-4b9b-aa93-8de228ef9258">
-            <re x="lat">grus grus</re>
+            <re xml:lang="lat">grus grus</re>
             <t pos="N" soggi="e" stem="2syll">goerke</t>
          </tg>
       </mg>
@@ -13439,7 +13439,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="nøtteskrike 467315ef-c6c9-439e-be4f-15c26c96002d">
-            <re x="lat">garrulus glandarius</re>
+            <re xml:lang="lat">garrulus glandarius</re>
             <t pos="N" soggi="e" stem="2syll">goetske</t>
             <t pos="N">nöödte-kruaksa</t>
          </tg>
@@ -14205,7 +14205,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="smålom 619de3e5-52f7-4dfa-a41e-241ae099a7ab">
-            <re x="lat">gavia stellata</re>
+            <re xml:lang="lat">gavia stellata</re>
             <t pos="N" soggi="ie" stem="2syll">gurhtie</t>
             <t pos="N">gaagka</t>
          </tg>
@@ -15399,7 +15399,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="gjøk f556da7a-1bd9-4730-9ded-4b0aba4f2ee4">
-            <re x="lat">cuculus canorus</re>
+            <re xml:lang="lat">cuculus canorus</re>
             <t pos="N" soggi="e" stem="2syll">gïeke</t>
             <t pos="N" soggi="e" stem="2syll">gïege</t>
          </tg>
@@ -15551,7 +15551,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="fjellrype 449b3ecd-7e73-48b2-8b19-781c8262f22e">
-            <re x="lat">lagopus mutus</re>
+            <re xml:lang="lat">lagopus mutus</re>
             <t margo="e" pos="N" soggi="e" stem="3syll">gïerene</t>
          </tg>
       </mg>
@@ -18804,7 +18804,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="hubro f1897103-46c3-4ab1-b6f8-e320de7fcfdc">
-            <re x="lat">bubo bubo</re>
+            <re xml:lang="lat">bubo bubo</re>
             <t pos="N">jïhpe</t>
             <t pos="N">spïhtehke</t>
          </tg>
@@ -18846,7 +18846,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="kattugle e76d4adb-e1c3-4fdd-9298-281640f73d13">
-            <re x="lat">strix aluco</re>
+            <re xml:lang="lat">strix aluco</re>
             <t pos="N" soggi="oe" stem="2syll">jïjjesnjågloe</t>
             <t pos="N">gaahtoe-snjagla</t>
          </tg>
@@ -18858,7 +18858,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="snøugle 3a44af7a-baf8-4f54-ba8a-7427c032e9ba">
-            <re x="lat">nyctea scandiaca</re>
+            <re xml:lang="lat">nyctea scandiaca</re>
             <t pos="N" soggi="e" stem="2syll">jïjse</t>
             <t pos="N">jïjsen-ledtie</t>
             <t pos="N">vaarhuge</t>
@@ -26629,7 +26629,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="lirype 053668c4-9bc0-46a1-a76a-7a9d3c67d153">
-            <re x="lat">lagopus lagopus</re>
+            <re xml:lang="lat">lagopus lagopus</re>
             <t margo="e" pos="N" soggi="e" stem="3syll">rïeksege</t>
          </tg>
       </mg>
@@ -28094,7 +28094,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="skjære 73f125d2-31d2-4497-9863-7d0ee137eb93">
-            <re x="lat">pica pica</re>
+            <re xml:lang="lat">pica pica</re>
             <t pos="N" soggi="e" stem="2syll">skijre</t>
             <t pos="N">skäjroe</t>
             <t pos="N">skärhtjoe</t>
@@ -29019,7 +29019,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="snøspurv b72612c6-c219-4bb0-9e6c-4bba86ad5f3a">
-            <re x="lat">plectrophenax nivalis</re>
+            <re xml:lang="lat">plectrophenax nivalis</re>
             <t margo="e" pos="N" soggi="e" stem="3syll">slïehtehke</t>
             <t pos="N">guelhtehke</t>
          </tg>
@@ -31771,7 +31771,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="strandsnipe c93b02c7-2e6f-4d5f-a11e-e0c0342436fe">
-            <re x="lat">actitis hypoleucos</re>
+            <re xml:lang="lat">actitis hypoleucos</re>
             <t pos="N" soggi="e" stem="2syll">tjïevhtje</t>
             <t pos="N">tjoevhtje</t>
          </tg>
@@ -34622,7 +34622,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="kråke 59dc078d-24fc-4a5e-a18a-e37a8c1656ce">
-            <re x="lat">corvus cornix</re>
+            <re xml:lang="lat">corvus cornix</re>
             <t pos="N" soggi="e" stem="2syll">voerhtje</t>
          </tg>
       </mg>
@@ -81361,7 +81361,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="kalkun d8f0f7f2-fb73-4248-b12a-21fe981ec0ee">
-            <re x="lat">meleagris gallopavo</re>
+            <re xml:lang="lat">meleagris gallopavo</re>
             <t pos="N">kalkovne</t>
          </tg>
       </mg>
@@ -81927,8 +81927,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">struts</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">struthio camelus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">struthio camelus</re>
             <t pos="N">strutse</t>
          </tg>
       </mg>
@@ -81938,8 +81938,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">islom</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">gavia immer</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">gavia immer</re>
             <t pos="N">jienge-gohtere</t>
          </tg>
       </mg>
@@ -81949,8 +81949,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">gulnebblom</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">gavia adamsii</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">gavia adamsii</re>
             <t pos="N">njuenie-gohtere</t>
          </tg>
       </mg>
@@ -81960,8 +81960,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">dvergdykker</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">tachybaptus ruficollis</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">tachybaptus ruficollis</re>
             <t pos="N">tjavre-tjarnije</t>
          </tg>
       </mg>
@@ -81971,8 +81971,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">gråstrupedykker</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">podiceps grisegena</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">podiceps grisegena</re>
             <t pos="N">kraevies-tjarnije</t>
          </tg>
       </mg>
@@ -81982,8 +81982,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">toppdykker</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">podiceps cristatus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">podiceps cristatus</re>
             <t pos="N">gïereh-tjarnije</t>
          </tg>
       </mg>
@@ -81993,8 +81993,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">horndykker</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">podiceps auritus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">podiceps auritus</re>
             <t pos="N">liejpie-tjarnije</t>
          </tg>
       </mg>
@@ -82004,8 +82004,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">svarthalsdykker</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">podiceps nigricollis</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">podiceps nigricollis</re>
             <t pos="N">tjeehpes-tjarnije</t>
          </tg>
       </mg>
@@ -82015,8 +82015,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">havhest</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">fulmarus glacialis</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">fulmarus glacialis</re>
             <t pos="N">väjroe-ledtie</t>
          </tg>
       </mg>
@@ -82026,8 +82026,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">gulnebblire</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">calonectris diomedea</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">calonectris diomedea</re>
             <t pos="N">viskesnjuenie-lijre</t>
          </tg>
       </mg>
@@ -82037,8 +82037,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">grålire</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">puffinus griseus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">puffinus griseus</re>
             <t pos="N">kraevies-lijre</t>
          </tg>
       </mg>
@@ -82048,8 +82048,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">havlire</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">puffinus puffinus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">puffinus puffinus</re>
             <t pos="N">haave-lijre</t>
          </tg>
       </mg>
@@ -82059,8 +82059,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">havsvale</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">hydrobates pelagicus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">hydrobates pelagicus</re>
             <t pos="N">haave-svaala</t>
          </tg>
       </mg>
@@ -82070,8 +82070,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">stormsvale</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">oceanodroma leucorhoa</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">oceanodroma leucorhoa</re>
             <t pos="N">väjroe-svaala</t>
          </tg>
       </mg>
@@ -82081,8 +82081,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">havsule</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">morus bassanus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">morus bassanus</re>
             <t pos="N">mearoe-suvle</t>
          </tg>
       </mg>
@@ -82092,8 +82092,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">storskarv</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">phalacrocorax carbo</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">phalacrocorax carbo</re>
             <t pos="N">stoerre-skaarve</t>
          </tg>
       </mg>
@@ -82103,8 +82103,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">toppskarv</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">phalacrocorax</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">phalacrocorax</re>
             <t pos="N">gïereh-skaarve</t>
          </tg>
       </mg>
@@ -82114,8 +82114,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">gråhegre</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">ardea cinerea</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">ardea cinerea</re>
             <t pos="N">kraevies-heegre</t>
          </tg>
       </mg>
@@ -82125,8 +82125,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">egretthegre</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">egretta alba</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">egretta alba</re>
             <t pos="N">egrette-heegre</t>
          </tg>
       </mg>
@@ -82136,8 +82136,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">rørdrum</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">botaurus stellaris</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">botaurus stellaris</re>
             <t pos="N">boehte-laavloje</t>
          </tg>
       </mg>
@@ -82147,8 +82147,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">stork</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">ciconia ciconia</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">ciconia ciconia</re>
             <t pos="N">storke</t>
          </tg>
       </mg>
@@ -82158,8 +82158,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">flamingo</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">phoenicopterus ruber</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">phoenicopterus ruber</re>
             <t pos="N">flamingo</t>
          </tg>
       </mg>
@@ -82169,8 +82169,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">knoppsvane</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">cygnus olor</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">cygnus olor</re>
             <t pos="N">dohpere-njoktje</t>
          </tg>
       </mg>
@@ -82180,8 +82180,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">sangsvane</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">cygnus cygnus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">cygnus cygnus</re>
             <t pos="N">njoktje</t>
          </tg>
       </mg>
@@ -82191,8 +82191,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">dvergsvane</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">cygnus columbianus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">cygnus columbianus</re>
             <t pos="N">tjavre-njoktje</t>
          </tg>
       </mg>
@@ -82202,8 +82202,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">sædgås</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">anser fabalis fabalis</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">anser fabalis fabalis</re>
             <t pos="N">skaenjehke</t>
             <t pos="N">gaase</t>
          </tg>
@@ -82214,8 +82214,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">kortnebbgås</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">anser brachyrhynchus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">anser brachyrhynchus</re>
             <t pos="N">njuenie-gaase</t>
          </tg>
       </mg>
@@ -82225,8 +82225,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">tundragås</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">anser albifrons</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">anser albifrons</re>
             <t pos="N">plïejhke-gaase</t>
          </tg>
       </mg>
@@ -82236,8 +82236,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">dverggås</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">anser erythropus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">anser erythropus</re>
             <t pos="N">skaanja</t>
          </tg>
       </mg>
@@ -82247,8 +82247,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">grågås</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">anser anser</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">anser anser</re>
             <t pos="N">kraevies-gaase</t>
          </tg>
       </mg>
@@ -82258,8 +82258,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">stripegås</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">anser indicus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">anser indicus</re>
             <t pos="N">straenjie-gaase</t>
          </tg>
       </mg>
@@ -82269,8 +82269,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">snøgås</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">anser caerulescens</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">anser caerulescens</re>
             <t pos="N">lopme-gaase</t>
          </tg>
       </mg>
@@ -82280,8 +82280,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">kanadagås</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">branta canadensis</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">branta canadensis</re>
             <t pos="N">kaanada-gaase</t>
          </tg>
       </mg>
@@ -82291,8 +82291,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">hvitkinngås</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">branta leucopsis</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">branta leucopsis</re>
             <t pos="N">skiehrie-gaase</t>
          </tg>
       </mg>
@@ -82302,8 +82302,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">ringgås</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">branta bernicla</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">branta bernicla</re>
             <t pos="N">ringsije-gaase</t>
          </tg>
       </mg>
@@ -82313,8 +82313,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">gravand</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">tadorna tadorna</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">tadorna tadorna</re>
             <t pos="N">kroehke-tjååtsele</t>
          </tg>
       </mg>
@@ -82324,8 +82324,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">brunnakke</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">anas penelope</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">anas penelope</re>
             <t pos="N">ruhtjehke-tjovrese</t>
          </tg>
       </mg>
@@ -82335,8 +82335,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">snadderand</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">anas strepera</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">anas strepera</re>
             <t pos="N">gaegkie-tjååtsele</t>
          </tg>
       </mg>
@@ -82346,8 +82346,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">krikkand</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">anas crecca</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">anas crecca</re>
             <t pos="N">strïktje</t>
             <t pos="N">strïtjke</t>
          </tg>
@@ -82358,8 +82358,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">stokkand</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">anas platyrhynchos</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">anas platyrhynchos</re>
             <t pos="N">våånjke</t>
          </tg>
       </mg>
@@ -82369,8 +82369,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">stjertand</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">anas acuta</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">anas acuta</re>
             <t pos="N">siejpie-tjååtsele</t>
          </tg>
       </mg>
@@ -82380,8 +82380,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">knekkand</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">anas querquedula</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">anas querquedula</re>
             <t pos="N">knïjhtje-tjååtsele</t>
          </tg>
       </mg>
@@ -82391,8 +82391,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">skjeand</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">anas clypeata</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">anas clypeata</re>
             <t pos="N">buste-tjååtsele</t>
          </tg>
       </mg>
@@ -82402,8 +82402,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">taffeland</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">aythya ferina</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">aythya ferina</re>
             <t pos="N">provne-tjååtsele</t>
          </tg>
       </mg>
@@ -82413,8 +82413,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">toppand</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">aythya fuligula</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">aythya fuligula</re>
             <t pos="N">gïereh-tjååtsele</t>
          </tg>
       </mg>
@@ -82424,8 +82424,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">bergand</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">aythya marila</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">aythya marila</re>
             <t pos="N">bïerje-tjååtsele</t>
          </tg>
       </mg>
@@ -82435,8 +82435,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">ærfugl</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">somateria mollissima</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">somateria mollissima</re>
             <t pos="N">nååke</t>
          </tg>
       </mg>
@@ -82446,8 +82446,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">praktærfugl</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">somateria spectabilis</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">somateria spectabilis</re>
             <t pos="N">nååke-gånka</t>
          </tg>
       </mg>
@@ -82457,8 +82457,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">stellerand</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">polysticta stelleri</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">polysticta stelleri</re>
             <t pos="N">stellere-tjååtsele</t>
          </tg>
       </mg>
@@ -82468,8 +82468,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">havelle</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">clangula hyemalis</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">clangula hyemalis</re>
             <t pos="N">aahalla</t>
             <t pos="N">aah´la</t>
             <t pos="N">haah´la</t>
@@ -82481,8 +82481,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">svartand</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">melanitta nigra</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">melanitta nigra</re>
             <t pos="N">njorke</t>
          </tg>
       </mg>
@@ -82492,8 +82492,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">sjøorre</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">melanitta fusca</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">melanitta fusca</re>
             <t pos="N">skåårre</t>
          </tg>
       </mg>
@@ -82503,8 +82503,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">kvinand</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">bucephala clangula</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">bucephala clangula</re>
             <t pos="N">tjåerkie</t>
          </tg>
       </mg>
@@ -82514,8 +82514,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">lappfiskand</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">mergellus albellus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">mergellus albellus</re>
             <t pos="N">noerhte-gåelsie</t>
          </tg>
       </mg>
@@ -82525,8 +82525,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">siland</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">mergus serrator</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">mergus serrator</re>
             <t pos="N">voepte-gåelsie</t>
          </tg>
       </mg>
@@ -82536,8 +82536,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">laksand</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">mergus merganser</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">mergus merganser</re>
             <t pos="N">gåelsie</t>
             <t pos="N">liejpie-gåelsie</t>
          </tg>
@@ -82548,8 +82548,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">fiskeørn</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">pandion haliaetus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">pandion haliaetus</re>
             <t pos="N">gïerkehtse</t>
          </tg>
       </mg>
@@ -82559,8 +82559,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">vepsevåk</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">pernis apivorus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">pernis apivorus</re>
             <t pos="N">veapsa-spåajme</t>
          </tg>
       </mg>
@@ -82570,8 +82570,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">glente</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">milvus milvus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">milvus milvus</re>
             <t pos="N">geerje</t>
          </tg>
       </mg>
@@ -82581,8 +82581,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">havørn</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">haliaeetus albicilla</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">haliaeetus albicilla</re>
             <t pos="N">jaevrien-aarhtse</t>
          </tg>
       </mg>
@@ -82592,8 +82592,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">myrhauk</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">circus cyaneus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">circus cyaneus</re>
             <t pos="N">pluevie-haepkie</t>
          </tg>
       </mg>
@@ -82603,8 +82603,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">sivhauk</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">circus aeruginosus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">circus aeruginosus</re>
             <t pos="N">raavre-haepkie</t>
          </tg>
       </mg>
@@ -82614,8 +82614,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">spurvehauk</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">accipiter nisus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">accipiter nisus</re>
             <t pos="N">tsohtsije</t>
             <t pos="N">tsohtsije-haepkie</t>
          </tg>
@@ -82626,8 +82626,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">hønsehauk</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">accipiter gentilis</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">accipiter gentilis</re>
             <t pos="N">gåehpele-haepkie</t>
          </tg>
       </mg>
@@ -82637,8 +82637,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">musvåk</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">buteo buteo</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">buteo buteo</re>
             <t pos="N">snjeara-spååjme</t>
          </tg>
       </mg>
@@ -82648,8 +82648,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">kongeørn</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">aquila chrysaetos</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">aquila chrysaetos</re>
             <t pos="N">tjahken-aarhtse</t>
             <t pos="N">sååjte</t>
          </tg>
@@ -82660,8 +82660,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">tårnfalk</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">falco tinnunculus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">falco tinnunculus</re>
             <t pos="N">rehpie-falhke</t>
          </tg>
       </mg>
@@ -82671,8 +82671,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">dvergfalk</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">falco columbarius</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">falco columbarius</re>
             <t pos="N">ohtje-falhke</t>
          </tg>
       </mg>
@@ -82682,8 +82682,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">lerkefalk</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">falco subbuteo</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">falco subbuteo</re>
             <t pos="N">leerke-falhke</t>
          </tg>
       </mg>
@@ -82693,8 +82693,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">jaktfalk</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">falco rusticolus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">falco rusticolus</re>
             <t pos="N">vijrije-falhke</t>
          </tg>
       </mg>
@@ -82704,8 +82704,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">vandrefalk</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">falco peregrinus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">falco peregrinus</re>
             <t pos="N">valvedh-falhke</t>
             <t pos="N">valveme-falhke</t>
          </tg>
@@ -82716,8 +82716,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">orrfugl</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">tetrao tetrix</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">tetrao tetrix</re>
             <t pos="N">hurrie</t>
          </tg>
       </mg>
@@ -82727,8 +82727,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">storfugl</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">tetrao urogallus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">tetrao urogallus</re>
             <t pos="N">tjaktje</t>
             <t pos="N">tjuktjie</t>
             <t pos="N">tjåktja</t>
@@ -82740,8 +82740,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">rapphøne</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">perdix perdix</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">perdix perdix</re>
             <t pos="N">sneehpes-vöönhtse</t>
          </tg>
       </mg>
@@ -82751,8 +82751,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">vaktel</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">coturnix coturnix</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">coturnix coturnix</re>
             <t pos="N">vaktele</t>
          </tg>
       </mg>
@@ -82762,8 +82762,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">fasan</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">phasianus colchicus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">phasianus colchicus</re>
             <t pos="N">fasaane</t>
          </tg>
       </mg>
@@ -82773,8 +82773,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">vannrikse</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">rallus aquaticus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">rallus aquaticus</re>
             <t pos="N">tjaetsie-gilkije</t>
          </tg>
       </mg>
@@ -82784,8 +82784,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">åkerrikse</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">crex crex</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">crex crex</re>
             <t pos="N">åakere-ledtie</t>
          </tg>
       </mg>
@@ -82795,8 +82795,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">myrrikse</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">porzana porzana</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">porzana porzana</re>
             <t pos="N">aajeh-vöönhtse</t>
          </tg>
       </mg>
@@ -82806,8 +82806,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">sivhøne</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">gallinula chloropus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">gallinula chloropus</re>
             <t pos="N">rööjre-vöönhtse</t>
          </tg>
       </mg>
@@ -82817,8 +82817,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">sothøne</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">fulica atra</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">fulica atra</re>
             <t pos="N">tjïrre-vöönhtse</t>
          </tg>
       </mg>
@@ -82828,8 +82828,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">tjeld</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">haematopus ostralegus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">haematopus ostralegus</re>
             <t pos="N">tjïelle</t>
          </tg>
       </mg>
@@ -82839,8 +82839,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">vipe</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">vanellus vanellus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">vanellus vanellus</re>
             <t pos="N">vijpe</t>
          </tg>
       </mg>
@@ -82850,8 +82850,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">heilo</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">pluvialis apricaria</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">pluvialis apricaria</re>
             <t pos="N">sjorjehke</t>
          </tg>
       </mg>
@@ -82861,8 +82861,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">tundralo</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">pluvialis squatarola</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">pluvialis squatarola</re>
             <t pos="N">mïerege</t>
          </tg>
       </mg>
@@ -82872,8 +82872,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">sandlo</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">charadrius hiaticula</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">charadrius hiaticula</re>
             <t pos="N">gaedtege</t>
          </tg>
       </mg>
@@ -82883,8 +82883,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">dverglo</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">charadrius dubius</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">charadrius dubius</re>
             <t pos="N">onne-gaedtege</t>
          </tg>
       </mg>
@@ -82894,8 +82894,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">boltit</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">charadrius morinellus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">charadrius morinellus</re>
             <t pos="N">laejjere</t>
             <t pos="N">laejvere</t>
             <t pos="N">njurke</t>
@@ -82907,8 +82907,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">svarthalespove</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">limosa limosa</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">limosa limosa</re>
             <t pos="N">rööpses-skutjke</t>
          </tg>
       </mg>
@@ -82918,8 +82918,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">lappspove</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">limosa lapponica</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">limosa lapponica</re>
             <t pos="N">pluevie-skutjke</t>
          </tg>
       </mg>
@@ -82929,8 +82929,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">småspove</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">numenius phaeopus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">numenius phaeopus</re>
             <t pos="N">onne-skutjke</t>
          </tg>
       </mg>
@@ -82940,8 +82940,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">storspove</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">numenius arquata</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">numenius arquata</re>
             <t pos="N">stoerre-skutjke</t>
          </tg>
       </mg>
@@ -82951,8 +82951,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">sotsnipe</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">tringa erythropus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">tringa erythropus</re>
             <t pos="N">tjeehpes-tjïevhtje</t>
          </tg>
       </mg>
@@ -82962,8 +82962,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">rødstilk</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">tringa totanus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">tringa totanus</re>
             <t pos="N">tjevhtje</t>
          </tg>
       </mg>
@@ -82973,8 +82973,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">gluttsnipe</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">tringa nebularia</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">tringa nebularia</re>
             <t pos="N">stoerre-tjïevhtje</t>
          </tg>
       </mg>
@@ -82984,8 +82984,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">skogsnipe</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">tringa ochropus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">tringa ochropus</re>
             <t pos="N">skåake-tjïevhtje</t>
          </tg>
       </mg>
@@ -82995,8 +82995,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">grønnstilk</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">tringa glareola</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">tringa glareola</re>
             <t pos="N">kruana-stïelhke</t>
          </tg>
       </mg>
@@ -83006,8 +83006,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">steinvender</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">arenaria interpres</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">arenaria interpres</re>
             <t pos="N">gierkie-jarkije</t>
          </tg>
       </mg>
@@ -83017,8 +83017,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">svømmesnipe</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">phalaropus lobatus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">phalaropus lobatus</re>
             <t pos="N">voejije-tjïevhtje</t>
          </tg>
       </mg>
@@ -83028,8 +83028,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">rugde</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">scolopax rusticola</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">scolopax rusticola</re>
             <t pos="N">daknge</t>
             <t pos="N">goetske</t>
             <t pos="N">jijje-goetske</t>
@@ -83041,8 +83041,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">dobbeltbekkasin</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">gallinago media</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">gallinago media</re>
             <t pos="N">gïerthbekkasijne</t>
          </tg>
       </mg>
@@ -83052,8 +83052,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">enkeltbekkasin</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">gallinago gallinago</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">gallinago gallinago</re>
             <t pos="N">baapalohke</t>
             <t pos="N">baapelge</t>
             <t pos="N">humhke</t>
@@ -83065,8 +83065,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">kvartbekkasin</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">lymnocryptes minimus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">lymnocryptes minimus</re>
             <t pos="N">goerhtebekkasijne</t>
          </tg>
       </mg>
@@ -83076,8 +83076,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">polarsnipe</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">calidris canutus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">calidris canutus</re>
             <t pos="N">noerhte-tjïevhtje</t>
          </tg>
       </mg>
@@ -83087,8 +83087,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">sandløper</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">calidris alba</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">calidris alba</re>
             <t pos="N">saedtie-roehtije</t>
          </tg>
       </mg>
@@ -83098,8 +83098,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">dvergsnipe</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">calidris minuta</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">calidris minuta</re>
             <t pos="N">onne-tjïevhtje</t>
          </tg>
       </mg>
@@ -83109,8 +83109,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">temmincksnipe</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">calidris temminckii</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">calidris temminckii</re>
             <t pos="N">goelpe-tjïevhtje</t>
          </tg>
       </mg>
@@ -83120,8 +83120,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">fjæreplytt</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">calidris maritima</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">calidris maritima</re>
             <t pos="N">feavroe-tjïevhtje</t>
          </tg>
       </mg>
@@ -83131,8 +83131,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">myrsnipe</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">calidris alpina</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">calidris alpina</re>
             <t pos="N">pluevie-tjïevhtje</t>
          </tg>
       </mg>
@@ -83142,8 +83142,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">tundrasnipe</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">calidris ferruginea</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">calidris ferruginea</re>
             <t pos="N">guevtele-tjïevhtje</t>
          </tg>
       </mg>
@@ -83153,8 +83153,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">fjellmyrløper</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">limicola falcinellus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">limicola falcinellus</re>
             <t pos="N">vaeriepluevie-roehtije</t>
          </tg>
       </mg>
@@ -83164,8 +83164,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">brushane</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">philomachus pugnax</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">philomachus pugnax</re>
             <t pos="N">gåahke-ledtie</t>
          </tg>
       </mg>
@@ -83175,8 +83175,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">storjo</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">catharacta skua</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">catharacta skua</re>
             <t pos="N">stoerre-skaejhtie</t>
          </tg>
       </mg>
@@ -83186,8 +83186,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">polarjo</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">stercorarius pomarinus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">stercorarius pomarinus</re>
             <t pos="N">noerhte-skaejhtie</t>
          </tg>
       </mg>
@@ -83197,8 +83197,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">tyvjo</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">stercorarius</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">stercorarius</re>
             <t pos="N">soeleh-skaejhtie</t>
          </tg>
       </mg>
@@ -83208,8 +83208,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">fjelljo</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">stercorarius</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">stercorarius</re>
             <t pos="N">skaajhta</t>
             <t pos="N">skaajhtoe</t>
             <t pos="N">skaejhtie</t>
@@ -83221,8 +83221,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">ismåke</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">pagophila eburnea</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">pagophila eburnea</re>
             <t pos="N">jïenge-moevse</t>
          </tg>
       </mg>
@@ -83232,8 +83232,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">fiskemåke</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">larus canus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">larus canus</re>
             <t pos="N">guelie-moevse</t>
          </tg>
       </mg>
@@ -83243,8 +83243,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">gråmåke</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">larus argentatus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">larus argentatus</re>
             <t pos="N">kraevies-moevse</t>
          </tg>
       </mg>
@@ -83254,8 +83254,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">sildemåke</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">larus fuscus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">larus fuscus</re>
             <t pos="N">siltie-moevse</t>
          </tg>
       </mg>
@@ -83265,8 +83265,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">svartbak</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">larus marinus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">larus marinus</re>
             <t pos="N">tjeehpes-maerhvie</t>
          </tg>
       </mg>
@@ -83276,8 +83276,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">polarmåke</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">larus hyperboreus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">larus hyperboreus</re>
             <t pos="N">noerhte-moevse</t>
          </tg>
       </mg>
@@ -83287,8 +83287,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">grønlandsmåke</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">larus glaucoides</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">larus glaucoides</re>
             <t pos="N">veelkes-moevse</t>
          </tg>
       </mg>
@@ -83298,8 +83298,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">hettemåke</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">larus ridibundus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">larus ridibundus</re>
             <t pos="N">tjohpe-moevse</t>
          </tg>
       </mg>
@@ -83309,8 +83309,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">dvergmåke</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">larus minutus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">larus minutus</re>
             <t pos="N">tjavre-moevse</t>
          </tg>
       </mg>
@@ -83320,8 +83320,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">krykkje</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">rissa tridactyla</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">rissa tridactyla</re>
             <t pos="N">krydtja</t>
          </tg>
       </mg>
@@ -83331,8 +83331,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">svartterne</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">chlidonias niger</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">chlidonias niger</re>
             <t pos="N">tjeehpes-dearne</t>
          </tg>
       </mg>
@@ -83342,8 +83342,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">makrellterne</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">sterna hirundo</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">sterna hirundo</re>
             <t pos="N">makrelle-dearne</t>
          </tg>
       </mg>
@@ -83353,8 +83353,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">rødnebbterne</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">sterna paradisaea</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">sterna paradisaea</re>
             <t pos="N">rööpsesnjuenie-dearne</t>
          </tg>
       </mg>
@@ -83364,8 +83364,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">alkekonge</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">alle alle</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">alle alle</re>
             <t pos="N">aanga-gånka</t>
          </tg>
       </mg>
@@ -83375,8 +83375,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">alke</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">alca torda</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">alca torda</re>
             <t pos="N">aanga</t>
          </tg>
       </mg>
@@ -83386,8 +83386,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">polarlomvi</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">uria lomvia</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">uria lomvia</re>
             <t pos="N">noerhte-aanga</t>
          </tg>
       </mg>
@@ -83397,8 +83397,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">lomvi</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">uria aalge</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">uria aalge</re>
             <t pos="N">snjuhtjienjuenie-aalhka</t>
          </tg>
       </mg>
@@ -83408,8 +83408,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">teist</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">cepphus grylle</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">cepphus grylle</re>
             <t pos="N">teejste</t>
          </tg>
       </mg>
@@ -83419,8 +83419,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">lunde</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">fratercula arctica</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">fratercula arctica</re>
             <t pos="N">lunda</t>
          </tg>
       </mg>
@@ -83430,8 +83430,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">geirfugl</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">pinguinus impennis</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">pinguinus impennis</re>
             <t pos="N">geejre-ledtie</t>
          </tg>
       </mg>
@@ -83441,8 +83441,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">klippedue</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">columba livia</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">columba livia</re>
             <t pos="N">baektie-duvvege</t>
          </tg>
       </mg>
@@ -83452,8 +83452,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">skogdue</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">columba oenas</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">columba oenas</re>
             <t pos="N">skåake-duvvege</t>
          </tg>
       </mg>
@@ -83463,8 +83463,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">ringdue</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">columba palumbus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">columba palumbus</re>
             <t pos="N">reagka-duvvege</t>
          </tg>
       </mg>
@@ -83474,8 +83474,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">turteldue</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">streptopelia turtur</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">streptopelia turtur</re>
             <t pos="N">turtele-duvvege</t>
          </tg>
       </mg>
@@ -83485,8 +83485,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">tyrkerdue</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">streptopelia decaocto</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">streptopelia decaocto</re>
             <t pos="N">tyrkere-duvvege</t>
          </tg>
       </mg>
@@ -83496,8 +83496,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">slagugle</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">strix uralensis</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">strix uralensis</re>
             <t pos="N">jïhpege</t>
             <t pos="N">jïjje-snjagla</t>
          </tg>
@@ -83508,8 +83508,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">lappugle</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">strix nebulosa</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">strix nebulosa</re>
             <t pos="N">noerhte-snjagla</t>
          </tg>
       </mg>
@@ -83519,8 +83519,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">haukugle</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">surnia ulula</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">surnia ulula</re>
             <t pos="N">haepkie-snjagla</t>
          </tg>
       </mg>
@@ -83530,8 +83530,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">spurveugle</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">glaucidium passerinum</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">glaucidium passerinum</re>
             <t pos="N">tsöötsege-snjagla</t>
          </tg>
       </mg>
@@ -83541,8 +83541,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">perleugle</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">aegolius funereus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">aegolius funereus</re>
             <t pos="N">gïeken-ledtie</t>
          </tg>
       </mg>
@@ -83552,8 +83552,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">hornugle</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">asio otus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">asio otus</re>
             <t pos="N">tjåervie-snjagla</t>
          </tg>
       </mg>
@@ -83563,8 +83563,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">jordugle</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">asio flammeus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">asio flammeus</re>
             <t pos="N">jåarta-snjagla</t>
          </tg>
       </mg>
@@ -83574,8 +83574,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">nattravn</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">caprimulgus europaeus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">caprimulgus europaeus</re>
             <t pos="N">jïjje-raavne</t>
          </tg>
       </mg>
@@ -83585,8 +83585,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">tårnseiler</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">apus apus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">apus apus</re>
             <t pos="N">tåarne-siglije</t>
          </tg>
       </mg>
@@ -83596,8 +83596,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">isfugl</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">alcedo atthis</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">alcedo atthis</re>
             <t pos="N">jïenge-ledtie</t>
          </tg>
       </mg>
@@ -83607,8 +83607,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">hærfugl</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">upupa epops</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">upupa epops</re>
             <t pos="N">foeve-ledtie</t>
          </tg>
       </mg>
@@ -83618,8 +83618,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">vendehals</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">jynx torquilla</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">jynx torquilla</re>
             <t pos="N">tjaajna-ledtie</t>
          </tg>
       </mg>
@@ -83629,8 +83629,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">dvergspett</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">dendrocopos minor</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">dendrocopos minor</re>
             <t pos="N">moere-gïeletje</t>
          </tg>
       </mg>
@@ -83640,8 +83640,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">hvitryggspett</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">dendrocopos leucotos</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">dendrocopos leucotos</re>
             <t pos="N">veelkesrudtje-tsöölhke</t>
          </tg>
       </mg>
@@ -83651,8 +83651,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">flaggspett</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">dendrocopos major</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">dendrocopos major</re>
             <t pos="N">goese-tsoelhke</t>
          </tg>
       </mg>
@@ -83662,8 +83662,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">tretåspett</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">picoides tridactylus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">picoides tridactylus</re>
             <t pos="N">moere-tsöölhke</t>
          </tg>
       </mg>
@@ -83673,8 +83673,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">svartspett</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">dryocopus martius</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">dryocopus martius</re>
             <t pos="N">moere-gaarenes</t>
          </tg>
       </mg>
@@ -83684,8 +83684,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">grønnspett</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">picus viridis</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">picus viridis</re>
             <t pos="N">kruana-tsöölhke</t>
          </tg>
       </mg>
@@ -83695,8 +83695,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">gråspett</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">picus canus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">picus canus</re>
             <t pos="N">kraevies-tsöölhke</t>
          </tg>
       </mg>
@@ -83706,8 +83706,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">sanglerke</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">alauda arvensis</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">alauda arvensis</re>
             <t pos="N">voelere-ledtie</t>
          </tg>
       </mg>
@@ -83717,8 +83717,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">fjellerke</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">eremophila alpestris</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">eremophila alpestris</re>
             <t pos="N">vaerie-ledtie</t>
          </tg>
       </mg>
@@ -83728,8 +83728,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">sandsvale</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">riparia riparia</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">riparia riparia</re>
             <t pos="N">saedtie-svaala</t>
          </tg>
       </mg>
@@ -83739,8 +83739,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">låvesvale</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">hirundo rustica</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">hirundo rustica</re>
             <t pos="N">laaroe-svaala</t>
          </tg>
       </mg>
@@ -83750,8 +83750,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">taksvale</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">delichon urbica</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">delichon urbica</re>
             <t pos="N">rehpie-svaala</t>
          </tg>
       </mg>
@@ -83761,8 +83761,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">gulerle</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">motacilla flava</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">motacilla flava</re>
             <t pos="N">siessele</t>
          </tg>
       </mg>
@@ -83772,8 +83772,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">vintererle</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">motacilla cinerea</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">motacilla cinerea</re>
             <t pos="N">daelvie-siessele</t>
          </tg>
       </mg>
@@ -83783,8 +83783,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">heipiplerke</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">anthus pratensis</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">anthus pratensis</re>
             <t pos="N">hiejje-plähtjege</t>
          </tg>
       </mg>
@@ -83794,8 +83794,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">trepiplerke</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">anthus trivialis</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">anthus trivialis</re>
             <t pos="N">moere-plähtjege</t>
          </tg>
       </mg>
@@ -83805,8 +83805,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">lappiplerke</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">anthus cervinus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">anthus cervinus</re>
             <t pos="N">noerhte-plähtjege</t>
          </tg>
       </mg>
@@ -83816,8 +83816,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">skjærpiplerke</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">anthus petrosus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">anthus petrosus</re>
             <t pos="N">skäjroe-plähtjege</t>
          </tg>
       </mg>
@@ -83827,8 +83827,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">linerle</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">motacilla alba</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">motacilla alba</re>
             <t pos="N">tjoejhke-ledtie</t>
             <t pos="N">sjetniele</t>
          </tg>
@@ -83839,8 +83839,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">tornskate</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">lanius collurio</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">lanius collurio</re>
             <t pos="N">tåarne-skäjroe</t>
          </tg>
       </mg>
@@ -83850,8 +83850,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">varsler</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">lanius excubitor</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">lanius excubitor</re>
             <t pos="N">bïerkele</t>
          </tg>
       </mg>
@@ -83861,8 +83861,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">sidensvans</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">bombycilla garrulus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">bombycilla garrulus</re>
             <t pos="N">silhke-siejpie</t>
          </tg>
       </mg>
@@ -83872,8 +83872,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">fossekall</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">cinclus cinclus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">cinclus cinclus</re>
             <t pos="N">voeknge</t>
             <t pos="N">snjïetjke</t>
          </tg>
@@ -83884,8 +83884,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">gjerdesmett</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">troglodytes</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">troglodytes</re>
             <t pos="N">tseagkoe-siejpie</t>
          </tg>
       </mg>
@@ -83895,8 +83895,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">jernspurv</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">prunella modularis</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">prunella modularis</re>
             <t pos="N">ruevtie-tsyjhtsehke</t>
          </tg>
       </mg>
@@ -83906,8 +83906,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">rødstrupe</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">erithacus rubecula</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">erithacus rubecula</re>
             <t pos="N">rööpses-skuvmie</t>
          </tg>
       </mg>
@@ -83917,8 +83917,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">nattergal</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">luscinia luscinia</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">luscinia luscinia</re>
             <t pos="N">jïjje-voelere</t>
          </tg>
       </mg>
@@ -83928,8 +83928,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">blåstrupe</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">luscinia svecica</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">luscinia svecica</re>
             <t pos="N">bealloe-ladtetje</t>
          </tg>
       </mg>
@@ -83939,8 +83939,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">svartrødstjert</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">phoenicurus ochruros</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">phoenicurus ochruros</re>
             <t pos="N">tjeehpesrööpses-siejpie</t>
          </tg>
       </mg>
@@ -83950,8 +83950,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">rødstjert</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">phoenicurus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">phoenicurus</re>
             <t pos="N">rööpses-siejpie</t>
          </tg>
       </mg>
@@ -83961,8 +83961,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">buskskvett</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">saxicola rubetra</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">saxicola rubetra</re>
             <t pos="N">båskoe-strïjhtje</t>
          </tg>
       </mg>
@@ -83972,8 +83972,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">svartstrupe</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">saxicola torquata</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">saxicola torquata</re>
             <t pos="N">tjeehpes-gealoe</t>
          </tg>
       </mg>
@@ -83983,8 +83983,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">steinskvett</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">oenanthe oenanthe</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">oenanthe oenanthe</re>
             <t pos="N">gierkie- strïjhtje</t>
          </tg>
       </mg>
@@ -83994,8 +83994,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">ringtrost</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">turdus torquatus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">turdus torquatus</re>
             <t pos="N">gievlie-traasta</t>
          </tg>
       </mg>
@@ -84005,8 +84005,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">svarttrost</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">turdus merula</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">turdus merula</re>
             <t pos="N">tjeehpes-traasta</t>
          </tg>
       </mg>
@@ -84016,8 +84016,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">gråtrost</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">turdus pilaris</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">turdus pilaris</re>
             <t pos="N">kraevies-traasta</t>
          </tg>
       </mg>
@@ -84027,8 +84027,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">rødvingetrost</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">turdus iliacus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">turdus iliacus</re>
             <t pos="N">liejpie-traasta</t>
          </tg>
       </mg>
@@ -84038,8 +84038,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">måltrost</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">turdus philomelos</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">turdus philomelos</re>
             <t pos="N">vijhtsele</t>
          </tg>
       </mg>
@@ -84049,8 +84049,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">duetrost</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">turdus viscivorus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">turdus viscivorus</re>
             <t pos="N">duvvege-traasta</t>
          </tg>
       </mg>
@@ -84060,8 +84060,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">gresshoppesanger</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">locustella naevia</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">locustella naevia</re>
             <t pos="N">njålhtja-vijhtsere</t>
          </tg>
       </mg>
@@ -84071,8 +84071,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">elvesanger</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">locustella fluviatilis</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">locustella fluviatilis</re>
             <t pos="N">jeanoe-vijhtsere</t>
          </tg>
       </mg>
@@ -84082,8 +84082,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">sivsanger</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">acrocephalus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">acrocephalus</re>
             <t pos="N">raavre-vijhtsere</t>
          </tg>
       </mg>
@@ -84093,8 +84093,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">rørsanger</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">acrocephalus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">acrocephalus</re>
             <t pos="N">rööjre-vijhtsere</t>
          </tg>
       </mg>
@@ -84104,8 +84104,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">myrsanger</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">acrocephalus palustris</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">acrocephalus palustris</re>
             <t pos="N">pluevie-vijhtsere</t>
          </tg>
       </mg>
@@ -84115,8 +84115,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">trostesanger</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">acrocephalus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">acrocephalus</re>
             <t pos="N">traaste-vijhtsere</t>
          </tg>
       </mg>
@@ -84126,8 +84126,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">gulsanger</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">hippolais icterina</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">hippolais icterina</re>
             <t pos="N">viskes-vijhtsere</t>
          </tg>
       </mg>
@@ -84137,8 +84137,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">løvsanger</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">phylloscopus trochilus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">phylloscopus trochilus</re>
             <t pos="N">skajjere</t>
          </tg>
       </mg>
@@ -84148,8 +84148,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">gransanger</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">phylloscopus collybita</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">phylloscopus collybita</re>
             <t pos="N">goese-vijhtsere</t>
          </tg>
       </mg>
@@ -84159,8 +84159,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">bøksanger</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">phylloscopus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">phylloscopus</re>
             <t pos="N">boeke-vijhtsere</t>
          </tg>
       </mg>
@@ -84170,8 +84170,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">gulbrynsanger</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">phylloscopus inornatus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">phylloscopus inornatus</re>
             <t pos="N">råhtoe-vijhtsere</t>
          </tg>
       </mg>
@@ -84181,8 +84181,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">lappsanger</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">phylloscopus borealis</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">phylloscopus borealis</re>
             <t pos="N">noerhte-vijhtsere</t>
          </tg>
       </mg>
@@ -84192,8 +84192,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">munk</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">sylvia atricapilla</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">sylvia atricapilla</re>
             <t pos="N">tjohpe-vijhtsere</t>
          </tg>
       </mg>
@@ -84203,8 +84203,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">hagesanger</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">sylvia borin</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">sylvia borin</re>
             <t pos="N">såafoe-vijhtsere</t>
          </tg>
       </mg>
@@ -84214,8 +84214,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">tornsanger</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">sylvia communis</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">sylvia communis</re>
             <t pos="N">tåarne-vijhtsere</t>
          </tg>
       </mg>
@@ -84225,8 +84225,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">møller</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">sylvia curruca</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">sylvia curruca</re>
             <t pos="N">earhtene-vijhtsere</t>
          </tg>
       </mg>
@@ -84236,8 +84236,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">hauksanger</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">sylvia nisoria</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">sylvia nisoria</re>
             <t pos="N">haepkie-vijhtsere</t>
          </tg>
       </mg>
@@ -84247,8 +84247,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">fuglekonge</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">regulus regulus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">regulus regulus</re>
             <t pos="N">ledtie-gånka</t>
          </tg>
       </mg>
@@ -84258,8 +84258,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">gråfluesnapper</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">muscicapa striata</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">muscicapa striata</re>
             <t pos="N">kraevies tjovrehke-dijpije</t>
          </tg>
       </mg>
@@ -84269,8 +84269,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">svarthvit</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">ficedula hypoleuca</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">ficedula hypoleuca</re>
             <t pos="N">derhvie tjööse-dijpije</t>
          </tg>
       </mg>
@@ -84280,8 +84280,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">stjertmeis</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">aegithalos caudatus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">aegithalos caudatus</re>
             <t pos="N">siejpie-tsyjhtsehke</t>
          </tg>
       </mg>
@@ -84291,8 +84291,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">løvmeis</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">parus palustris</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">parus palustris</re>
             <t pos="N">laaste-tsyjhtsehke</t>
          </tg>
       </mg>
@@ -84302,8 +84302,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">granmeis</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">parus montanus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">parus montanus</re>
             <t pos="N">tjïjhtjatja</t>
          </tg>
       </mg>
@@ -84313,8 +84313,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">lappmeis</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">parus cinctus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">parus cinctus</re>
             <t pos="N">noerhte-tsyjhtsehke</t>
          </tg>
       </mg>
@@ -84324,8 +84324,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">svartmeis</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">parus ater</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">parus ater</re>
             <t pos="N">tjeehpes-tsyjhtsehke</t>
          </tg>
       </mg>
@@ -84335,8 +84335,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">toppmeis</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">parus cristatus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">parus cristatus</re>
             <t pos="N">voepte-tsyjhtsehke</t>
          </tg>
       </mg>
@@ -84346,8 +84346,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">blåmeis</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">parus caeruleus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">parus caeruleus</re>
             <t pos="N">plaave-tsyjhtsehke</t>
          </tg>
       </mg>
@@ -84357,8 +84357,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">spettmeis</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">sitta europaea</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">sitta europaea</re>
             <t pos="N">tsijtsele</t>
          </tg>
       </mg>
@@ -84368,8 +84368,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">trekryper</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">certhia familiaris</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">certhia familiaris</re>
             <t pos="N">moere-kråapije</t>
          </tg>
       </mg>
@@ -84379,8 +84379,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">gulspurv</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">emberiza citrinella</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">emberiza citrinella</re>
             <t pos="N">viskes-tsöötsege</t>
          </tg>
       </mg>
@@ -84390,8 +84390,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">hortulan</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">emberiza hortulana</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">emberiza hortulana</re>
             <t pos="N">hortulaane</t>
          </tg>
       </mg>
@@ -84401,8 +84401,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">dvergspurv</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">emberiza pusilla</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">emberiza pusilla</re>
             <t pos="N">tjavre-tsöötsege</t>
          </tg>
       </mg>
@@ -84412,8 +84412,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">vierspurv</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">emberiza rustica</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">emberiza rustica</re>
             <t pos="N">sïerke-tsöötsege</t>
          </tg>
       </mg>
@@ -84423,8 +84423,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">sivspurv</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">emberiza schoeniclus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">emberiza schoeniclus</re>
             <t pos="N">raavre-tsöötsege</t>
          </tg>
       </mg>
@@ -84434,8 +84434,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">lappspurv</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">calcarius lapponicus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">calcarius lapponicus</re>
             <t pos="N">noerhte-tsöötsege</t>
          </tg>
       </mg>
@@ -84445,8 +84445,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">bokfink</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">fringilla coelebs</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">fringilla coelebs</re>
             <t pos="N">boeke-fäntoe</t>
          </tg>
       </mg>
@@ -84456,8 +84456,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">bjørkefink</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">fringilla</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">fringilla</re>
             <t pos="N">såekie-fäntoe</t>
          </tg>
       </mg>
@@ -84467,8 +84467,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">grønnfink</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">carduelis chloris</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">carduelis chloris</re>
             <t pos="N">kruana-fäntoe</t>
          </tg>
       </mg>
@@ -84478,8 +84478,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">grønnsisik</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">carduelis spinus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">carduelis spinus</re>
             <t pos="N">kruana-tjijhtjehke</t>
          </tg>
       </mg>
@@ -84489,8 +84489,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">stillits</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">carduelis carduelis</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">carduelis carduelis</re>
             <t pos="N">stïjlitse</t>
          </tg>
       </mg>
@@ -84500,8 +84500,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">brunsisik</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">carduelis cabaret</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">carduelis cabaret</re>
             <t pos="N">provne-tjijhtjehke</t>
          </tg>
       </mg>
@@ -84511,8 +84511,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">bergirisk</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">carduelis flavirostris</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">carduelis flavirostris</re>
             <t pos="N">bïerje-ïjriske</t>
          </tg>
       </mg>
@@ -84522,8 +84522,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">tornirisk</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">carduelis cannabina</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">carduelis cannabina</re>
             <t pos="N">tåarne-ïjriske</t>
          </tg>
       </mg>
@@ -84533,8 +84533,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">rosenfink</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">carpodacus erythrinus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">carpodacus erythrinus</re>
             <t pos="N">rovse-fäntoe</t>
          </tg>
       </mg>
@@ -84544,8 +84544,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">konglebit</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">pinicola enucleator</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">pinicola enucleator</re>
             <t pos="N">bietsie-bähta</t>
          </tg>
       </mg>
@@ -84555,8 +84555,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">furukorsnebb</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">loxia pytyopsittacus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">loxia pytyopsittacus</re>
             <t pos="N">bietsie-njuenie</t>
          </tg>
       </mg>
@@ -84566,8 +84566,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">grankorsnebb</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">loxia curvirostra</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">loxia curvirostra</re>
             <t pos="N">goese-njuenie</t>
          </tg>
       </mg>
@@ -84577,8 +84577,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">båndkorsnebb</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">loxia leucoptera</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">loxia leucoptera</re>
             <t pos="N">baante-njuenie</t>
          </tg>
       </mg>
@@ -84588,8 +84588,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">dompap</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">pyrrhula pyrrhula</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">pyrrhula pyrrhula</re>
             <t pos="N">rööpses-mïelke</t>
          </tg>
       </mg>
@@ -84599,8 +84599,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">kjernebiter</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">coccothraustes</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">coccothraustes</re>
             <t pos="N">gierkie-gaetskije</t>
          </tg>
       </mg>
@@ -84610,8 +84610,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">gråsisik</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">carduelis flammea</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">carduelis flammea</re>
             <t pos="N">kraevies-tjijhtjehke</t>
          </tg>
       </mg>
@@ -84621,8 +84621,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">polarsisik</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">carduelis hornemanni</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">carduelis hornemanni</re>
             <t pos="N">lopme-tjijhtjehke</t>
          </tg>
       </mg>
@@ -84632,8 +84632,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">gråspurv</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">passer domesticus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">passer domesticus</re>
             <t pos="N">kraevies-tsöötsege</t>
          </tg>
       </mg>
@@ -84643,8 +84643,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">pilfink</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">passer montanus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">passer montanus</re>
             <t pos="N">njoele-fäntoe</t>
          </tg>
       </mg>
@@ -84654,8 +84654,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">rosenstær</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">sturnus roseus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">sturnus roseus</re>
             <t pos="N">rovse-stiere</t>
          </tg>
       </mg>
@@ -84665,8 +84665,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">stær</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">sturnus vulgaris</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">sturnus vulgaris</re>
             <t pos="N">stiere</t>
          </tg>
       </mg>
@@ -84676,8 +84676,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">pirol</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">oriolus oriolus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">oriolus oriolus</re>
             <t pos="N">giesie-vyskehke</t>
          </tg>
       </mg>
@@ -84687,8 +84687,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">lavskrike</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">perisoreus infaustus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">perisoreus infaustus</re>
             <t pos="N">goeksege</t>
             <t pos="N">guaksa</t>
             <t pos="N">kruaksa</t>
@@ -84700,8 +84700,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">nøttekråke</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">nucifraga</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">nucifraga</re>
             <t pos="N">nöödte-voerhtje</t>
          </tg>
       </mg>
@@ -84711,8 +84711,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">kaie</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">corvus monedula</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">corvus monedula</re>
             <t pos="N">voerhtjetje</t>
             <t pos="N">kaaja</t>
          </tg>
@@ -84723,8 +84723,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">kornkråke</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">corvus frugilegus</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">corvus frugilegus</re>
             <t pos="N">gernie-voerhtje</t>
          </tg>
       </mg>
@@ -84734,8 +84734,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">svartkråke</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">corvus corone</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">corvus corone</re>
             <t pos="N">tjeehpes-voerhtje</t>
          </tg>
       </mg>
@@ -84745,8 +84745,8 @@ For the full license text, see the link above.</lic>
          <l pos="N">bydue</l>
       </lg>
       <mg>
-         <tg>
-            <re x="lat">columba livia</re>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">columba livia</re>
             <t pos="N">staare-duvvege</t>
          </tg>
       </mg>
