@@ -898,29 +898,11 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">om</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="om 7a79fee5-9457-4251-ab0d-dcd408fb6163">
-            <t pos="Po">baaktoe</t>
-            <xg>
-               <x>Gjesten kom via Røros. Han gikk forbi meg.</x>
-               <xt>Guessie Plassjen baaktoe bööti. Mov baaktoe veedtsi.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
          <tg xml:lang="sma" tw_id="om d485ff20-3007-47c6-b49d-b39a53b04457">
             <t pos="Po">bïjre</t>
             <xg>
                <x>De snakket om været.</x>
                <xt>Dah vearelden bïjre soptsestin.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="om 5b2dfb77-0749-4191-96bc-af9a4b976b88">
-            <t pos="Po">baakta</t>
-            <xg>
-               <x>Ikke gå forbi meg!</x>
-               <xt>Aellieh mov baakta vaedtsieh!</xt>
             </xg>
          </tg>
       </mg>
@@ -933,17 +915,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma" tw_id="via 2f2bf43d-97d8-4f6e-ae69-622e2d95a04c">
             <t pos="Po">baaktoe</t>
             <xg>
-               <x>Gjesten kom via Røros. Han gikk forbi meg.</x>
-               <xt>Guessie Plassjen baaktoe bööti. Mov baaktoe veedtsi.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="via cf293ad1-4102-4465-b617-974d9d1b9496">
-            <t pos="Po">baakta</t>
-            <xg>
-               <x>Ikke gå forbi meg!</x>
-               <xt>Aellieh mov baakta vaedtsieh!</xt>
+               <x>Gjesten kom via Røros.</x>
+               <xt>Guessie Plassjen baaktoe bööti.</xt>
             </xg>
          </tg>
       </mg>
@@ -1083,6 +1056,24 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Det er ikke lov å gå forbi meg.</x>
                <xt>Ij leah luhpie mov baaltese vaedtsedh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="via 2f2bf43d-97d8-4f6e-ae69-622e2d95a04c">
+            <t pos="Po">baaktoe</t>
+            <xg>
+               <x>Han gikk forbi meg.</x>
+               <xt>Mov baaktoe veedtsi.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="via cf293ad1-4102-4465-b617-974d9d1b9496">
+            <t pos="Po">baakta</t>
+            <xg>
+               <x>Ikke gå forbi meg!</x>
+               <xt>Aellieh mov baakta vaedtsieh!</xt>
             </xg>
          </tg>
       </mg>
