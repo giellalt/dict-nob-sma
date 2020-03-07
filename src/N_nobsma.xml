@@ -84695,6 +84695,20 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e>
+      <lg>
+         <l pos="N">nordlys</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t num="pl" pos="N" soggi="e" stem="3syll">goeksegh</t>
+            <xg>
+               <x>Nordlyset flammer.</x>
+               <xt>Goeksegh buelieh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e src="husbykuhmunen">
       <lg>
          <l pos="N">nøttekråke</l>
