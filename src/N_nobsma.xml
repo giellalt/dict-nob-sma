@@ -17076,11 +17076,21 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="helg 561d4d19-040c-449d-a718-71a7b19bf712">
-            <t pos="N" soggi="e" stem="2syll">hïelje</t>
+            <t pos="N" soggi="e" stem="2syll">våhkoegietjie</t>
             <xg>
                <x>Birje drar etter helgen.</x>
-               <xt>Birje hïeljen mænngan vualka.</xt>
+               <xt>Birje våhkoegietjien mænngan vualka.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="helg 561d4d19-040c-449d-a718-71a7b19bf712">
+            <t pos="N" soggi="e" stem="2syll">hïelje</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="helg 561d4d19-040c-449d-a718-71a7b19bf712">
+            <t pos="N" soggi="e" stem="2syll">våhkoelaehpije</t>
          </tg>
       </mg>
    </e>
