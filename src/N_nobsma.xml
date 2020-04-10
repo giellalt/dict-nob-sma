@@ -25530,17 +25530,21 @@ For the full license text, see the link above.</lic>
             <t margo="e" pos="N" soggi="e" stem="3syll">prïhtjhvoessetje</t>
          </tg>
       </mg>
-   </e>
+   </e>  
    <e>
       <lg>
          <l pos="N">påske</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="påske de7a0249-6af3-47bb-9068-d725e3c522a0">
-            <t pos="N" soggi="e" stem="2syll">påaske</t>
+            <t pos="N" soggi="e" stem="2syll">påaskh</t>
+            <xg>
+               <x>God påske</x>
+               <xt>Buerie påaskh</xt>
+            </xg>
          </tg>
       </mg>
-   </e>
+   </e>   
    <e>
       <lg>
          <l pos="N">post</l>
