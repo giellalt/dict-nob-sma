@@ -1257,7 +1257,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="søskenbarn innbyrdes c9f287a0-df20-443c-98c0-91d39a3a43fb">
-            <t num="pl" pos="N" stem="2syll">aajkoehkadtjh</t>
+            <t nr="Pl" pos="N" stem="2syll">aajkoehkadtjh</t>
          </tg>
       </mg>
    </e>
@@ -6484,7 +6484,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="husgeråd bb85c13a-1bce-4bd9-8960-b3623447a2e6">
-            <t num="pl" pos="N" soggi="a" stem="2syll">bægkah</t>
+            <t nr="Pl" pos="N" soggi="a" stem="2syll">bægkah</t>
          </tg>
       </mg>
       <mg>
@@ -6499,7 +6499,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="husgeråd 2d185185-008f-4f09-9426-58deca2c26a1">
-            <t num="pl" pos="N" soggi="ie" stem="2syll">tjåenieh</t>
+            <t nr="Pl" pos="N" soggi="ie" stem="2syll">tjåenieh</t>
          </tg>
       </mg>
    </e>
@@ -6509,7 +6509,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="proviant c70b7f75-6dd5-489e-a188-74ce81ebf7a0">
-            <t num="pl" pos="N" soggi="a" stem="2syll">bægkah</t>
+            <t nr="Pl" pos="N" soggi="a" stem="2syll">bægkah</t>
          </tg>
       </mg>
    </e>
@@ -6519,7 +6519,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="reisegods 4aaed880-0886-4076-8938-897be6ba517f">
-            <t num="pl" pos="N" soggi="a" stem="2syll">bægkah</t>
+            <t nr="Pl" pos="N" soggi="a" stem="2syll">bægkah</t>
          </tg>
       </mg>
    </e>
@@ -6529,7 +6529,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="oppakning 759ecda5-3608-4fa6-a435-a55f2a32d588">
-            <t num="pl" pos="N" soggi="a" stem="2syll">bægkah</t>
+            <t nr="Pl" pos="N" soggi="a" stem="2syll">bægkah</t>
          </tg>
       </mg>
    </e>
@@ -6539,7 +6539,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="kløv 9187753a-0f50-49ee-b902-7b58085b398b">
-            <t num="pl" pos="N" soggi="a" stem="2syll">bægkah</t>
+            <t nr="Pl" pos="N" soggi="a" stem="2syll">bægkah</t>
          </tg>
       </mg>
       <mg>
@@ -6888,7 +6888,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="lynne a43f2143-9bf1-44db-931d-15a7d3ce3481">
-            <t num="pl" pos="N" soggi="e" stem="3syll">bïevsterh</t>
+            <t nr="Pl" pos="N" soggi="e" stem="3syll">bïevsterh</t>
          </tg>
       </mg>
    </e>
@@ -7119,7 +7119,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="sanser c3ef98a5-4741-4e4a-bff9-af051214b065">
-            <t num="pl" pos="N" stem="2syll">daajh</t>
+            <t nr="Pl" pos="N" stem="2syll">daajh</t>
          </tg>
       </mg>
    </e>
@@ -7224,7 +7224,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="medisin 637685ff-6de6-4ff0-ba6f-fc29200b5c1c">
-            <t num="pl" pos="N" soggi="e" stem="3syll">daalhkesh</t>
+            <t nr="Pl" pos="N" soggi="e" stem="3syll">daalhkesh</t>
          </tg>
       </mg>
    </e>
@@ -7234,7 +7234,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="legemiddel 4818f7fe-4748-444b-9c4d-4056f59b3f9b">
-            <t num="pl" pos="N" soggi="e" stem="3syll">daalhkesh</t>
+            <t nr="Pl" pos="N" soggi="e" stem="3syll">daalhkesh</t>
          </tg>
       </mg>
    </e>
@@ -7244,18 +7244,18 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="gift b719b9cf-1970-4184-9534-ec5d0dc69a52">
-            <t num="pl" pos="N" soggi="e" stem="3syll">daalhkesh</t>
+            <t nr="Pl" pos="N" soggi="e" stem="3syll">daalhkesh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="gift 35b4a55d-ee97-4ed8-8789-38fdfc2fc45b">
             <re>toksin</re>
-            <t num="pl" pos="N" soggi="u" stem="3syll">dilhkuvh</t>
+            <t nr="Pl" pos="N" soggi="u" stem="3syll">dilhkuvh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="gift a2d58585-0c4b-465c-b232-1a23eb9a81be">
-            <t num="pl" pos="N" soggi="e" stem="2syll">krodth</t>
+            <t nr="Pl" pos="N" soggi="e" stem="2syll">krodth</t>
          </tg>
       </mg>
    </e>
@@ -7265,7 +7265,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="åte 9ebde83f-968b-41cb-96bf-74304b5592c9">
-            <t num="pl" pos="N" soggi="e" stem="3syll">daalhkesh</t>
+            <t nr="Pl" pos="N" soggi="e" stem="3syll">daalhkesh</t>
          </tg>
       </mg>
       <mg>
@@ -7614,7 +7614,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="bagasje c17195aa-5c8a-4395-83ed-0bdf8fdd7af7">
-            <t num="pl" pos="N" soggi="ie" stem="2syll">tjåenieh</t>
+            <t nr="Pl" pos="N" soggi="ie" stem="2syll">tjåenieh</t>
          </tg>
       </mg>
       <mg>
@@ -7715,12 +7715,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="utstyr f71a3d2e-bd8f-4d8b-aa3b-88982470702b">
-            <t num="pl" pos="N" soggi="e" stem="3syll">dalhketjh</t>
+            <t nr="Pl" pos="N" soggi="e" stem="3syll">dalhketjh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="utstyr ed72aebc-0cd9-4390-bbc2-44d04df36d53">
-            <t num="pl" pos="N" soggi="e" stem="3syll">deerpegh</t>
+            <t nr="Pl" pos="N" soggi="e" stem="3syll">deerpegh</t>
          </tg>
       </mg>
    </e>
@@ -8065,7 +8065,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="fornødenheter 94101ec9-0f54-4130-8fb7-afd4f7c94898">
-            <t num="pl" pos="N" soggi="e" stem="3syll">deerpegh</t>
+            <t nr="Pl" pos="N" soggi="e" stem="3syll">deerpegh</t>
          </tg>
       </mg>
    </e>
@@ -8272,7 +8272,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="økonomisk støtte 53b1d479-3d13-48ce-98f1-f844b06bde43">
-            <t num="pl" pos="N" soggi="e" stem="3syll">doedtebeetnegh</t>
+            <t nr="Pl" pos="N" soggi="e" stem="3syll">doedtebeetnegh</t>
          </tg>
       </mg>
    </e>
@@ -9409,7 +9409,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="sukker 23ccde57-0b05-4b57-9410-39ae59f9ddab">
-            <t num="pl" pos="N" soggi="e" stem="3syll">dïjnehkh</t>
+            <t nr="Pl" pos="N" soggi="e" stem="3syll">dïjnehkh</t>
          </tg>
       </mg>
       <mg>
@@ -9429,7 +9429,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="farin 1705e4f7-d454-4580-be19-7048d76d7447">
-            <t num="pl" pos="N" soggi="e" stem="3syll">dïjnehkh</t>
+            <t nr="Pl" pos="N" soggi="e" stem="3syll">dïjnehkh</t>
          </tg>
       </mg>
    </e>
@@ -9779,7 +9779,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="foreldre 94136d22-0548-4df6-90bb-68641a1be3fb">
-            <t num="pl" pos="N" soggi="e" stem="3syll">eejhtegh</t>
+            <t nr="Pl" pos="N" soggi="e" stem="3syll">eejhtegh</t>
             <xg>
                <x>barnets foreldre</x>
                <xt>maanan eejhtegh</xt>
@@ -10088,7 +10088,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="fagstoff 0351e373-0dc8-40dd-b416-9bf2da95b3c9">
-            <t num="pl" pos="N" soggi="e" stem="3syll">faageaamhtesh</t>
+            <t nr="Pl" pos="N" soggi="e" stem="3syll">faageaamhtesh</t>
          </tg>
       </mg>
    </e>
@@ -10798,7 +10798,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="latter ab8485e0-f5f5-4a26-9de1-9628edd3c3c8">
-            <t illpl="no" num="pl" pos="N" soggi="e" stem="3syll">föörhkelh</t>
+            <t illpl="no" nr="Pl" pos="N" soggi="e" stem="3syll">föörhkelh</t>
          </tg>
       </mg>
    </e>
@@ -11452,7 +11452,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="trang til å gjespe 46d147d9-1494-4589-bcd9-041de4823248">
-            <t num="pl" pos="N" soggi="e" stem="3syll">gaavesh</t>
+            <t nr="Pl" pos="N" soggi="e" stem="3syll">gaavesh</t>
             <xg>
                <x>Jeg må gjespe.</x>
                <xt>Mov gaavesh båetieh.</xt>
@@ -12408,7 +12408,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="seletøy 211e99a7-7efe-47ac-b19b-c19237d6398f">
-            <t num="pl" pos="N" stem="2syll">geasastahkh</t>
+            <t nr="Pl" pos="N" stem="2syll">geasastahkh</t>
          </tg>
       </mg>
    </e>
@@ -12933,7 +12933,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="husgeråd for sommeren e61bdcd0-80bc-4396-8faf-f11dca9b9762">
-            <t num="pl" pos="N" soggi="e" stem="3syll">giesiedalhketjh</t>
+            <t nr="Pl" pos="N" soggi="e" stem="3syll">giesiedalhketjh</t>
          </tg>
       </mg>
    </e>
@@ -13097,7 +13097,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="kuler a2a011b6-c450-4209-b3f3-49bee310c81b">
-            <t num="pl" pos="N" soggi="e" stem="3syll">godterh</t>
+            <t nr="Pl" pos="N" soggi="e" stem="3syll">godterh</t>
          </tg>
       </mg>
    </e>
@@ -13107,7 +13107,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="klumper fa902b9b-d03e-4cee-a1d2-f52359288998">
-            <t num="pl" pos="N" soggi="e" stem="3syll">godterh</t>
+            <t nr="Pl" pos="N" soggi="e" stem="3syll">godterh</t>
          </tg>
       </mg>
    </e>
@@ -13539,7 +13539,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="spy a858f9b5-0def-4ada-878d-66efb0b4b45c">
-            <t num="pl" pos="N" soggi="e" stem="2syll">voeksenassh</t>
+            <t nr="Pl" pos="N" soggi="e" stem="2syll">voeksenassh</t>
          </tg>
       </mg>
    </e>
@@ -13764,7 +13764,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="strømpebukser 838a34e6-e3c0-4053-aaba-29f1017d10ce">
-            <t num="pl" pos="N" soggi="a" stem="2syll">guapamåvhkah</t>
+            <t nr="Pl" pos="N" soggi="a" stem="2syll">guapamåvhkah</t>
          </tg>
       </mg>
    </e>
@@ -16161,7 +16161,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="skinnspilepinner 4acd6bb9-b1fb-4dbd-8dd1-02e857792321">
-            <t num="pl" pos="N" stem="2syll">haelieh</t>
+            <t nr="Pl" pos="N" stem="2syll">haelieh</t>
          </tg>
       </mg>
    </e>
@@ -16171,7 +16171,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="pinner som brukes for å spile ut skinn på bakken 633e2118-b4dd-4d44-8b5c-52c6dd4b7d1f">
-            <t num="pl" pos="N" stem="2syll">haelieh</t>
+            <t nr="Pl" pos="N" stem="2syll">haelieh</t>
          </tg>
       </mg>
    </e>
@@ -17331,7 +17331,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="mel 1cd4a718-9e31-4633-beb6-3393cfbb9456">
-            <t num="pl" pos="N" soggi="oe" stem="2syll">jaavvoeh</t>
+            <t nr="Pl" pos="N" soggi="oe" stem="2syll">jaavvoeh</t>
          </tg>
       </mg>
       <mg>
@@ -18214,7 +18214,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="midtsommer 7e3d27e6-ab0f-487c-b5eb-09a780d17e83">
-            <t num="pl" pos="N" soggi="oe" stem="2syll">jovnesåhkoeh</t>
+            <t nr="Pl" pos="N" soggi="oe" stem="2syll">jovnesåhkoeh</t>
          </tg>
       </mg>
    </e>
@@ -18224,7 +18224,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="Jonsok 0ad014c8-8bfa-4b93-b769-857545fc679a">
-            <t num="pl" pos="N" soggi="oe" stem="2syll">jovnesåhkoeh</t>
+            <t nr="Pl" pos="N" soggi="oe" stem="2syll">jovnesåhkoeh</t>
          </tg>
       </mg>
    </e>
@@ -19098,7 +19098,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="briller ff98000d-a843-433e-92f5-1fe1d206ccfa">
-            <t num="pl" pos="N" soggi="ie" stem="2syll">klaasetjelmieh</t>
+            <t nr="Pl" pos="N" soggi="ie" stem="2syll">klaasetjelmieh</t>
          </tg>
       </mg>
    </e>
@@ -19555,7 +19555,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="toksin 067e9a2b-c6d2-4049-bf8f-963c63cb8fb5">
-            <t num="pl" pos="N" soggi="e" stem="2syll">krodth</t>
+            <t nr="Pl" pos="N" soggi="e" stem="2syll">krodth</t>
          </tg>
       </mg>
    </e>
@@ -19615,7 +19615,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="grønnsaker 047026e5-9e30-4d6c-9ef1-0e345504f041">
-            <t num="pl" pos="N" soggi="e" stem="2syll">kruanesaath</t>
+            <t nr="Pl" pos="N" soggi="e" stem="2syll">kruanesaath</t>
          </tg>
       </mg>
    </e>
@@ -20404,7 +20404,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="tremenninger 2b647595-52e3-43d7-bf6a-6c536c6ba3a8">
             <re>innbyrdes forhold</re>
-            <t num="pl" pos="N" soggi="e" stem="2syll">laeviehkadtjh</t>
+            <t nr="Pl" pos="N" soggi="e" stem="2syll">laeviehkadtjh</t>
          </tg>
       </mg>
    </e>
@@ -20415,7 +20415,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="firemenninger a980d383-7dcd-4cba-af73-9af5b210768f">
             <re>innbyrdes forhold</re>
-            <t num="pl" pos="N" soggi="e" stem="2syll">laeviehkadtjh</t>
+            <t nr="Pl" pos="N" soggi="e" stem="2syll">laeviehkadtjh</t>
          </tg>
       </mg>
    </e>
@@ -20426,7 +20426,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="slektninger b7f61dbd-9c96-46a2-a0e8-bcb71cfbd48c">
             <re>innbyrdes forhold</re>
-            <t num="pl" pos="N" soggi="e" stem="2syll">laeviehkadtjh</t>
+            <t nr="Pl" pos="N" soggi="e" stem="2syll">laeviehkadtjh</t>
          </tg>
       </mg>
    </e>
@@ -21170,7 +21170,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="spener som sitter så tett at de kan melkes samtidig 9b0ce833-e319-4691-a3a5-7f95aab82f8f">
-            <t num="pl" pos="N" soggi="ie" stem="2syll">loevtenjidtjieh</t>
+            <t nr="Pl" pos="N" soggi="ie" stem="2syll">loevtenjidtjieh</t>
          </tg>
       </mg>
    </e>
@@ -24274,7 +24274,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="innvoller 1893a03d-f397-4589-9233-e777207adb7c">
-            <t num="pl" pos="N" soggi="e" stem="3syll">sysngelasjh</t>
+            <t nr="Pl" pos="N" soggi="e" stem="3syll">sysngelasjh</t>
          </tg>
       </mg>
    </e>
@@ -24821,7 +24821,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="tynntarmene og tarmfettet 6ce551c7-e67d-4649-b9eb-62d8c1e9c0a8">
-            <t num="pl" pos="N" soggi="e" stem="3syll">nïmmerh</t>
+            <t nr="Pl" pos="N" soggi="e" stem="3syll">nïmmerh</t>
          </tg>
       </mg>
    </e>
@@ -25482,7 +25482,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="kaffebønner 6875b2cd-b4b4-42da-8c0c-587815308edb">
-            <t num="pl" pos="N" soggi="e" stem="3syll">prïhtjegh</t>
+            <t nr="Pl" pos="N" soggi="e" stem="3syll">prïhtjegh</t>
          </tg>
       </mg>
    </e>
@@ -25492,7 +25492,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="malt kaffe db0844f5-aae7-418c-b81e-b944608653f7">
-            <t num="pl" pos="N" soggi="e" stem="3syll">prïhtjegh</t>
+            <t nr="Pl" pos="N" soggi="e" stem="3syll">prïhtjegh</t>
          </tg>
       </mg>
    </e>
@@ -25537,7 +25537,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="påske de7a0249-6af3-47bb-9068-d725e3c522a0">
-            <t pos="N" soggi="e" stem="2syll">påaskh</t>
+            <t pos="N" nr="Pl" soggi="e" stem="2syll">påaskh</t>
             <xg>
                <x>God påske</x>
                <xt>Buerie påaskh</xt>
@@ -25571,7 +25571,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="pepper b9b22766-6288-4d33-bb68-dc4e004793e5">
-            <t num="pl" pos="N" soggi="a" stem="3syll">pæhperh</t>
+            <t nr="Pl" pos="N" soggi="a" stem="3syll">pæhperh</t>
          </tg>
       </mg>
    </e>
@@ -26246,7 +26246,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="rugmel 8f8f4d94-bf4c-4177-add3-4bfd06fe962b">
-            <t num="pl" pos="N" soggi="oe" stem="2syll">rohkejaavvoeh</t>
+            <t nr="Pl" pos="N" soggi="oe" stem="2syll">rohkejaavvoeh</t>
          </tg>
       </mg>
    </e>
@@ -28909,7 +28909,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="slakteavfall ee989a05-8fe1-4a51-ba86-ca53c2bbe6d2">
-            <t num="pl" pos="N" soggi="ie" stem="2syll">sluekieh</t>
+            <t nr="Pl" pos="N" soggi="ie" stem="2syll">sluekieh</t>
          </tg>
       </mg>
    </e>
@@ -30342,7 +30342,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="sjustjernene 4e3e16e6-eecb-471c-acd8-8a89de07560c">
             <re>om stjernebilde</re>
-            <t num="pl" pos="N" soggi="e" stem="3syll">syhtjegh</t>
+            <t nr="Pl" pos="N" soggi="e" stem="3syll">syhtjegh</t>
          </tg>
       </mg>
    </e>
@@ -30362,7 +30362,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="innmat e04028ae-6e1d-4fd7-88d4-895b0764c235">
-            <t num="pl" pos="N" soggi="e" stem="3syll">sysngelasjh</t>
+            <t nr="Pl" pos="N" soggi="e" stem="3syll">sysngelasjh</t>
          </tg>
       </mg>
    </e>
@@ -32318,7 +32318,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="litt husgeråd ecd05d09-24d0-4988-afc3-8044eb8c3a47">
-            <t num="pl" pos="N" soggi="e" stem="3syll">tjåanetjh</t>
+            <t nr="Pl" pos="N" soggi="e" stem="3syll">tjåanetjh</t>
          </tg>
       </mg>
    </e>
@@ -32398,7 +32398,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="eiendeler 04e99d3c-6d9e-48f1-a708-d52e04f0a95c">
-            <t num="pl" pos="N" soggi="ie" stem="2syll">tjåenieh</t>
+            <t nr="Pl" pos="N" soggi="ie" stem="2syll">tjåenieh</t>
          </tg>
       </mg>
    </e>
@@ -34118,7 +34118,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="hvetemel df908a25-6759-4645-911f-cbe0426726e1">
-            <t num="pl" pos="N" soggi="oe" stem="2syll">veetejaavvoeh</t>
+            <t nr="Pl" pos="N" soggi="oe" stem="2syll">veetejaavvoeh</t>
          </tg>
       </mg>
    </e>
@@ -34423,7 +34423,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="svigerforeldre 1ff00fc3-46f5-4bd3-aef2-840daebf69b3">
-            <t num="pl" pos="N" soggi="e" stem="3syll">voehpealmetjh</t>
+            <t nr="Pl" pos="N" soggi="e" stem="3syll">voehpealmetjh</t>
          </tg>
       </mg>
    </e>
@@ -34468,7 +34468,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="oppkast c64dece1-1f3d-48b6-b750-64b1c3de81e9">
-            <t num="pl" pos="N" soggi="e" stem="2syll">voeksenassh</t>
+            <t nr="Pl" pos="N" soggi="e" stem="2syll">voeksenassh</t>
          </tg>
       </mg>
    </e>
@@ -34575,7 +34575,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="alderspensjon 8dd24c20-57f1-4744-888d-002f9c9391f5">
-            <t num="pl" pos="N" soggi="e" stem="3syll">voeresbeetnegh</t>
+            <t nr="Pl" pos="N" soggi="e" stem="3syll">voeresbeetnegh</t>
          </tg>
       </mg>
       <mg>
@@ -35885,7 +35885,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="sengklær eb3bbeac-6a42-4727-8c36-1b14f6c0669e">
-            <t num="pl" pos="N" soggi="oe" stem="2syll">åeremevaarjoeh</t>
+            <t nr="Pl" pos="N" soggi="oe" stem="2syll">åeremevaarjoeh</t>
          </tg>
       </mg>
    </e>
@@ -35965,7 +35965,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="småsøsken 653bf076-731e-40dc-a099-47c796c2eb45">
-            <t num="pl" pos="N" soggi="e" stem="2syll">åerpienadtjh</t>
+            <t nr="Pl" pos="N" soggi="e" stem="2syll">åerpienadtjh</t>
          </tg>
       </mg>
    </e>
@@ -35975,7 +35975,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="små søsken 0cb77720-bacf-468f-9e4a-51cd5f80bb5f">
-            <t num="pl" pos="N" soggi="e" stem="2syll">åerpienadtjh</t>
+            <t nr="Pl" pos="N" soggi="e" stem="2syll">åerpienadtjh</t>
          </tg>
       </mg>
    </e>
@@ -36949,7 +36949,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="brødre 6dc9db40-273c-49ae-9937-5da63d821ea8">
             <re>om innbyrdes slektsforhold</re>
-            <t illpl="no" num="pl" pos="N" soggi="e" stem="3syll">vïelletjh</t>
+            <t illpl="no" nr="Pl" pos="N" soggi="e" stem="3syll">vïelletjh</t>
          </tg>
       </mg>
    </e>
@@ -38843,7 +38843,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="sysaker fc35161a-ddf8-4311-b3e1-3caf99759f29">
-            <t num="pl" pos="N" soggi="e" stem="3syll">gåaromedeerpegh</t>
+            <t nr="Pl" pos="N" soggi="e" stem="3syll">gåaromedeerpegh</t>
          </tg>
       </mg>
    </e>
@@ -39079,7 +39079,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="avskjær 48cd9dfa-88c2-4c26-a141-437b6f05f720">
             <re>om søm</re>
-            <t num="pl" pos="N" soggi="e" stem="2syll">jïekth</t>
+            <t nr="Pl" pos="N" soggi="e" stem="2syll">jïekth</t>
          </tg>
       </mg>
    </e>
@@ -84707,7 +84707,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t num="pl" pos="N" soggi="e" stem="3syll">goeksegh</t>
+            <t nr="Pl" pos="N" soggi="e" stem="3syll">goeksegh</t>
             <xg>
                <x>Nordlyset flammer.</x>
                <xt>Goeksegh buelieh.</xt>
