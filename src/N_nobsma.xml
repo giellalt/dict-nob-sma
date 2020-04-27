@@ -41719,7 +41719,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="Australia 1051ed44-c644-49ee-b30c-57a488b07c5f">
-            <t pos="N" type="Prop">Austraalia</t>
+            <t pos="N" type="Prop">Australije</t>
          </tg>
       </mg>
    </e>
@@ -41729,7 +41729,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="Indonesia defdad81-aa2d-4b7a-b774-fba5f44f6a70">
-            <t pos="N" type="Prop">Indoneesia</t>
+            <t pos="N" type="Prop">Indonesije</t>
          </tg>
       </mg>
    </e>
@@ -82078,7 +82078,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">oceanodroma leucorhoa</re>
-            <t pos="N">väjroe-svaala</t>
+            <t pos="N">væjroesvaala</t>
          </tg>
       </mg>
    </e>
