@@ -200,7 +200,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="England 9095a4bd-25db-4b30-a34e-981c6d7fe63f">
-            <t pos="N" type="Prop">Eenglaante</t>
+            <t pos="N" type="Prop">Englaante</t>
          </tg>
       </mg>
    </e>
@@ -210,7 +210,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="California 09de5bcc-276d-4658-b6b7-a8515e793357">
-            <t pos="N" type="Prop">Kalifornia</t>
+            <t pos="N" type="Prop">Kalifornije</t>
          </tg>
       </mg>
    </e>
@@ -220,7 +220,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="Australia 92510b6f-0cdd-4ec5-a102-2da6effa765d">
-            <t pos="N" type="Prop">Australia</t>
+            <t pos="N" type="Prop">Austraalije</t>
          </tg>
       </mg>
    </e>
@@ -230,7 +230,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="Indonesia 18f2722b-f506-4814-9626-4765ed9a2cce">
-            <t pos="N" type="Prop">Indonesia</t>
+            <t pos="N" type="Prop">Indoneesije</t>
          </tg>
       </mg>
    </e>
@@ -240,7 +240,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="Sør-Afrika 91e98124-60e8-4a06-be86-188b02e56da2">
-            <t pos="N" type="Prop">Åarjel-Afrika</t>
+            <t pos="N" type="Prop">Åarjel-Afrïjhke</t>
          </tg>
       </mg>
    </e>
@@ -250,7 +250,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="Afrika 8dd3f88a-0cd1-48fb-b8ac-c8bce2bae2f6">
-            <t pos="N" type="Prop">Afrika</t>
+            <t pos="N" type="Prop">Afrïjhke</t>
          </tg>
       </mg>
    </e>
@@ -260,7 +260,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="Slovenia 72c094b7-1544-4aa6-b705-68aacaa6822c">
-            <t pos="N" type="Prop">Sloveenia</t>
+            <t pos="N" type="Prop">Sloveenije</t>
          </tg>
       </mg>
    </e>
@@ -280,7 +280,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="Finland 37b2b3ef-2695-4b89-9053-e454766456cd">
-            <t pos="N" type="Prop">Såevmie</t>
+            <t pos="N" type="Prop">Soeme</t>
          </tg>
       </mg>
    </e>
@@ -300,7 +300,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="Berlin 172cf276-183a-41f3-b3ad-7825e400876f">
-            <t pos="N" type="Prop">Berlin</t>
+            <t pos="N" type="Prop">Berlijne</t>
          </tg>
       </mg>
    </e>
@@ -310,7 +310,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="Europa dd11d2e4-8a26-45db-bac9-ce5c7d45059c">
-            <t pos="N" type="Prop">Europa</t>
+            <t pos="N" type="Prop">Eurovpe</t>
          </tg>
       </mg>
    </e>
