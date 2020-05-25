@@ -30978,7 +30978,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="tekstbehandling 30cc2229-ab0f-4ac7-a11e-2c45585bc0ef">
-            <t margo="e" pos="N" soggi="e" stem="3syll">teekstegïetedalleme</t>
+            <t margo="e" pos="N" soggi="e" stem="3syll">tekstegïetedalleme</t>
          </tg>
       </mg>
    </e>
@@ -71007,7 +71007,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma" tw_id="læremiddelpedagogikk ec177530-2d96-4d2b-b172-ffc8983fa631">
-        <t pos="N">learoevierhtienpedagogihke</t>
+        <t pos="N">learoevierhtiepedagogihke</t>
       </tg>
     </mg>
   </e>
@@ -76037,7 +76037,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma" tw_id="helsekapittel 9cb6decd-180f-4edc-ab5e-b0660331ae14">
-        <t pos="N">healsoekapïhtele</t>
+        <t pos="N">healsoekapihtele</t>
       </tg>
     </mg>
   </e>
