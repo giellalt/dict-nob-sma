@@ -30968,7 +30968,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="tekst 18ba4383-5ef1-4aab-beae-0b34cb4a0ce1">
-            <t pos="N" soggi="e" stem="2syll">teekste</t>
+            <t pos="N" soggi="e" stem="2syll">tekste</t>
          </tg>
       </mg>
    </e>
@@ -58386,7 +58386,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma" tw_id="innledningstekst 8579d7b0-3232-4d21-97e5-e2b6e266095c">
-        <t pos="N">aalkoeteekste</t>
+        <t pos="N">aalkoetekste</t>
       </tg>
     </mg>
   </e>
@@ -62216,7 +62216,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma" tw_id="konvensjonstekst 3397cb82-378a-47aa-a67a-c1321441e2a9">
-        <t pos="N">konvensjovneteekste</t>
+        <t pos="N">konvensjovnetekste</t>
       </tg>
     </mg>
   </e>
