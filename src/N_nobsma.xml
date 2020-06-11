@@ -15401,7 +15401,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma" tw_id="gjøk f556da7a-1bd9-4730-9ded-4b0aba4f2ee4">
             <re xml:lang="lat">cuculus canorus</re>
             <t pos="N" soggi="e" stem="2syll">gïeke</t>
-            <t pos="N" soggi="e" stem="2syll">gïege</t>
+            <t pos="N" soggi="e" stem="2syll">gïeke</t>
          </tg>
       </mg>
    </e>
@@ -60232,7 +60232,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma" tw_id="forvaltningsterminologi b4fe52b2-5fc8-4a0e-b670-f1085e5ae529">
-        <t pos="N">reerementerminologije</t>
+        <t pos="N">reeremeterminologije</t>
         <t pos="N">reerementeerme</t>
       </tg>
     </mg>
@@ -66690,7 +66690,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma" tw_id="barnevernstilbud 4065fed3-b485-4fd1-9ad8-1a810c143bc4">
-        <t pos="N">maanavaarjelimmienfaaleldahke</t>
+        <t pos="N">maanavaarjelimmiefaaleldahke</t>
       </tg>
     </mg>
   </e>
@@ -67515,7 +67515,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma" tw_id="tekstforslag 480e85e0-bae1-44ac-a021-d6b857b4a8b6">
-        <t pos="N">teeksteuvtelasse</t>
+        <t pos="N">teksteuvtelasse</t>
       </tg>
     </mg>
   </e>
@@ -70787,7 +70787,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma" tw_id="planstrategi 121a47b6-b8ff-4623-85a7-712a499b7355">
-        <t pos="N">soejkesjenstrategije</t>
+        <t pos="N">soejkesjestrategije</t>
       </tg>
     </mg>
   </e>
@@ -71418,7 +71418,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma" tw_id="regjeringsmedlem b6e4c86d-1c48-4268-81bc-53a4edbf94ba">
-        <t pos="N">reerenassenlïhtsege</t>
+        <t pos="N">reerenasselïhtsege</t>
       </tg>
     </mg>
   </e>
@@ -76434,7 +76434,7 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="sma" tw_id="avtaleperiode b528f84d-1931-403b-af0c-7f0c4fe47816">
         <t pos="N">sjïehtedimmieboelhke</t>
-        <t pos="N">latjkoenboelhke</t>
+        <t pos="N">latjkoeboelhke</t>
       </tg>
     </mg>
   </e>
