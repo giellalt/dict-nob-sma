@@ -28,8 +28,8 @@ For the full license text, see the link above.</lic>
    </lics>
    <e>
       <lg>
-         <l pos="N">radio-innslag</l>
-      </lg>
+         <l pos="N">radioinnslag</l>
+      </l>
       <mg>
          <tg xml:lang="sma" tw_id="radio-innslag d105688a-de26-416e-b93e-e671b7cf7eef">
             <t pos="N" stem="3syll">radio-boelhketje</t>
@@ -15400,7 +15400,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="gjøk f556da7a-1bd9-4730-9ded-4b0aba4f2ee4">
             <re xml:lang="lat">cuculus canorus</re>
-            <t pos="N" soggi="e" stem="2syll">gïeke</t>
             <t pos="N" soggi="e" stem="2syll">gïeke</t>
          </tg>
       </mg>
@@ -60232,7 +60231,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma" tw_id="forvaltningsterminologi b4fe52b2-5fc8-4a0e-b670-f1085e5ae529">
-        <t pos="N">reeremeterminologije</t>
+        <t pos="N">reerementerminologije</t>
         <t pos="N">reerementeerme</t>
       </tg>
     </mg>
@@ -66690,7 +66689,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma" tw_id="barnevernstilbud 4065fed3-b485-4fd1-9ad8-1a810c143bc4">
-        <t pos="N">maanavaarjelimmiefaaleldahke</t>
+        <t pos="N">maanavaarjelimmienfaaleldahke</t>
       </tg>
     </mg>
   </e>
@@ -67515,7 +67514,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma" tw_id="tekstforslag 480e85e0-bae1-44ac-a021-d6b857b4a8b6">
-        <t pos="N">teksteuvtelasse</t>
+        <t pos="N">teeksteuvtelasse</t>
       </tg>
     </mg>
   </e>
@@ -70787,7 +70786,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma" tw_id="planstrategi 121a47b6-b8ff-4623-85a7-712a499b7355">
-        <t pos="N">soejkesjestrategije</t>
+        <t pos="N">soejkesjenstrategije</t>
       </tg>
     </mg>
   </e>
@@ -71418,7 +71417,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma" tw_id="regjeringsmedlem b6e4c86d-1c48-4268-81bc-53a4edbf94ba">
-        <t pos="N">reerenasselïhtsege</t>
+        <t pos="N">reerenassenlïhtsege</t>
       </tg>
     </mg>
   </e>
@@ -76434,7 +76433,7 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="sma" tw_id="avtaleperiode b528f84d-1931-403b-af0c-7f0c4fe47816">
         <t pos="N">sjïehtedimmieboelhke</t>
-        <t pos="N">latjkoeboelhke</t>
+        <t pos="N">latjkoenboelhke</t>
       </tg>
     </mg>
   </e>
