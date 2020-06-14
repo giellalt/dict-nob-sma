@@ -29,7 +29,7 @@ For the full license text, see the link above.</lic>
    <e>
       <lg>
          <l pos="N">radioinnslag</l>
-      </l>
+      </lg>
       <mg>
          <tg xml:lang="sma" tw_id="radio-innslag d105688a-de26-416e-b93e-e671b7cf7eef">
             <t pos="N" stem="3syll">radio-boelhketje</t>
@@ -25529,7 +25529,7 @@ For the full license text, see the link above.</lic>
             <t margo="e" pos="N" soggi="e" stem="3syll">prïhtjhvoessetje</t>
          </tg>
       </mg>
-   </e>  
+   </e>
    <e>
       <lg>
          <l pos="N">påske</l>
@@ -25543,7 +25543,7 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
-   </e>   
+   </e>
    <e>
       <lg>
          <l pos="N">post</l>
