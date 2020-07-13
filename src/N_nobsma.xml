@@ -42034,16 +42034,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N" type="Prop">Fosen reinbeitedistrikt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="Fosen reinbeitedistrikt 708e7df6-8bf2-432e-9517-4940853ec5b4">
-            <t pg="no" pos="N" type="Prop">Fovsen-Njaarken sïjte</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N" type="Prop">Skjækerfjell reinbeitedistrikt</l>
       </lg>
       <mg>
@@ -42069,16 +42059,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="Østre-Namdal reinbeitedistrikt a189a034-49fa-4b3b-a2c6-5b36c6e1447e">
             <t pg="no" pos="N" type="Prop">Luvlie-Nåamesjen båatsoej sïjte</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop">Voengelh-Njaarke reinbeitedistrikt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="Voengelh-Njaarke reinbeitedistrikt dba154c5-bfa7-4a34-9ddd-6d2c0a68596a">
-            <t pg="no" pos="N" type="Prop">Voengelh-Njaarken sïjte</t>
          </tg>
       </mg>
    </e>
@@ -81538,27 +81518,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-      <e src="gg">
-      <lg>
-         <l pos="N">bissememunnie</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="bissememunnie e6aecd5a-ac0a-4112-bfb7-24c19f730f99">
-            <t pos="N">speilegg</t>
-         </tg>
-      </mg>
-      </e>
-      <e src="gg">
-      <lg>
-         <l pos="N">salamije</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="salamije 38b64f8d-3952-462e-b393-c304e5c4d01c">
-            <t pos="N">salami</t>
-         </tg>
-      </mg>
-   </e>
-      <e src="gg">
+   <e src="gg">
       <lg>
          <l pos="N">kjöttrulle</l>
       </lg>

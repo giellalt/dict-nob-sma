@@ -7666,17 +7666,20 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e note="checked" src="lmm">
       <lg>
-         <l pos="A">tilfeldig</l>
+         <l pos="A">syndig</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="tilfeldig 06e88efa-2bae-4a23-b2eb-3b94ec6d6554">
-            <t pos="A">veajkoej</t>
+         <tg xml:lang="sma" tw_id="sammenhengende a53eaf91-2248-4a20-89e6-e8157f1e6881">
+            <t pos="A">sådteres</t>
+         </tg>
+         <tg xml:lang="sma" tw_id="sammenhengende a53eaf91-2248-4a20-89e6-e8157f1e6881">
+            <t pos="A">sadteres</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e note="betyr opprinnelig upraktisk" src="gg">
       <lg>
          <l pos="A">ugyldig</l>
       </lg>
