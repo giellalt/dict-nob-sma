@@ -3734,16 +3734,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="A">trestavelses</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="trestavelses b12055d8-187d-4f2a-a717-5664cf79ef11">
-            <t pos="A" stem="3syll">golmenlïhtsen</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="A">trøtt</l>
       </lg>
       <mg>
@@ -6123,7 +6113,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma" tw_id="stille ac55bcec-b5dc-4aec-93b9-fdf57ec905d8">
-        <t pos="A">sjeaovhth</t>
+        <t pos="A">sjeavohth</t>
       </tg>
     </mg>
   </e>
