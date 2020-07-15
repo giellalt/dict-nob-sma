@@ -56258,13 +56258,13 @@ For the full license text, see the link above.</lic>
       </tg>
     </mg>
   </e>
-  <e>
+  <e src="checked">
     <lg>
       <l pos="N" src="fad">opplæringsform</l>
     </lg>
     <mg>
       <tg xml:lang="sma" tw_id="opplæringsform c9501a7f-0c80-4a8d-b0e9-1ef3255e30c2">
-        <t pos="N">ööhpetimmievuekie</t>
+        <t pos="N">ööhpehtimmievuekie</t>
       </tg>
     </mg>
   </e>
@@ -80843,7 +80843,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="idrettsstadion 993eb7bc-b7a9-479f-b626-c652293269ec">
             <t pos="N">gaarsjestadijumme</t>
-            <t pos="N">gaarsjestadijove</t>
          </tg>
       </mg>
    </e>
