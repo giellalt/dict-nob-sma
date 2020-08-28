@@ -44351,7 +44351,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="Fjellraudberget e2beabc8-a8b9-46e6-95da-d06edaac8522">
             <re>Nordli</re>
-            <t pos="N" type="Prop">Røøpsvaartoe</t>
+            <t pos="N" type="Prop">Rööpsesvaartoe</t>
          </tg>
       </mg>
    </e>
@@ -49966,7 +49966,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="Simskardet bca04c7f-fe19-4688-982e-0fb54f3c646a">
             <re>Grane</re>
-            <t pos="N" type="Prop">Sijdurrie</t>
+            <t pos="N" type="Prop">Sïjtdurrie</t>
          </tg>
       </mg>
    </e>
@@ -50903,7 +50903,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="Simskardfjellet ebb7c196-dffc-4b11-994e-57bb91e5be74">
             <re>Grane</re>
-            <t pos="N" type="Prop">Sijdurrientjahke</t>
+            <t pos="N" type="Prop">Sïjtdurrientjahke</t>
          </tg>
       </mg>
    </e>
@@ -50986,7 +50986,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="Simskardmyra 004775d7-6b11-445d-92af-4e17f95b8ed0">
             <re>Grane</re>
-            <t pos="N" type="Prop">Sijdurrienvaegkie</t>
+            <t pos="N" type="Prop">Sïjtdurrienvaegkie</t>
          </tg>
       </mg>
    </e>
@@ -51030,7 +51030,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="Simskardelva 8b83eef9-d17d-4a94-acf7-036ea0e98143">
             <re>Grane</re>
-            <t pos="N" type="Prop">Sijdurrienjohke</t>
+            <t pos="N" type="Prop">Sïjtdurrienjohke</t>
          </tg>
       </mg>
    </e>
@@ -51377,7 +51377,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="Simskardvatnet 35436a63-1321-4053-847e-4241f6f18a34">
             <re>Hattfjelldal</re>
-            <t pos="N" type="Prop">Sijdurrienjaevrie</t>
+            <t pos="N" type="Prop">Sïjtdurrienjaevrie</t>
          </tg>
       </mg>
    </e>
@@ -56627,7 +56627,7 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="sma" tw_id="fødselsår b9a0acbe-44d2-4c28-b665-181edd649f84">
         <t pos="N">reakedsjaepie</t>
-        <t pos="N">baersieldimmienjaepie</t>
+        <t pos="N">baersieldimmiejaepie</t>
       </tg>
     </mg>
   </e>
@@ -62205,7 +62205,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma" tw_id="lovtekst 4a103eaa-43b8-4302-bb5e-ea87fce7c2db">
-        <t pos="N">laaketeekste</t>
+        <t pos="N">laaketekste</t>
       </tg>
     </mg>
   </e>
@@ -67252,7 +67252,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma" tw_id="kulturkompetanse 210ad895-60bf-42cf-b47e-e4c3e2751fc5">
-        <t pos="N">kultuvrenmaahtoe</t>
+        <t pos="N">kultuvremaahtoe</t>
       </tg>
     </mg>
   </e>
@@ -67293,7 +67293,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma" tw_id="tekstkompetanse 2a223992-c113-46c6-b28f-b4dc075a7497">
-        <t pos="N">teekstemaahtoe</t>
+        <t pos="N">tekstemaahtoe</t>
       </tg>
     </mg>
   </e>
@@ -67494,7 +67494,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma" tw_id="tekstforslag 480e85e0-bae1-44ac-a021-d6b857b4a8b6">
-        <t pos="N">teeksteuvtelasse</t>
+        <t pos="N">teksteuvtelasse</t>
       </tg>
     </mg>
   </e>
@@ -69906,7 +69906,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma" tw_id="avtalekompetanse bf388d6e-4e7e-4337-a916-fd0648a42b71">
-        <t pos="N">latjkoenmaahtoe</t>
+        <t pos="N">latjkoemaahtoe</t>
       </tg>
     </mg>
   </e>
@@ -73298,7 +73298,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma" tw_id="pengegave 9ccbba5f-84c1-49d7-8860-ce92f82134d4">
-        <t pos="N">beetnegenvadtese</t>
+        <t pos="N">beetneh-vadtese</t>
       </tg>
     </mg>
   </e>
@@ -76126,7 +76126,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma" tw_id="kulturminnevern d9a4abb0-15bd-4135-9282-04f94d24f2e5">
-        <t pos="N">kultuvremojhtesenvaarjelimmie</t>
+        <t pos="N">kultuvremojhtesevaarjelimmie</t>
       </tg>
     </mg>
   </e>
@@ -84323,7 +84323,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">sitta europaea</re>
-            <t pos="N">tsijtsele</t>
+            <t pos="N">tsïjtsele</t>
          </tg>
       </mg>
    </e>
