@@ -6337,7 +6337,7 @@ For the full license text, see the link above.</lic>
             <t pos="N" soggi="e" stem="2syll">båejme</t>
             <t pos="N">båajme</t>
             <t pos="N">spåajme</t>
-            <t pos="N">spååjme</t>
+            <t pos="N">spåajme</t>
          </tg>
       </mg>
    </e>
@@ -82603,7 +82603,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">buteo buteo</re>
-            <t pos="N">snjeara-spååjme</t>
+            <t pos="N">snjeara-spåajme</t>
          </tg>
       </mg>
    </e>
