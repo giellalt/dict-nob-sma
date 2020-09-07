@@ -66453,7 +66453,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma" tw_id="fornorskingsarbeid c53c3243-7f38-48c1-8656-42a2f194b5b2">
-        <t pos="N">daaroedehtemenbarkoe</t>
+        <t pos="N">daaroedehtemebarkoe</t>
       </tg>
     </mg>
   </e>
@@ -76026,7 +76026,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma" tw_id="helseforskjell 9733c885-5b3a-4160-97d7-1d60e97a53de">
-        <t pos="N">healsoenjoekehtse</t>
+        <t pos="N">healsoejoekehtse</t>
       </tg>
     </mg>
   </e>
@@ -81822,7 +81822,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="grynmelsgrøt 4e87aeae-5603-44d1-8061-d821a392d065">
-            <t pos="N">krovnejavvoehkraavhtse</t>
+            <t pos="N">krovnejavvoekraavhtse</t>
          </tg>
       </mg>
    </e>
@@ -81904,7 +81904,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">gavia immer</re>
-            <t pos="N">jienge-gohtere</t>
+            <t pos="N">jïengegohtere</t>
          </tg>
       </mg>
    </e>
@@ -83749,7 +83749,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">anthus pratensis</re>
-            <t pos="N">hiejje-plähtjege</t>
+            <t pos="N">hiejje-plæhtjege</t>
          </tg>
       </mg>
    </e>
