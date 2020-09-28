@@ -83,6 +83,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e note="checked" src="lmm">
+      <lg>
+         <l pos="N">favoritt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma" tw_id="innskrenking c1898c47-78e2-4006-9644-d4f57ba5db78">
+            <t pos="N" stem="3syll">mïelehkodtje</t>
+         </tg>
+      </mg>
+   </e>
    <e>
       <lg>
          <l pos="N">innledning</l>
