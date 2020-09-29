@@ -56637,7 +56637,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma" tw_id="fødselsnummer c5acf019-6185-4e0f-a257-c472eb5d18d2">
-        <t pos="N">baersieldimmiennummere</t>
+        <t pos="N">baersieldimmienummere</t>
       </tg>
     </mg>
   </e>
@@ -60233,7 +60233,7 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="sma" tw_id="forvaltningsterminologi b4fe52b2-5fc8-4a0e-b670-f1085e5ae529">
         <t pos="N">reerementerminologije</t>
-        <t pos="N">reerementeerme</t>
+        <t pos="N">reeremeteerme</t>
       </tg>
     </mg>
   </e>
@@ -77932,7 +77932,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="tilskudd 91e48a37-19c7-4980-8012-b34eaf5f3728">
-            <t pos="N"> doarjoe</t>
+            <t pos="N"> dåarjoe</t>
          </tg>
       </mg>
    </e>
@@ -83417,7 +83417,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">pinguinus impennis</re>
-            <t pos="N">geejre-ledtie</t>
+            <t pos="N">geejreledtie</t>
          </tg>
       </mg>
    </e>
@@ -83461,7 +83461,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">streptopelia turtur</re>
-            <t pos="N">turtele-duvvege</t>
+            <t pos="N">turteleduvvege</t>
          </tg>
       </mg>
    </e>
@@ -83472,7 +83472,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">streptopelia decaocto</re>
-            <t pos="N">tyrkere-duvvege</t>
+            <t pos="N">tyrkereduvvege</t>
          </tg>
       </mg>
    </e>
@@ -83605,7 +83605,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">jynx torquilla</re>
-            <t pos="N">tjaajna-ledtie</t>
+            <t pos="N">tjaajnaledtie</t>
          </tg>
       </mg>
    </e>
