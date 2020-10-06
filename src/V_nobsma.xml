@@ -10833,21 +10833,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="checked" src="lmm">
       <lg>
          <l pos="V">fremme</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="fremme fd2fc136-e1f8-4129-887c-79d961c82229">
+         <tg xml:lang="sma" tw_id="fremme 671427aa-fc38-4351-abb6-d280cd239449">
+            <t diph="yes" pos="V" dialect="south" stem="3syll">evtiemdidh</t>
+         </tg>
+         <tg xml:lang="sma" tw_id="fremme 671427aa-fc38-4351-abb6-d280cd239449">
             <t diph="yes" pos="V" stem="3syll">evtiedidh</t>
          </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="fremme 671427aa-fc38-4351-abb6-d280cd239449">
-            <t diph="yes" pos="V" stem="3syll">evtiemdidh</t>
-         </tg>
-      </mg>
-      <mg>
          <tg xml:lang="sma" tw_id="fremme df3b27c2-bd96-447b-8277-a1ea44a731e7">
             <t diph="yes" pos="V" stem="3syll">övtiedidh</t>
          </tg>

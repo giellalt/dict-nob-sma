@@ -6154,7 +6154,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma" tw_id="språklig 047bb493-fe9d-4d56-999e-14dc1e025984">
-        <t pos="A">gïeleldh</t>
+        <t pos="A">gïeleh</t>
       </tg>
     </mg>
   </e>
@@ -6164,7 +6164,10 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma" tw_id="tospråklig 6199176b-e1d5-4a4e-81e8-0744ac6a1489">
-        <t pos="A">guaktengïeleldh</t>
+        <t pos="A">gööktengïeleh</t>
+      </tg>
+      <tg xml:lang="sma" tw_id="tospråklig 6199176b-e1d5-4a4e-81e8-0744ac6a1489">
+        <t pos="A">guektiengïeleh</t>
       </tg>
     </mg>
   </e>
@@ -6174,7 +6177,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma" tw_id="flerspråklig 7bac7e22-d0c7-4f17-a5c2-9229178dcc67">
-        <t pos="A">gelliengïeledh</t>
+        <t pos="A">gelliengïeleh</t>
       </tg>
     </mg>
   </e>

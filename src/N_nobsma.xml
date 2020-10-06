@@ -47,9 +47,21 @@ For the full license text, see the link above.</lic>
          <l pos="N">etterbyrd</l>
       </lg>
       <mg>
-         <tg xml:lang="sme" tw_id="etterbyrd 64f25268-c67a-4b63-8760-c04feef53c3f">
+         <tg xml:lang="sma" tw_id="etterbyrd 64f25268-c67a-4b63-8760-c04feef53c3f">
             <re>egentlig 'etterfødsel': morkake, navlesnor og fosterhinner som kommer ut etter fosteret</re>
             <t pos="N" nr="Pl">voese</t>
+         </tg>
+      </mg>
+   </e>
+   <e note="checked" src="lmm">
+      <lg>
+         <l pos="N">utsæd</l>
+         <l pos="N">sæd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma" tw_id="etterbyrd 64f25268-c67a-4b63-8760-c04feef53c3f">
+            <re>det å så; holde på med utsæden</re>
+            <t pos="N">saajoe</t>
          </tg>
       </mg>
    </e>
