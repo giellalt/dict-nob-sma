@@ -33485,15 +33485,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma" tw_id="forslag 00ed07c5-b3d1-49e7-9460-c8995f9071a8">
             <t pos="N" soggi="e" stem="2syll">uvtelasse</t>
          </tg>
-      </mg>
-       <mg>
-         <tg xml:lang="sma" tw_id="forslag 97100848-b5f1-41f6-aeec-8d2b1cbe47ee">
-            <t pos="N" soggi="e" stem="2syll">raerie</t>
-         </tg>
-      </mg>
-      <mg>
          <tg xml:lang="sma" tw_id="forslag 2aaf6ad8-0a35-463c-906b-b7aef8df27e3">
-            <t pos="N" soggi="e" stem="2syll">raeriestimmie</t>
+            <t pos="N">evtiehtasse</t>
+            <xg>
+            	<x>fremme et forslag</x>
+            	<xt>evtiedidh evtiehtassem</xt>
+            </xg>
          </tg>
       </mg>
    </e>
