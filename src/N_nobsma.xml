@@ -73023,18 +73023,6 @@ For the full license text, see the link above.</lic>
   </e>
    <e>
     <lg>
-      <l pos="N" src="fad">øyenstikker</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sma" tw_id="øyenstikker bed81058-4508-4c02-9ba9-d8b822bce7bc">
-        <t pos="N">bieljieskorpedahke</t>
-        <t pos="N">kaanjere</t>
-        <t pos="N">kaanjele</t>
-      </tg>
-    </mg>
-  </e>
-   <e>
-    <lg>
       <l pos="N" src="fad">øyestikker</l>
     </lg>
     <mg>
@@ -76273,6 +76261,8 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="sma" tw_id="likestillingsutvalg 6f27d0c2-6f86-4145-8743-aecc7dfacf71">
         <t pos="N">bieljie-skorpedahke</t>
         <t pos="N">stoerre-vestiestjoejke</t>
+        <t pos="N">kaanjele</t>
+        <t pos="N">kaanjere</t>
       </tg>
     </mg>
   </e>
