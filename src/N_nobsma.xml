@@ -84751,4 +84751,28 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e src="Bergslandmagga">
+      <lg>
+         <l pos="N">greplyng</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">Loiseleuria procumbens</re>
+            <t pos="N">bahkenhïngse</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="BergslandMagga">
+      <lg>
+         <l pos="N">kjøttflue</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">Sarcophagia carnaria</re>
+            <t pos="N">bajhke-bovrege</t>
+         </tg>
+      </mg>
+   </e>
+
+
 </r>
