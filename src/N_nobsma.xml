@@ -53,6 +53,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e note="checked">
+      <lg>
+         <l pos="N">teknikk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma" tw_id="teknikk 64f25268-c67a-4b63-8760-c04feef53c3f">
+            <t pos="N">teknihke</t>
+         </tg>
+      </mg>
+   </e>
    <e note="checked" src="lmm">
       <lg>
          <l pos="N">utsæd</l>
