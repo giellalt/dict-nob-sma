@@ -84783,6 +84783,141 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-
-
+   <e src="BergslandMagga">
+      <lg>
+         <l pos="N">tranbær</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">Oxycoccus</re>
+            <t pos="N">bealhtoenmuerjie</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="BergslandMagga">
+      <lg>
+         <l pos="N">blåstrupe</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">Luscinia suecica</re>
+            <t pos="N">bealloeladtetje</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="BergslandMagga">
+      <lg>
+         <l pos="N">tranbær</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">Oxycoccus</re>
+            <t pos="N">bïekerenmuerjie</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="BergslandMagga">
+      <lg>
+         <l pos="N">blokkebær</l>
+         <l pos="N">mikkelsbær</l>
+         <l pos="N">skinntryte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">Vaccinium uliginosum</re>
+            <t pos="N">bïekerenmuerjie</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="BergslandMagga">
+      <lg>
+         <l pos="N">do</l>
+         <l pos="N">WC</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re xml:lang="lat"></re>
+            <t pos="N">boetskes-gåetie</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="BergslandMagga">
+      <lg>
+         <l pos="N">blinding</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">Chrysops caecutiens</re>
+            <t pos="N">deatjalommes</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="BergslandMagga">
+      <lg>
+         <l pos="N">lusegras</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">Lycopodium selago</re>
+            <t pos="N">dihkienkraesie</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="BergslandMagga">
+      <lg>
+         <l pos="N">marikåpe</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">Alchemilla vulgaris</re>
+            <t pos="N">doerehke</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="BergslandMagga">
+      <lg>
+         <l pos="N">begerlav</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">Cladonia</re>
+            <t pos="N">dovhke-burhvie</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="BergslandMagga">
+      <lg>
+         <l pos="N">tepperot</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">Potentilla erecta</re>
+            <t pos="N">fïerpene</t>
+            <t pos="N">fïerpese</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="oviss">
+      <lg>
+         <l pos="N">åkerbær</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">Rubus arcticus</re>
+            <t pos="N">gïeken-joknge</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="BergslandMagga">
+      <lg>
+         <l pos="N">tranebær</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">Oxycoccus quadripetalus</re>
+            <t pos="N">gïeken-muerjie</t>
+         </tg>
+      </mg>
+   </e>
+   
 </r>
