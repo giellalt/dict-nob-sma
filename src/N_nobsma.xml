@@ -84919,5 +84919,15 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   
+   <e src="BergslandMagga">
+      <lg>
+         <l pos="N">mjødurt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">Filipendula ulmaria</re>
+            <t pos="N">jovnesåhkoekraesie</t>
+         </tg>
+      </mg>
+   </e>
 </r>
