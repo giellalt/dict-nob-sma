@@ -10875,8 +10875,8 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="tilby 3c767f51-e132-4115-972c-4d44eccea137">
-            <t pos="V" stem="3syll">faalehtidh</t>
             <re>flere ganger el. til flere</re>
+            <t pos="V" stem="3syll">faalehtidh</t>
          </tg>
       </mg>
    </e>
@@ -27991,7 +27991,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   
+
    <e>
       <lg>
          <l pos="V">ganne om kvinner</l>
@@ -28002,7 +28002,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   
+
    <e>
       <lg>
          <l pos="V">ymte</l>
@@ -59700,7 +59700,7 @@ For the full license text, see the link above.</lic>
             <t pos="V">darjodh</t>
          </tg>
       </mg>
-   </e>  
+   </e>
    <e src="gg">
       <lg>
          <l pos="V">småerte</l>
