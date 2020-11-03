@@ -10864,7 +10864,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="checked" src="lmm">
       <lg>
          <l pos="V">tilby</l>
       </lg>
@@ -10874,13 +10874,9 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="tilby c09609dd-71ec-4788-9a35-5c80a3dd47d6">
-            <t class="VI" p3p="geelkie" pos="V" stem="2syll">geelkedh</t>
-         </tg>
-      </mg>
-      <mg>
          <tg xml:lang="sma" tw_id="tilby 3c767f51-e132-4115-972c-4d44eccea137">
             <t pos="V" stem="3syll">faalehtidh</t>
+            <re>flere ganger el. til flere</re>
          </tg>
       </mg>
    </e>

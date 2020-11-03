@@ -63,6 +63,17 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
+         <l pos="A">nordisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme" tw_id="nordisk 03adebd5-a63c-416d-9cd4-7bc03aeff459">
+            <t pos="A" src="fad">noerhtelaanti</t>
+         </tg>
+      </mg>
+   </e>
+
+   <e>
+      <lg>
          <l pos="A">kraftløs</l>
       </lg>
       <mg>
