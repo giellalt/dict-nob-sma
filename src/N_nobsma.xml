@@ -24933,13 +24933,24 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="checked">
       <lg>
          <l pos="N">søker</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="søker c6a4d10a-f41f-4629-9a5f-0957cb142a99">
             <t margo="e" pos="N" soggi="i" stem="3syll">ohtsije</t>
+            <xg>
+               <x>Det var en søker til stillingen.</x>
+               <xt>Lij akte ohtsije barkose.</xt>
+            </xg>
+         </tg>
+         <tg xml:lang="sma">
+            <t pos="N">syökije</t>
+            <xg>
+               <x>Det var en søker til stillingen.</x>
+               <xt>Lij akte syökije barkose.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
