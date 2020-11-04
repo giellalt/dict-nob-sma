@@ -24935,6 +24935,17 @@ For the full license text, see the link above.</lic>
    </e>
    <e note="checked">
       <lg>
+         <l pos="N">egenandelstak</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+         	<re>Pasienter som har betalt egenandeler opp til egenandelstaket slipper å betale egenandeler resten av kalenderåret.</re> 
+            <t pos="N">jollemaaksoevaarjelimmie</t>
+        </tg>
+      </mg>
+   </e>
+   <e note="checked">
+      <lg>
          <l pos="N">søker</l>
       </lg>
       <mg>
