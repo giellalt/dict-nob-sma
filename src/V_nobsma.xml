@@ -34262,12 +34262,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="checked">
       <lg>
-         <l pos="V">snitte opp skinnet under flåing</l>
+         <l pos="V">snitte</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="snitte opp skinnet under flåing 7538f302-f59e-42d2-b106-e3e9b18c4c9e">
+            <re om å snitte opp skinnet under flåing</re>
             <t pos="V" stem="3syll">tjaalestidh</t>
          </tg>
       </mg>
@@ -36402,12 +36403,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="checked">
       <lg>
          <l pos="V">snitte</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="snitte 955eaaba-7a8a-4970-806f-ed5302d15ab1">
+            <re om å snitte smått med kniv</re>
             <t class="IV" pos="V" stem="2syll" vow="aa">tsaatsedh</t>
          </tg>
       </mg>
@@ -43539,12 +43541,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="checked">
       <lg>
-         <l pos="V">snitte med kniv</l>
+         <l pos="V">snitte</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="snitte med kniv d7a5db14-183c-4350-877a-41343b9b76ec">
+            <re snitte med kniv flere ganger</re>
             <t class="II" pos="V" umlaut="C">saarkodh</t>
          </tg>
       </mg>
