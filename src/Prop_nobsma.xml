@@ -7634,13 +7634,13 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="Fatfjellet 7195ea18-553a-4007-840d-1aa214c01791">
-            <t pos="N" type="Prop">Sorrehtje</t>
+            <t pos="N" type="Prop">Sorretje</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="Fatfjellet a1a6296b-eb0f-4fde-901f-1c781d9f9657">
             <re>Grane</re>
-            <t pos="N" type="Prop">Sorrehtje</t>
+            <t pos="N" type="Prop">Sorretje</t>
          </tg>
       </mg>
    </e>
