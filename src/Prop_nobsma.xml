@@ -226,11 +226,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Indonesia</l>
+         <l pos="N" type="Prop" sem_type="Plc">Indonesije</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="Indonesia 18f2722b-f506-4814-9626-4765ed9a2cce">
-            <t pos="N" type="Prop">Indoneesije</t>
+            <t pos="N" type="Prop">Indonesije</t>
          </tg>
       </mg>
    </e>
@@ -5607,7 +5607,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="Steinholmen 3fdaeda7-c318-4608-bb60-239a15b200d0">
-            <t pos="N" type="Prop">Sjaaressååle</t>
+            <t pos="N" type="Prop">Sjaaresååle</t>
          </tg>
       </mg>
    </e>
