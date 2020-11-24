@@ -3219,7 +3219,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="Getsklumpen 28d8e8f1-7110-401c-bf26-0f8c7cdec1fd">
             <re>Røyrvik</re>
-            <t pos="N" type="Prop">Gaajhtvaartoe</t>
+            <t pos="N" type="Prop">Gaajhtsvaartoe</t>
          </tg>
       </mg>
    </e>
@@ -4491,7 +4491,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="Getsvatnet f4058c90-5be5-4d75-a50e-77f50a6b752f">
             <re>Røyrvik</re>
-            <t pos="N" type="Prop">Gaajhtjaevrie</t>
+            <t pos="N" type="Prop">Gaajhtsjaevrie</t>
          </tg>
       </mg>
    </e>
@@ -7640,7 +7640,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="Fatfjellet a1a6296b-eb0f-4fde-901f-1c781d9f9657">
             <re>Grane</re>
-            <t pos="N" type="Prop">Sorretje</t>
+            <t pos="N" type="Prop">Sorrehtje</t>
          </tg>
       </mg>
    </e>
