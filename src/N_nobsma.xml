@@ -50442,7 +50442,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="Bæråsen 545ddfe6-15fe-41cf-9928-62ff49fa427b">
             <re>Grane</re>
-            <t pos="N" type="Prop">Gyørte</t>
+            <t pos="N" type="Prop">Györte</t>
          </tg>
       </mg>
    </e>
@@ -50453,7 +50453,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="Hestkjølryggen 9d488e03-edd2-4009-bec4-0a107d37d6f3">
             <re>Nordli</re>
-            <t pos="N" type="Prop">Gyørte</t>
+            <t pos="N" type="Prop">Györte</t>
          </tg>
       </mg>
    </e>
@@ -69208,7 +69208,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma" tw_id="departementsnivå f96f366a-d353-4acf-894f-c40008ce2d28">
-        <t pos="N">departementendaltese</t>
+        <t pos="N">departementedaltese</t>
       </tg>
     </mg>
   </e>
@@ -75970,7 +75970,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma" tw_id="forskningsinstitutt e40fc34b-3831-4a02-9334-4ded8279a294">
-        <t pos="N">dotkemeninstituhte</t>
+        <t pos="N">dotkemeinstituhte</t>
       </tg>
     </mg>
   </e>
