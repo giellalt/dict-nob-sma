@@ -56449,7 +56449,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma" tw_id="fagterm 05d33d75-7b70-4e4f-ab59-b1fe281765ff">
-        <t pos="N">faageteerme</t>
+        <t pos="N">faageterme</t>
       </tg>
     </mg>
   </e>
@@ -60279,14 +60279,13 @@ For the full license text, see the link above.</lic>
       </tg>
     </mg>
   </e>
-  <e>
+  <e note="checked">
     <lg>
       <l pos="N" src="fad">forvaltningsterminologi</l>
     </lg>
     <mg>
       <tg xml:lang="sma" tw_id="forvaltningsterminologi b4fe52b2-5fc8-4a0e-b670-f1085e5ae529">
-        <t pos="N">reerementerminologije</t>
-        <t pos="N">reeremeteerme</t>
+        <t pos="N">reeremeterminologije</t>
       </tg>
     </mg>
   </e>
@@ -64595,13 +64594,13 @@ For the full license text, see the link above.</lic>
       </tg>
     </mg>
   </e>
-  <e>
+  <e note="checked">
     <lg>
       <l pos="N" src="fad">term</l>
     </lg>
     <mg>
       <tg xml:lang="sma" tw_id="term 63e39e79-198e-4715-bffa-41218a75cf54">
-        <t pos="N">teerme</t>
+        <t pos="N">terme</t>
       </tg>
     </mg>
   </e>
@@ -69790,7 +69789,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma" tw_id="fagtermgruppe e5f5fb52-6c92-4faa-87fd-71e8a4d61828">
-        <t pos="N">faageteermedåehkie</t>
+        <t pos="N">faagetermedåehkie</t>
       </tg>
     </mg>
   </e>
@@ -71741,7 +71740,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma" tw_id="forvaltningsregion e73ded4e-654d-4d91-babc-da908fb2c1d1">
-        <t pos="N">reeremenregijovne</t>
+        <t pos="N">reeremeregijovne</t>
       </tg>
     </mg>
   </e>
@@ -73734,7 +73733,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma" tw_id="kulturterm b89d61a6-f28f-423f-b3b3-5cce25037b80">
-        <t pos="N">kultuvreteerme</t>
+        <t pos="N">kultuvreterme</t>
       </tg>
     </mg>
   </e>
@@ -74447,7 +74446,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma" tw_id="språkterm ed94a7b7-e1f0-4516-93bb-aa0232c23d24">
-        <t pos="N">gïeleteerme</t>
+        <t pos="N">gïeleterme</t>
       </tg>
     </mg>
   </e>
@@ -75231,13 +75230,13 @@ For the full license text, see the link above.</lic>
       </tg>
     </mg>
   </e>
-  <e>
+  <e note="checked">
     <lg>
       <l pos="N" src="fad">forvaltningsterm</l>
     </lg>
     <mg>
       <tg xml:lang="sma" tw_id="forvaltningsterm 723a5ae1-d464-4821-b830-ffba784d3b50">
-        <t pos="N">reerementeerme</t>
+        <t pos="N">reeremeterme</t>
       </tg>
     </mg>
   </e>
@@ -76499,7 +76498,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma" tw_id="termgruppe f7189459-d9a7-48ec-8568-12b340a8188e">
-        <t pos="N">teermedåehkie</t>
+        <t pos="N">termedåehkie</t>
       </tg>
     </mg>
   </e>
