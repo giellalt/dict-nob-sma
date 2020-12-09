@@ -40,6 +40,28 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+      <e>
+      <lg>
+         <l pos="CS">som</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma" tw_id="som 7dfa5b93-b9e7-4ff1-91a5-9e6fafa6c2bd">
+            <t pos="CS">mij</t>
+            <xg>
+               <x>Det som skjer, det skjer.</x>
+               <xt>Dïhte mij heannade, dïhte heannade.</xt>
+            </xg>
+            <xg>
+               <x>Maarja tenkte på regningen som hun skulle betale i dag.</x>
+               <xt>Maarja reeknengen bïjre ussjedi maam daanbien edtji maeksedh.</xt>
+            </xg>
+            <xg>
+               <x>Søknader som kommer etter den tidsfristen, behandles ikke.</x>
+               <xt>Ohtsemh mah mænngan aejkiemieriem båetieh, dejtie eah gïetedallh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e>
       <lg>
          <l pos="CS">før</l>
