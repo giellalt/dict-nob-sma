@@ -523,16 +523,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Adv">som det skal være</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="som det skal være 175bc5ec-418c-450d-a60e-827d26013c35">
-            <t pos="Adv">aajmoen</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Adv">uforstyrret</l>
       </lg>
       <mg>
@@ -790,29 +780,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="sammen 36e66182-3fab-4186-8fd8-ab02aba0ea9e">
             <t pos="Adv">tjåenghkesne</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">sammen med</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="sammen med c0914ba7-9ad2-4fb8-a9f8-ecd324193812">
-            <t pos="Adv">aktene</t>
-            <xg>
-               <x>Det er ikke morsomt å være sammen med de menneskene.</x>
-               <xt>Ij leah luste dej almetjigujmie aktene årrodh.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="sammen med 4e10793d-ce92-4cbe-8c02-b28851d7b996">
-            <t pos="Adv">meatan</t>
-            <xg>
-               <x>Du har glemt å ta med sekken.</x>
-               <xt>Datne åajaldahteme voessem meatan vaeltedh.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -1105,7 +1072,8 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="ovenfra 5f0cec5b-a906-4028-86ff-d493bf933a65">
+        <tg xml:lang="sma" tw_id="ovenfra 5f0cec5b-a906-4028-86ff-d493bf933a65">
+	  <re>fra ovenfor</re>
             <t pos="Adv">bijjielistie</t>
             <xg>
                <x>Vi vet ikke hva som kan komme ovenfra.</x>
@@ -1167,12 +1135,14 @@ For the full license text, see the link above.</lic>
          <l pos="Adv">naken</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="naken b79aec96-d80c-4778-bbf1-9eaf4d5f820a">
+        <tg xml:lang="sma" tw_id="naken b79aec96-d80c-4778-bbf1-9eaf4d5f820a">
+	  <re>uten klær</re>
             <t pos="Adv">båadtsode</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="naken cc9a6f63-7d70-4fcf-a2dd-a3a76da017ca">
+        <tg xml:lang="sma" tw_id="naken cc9a6f63-7d70-4fcf-a2dd-a3a76da017ca">
+	  <re>uten sko og bukser</re>
             <t pos="Adv">skåalvode</t>
          </tg>
       </mg>
@@ -1201,7 +1171,7 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">buerielaakan</t>
             <xg>
                <x>Nåtidens menneske lever godt.</x>
-               <xt>Daaletje almetje buerielaakan jeala</xt>
+               <xt>Daaletje almetje buerielaakan jeala.</xt>
             </xg>
          </tg>
       </mg>
@@ -1306,18 +1276,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="tilbake 9076fe15-5bd0-4a24-a507-3e1ed740882f">
             <t pos="Adv">bååstede</t>
-            <xg>
-               <x>Jeg kommer aldri tilbake.</x>
-               <xt>Im manne gåessie bååstede båetieh.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="tilbake ac102c9e-c8c1-40dd-a8c0-14066c00e07b">
             <t pos="Adv">bååstide</t>
             <xg>
                <x>Jeg kommer aldri tilbake.</x>
-               <xt>Im manne gåessie bååstide båetieh.</xt>
+               <xt>Im manne gåessie bååstede båetieh.</xt>
             </xg>
          </tg>
       </mg>

@@ -529,17 +529,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="A">rasende på samer og rein</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="rasende på samer og rein 09754cf9-842a-4cf5-8b76-eaadf9dc5a62">
-            <re>om bønder</re>
-            <t pos="A" stem="3syll">barrehks</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="A">vindfull</l>
       </lg>
       <mg>
@@ -574,17 +563,15 @@ For the full license text, see the link above.</lic>
          <l pos="A">bar</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="bar 6817f541-a4b5-4c51-8440-3e03902bc952">
+        <tg xml:lang="sma" tw_id="bar 6817f541-a4b5-4c51-8440-3e03902bc952">
+	  <re>uten snø</re>
             <t pos="A" stem="3syll">beavloes</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="bar 259d0881-0ff9-4152-a139-21a91ff90d66">
+        <tg xml:lang="sma" tw_id="bar 259d0881-0ff9-4152-a139-21a91ff90d66">
+	  <re>naken</re>
             <t pos="A" stem="3syll">båadtsah</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="bar 13c8c58c-8ece-44d3-8f2f-53c3e67fbda6">
             <t pos="A" stem="3syll">båadtsoeh</t>
          </tg>
       </mg>
@@ -619,20 +606,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="drøy 1c3e4226-d1d8-4a90-98ca-3f69c875c017">
-            <t pos="A" stem="3syll">bihtseles</t>
-            <xg>
-               <x>drøy mat</x>
-               <xt>bihtseles beapmoe</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">som varer lenge</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="som varer lenge bb1ee4f5-ef03-40b5-8010-cd695d76b04a">
             <t pos="A" stem="3syll">bihtseles</t>
             <xg>
                <x>drøy mat</x>
@@ -842,11 +815,14 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="naken 5f9c7ad3-a0dc-4317-8452-97899ef20942">
             <t pos="A" stem="3syll">båadtsah</t>
+            <t pos="A" stem="3syll">båadtsoeh</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="naken 06951f98-65b7-4482-97ea-d1580206ac33">
-            <t pos="A" stem="3syll">båadtsoeh</t>
+        <tg xml:lang="sma" tw_id="naken cc9a6f63-7d70-4fcf-a2dd-a3a76da017ca">
+	  <re>uten vegetasjon</re>
+            <t pos="A">spoerjehke</t>
+            <t pos="A">sporjehke</t>
          </tg>
       </mg>
    </e>
@@ -903,18 +879,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="rasende 22d8803c-a420-4eb4-afe8-7d60455e2444">
-            <re>om bønder</re>
             <t pos="A" stem="3syll">bårrohks</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">sint på samer og rein</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="sint på samer og rein a0452659-0a63-42fe-8247-87168713cb34">
-            <re>om bønder</re>
             <t pos="A" stem="3syll">bårrohks</t>
          </tg>
       </mg>
@@ -3077,7 +3042,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma" tw_id="fornuftig 5297b24b-3622-46d8-9b5c-3824ea181885">
             <t pos="A" stem="3syll">jïermijes</t>
             <xg>
-               <x>forstandig menneske</x>
+               <x>fornuftig menneske</x>
                <xt>jïermijes almetje</xt>
             </xg>
          </tg>
@@ -3101,7 +3066,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma" tw_id="klar 5d0ab288-6778-4e62-be8b-91e61cc21a19">
             <t pos="A" stem="2syll">riejries</t>
             <xg>
-               <x>Vi kunne ikke begynne å arbeide med noe før budsjettet var ferdig.</x>
+               <x>Vi kunne ikke begynne å arbeide med noe før budsjettet var klart.</x>
                <xt>Idtjimh maehtieh mejnie aelkedh aarebi goh budsjedte lij riejries.</xt>
             </xg>
          </tg>
