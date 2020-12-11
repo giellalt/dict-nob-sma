@@ -84841,7 +84841,27 @@ For the full license text, see the link above.</lic>
    <e src="BergslandMagga">
       <lg>
          <l pos="N">blokkebær</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">Vaccinium uliginosum</re>
+            <t pos="N">bïekerenmuerjie</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="BergslandMagga">
+      <lg>
          <l pos="N">mikkelsbær</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">Vaccinium uliginosum</re>
+            <t pos="N">bïekerenmuerjie</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="BergslandMagga">
+      <lg>
          <l pos="N">skinntryte</l>
       </lg>
       <mg>
@@ -84854,6 +84874,16 @@ For the full license text, see the link above.</lic>
    <e src="BergslandMagga">
       <lg>
          <l pos="N">do</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re xml:lang="lat"></re>
+            <t pos="N">boetskes-gåetie</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="BergslandMagga">
+      <lg>
          <l pos="N">WC</l>
       </lg>
       <mg>
