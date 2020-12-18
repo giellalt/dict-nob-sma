@@ -21867,16 +21867,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="V">ha feber</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="ha feber c5f98acb-0582-4063-b559-405913b353c1">
-            <t class="IV" pos="V" stem="2syll" umlaut="full" vow="x">gaasedidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">blande seg ufrivillig</l>
       </lg>
       <mg>
@@ -21898,10 +21888,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="leke b066e3ff-f389-466a-a2ed-0c36e08ff9d0">
             <t class="IV" pos="V" stem="2syll" vow="a">lustedalledh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="leke de2c381e-5c2b-44b3-bd55-0086c68ed87f">
             <t class="IV" pos="V" stem="2syll" vow="a">lustestalledh</t>
          </tg>
       </mg>
@@ -31694,6 +31680,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="kjevle 7ee6eac0-a046-4925-98f9-848af6bd3e54">
+            <t>daanjedh</t>
+         </tg>
+      </mg>
+      <mg>
+        <tg xml:lang="sma" tw_id="kjevle 7ee6eac0-a046-4925-98f9-848af6bd3e54">
+	  <re>putte kjevle på kalv for at den ikke skal suge mora</re>
             <t diph="yes" p3p="skråevveste" pos="V" stem="3syll">skråevviestidh</t>
          </tg>
       </mg>
