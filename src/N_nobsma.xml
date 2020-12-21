@@ -18654,10 +18654,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="jul 0be721b9-e75d-495b-86ba-42968cb8ed5f">
-            <t pos="N" soggi="e" stem="2syll">jåvleh</t>
+            <t pos="N" soggi="e" stem="2syll">jåvle</t>
             <xg>
                <x>God jul og godt nytt år</x>
-               <xt>Lahkoe jåvleh jïh buerie orre jaepie</xt>
+               <xt>Lahkoe jåvlh jïh buerie orre jaepie</xt>
             </xg>
          </tg>
       </mg>
@@ -18674,11 +18674,21 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
+         <l pos="N">julekalender</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma" tw_id="juleferie 24d96cff-4223-4605-a421-c897bfe512af">
+            <t margo="e" pos="N" soggi="e" stem="3syll">jåvlebiejjielåhkoe</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="N">julenisse</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="julenisse a2b9ed5f-517f-4422-8d45-d3bab02f6a9f">
-            <t pos="N" soggi="a" stem="2syll">jåvleaajja</t>
+            <t pos="N" soggi="a" stem="2syll">jåvle-aajja</t>
          </tg>
       </mg>
    </e>
@@ -18688,7 +18698,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="julemåned 12d73571-5a2e-4e76-986a-a11f21d0c87b">
-            <t pos="N" soggi="e" stem="2syll">jåvleaske</t>
+            <t pos="N" soggi="e" stem="2syll">jåvle-aske</t>
          </tg>
       </mg>
    </e>
