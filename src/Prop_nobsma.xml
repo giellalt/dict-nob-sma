@@ -177,12 +177,6 @@ For the full license text, see the link above.</lic>
             <t pos="N" type="Prop">Island</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="Island 72652270-3f12-4833-a1d5-06a40c01b7af">
-            <t pos="N" type="Prop">Jïengelaante</t>
-            <t pos="N" type="Prop">Island</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -226,7 +220,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Indonesije</l>
+         <l pos="N" type="Prop" sem_type="Plc">Indonesia</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="Indonesia 18f2722b-f506-4814-9626-4765ed9a2cce">
@@ -2314,11 +2308,6 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop" sem_type="Plc">Raudbergtjønna</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="Raudbergtjønna 5bc3dbcd-c727-42f7-85f9-3fa6986e7c25">
-            <t pos="N" type="Prop">Rööpsesjaevrie</t>
-         </tg>
-      </mg>
-      <mg>
          <tg xml:lang="sma" tw_id="Raudbergtjønna 1da59654-9b33-4190-8807-e6bbec908094">
             <re>Nordli</re>
             <t pos="N" type="Prop">Rööpsjaevrie</t>
@@ -3211,11 +3200,6 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="N" type="Prop" sem_type="Plc">Getsklumpen</l>
       </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="Getsklumpen 5d0eb0df-6df5-437f-a534-ced322d51843">
-            <t pos="N" type="Prop">Gaajhtsvaartoe</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sma" tw_id="Getsklumpen 28d8e8f1-7110-401c-bf26-0f8c7cdec1fd">
             <re>Røyrvik</re>
@@ -4483,11 +4467,6 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="N" type="Prop" sem_type="Plc">Getsvatnet</l>
       </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="Getsvatnet 332a700c-deb3-41ab-ac5d-1563b1d55999">
-            <t pos="N" type="Prop">Gaajhtsjaevrie</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sma" tw_id="Getsvatnet f4058c90-5be5-4d75-a50e-77f50a6b752f">
             <re>Røyrvik</re>
@@ -7468,11 +7447,6 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop" sem_type="Plc">Simskardet</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="Simskardet 4c6a8238-009b-44f6-a126-83553bca0987">
-            <t pos="N" type="Prop">Sïjtdurrie</t>
-         </tg>
-      </mg>
-      <mg>
          <tg xml:lang="sma" tw_id="Simskardet f146e34d-7197-470e-8e1b-a634152a4627">
             <re>Grane</re>
             <t pos="N" type="Prop">Sïjtdurrie</t>
@@ -7632,11 +7606,6 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="N" type="Prop" sem_type="Plc">Fatfjellet</l>
       </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="Fatfjellet 7195ea18-553a-4007-840d-1aa214c01791">
-            <t pos="N" type="Prop">Sorretje</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sma" tw_id="Fatfjellet a1a6296b-eb0f-4fde-901f-1c781d9f9657">
             <re>Grane</re>
@@ -7860,11 +7829,6 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="N" type="Prop" sem_type="Plc">Bæråsen</l>
       </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="Bæråsen 567b00dd-7bf0-4ba9-93c5-574935d91b38">
-            <t pos="N" type="Prop">Györte</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sma" tw_id="Bæråsen feccc926-449d-4fd4-bf10-0c47eab9b555">
             <re>Grane</re>
@@ -8136,12 +8100,6 @@ For the full license text, see the link above.</lic>
             <t pos="N" type="Prop">Guevtelenjaevrie</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="Stortjønna 0ccf8882-5529-42ad-a533-609919991246">
-            <re>Grane</re>
-            <t pos="N" type="Prop">Guevtelsjaevrie</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -8330,11 +8288,6 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop" sem_type="Plc">Simskardfjellet</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="Simskardfjellet 7edd054e-2d92-463a-9fd8-11e5e54391ef">
-            <t pos="N" type="Prop">Sïjtdurrientjahke</t>
-         </tg>
-      </mg>
-      <mg>
          <tg xml:lang="sma" tw_id="Simskardfjellet 7db825fa-bc56-401b-96cc-c9cea3e7bfb3">
             <re>Grane</re>
             <t pos="N" type="Prop">Sïjtdurrientjahke</t>
@@ -8407,11 +8360,6 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop" sem_type="Plc">Simskardmyra</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="Simskardmyra beab54f8-28e1-4b76-a1dc-a6d2ae0b18fa">
-            <t pos="N" type="Prop">Sïjtdurrienvaegkie</t>
-         </tg>
-      </mg>
-      <mg>
          <tg xml:lang="sma" tw_id="Simskardmyra 5940955a-0f0a-4c74-b3df-b0bb4e7c4721">
             <re>Grane</re>
             <t pos="N" type="Prop">Sïjtdurrienvaegkie</t>
@@ -8455,11 +8403,6 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="N" type="Prop" sem_type="Plc">Simskardelva</l>
       </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="Simskardelva 579012e0-03ae-4e98-915f-81ab901a956c">
-            <t pos="N" type="Prop">Sïjtdurrienjohke</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sma" tw_id="Simskardelva 44815d00-d850-4c12-81e2-0a5f729eaec8">
             <re>Grane</re>
@@ -8786,11 +8729,6 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop" sem_type="Plc">Simskardvatnet</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="Simskardvatnet 6595f9cc-2ca8-42ec-b2c8-ae6eb3599f9e">
-            <t pos="N" type="Prop">Sïjtdurrienjaevrie</t>
-         </tg>
-      </mg>
-      <mg>
          <tg xml:lang="sma" tw_id="Simskardvatnet 9a37afb0-1a55-4f2d-83e5-827291691667">
             <re>Hattfjelldal</re>
             <t pos="N" type="Prop">Sïjtdurrienjaevrie</t>
@@ -8906,11 +8844,6 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="N" type="Prop" sem_type="Plc">Steinvatnet</l>
       </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="Steinvatnet 5a8d1876-d5c1-4b8e-ab86-ebe604daab42">
-            <t pos="N" type="Prop">Sjaarejaevrie</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sma" tw_id="Steinvatnet e0670b07-1361-409b-abfe-52a974758736">
             <re>Hattfjelldal</re>
@@ -11717,11 +11650,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="Härnösand 55aff4ef-4389-4ce6-8b04-9d2c738d3bf0">
             <t pos="N" type="Prop">Hïernesande</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="Härnösand caa34a75-3721-46d4-98bc-e40b536cda13">
-            <re>Härnösand</re>
             <t pos="N" type="Prop">Hïernesaande</t>
          </tg>
       </mg>
@@ -11972,7 +11900,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="Storuman a5930a6d-4bec-4683-9c02-986b86a62fbf">
+         <tg xml:lang="sma" tw_id="Storuman a4c4c2c0-0d9f-40e2-8db8-aa0738fca860">
             <re>Storuman</re>
             <t pos="N" type="Prop">Luspie</t>
          </tg>
