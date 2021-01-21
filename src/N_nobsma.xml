@@ -37,7 +37,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="radio-innslag 7ac5ced2-f438-4dce-8bef-9d45d36f2709">
-            <t pos="N" stem="3syll">radijovveboelhketje</t>
+            <t pos="N" stem="3syll">radijoveboelhketje</t>
          </tg>
       </mg>
 
@@ -25879,7 +25879,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="radio 3622f74b-0913-4db6-9e8b-8d628f36f6ed">
-            <t pos="N" stem="3syll">radijovve</t>
+            <t pos="N" stem="3syll">radijove</t>
          </tg>
       </mg>
       <mg>
@@ -28188,7 +28188,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma" tw_id="skjære 73f125d2-31d2-4497-9863-7d0ee137eb93">
             <re xml:lang="lat">pica pica</re>
             <t pos="N" soggi="e" stem="2syll">skijre</t>
-            <t pos="N">skäjroe</t>
+            <t pos="N">skæjroe</t>
             <t pos="N">skærhtjoe</t>
          </tg>
       </mg>
@@ -48804,7 +48804,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="sma" tw_id="radiostasjon 67ef5787-f21c-4845-b219-3ebf31b297c2">
-        <t pos="N">radijovvestasjovne</t>
+        <t pos="N">radijovestasjovne</t>
       </tg>
     </mg>
   </e>
@@ -52355,7 +52355,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="sma" tw_id="radiotilbud c9acac3f-909e-4e2f-bded-c05eae99a3f3">
-        <t pos="N">radijovvefaaleldahke</t>
+        <t pos="N">radijovefaaleldahke</t>
       </tg>
     </mg>
   </e>
@@ -53296,7 +53296,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="sma" tw_id="radiosending 6467b415-bae3-49f2-ac66-f7430924d09c">
-        <t pos="N">radijovvesaadtege</t>
+        <t pos="N">radijovesaadtege</t>
       </tg>
     </mg>
   </e>
@@ -56523,7 +56523,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma" tw_id="planstrategi 121a47b6-b8ff-4623-85a7-712a499b7355">
-        <t pos="N">soejkesjenstrategije</t>
+        <t pos="N">soejkesjestrategije</t>
       </tg>
     </mg>
   </e>
