@@ -42,6 +42,19 @@ For the full license text, see the link above.</lic>
       </mg>
 
    </e>
+   <e note="checked" src="GG">
+      <lg>
+         <l pos="N">Statsforvalteren</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob" tw_id="bealjese d3837117-1750-4495-ad1d-1ddf0634f7b4">
+            <re>Dïhte mij åvtelen tsïengelenasken 1.b. 2021 lij Fylhkeålma.</re>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="N">Staatehaaltoje</t>
+         </tg>
+      </mg>
+    </e>
    <e note="checked">
       <lg>
          <l pos="N">spir</l>
@@ -17832,6 +17845,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="foster eeba0e07-0960-4175-9196-fa59afe3fde7">
             <t pos="N" soggi="ie" stem="2syll">jiemie</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="foster eeba0e07-0960-4175-9196-fa59afe3fde7">
+            <t pos="N" soggi="ie" stem="2syll">boernes</t>
          </tg>
       </mg>
    </e>
