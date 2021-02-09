@@ -289,6 +289,27 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
+         <l pos="Interj">velkommen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>på brev, innkalling eller velkomst ved inngang</re>
+            <t pos="Interj">buerie båeteme</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>når gjesten kommer/er kommet, eller på inngangsdør</re>
+            <t pos="Interj">buerie båateme</t>
+            <xg>
+               <x>Velkommen til Snåsa!</x>
+               <xt>Buerie båateme Snåasese!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="Interj">vær så god og gå inn</l>
       </lg>
       <mg>
