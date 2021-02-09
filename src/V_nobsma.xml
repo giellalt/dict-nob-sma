@@ -860,6 +860,11 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
+         <tg xml:lang="sma" tw_id="tigge 35b7aa60-9aa4-4fa3-95d8-62bb49a8be18">
+            <t pos="V" stem="3syll">åånedidh</t>
+         </tg>
+      </mg>
+      <mg>
          <tg xml:lang="sma" tw_id="tigge aed2fa85-107e-429c-aa29-e72a5b8387a1">
             <t pos="V" stem="3syll">krïbpesjidh</t>
          </tg>
@@ -39899,28 +39904,23 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="V">trekke tilbake det en har sagt eller gjort</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="trekke tilbake det en har sagt eller gjort 1cf3a693-3fa2-435b-ae27-38bb92d25600">
-            <t pos="V" stem="3syll">åånedidh</t>
-            <xg>
-               <x>La meg få unnskylde meg.</x>
-               <xt>Baajh mannem åånedidh.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">unnskylde seg</l>
+         <l pos="V">unnskylde</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="unnskylde seg 4555ded4-b7a2-4532-b9c1-0c7b43085aa6">
-            <t pos="V" stem="3syll">åånedidh</t>
+            <t pos="V" stem="3syll">aanteges birredh</t>
             <xg>
-               <x>La meg få unnskylde meg.</x>
-               <xt>Baajh mannem åånedidh.</xt>
+               <x>unnskylde sin glemsomhet.</x>
+               <xt>aanteges birredh goske ööjeldihks.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="unnskylde seg 4555ded4-b7a2-4532-b9c1-0c7b43085aa6">
+            <t pos="V" stem="3syll">gïertedh</t>
+            <xg>
+               <x>unnskyld, kunne du si meg veien til byen?</x>
+               <xt>gïerth mannem, maahtah gæjnoem voenese buerkiestidh?</xt>
             </xg>
          </tg>
       </mg>
