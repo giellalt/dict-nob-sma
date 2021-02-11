@@ -42,15 +42,13 @@ For the full license text, see the link above.</lic>
       </mg>
 
    </e>
-   <e note="checked" src="GG">
+   <e note="checked" src="gg">
       <lg>
          <l pos="N">Statsforvalteren</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" tw_id="bealjese d3837117-1750-4495-ad1d-1ddf0634f7b4">
+         <tg xml:lang="sma" tw_id="bealjese d3837117-1750-4495-ad1d-1ddf0634f7b4">
             <re>Dïhte mij åvtelen tsïengelenasken 1.b. 2021 lij Fylhkeålma.</re>
-         </tg>
-         <tg xml:lang="nob">
             <t pos="N">Staatehaaltoje</t>
          </tg>
       </mg>
@@ -24989,7 +24987,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-         	<re>Pasienter som har betalt egenandeler opp til egenandelstaket slipper å betale egenandeler resten av kalenderåret.</re> 
+         	<re>Pasienter som har betalt egenandeler opp til egenandelstaket slipper å betale egenandeler resten av kalenderåret.</re>
             <t pos="N">jollemaaksoevaarjelimmie</t>
         </tg>
       </mg>
