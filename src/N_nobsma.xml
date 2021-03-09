@@ -62171,14 +62171,14 @@ For the full license text, see the link above.</lic>
       </tg>
     </mg>
   </e>
-  <e>
+  <e note="checked" src="gg">
     <lg>
       <l pos="N" src="fad">avtaleperiode</l>
     </lg>
     <mg>
       <tg xml:lang="sma" tw_id="avtaleperiode b528f84d-1931-403b-af0c-7f0c4fe47816">
         <t pos="N">sjïehtedimmieboelhke</t>
-        <t pos="N">latjkoenboelhke</t>
+        <t pos="N">latjkoeboelhke</t>
       </tg>
     </mg>
   </e>
