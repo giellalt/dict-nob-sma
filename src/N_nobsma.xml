@@ -17753,26 +17753,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">fars eldre bror</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="fars eldre bror 8fb2b7b9-fb5c-4b4a-b500-4feee32f78ba">
-            <t pos="N" soggi="ie" stem="2syll">jiekie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">eldre farbror</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="eldre farbror bbee93d5-93f3-49f8-abcb-db0c80426036">
-            <t pos="N" soggi="ie" stem="2syll">jiekie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">fars eldre brors onkelbarn</l>
       </lg>
       <mg>
@@ -17990,6 +17970,30 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="N">tante</l>
       </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>mors eldre søster</re>
+            <t pos="N" soggi="ie" stem="2syll">gåeskie</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>mors yngre søster</re>
+            <t pos="N" soggi="a" stem="2syll">muahra</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>fars søster</re>
+            <t pos="N" soggi="a" stem="2syll">seasa</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>inngiftet tante</re>
+            <t pos="N" soggi="ie" stem="2syll">jijmie</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="sma" tw_id="tante 8790611b-09e2-4849-8f3b-55923d058db0">
             <re>inngiftet tante</re>
@@ -31857,8 +31861,15 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="N">farbror</l>
       </lg>
+    <mg>
+      <tg xml:lang="sma">
+	      <re>fars eldre bror</re>
+        <t pos="N">jiekie</t>
+      </tg>
+    </mg>
       <mg>
          <tg xml:lang="sma" tw_id="farbror 19c68cb6-cd1e-423d-940e-b6594a0787a0">
+	      <re>fars yngre bror</re>
             <t pos="N" soggi="ie" stem="2syll">tjietsie</t>
          </tg>
       </mg>
@@ -41828,7 +41839,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma" tw_id="bibliografi b4ff7084-d78c-4e07-9be6-02a7d650f7c2">
-        <t pos="N">bibliografije</t>
+        <t pos="N">biblijografije</t>
       </tg>
     </mg>
   </e>
@@ -47065,7 +47076,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma" tw_id="forelder debae6a7-3e4f-4a8a-a7a9-983c5c215af6">
-        <t pos="N">eejtege</t>
+        <t pos="N">eejhteges</t>
       </tg>
     </mg>
   </e>
@@ -48503,7 +48514,7 @@ For the full license text, see the link above.</lic>
     </mg>
     <mg>
       <tg xml:lang="sma" tw_id="sektor f8b040c6-016c-4687-a4fb-ae05e3fe0aa6">
-        <t pos="N">sektovre</t>
+        <t pos="N">sektore</t>
       </tg>
     </mg>
   </e>
@@ -48953,7 +48964,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma" tw_id="bibliotekar ab75ac11-b4e1-4ea8-988b-152092a64576">
-        <t pos="N">bibliotekaare</t>
+        <t pos="N">biblijoteekaare</t>
         <t pos="N">gærjagåetiebarkije</t>
       </tg>
     </mg>
@@ -51965,7 +51976,26 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma" tw_id="onkel 297e6119-f334-44d4-9347-8f86385a8d7d">
+	      <re>mors bror</re>
         <t pos="N">jyöne</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="sma">
+	      <re>fars eldre bror</re>
+        <t pos="N">jiekie</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="sma">
+	      <re>fars yngre bror</re>
+        <t pos="N">tjietsie</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="sma">
+	      <re>inngiftet onkel</re>
+        <t pos="N">maake</t>
       </tg>
     </mg>
   </e>
@@ -58731,16 +58761,6 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="sma" tw_id="kulturtradisjon c3f5db79-5a95-496b-ab49-8cbd2e4e782f">
         <t pos="N">kultuvreaerpie</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N" src="fad">professor</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sma" tw_id="professor a1e92303-8340-4cc5-a59a-4e4f76850fc9">
-        <t pos="N">professovre</t>
       </tg>
     </mg>
   </e>
@@ -70678,7 +70698,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">Oxycoccus quadripetalus</re>
-            <t pos="N">gïeken-muerjie</t>
+            <t pos="N">gïekenmuerjie</t>
          </tg>
       </mg>
    </e>
