@@ -49577,13 +49577,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="checked" src="lmm">
       <lg>
          <l pos="V">plaske</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="plaske de061297-86bf-4974-a68f-2392de41cc29">
-            <t class="VI" pos="V" umlaut="F">tjeejskedh</t>
+            <t class="VI" pos="V" umlaut="F">tjeeskedh</t>
          </tg>
       </mg>
    </e>

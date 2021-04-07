@@ -8066,7 +8066,20 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="mark b83cba06-e8b9-4298-9869-73bf38a2a4ff">
             <t pos="N" soggi="a" stem="2syll">deava</t>
+            <xg>
+              <x>Sitte på marken.</x>
+              <xt>Deavesne tjaahkasjidh.</xt>
+            </xg>
          </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="makk ea1a9bb4-a9ea-413b-9f4e-ff311fd7c9a1">
+            <t pos="N" soggi="e" stem="2syll">maerhkie</t>
+         	<xg>
+              <x>Fiske med makk.</x>
+              <xt>Maerhkine gööledh.</xt>
+            </xg>
+		</tg>
       </mg>
    </e>
    <e>
@@ -36808,11 +36821,15 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">larve</l>
+         <l pos="N">spyfluelarve</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="larve 3d964efa-0f04-4416-96d9-a762f8f0f7b6">
             <t pos="N" soggi="e" stem="2syll">soekse</t>
+            <xg>
+               <x>Soeksh er spyfluelarver.</x>
+               <xt>Soeksh leah bajhke-tjovrehkh maerhkieh.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -36822,8 +36839,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="makk ea1a9bb4-a9ea-413b-9f4e-ff311fd7c9a1">
-            <t pos="N" soggi="e" stem="2syll">soekse</t>
-         </tg>
+            <t pos="N" soggi="e" stem="2syll">maerhkie</t>
+         	<xg>
+              <x>Fiske med makk.</x>
+              <xt>Maerhkine gööledh.</xt>
+            </xg>
+		</tg>
       </mg>
    </e>
    <e>
