@@ -38808,22 +38808,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma" tw_id="få oversikt a69abf8b-8206-4c24-b8d1-a087fd21c105">
             <t class="I" p3p="vuajna" pos="V" stem="2syll" umlaut="full" vow="x">vuejnedh</t>
             <xg>
-               <x>Jeg ser bestemor. Se der!</x>
-               <xt>Manne aahkam vuajnam. Vuajnah!</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">vær så god</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="vær så god b5e9884e-a1b0-4f3a-b4eb-d696fe882e6b">
-            <t class="I" p3p="vuajna" pos="V" stem="2syll" umlaut="full" vow="x">vuejnedh</t>
-            <xg>
-               <x>Vær så god og sett deg! Vær så god og stig inn! Vær så god og ta!</x>
-               <xt>Vuajnah tjihkedh! Vuejnede gåatan tjaangedh! Vuajnah vaeltieh!</xt>
+               <x>Se der! Jeg ser bestemor.</x>
+               <xt>Vuajnah! Manne aahkam vuajnam.</xt>
             </xg>
          </tg>
       </mg>
