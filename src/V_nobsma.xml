@@ -1462,11 +1462,26 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="takke 3f9693d0-fcae-4991-8b61-372d78c16459">
             <t class="I" p3p="gæjhta" pos="V" stem="2syll" umlaut="full" vow="x">gijhtedh</t>
+            <xg>
+                <x>Har du husket å takket for gaven?</x>
+                <xt>Datne måjhteme vadtesen åvteste gijhtedh?</xt>
+              </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="takke 387ea1a7-dfa6-4497-8cf1-58de3cffd9f0">
             <t class="IV" pos="V" stem="2syll" vow="a">gyjhtelassjedh</t>
+         </tg>
+         <tg xml:lang="sma" tw_id="takke for mat og drikke 7c9b9db5-6310-407c-a446-d24bc90ffc58">
+            <t diph="yes" pos="V" stem="3syll">gudtsiestidh</t>
+            <xg>
+                <x>Du må huske å takke for maten.</x>
+                <xt>Datne tjuarah mujhtedh beapmoen åvteste gudtsiestidh.</xt>
+              </xg>
+              <xg>
+                <x>Har du husket å takke for maten?</x>
+                <xt>Datne beapmoen åvteste gudtsiestamme?</xt>
+              </xg>
          </tg>
       </mg>
    </e>
@@ -16613,16 +16628,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="sette noe opp ned 7d0a4b75-df03-4fbb-ab97-bca72a00a627">
             <t diph="yes" p3p="gubpmede" pos="V" stem="3syll">gupmiehtidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">takke for mat og drikke</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="takke for mat og drikke 7c9b9db5-6310-407c-a446-d24bc90ffc58">
-            <t diph="yes" pos="V" stem="3syll">gudtsiestidh</t>
          </tg>
       </mg>
    </e>

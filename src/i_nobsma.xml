@@ -50,6 +50,21 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   	<e>
+      <lg>
+         <l pos="Interj">takk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma" tw_id="takk 204587f2-4479-47dc-b41c-9b7d10410894">
+            <re>særlig for mat og drikke</re>
+            <t pos="Interj">gudtsien</t>
+            <xg>
+               <x>Takk for kaffen!</x>
+               <xt>Gudtsien prïhtjegen åvteste!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e>
       <lg>
          <l pos="Interj">å jøje meg</l>
@@ -60,21 +75,6 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>A jøje meg, det der var en flott bil!</x>
                <xt>Åå, jöödtedh, dohte tjaebpies bïjle!</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Interj">takk</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="takk 204587f2-4479-47dc-b41c-9b7d10410894">
-            <re>om mat og drikke</re>
-            <t pos="Interj">gudtsien</t>
-            <xg>
-               <x>Takk for kaffen!</x>
-               <xt>Gudtsien prïhtjegen åvteste!</xt>
             </xg>
          </tg>
       </mg>
