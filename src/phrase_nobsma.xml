@@ -41,7 +41,47 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+      <e>
+      <lg>
+         <l pos="Phrase" type="Indef">vær så god</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Phrase" type="Indef">vuajnah X</t>
+            <xg>
+                <x>Vær så god og stig på!</x>
+                <xt>Vuajnah tjaangh!</xt>
+              </xg>
+              <xg>
+                <x>Vær så god og sett deg!</x>
+                <xt>Vuajnah tjihkedh!</xt>
+            </xg>
+            <xg>
+                <x>Vær så god og ta!</x>
+                <xt>Vuajnah vaeltieh!</xt>
+            </xg>
+            <xg>
+                <x>Vær så god og spis!</x>
+                <xt>Vuejnah byöpmedh!</xt>
+            </xg>
+         </tg>
+      </mg>
+    </e>
+    <e>
+      <lg>
+         <l pos="Adv">vær så god</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma" tw_id="vær så god 55923062-2dda-43c8-b82a-ee4b35a3bdc6">
+            <t pos="Adv">duelie</t>
+            <xg>
+               <x>Vær så god og ta denne.</x>
+               <xt>Duelie doem.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+	<e>
       <lg>
          <l pos="Phrase" type="Indef">et eller annet</l>
       </lg>
