@@ -27,7 +27,7 @@ For the full license text, see the link above.</lic>
      </sourcenote>
    </lics>
 
-      <e usage="dict">
+   <e usage="dict">
       <lg>
          <l pos="Adv">snart</l>
       </lg>
@@ -37,7 +37,19 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-
+	<e note="checked">
+      <lg>
+          <l pos="Adv">gråtende</l>
+      </lg>
+      <mg>
+         <tg
+        xml:lang="sma"
+        tw_id="vijriebasse 864a4d80-bd4a-4f14-a5a6-1610544268e2">
+            <re>med tårer i øynene</re>
+            <t pos="Adv">tjyöresth-tjelmiejgujmie</t>
+         </tg>
+      </mg>
+   </e>
    <e src="gg">
       <lg>
          <l pos="Adv">åpenbart</l>
