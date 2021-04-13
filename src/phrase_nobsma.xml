@@ -49,20 +49,32 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="Phrase" type="Indef">vuajnah X</t>
             <xg>
-                <x>Vær så god og stig på!</x>
+                <x>Vær så god og stig på! (imperativ, entall)</x>
                 <xt>Vuajnah tjaangh!</xt>
+              </xg>
+              <xg>
+                <x>Vær så god og stig på! (imperativ, flertall)</x>
+                <xt>Vuejnede tjaangede!</xt>
               </xg>
               <xg>
                 <x>Vær så god og sett deg!</x>
                 <xt>Vuajnah tjihkedh!</xt>
             </xg>
             <xg>
-                <x>Vær så god og ta!</x>
+                <x>Vær så god og sett dere!</x>
+                <xt>Vuejnede tjihkedidie</xt>
+            </xg>
+            <xg>
+                <x>Vær så god og ta! (imperativ, entall)</x>
                 <xt>Vuajnah vaeltieh!</xt>
             </xg>
             <xg>
-                <x>Vær så god og spis!</x>
-                <xt>Vuejnah byöpmedh!</xt>
+                <x>Vær så god og spis! (imperativ, entall)</x>
+                <xt>Vuajnah byöpmedh!</xt>
+            </xg>
+            <xg>
+                <x>Vær så god og spis! (imperativ, flertall)</x>
+                <xt>Vuejnede byöpmedidie!</xt>
             </xg>
             <xg>
                <x>Vær så god og ta for deg.</x>

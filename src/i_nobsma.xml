@@ -300,12 +300,24 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Interj">vær så god og gå inn</l>
+         <l pos="Interj">vær så god og kom inn</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="vær så god og gå inn ab6cfdcc-688f-445e-9aed-676f0eb32469">
             <t pos="Interj">vuajnah tjaangh</t>
+            <xg>
+               <x>Vær så god, kom inn! (ipmerativ, entall)</x>
+               <xt>Vuajnah tjaangh!</xt>
+            </xg>
          </tg>
+         <tg xml:lang="sma" tw_id="vær så god og gå inn ab6cfdcc-688f-445e-9aed-676f0eb32469">
+            <t pos="Interj">vuejnede tjaangede</t>
+            <xg>
+               <x>Vær så god, kom inn! (imperativ, flertall)</x>
+               <xt>Vuejnede tjaangede!</xt>
+            </xg>
+         </tg>
+
       </mg>
    </e>
    <e>
