@@ -41,6 +41,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
 	</e>
+   <e note="checked" src="lmm">
+      <lg>
+         <l pos="N">lønnsmottaker</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma" tw_id="lønnsmottaker 2c8a0c33-348b-45a7-af19-15efe2296440">
+            <t pos="N" type="NomAg">dïenesjæjja</t>
+         </tg>
+      </mg>
+   </e>   
    <e note="checked" src="gg">
       <lg>
          <l pos="N">Statsforvalteren</l>
