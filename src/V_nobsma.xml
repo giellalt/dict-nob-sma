@@ -18444,28 +18444,43 @@ For the full license text, see the link above.</lic>
          <l pos="V">gråte</l>
       </lg>
       <mg>
+         <tg xml:lang="sma" tw_id="gråte cd2251e1-865d-41fc-b9e8-39ea26219199">
+            <t class="II" p3p="tjyöre" pos="V" stem="2syll" umlaut="full" vow="x">tjearodh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="gråte 49e5e135-c92e-42bd-bc2a-900169a16384">
+            <re>briste i gråt</re>
+            <t pos="V" src="fad">tjyörijidh</t>
+         </tg>
+      </mg>
+	  <mg>
+         <tg xml:lang="sma" tw_id="gråte d001069e-6f3f-4a25-81dc-6acd9969856d">
+            <re>felle tårer</re>
+            <t pos="V" src="fad">gïknjelidh</t>
+         </tg>
+      </mg> 
+      <mg>
          <tg xml:lang="sma" tw_id="gråte 2738c786-89e6-4dbd-88d7-33497f6c7959">
             <t class="IV" pos="V" stem="2syll" umlaut="full" vow="x">gïknjeldovvedh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="gråte 6805e95d-7410-41e2-8fac-cf75ee4baf9a">
+            <re>gråte mismodig</re>
             <t class="II" p3p="hojne" pos="V" stem="2syll" umlaut="full" vow="x">håjnodh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="gråte 39df0a0c-1749-411b-8a9b-506eb6f6280c">
             <t class="II" p3p="njyjhke" pos="V" stem="2syll" umlaut="full" vow="x">njæjhkodh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="gråte cd2251e1-865d-41fc-b9e8-39ea26219199">
-            <t class="II" p3p="tjyöre" pos="V" stem="2syll" umlaut="full" vow="x">tjearodh</t>
+            <re>griner</re>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="gråte a9a4d07b-2bd2-4794-8147-98b881dc64eb">
             <t diph="yes" p3p="tjearoste" pos="V" stem="3syll">tjearoestidh</t>
+         	<re>ta til å gråte litt</re>
          </tg>
       </mg>
       <mg>
@@ -18487,6 +18502,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="gråte 1c1ce119-c39a-4f90-b933-e5fe00e1abec">
             <t pos="V" stem="3syll">vajmeldidh</t>
+            <re>være grinete</re>
          </tg>
       </mg>
    </e>
