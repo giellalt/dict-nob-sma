@@ -55166,7 +55166,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma" tw_id="stipend 67bb9690-0f33-4f84-8ccc-90aaff1cd165">
-        <t pos="N">stipeende</t>
+        <t pos="N">stipende</t>
       </tg>
     </mg>
   </e>
@@ -63838,16 +63838,6 @@ For the full license text, see the link above.</lic>
          <l pos="N">eple</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="eple 5ce40c07-037e-4430-8b43-f068c27547f4">
-            <t pos="N">æbla</t>
-         </tg>
-      </mg>
-       <mg>
-         <tg xml:lang="sma" tw_id="eple ac9ae99c-35d1-4c56-ad74-13af5f1aa8c5">
-            <t pos="N">æpla</t>
-         </tg>
-      </mg>
-       <mg>
          <tg xml:lang="sma" tw_id="eple 831e57b0-6315-4a96-bea3-455e71160161">
             <t pos="N">eahpele</t>
          </tg>
@@ -63858,15 +63848,6 @@ For the full license text, see the link above.</lic>
          <l pos="N">eplekake</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="eplekake ea658edc-d8a1-4026-933c-3ebaebe6bd7c">
-            <t pos="N">æblagaahkoe</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="eplekake 96f7daeb-fbe8-4f3b-8369-ece5272f20d2">
-            <t pos="N">æplagaahkoe</t>
-         </tg>
-      </mg><mg>
          <tg xml:lang="sma" tw_id="eplekake de9f094e-d53c-4a59-995c-430a19a06731">
             <t pos="N">eahpelegaahkoe</t>
          </tg>
