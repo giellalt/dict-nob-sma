@@ -41,6 +41,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
 	</e>
+	<e note="checked" src="nsr">
+      <lg>
+         <l pos="N">arbeidsutvalg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma" tw_id="arbeidsutvalg 6cc0a8e0-7621-472a-9692-5f551292bfc1">
+            <t pos="N">barkoemoenehtse</t>
+         </tg>
+      </mg>
+   </e>
    <e note="checked" src="lmm">
       <lg>
          <l pos="N">lønnsmottaker</l>
