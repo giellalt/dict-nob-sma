@@ -42,16 +42,16 @@ For the full license text, see the link above.</lic>
 	      <l pos="N" type="Prop" sem_type="Fem">Njeevetje</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" tw_id="njávešeatni 67ab6255-7a86-4928-b95c-f7ce9f91d87b">
+         <tg xml:lang="sma" tw_id="njávešeatni 67ab6255-7a86-4928-b95c-f7ce9f91d87b">
             <re>navn på en kvinnelig eventyrskikkelse</re>
             <t pos="N">Njeevetje</t>
             <xg>
-               <x>Njeevetje gåmman nomme båaries saemien heamturisnie.</x>
-               <xt>Njeevetje er kvinnenavn i gamle samiske eventyr.</xt>
+               <x>Njeevetje er kvinnenavn i gamle samiske eventyr.</x>
+               <xt>Njeevetje gåmman nomme båaries saemien heamturisnie.</xt>
             </xg>
             <xg>
-               <x>Njeevetje lij gïemhpe dej sov bovtsigujmie, men Rovhtege lij veesties dej sov bovtsigujmie.</x>
-               <xt>Njeevetje var god med sine rein, mens Rovhtege var ond med sine rein.</xt>
+               <x>Njeevetje var god med sine rein, mens Rovhtege var ond med sine rein.</x>
+               <xt>Njeevetje lij gïemhpe dej sov bovtsigujmie, men Rovhtege lij veesties dej sov bovtsigujmie.</xt>
             </xg>
          </tg>
       </mg>
@@ -61,12 +61,12 @@ For the full license text, see the link above.</lic>
          <l pos="N" type="Prop" sem_type="Fem">Rovhtege</l>
       </lg>
       <mg>
-         <tg xml:lang="nob" tw_id="áhčešeatni 835b1959-3d26-4085-a7db-d576dc09f18a">
-            <re>navnet på Staaloes kone i eventyret</re>
+         <tg xml:lang="sma" tw_id="áhčešeatni 835b1959-3d26-4085-a7db-d576dc09f18a">
+            <re>navnet på Stallos kone i eventyret</re>
             <t pos="N">Rovhtege</t>
             <xg>
-               <x>Rovhtege, Staaloen gåmman nomme, båaries saemien heamturisnie.</x>
-               <xt>Rovhtege er navnet til Staaloens kone, i gamle samiske eventyr.</xt>
+               <x>Rovhtege er navnet til Stallos kone, i gamle samiske eventyr.</x>
+               <xt>Rovhtege, Staaloen gåmman nomme, båaries saemien heamturisnie.</xt>
             </xg>
          </tg>
       </mg>
