@@ -4539,16 +4539,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="A">likt utseende</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="likt utseende 68848004-d3ce-4c25-9ab7-93b042f9c4f5">
-            <t pos="A" stem="2syll">seammaplïeres</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="A">verdt</l>
       </lg>
       <mg>
@@ -6321,6 +6311,12 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="sma" tw_id="lik 91fd5199-0b1e-4e3a-91d4-dba151b9bbf0">
         <t pos="A">seammalaakan</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="sma" tw_id="likt utseende 68848004-d3ce-4c25-9ab7-93b042f9c4f5">
+        <re>om utseende</re>
+        <t pos="A" stem="2syll">seammaplïeres</t>
       </tg>
     </mg>
   </e>
