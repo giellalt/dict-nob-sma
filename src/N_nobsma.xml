@@ -41,6 +41,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
 	</e>
+	   <e>
+      <lg>
+         <l pos="N">taler</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma" tw_id="taler b1a75b67-177e-4a35-b7d1-6736b9e8a9a6">
+            <t>håaloje</t>
+            <t>låasije</t>
+         </tg>
+      </mg>
+   </e>
 	<e note="checked" src="nsr">
       <lg>
          <l pos="N">arbeidsutvalg</l>
