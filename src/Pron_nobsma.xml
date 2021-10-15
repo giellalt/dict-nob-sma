@@ -1834,6 +1834,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="noe 4a5c4cd9-d970-4268-b8cb-f558935aaca4">
+            <re>ved nekting</re>
             <t pos="Pron" type="Rel">mij</t>
             <xg>
                <x>Det står ikke noe om det her.</x>
@@ -1888,6 +1889,20 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Marka var veldig oppgravd, byggeredskaper på alle kanter.</x>
                <xt>Deavesne joekoen röödtseldihkie, bigkemedïrregh gaajhkene lehkesne.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="alle personer 942e3df6-743c-4fcf-8206-bd5c6005846b">
+	         <re>om personer</re>
+            <t pos="Pron" type="Coll">gaajhkesh</t>
+            <xg>
+               <x>Ikke alle synes det er nødvendig.</x>
+               <xt>Eah sih gaajhkesh utnieh dïhte lea daerpies.</xt>
+            </xg>
+            <xg>
+               <x>Hvis vi ikke har nok puter til alle, så bruker vi klær og skinn som hodepute.</x>
+               <xt>Jis ibie kodth utnieh nuekies gaajhkesidie, dellie vaarjoeh jïh dueljieh åejjiedovteginie.</xt>
             </xg>
          </tg>
       </mg>
@@ -2083,24 +2098,6 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Piere hadde ikke noe som helst.</x>
                <xt>Idtji Piere maamgih utnieh.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">alle personer</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="alle personer 942e3df6-743c-4fcf-8206-bd5c6005846b">
-            <t pos="Pron" type="Coll">gaajhkesh</t>
-            <xg>
-               <x>Ikke alle synes det er nødvendig.</x>
-               <xt>Eah sih gaajhkesh utnieh dïhte lea daerpies.</xt>
-            </xg>
-            <xg>
-               <x>Hvis vi ikke har nok puter til alle, så bruker vi klær og skinn som hodepute.</x>
-               <xt>Jis ibie kodth utnieh nuekies gaajhkesidie, dellie vaarjoeh jïh dueljieh åejjiedovteginie.</xt>
             </xg>
          </tg>
       </mg>

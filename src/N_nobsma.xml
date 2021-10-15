@@ -52,7 +52,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-	<e note="checked" src="nsr">
+	<e note="checked">
       <lg>
          <l pos="N">arbeidsutvalg</l>
       </lg>
@@ -8718,6 +8718,12 @@ For the full license text, see the link above.</lic>
             <t pos="N" soggi="a" stem="2syll">njaltja</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="snauslitt skinn med hår 3948ae99-c9c8-43fc-b8c4-6905a5a23cf6">
+	         <re>snauslitt skinn nesten uten hår</re>
+            <t pos="N" soggi="ie" stem="2syll">bïlsedueljie</t>
+         </tg>
+      </mg>
    </e>
     <e>
       <lg>
@@ -8861,16 +8867,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="dusin 955238d0-fbdb-4b36-8e90-5b9beb76c88d">
             <t pos="N" soggi="e" stem="2syll">golme gadterh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">noe å støtte med</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="noe å støtte med f9d6e749-697c-4107-9c27-710873f2a79f">
-            <t pos="N" soggi="e" stem="2syll">duvtestahke</t>
          </tg>
       </mg>
    </e>
@@ -9086,10 +9082,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">noe som tar imot eller stopper</l>
+         <l pos="N">stopper</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="noe som tar imot eller stopper 9edef214-871e-4744-a752-f3ab037c9a07">
+	         <re>noe som tar i mot eller stopper</re>
             <t margo="e" pos="N" soggi="oe" stem="3syll">dåastove</t>
          </tg>
       </mg>
@@ -12219,16 +12216,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">noe å dekke med</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="noe å dekke med 0c3084d5-9f96-43c9-9dbf-14f77e269ff2">
-            <t margo="e" pos="N" soggi="e" stem="3syll">gaptjese</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">bergkløft</l>
       </lg>
       <mg>
@@ -15221,10 +15208,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">noe til å binde med</l>
+         <l pos="N">bindemiddel</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="noe til å binde med 9a96de86-5ebe-4e37-8256-9322945e710a">
+	         <re>noe å binde med</re>
             <t pos="N" soggi="e" stem="2syll">gårreldahke</t>
          </tg>
       </mg>
@@ -16659,7 +16647,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">noe lett som flyr omkring</l>
+         <l pos="N">fnugg som flyr omkring</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="noe lett som flyr omkring 22fc78b2-2e2a-4a08-a792-285dd79ef7c7">
@@ -17169,7 +17157,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">noe som er forkastet eller oppgitt</l>
+         <l pos="Phrase">forkastet eller oppgitt noe</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="noe som er forkastet eller oppgitt 55872162-ab7d-495a-a482-79cd12f9f3c0">
@@ -24550,20 +24538,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">noe å slenge over seg</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="noe å slenge over seg 2f20217d-47e8-4f17-9196-d2ce4326d783">
-            <t pos="N" soggi="ie" stem="2syll">njåetsie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">cape</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="cape 6234fe3d-d4f0-463b-98bd-61c3a66549c1">
+	         <re>noe å slenge over seg</re>
             <t pos="N" soggi="ie" stem="2syll">njåetsie</t>
          </tg>
       </mg>
@@ -37470,31 +37449,18 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">alle fire leggskinn</l>
+         <l pos="N">leggskinn</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="alle fire leggskinn 1c130585-a27b-426f-996a-ee431970bc54">
+	         <re>om alle fire skinn</re>
             <t margo="e" pos="N" soggi="a" stem="3syll">gaamesegadtere</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">øverste del av leggskinn fra bakfoten</l>
-      </lg>
       <mg>
          <tg xml:lang="sma" tw_id="øverste del av leggskinn fra bakfoten 72ca2902-a993-4b72-929b-f670574039e8">
+	         <re>øverste del av leggskinn fra bakfoten</re>
             <t pos="N" soggi="oe" stem="2syll">gaavloe</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">snauslitt skinn med hår</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="snauslitt skinn med hår 3948ae99-c9c8-43fc-b8c4-6905a5a23cf6">
-            <t pos="N" soggi="ie" stem="2syll">bïlsedueljie</t>
          </tg>
       </mg>
    </e>
@@ -38010,7 +37976,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">noe som er ferdigbundet</l>
+         <l pos="Phrase">ferdigbundet ting</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="noe som er ferdigbundet 1c754e44-90a4-476c-8dc1-2fa434af2aa8">
@@ -39199,7 +39165,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">noe som glinser</l>
+         <l pos="Phrase">glinsende gjenstand</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="noe som glinser df28280a-ed92-4c37-85d9-32fcafc5300f">

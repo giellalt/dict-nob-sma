@@ -437,7 +437,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="enn 95587928-29e5-49ef-a41c-05a746bf4526">
+            <t pos="CS">goh</t>
             <t pos="CS">enn</t>
+            <xg>
+               <x>Den er meget større enn den.</x>
+               <xt>Dïhte sagki stuerebe enn goh dïhte.</xt>
+            </xg>
             <xg>
                <x>Jeg hadde trivdes bedre der enn her nede i denne kråa.</x>
                <xt>Manne lim debpene buerebe murriedamme enn vuelnie daennie kråavesne.</xt>
@@ -445,7 +450,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="enn 95587928-29e5-49ef-a41c-05a746bf4526">
+         <tg xml:lang="sma">
            <t type="grammar" href="https://oahpa.no/sma/gramm/substantiv.nob.html#Elativ">elativ</t>            
             <xg>
                <x>Jeg kommer til å leve mye bedre enn deg, Karius.</x>
