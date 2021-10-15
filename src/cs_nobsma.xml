@@ -91,6 +91,7 @@ For the full license text, see the link above.</lic>
                <x>Den personen som har den bilen, er fra Sverige.</x>
                <xt>Dïhte almetje gïen doete bïjle, lea Sveerjeste.</xt>
             </xg>
+         </tg>
       </mg>
    </e>
    <e>
@@ -440,6 +441,15 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Jeg hadde trivdes bedre der enn her nede i denne kråa.</x>
                <xt>Manne lim debpene buerebe murriedamme enn vuelnie daennie kråavesne.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="enn 95587928-29e5-49ef-a41c-05a746bf4526">
+           <t type="grammar" href="https://oahpa.no/sma/gramm/substantiv.nob.html#Elativ">elativ</t>            
+            <xg>
+               <x>Jeg kommer til å leve mye bedre enn deg, Karius.</x>
+               <xt>Manne båatam sagke buerebe datneste jieledh, Karijuse.</xt>
             </xg>
          </tg>
       </mg>
