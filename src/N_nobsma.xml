@@ -11672,16 +11672,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">alle skinn, margbein eller sener fra reinens fire føtter</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="alle skinn, margbein eller sener fra reinens fire føtter 5d165cd8-807b-4306-88cf-92090ea4ad8c">
-            <t margo="e" pos="N" soggi="e" stem="3syll">gadtere</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">kjertel mellom klovene på reinens bakfot</l>
       </lg>
       <mg>
@@ -37455,6 +37445,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma" tw_id="alle fire leggskinn 1c130585-a27b-426f-996a-ee431970bc54">
 	         <re>om alle fire skinn</re>
             <t margo="e" pos="N" soggi="a" stem="3syll">gaamesegadtere</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="alle skinn, margbein eller sener fra reinens fire føtter 5d165cd8-807b-4306-88cf-92090ea4ad8c">
+	      <re>alle skinn, margbein eller sener fra reinens fire føtter</re>   
+            <t margo="e" pos="N" soggi="e" stem="3syll">gadtere</t>
          </tg>
       </mg>
       <mg>
