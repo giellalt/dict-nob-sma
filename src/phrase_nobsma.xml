@@ -28,6 +28,16 @@ For the full license text, see the link above.</lic>
    </lics>
    <e>
       <lg>
+         <l pos="Phrase">ditt og datt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma" tw_id="ditt og datt ec5751bb-b157-4561-b118-e4b0533ff59d">
+            <t pos="Phrase">dom daam</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l t_type="expl" pos="Phrase">egenskapen til barkelåg som trekker godt inn i skinn</l>
       </lg>
       <mg>

@@ -46,20 +46,51 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="som 7dfa5b93-b9e7-4ff1-91a5-9e6fafa6c2bd">
-            <t pos="CS">mij</t>
-            <xg>
+            <t pos="Pron">mij</t>
+             <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Sp%C3%B8rrende+og+relative+pronomen">les om bruken</t>            
+             <xg>
                <x>Det som skjer, det skjer.</x>
                <xt>Dïhte mij heannade, dïhte heannade.</xt>
+            </xg>
+            <xg>
+               <x>Søknader som kommer etter den tidsfristen, behandles ikke.</x>
+               <xt>Ohtsemh mah mænngan aejkiemieriem båetieh, eah gïetedallesovvh.</xt>
             </xg>
             <xg>
                <x>Maarja tenkte på regningen som hun skulle betale i dag.</x>
                <xt>Maarja reeknengen bïjre ussjedi maam daanbien edtji maeksedh.</xt>
             </xg>
             <xg>
-               <x>Søknader som kommer etter den tidsfristen, behandles ikke.</x>
-               <xt>Ohtsemh mah mænngan aejkiemieriem båetieh, eah gïetedallesovvh.</xt>
+               <x>Hvem sin simle er det som har bjelle med dump klang?</x>
+               <xt>Gïen dïhte aaltoe man tsåalhkoeh bealloe lea?</xt>
+            </xg>
+            <xg>
+               <x>Hvor ble det av hunden som jeg ga mat til?</x>
+               <xt>Gåabph dïhte bïenje mïsse beapmoeh vedtim?</xt>
             </xg>
          </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>om personer</re>
+            <t pos="Pron">gie</t>
+             <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Sp%C3%B8rrende+og+relative+pronomen">les om bruken</t>            
+            <xg>
+               <x>Den som kommer først, skal koke kaffe.</x>
+               <xt>Dïhte gie voestegh båata, edtja kaaffem voessjedh.</xt>
+            </xg>
+            <xg>
+               <x>Den norske dama som du så i dag, er min nabo.</x>
+               <xt>Dïhte rovkije gïem daan biejjien vööjnih, lea mov kraanna.</xt>
+            </xg>
+            <xg>
+               <x>De som vil ha mat, må skynde seg!</x>
+               <xt>Dah gïeh beapmoeh sijhtieh, tjoeverieh skodtedh!</xt>
+            </xg>
+            <xg>
+               <x>Den personen som har den bilen, er fra Sverige.</x>
+               <xt>Dïhte almetje gïen doete bïjle, lea Sveerjeste.</xt>
+            </xg>
       </mg>
    </e>
    <e>
