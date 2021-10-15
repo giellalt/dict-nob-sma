@@ -1701,6 +1701,19 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Indef">guhte</t>
+            <xg>
+               <x>Om det er noen her som kan hjelpe meg?</x>
+               <xt>Mah guhte sæjhta mannem viehkiehtidh?</xt>
+            </xg>
+            <xg>
+               <x>Jeg har ikke spurt noen om det.</x>
+               <xt>Im leah manne guhtem dan bïjre gihtjeme.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -1718,11 +1731,72 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron">en og annen</l>
+         <l pos="Phrase">en og annen</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="en og annen d0a5517b-3def-4114-a3f3-e5bf20e049f5">
-            <t pos="Pron" type="Indef">muvhte</t>
+            <t pos="Phrase">muvhte</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">ingen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma" >
+            <t pos="Phrase">ij naan</t>
+            <xg>
+               <x>Den lua har ingen dusk.</x>
+               <xt>Dan tjohpen ij naan duahpa.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" >
+	         <re>om personer</re>
+            <t pos="Phrase">ij gie</t>
+            <t pos="Phrase">ij guhte</t>
+            <xg>
+               <x>Har ingen kommet enda?</x>
+               <xt>Ij gie annje leah båateme?</xt>
+            </xg>
+            <xg>
+               <x>Ingen har fortalt det til meg.</x>
+               <xt>Ij guhte dam munnjien soptsestamme.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" >
+	         <re>om to</re>
+            <t pos="Phrase">ij gåabpa</t>
+            <xg>
+               <x>Ingen av de to hører at døra går opp og mor og far står og ser på dem.</x>
+               <xt>Ij gåabpa govlh okse rïhpese jïh aehtjie gon tjidtjieh tjåadtjoeminie vuartesjeminie.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">ingenting</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma" >
+            <t pos="Phrase">ij mij</t>
+            <xg>
+               <x>Det står ingenting om det her.</x>
+               <xt>Ij mij daesnie tjåadtjoeh dan bïjre.</xt>
+            </xg>
+            <xg>
+               <x>Absolutt ingenting.</x>
+               <xt>Ij mij gænnah.</xt>
+            </xg>
+            <xg>
+               <x>Han hadde absolutt ingenting.</x>
+               <xt>Idtji maam gih utnieh.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1764,10 +1838,6 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Det står ikke noe om det her.</x>
                <xt>Ij mij daesnie tjåadtjoeh dan bïjre.</xt>
-            </xg>
-            <xg>
-               <x>Ikke noe engang.</x>
-               <xt>Ij mij gænnah.</xt>
             </xg>
          </tg>
       </mg>
@@ -4794,11 +4864,30 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron">hvilken av dem</l>
+         <l pos="Pron">hvilken</l>
       </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Interr">mij</t>
+            <xg>
+               <x>Hvilken dag er det i dag?</x>
+               <xt>Mij biejjide daan biejjien?</xt>
+            </xg>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="sma" tw_id="hvilken av dem 6d669060-fd4b-4089-8387-c047f62c403a">
             <t pos="Pron" type="Rel">guhte</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	     <re>om personer</re>    
+            <t pos="Pron" type="Rel">gie</t>
+            <xg>
+               <x>Hvilken Meehte?</x>
+               <xt>Gie dejstie Meehtijste?</xt>
+            </xg>
          </tg>
       </mg>
    </e>
