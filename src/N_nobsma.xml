@@ -12006,7 +12006,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">en som er stam</l>
+         <l pos="Phrase">stammende person</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="en som er stam a77ca577-d3a0-4da3-bf45-b3a307192180">
@@ -14433,10 +14433,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">en som tror han er bedre enn han er</l>
+         <l pos="Phrase">innbilsk person</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="en som tror han er bedre enn han er 51587fc7-ecec-4037-836e-ca420ac559bb">
+	         <re>en som tror han er bedre enn han er</re>
             <t pos="N" soggi="ie" stem="2syll">guvsie</t>
          </tg>
       </mg>
@@ -15267,6 +15268,12 @@ For the full license text, see the link above.</lic>
             <t pos="N" soggi="e" stem="2syll">soene</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="alle fotsener av en rein 873cfc14-9046-490c-858d-0b04897aa479">
+	         <re>alle fotsener av en rein</re>
+            <t margo="e" pos="N" soggi="a" stem="3syll">soenegadtere</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -15319,7 +15326,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">en som skriker</l>
+         <l pos="Phrase">skrikende person eller vesen</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="en som skriker 3d6cdfb9-a8d9-45b0-99ba-a9c980eb6794">
@@ -17819,7 +17826,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">en som lever</l>
+         <l pos="Phrase">levende vesen</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="en som lever a51b5e59-1b84-45f4-bfc6-6edd60200ca4">
@@ -19273,7 +19280,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">en som er snøblind</l>
+         <l pos="Phrase">snøblind person</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="en som er snøblind 8d2a0477-0c63-4aac-a4f2-1b889080f496">
@@ -23318,7 +23325,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">en som gjør hærverk eller ødelegger</l>
+         <l pos="N">vandal</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="en som gjør hærverk eller ødelegger 0158b207-0004-44d7-856d-03089386b194">
@@ -23470,20 +23477,17 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">en kvinnes eldre brors kone</l>
+         <l pos="N">svigerinne</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="en kvinnes eldre brors kone fc4868df-d21f-4a5f-ab7d-d2bc9661ddd4">
+         <re>kvinnes eldre brors kone</re>
             <t pos="N" soggi="a" stem="2syll">månnja</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">en kvinnes eldre fetters kone</l>
-      </lg>
       <mg>
          <tg xml:lang="sma" tw_id="en kvinnes eldre fetters kone c21a971d-c100-4217-b7f5-564c526c87c9">
+         <re>kvinnes eldre fetters kone</re>
             <t pos="N" soggi="a" stem="2syll">månnja</t>
          </tg>
       </mg>
@@ -23908,20 +23912,17 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">en manns søsters eller kusines barn</l>
+         <l pos="N">onkelbarn</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="en manns søsters eller kusines barn 8ada20c0-7743-46e9-907f-b8b796326eb1">
+         <re>manns søsters eller kusines barn</re>
             <t margo="e" pos="N" soggi="a" stem="3syll">neapede</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">en manns søsters barnebarn</l>
-      </lg>
       <mg>
          <tg xml:lang="sma" tw_id="en manns søsters barnebarn e5db3545-b8d3-4abe-a428-a15d26f02381">
+         <re>manns søsters barnebarn</re>
             <t margo="e" pos="N" soggi="a" stem="3syll">neapede</t>
          </tg>
       </mg>
@@ -25005,7 +25006,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">en som leter etter noe</l>
+         <l pos="Phrase">letende etter noe</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="en som leter etter noe f657a45d-7d05-4013-a08a-ebec637e1b26">
@@ -28261,7 +28262,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">en som går ut og inn dørene</l>
+         <l pos="Phrase">gående ut og inn dørene</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="en som går ut og inn dørene 5191ada3-d1bc-46b3-b714-05c2cfa2e3dc">
@@ -29113,7 +29114,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">en som er våt</l>
+         <l pos="Phrase">våt person</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="en som er våt 0cb2b4e5-dd61-4123-856b-969ef51f0dfc">
@@ -30284,7 +30285,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">en som bysser et barn</l>
+         <l pos="Phrase">byssende på et barn</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="en som bysser et barn 62d48057-e457-440a-b8bf-99d5bb132dcf">
@@ -34791,7 +34792,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">en som er tidlig våken</l>
+         <l pos="N">morgenfugl</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="en som er tidlig våken 310d21c9-3aae-41fb-810a-d9630963a5de">
@@ -35012,7 +35013,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">en som driver flokken</l>
+         <l pos="Phrase">driver av flokken</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="en som driver flokken 682c6abe-33ce-451e-ac85-e48affe660e5">
@@ -36037,7 +36038,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">en som sover</l>
+         <l pos="Phrase">sovende person</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="en som sover cc492bf4-3fd4-4b03-bdca-4aa1ea3ebed2">
@@ -38662,16 +38663,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">alle fotsener av en rein</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="alle fotsener av en rein 873cfc14-9046-490c-858d-0b04897aa479">
-            <t margo="e" pos="N" soggi="a" stem="3syll">soenegadtere</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">belte flettet av sener</l>
       </lg>
       <mg>
@@ -41100,7 +41091,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">en gruppe av samenomadefamilier som flytter sammen</l>
+         <l pos="Phrase">samenomadefamilier som flytter sammen i gruppe</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="en gruppe av samenomadefamilier som flytter sammen c4036070-28c9-4c17-b50e-bc55984e8b6a">
