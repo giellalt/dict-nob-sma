@@ -1958,20 +1958,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron">av dem</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="fra dem 2567e622-abe1-4e84-a843-5cd5f20dbd1d">
-            <t pos="Pron" type="Pers">dejstie</t>
-            <xg>
-               <x>Den har han fått av dem.</x>
-               <xt>Dam lea dejstie åådtjeme.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Pron">de to</l>
       </lg>
       <mg>
@@ -2927,17 +2913,6 @@ For the full license text, see the link above.</lic>
                <x>Hvem sine er disse?</x>
                <xt>Giej leah daah?</xt>
             </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">på hvem</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="på hvem c9bcc113-9bb7-464f-9c19-05537d93bca4">
-            <re>om flere</re>
-            <t nr="Pl" pos="Pron" type="Interr">giejnie</t>
          </tg>
       </mg>
    </e>
