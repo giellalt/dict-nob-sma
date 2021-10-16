@@ -2122,7 +2122,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="fram og tilbake 9308443d-88cc-4c5b-98ad-764a55d406b0">
-            <t pos="Adv">dohkh diekie</t>
+            <t pos="Phrase">dohkh diekie</t>
             <xg>
                <x>Øynene beveger seg fram og tilbake.</x>
                <xt>Tjelmieh vååjnoeh dohkh diekie juhtieh.</xt>
@@ -2136,7 +2136,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="hit og dit 0b5d8e9f-b778-4dc1-bef9-c7475209ef76">
-            <t pos="Adv">dohk-diekie</t>
+            <t pos="Phrase">dohk-diekie</t>
             <xg>
                <x>Øynene beveger seg fram og tilbake.</x>
                <xt>Tjelmieh vååjnoeh dohkh diekie juhtieh.</xt>
@@ -2145,7 +2145,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="hit og dit d05e11eb-266b-4b51-b3bf-238656bf6348">
-            <t pos="Adv">dohkh diekie</t>
+            <t pos="Phrase">dohkh diekie</t>
             <xg>
                <x>Øynene beveger seg fram og tilbake.</x>
                <xt>Tjelmieh vååjnoeh dohkh diekie juhtieh.</xt>
@@ -2412,7 +2412,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Adv">først nå</l>
+         <l pos="Phrase">først nå</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="først nå b4188bfe-b5ac-4fb6-97ef-c3356e46d010">
@@ -2460,19 +2460,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="akkurat ec3f2069-f33a-4298-9a24-62c32dda9728">
             <t pos="Adv">eevre</t>
-            <xg>
-               <x>Lillebarnet blir aldeles trøtt av gåingen.</x>
-               <xt>Maanetje vaedtsiemistie eevre syjle.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="akkurat f3d09d9a-4080-4eb6-a792-64b6010688aa">
             <t pos="Adv">öövre</t>
-            <xg>
-               <x>Og så ble jeg helt alene.</x>
-               <xt>Jïh dellie manne öövre oktegh sjïdtim.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -2483,6 +2471,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="aldeles 4d2bbec9-285d-4f69-92b9-7da4b08298e5">
             <t pos="Adv">eevre</t>
+            <t pos="Adv">öövre</t>
             <xg>
                <x>Lillebarnet blir aldeles trøtt av gåingen.</x>
                <xt>Maanetje vaedtsiemistie eevre syjle.</xt>
@@ -2490,19 +2479,10 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="aldeles c47f312b-f889-48bc-acec-251caa3c0e08">
-            <t pos="Adv">öövre</t>
-            <xg>
-               <x>Og så ble jeg helt alene.</x>
-               <xt>Jïh dellie manne öövre oktegh sjïdtim.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
          <tg xml:lang="sma" tw_id="aldeles 88f3ac2e-2596-4213-9801-545b45f91b64">
             <t pos="Pcle">ov</t>
             <xg>
-               <x>Å så fin!</x>
+               <x>Aldeles fin!</x>
                <xt>Ov man tjaebpies!</xt>
             </xg>
          </tg>
@@ -2520,17 +2500,13 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="bestandig e87d3c8f-c7d9-4e95-a253-ff28b7d1149e">
             <t pos="Adv">iktegisth</t>
+            <t pos="Adv">iktesth</t>
             <xg>
                <x>Hun gjør det bestandig på samme måte.</x>
                <xt>Iktegisth seammalaakan dorje.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="bestandig a1ae0609-08f2-4aea-8b82-19fafaf92743">
-            <t pos="Adv">iktesth</t>
             <xg>
-               <x>Hun har alltid trodd at jeg kommer fra Snåsa.</x>
+               <x>Hun har bestandig trodd at jeg kommer fra Snåsa.</x>
                <xt>Dïhte iktesth vïenhteme manne Snåaseste båatam.</xt>
             </xg>
          </tg>
@@ -3253,7 +3229,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="parvis 8fe4bd41-6050-4d65-a872-718c0baaf6f5">
-            <t pos="Adv">gööktesi gööktesi</t>
+            <t pos="Phrase">gööktesi gööktesi</t>
             <xg>
                <x>De gikk parvis framover.</x>
                <xt>Gööktesi gööktesi åvtese veedtsin.</xt>
@@ -3267,7 +3243,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="to og to 257f184b-04f6-45d0-8eca-91dff3124b96">
-            <t pos="Adv">gööktesi gööktesi</t>
+            <t pos="Phrase">gööktesi gööktesi</t>
             <xg>
                <x>De gikk to og to framover.</x>
                <xt>Gööktesi gööktesi åvtese veedtsin.</xt>
@@ -3328,7 +3304,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="heldigvis 3ffa8997-d337-4c43-aaed-be741b8c7167">
-            <t pos="Adv">dellie maajetjh</t>
+            <t pos="Phrase">dellie maajetjh</t>
          </tg>
       </mg>
       <mg>
@@ -3789,7 +3765,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="i går a8a4338c-48a5-4ede-996b-f2dd016c56ae">
-            <t pos="Adv">don biejjien</t>
+            <t pos="Phrase">don biejjien</t>
          </tg>
       </mg>
    </e>
@@ -3894,7 +3870,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="hvorfor b44ba2a3-793c-4691-a685-fa7ffe97c2a0">
-            <t pos="Adv">man åvteste</t>
+            <t pos="Phrase">man åvteste</t>
          </tg>
       </mg>
    </e>
@@ -4103,7 +4079,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="noen ganger 78c1153f-6e2a-4dc8-8b3e-efd845a28c54">
-            <t pos="Adv">naan aejkien</t>
+            <t pos="Phrase">naan aejkien</t>
          </tg>
       </mg>
    </e>
@@ -6363,7 +6339,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="fra dag til dag 70778732-7b5b-43c4-af19-28a5d23fc6a6">
-            <t pos="Adv">biejjeste måbpan</t>
+            <t pos="Phrase">biejjeste måbpan</t>
          </tg>
       </mg>
    </e>
@@ -6373,7 +6349,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="så mye som helst f45bec8f-3efc-40ea-83eb-658f8103ba95">
-            <t pos="Adv">dan man jïjnjem</t>
+            <t pos="Phrase">dan man jïjnjem</t>
          </tg>
       </mg>
    </e>
@@ -6383,7 +6359,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="så mye 779b0060-2ccd-45ec-91db-c684e13f3b6b">
-            <t pos="Adv">dan man jïjnjem</t>
+            <t pos="Phrase">dan man jïjnjem</t>
          </tg>
       </mg>
    </e>
@@ -6393,7 +6369,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="alldeles 35306bb3-66b2-41c9-8ae0-781bea101063">
-            <t pos="Adv">dan soe</t>
+            <t pos="Phrase">dan soe</t>
          </tg>
       </mg>
    </e>
@@ -6403,7 +6379,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="endelig b3c56359-1cf3-4435-914c-eb6e7cee670c">
-            <t pos="Adv">dellie maajetjh</t>
+            <t pos="Phrase">dellie maajetjh</t>
          </tg>
       </mg>
       <mg>
@@ -6422,7 +6398,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="nå endelig 27559bb4-5b5e-4df9-b07c-aebeb5f51088">
-            <t pos="Adv">dellie maajetjh</t>
+            <t pos="Phrase">dellie maajetjh</t>
          </tg>
       </mg>
    </e>
@@ -6432,7 +6408,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="forrige dag 07e4d8e8-333c-449d-a7ac-153c7012f1f8">
-            <t pos="Adv">don biejjien</t>
+            <t pos="Phrase">don biejjien</t>
          </tg>
       </mg>
    </e>
@@ -6442,7 +6418,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="der borte på den andre siden 76e970fb-05af-4e48-9125-f7e538ad4ed2">
-            <t pos="Adv">dunnie bealesne</t>
+            <t pos="Phrase">dunnie bealesne</t>
          </tg>
       </mg>
    </e>
@@ -6452,7 +6428,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="her og der 69474ba2-18d1-477b-ac28-b8eb585bb3d5">
-            <t pos="Adv">dusnie daesnie</t>
+            <t pos="Phrase">dusnie daesnie</t>
          </tg>
       </mg>
    </e>
@@ -6462,47 +6438,47 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="overalt 34fbad16-aaad-48ff-bf8c-cbbc33a605d6">
-            <t pos="Adv">gaajhkene lehkesne</t>
+            <t pos="Phrase">gaajhkene lehkesne</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Adv">på mange steder</l>
+         <l pos="Phrase">på mange steder</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="på mange steder 20c4dd09-804f-4f03-8690-7a3efd07b0c3">
-            <t pos="Adv">gellene lehkesne</t>
+            <t pos="Phrase">gellene lehkesne</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Adv">i to</l>
+         <l pos="Phrase">i to</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="i to 20157e04-f802-405f-8c11-b5d7316cc034">
-            <t pos="Adv">guektien haerien</t>
+            <t pos="Phrase">guektien haerien</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Adv">utover våren</l>
+         <l pos="Phrase">utover våren</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="utover våren 621fa64a-454b-4f1f-9242-5dc169aa28f8">
-            <t pos="Adv">gïjre doekoe</t>
+            <t pos="Phrase">gïjre doekoe</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Adv">i to deler</l>
+         <l pos="Phrase">i to deler</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="i to deler fb3eec08-d87c-4220-b940-b544a35579c0">
-            <t pos="Adv">göökten haaran</t>
+            <t pos="Phrase">göökten haaran</t>
          </tg>
       </mg>
       <mg>
@@ -6513,31 +6489,31 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Adv">innen rekkevidde</l>
+         <l pos="Phrase">innen rekkevidde</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="innen rekkevidde 55911176-e5b1-4623-8a53-fb45454efd33">
-            <t pos="Adv">jakseme mieresne</t>
+            <t pos="Phrase">jakseme mieresne</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Adv">knapt nok</l>
+         <l pos="Phrase">knapt nok</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="knapt nok 63feae02-6963-45f0-b0fe-134aff28a92d">
-            <t pos="Adv">madtan laakan</t>
+            <t pos="Phrase">madtan laakan</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Adv">i hvilken hensikt</l>
+         <l pos="Phrase">i hvilken hensikt</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="i hvilken hensikt 52fe1af6-6d7e-4e0f-81d8-91a276f5b532">
-            <t pos="Adv">man gaavhtan</t>
+            <t pos="Phrase">man gaavhtan</t>
          </tg>
       </mg>
    </e>
@@ -6547,7 +6523,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="hva er i veien d71e8681-2b3d-4ddf-803f-80f8c03a2b29">
-            <t pos="A">mij faatoes</t>
+            <t pos="Phrase">mij faatoes</t>
          </tg>
       </mg>
    </e>
@@ -6557,7 +6533,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="altså 2db2ae44-5bb9-4eb7-97ff-c98a1ce878ce">
-            <t pos="Interj">novh amma</t>
+            <t pos="Phrase">novh amma</t>
          </tg>
       </mg>
       <mg>
@@ -6590,7 +6566,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="sannelig 4810039a-5c32-4222-9b9d-da1a6aa66304">
-            <t pos="Interj">novh amma</t>
+            <t pos="Phrase">novh amma</t>
          </tg>
       </mg>
       <mg>
@@ -6609,7 +6585,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="selvfølgelig 416c1a29-19c4-444f-b0f6-ee4bf41cbad6">
-            <t pos="Interj">novh hævvi</t>
+            <t pos="Phrase">novh hævvi</t>
             <t pos="Pcle">hævvi</t>
             <xg>
                <x>ja selvfølgelig</x>
@@ -6624,7 +6600,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="til forveksling 62acebe8-a0a7-4cb8-97ea-010c8113460a">
-            <t pos="Adv">vihth masten</t>
+            <t pos="Phrase">vihth masten</t>
          </tg>
       </mg>
    </e>
@@ -6634,7 +6610,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="i førstningen 095a407a-bd8e-4bfe-bb33-8b240239176e">
-            <t pos="Adv">voestes gietjeste</t>
+            <t pos="Phrase">voestes gietjeste</t>
          </tg>
       </mg>
    </e>
@@ -6735,7 +6711,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Adv">er det slik at</l>
+         <l pos="Phrase">er det slik at</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="er det slik at 128e5780-16ff-4d74-887f-bfcc1740f52a">
@@ -6778,17 +6754,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Adv">skal tro</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="skal tro 419dd8e6-f031-4ba8-9b04-0f6d32624272">
-            <t pos="Pcle">hogkh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">slik nå jeg forstår</l>
+         <l pos="Phrase">slik nå jeg forstår</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="slik nå jeg forstår 43109c47-6547-4f27-9cd6-b068824e346c">
@@ -6918,7 +6884,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Adv">der bortenfor</l>
+         <l pos="Phrase">der bortenfor</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="der bortenfor 88af16c9-7ed3-462c-a985-09533e854896">
@@ -6928,7 +6894,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Adv">der bortenfra</l>
+         <l pos="Phrase">der bortenfra</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="der bortenfra 9a4808c4-9f63-46b1-96dc-f072b94ab9a0">
@@ -6938,7 +6904,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Adv">i to retninger</l>
+         <l pos="Phrase">i to retninger</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="i to retninger 373ec68c-d88b-4efb-ab18-010ca54f4649">
@@ -6963,7 +6929,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Adv">borte i det fjerne</l>
+         <l pos="Phrase">borte i det fjerne</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="borte i det fjerne 5ab9fe58-dda0-4b0f-9782-317773c72dbf">
@@ -6987,8 +6953,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="V">ij gåessie</t>
-            <t pos="V">ij gåessie gænnah</t>
+            <t pos="Phrase">ij gåessie</t>
+            <t pos="Phrase">ij gåessie gænnah</t>
             <t type="grammar" href="https://oahpa.no/sma/gramm/adverb.nob.html#Tidsadverb">les i grammatikken</t>            
             <xg>
                <x>Jeg tenker aldri på den måten.</x>
