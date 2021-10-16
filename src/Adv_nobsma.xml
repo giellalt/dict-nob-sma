@@ -6983,24 +6983,35 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
+         <l pos="Adv">aldri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="V">ij gåessie</t>
+            <t pos="V">ij gåessie gænnah</t>
+            <t type="grammar" href="https://oahpa.no/sma/gramm/adverb.nob.html#Tidsadverb">les i grammatikken</t>            
+            <xg>
+               <x>Jeg tenker aldri på den måten.</x>
+               <xt>Im manne gåessie gænnah nimhtie ussjedh.</xt>
+            </xg>
+            <xg>
+               <x>De trodde på deg, du bedro dem aldri.</x>
+               <xt>Dutnjien jaehkiejin, idtjih datne dejtie gåessie gænnah biehtieh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="Adv">ikke</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="ikke fb0545ff-6781-420f-aaa4-65d0f556a02f">
             <t pos="V">ij</t>
+            <t type="grammar" href="https://oahpa.no/sma/gramm/verb.nob.html#Nektelse">les i grammatikken om nektelse</t>            
             <xg>
                <x>Hun kan ikke sy.</x>
                <xt>Ij dïhte maehtieh gåarodh.</xt>
-            </xg>
-         </tg>
-      </mg> 
-      <mg>
-         <tg xml:lang="sma" tw_id="ikke 83e5a10a-2f35-4d96-a314-d7f673140a06">
-            <t pos="V">ij</t>
-            <t type="grammar" href="https://oahpa.no/sma/gramm/verb.nob.html#Nektelse">les i grammatikken om nektelse</t>            
-            <xg>
-               <x>Jeg tenker aldri på den måten.</x>
-               <xt>Im manne gåessie gænnah nimhtie ussjedh.</xt>
             </xg>
             <xg>
                <x>Du veit ikke.</x>
@@ -7033,10 +7044,6 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Riktignok sa jeg det, men jeg bestilte det ikke.</x>
                <xt>Novh maaje dam jeehtim, mohte idtjim dængkoeh.</xt>
-            </xg>
-            <xg>
-               <x>De trodde på deg, du bedro dem aldri.</x>
-               <xt>Dutnjien jaehkiejin, idtjih datne dejtie gåessie gænnah biehtieh.</xt>
             </xg>
             <xg>
                <x>Vi to gikk ikke til fjells.</x>
