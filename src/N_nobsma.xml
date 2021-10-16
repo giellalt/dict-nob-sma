@@ -1843,21 +1843,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">sene på framsiden av reinens fot</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="sene på framsiden av reinens fot 44d127ec-9fcd-45b4-9888-45087ea4234a">
-            <t pos="N" soggi="a" stem="2syll">aanja</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="sene på framsiden av reinens fot 9c2d583e-87ac-4aaa-9d8d-26c122dfda90">
-            <t pos="N" soggi="e" stem="2syll">aanjasoene</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">tigger</l>
       </lg>
       <mg>
@@ -3480,6 +3465,12 @@ For the full license text, see the link above.</lic>
             <t pos="N" soggi="e" stem="2syll">baarkaldahke</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="den smale flettede enden av skobåndet ebb9be12-1406-4f03-aae6-393024263ba6">
+	         <re>den smale flettede enden av skobåndet</re>
+            <t pos="N" soggi="ie" stem="2syll">båelmie</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -3846,29 +3837,21 @@ For the full license text, see the link above.</lic>
          <l pos="N">parringstid</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="parringstid 176c6ae5-d8c4-4b6d-87e3-19646ac41fe6">
-            <t pos="N" soggi="e" stem="2syll">baevtieskïeredahke</t>
+         <tg xml:lang="sma" tw_id="parringstiden d84eeb53-d6ff-42fb-8576-67ad82fe0912">
+            <t pos="N" soggi="e" stem="2syll">skïeredahke</t>
+            <t margo="e" pos="N" soggi="e" stem="3syll">skïerede</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="parringstid f6ddd2fd-8b14-474c-acc0-b515c31616d7">
             <re>om rein</re>
             <t pos="N" soggi="e" stem="2syll">rïhkedahke</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="parringstid 2ee223e0-a7de-4f4a-9b8c-0e3880742b5e">
-            <re>om rein</re>
             <t margo="e" pos="N" soggi="e" stem="3syll">rïhkede</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">den mest aktive parringstiden, ved Mikkelsmesse 24. september</l>
-      </lg>
       <mg>
          <tg xml:lang="sma" tw_id="den mest aktive parringstiden, ved Mikkelsmesse 24. september 58bb0c1e-d6ca-4eda-82c5-23dd071aa223">
+	         <re>den mest aktive parringstiden, ved Mikkelsmesse 24. september</re>
             <t pos="N" soggi="e" stem="2syll">baevtieskïeredahke</t>
          </tg>
       </mg>
@@ -6448,16 +6431,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">den smale flettede enden av skobåndet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="den smale flettede enden av skobåndet ebb9be12-1406-4f03-aae6-393024263ba6">
-            <t pos="N" soggi="ie" stem="2syll">båelmie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">hæl</l>
       </lg>
       <mg>
@@ -7018,32 +6991,26 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="skinnspile 0cbde940-f81e-4d27-a6af-27a5de182600">
+	         <re>den nederste spilen som en setter fast i reinskinnet</re>
             <t pos="N" soggi="e" stem="2syll">bïhtemoere</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="skinnspile 28a6213c-763b-4e58-b61a-41216e3d89a3">
+	         <re>langsgående spile til spiling av skinn</re>
             <t pos="N" soggi="e" stem="2syll">goevtesmoere</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="skinnspile d12015b7-a1c8-4697-b1d1-317a70eeec49">
+	         <re>horisontal spile til skinn</re>
             <t pos="N" soggi="a" stem="2syll">klaapsaspaarra</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="skinnspile f63acd6e-7c8f-4434-aedc-38fc9818ecfa">
+	         <re>trespile som brukes langs hver side av skinnet ved spiling av skinn</re>
             <t pos="N" soggi="e" stem="2syll">saajkardahke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">den nederste spilen som en setter fast i reinskinnet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="den nederste spilen som en setter fast i reinskinnet 7fb6efa9-bc79-48e4-aded-1a8f550cf8e8">
-            <t pos="N" soggi="e" stem="2syll">bïhtemoere</t>
          </tg>
       </mg>
    </e>
@@ -7105,26 +7072,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="trekopp 4f334dc5-eb86-4a25-abef-e7cb61cb683b">
             <t pos="N" soggi="ie" stem="2syll">guksie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">reinflokk på 12-60 dyr</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="reinflokk på 12-60 dyr 8342606b-b66a-4210-a36d-ff66b769a8b9">
-            <t pos="N" soggi="e" stem="2syll">bïrhke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">reinflokk på 8-12 dyr</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="reinflokk på 8-12 dyr d2377e14-4367-4ab8-aa29-c6afc8fd1651">
-            <t margo="e" pos="N" soggi="e" stem="3syll">bïrhketje</t>
          </tg>
       </mg>
    </e>
@@ -7855,16 +7802,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="fjellkam mot horisonten f9c60c38-0ad6-476e-9f03-638c9bcb91c6">
-            <t margo="e" pos="N" soggi="e" stem="3syll">dalvese</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">det høyeste av et fjell</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="det høyeste av et fjell b05fa8ab-e161-4da8-881c-178816d5e5e2">
             <t margo="e" pos="N" soggi="e" stem="3syll">dalvese</t>
          </tg>
       </mg>
@@ -8724,6 +8661,12 @@ For the full license text, see the link above.</lic>
             <t pos="N" soggi="ie" stem="2syll">bïlsedueljie</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="spilt skinn med spiler i 2bff71ad-e49b-4b53-95be-cf7a373485e5">
+	         <re>spilt skinn med spiler i</re>
+            <t pos="N" soggi="ie" stem="2syll">tsagkeldhdueljie</t>
+         </tg>
+      </mg>
    </e>
     <e>
       <lg>
@@ -9126,23 +9069,61 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
+         <tg xml:lang="sma" tw_id="reinflokk ced0f9b2-e55f-4dff-a656-b69129e31391">
+            <t margo="e" pos="N" soggi="e" stem="3syll">jïelege</t>
+         </tg>
+      </mg>
+     <mg>
          <tg xml:lang="sma" tw_id="reinflokk 556ab9a2-368b-4701-8040-a819e5a30cf3">
             <t margo="e" pos="N" soggi="e" stem="3syll">gaaltenje</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="reinflokk ced0f9b2-e55f-4dff-a656-b69129e31391">
-            <t margo="e" pos="N" soggi="e" stem="3syll">jïelege</t>
-         </tg>
-      </mg>
-      <mg>
          <tg xml:lang="sma" tw_id="reinflokk a44c9c06-fc52-450d-ba75-9ccc0eb0aa8b">
             <t pos="N">kreavve</t>
+            <t pos="N" soggi="e" stem="2syll">krïevve</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="reinflokk 6ed38cb5-e9c0-4081-a9fb-7e04b59fc948">
-            <t pos="N" soggi="e" stem="2syll">krïevve</t>
+         <tg xml:lang="sma" tw_id="stor reinflokk 224495f9-0b84-4e61-a1f4-d0fc0be073ef">
+	         <re>stor reinflokk</re>
+            <t pos="N">rabre</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="reinflokk på 20-30 dyr cfacd4b7-8a8d-4390-821a-2c4d0368874e">
+	         <re>reinflokk på 20-30 dyr</re>
+            <t pos="N" soggi="e" stem="2syll">tjomhpe</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="reinflokk på 12-60 dyr 8342606b-b66a-4210-a36d-ff66b769a8b9">
+	         <re>reinflokk på 12-60 dyr</re>
+            <t pos="N" soggi="e" stem="2syll">bïrhke</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="reinflokk på 8-12 dyr d2377e14-4367-4ab8-aa29-c6afc8fd1651">
+	         <re>reinflokk på 8-12 dyr</re>
+            <t margo="e" pos="N" soggi="e" stem="3syll">bïrhketje</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="hannreinflokk 70dae481-c523-4d9a-ae4d-6347d3327f46">
+	         <re>hannreinflokk</re>
+            <t pos="N" soggi="a" stem="2syll">årra</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="liten reinflokk med hannrein 8801549b-86ea-4202-adc4-521cc58c8e06">
+	         <re>liten reinflokk med hannrein</re>
+            <t pos="N">årrabïrhke</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="den fremste del av reinflokken 2e30f2da-121d-4ad1-94b3-2739e17e927b">
+	         <re>fremste del av reinflokken</re>
+            <t margo="e" pos="N" soggi="ie" stem="3syll">njuenehke</t>
          </tg>
       </mg>
    </e>
@@ -12168,6 +12149,12 @@ For the full license text, see the link above.</lic>
             <t pos="N" soggi="e" stem="2syll">gamhtse</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="den ene hansken bc2d7d27-4096-4ccc-a89f-20755a358fbf">
+	         <re>den ene hansken</re>
+            <t pos="N" soggi="ie" stem="2syll">gamhtsebielie</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -13597,16 +13584,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">langsgående spile til spiling av skinn</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="langsgående spile til spiling av skinn 6642a77f-4186-49e1-bda3-adc9e2406436">
-            <t pos="N" soggi="e" stem="2syll">goevtesmoere</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">kvalme</l>
       </lg>
       <mg>
@@ -14211,16 +14188,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">den innerste del av tykktarmen nærmest småtarmene på reinslakt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="den innerste del av tykktarmen nærmest småtarmene på reinslakt 7657a37b-0e5b-40bb-844a-25c4cd14b8dd">
-            <t pos="N" soggi="ie" stem="2syll">guhkiesbuejtie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">sprekk mellom snøbre og fjell</l>
       </lg>
       <mg>
@@ -14660,11 +14627,17 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">tykktarmen</l>
+         <l pos="N">tykktarm</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="tykktarmen 32c8119f-1be2-4142-8878-a989cb6c1250">
             <t pos="N" soggi="e" stem="2syll">gåamalohke</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="den innerste del av tykktarmen nærmest småtarmene på reinslakt 7657a37b-0e5b-40bb-844a-25c4cd14b8dd">
+	         <re>den innerste del av tykktarmen nærmest småtarmene på reinslakt</re>
+            <t pos="N" soggi="ie" stem="2syll">guhkiesbuejtie</t>
          </tg>
       </mg>
    </e>
@@ -15252,6 +15225,12 @@ For the full license text, see the link above.</lic>
             <t pos="N" soggi="e" stem="2syll">soene</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="den tynne enden på ferdigspunnet sener a52d19a6-088e-4b12-bf37-56d3c9ac9ed4">
+	         <re>den tynne enden på ferdigspunnet sener</re>
+            <t pos="N" soggi="ie" stem="2syll">sjelmiegietjie</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -15272,6 +15251,25 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma" tw_id="alle fotsener av en rein 873cfc14-9046-490c-858d-0b04897aa479">
 	         <re>alle fotsener av en rein</re>
             <t margo="e" pos="N" soggi="a" stem="3syll">soenegadtere</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="sene med beinknapp i bakre leggbein 5b671616-3021-44e3-bf44-ce1c3bc8a359">
+	         <re>sene med beinknapp i bakre leggbein</re>
+            <t pos="N" soggi="e" stem="2syll">veanasoene</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="sene på framsiden av reinens fot 44d127ec-9fcd-45b4-9888-45087ea4234a">
+	         <re>sene på framsiden av reinens fot</re>
+            <t pos="N" soggi="a" stem="2syll">aanja</t>
+            <t pos="N" soggi="e" stem="2syll">aanjasoene</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="den dypere bøyesenen på reinens bakfot c06e869a-8369-4686-9b90-c3b9376284a4">
+	         <re>den dypere bøyesenen på reinens bakfot</re>
+            <t margo="e" pos="N" soggi="e" stem="3syll">gïeltege</t>
          </tg>
       </mg>
    </e>
@@ -15624,16 +15622,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="stemmebruk 9fc62038-af02-459b-8c01-ae961c46861b">
             <t pos="N" soggi="oe" stem="2syll">gïeleåtnoe</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">den dypere bøyesenen på reinens bakfot</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="den dypere bøyesenen på reinens bakfot c06e869a-8369-4686-9b90-c3b9376284a4">
-            <t margo="e" pos="N" soggi="e" stem="3syll">gïeltege</t>
          </tg>
       </mg>
    </e>
@@ -16263,17 +16251,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="skinnspilepinner 4acd6bb9-b1fb-4dbd-8dd1-02e857792321">
+	         <re>pinner som brukes for å spile ut skinn på bakken</re>
             <t nr="Pl" pos="N" stem="2syll">haelieh</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">pinner som brukes for å spile ut skinn på bakken</l>
-      </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="pinner som brukes for å spile ut skinn på bakken 633e2118-b4dd-4d44-8b5c-52c6dd4b7d1f">
-            <t nr="Pl" pos="N" stem="2syll">haelieh</t>
+         <tg xml:lang="sma" tw_id="den fremste av stengene som et skinn spiles på f7dcf5c1-3652-4aef-b743-95cd16804ca3">
+	         <re>den fremste av stengene som et skinn spiles på</re>
+            <t pos="N" soggi="e" stem="2syll">åejjiemoere</t>
          </tg>
       </mg>
    </e>
@@ -17971,7 +17956,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">det å komme fram</l>
+         <l pos="N">ankomst</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="det å komme fram 889af967-f8b6-452f-9cf2-1c3149315b15">
@@ -19164,16 +19149,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="skistav 61f27bb3-9539-40a8-8c9e-27c86f4435b0">
             <t pos="N" soggi="a" stem="2syll">klaahka</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">vanlig horisontal spile til skinn</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="vanlig horisontal spile til skinn 32abd948-e339-49c0-a748-13d30ea4829d">
-            <t pos="N" soggi="a" stem="2syll">klaapsaspaarra</t>
          </tg>
       </mg>
    </e>
@@ -22540,6 +22515,12 @@ For the full license text, see the link above.</lic>
             <t pos="N" soggi="e" stem="2syll">kruemie</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="det tynne av blodet efb600a1-dbf3-48a0-9734-e8470fc267d7">
+             <re>det tynne av blodet</re>
+           <t pos="N" soggi="ie" stem="2syll">ruerhkie</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -24416,16 +24397,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">den fremste del av reinflokken</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="den fremste del av reinflokken 2e30f2da-121d-4ad1-94b3-2739e17e927b">
-            <t margo="e" pos="N" soggi="ie" stem="3syll">njuenehke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">nese</l>
       </lg>
       <mg>
@@ -25680,10 +25651,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">den ytterste tarmen med tynt innhold</l>
+         <l pos="N">tarm</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="den ytterste tarmen med tynt innhold 039c3b5d-eab4-4842-bbfc-1e060e8539aa">
+	         <re>den ytterste tarmen med tynt innhold</re>
             <t pos="N" soggi="e" stem="3syll">raadtehts</t>
          </tg>
       </mg>
@@ -25877,16 +25849,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma" tw_id="røye a7e12e54-8e1a-4238-ba94-5db037efa87a">
             <re>fisk</re>
             <t pos="N" soggi="e" stem="2syll">raavre</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">stor reinflokk</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="stor reinflokk 224495f9-0b84-4e61-a1f4-d0fc0be073ef">
-            <t pos="N">rabre</t>
          </tg>
       </mg>
    </e>
@@ -26455,16 +26417,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">det tynne av blodet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="det tynne av blodet efb600a1-dbf3-48a0-9734-e8470fc267d7">
-            <t pos="N" soggi="ie" stem="2syll">ruerhkie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">jern</l>
       </lg>
       <mg>
@@ -26876,16 +26828,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="sendebud c11f042b-4079-48da-8b1c-eac942ac2638">
             <t margo="e" pos="N" soggi="e" stem="3syll">saadthalmetje</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">trespile som brukes langs hver side av skinnet ved spiling av skinn</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="trespile som brukes langs hver side av skinnet ved spiling av skinn 29236ac2-df6e-4751-a74a-3651506089d8">
-            <t pos="N" soggi="e" stem="2syll">saajkardahke</t>
          </tg>
       </mg>
    </e>
@@ -27310,16 +27252,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="død f54d1376-ba8b-4f51-888f-87ff37f1af1e">
-            <t pos="N" soggi="ie" stem="2syll">sealadimmie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">det å dø</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="det å dø 88dfcdb6-8dc3-4756-ac03-c989d3d21802">
             <t pos="N" soggi="ie" stem="2syll">sealadimmie</t>
          </tg>
       </mg>
@@ -28803,21 +28735,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">parringstiden</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="parringstiden d84eeb53-d6ff-42fb-8576-67ad82fe0912">
-            <t pos="N" soggi="e" stem="2syll">skïeredahke</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="parringstiden 64698655-7c45-405b-9b5c-e5a6bd767b57">
-            <t margo="e" pos="N" soggi="e" stem="3syll">skïerede</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">grarein som har feiet hornene</l>
       </lg>
       <mg>
@@ -29660,6 +29577,30 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="spile ab5db876-b46d-4d39-aa4b-6fd072555282">
             <t pos="N" soggi="a" stem="2syll">spaarra</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="skinnspile 0cbde940-f81e-4d27-a6af-27a5de182600">
+	         <re>den nederste spilen som en setter fast i reinskinnet</re>
+            <t pos="N" soggi="e" stem="2syll">bïhtemoere</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="skinnspile 28a6213c-763b-4e58-b61a-41216e3d89a3">
+	         <re>langsgående spile til spiling av skinn</re>
+            <t pos="N" soggi="e" stem="2syll">goevtesmoere</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="skinnspile d12015b7-a1c8-4697-b1d1-317a70eeec49">
+	         <re>horisontal spile til skinn</re>
+            <t pos="N" soggi="a" stem="2syll">klaapsaspaarra</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="skinnspile f63acd6e-7c8f-4434-aedc-38fc9818ecfa">
+	         <re>trespile som brukes langs hver side av skinnet ved spiling av skinn</re>
+            <t pos="N" soggi="e" stem="2syll">saajkardahke</t>
          </tg>
       </mg>
    </e>
@@ -31432,13 +31373,20 @@ For the full license text, see the link above.</lic>
          <l pos="N">fjell</l>
       </lg>
       <mg>
+         <tg xml:lang="sma" tw_id="fjell 953ade68-d6cd-4412-8144-aafc8803b7e4">
+            <t pos="N" soggi="ie" stem="2syll">vaerie</t>
+         </tg>
+      </mg>
+      <mg>
          <tg xml:lang="sma" tw_id="fjell 57b05700-c18b-460c-af58-63711d730e75">
+	         <re>fjelltopp</re>
             <t pos="N" soggi="e" stem="2syll">tjahke</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="fjell 953ade68-d6cd-4412-8144-aafc8803b7e4">
-            <t pos="N" soggi="ie" stem="2syll">vaerie</t>
+         <tg xml:lang="sma" tw_id="det høyeste av et fjell b05fa8ab-e161-4da8-881c-178816d5e5e2">
+	         <re>det høyeste av et fjell</re>
+            <t margo="e" pos="N" soggi="e" stem="3syll">dalvese</t>
          </tg>
       </mg>
    </e>
@@ -32139,16 +32087,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="hånk 0b807927-eb54-449f-888e-af92cbe3ca67">
-            <t pos="N" soggi="e" stem="2syll">tjomhpe</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">reinflokk på 20-30 dyr</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="reinflokk på 20-30 dyr cfacd4b7-8a8d-4390-821a-2c4d0368874e">
             <t pos="N" soggi="e" stem="2syll">tjomhpe</t>
          </tg>
       </mg>
@@ -32990,16 +32928,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="kaffekjøtt f072ff82-5290-45fd-a86d-dcc8fd500e09">
             <t pos="N" soggi="e" stem="2syll">tsaapestahke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">spilt skinn med spiler i</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="spilt skinn med spiler i 2bff71ad-e49b-4b53-95be-cf7a373485e5">
-            <t pos="N" soggi="ie" stem="2syll">tsagkeldhdueljie</t>
          </tg>
       </mg>
    </e>
@@ -34075,16 +34003,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">sene med beinknapp i bakre leggbein</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="sene med beinknapp i bakre leggbein 5b671616-3021-44e3-bf44-ce1c3bc8a359">
-            <t pos="N" soggi="e" stem="2syll">veanasoene</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">antagelse</l>
       </lg>
       <mg>
@@ -35152,10 +35070,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">det man streber mot</l>
+         <l pos="N">målsetning</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="det man streber mot 88f2f794-367c-4df4-a593-d265c1b69229">
+	         <re>det man streber mot</re>
             <t pos="N" soggi="ie" stem="2syll">vuepsie</t>
          </tg>
       </mg>
@@ -35823,16 +35742,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">den fremste av stengene som et skinn spiles på</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="den fremste av stengene som et skinn spiles på f7dcf5c1-3652-4aef-b743-95cd16804ca3">
-            <t pos="N" soggi="e" stem="2syll">åejjiemoere</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">overhode</l>
       </lg>
       <mg>
@@ -36221,26 +36130,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="hannrein ec32d2f8-ae7c-4fce-b5b1-dd3322e9a6e4">
             <t pos="N" soggi="a" stem="2syll">årra</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">hannreinflokk</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="hannreinflokk 70dae481-c523-4d9a-ae4d-6347d3327f46">
-            <t pos="N" soggi="a" stem="2syll">årra</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">liten reinflokk med hannrein</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="liten reinflokk med hannrein 8801549b-86ea-4202-adc4-521cc58c8e06">
-            <t pos="N">årrabïrhke</t>
          </tg>
       </mg>
    </e>
@@ -37763,16 +37652,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">den ene hansken</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="den ene hansken bc2d7d27-4096-4ccc-a89f-20755a358fbf">
-            <t pos="N" soggi="ie" stem="2syll">gamhtsebielie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">belte av skinnsnor</l>
       </lg>
       <mg>
@@ -38528,16 +38407,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">den tynne enden på ferdigspunnet sener</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="den tynne enden på ferdigspunnet sener a52d19a6-088e-4b12-bf37-56d3c9ac9ed4">
-            <t pos="N" soggi="ie" stem="2syll">sjelmiegietjie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">jern til å lage spon med</l>
       </lg>
       <mg>
@@ -38588,11 +38457,30 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">slak sikksakkbord</l>
+         <l pos="N">sikksakkbord</l>
       </lg>
       <mg>
+         <tg xml:lang="sma" tw_id="bratt sikksakkbord a03db943-f42c-4611-947a-f89b0338808d">
+	         <re>bratt sikksakkbord</re>
+            <t pos="N" soggi="ie" stem="2syll">tseagkoehkråevvie</t>
+         </tg>
+      </mg>
+      <mg>
          <tg xml:lang="sma" tw_id="slak sikksakkbord cb2b52b0-1116-425c-9c5b-9a3c298919e1">
+	         <re>slak sikksakkbord</re>
             <t pos="N" soggi="ie" stem="2syll">slapmoehkråevvie</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="sikksakkbord sydd med avvikende farge c70f5ace-8fa5-4d7e-99b2-585208752b0c">
+	         <re>sikksakkbord sydd med avvikende farge</re>
+            <t pg="no" pos="N" soggi="e" stem="3syll">tjalmeldh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="den gule sikksakkborden på budtesdahke 56afcfb2-3725-4c2a-a9aa-25ca476bcbf3">
+	         <re>gul sikksakkbord på budtesdahke</re>
+            <t margo="e" pos="N" soggi="e" stem="3syll">tjalmeme</t>
          </tg>
       </mg>
    </e>
@@ -38793,30 +38681,10 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">sikksakkbord sydd med avvikende farge</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="sikksakkbord sydd med avvikende farge c70f5ace-8fa5-4d7e-99b2-585208752b0c">
-            <t pg="no" pos="N" soggi="e" stem="3syll">tjalmeldh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">kantbord med klipte hakk</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="kantbord med klipte hakk 87e938c6-58b8-4049-825e-0e66e30605a7">
-            <t margo="e" pos="N" soggi="e" stem="3syll">tjalmeme</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">den gule sikksakkborden på budtesdahke</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="den gule sikksakkborden på budtesdahke 56afcfb2-3725-4c2a-a9aa-25ca476bcbf3">
             <t margo="e" pos="N" soggi="e" stem="3syll">tjalmeme</t>
          </tg>
       </mg>
@@ -38903,16 +38771,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="materiale til ski 018c9166-40ac-4099-8eaa-f7e6c2a74b14">
             <t margo="e" pos="N" soggi="a" stem="3syll">treavkese</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">bratt sikksakkbord</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="bratt sikksakkbord a03db943-f42c-4611-947a-f89b0338808d">
-            <t pos="N" soggi="ie" stem="2syll">tseagkoehkråevvie</t>
          </tg>
       </mg>
    </e>
