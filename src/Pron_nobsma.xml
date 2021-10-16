@@ -234,18 +234,10 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="Dem">deres</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="deres cdd3cd77-b188-4113-88ca-c3dedf26662c">
-            <t pos="Pron" type="Dem">dej</t>
-            <xg>
-               <x>Jeg måtte natt og dag være i nærheten av de reinsimlene.</x>
-               <xt>Tjïehtim jïjjh biejjieh dej aaltoej lïhke.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
          <tg xml:lang="sma" tw_id="deres c92bcea1-a958-4c8c-b2f1-3f394e32a970">
-            <re>om to, 2. person</re>
+            <re>2. person, om to personer</re>
             <t pos="Pron" type="Pers">dotnen</t>
+         <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les om bruken</t>            
             <xg>
                <x>Er det deres barn?</x>
                <xt>Dotnen maana dïhte?</xt>
@@ -274,13 +266,8 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="deres 16910cb5-16df-44cc-868d-671f78192eb0">
-            <re>om to, 3. person</re>
+            <re>3. person, om to personer</re>
             <t pos="Pron" type="Pers">daj guaktaj</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="deres a7f5683f-7d71-44e2-ba2c-1a0edb404915">
-            <re>om to, 3. person</re>
             <t pos="Pron" type="Pers">dej guaktaj</t>
          </tg>
       </mg>
@@ -292,111 +279,30 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="denne 336ab643-ab50-47fb-826e-7fb53b4ce83f">
             <t pos="Pron" type="Dem">daate</t>
+            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#P%C3%A5pekende+pronomen">les om bruken</t>            
             <xg>
-               <x>Dette huset er mitt.</x>
-               <xt>Daate gåetie lea mov.</xt>
+               <x>Denne/Dette passer nok.</x>
+               <xt>Daate gujht sjeahta.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="denne 176165b1-e4ad-4e55-9ee0-887a5e6af4b1">
-            <t pos="Pron" type="Dem">daam</t>
             <xg>
-               <x>Dette huset har jeg kjøpt.</x>
-               <xt>Daam gåetiem leam åasteme.</xt>
+               <x>Jeg vil ikke ta på meg denne/dette.</x> 
+               <xt>Im sïjhth daam tsaekedh.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="denne 290f58d5-c8c1-4ac3-ba4d-4b53f10bddfb">
-            <t pos="Pron" type="Dem">daan</t>
+            <xg>
+               <x>Går det bra å kjøre med denne bilen?</x>
+               <xt>Hijven gåarede daejnie bïjline vuejedh?</xt>
+            </xg>
             <xg>
                <x>Dette huset har to dører og tre vinduer.</x>
                <xt>Daan gåetien göökte oksh jïh golme klaash.</xt>
             </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Dem">til denne</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="til denne 5a9c75a0-2b17-449d-a0c5-daf960631bb5">
-            <t pos="Pron" type="Dem">daan</t>
             <xg>
                <x>Til dette huset flyttet jeg i fjor.</x>
                <xt>Daan gåatan dæjman juhtiejim.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="til denne 89695de7-2aed-478a-ad3f-9ab6816d1ec6">
-            <t pos="Pron" type="Dem">daase</t>
             <xg>
                <x>Til dette flyttet jeg i fjor.</x>
                <xt>Daase dæjman juhtiejim.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Dem">i denne</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="i denne 5f3eca16-617d-4f49-b0d4-d4f779b75a3e">
-            <t pos="Pron" type="Dem">daesnie</t>
-            <xg>
-               <x>Til dette flyttet jeg i fjor.</x>
-               <xt>Daase dæjman juhtiejim.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="i denne d67e26e4-5caa-4c22-ae80-a321cd9b206d">
-            <t pos="Pron" type="Dem">daennie</t>
-            <xg>
-               <x>I dette huset trives jeg.</x>
-               <xt>Daennie gåetesne murredem.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="i denne b5648131-821c-4d4e-b791-593da6a1cd4b">
-            <t nr="Pl" pos="Pron" type="Dem">daejnie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Dem">fra denne</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="fra denne 5ef96528-2ac1-45f9-aece-e74cbbe242a7">
-            <t pos="Pron" type="Dem">daestie</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="fra denne d288224a-130d-416f-b180-d3f9d7e84f54">
-            <t pos="Pron" type="Dem">daehtie</t>
-            <xg>
-               <x>Fra dette huset er det langt til byen.</x>
-               <xt>Daehtie gåeteste lea gåhkese staarese.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Dem">med denne</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="med denne 853c718f-8845-497d-90c9-37fcb2aa843c">
-            <t nr="Sg" pos="Pron" type="Dem">daejnie</t>
-            <xg>
-               <x>Med dette huset berges jeg lenge.</x>
-               <xt>Daejnie gåetine guhkiem bearkedem.</xt>
             </xg>
          </tg>
       </mg>
@@ -412,106 +318,21 @@ For the full license text, see the link above.</lic>
                <x>Disse vottene er mine.</x>
                <xt>Daah vaanhtsh leah mov.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="disse a44184f8-84cf-4748-b0bf-aff573e9239e">
-            <t pos="Pron" type="Dem">daejtie</t>
             <xg>
-               <x>Disse vottene kjøpte jeg i fjor.</x>
-               <xt>Daejtie vaanhtside dæjman ööstim.</xt>
+               <x>Se på disse!</x>
+               <xt>Vuartesjh daejtie!</xt>
             </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Dem">til disse</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="til disse 13f06a05-2917-4332-978a-f0326a58b4d9">
-            <t pos="Pron" type="Dem">daejtie</t>
             <xg>
                <x>Jeg skal sy lommer i disse buksene.</x>
                <xt>Manne edtjem daejtie måvhkide låammah gåarodh.</xt>
             </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Dem">disses</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="disses 83c35d13-fcf3-48d7-8a69-9850310b0732">
-            <t pos="Pron" type="Dem">daaj</t>
             <xg>
                <x>Disse vottene har dusker på hver finger!</x>
                <xt>Daaj vaanhtsi leah duahpah fïereguhtine soermine!</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="disses 93cdd932-2a02-4b86-9f27-7ddb0ba0530b">
-            <t pos="Pron" type="Dem">daej</t>
-            <xg>
-               <x>Disse vottene har dusker på hver finger!</x>
-               <xt>Daej vaanhtsi leah duahpah fïereguhtine soermine!</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Dem">med disse</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="med disse d3613ed4-1da2-485a-8dd5-064ba3a76d46">
-            <t pos="Pron" type="Dem">daaj</t>
             <xg>
                <x>Jeg berges lenge med disse vottene.</x>
                <xt>Daaj vaanhtsigujmie guhkiem bearkedem.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="med disse 1a47db74-62de-44ba-b0cc-3c71ac41470d">
-            <t pos="Pron" type="Dem">daej</t>
-            <xg>
-               <x>Jeg berges lenge med disse vottene.</x>
-               <xt>Daej vaanhtsigujmie guhkiem bearkedem.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="med disse a0b9e776-846d-4779-9eca-7d4c4b0ce8f0">
-            <t pos="Pron" type="Dem">daajgujmie</t>
-            <xg>
-               <x>Jeg drar hjem med disse.</x>
-               <xt>Manne gåatan vualkam daajgujmie.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="med disse 7bfd911d-f576-45b8-b890-f94aff9659bc">
-            <t pos="Pron" type="Dem">daejgujmie</t>
-            <xg>
-               <x>Jeg drar hjem med disse.</x>
-               <xt>Manne gåatan vualkam daejgujmie.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Dem">fra disse</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="fra disse f4145807-93a1-48a9-83e1-130fe20f18be">
-            <t pos="Pron" type="Dem">daejstie</t>
-            <xg>
-               <x>Fra disse husene er det ganske langt til butikken.</x>
-               <xt>Daejstie gåetijste lea naa gåhkese bovrese.</xt>
             </xg>
          </tg>
       </mg>
@@ -527,308 +348,22 @@ For the full license text, see the link above.</lic>
                <x>Jeg har ikke slik bil.</x>
                <xt>Ij mov leah dagkeres bïjle.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="slik 55ee2b2c-f99a-42e1-9589-8c666e319ce0">
-            <t pos="Pron" type="Dem">dagkere</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="slik 87b0b7da-282b-4313-aef1-3008f40ea091">
-            <t pos="Pron" type="Dem">dagkerem</t>
             <xg>
                <x>Birje bør få en slik gave.</x>
                <xt>Birje byöroe dagkerem vadtesem åadtjodh.</xt>
             </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">en slik en</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="en slik en 63df2e22-8ae9-499f-a9f4-ef4fdc051803">
-            <t pos="Pron" type="Dem">dagkerem</t>
-            <xg>
-               <x>Birje bør få en slik gave.</x>
-               <xt>Birje byöroe dagkerem vadtesem åadtjodh.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">en slik ens</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="en slik ens 1b82f663-f631-4305-abd1-e56805c71f09">
-            <t pos="Pron" type="Dem">dagkeren</t>
             <xg>
                <x>Så kan hvem som helst tenke på hvor mye arbeid det er før en slik konferanse.</x>
                <xt>Dellie fïereguhte maahta ussjedalledh, man jïjnje barkoe lea dagkeren konferansen åvtelen.</xt>
             </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">til en slik</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="til en slik 774d2701-7e0e-4f8a-8c94-0a533e85373e">
-            <t pos="Pron" type="Dem">dagkarasse</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">i en slik</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="i en slik a3c4b78e-9468-4aec-9689-7e7ead837aef">
-            <t pos="Pron" type="Dem">dagkarisnie</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="i en slik 10d9ba06-cd1d-44ab-aced-20724aaf4fc2">
-            <t pos="Pron" type="Dem" case="ine">dagkarinie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">med en slik</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="med en slik 3a91e255-2ba8-4259-acca-29551a879a91">
-            <t pos="Pron" type="Dem" case="ine">dagkarinie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">av en slik</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="av en slik 910b2046-54ab-41d5-a13e-dbc30a8f158e">
-            <t pos="Pron" type="Dem">dagkaristie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">slike</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="slike 380a1eeb-7bfe-4b86-aa2f-b4afa783b9b3">
-            <t pos="Pron" type="Dem">dagkerh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="slike 66076a4b-fd84-4e7f-a829-6f58b764bf1f">
-            <t pos="Pron" type="Dem">dagkaridie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">til slike</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="til slike b99a978d-b2b5-47ae-b5b0-f25b49dec14d">
-            <t pos="Pron" type="Dem">dagkaridie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">slikes</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="slikes 624e76e5-b104-4b79-aa52-baf0a73f5209">
-            <t pos="Pron" type="Dem">dagkeri</t>
             <xg>
                <x>Med slike ski er det spesielt bra å gå på ski.</x>
                <xt>Dagkeri treavkajgujmie joekoen hijven tjoejkedh.</xt>
             </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">i slike</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="i slike d8e061cc-cd84-429f-8b72-6e325bd23904">
-            <re>om flere</re>
-            <t pos="Pron" type="Dem">dagkarijnie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">av slike</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="av slike ff6c03a8-3b92-4a19-9ac2-d4b48658eaa2">
-            <t pos="Pron" type="Dem">dagkarijstie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">med slike</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="med slike e2923b4e-3db4-4d3d-9f3f-32834b40d695">
-            <t pos="Pron" type="Dem">dagkerigujmie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">slik som denne</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="slik som denne ea6e751e-3055-4fc9-82b3-b836b091ea52">
-            <t pos="Pron" type="Dem">daagkeres</t>
             <xg>
                <x>Jeg tenker i hvert fall at det ikke er riktig å kjøre så fort der hvor det er så dårlig vei som dette.</x>
                <xt>Manne gujht ussjedem, ij leah reaktoe daan varki vuejedh gosse daagkeres geajnoe.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="slik som denne a373c0fc-858b-4cfd-98f4-484effd1b642">
-            <t pos="Pron" type="Dem">daagkere</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="slik som denne bbeb1a95-1a0d-49d3-84c1-c1e6273a1f76">
-            <t pos="Pron" type="Dem">daagkerem</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">slik som dennes</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="slik som dennes 8b8416ca-ccfc-4614-9721-6529970092ef">
-            <t pos="Pron" type="Dem">daagkeren</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">til en slik som denne</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="til en slik som denne 07cdee89-4a02-49bc-a431-596a73a9a486">
-            <t pos="Pron" type="Dem">daagkarasse</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">i en slik som denne</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="i en slik som denne 25d35b72-6dcb-4dde-bb83-01e1ed6f3e71">
-            <t pos="Pron" type="Dem">daagkarisnie</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="i en slik som denne dee626db-8356-440a-a16e-b5f07a7c28f0">
-            <t pos="Pron" type="Dem" case="ine">daagkarinie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">med en slik som denne</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="med en slik som denne 2d518b37-3085-4700-b691-1e4a9d912b34">
-            <t pos="Pron" type="Dem" case="ine">daagkarinie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">av en slik som denne</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="av en slik som denne 3f0b96a5-6d68-4515-834e-25d8e5ecf09b">
-            <t pos="Pron" type="Dem">daagkaristie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">slike som disse</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="slike som disse a561e8a9-fb67-47e3-9c21-843909f6ef23">
-            <t pos="Pron" type="Dem">daagkerh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="slike som disse 72f10b4e-e386-4327-8e5d-49a54986827c">
-            <t pos="Pron" type="Dem">daagkaridie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">til slike som disse</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="til slike som disse 8b0d5b3f-931d-4f2f-8589-7a960f38bcc9">
-            <re>om flere</re>
-            <t pos="Pron" type="Dem">daagkaridie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">slike som disses</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="slike som disses f9815a80-6c20-4bea-ab6f-99007a88e243">
-            <t pos="Pron" type="Dem">daagkeri</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">i slike som disse</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="i slike som disse ecdee22e-a6f6-4904-b96d-b13532845227">
-            <t pos="Pron" type="Dem">daagkarijnie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">av slike som disse</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="av slike som disse 14f16164-f3c5-44aa-9ad0-3b1b672b8da0">
-            <t pos="Pron" type="Dem">daagkarijstie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">med slike som disse</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="med slike som disse 34d3bc50-3582-431d-b51c-9b6995fbf56a">
-            <t pos="Pron" type="Dem">daagkerigujmie</t>
          </tg>
       </mg>
    </e>
@@ -839,278 +374,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="slik som den der borte c3e9352d-7a36-411c-ab04-d4d214bbbdc3">
             <t pos="Pron" type="Dem">dogkeres</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="slik som den der borte b2d51ee9-e3a3-4800-a690-e162700f896c">
-            <t pos="Pron" type="Dem">dogkere</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="slik som den der borte c06949b0-24f8-4ecb-8b7d-1358a0de9920">
-            <t pos="Pron" type="Dem">dogkerem</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">slik som den der bortes</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="slik som den der bortes 68db1ff0-cacc-4980-887e-b001a58e4c5b">
-            <t pos="Pron" type="Dem">dogkeren</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">til slik som den der borte</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="til slik som den der borte 02709383-6cf3-4410-a221-01207f0f01dd">
-            <t pos="Pron" type="Dem">dogkarasse</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">i slik som den der borte</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="i slik som den der borte 64e9b7bb-ba5d-46e5-a1a4-cc2d38dbfaee">
-            <t pos="Pron" type="Dem">dogkarisnie</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="i slik som den der borte 2226a94c-32bd-49c1-a3b8-7b1b2a485bec">
-            <t pos="Pron" type="Dem" case="ine">dogkarinie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">med slik som den der borte</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="med slik som den der borte d7cec054-7b60-4ced-b388-7e1aa5651c90">
-            <t pos="Pron" type="Dem" case="ine">dogkarinie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">av slik som den der borte</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="av slik som den der borte c53e8c60-0a66-4a05-98d4-a84efc3b74e8">
-            <t pos="Pron" type="Dem">dogkaristie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">slike som de der borte</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="slike som de der borte 7dd0ed8c-9294-484c-be51-b6f281030ba3">
-            <t pos="Pron" type="Dem">dogkerh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="slike som de der borte 93c92e81-b9a4-46ed-83f6-3901cedcb889">
-            <t pos="Pron" type="Dem">dogkaridie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">til slike som de der borte</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="til slike som de der borte 8cd71bd8-6c9f-4eeb-9be2-b10088f56880">
-            <t pos="Pron" type="Dem">dogkaridie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">slike som de der bortes</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="slike som de der bortes 20877b04-5173-4e94-ac29-184c87f40133">
-            <t pos="Pron" type="Dem">dogkeri</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">i slike som de der borte</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="i slike som de der borte cb72dd62-698d-4db5-a3bb-0d8d26358ff9">
-            <re>om flere</re>
-            <t pos="Pron" type="Dem">dogkarijnie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">av slike som de der borte</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="av slike som de der borte cb10f5a1-c1c9-47c5-a96f-74dd4c147cc0">
-            <t pos="Pron" type="Dem">dogkarijstie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">med slike som de der borte</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="med slike som de der borte ffd47da0-6db3-4f96-8c4b-8d3e8855b652">
-            <t pos="Pron" type="Dem">dogkerigujmie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">slik som den hos deg</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="slik som den hos deg b7d6d7ef-013d-4e2a-8355-d5a0765df056">
-            <t pos="Pron" type="Dem">doegkeres</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="slik som den hos deg 4c162b72-c77e-4fda-9b4d-c93f0ebba680">
-            <t pos="Pron" type="Dem">doegkere</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="slik som den hos deg 00e150ca-8557-45dc-b553-b6acf2f4f31d">
-            <t pos="Pron" type="Dem">doegkerem</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">slik som den hos deg sin</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="slik som den hos deg sin 127cffa8-249b-4df3-933f-d33db7e14fa6">
-            <t pos="Pron" type="Dem">doegkeren</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">til en slik som den hos deg</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="til en slik som den hos deg 663f1b98-27e6-4249-80fc-0ff5993eb5cd">
-            <t pos="Pron" type="Dem">doegkarasse</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">i en slik som den hos deg</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="i en slik som den hos deg 5aaf3b0d-35ec-4bba-af9d-f9c064221c79">
-            <t pos="Pron" type="Dem">doegkarisnie</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="i en slik som den hos deg 9e441fc0-1c01-456a-8dec-a07bcc1a2c4b">
-            <t pos="Pron" type="Dem" case="ine">doegkarinie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">med en slik som den hos deg</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="med en slik som den hos deg ae961c14-0361-42d0-9ec7-f4df1a2f0012">
-            <t pos="Pron" type="Dem" case="ine">doegkarinie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">av en slik som den hos deg</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="av en slik som den hos deg a1c2ab3f-8e21-44db-8330-a2c5f2cff7d3">
-            <t pos="Pron" type="Dem">doegkaristie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">slike som de hos deg</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="slike som de hos deg 40e39a98-4cb0-4930-a06d-a07ad1d96cf8">
-            <t pos="Pron" type="Dem">doegkerh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="slike som de hos deg f1dadf9f-591b-485b-ad16-3054461acec4">
-            <t pos="Pron" type="Dem">doegkaridie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">til slike som de hos deg</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="til slike som de hos deg 5f04d6ac-8d62-4da8-980c-944f2f04eaad">
-            <t pos="Pron" type="Dem">doegkaridie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">slike som de hos deg sine</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="slike som de hos deg sine 6b620b16-3fa8-4896-8ace-af51a79df898">
-            <t pos="Pron" type="Dem">doegkeri</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">i slike som de hos deg</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="i slike som de hos deg 3ff15039-6e90-4749-b4ca-0a392827d0fc">
-            <re>om flere</re>
-            <t pos="Pron" type="Dem">doegkarijnie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">av slike som de hos deg</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="av slike som de hos deg a16ac2cd-729b-48e8-afef-31c3628f8dfe">
-            <t pos="Pron" type="Dem">doegkarijstie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">med slike som de hos deg</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="med slike som de hos deg 540b15c6-b351-46b0-a7b7-f9267c21319d">
-            <t pos="Pron" type="Dem">doegkerigujmie</t>
          </tg>
       </mg>
    </e>
@@ -1469,8 +732,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma" tw_id="en annen 8fe35b8b-8604-4ace-b6b0-7be0e1c40113">
             <t pos="Pron" type="Indef">jeatja</t>
             <xg>
-               <x>kunnskap om en annen kultur og et annet språk andre opplysninger Vil du ha noe annet da?</x>
-               <xt>maahtoe jeatja kultuvren bïjre jïh jeatja gïelen bïjre jeatjah bïevnesh Sïjhth maam jeatjah utnedh dellie?</xt>
+               <x>kunnskap om en annen kultur og et annet språk</x>
+               <xt>maahtoe jeatja kultuvren bïjre jïh jeatja gïelen bïjre</xt>
+            </xg>
+            <xg>
+               <x>andre opplysninger</x>
+               <xt>jeatjah bïevnesh</xt>
             </xg>
          </tg>
       </mg>
@@ -1492,8 +759,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma" tw_id="noe annet f280482c-ba38-4c44-929a-bd3781f00764">
             <t pos="Pron" type="Indef">jeatjebe</t>
             <xg>
-               <x>gjøre noe annet De andre kom etter oss.</x>
-               <xt>jeatjebem darjodh Dah jeatjebh mijjen mænngan böötin.</xt>
+               <x>gjøre noe annet</x>
+               <xt>jeatjebem darjodh</xt>
+            </xg>
+            <xg>
+               <x>Vil du ha noe annet da?</x>
+               <xt>Sïjhth maam jeatjah utnedh dellie?</xt>
             </xg>
          </tg>
       </mg>
@@ -1636,52 +907,14 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="til meg 984fc279-3a5c-4414-aa07-27c750dc118d">
             <t pos="Pron" type="Pers">munnjien</t>
+            <t pos="Pron" type="Pers">munnjan</t>
             <xg>
                <x>Skriv til meg!</x>
                <xt>Tjaelieh munnjien!</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="til meg 39c82f53-ac21-45b6-bded-e9d4f6301460">
-            <t pos="Pron" type="Pers">munnjan</t>
             <xg>
                <x>Skriv til meg!</x>
                <xt>Tjaelieh munnjan!</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">på meg</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="på meg e7af31de-f65f-4f78-a8e4-712b1123ef8b">
-            <t pos="Pron" type="Pers">mannesne</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">i meg</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="i meg 4e687054-92f8-463a-a045-4a2e4b09d14f">
-            <t pos="Pron" type="Pers">mannesne</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">fra meg</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="fra meg b35087fa-c099-4012-a2cf-3dc27a1447ce">
-            <t pos="Pron" type="Pers">manneste</t>
-            <xg>
-               <x>Han fikk den av meg.</x>
-               <xt>Manneste dam åadtjoeji.</xt>
             </xg>
          </tg>
       </mg>
@@ -1800,16 +1033,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron">hos oss to</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="hos oss to cd4ba9a2-28b1-4f53-98a7-fc53b4c6cd95">
-            <t pos="Pron" type="Pers">monnesne</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Pron">fra oss to</l>
       </lg>
       <mg>
@@ -1897,40 +1120,6 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>De har gitt det til oss.</x>
                <xt>Mijjide leah vadteme dam.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">på oss</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="på oss db56f3be-1fc2-4357-a0a4-4c96c4fed38e">
-            <t pos="Pron" type="Pers">mijjesne</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">i oss</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="i oss f662d17f-b19a-4b8c-9cf2-d3f98fd4772d">
-            <t pos="Pron" type="Pers">mijjesne</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">fra oss</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="fra oss 132dd324-d8ce-4487-9436-eee7d4d37c77">
-            <t pos="Pron" type="Pers">mijjeste</t>
-            <xg>
-               <x>Jentene i bygda likte da oss, de var da ikke redde for oss.</x>
-               <xt>Nïejth voenesne hov mijjem lyjhkin, idtjin maa dah mijjeste bïllh.</xt>
             </xg>
          </tg>
       </mg>
@@ -2039,40 +1228,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron">på deg</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="på deg 71336e26-3a68-476d-8f55-f8cbcc9f5b8a">
-            <t pos="Pron" type="Pers">datnesne</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">i deg</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="i deg 599d5793-49f5-4bf9-b631-e50f48d2fdae">
-            <t pos="Pron" type="Pers">datnesne</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">fra deg</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="fra deg cd18f48f-f17c-424e-bbaf-ba7e207809b7">
-            <t pos="Pron" type="Pers">datneste</t>
-            <xg>
-               <x>Sønn, dine synder er sluppet fra deg.</x>
-               <xt>Elkie, dov sådtoeh leah datneste luajhtaldihkie.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Pron">av deg</l>
       </lg>
       <mg>
@@ -2147,40 +1302,6 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Da skal han bygge stort hus til dere to.</x>
                <xt>Dellie edtja stoerre gåetiem dotnese bigkedh.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">i dere to</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="i dere to 9a4a3e95-679d-4f5f-a2a1-8086517376a5">
-            <t pos="Pron" type="Pers">dotnesne</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">på dere to</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="på dere to 1b84bfe8-43cc-4c90-a92a-e01f5c2527dd">
-            <t pos="Pron" type="Pers">dotnesne</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">fra dere to</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="fra dere to c92ecb10-fd13-439e-a2e4-b53bd1ceeddf">
-            <t pos="Pron" type="Pers">dotneste</t>
-            <xg>
-               <x>Han har fått den av dere to.</x>
-               <xt>Dotneste lea dam åådtjeme.</xt>
             </xg>
          </tg>
       </mg>
@@ -2276,44 +1397,10 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron">på dere</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="på dere 915adfc6-64fb-4335-8ae4-a45e3b5ff11c">
-            <t pos="Pron" type="Pers">dijjesne</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">i dere</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="i dere 7fe9933c-a37b-4511-9294-dae9214cbcab">
-            <t pos="Pron" type="Pers">dijjesne</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Pron">fra dere</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="fra dere 59adf117-f4bf-4254-b047-853a4d28805e">
-            <t pos="Pron" type="Pers">dijjeste</t>
-            <xg>
-               <x>Jeg fikk en stor gave fra dere.</x>
-               <xt>Dijjeste stoerre vadtesem åadtjoejim.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">av dere</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="av dere bab59a0b-4a88-4ac7-be69-f7e3562e3685">
             <t pos="Pron" type="Pers">dijjeste</t>
             <xg>
                <x>Jeg fikk en stor gave fra dere.</x>
@@ -2332,90 +1419,6 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Hvordan går det med dere?</x>
                <xt>Guktie dijjine?</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">han selv</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="han selv 3031edbd-5117-48ae-b0be-041868b72109">
-            <t pos="Pron" type="Logo">satne</t>
-            <xg>
-               <x>Pöövle sa at han skulle komme.</x>
-               <xt>Pöövle jeehti satne edtji båetedh.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">hun selv</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="hun selv df12e736-682d-4cff-8a08-f25408fd0584">
-            <t pos="Pron" type="Logo">satne</t>
-            <xg>
-               <x>Pöövle sa at han skulle komme.</x>
-               <xt>Pöövle jeehti satne edtji båetedh.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">ham selv</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="ham selv 50eb9e18-a1a7-4f86-a24a-3df6c26b721f">
-            <t pos="Pron" type="Logo">satnem</t>
-            <xg>
-               <x>Han spurte om Maria kunne komme for å hjelpe ham.</x>
-               <xt>Gihtji mejtie Maria sïjhti båetedh satnem viehkiehtidh.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">henne selv</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="henne selv a9194e38-c50d-4fa0-b2ce-2e8d56a3f299">
-            <t pos="Pron" type="Logo">satnem</t>
-            <xg>
-               <x>Han spurte om Maria kunne komme for å hjelpe ham.</x>
-               <xt>Gihtji mejtie Maria sïjhti båetedh satnem viehkiehtidh.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">hans egen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="hans egen 29c3365c-ba3d-4d30-b8a9-033bc064a8b2">
-            <t pos="Pron" type="Logo">sov</t>
-            <xg>
-               <x>Han sa at det var hans kalv.</x>
-               <xt>Jeehti sov miesie dïhte.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">hennes egen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="hennes egen 24024821-e0ed-4aa8-8b4e-93fbbd4c9016">
-            <t pos="Pron" type="Logo">sov</t>
-            <xg>
-               <x>Han sa at det var hans kalv.</x>
-               <xt>Jeehti sov miesie dïhte.</xt>
             </xg>
          </tg>
       </mg>
@@ -2491,26 +1494,6 @@ For the full license text, see the link above.</lic>
                <x>Han ba om at det måtte bli fortalt til ham også.</x>
                <xt>Stilli tjoeveri sutnjien aaj soptsestidh.</xt>
             </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">på ham selv</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="på ham selv be37541c-5a2d-406a-94c6-54698a89f04a">
-            <t pos="Pron" type="Logo">satnesne</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">på henne selv</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="på henne selv e804d618-4ee0-4cdd-946d-dc6f513e31f6">
-            <t pos="Pron" type="Logo">satnesne</t>
          </tg>
       </mg>
    </e>
@@ -2665,33 +1648,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron">på dem selv</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="på dem selv 92a99e15-b094-4d62-b910-98b0a7a5d803">
-            <re>om to</re>
-            <t pos="Pron" type="Logo">sotnesne</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="på dem selv f2955576-49aa-4c2c-bd4d-beaa456f6065">
-            <t pos="Pron" type="Logo">sijjesne</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">i dem selv</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="i dem selv 72922a11-21ab-415d-952e-1781810329a7">
-            <re>om to</re>
-            <t pos="Pron" type="Logo">sotnesne</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Pron">fra dem selv</l>
       </lg>
       <mg>
@@ -2806,9 +1762,25 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="han 3bbe77a0-ad5d-4755-9d24-dfaa358df262">
             <t pos="Pron" type="Pers">dïhte</t>
+            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les om bruken</t>            
             <xg>
                <x>Hun er kommet.</x>
                <xt>Dïhte lea båateme.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="han selv 3031edbd-5117-48ae-b0be-041868b72109"> 
+	         <re>han viser til seg selv</re>
+            <t pos="Pron" type="Logo">satne</t>
+            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les om bruk av satne</t>            
+            <xg>
+               <x>Pöövle sa at han skulle komme.</x>
+               <xt>Pöövle jeehti satne edtji båetedh.</xt>
+            </xg>
+            <xg>
+               <x>Han spurte om Maria kunne komme for å hjelpe han.</x>
+               <xt>Gihtji mejtie Maria sïjhti båetedh satnem viehkiehtidh.</xt>
             </xg>
          </tg>
       </mg>
@@ -2819,6 +1791,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="hun d278f933-9d38-46ab-ab60-55f8d2fd6a9b">
+            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les om bruken</t>            
             <t pos="Pron" type="Pers">dïhte</t>
             <xg>
                <x>Hun er kommet.</x>
@@ -2826,17 +1799,14 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">ham</l>
-      </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="ham 5355dfb6-cba6-4f20-9a77-8bfeb9a19f7e">
-            <t pos="Pron" type="Pers">dam</t>
+         <tg xml:lang="sma" tw_id="hun selv df12e736-682d-4cff-8a08-f25408fd0584">
+	         <re>hun viser til seg selv</re>
+            <t pos="Pron" type="Logo">satne</t>
+            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les om bruk av satne</t>            
             <xg>
-               <x>Jeg ser henne.</x>
-               <xt>Manne dam vuajnam.</xt>
+               <x>Maria sa at hun skulle komme.</x>
+               <xt>Maria jeehti satne edtji båetedh.</xt>
             </xg>
          </tg>
       </mg>
@@ -2854,6 +1824,17 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="henne selv a9194e38-c50d-4fa0-b2ce-2e8d56a3f299">
+	         <re>hun viser til seg selv</re>
+            <t pos="Pron" type="Logo">satnem</t>
+            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les om bruk av satne</t>            
+            <xg>
+               <x>Hun spurte om Laara kunne komme for å hjelpe henne.</x>
+               <xt>Gihtji mejtie Laara sïjhti båetedh satnem viehkiehtidh.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -2862,36 +1843,21 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="hans e9925b59-e8cc-4f73-82e9-74c3527d0b7d">
             <t pos="Pron" type="Pers">dan</t>
+            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les om bruk</t>            
             <xg>
-               <x>Huset hennes er stort.</x>
+               <x>Huset hans er stort.</x>
                <xt>Dan gåetie lea stoerre.</xt>
             </xg>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="hans 5a96f132-f500-4495-97ea-06e276e164ad">
-            <t pos="Pron" type="Pers">altese</t>
+         <tg xml:lang="sma" tw_id="hans egen 29c3365c-ba3d-4d30-b8a9-033bc064a8b2">
+	         <re>han viser til sitt eget</re>
+            <t pos="Pron" type="Logo">sov</t>
+            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les om bruk av satne</t>            
             <xg>
-               <x>Huset hennes er stort.</x>
-               <xt>Altese gåetie lea stoerre.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="hans 1cd3f5bf-f002-43a8-9f43-166e70e57388">
-            <t pos="Pron" type="Pers">elties</t>
-            <xg>
-               <x>Huset hennes er stort.</x>
-               <xt>Elties gåetie lea stoerre.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="hans dc53cc98-c39a-4329-b7de-9d902537c838">
-            <t pos="Pron" type="Pers">eltie</t>
-            <xg>
-               <x>Huset hennes er stort.</x>
-               <xt>Eltie gåetie lea stoerre.</xt>
+               <x>Han sa at det var hans kalv.</x>
+               <xt>Jeehti sov miesie dïhte.</xt>
             </xg>
          </tg>
       </mg>
@@ -2910,29 +1876,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="hennes e4521af1-58e1-441b-b3d8-fbaa0694d627">
-            <t pos="Pron" type="Pers">altese</t>
+         <tg xml:lang="sma" tw_id="hans egen 29c3365c-ba3d-4d30-b8a9-033bc064a8b2">
+	         <re>hun viser til sitt eget</re>
+            <t pos="Pron" type="Logo">sov</t>
+            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les om bruk av satne</t>            
             <xg>
-               <x>Huset hennes er stort.</x>
-               <xt>Altese gåetie lea stoerre.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="hennes 0299a3a3-e5dc-47ec-b0b0-74c130a83856">
-            <t pos="Pron" type="Pers">elties</t>
-            <xg>
-               <x>Huset hennes er stort.</x>
-               <xt>Elties gåetie lea stoerre.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="hennes 96f79d77-cb5a-49e5-ae2a-7e259f1f852f">
-            <t pos="Pron" type="Pers">eltie</t>
-            <xg>
-               <x>Huset hennes er stort.</x>
-               <xt>Eltie gåetie lea stoerre.</xt>
+               <x>Hun sa at det var hennes kalv.</x>
+               <xt>Jeehti sov miesie dïhte.</xt>
             </xg>
          </tg>
       </mg>
@@ -2944,8 +1894,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="til ham 78a3d804-ddd0-49e7-9688-9eb74a11e270">
             <t pos="Pron" type="Pers">dïsse</t>
+            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les om bruk</t>            
             <xg>
-               <x>Piere ga kake til henne.</x>
+               <x>Piere ga kake til han.</x>
                <xt>Piere dïsse gaahkoem vedti.</xt>
             </xg>
          </tg>
@@ -2958,30 +1909,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="til henne df2747b2-bf4e-4a0c-aceb-a1271393c790">
             <t pos="Pron" type="Pers">dïsse</t>
+            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les om bruk</t>            
             <xg>
                <x>Piere ga kake til henne.</x>
                <xt>Piere dïsse gaahkoem vedti.</xt>
             </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">på ham</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="på ham 0da13edf-96e8-43ee-91fd-f3effd8a0051">
-            <t pos="Pron" type="Pers">desnie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">på henne</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="på henne c2f41215-a550-4e75-9106-e2f1912ab64d">
-            <t pos="Pron" type="Pers">desnie</t>
          </tg>
       </mg>
    </e>
@@ -2992,10 +1924,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="fra ham 84b4b0f9-c481-4461-bc26-4a488fac57f1">
             <t pos="Pron" type="Pers">destie</t>
-            <xg>
-               <x>Piere så på henne at det var noe.</x>
-               <xt>Piere hov destie vööjni, mij joem lij.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -3006,10 +1934,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="fra henne a3106ee4-12fd-43aa-9e63-d8b9d3056900">
             <t pos="Pron" type="Pers">destie</t>
-            <xg>
-               <x>Piere så på henne at det var noe.</x>
-               <xt>Piere hov destie vööjni, mij joem lij.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -3021,7 +1945,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma" tw_id="med ham f176e05a-03ca-415e-9b3b-08c75712a090">
             <t nr="Sg" pos="Pron" type="Pers">dejnie</t>
             <xg>
-               <x>Piere kom sammen med henne.</x>
+               <x>Piere kom sammen med han.</x>
                <xt>Piere dejnie ektesne bööti.</xt>
             </xg>
          </tg>
@@ -3071,17 +1995,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron">på dem</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="på dem bbdb2ed0-2e5f-4725-9d2a-fce628a0655b">
-            <t nr="Pl" pos="Pron" type="Pers">dejnie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">fra dem</l>
+         <l pos="Pron">av dem</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="fra dem 2567e622-abe1-4e84-a843-5cd5f20dbd1d">
@@ -3120,39 +2034,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="de to har e424789d-0d87-4325-8ba5-313473c98392">
             <t pos="Pron" type="Pers">daj guaktaj</t>
+            <t pos="Pron" type="Pers">dej guaktaj</t>
             <xg>
                <x>De to har en båt.</x>
                <xt>Daj guaktah lea vïnhtse.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="de to har 5e9e49ff-b158-4f87-b874-ed97475e2d53">
-            <t pos="Pron" type="Pers">dej guaktaj</t>
-            <xg>
-               <x>De to har en båt.</x>
-               <xt>Dej guaktah lea vïnhtse.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">på dem to</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="på dem to 7179c3b2-88f4-4e33-864c-57e04e56d943">
-            <t pos="Pron" type="Pers">dejnie guaktine</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">fra de to</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="fra de to 16bc6871-832e-4240-b4df-abc61370ddc8">
-            <t pos="Pron" type="Pers">dejstie guaktijste</t>
          </tg>
       </mg>
    </e>
@@ -3173,10 +2059,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="med de to d62b99ef-370b-41ef-90bc-2594615118b0">
             <t pos="Pron" type="Pers">dej guaktajgujmie</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="med de to 9de912d0-c570-4c0d-91e9-ceeceadfdb05">
             <t pos="Pron" type="Pers">daj guaktajgujmie</t>
          </tg>
       </mg>
@@ -4225,22 +3107,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron">i hvem av dem</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="i hvem av dem a0563a13-dab7-4357-adb9-aabbd0046d9e">
-            <t pos="Pron" type="Interr">guhtesne</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="i hvem av dem 2353474c-e6e9-40db-8f53-66404b37ed3a">
-            <re>om flere</re>
-            <t pos="Pron" type="Interr">guhtine</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Pron">fra hvem av dem</l>
       </lg>
       <mg>
@@ -4354,7 +3220,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron">i hvilken av to</l>
+         <l pos="Pron">på hvilken av to</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="i hvilken av to 37eb9b57-a924-4e63-ba58-54956ef26574">
@@ -4373,20 +3239,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="i hvilken av to 5e1352dd-8228-48a4-bf28-a5dac7c1df4f">
             <t pos="Pron" type="Interr">gåabpatjisnie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">på hvilken av to</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="på hvilken av to 44750313-3af1-4b53-b45b-59b3ba982f55">
-            <t pos="Pron" type="Interr">gåabpene</t>
-            <xg>
-               <x>På hvilken av de to sidene er den?</x>
-               <xt>Gåabpene bielesne lea dïhte?</xt>
-            </xg>
          </tg>
       </mg>
    </e>
