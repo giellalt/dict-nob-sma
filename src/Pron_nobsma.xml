@@ -63,8 +63,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="den 58d1ce50-2977-4ffe-a522-9c775ff043e7">
+	         <re>både den og det</re>
             <t pos="Pron" type="Dem">dïhte</t>
-            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#P%C3%A5pekende+pronomen">les om bruken</t>            
+            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#P%C3%A5pekende+pronomen">les i grammatikken</t>            
             <xg>
                <x>Den er kommet.</x>
                <xt>Dïhte lea båateme.</xt>
@@ -77,9 +78,9 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="den 58d1ce50-2977-4ffe-a522-9c775ff043e7">
-	         <re>foran substantiv</re>
+	         <re>både den og det, foran substantiv</re>
             <t pos="Pron" type="Dem">dïhte</t>
-            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#P%C3%A5pekende+pronomen+sammen+med+substantiv">les om bruken</t>            
+            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#P%C3%A5pekende+pronomen+sammen+med+substantiv">les i grammatikken</t>            
             <xg>
                <x>Er den lua di?</x>
                <xt>Dïhte tjohpe lea dov?</xt>
@@ -112,9 +113,9 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="den 9fb4385e-56fb-49d9-a176-1310ae99bdb9">
-            <re>nærmere deg enn meg</re>
+            <re>både den og det, nærmere deg enn meg</re>
             <t pos="Pron" type="Dem">doete</t>
-            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#P%C3%A5pekende+pronomen">les om bruken</t>            
+            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#P%C3%A5pekende+pronomen">les i grammatikken</t>            
             <xg>
                <x>Hva er det der?</x>
                <xt>Mij dohte?</xt>
@@ -157,7 +158,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="de 025ee5ee-cf8a-4270-8eaf-5a7039aa4c27">
             <t pos="Pron" type="Dem">dah</t>
-            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#P%C3%A5pekende+pronomen">les om bruken</t>            
+            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#P%C3%A5pekende+pronomen">les i grammatikken</t>            
 
             <xg>
                <x>De er kommet.</x>
@@ -197,7 +198,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma" tw_id="den 9fb4385e-56fb-49d9-a176-1310ae99bdb9">
             <re>nærmere deg enn meg</re>
             <t pos="Pron" type="Dem">doeh</t>
-            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#P%C3%A5pekende+pronomen">les om bruken</t>            
+            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#P%C3%A5pekende+pronomen">les i grammatikken</t>            
             <xg>
                <x>De der buksene er nye.</x>
                <xt>Doeh måvhkah orre.</xt>
@@ -228,6 +229,28 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="de selv e66360a0-6bcf-435f-8bbc-3c64c9d669f8">
+            <re>om to som viser til seg selv</re>
+            <t pos="Pron" type="Logo">såtnoeh</t>
+            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken om satne</t>            
+            <xg>
+               <x>De fortalte at de hadde vært der en tur.</x>
+               <xt>Soptsestigan, såtnoeh lægan desnie mïnneme.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="de selv ae979fa1-4402-40a8-a54d-d4da433f8327">
+            <re>de viser til seg selv</re>
+            <t pos="Pron" type="Logo">sijjieh</t>
+            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken om satne</t>            
+            <xg>
+               <x>De sa at de også skulle komme.</x>
+               <xt>Jeehtin sijjieh edtjieh aaj båetedh.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -237,7 +260,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma" tw_id="deres c92bcea1-a958-4c8c-b2f1-3f394e32a970">
             <re>2. person, om to personer</re>
             <t pos="Pron" type="Pers">dotnen</t>
-         <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les om bruken</t>            
+         <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken</t>            
             <xg>
                <x>Er det deres barn?</x>
                <xt>Dotnen maana dïhte?</xt>
@@ -271,6 +294,28 @@ For the full license text, see the link above.</lic>
             <t pos="Pron" type="Pers">dej guaktaj</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="deres eget b3ab4852-bd22-4182-aa43-23c5f094b12f">
+            <re>3. person, to personer som viser til sin egen</re>
+            <t pos="Pron" type="Logo">sotnen</t>
+         <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken om satne</t>            
+            <xg>
+               <x>Etter litt oppdager de to at deres far står mellom dem.</x>
+               <xt>Ånnetji mænngan dellie aajhtsijægan aehtjemes sotnen gaskesne tjåadtjoeminie.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="deres egen d91a69dc-1437-4612-bc93-875222860823">
+            <re>3. person, som viser til sitt eget</re>
+            <t pos="Pron" type="Logo">sijjen</t>
+            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken om satne</t>            
+            <xg>
+               <x>De fortalte at huset deres var på den der kanten.</x>
+               <xt>Soptsestin, sijjen gåetie dunnie raedtesne lij.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -278,8 +323,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="denne 336ab643-ab50-47fb-826e-7fb53b4ce83f">
+	         <re>både denne og dette</re>
             <t pos="Pron" type="Dem">daate</t>
-            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#P%C3%A5pekende+pronomen">les om bruken</t>            
+            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#P%C3%A5pekende+pronomen">les i grammatikken</t>            
             <xg>
                <x>Denne/Dette passer nok.</x>
                <xt>Daate gujht sjeahta.</xt>
@@ -1428,20 +1474,23 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">han har</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="han har 6a42f290-a1f3-499c-86e0-ab4f54414532">
-            <t pos="Pron" type="Logo">sov</t>
+         <tg xml:lang="sma" tw_id="han har ffa2036a-9219-4a96-89ce-3a64efed9c09">
+            <t pos="Pron" type="Pers">dan</t>
+            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken</t>            
             <xg>
-               <x>Han sa at han har båt.</x>
-               <xt>Jeehti sov lea vïnhtse.</xt>
+               <x>Han har en båt.</x>
+               <xt>Dan lea vïnhtse.</xt>
             </xg>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="han har ffa2036a-9219-4a96-89ce-3a64efed9c09">
-            <t pos="Pron" type="Pers">dan</t>
+         <tg xml:lang="sma" tw_id="han har 6a42f290-a1f3-499c-86e0-ab4f54414532">
+	         <re>han viser til seg selv</re>
+            <t pos="Pron" type="Logo">sov</t>
+            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken om satne</t>            
             <xg>
-               <x>Hun har en båt.</x>
-               <xt>Dan lea vïnhtse.</xt>
+               <x>Laara sa at han har båt.</x>
+               <xt>Larra jeehti sov lea vïnhtse.</xt>
             </xg>
          </tg>
       </mg>
@@ -1451,189 +1500,47 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">hun har</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="hun har 44d36123-79b6-4dad-a0a9-673baa4641a6">
-            <t pos="Pron" type="Logo">sov</t>
-            <xg>
-               <x>Han sa at han har båt.</x>
-               <xt>Jeehti sov lea vïnhtse.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
          <tg xml:lang="sma" tw_id="hun har 3e715616-8792-425b-a0e2-7c0936644d3e">
             <t pos="Pron" type="Pers">dan</t>
+            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken</t>            
             <xg>
                <x>Hun har en båt.</x>
                <xt>Dan lea vïnhtse.</xt>
             </xg>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">til ham selv</l>
-      </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="til ham selv 312d6968-32cd-4ef7-9efe-99cc0a308ba1">
-            <t pos="Pron" type="Logo">sutnjien</t>
+         <tg xml:lang="sma" tw_id="hun har 44d36123-79b6-4dad-a0a9-673baa4641a6">
+	         <re>han viser til seg selv</re>
+            <t pos="Pron" type="Logo">sov</t>
+            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken om satne</t>            
             <xg>
-               <x>Han ba om at det måtte bli fortalt til ham også.</x>
-               <xt>Stilli tjoeveri sutnjien aaj soptsestidh.</xt>
+               <x>Hun sa at hun har båt.</x>
+               <xt>Jeehti sov lea vïnhtse.</xt>
             </xg>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Pron">til henne selv</l>
+         <l pos="Pron">til dem</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="til henne selv 6d7df4a1-fca9-4547-a4de-d74d2e948da2">
-            <t pos="Pron" type="Logo">sutnjien</t>
-            <xg>
-               <x>Han ba om at det måtte bli fortalt til ham også.</x>
-               <xt>Stilli tjoeveri sutnjien aaj soptsestidh.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">fra ham selv</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="fra ham selv 3eb6ee99-44a2-478f-a6a3-509dc7c49e8f">
-            <t pos="Pron" type="Logo">satneste</t>
-            <xg>
-               <x>Han ser at hun er litt større enn ham og til og med fyldigere.</x>
-               <xt>Vuajna dïhte ånnetji stueriebadtje satneste jïh dovne joevteråbpoe.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">fra henne selv</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="fra henne selv 5eee3cea-421a-4a93-8265-2f5ae5900abb">
-            <t pos="Pron" type="Logo">satneste</t>
-            <xg>
-               <x>Han ser at hun er litt større enn ham og til og med fyldigere.</x>
-               <xt>Vuajna dïhte ånnetji stueriebadtje satneste jïh dovne joevteråbpoe.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">med ham selv</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="med ham selv 62643409-e89e-4a4e-b221-339b3c29f400">
-            <t pos="Pron" type="Logo">satnine</t>
-            <xg>
-               <x>Han er så glad for at noen igjen vil leke med ham.</x>
-               <xt>Dïhte dan feejjen, juhkoe gie joem vihth satnine sæjhta stååkedidh.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">med henne selv</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="med henne selv 23f85814-a9cd-431e-9966-bb33c4f6bd02">
-            <t pos="Pron" type="Logo">satnine</t>
-            <xg>
-               <x>Han er så glad for at noen igjen vil leke med ham.</x>
-               <xt>Dïhte dan feejjen, juhkoe gie joem vihth satnine sæjhta stååkedidh.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">de selv</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="de selv e66360a0-6bcf-435f-8bbc-3c64c9d669f8">
-            <re>om to</re>
-            <t pos="Pron" type="Logo">såtnoeh</t>
-            <xg>
-               <x>De fortalte at de hadde vært der en tur.</x>
-               <xt>Soptsestigan, såtnoeh lægan desnie mïnneme.</xt>
-            </xg>
+         <tg xml:lang="sma" tw_id="til dem to 2ba7c80e-8945-4882-b9b9-130630684e89">
+            <t pos="Pron" type="Pers" case="Ill">dejtie</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="de selv ae979fa1-4402-40a8-a54d-d4da433f8327">
-            <t pos="Pron" type="Logo">sijjieh</t>
-            <xg>
-               <x>De sa at de også skulle komme.</x>
-               <xt>Jeehtin sijjieh edtjieh aaj båetedh.</xt>
-            </xg>
+         <tg xml:lang="sma" tw_id="til dem to 2ba7c80e-8945-4882-b9b9-130630684e89">
+	         <re>om to personer</re>
+            <t pos="Pron" type="Pers" case="Ill">dejtie guaktide</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">dem selv</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="dem selv 64ed9062-ae1d-4058-8cc6-707285283f52">
-            <re>om to</re>
-            <t pos="Pron" type="Logo">sotnem</t>
-            <xg>
-               <x>De to ba meg om å hjelpe dem.</x>
-               <xt>Dah guaktah mannem stilligan sotnem viehkiehtidh.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="dem selv bfbccdeb-9a9a-4a5f-91da-c931a3b0460d">
-            <t pos="Pron" type="Logo">sijjem</t>
-            <xg>
-               <x>De ropte at de måtte komme for å hjelpe dem.</x>
-               <xt>Tjåarvoejin, tjoeverin sijjem båetedh viehkiehtidh.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">deres eget</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="deres eget b3ab4852-bd22-4182-aa43-23c5f094b12f">
-            <re>om to</re>
-            <t pos="Pron" type="Logo">sotnen</t>
-            <xg>
-               <x>Etter litt oppdager de to at deres far står mellom dem.</x>
-               <xt>Ånnetji mænngan dellie aajhtsijægan aehtjemes sotnen gaskesne tjåadtjoeminie.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">de to har selv</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="de to har selv 6c1ef6d4-ddae-4d6a-bb04-b862ccf897c3">
-            <t pos="Pron" type="Logo">sotnen</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">til dem to</l>
-      </lg>
       <mg>
          <tg xml:lang="sma" tw_id="til dem to a05cb58c-105e-4a1a-95a6-85ff4fd17c02">
-            <re>om to</re>
+            <re>om to som viser til seg selv</re>
             <t pos="Pron" type="Logo">sotnese</t>
+            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken om satne</t>            
             <xg>
                <x>De to fortalte hvor stor hjelp han hadde vært for dem.</x>
                <xt>Soptsestigan man stoerreviehkine sotnese lij orreme.</xt>
@@ -1641,93 +1548,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="til dem to 2ba7c80e-8945-4882-b9b9-130630684e89">
-            <t pos="Pron" type="Pers" case="Ill">dejtie guaktide</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">fra dem selv</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="fra dem selv 12eafcf2-9ffa-4e2f-8314-9037fe4ce9ca">
-            <re>om to</re>
-            <t pos="Pron" type="Logo">sotneste</t>
-            <xg>
-               <x>De ga beskjed om at det kommer mer fra dem.</x>
-               <xt>Saarnoejigan, sotneste vielie båetieh.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="fra dem selv c380d671-26b7-47ab-9ba7-06293e73544f">
-            <t pos="Pron" type="Logo">sijjeste</t>
-            <xg>
-               <x>De fortalte at han hadde fått den av dem.</x>
-               <xt>Soptsestin, dïhte sijjeste dam åådtjeme.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">med dem selv</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="med dem selv 1b84a56f-bf40-453d-8e76-8cc9c56e776d">
-            <re>om to</re>
-            <t pos="Pron" type="Logo">sotnine</t>
-            <xg>
-               <x>De to fortalte at det var bra med dem.</x>
-               <xt>Soptsestigan, sotnine lij hijven.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="med dem selv 563a71c0-7419-4aae-af67-a2977a238939">
-            <t pos="Pron" type="Logo">sijjine</t>
-            <xg>
-               <x>De fortalte at med dem var det bare bra.</x>
-               <xt>Dah soptsestin, sijjine barre hijven.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">deres egen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="deres egen d91a69dc-1437-4612-bc93-875222860823">
-            <re>3. person</re>
-            <t pos="Pron" type="Logo">sijjen</t>
-            <xg>
-               <x>De fortalte at huset deres var på den der kanten.</x>
-               <xt>Soptsestin, sijjen gåetie dunnie raedtesne lij.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">til dem selv</l>
-      </lg>
-      <mg>
          <tg xml:lang="sma" tw_id="til dem selv fbfe4a38-535a-46db-986a-410a3980e671">
+	         <re>de viser til seg selv</re>
             <t pos="Pron" type="Logo">sijjese</t>
+            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken om satne</t>            
             <xg>
                <x>Lærerene skrøt av at det var til stor nytte for dem.</x>
                <xt>Lohkehtæjjah garmerdin sijjese stoerre aevhkine dïhte.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="til dem selv 8e56b5ef-dac9-44f7-81c2-ce68fadfe18f">
-            <t pos="Pron" type="Logo">sijjide</t>
-            <xg>
-               <x>Lærerene skrøt av at det var til stor nytte for dem.</x>
-               <xt>Lohkehtæjjah garmerdin sijjide stoerre aevhkine dïhte.</xt>
             </xg>
          </tg>
       </mg>
@@ -1737,20 +1564,40 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">av dem</l>
       </lg>
       <mg>
+         <tg xml:lang="sma" tw_id="av dem 5209a10f-b146-4e5f-873c-dc750dcfc7f8">
+            <t pos="Pron" type="Pers">dejstie</t>
+            <xg>
+               <x>Den har han fått av dem.</x>
+               <xt>Dam lea dejstie åådtjeme.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="av de to 0f69a7f4-22c5-4ea7-a67a-db23288d210c">
+	         <re>om to personer</re>
+            <t pos="Pron" type="Pers">dejstie guaktijste</t>
+         </tg>
+      </mg>
+      <mg>
          <tg xml:lang="sma" tw_id="av dem ebdbf77d-cc8c-4a93-a88e-24502438214f">
+	         <re>de viser til seg selv</re>
             <t pos="Pron" type="Logo">sijjeste</t>
+            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken om satne</t>            
             <xg>
                <x>De fortalte at han hadde fått den av dem.</x>
                <xt>Soptsestin, dïhte sijjeste dam åådtjeme.</xt>
             </xg>
          </tg>
       </mg>
+
       <mg>
-         <tg xml:lang="sma" tw_id="av dem 5209a10f-b146-4e5f-873c-dc750dcfc7f8">
-            <t pos="Pron" type="Pers">dejstie</t>
+         <tg xml:lang="sma" tw_id="fra dem selv c380d671-26b7-47ab-9ba7-06293e73544f">
+	         <re>to personer som viser til seg selv</re>
+            <t pos="Pron" type="Logo">sijjeste</t>
+            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken om satne</t>            
             <xg>
-               <x>Den har han fått av dem.</x>
-               <xt>Dam lea dejstie åådtjeme.</xt>
+               <x>De fortalte at han hadde fått den av dem.</x>
+               <xt>Soptsestigan, dïhte sotneste dam åådtjeme.</xt>
             </xg>
          </tg>
       </mg>
@@ -1762,7 +1609,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="han 3bbe77a0-ad5d-4755-9d24-dfaa358df262">
             <t pos="Pron" type="Pers">dïhte</t>
-            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les om bruken</t>            
+            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken</t>            
             <xg>
                <x>Han er kommet.</x>
                <xt>Dïhte lea båateme.</xt>
@@ -1773,7 +1620,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma" tw_id="han selv 3031edbd-5117-48ae-b0be-041868b72109"> 
 	         <re>han viser til seg selv</re>
             <t pos="Pron" type="Logo">satne</t>
-            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les om bruk av satne</t>            
+            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken om satne</t>            
             <xg>
                <x>Pöövle sa at han skulle komme.</x>
                <xt>Pöövle jeehti satne edtji båetedh.</xt>
@@ -1791,7 +1638,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="hun d278f933-9d38-46ab-ab60-55f8d2fd6a9b">
-            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les om bruken</t>            
+            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken</t>            
             <t pos="Pron" type="Pers">dïhte</t>
             <xg>
                <x>Hun er kommet.</x>
@@ -1803,7 +1650,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma" tw_id="hun selv df12e736-682d-4cff-8a08-f25408fd0584">
 	         <re>hun viser til seg selv</re>
             <t pos="Pron" type="Logo">satne</t>
-            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les om bruk av satne</t>            
+            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken om satne</t>            
             <xg>
                <x>Maria sa at hun skulle komme.</x>
                <xt>Maria jeehti satne edtji båetedh.</xt>
@@ -1828,7 +1675,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma" tw_id="henne selv a9194e38-c50d-4fa0-b2ce-2e8d56a3f299">
 	         <re>hun viser til seg selv</re>
             <t pos="Pron" type="Logo">satnem</t>
-            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les om bruk av satne</t>            
+            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken om satne</t>            
             <xg>
                <x>Hun spurte om Laara kunne komme for å hjelpe henne.</x>
                <xt>Gihtji mejtie Laara sïjhti båetedh satnem viehkiehtidh.</xt>
@@ -1843,7 +1690,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="hans e9925b59-e8cc-4f73-82e9-74c3527d0b7d">
             <t pos="Pron" type="Pers">dan</t>
-            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les om bruk</t>            
+            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken</t>            
             <xg>
                <x>Huset hans er stort.</x>
                <xt>Dan gåetie lea stoerre.</xt>
@@ -1854,7 +1701,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma" tw_id="hans egen 29c3365c-ba3d-4d30-b8a9-033bc064a8b2">
 	         <re>han viser til sitt eget</re>
             <t pos="Pron" type="Logo">sov</t>
-            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les om bruk av satne</t>            
+            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken om satne</t>            
             <xg>
                <x>Han sa at det var hans kalv.</x>
                <xt>Jeehti sov miesie dïhte.</xt>
@@ -1879,7 +1726,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma" tw_id="hans egen 29c3365c-ba3d-4d30-b8a9-033bc064a8b2">
 	         <re>hun viser til sitt eget</re>
             <t pos="Pron" type="Logo">sov</t>
-            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les om bruk av satne</t>            
+            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken om satne</t>            
             <xg>
                <x>Hun sa at det var hennes kalv.</x>
                <xt>Jeehti sov miesie dïhte.</xt>
@@ -1889,15 +1736,26 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron">til ham</l>
+         <l pos="Pron">til han</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="til ham 78a3d804-ddd0-49e7-9688-9eb74a11e270">
             <t pos="Pron" type="Pers">dïsse</t>
-            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les om bruk</t>            
+            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken</t>            
             <xg>
                <x>Piere ga kake til han.</x>
                <xt>Piere dïsse gaahkoem vedti.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="til ham selv 312d6968-32cd-4ef7-9efe-99cc0a308ba1">
+	         <re>han viser til seg selv</re>
+            <t pos="Pron" type="Logo">sutnjien</t>
+            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken om satne</t>            
+            <xg>
+               <x>Han ba om at det måtte bli fortalt til han også.</x>
+               <xt>Stilli tjoeveri sutnjien aaj soptsestidh.</xt>
             </xg>
          </tg>
       </mg>
@@ -1909,21 +1767,44 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="til henne df2747b2-bf4e-4a0c-aceb-a1271393c790">
             <t pos="Pron" type="Pers">dïsse</t>
-            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les om bruk</t>            
+            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken</t>            
             <xg>
                <x>Piere ga kake til henne.</x>
                <xt>Piere dïsse gaahkoem vedti.</xt>
             </xg>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="til henne selv 6d7df4a1-fca9-4547-a4de-d74d2e948da2">
+	         <re>hun viser til seg selv</re>
+            <t pos="Pron" type="Logo">sutnjien</t>
+            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken om satne</t>            
+            <xg>
+               <x>Hun ba om at det måtte bli fortalt til henne også.</x>
+               <xt>Stilli tjoeveri sutnjien aaj soptsestidh.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
-         <l pos="Pron">fra ham</l>
+         <l pos="Pron">fra han</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="fra ham 84b4b0f9-c481-4461-bc26-4a488fac57f1">
             <t pos="Pron" type="Pers">destie</t>
+            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken</t>            
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="fra ham selv 3eb6ee99-44a2-478f-a6a3-509dc7c49e8f">
+	         <re>han viser til seg selv</re>
+            <t pos="Pron" type="Logo">satneste</t>
+            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken om satne</t>            
+            <xg>
+               <x>Han ser at hun er litt større enn ham og til og med fyldigere.</x>
+               <xt>Vuajna dïhte ånnetji stueriebadtje satneste jïh dovne joevteråbpoe.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1936,17 +1817,40 @@ For the full license text, see the link above.</lic>
             <t pos="Pron" type="Pers">destie</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="fra henne selv 5eee3cea-421a-4a93-8265-2f5ae5900abb">
+	         <re>hun viser til seg selv</re>
+            <t pos="Pron" type="Logo">satneste</t>
+            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken om satne</t>            
+            <xg>
+               <x>Hun ser at han er litt større enn henne og til og med fyldigere.</x>
+               <xt>Vuajna dïhte ånnetji stueriebadtje satneste jïh dovne joevteråbpoe.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
-         <l pos="Pron">med ham</l>
+         <l pos="Pron">med han</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="med ham f176e05a-03ca-415e-9b3b-08c75712a090">
             <t nr="Sg" pos="Pron" type="Pers">dejnie</t>
+            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken</t>            
             <xg>
                <x>Piere kom sammen med han.</x>
                <xt>Piere dejnie ektesne bööti.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="med ham selv 62643409-e89e-4a4e-b221-339b3c29f400">
+	         <re>han viser til seg selv</re>
+            <t pos="Pron" type="Logo">satnine</t>
+            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken om satne</t>            
+            <xg>
+               <x>Han er så glad for at noen igjen vil leke med han.</x>
+               <xt>Dïhte dan feejjen, juhkoe gie joem vihth satnine sæjhta stååkedidh.</xt>
             </xg>
          </tg>
       </mg>
@@ -1958,9 +1862,21 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="med henne e7587019-9af8-428e-a52d-903c004804d0">
             <t nr="Sg" pos="Pron" type="Pers">dejnie</t>
+            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken</t>            
             <xg>
                <x>Piere kom sammen med henne.</x>
                <xt>Piere dejnie ektesne bööti.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="med henne selv 23f85814-a9cd-431e-9966-bb33c4f6bd02">
+ 	         <re>hun viser til seg selv</re>
+           <t pos="Pron" type="Logo">satnine</t>
+            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken om satne</t>            
+            <xg>
+               <x>Hun er så glad for at noen igjen vil leke med henne.</x>
+               <xt>Dïhte dan feejjen, juhkoe gie joem vihth satnine sæjhta stååkedidh.</xt>
             </xg>
          </tg>
       </mg>
@@ -1978,6 +1894,28 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="dem selv 64ed9062-ae1d-4058-8cc6-707285283f52">
+            <re>om to som viser til seg selv</re>
+            <t pos="Pron" type="Logo">sotnem</t>
+            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken om satne</t>            
+            <xg>
+               <x>De to ba meg om å hjelpe dem.</x>
+               <xt>Dah guaktah mannem stilligan sotnem viehkiehtidh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="dem selv bfbccdeb-9a9a-4a5f-91da-c931a3b0460d">
+            <re>de viser til seg selv</re>
+            <t pos="Pron" type="Logo">sijjem</t>
+            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken om satne</t>            
+            <xg>
+               <x>De ropte at de måtte komme for å hjelpe dem.</x>
+               <xt>Tjåarvoejin, tjoeverin sijjem båetedh viehkiehtidh.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -1990,6 +1928,31 @@ For the full license text, see the link above.</lic>
                <x>De har en båt.</x>
                <xt>Dej lea vïnhtse.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="de to har e424789d-0d87-4325-8ba5-313473c98392">
+	         <re>om to personer</re>
+            <t pos="Pron" type="Pers">daj guaktaj</t>
+            <t pos="Pron" type="Pers">dej guaktaj</t>
+            <xg>
+               <x>De to har en båt.</x>
+               <xt>Daj guaktah lea vïnhtse.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="deres egen d91a69dc-1437-4612-bc93-875222860823">
+            <re>de viser til det de selv har</re>
+            <t pos="Pron" type="Logo">sijjen</t>
+            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken om satne</t>            
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="de to har selv 6c1ef6d4-ddae-4d6a-bb04-b862ccf897c3">
+	         <re>to personer viser til det de selv har</re>
+            <t pos="Pron" type="Logo">sotnen</t>
+            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken om satne</t>            
          </tg>
       </mg>
    </e>
@@ -2029,37 +1992,40 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron">de to har</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="de to har e424789d-0d87-4325-8ba5-313473c98392">
-            <t pos="Pron" type="Pers">daj guaktaj</t>
-            <t pos="Pron" type="Pers">dej guaktaj</t>
-            <xg>
-               <x>De to har en båt.</x>
-               <xt>Daj guaktah lea vïnhtse.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">av de to</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="av de to 0f69a7f4-22c5-4ea7-a67a-db23288d210c">
-            <t pos="Pron" type="Pers">dejstie guaktijste</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">med de to</l>
+         <l pos="Pron">med dem</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="med de to d62b99ef-370b-41ef-90bc-2594615118b0">
+            <t pos="Pron" type="Pers">dejgujmie</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="med de to d62b99ef-370b-41ef-90bc-2594615118b0">
+	         <re>om to personer</re>
             <t pos="Pron" type="Pers">dej guaktajgujmie</t>
             <t pos="Pron" type="Pers">daj guaktajgujmie</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="med dem selv 563a71c0-7419-4aae-af67-a2977a238939">
+            <re>de viser til seg selv</re>
+            <t pos="Pron" type="Logo">sijjine</t>
+            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken om satne</t>            
+            <xg>
+               <x>De fortalte at med dem var det bare bra.</x>
+               <xt>Dah soptsestin, sijjine barre hijven.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="med dem selv 1b84a56f-bf40-453d-8e76-8cc9c56e776d">
+            <re>to personer som viser til seg selv</re>
+            <t pos="Pron" type="Logo">sotnine</t>
+            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken om satne</t>            
+            <xg>
+               <x>De to fortalte at det var bra med dem.</x>
+               <xt>Soptsestigan, sotnine lij hijven.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2536,7 +2502,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="hva a121d4c1-48e6-4711-8c11-bbe3e4c0f1c3">
             <t pos="Pron" type="Interr">mij</t>
-            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Sp%C3%B8rrende+og+relative+pronomen">les om bruken</t>            
+            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Sp%C3%B8rrende+og+relative+pronomen">les i grammatikken</t>            
             <xg>
                <x>Hva er det?</x>
                <xt>Mij dïhte?</xt>

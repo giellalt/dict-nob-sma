@@ -282,8 +282,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma" tw_id="heldig c294af8b-a43f-45b9-876a-22b26155e3ba">
             <t pos="A" stem="2syll">læhkoeladtje</t>
             <xg>
-               <x>heldig menneske Hun er heldig!</x>
-               <xt>læhkoeladtje almetje Dïhte læhkoeladtje!</xt>
+               <x>Hun er heldig!</x>
+               <xt>Dïhte læhkoeladtje!</xt>
+            </xg>
+            <xg>
+               <x>heldig menneske</x>
+               <xt>læhkoeladtje almetje</xt>
             </xg>
          </tg>
       </mg>
@@ -3385,24 +3389,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="fuktig 7cb31f47-50f6-41d9-a5e9-727e100c0d85">
             <t pos="A" stem="3syll">låpsoes</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">en som er heldig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="en som er heldig fc86dbb3-2e54-4bf6-a9ea-2a1534ad8543">
-            <t pos="A" stem="2syll">læhkoeladtje</t>
-            <xg>
-               <x>Hun er heldig!</x>
-               <xt>Dïhte læhkoeladtje!</xt>
-            </xg>
-            <xg>
-               <x>heldig menneske</x>
-               <xt>læhkoeladtje almetje</xt>
-            </xg>
          </tg>
       </mg>
    </e>
