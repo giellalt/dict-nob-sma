@@ -52889,6 +52889,31 @@ For the full license text, see the link above.</lic>
                <x>Jeg har en veske.</x>
                <xt>Mov lea veaskoe.</xt>
             </xg>
+            <xg>
+               <x>Vi har et bilde.</x>
+               <xt>Mijjen lea guvvie.</xt>
+            </xg>
+            <xg>
+               <x>Anne har to barn.</x>
+               <xt>Annen leah göökte maanah.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t type="expl">(hjelpeverb)</t>
+            <xg>
+               <x>Jeg har kjøpt bil.</x>
+               <xt>Manne leam bïjlem åasteme.</xt>
+            </xg>
+            <xg>
+               <x>De hadde sovet lenge.</x>
+               <xt>Dah lin guhkiem åareme.</xt>
+            </xg>
+            <xg>
+               <x>Han har blitt rik.</x>
+               <xt>Dïhte lea ryjhkeme.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
