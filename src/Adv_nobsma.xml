@@ -380,10 +380,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma" tw_id="også 7cdb3189-d679-4fe3-9cdd-8cf14f20ff12">
             <t pos="Adv">dovne</t>
             <xg>
-               <x>endog vise til hele verden til og med behov for i tillegg må man Noen ganger får vi til og med høre at ... Hun kan både skrive og lese.</x>
-               <xt>dovne abpe eatnamasse vuesiehtidh dovne daerpies dovne tjuara Muvhtene dovne åadtjoejibie govledh ahte... Dïhte maahta dovne tjaeledh jïh lohkedh.</xt>
-            </xg>
-            <xg>
                <x>endog vise til hele verden</x>
                <xt>dovne abpe eatnamasse vuesiehtidh</xt>
             </xg>
@@ -2161,22 +2157,24 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma" tw_id="til og med f8bc66f9-69dd-4160-87ce-baaf45c30c48">
             <t pos="Adv">dovne</t>
             <xg>
-               <x>endog vise til hele verden til og med behov for i tillegg må man Noen ganger får vi til og med høre at ... Hun kan både skrive og lese.</x>
-               <xt>dovne abpe eatnamasse vuesiehtidh dovne daerpies dovne tjuara Muvhtene dovne åadtjoejibie govledh ahte... Dïhte maahta dovne tjaeledh jïh lohkedh.</xt>
+               <x>til og med behov for</x>
+               <xt>dovne daerpies</xt>
             </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">alt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="alt 3135234f-9de0-4344-8fca-8dbeb65ceec5">
-            <t pos="Adv">dovne</t>
             <xg>
-               <x>endog vise til hele verden til og med behov for i tillegg må man Noen ganger får vi til og med høre at ... Hun kan både skrive og lese.</x>
-               <xt>dovne abpe eatnamasse vuesiehtidh dovne daerpies dovne tjuara Muvhtene dovne åadtjoejibie govledh ahte... Dïhte maahta dovne tjaeledh jïh lohkedh.</xt>
+               <x>endog vise til hele verden</x>
+               <xt>dovne abpe eatnamasse vuesiehtidh</xt>
+            </xg>
+            <xg>
+               <x>i tillegg må man</x>
+               <xt>dovne tjuara</xt>
+            </xg>
+            <xg>
+               <x>Noen ganger får vi til og med høre at ...</x>
+               <xt>Muvhtene dovne åadtjoejibie govledh ahte...</xt>
+            </xg>
+            <xg>
+               <x>Hun kan både skrive og lese.</x>
+               <xt>Dïhte maahta dovne tjaeledh jïh lohkedh.</xt>
             </xg>
          </tg>
       </mg>
@@ -2189,8 +2187,24 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma" tw_id="både 74dd559e-74a1-4876-b15d-9434d24c55bd">
             <t pos="Adv">dovne</t>
             <xg>
-               <x>endog vise til hele verden til og med behov for i tillegg må man Noen ganger får vi til og med høre at ... Hun kan både skrive og lese.</x>
-               <xt>dovne abpe eatnamasse vuesiehtidh dovne daerpies dovne tjuara Muvhtene dovne åadtjoejibie govledh ahte... Dïhte maahta dovne tjaeledh jïh lohkedh.</xt>
+               <x>Hun kan både skrive og lese.</x>
+               <xt>Dïhte maahta dovne tjaeledh jïh lohkedh.</xt>
+            </xg>
+            <xg>
+               <x>endog vise til hele verden</x>
+               <xt>dovne abpe eatnamasse vuesiehtidh</xt>
+            </xg>
+            <xg>
+               <x>til og med behov for</x>
+               <xt>dovne daerpies</xt>
+            </xg>
+            <xg>
+               <x>i tillegg må man</x>
+               <xt>dovne tjuara</xt>
+            </xg>
+            <xg>
+               <x>Noen ganger får vi til og med høre at ...</x>
+               <xt>Muvhtene dovne åadtjoejibie govledh ahte...</xt>
             </xg>
          </tg>
       </mg>

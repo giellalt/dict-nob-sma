@@ -28,17 +28,6 @@ For the full license text, see the link above.</lic>
    </lics>
    <e>
       <lg>
-         <l pos="Pron">alle sammen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="alle sammen 661d4b43-71d6-452d-be7d-1f38a4e1bb80">
-            <re>om mennesker</re>
-            <t pos="Pron">gaajhkesh dovnesh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Phrase">ett eller annet</l>
       </lg>
       <mg>
@@ -696,6 +685,50 @@ For the full license text, see the link above.</lic>
                <x>Hvis vi ikke har nok puter til alle, så bruker vi klær og skinn som hodepute.</x>
                <xt>Jis ibie kodth utnieh nuekies gaajhkesidie, dellie vaarjoeh jïh dueljieh åejjiedovteginie.</xt>
             </xg>
+            <xg>
+               <x>Alle sammen.</x>
+               <xt>Gaajhkesh dovnes.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">alle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma" tw_id="all dc7f1556-db22-41e2-b232-64204f7b3ddd">
+            <t pos="Pron" type="Indef">gaajhke</t>
+            <xg>
+               <x>ikke alle ganger</x>
+               <xt>ij gaajhken aejkien</xt>
+            </xg>
+            <xg>
+               <x>Eller har kanskje den stygge musa spist alle musene?</x>
+               <xt>Vuj dïhte vesties snjeara ojhte gaajhkide snjearide bårrelamme?</xt>
+            </xg>
+            <xg>
+               <x>Marka var veldig oppgravd, byggeredskaper på alle kanter.</x>
+               <xt>Deavesne joekoen röödtseldihkie, bigkemedïrregh gaajhkene lehkesne.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="alle personer 942e3df6-743c-4fcf-8206-bd5c6005846b">
+	         <re>om personer</re>
+            <t pos="Pron" type="Coll">gaajhkesh</t>
+            <xg>
+               <x>Ikke alle synes det er nødvendig.</x>
+               <xt>Eah sih gaajhkesh utnieh dïhte lea daerpies.</xt>
+            </xg>
+            <xg>
+               <x>Hvis vi ikke har nok puter til alle, så bruker vi klær og skinn som hodepute.</x>
+               <xt>Jis ibie kodth utnieh nuekies gaajhkesidie, dellie vaarjoeh jïh dueljieh åejjiedovteginie.</xt>
+            </xg>
+            <xg>
+               <x>Alle sammen.</x>
+               <xt>Gaajhkesh dovnes.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -706,6 +739,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="alt cf96e512-75fa-4a03-9dbb-51903044c3b7">
             <t pos="Pron" type="Indef">gaajhke</t>
+            <xg>
+               <x>Alt sammen.</x>
+               <xt>Gaajhke dovne.</xt>
+            </xg>
             <xg>
                <x>Laara tok alt i fra meg.</x>
                <xt>Laara gaajhkem manneste veelti.</xt>
