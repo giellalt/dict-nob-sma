@@ -406,6 +406,12 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
+         <tg xml:lang="sma">
+            <re>sydlig variant</re>
+            <t pos="N" stem="3syll">heaje</t>
+         </tg>
+      </mg>
+      <mg>
          <tg xml:lang="sma" tw_id="bryllup 48cfb7a6-b979-4325-a794-544fd816b75f">
             <t pos="N" stem="3syll">provrehïeje</t>
             <t pos="N" stem="3syll">pruvrehïeje</t>
@@ -42751,6 +42757,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma" tw_id="bryllupsgave 28622216-e13d-49dd-abf5-7a2a09d013cd">
+        <t pos="N">hïejevadtese</t>
         <t pos="N">pruvrevadtese</t>
       </tg>
     </mg>
