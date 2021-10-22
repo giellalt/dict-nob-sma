@@ -1453,16 +1453,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">simle som skiller seg ut fra de andre</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="simle som skiller seg ut fra de andre 7d836c96-4ca8-4a38-b047-fa33a3ae7472">
-            <t margo="e" pos="N" soggi="e" stem="3syll">aajnehke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">åre</l>
       </lg>
       <mg>
@@ -1703,21 +1693,67 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="simle 1289ca35-69cc-4534-92e1-dcf3110a4a4f">
             <t pos="N" soggi="oe" stem="2syll">aaltoe</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="simle 7947da2f-f067-43cc-a386-29a57b62edcd">
             <t pos="N" soggi="e" stem="2syll">gïehke</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">reinsimle</l>
-      </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="reinsimle 2768eb9b-5503-4945-9b58-b9250b886549">
-            <t pos="N" soggi="oe" stem="2syll">aaltoe</t>
+         <tg xml:lang="sma" tw_id="bjøllesimle 3f33fe1a-4846-42f5-81f3-63861b635d68">
+	         <re>bjellesimle</re>
+            <t pos="N" soggi="oe" stem="2syll">bealloeaaltoe</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="ungsimle 406b0c37-636e-455f-9008-1216fe64697e">
+	         <re>ungsimle</re>
+            <t pos="N" soggi="e" stem="2syll">skåaknge</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="2-3 år gammel simle 32233048-9a28-4601-9d36-4e08691c9f0f">
+	         <re>2-3 år gammel</re>
+            <t margo="e" pos="N" soggi="ie" stem="3syll">vuenjele</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="simle som er født hornløs 8054f507-5d3a-4d65-ae0f-a62a0c9017c5">
+	         <re>som ikke får horn</re>
+            <t pos="N">haame</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="simle med kalv 6ae6ab2f-eebb-49a9-af99-de4c5757ef73">
+	         <re>med kalv</re>
+            <t margo="e" pos="N" soggi="ie" stem="3syll">miesehke</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="simle som enten ikke har fått kalv eller har mistet den det aktuelle året c025e105-4618-4841-8bbb-6faac0f8d64f">
+	         <re>som enten ikke har fått kalv eller har mistet den det aktuelle året</re>
+            <t pos="N" soggi="oe" stem="2syll">råtnoe</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="simle som aldri får kalv 5078c695-dcb8-4612-97b8-b1d618937f9f">
+	         <re>som ikke får kalv</re>
+            <t pos="N" soggi="e" stem="2syll">staajne</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="tidligfødende simle 2810a436-047b-4f52-9df0-a5660cc0e61b">
+	         <re>tidligkalvende simle</re>
+            <t pos="N" soggi="oe" stem="2syll">aarehkeaaltoe</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="simle som skiller seg ut fra de andre 7d836c96-4ca8-4a38-b047-fa33a3ae7472">
+	         <re>som skiller seg ut fra de andre</re>
+            <t margo="e" pos="N" soggi="e" stem="3syll">aajnehke</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="lysgrå reinsimle e924c7cc-6d5b-461c-902b-56d5d54f47fd">
+ 	         <re>lysgrå simle</re>
+           <t pos="N" soggi="oe" stem="2syll">jovjeråtnoe</t>
          </tg>
       </mg>
    </e>
@@ -1863,16 +1899,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="steinet område 7ef96a03-ec8d-47a7-9560-ad3a56e1a0e7">
             <t margo="e" pos="N" soggi="e" stem="3syll">aarege</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">tidligfødende simle</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="tidligfødende simle 2810a436-047b-4f52-9df0-a5660cc0e61b">
-            <t pos="N" soggi="oe" stem="2syll">aarehkeaaltoe</t>
          </tg>
       </mg>
    </e>
@@ -4312,7 +4338,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">bjøllebukk</l>
+         <l pos="N">bjellebukk</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="bjøllebukk aa8a371b-7645-4014-b701-13bc4619f4c9">
@@ -5494,16 +5520,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">mosefarget gråblakk rein</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="mosefarget gråblakk rein 5e779a84-7aa0-4d68-801e-845b82cb46cc">
-            <t pos="N" soggi="e" stem="2syll">boevje</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">menneskekropp</l>
       </lg>
       <mg>
@@ -5569,30 +5585,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">reinsdyr</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="reinsdyr d88d24df-8cee-4d7e-b5f8-be92e1f720e5">
-            <t pos="N" soggi="e" stem="2syll">bovtje</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="reinsdyr 92f971ec-e2bb-4ab8-aa42-f29c395ad43e">
-            <t pos="N" soggi="e" stem="2syll">bovtse</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">reinhjord</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="reinhjord a6afe26d-38c2-4c80-afb9-d237f7450c61">
             <t pos="N" soggi="e" stem="2syll">bovtje</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="reinhjord a6572d3e-e59c-42fb-b05f-487a40a97e14">
             <t pos="N" soggi="e" stem="2syll">bovtse</t>
          </tg>
       </mg>
@@ -5619,6 +5616,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
+         <tg xml:lang="sma" tw_id="livrein 9175bef8-1607-49b4-a86a-808d0a7f80a0">
+         <re>livrein</re>
+            <t pos="N" soggi="oe" stem="2syll">aalebovtse</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="bjellerein 6ae0bb7c-5e5c-410b-a1f7-a06042243f06">
+         <re>bjellerein</re>
+            <t margo="e" pos="N" soggi="oe" stem="3syll">beallohke</t>
+         </tg>
+      </mg>
+      <mg>
          <tg xml:lang="sma" tw_id="helt fremmed rein ebfb3b74-4cf7-48c1-a22d-2239f1fbbcde">
          <re>helt fremmed rein</re>
             <t margo="e" pos="N" soggi="e" stem="3syll">aalmehke</t>
@@ -5626,74 +5635,190 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="rein som leies foran 73034063-470c-443e-8573-7594581147fa">
-            <re>rein som leies foran i raiden</re>
+            <re>som leies foran i raiden</re>
             <t pos="N" soggi="a" stem="2syll">gïeteråantja</t>
          </tg>
       </mg>
       <mg>
+         <tg xml:lang="sma" tw_id="førerrein 76305b3e-7e5f-4670-a7d6-2bc915176946">
+            <re>førerrein, leietam rein</re>
+            <t pos="N" soggi="e" stem="2syll">gaavalohke</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="tam rein som lett følger mennesker fba41b6a-a75e-42f0-912a-dfe7291fa882">
+            <re>tam rein som lett følger mennesker</re>
+            <t pos="N" soggi="ie" stem="2syll">gaavelhkrievvie</t>
+         </tg>
+      </mg>
+      <mg>
          <tg xml:lang="sma" tw_id="rein som drar pulk a19b7097-1d42-4cdc-be29-de1ce23efb07">
-	         <re>rein som drar pulk</re>
+	         <re>som drar pulk</re>
             <t pos="N" soggi="oe" stem="2syll">geasasråantjoe</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="rein bundet bak pulken dd7414de-f116-43cd-88d5-56f55fddd429">
-	         <re>rein bundet bak pulken</re>
+	         <re>bundet bak pulken</re>
             <t pos="N" soggi="e" stem="2syll">tjåånehtahke</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="rein som går for seg sjøl 5e13d2a1-ead3-4e26-baf5-5412999b88c7">
-	         <re>rein som går for seg sjøl</re>
+	         <re>som går for seg sjøl</re>
             <t pos="N" soggi="oe" stem="2syll">aalloe</t>
          </tg>
       </mg>
       <mg>
+         <tg xml:lang="sma" tw_id="albinorein 480c8009-9c33-44e0-ba8a-968c4cbe1066">
+	         <re>helt hvit rein, albinorein</re>
+            <t pos="N" soggi="e" stem="2syll">klovse</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="gråhvit rein ba6b8606-a059-4f8d-9669-2627882c0cb4">
+	         <re>gråhvit</re>
+            <t pos="N" soggi="e" stem="2syll">kraeviesjovje</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="lysgrå rein mellom klovse og boevje 4e56ef66-ce0f-4da5-957c-69a5c189651a">
+	         <re>lysgrå rein mellom klovse og boevje</re>
+            <t pos="N" soggi="e" stem="2syll">joevje</t>
+            <t pos="N" soggi="e" stem="2syll">jovje</t>
+            <t pos="N" soggi="e" stem="2syll">jyövje</t>
+         </tg>
+      </mg>
+      <mg>
          <tg xml:lang="sma" tw_id="rein med hvitt hode d426fd68-b913-40d4-80f0-1a71eb251165">
-	         <re>rein med hvitt hode</re>
+	         <re>med hvitt hode</re>
             <t pos="N" soggi="oe" stem="2syll">lijniegaalloe</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="rein med hvit snute eller hvitflekket hode 282b885c-366c-4cd0-bbb7-f688f88f497c">
-	         <re>rein med hvit snute eller hvitflekket hode</re>
+	         <re>med hvit snute eller hvitflekket hode</re>
             <t pos="N" soggi="e" stem="2syll">tjööse</t>
          </tg>
       </mg>
       <mg>
+         <tg xml:lang="sma" tw_id="grå rein med små hvite prikker på snuten 90a9d565-c566-4ecc-bdf3-68e39f30eaf1">
+	         <re>grå rein med små hvite prikker på snuten</re>
+            <t pos="N" soggi="ie" stem="2syll">treblienjuenie</t>
+         </tg>
+      </mg>
+      <mg>
          <tg xml:lang="sma" tw_id="gråblakk rein 507c8a80-cbe9-48bf-8d06-42c8c78df6c7">
-         <re>gråblakk rein</re>
+         <re>gråblakk</re>
             <t pos="N" soggi="e" stem="2syll">tjööse</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="rein med hvit snute 0eb18dff-5bfb-4988-b9cf-4bd7ce11db61">
-         <re>rein med hvit snute</re>
+         <re>med hvit snute</re>
             <t pos="N" soggi="ie" stem="2syll">tjöösenjuenie</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="rein med hvite prikker på baken 27a33edd-0c7d-4d9c-8b06-9c122268e60b">
-	         <re>rein med hvite prikker på baken</re>
+	         <re>med hvite prikker på baken</re>
             <t pos="N" soggi="e" stem="2syll">svijrietjööse</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="rein med mørkt hårlag og lyse hårspisser 356ea130-d834-4e62-9ad5-1ad627cafc1d">
-	         <re>rein med mørkt hårlag og lyse hårspisser</re>
+	         <re>med mørkt hårlag og lyse hårspisser</re>
             <t pos="N">jïjsengoelke</t>
          </tg>
       </mg>
       <mg>
+         <tg xml:lang="sma" tw_id="mosefarget gråblakk rein 5e779a84-7aa0-4d68-801e-845b82cb46cc">
+	         <re>mosefarget gråblakk</re>
+            <t pos="N" soggi="e" stem="2syll">boevje</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="svart rein dc6a8518-efe1-4e0a-85a9-64a956650888">
+	         <re>svart</re>
+            <t pos="N" soggi="a" stem="2syll">såarhta</t>
+         </tg>
+      </mg>
+      <mg>
          <tg xml:lang="sma" tw_id="rein som har felt hornene f5eebe14-292d-44bf-8d37-48aca6d7b699">
-         <re>rein som har felt hornene</re>
+         <re>som har felt hornene</re>
             <t pos="N">gahtjehtimmietjåervie</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="rein med framoverbøyd horn f221676c-ceb8-4ad3-97fc-20bb06ae7dd1">
-         <re>rein med framoverbøyd horn</re>
+         <re>med framoverbøyd horn</re>
             <t pos="N">krapmeretjåervie</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="hannrein ec32d2f8-ae7c-4fce-b5b1-dd3322e9a6e4">
+	         <re>hannrein</re>
+            <t pos="N" soggi="a" stem="2syll">årra</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="hannrein på andre året b7a46226-c340-4ed1-b9e7-409c9b050602">
+         <re>hannrein på andre året</re>
+            <t margo="e" pos="N" soggi="ie" stem="3syll">horhtje</t>
+            <t margo="e" pos="N" soggi="ie" stem="3syll">hurrehke</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="tre år gammel hannrein 89186cdb-f61b-4646-96f4-cec31562a5a3">
+         <re>tre år gammel hannrein</re>
+            <t margo="e" pos="N" soggi="e" stem="3syll">vueperese</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="mindre reinbukk 5e914152-868a-4ff1-8b89-629806f38d85">
+         <re>mindre hannrein</re>
+            <t pos="N" soggi="e" stem="2syll">snorre</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="nylig kastrert hannrein om høsten 9db2bdd1-a42f-4783-9fca-073dd192d8a0">
+         <re>nylig kastrert hannrein om høsten</re>
+            <t pos="N" soggi="e" stem="2syll">gaatske</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="ukastrert leietam reinokse 6db6014a-5a1f-4512-91c7-85392823eb38">
+         <re>ukastrert leietam hannrein</re>
+            <t pos="N" soggi="oe" stem="2syll">gaavelhråantjoe</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="kastrert reinsbukk 6fb76a52-78fe-4a32-9584-ebc0e503b6c4">
+         <re>kastrert hannrein</re>
+            <t pos="N" soggi="e" stem="2syll">råahke</t>
+            <t pos="N" soggi="oe" stem="2syll">råantjoe</t>
+            <xg>
+               <x>bukk uten skinn på hornene</x>
+               <xt>göölemenåejjie råantjoe</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="reinokse under første året etter kastrering men med hornene i behold 618092ad-5fb8-4f3a-87d0-946ded435598">
+         <re>hannrein under første året etter kastrering, med hornene i behold</re>
+            <t margo="e" pos="N" soggi="ie" stem="3syll">svaejlehke</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="reinokse under første året etter kastrering, dersom den mister hornene 37af65ba-0d28-4ce5-a55a-31be3ad06d53">
+         <re>hannrein under første året etter kastrering, dersom den mister hornene</re>
+            <t margo="e" pos="N" soggi="ie" stem="3syll">gaetskehke</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="gammel hannrein som ikke lenger feier hornene 6b512df1-bf03-4953-b8a1-cb260adb6389">
+         <re>gammel hannrein som ikke lenger feier hornene</re>
+            <t pos="N" soggi="ie" stem="2syll">göölemenåejjie</t>
          </tg>
       </mg>
    </e>
@@ -7363,16 +7488,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="åte 0cacc13b-ff71-4af5-84b7-d9d8c975401f">
             <t pos="N" soggi="ie" stem="2syll">sieptie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">temmet rein</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="temmet rein 321a48e8-a8bb-4085-979a-967b576fdb56">
-            <t margo="e" pos="N" soggi="a" stem="3syll">daamehke</t>
          </tg>
       </mg>
    </e>
@@ -9156,6 +9271,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma" tw_id="reinflokk på 12-60 dyr 8342606b-b66a-4210-a36d-ff66b769a8b9">
 	         <re>reinflokk på 12-60 dyr</re>
             <t pos="N" soggi="e" stem="2syll">bïrhke</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="ti rein a7112d40-349f-42bf-beb3-111a148b012a">
+	         <re>reinflokk på 10 dyr</re>
+            <t pos="N" soggi="ie" stem="2syll">tsiehkie</t>
          </tg>
       </mg>
       <mg>
@@ -11480,16 +11601,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">nylig kastrert hannrein om høsten</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="nylig kastrert hannrein om høsten 9db2bdd1-a42f-4783-9fca-073dd192d8a0">
-            <t pos="N" soggi="e" stem="2syll">gaatske</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">rypesnare</l>
       </lg>
       <mg>
@@ -11504,16 +11615,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="førerrein 76305b3e-7e5f-4670-a7d6-2bc915176946">
-            <t pos="N" soggi="e" stem="2syll">gaavalohke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">leietam rein</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="leietam rein 580dae4d-d442-45d3-9830-b1f12caa80f7">
             <t pos="N" soggi="e" stem="2syll">gaavalohke</t>
          </tg>
       </mg>
@@ -11565,36 +11666,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="sving i elv eller bekk 457ea608-7d5b-40f8-9e5e-82eadb4606d3">
             <t pos="N" soggi="e" stem="2syll">gaave</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">tam rein som lett følger mennesker</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="tam rein som lett følger mennesker fba41b6a-a75e-42f0-912a-dfe7291fa882">
-            <t pos="N" soggi="ie" stem="2syll">gaavelhkrievvie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">forganger</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="forganger 039df19e-8357-40d4-9fa0-f7f08b796572">
-            <t pos="N" soggi="oe" stem="2syll">gaavelhråantjoe</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">ukastrert leietam reinokse</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="ukastrert leietam reinokse 6db6014a-5a1f-4512-91c7-85392823eb38">
-            <t pos="N" soggi="oe" stem="2syll">gaavelhråantjoe</t>
          </tg>
       </mg>
    </e>
@@ -11964,16 +12035,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="småbruk 959fed40-6b95-4594-a82d-0e7a0a503f17">
             <t pos="N" soggi="e" stem="2syll">spidtje</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">reinokse under første året etter kastrering, dersom den mister hornene</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="reinokse under første året etter kastrering, dersom den mister hornene 37af65ba-0d28-4ce5-a55a-31be3ad06d53">
-            <t margo="e" pos="N" soggi="ie" stem="3syll">gaetskehke</t>
          </tg>
       </mg>
    </e>
@@ -15020,6 +15081,21 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
+         <l pos="N">nisterein</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma" tw_id="matrein bb1fccee-1e13-41e6-881d-e12627f1e0a6">
+            <t margo="e" pos="N" soggi="a" stem="3syll">gåetieneastetje</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="matrein bc9c21bd-e6fd-43f6-8be2-c20e6505683a">
+            <t pos="N" soggi="ie" stem="2syll">niestie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="N">matrein</l>
       </lg>
       <mg>
@@ -15954,16 +16030,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">slakterein som man skal ha til våren</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="slakterein som man skal ha til våren f3192978-6cde-4e72-9b72-8b9106ba8537">
-            <t pos="N" soggi="ie" stem="2syll">gïjreniestie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">vårløysing</l>
       </lg>
       <mg>
@@ -16082,16 +16148,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="fisking 895f22f8-809d-4aa7-b972-59ba54344156">
             <t margo="e" pos="N" soggi="e" stem="3syll">gööleme</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">gammel hannrein som ikke lenger feier hornene</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="gammel hannrein som ikke lenger feier hornene 6b512df1-bf03-4953-b8a1-cb260adb6389">
-            <t pos="N" soggi="ie" stem="2syll">göölemenåejjie</t>
          </tg>
       </mg>
    </e>
@@ -16844,111 +16900,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="servitør db828a75-3d4c-4356-9466-bacd7d090248">
             <t pos="N" soggi="a" stem="2syll">hoksehtæjja</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">hannrein på andre året</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="hannrein på andre året b7a46226-c340-4ed1-b9e7-409c9b050602">
-            <t margo="e" pos="N" soggi="ie" stem="3syll">horhtje</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="hannrein på andre året 6df4aaa1-bf36-4bae-861a-99e3228d19ae">
-            <t margo="e" pos="N" soggi="ie" stem="3syll">hurrehke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">ung hannrein</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="ung hannrein c1b17539-7615-4e86-ad78-5f833500e4d5">
-            <t margo="e" pos="N" soggi="ie" stem="3syll">hurrehke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">liten hannrein</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="liten hannrein 78ceacd0-e43a-43b8-b7a7-00c5fe0b414a">
-            <t margo="e" pos="N" soggi="ie" stem="3syll">hurrehke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">ung hanrein</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="ung hanrein c74b470e-13c7-4f32-81ad-55e0169635c2">
-            <t margo="e" pos="N" soggi="ie" stem="3syll">hurrehke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">liten hanrein</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="liten hanrein 7e94ce13-6418-4cc4-a2af-b83cbbb4f594">
-            <t margo="e" pos="N" soggi="ie" stem="3syll">hurrehke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">ung reinsbukk</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="ung reinsbukk 6c71eeec-7074-422c-9219-db15f29ce2c0">
-            <t margo="e" pos="N" soggi="ie" stem="3syll">hurrehke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">liten reinsbukk</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="liten reinsbukk 294b4085-2b3f-451a-b956-a2d1460842bb">
-            <t margo="e" pos="N" soggi="ie" stem="3syll">hurrehke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">ung bukk</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="ung bukk bc253b39-2cd2-487b-a59d-fbf17247b160">
-            <t margo="e" pos="N" soggi="ie" stem="3syll">hurrehke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">liten bukk</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="liten bukk 916db3aa-8552-4991-8857-a5faca51558e">
-            <t margo="e" pos="N" soggi="ie" stem="3syll">hurrehke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">ungbukk</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="ungbukk e207421b-3737-42bf-8a09-1cb679b449d4">
-            <t margo="e" pos="N" soggi="ie" stem="3syll">hurrehke</t>
          </tg>
       </mg>
    </e>
@@ -18130,26 +18081,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">lysgrå rein mellom klovse og boevje</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="lysgrå rein mellom klovse og boevje 4e56ef66-ce0f-4da5-957c-69a5c189651a">
-            <t pos="N" soggi="e" stem="2syll">joevje</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="lysgrå rein mellom klovse og boevje 75f278a1-acaf-4a0c-938b-8f3cd620b737">
-            <t pos="N" soggi="e" stem="2syll">jovje</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="lysgrå rein mellom klovse og boevje 0defbd19-5ba2-4707-a621-5bcfecc59b1b">
-            <t pos="N" soggi="e" stem="2syll">jyövje</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">bekk</l>
       </lg>
       <mg>
@@ -18300,16 +18231,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="endring ebfda911-5109-426e-9f5e-572d36146478">
             <t pos="N" soggi="ie" stem="2syll">jorkestimmie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">lysgrå reinsimle</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="lysgrå reinsimle e924c7cc-6d5b-461c-902b-56d5d54f47fd">
-            <t pos="N" soggi="oe" stem="2syll">jovjeråtnoe</t>
          </tg>
       </mg>
    </e>
@@ -19280,26 +19201,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">helt hvit rein</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="helt hvit rein 74c49523-2e6a-4b13-9ea1-e660dc9fc436">
-            <t pos="N" soggi="e" stem="2syll">klovse</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">albinorein</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="albinorein 480c8009-9c33-44e0-ba8a-968c4cbe1066">
-            <t pos="N" soggi="e" stem="2syll">klovse</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">kreatur</l>
       </lg>
       <mg>
@@ -19500,16 +19401,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="gresshoppe 4c4620ff-e70f-494c-81f1-4af759812e16">
             <t pos="N" soggi="a" stem="2syll">kraesienjålhtja</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">gråhvit rein</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="gråhvit rein ba6b8606-a059-4f8d-9669-2627882c0cb4">
-            <t pos="N" soggi="e" stem="2syll">kraeviesjovje</t>
          </tg>
       </mg>
    </e>
@@ -20803,6 +20694,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="slakterein ca5b68ba-dfe4-48fd-8bd1-9e8078105932">
             <t margo="e" pos="N" soggi="a" stem="3syll">neastetje</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="slakterein som man skal ha til våren f3192978-6cde-4e72-9b72-8b9106ba8537">
+	         <re>som man skal ha til våren</re>
+            <t pos="N" soggi="ie" stem="2syll">gïjreniestie</t>
          </tg>
       </mg>
    </e>
@@ -22760,16 +22657,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="omegn 010ce692-b11b-4157-ab3c-e11cc6bc95fe">
             <t pos="N" soggi="ie" stem="2syll">mierie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">simle med kalv</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="simle med kalv 6ae6ab2f-eebb-49a9-af99-de4c5757ef73">
-            <t margo="e" pos="N" soggi="ie" stem="3syll">miesehke</t>
          </tg>
       </mg>
    </e>
@@ -26522,25 +26409,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">kastrert reinsbukk</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="kastrert reinsbukk 6fb76a52-78fe-4a32-9584-ebc0e503b6c4">
-            <t pos="N" soggi="e" stem="2syll">råahke</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="kastrert reinsbukk b94f3c55-1256-45f7-a827-36c656c8aeca">
-            <t pos="N" soggi="oe" stem="2syll">råantjoe</t>
-            <xg>
-               <x>bukk uten skinn på hornene</x>
-               <xt>göölemenåejjie råantjoe</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">bikkje</l>
       </lg>
       <mg>
@@ -26646,16 +26514,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="gjeldsimle 9b381378-d934-4dbb-bed9-582c7f830d64">
             <t pos="N" soggi="e" stem="2syll">staajne</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">simle som enten ikke har fått kalv eller har mistet den det aktuelle året</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="simle som enten ikke har fått kalv eller har mistet den det aktuelle året c025e105-4618-4841-8bbb-6faac0f8d64f">
-            <t pos="N" soggi="oe" stem="2syll">råtnoe</t>
          </tg>
       </mg>
    </e>
@@ -28570,16 +28428,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">ungsimle</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="ungsimle 406b0c37-636e-455f-9008-1216fe64697e">
-            <t pos="N" soggi="e" stem="2syll">skåaknge</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">elgkvige</l>
       </lg>
       <mg>
@@ -29223,16 +29071,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">mindre reinbukk</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="mindre reinbukk 5e914152-868a-4ff1-8b89-629806f38d85">
-            <t pos="N" soggi="e" stem="2syll">snorre</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">nygress</l>
       </lg>
       <mg>
@@ -29701,16 +29539,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="spill e3416c86-e717-45f2-9b4e-a8ae69b1496b">
             <t pos="N" soggi="e" stem="2syll">spïele</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">simle som aldri får kalv</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="simle som aldri får kalv 5078c695-dcb8-4612-97b8-b1d618937f9f">
-            <t pos="N" soggi="e" stem="2syll">staajne</t>
          </tg>
       </mg>
    </e>
@@ -30336,16 +30164,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">reinokse under første året etter kastrering men med hornene i behold</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="reinokse under første året etter kastrering men med hornene i behold 618092ad-5fb8-4f3a-87d0-946ded435598">
-            <t margo="e" pos="N" soggi="ie" stem="3syll">svaejlehke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">raskt måltid</l>
       </lg>
       <mg>
@@ -30538,16 +30356,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="flis d44e9cb7-0736-4782-a005-7460f58e2843">
             <t pos="N" soggi="a" stem="2syll">såara</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">svart rein</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="svart rein dc6a8518-efe1-4e0a-85a9-64a956650888">
-            <t pos="N" soggi="a" stem="2syll">såarhta</t>
          </tg>
       </mg>
    </e>
@@ -32803,16 +32611,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">grå rein med små hvite prikker på snuten</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="grå rein med små hvite prikker på snuten 90a9d565-c566-4ecc-bdf3-68e39f30eaf1">
-            <t pos="N" soggi="ie" stem="2syll">treblienjuenie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">trapp</l>
       </lg>
       <mg>
@@ -33071,16 +32869,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="snitt 8ec3a883-ee5c-4874-8964-c5caa4c0a59b">
             <t pos="N" soggi="oe" stem="2syll">væjjoe</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">ti rein</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="ti rein a7112d40-349f-42bf-beb3-111a148b012a">
-            <t pos="N" soggi="ie" stem="2syll">tsiehkie</t>
          </tg>
       </mg>
    </e>
@@ -35005,26 +34793,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">2-3 år gammel simle</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="2-3 år gammel simle 32233048-9a28-4601-9d36-4e08691c9f0f">
-            <t margo="e" pos="N" soggi="ie" stem="3syll">vuenjele</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">tre år gammel hannrein</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="tre år gammel hannrein 89186cdb-f61b-4646-96f4-cec31562a5a3">
-            <t margo="e" pos="N" soggi="e" stem="3syll">vueperese</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">målsetning</l>
       </lg>
       <mg>
@@ -36080,16 +35848,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">hannrein</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="hannrein ec32d2f8-ae7c-4fce-b5b1-dd3322e9a6e4">
-            <t pos="N" soggi="a" stem="2syll">årra</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">beboer</l>
       </lg>
       <mg>
@@ -36370,7 +36128,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">bjøllesimle</l>
+         <l pos="N">bjellesimle</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="bjøllesimle 3f33fe1a-4846-42f5-81f3-63861b635d68">
@@ -37822,16 +37580,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="tægerbinder ca508e7b-184a-4d8d-a219-08f3c06dc562">
             <t margo="e" pos="N" soggi="i" stem="3syll">gårrije</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">simle som er født hornløs</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="simle som er født hornløs 8054f507-5d3a-4d65-ae0f-a62a0c9017c5">
-            <t pos="N">haame</t>
          </tg>
       </mg>
    </e>
@@ -70304,34 +70052,12 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="BergslandMagga">
       <lg>
-         <l pos="N">tranbær</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <re xml:lang="lat">Oxycoccus</re>
-            <t pos="N">bealhtoenmuerjie</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="BergslandMagga">
-      <lg>
          <l pos="N">blåstrupe</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">Luscinia suecica</re>
             <t pos="N">bealloeladtetje</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="BergslandMagga">
-      <lg>
-         <l pos="N">tranbær</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <re xml:lang="lat">Oxycoccus</re>
-            <t pos="N">bïekerenmuerjie</t>
          </tg>
       </mg>
    </e>
@@ -70465,6 +70191,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <re xml:lang="lat">Oxycoccus quadripetalus</re>
             <t pos="N">gïekenmuerjie</t>
+            <t pos="N">bealhtoenmuerjie</t>
+            <t pos="N">bïekerenmuerjie</t>
          </tg>
       </mg>
    </e>
