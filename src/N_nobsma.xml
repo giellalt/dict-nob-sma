@@ -5594,6 +5594,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">reinhjord</l>
       </lg>
       <mg>
+         <l_ref>simle_n</l_ref>
          <tg xml:lang="sma" tw_id="reinhjord a6afe26d-38c2-4c80-afb9-d237f7450c61">
             <t pos="N" soggi="e" stem="2syll">bovtje</t>
             <t pos="N" soggi="e" stem="2syll">bovtse</t>
@@ -5788,19 +5789,19 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="nylig kastrert hannrein om høsten 9db2bdd1-a42f-4783-9fca-073dd192d8a0">
-         <re>nylig kastrert hannrein om høsten</re>
+         <re>hannrein: nylig kastrert om høsten</re>
             <t pos="N" soggi="e" stem="2syll">gaatske</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="ukastrert leietam reinokse 6db6014a-5a1f-4512-91c7-85392823eb38">
-         <re>ukastrert leietam hannrein</re>
+         <re>hannrein: ukastrert leietam</re>
             <t pos="N" soggi="oe" stem="2syll">gaavelhråantjoe</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="kastrert reinsbukk 6fb76a52-78fe-4a32-9584-ebc0e503b6c4">
-         <re>kastrert hannrein</re>
+         <re>hannrein: kastrert</re>
             <t pos="N" soggi="e" stem="2syll">råahke</t>
             <t pos="N" soggi="oe" stem="2syll">råantjoe</t>
             <xg>
@@ -5811,19 +5812,19 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="reinokse under første året etter kastrering men med hornene i behold 618092ad-5fb8-4f3a-87d0-946ded435598">
-         <re>hannrein under første året etter kastrering, med hornene i behold</re>
+         <re>hannrein: under første året etter kastrering, med hornene i behold</re>
             <t margo="e" pos="N" soggi="ie" stem="3syll">svaejlehke</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="reinokse under første året etter kastrering, dersom den mister hornene 37af65ba-0d28-4ce5-a55a-31be3ad06d53">
-         <re>hannrein under første året etter kastrering, dersom den mister hornene</re>
+         <re>hannrein: under første året etter kastrering, dersom den mister hornene</re>
             <t margo="e" pos="N" soggi="ie" stem="3syll">gaetskehke</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="gammel hannrein som ikke lenger feier hornene 6b512df1-bf03-4953-b8a1-cb260adb6389">
-         <re>gammel hannrein som ikke lenger feier hornene</re>
+         <re>hannrein: gammel hannrein som ikke lenger feier hornene</re>
             <t pos="N" soggi="ie" stem="2syll">göölemenåejjie</t>
          </tg>
       </mg>
