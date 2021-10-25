@@ -48,7 +48,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="taler b1a75b67-177e-4a35-b7d1-6736b9e8a9a6">
             <t>håaloje</t>
-            <t>låasije</t>
          </tg>
       </mg>
    </e>
@@ -3699,6 +3698,26 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="tann 2b55df49-4c2f-49fd-afc4-b998ab585cbb">
             <t pos="N" soggi="ie" stem="2syll">baenie</t>
+         </tg>
+      </mg>
+   </e>
+      <e>
+      <lg>
+         <l pos="N">melketann</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma" tw_id="tann 2b55df49-4c2f-49fd-afc4-b998ab585cbb">
+            <t pos="N" soggi="ie" stem="2syll">moerebaenie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">visdomstann</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma" tw_id="tann 2b55df49-4c2f-49fd-afc4-b998ab585cbb">
+            <t pos="N" soggi="ie" stem="2syll">mïetskebaenie</t>
          </tg>
       </mg>
    </e>
