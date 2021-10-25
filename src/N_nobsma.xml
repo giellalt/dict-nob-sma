@@ -5594,7 +5594,6 @@ For the full license text, see the link above.</lic>
          <l pos="N">reinhjord</l>
       </lg>
       <mg>
-         <l_ref>simle_n</l_ref>
          <tg xml:lang="sma" tw_id="reinhjord a6afe26d-38c2-4c80-afb9-d237f7450c61">
             <t pos="N" soggi="e" stem="2syll">bovtje</t>
             <t pos="N" soggi="e" stem="2syll">bovtse</t>
@@ -5611,6 +5610,7 @@ For the full license text, see the link above.</lic>
          <l pos="N">rein</l>
       </lg>
       <mg>
+         <l_ref>simle_n</l_ref>
          <tg xml:lang="sma" tw_id="rein 341f4add-3ef7-4cd5-92ed-526402b0aec5">
             <t pos="N" soggi="e" stem="2syll">bovtse</t>
             <t pos="N" soggi="oe" stem="2syll">båatsoe</t>
