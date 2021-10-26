@@ -15914,15 +15914,6 @@ For the full license text, see the link above.</lic>
          <l pos="V">få</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="få 157f003b-6668-42d6-b0d3-4355f01751e5">
-            <t class="VI" p3p="fihkie" pos="V" stem="2syll">fihkedh</t>
-            <xg>
-               <x>Du får snakke uten at jeg spør.</x>
-               <xt>Datne fihkh soptsestidh bielelen mov gihtjemem.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
          <tg xml:lang="sma" tw_id="få e9d08d3b-c387-4281-8839-73a7f7cc4eba">
             <t
           class="II"
@@ -15933,10 +15924,21 @@ For the full license text, see the link above.</lic>
           vow="x"
         >åadtjodh</t>
             <xg>
-               <x
-          >Du får ikke gå uten meg! Birje, som jeg har fått boka av, er tanta mi.</x>
-               <xt
-          >Ih åadtjoeh mov bielelen vaedtsedh! Birje, giestie gærjam åadtjoejim, lea mov muahra.</xt>
+               <x>Du får ikke gå uten meg!</x>
+               <xt>Ih åadtjoeh mov bielelen vaedtsedh!</xt>
+            </xg>
+            <xg>
+               <x>Birje, som jeg har fått boka av, er tanta mi.</x>
+               <xt>Birje, giestie gærjam åadtjoejim, lea mov muahra.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="få 157f003b-6668-42d6-b0d3-4355f01751e5">
+            <t class="VI" p3p="fihkie" pos="V" stem="2syll">fihkedh</t>
+            <xg>
+               <x>Du får snakke uten at jeg spør.</x>
+               <xt>Datne fihkh soptsestidh bielelen mov gihtjemem.</xt>
             </xg>
          </tg>
       </mg>
