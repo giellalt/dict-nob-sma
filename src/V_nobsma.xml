@@ -54028,8 +54028,12 @@ For the full license text, see the link above.</lic>
           vow="x"
         >vedtedh</t>
             <xg>
-               <x>tilgi henvise</x>
-               <xt>aanteges vedtedh gaskesem guhkiebasse vedtedh</xt>
+               <x>Til hvem tenker du å gi disse?</x>
+               <xt>Gïese daejtie ussjedh vedtedh?</xt>
+            </xg>
+            <xg>
+               <x>Du må også huske å gi litt til deg selv.</x>
+               <xt>Tjoerh aaj mujhtedh ånnetji jïjtsadth vedtedh.</xt>
             </xg>
          </tg>
       </mg>
