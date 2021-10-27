@@ -414,16 +414,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron">litt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="litt 48a13692-3f0b-4ef2-b7d4-8470b082148c">
-            <t pg="no" pos="Pron" type="Indef">ohtjetje</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Pron">noen</l>
       </lg>
       <mg>

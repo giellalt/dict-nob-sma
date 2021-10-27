@@ -553,13 +553,13 @@ For the full license text, see the link above.</lic>
          <l pos="Adv">litt</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="litt ba9ffa3c-5ef1-44a1-86f6-3f2a44cce4d7">
-            <t pos="Adv">ahtjetje</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="litt db3f4d21-a900-407a-a465-f97e8e02c1ae">
+         <tg xml:lang="sma">
+            <t pos="Adv">ånnetje</t>
             <t pos="Adv">ånnetji</t>
+            <xg>
+               <x>Fortell nå litt om deg selv.</x>
+               <xt>Soptsesth dellie ånnetje dov bïjre.</xt>
+            </xg>
             <xg>
                <x>Vent litt!</x>
                <xt>Vuertieh ånnetji!</xt>
@@ -567,11 +567,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="litt cc1eff8b-f5f6-4cfe-9a95-c94eb871136b">
-            <t pos="Adv">ånnetje</t>
+         <tg xml:lang="sma">
+            <t pos="Adv">ohtjetje</t>
+            <t pos="Adv">ahtjetje</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">faagka</t>
+            <t pos="Adv">faagkan</t>
             <xg>
-               <x>Fortell nå litt om deg selv.</x>
-               <xt>Soptsesth dellie ånnetje dov bïjre.</xt>
+               <x>Kofta er litt for kort.</x>
+               <xt>Gaeptie faagkan åenehks.</xt>
             </xg>
          </tg>
       </mg>
@@ -2642,25 +2649,6 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Dette er en forferdelig stygg hund.</x>
                <xt>Daate gaajh vesties bïenje.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">litt for</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="litt for b8bb65e2-79c3-4563-ae1f-14647b37c5e3">
-            <t pos="Adv">faagka</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="litt for 3a9af5e7-dacd-4058-9e34-2cd583f55844">
-            <t pos="Adv">faagkan</t>
-            <xg>
-               <x>Kofta er litt for kort.</x>
-               <xt>Gaeptie faagkan åenehks.</xt>
             </xg>
          </tg>
       </mg>

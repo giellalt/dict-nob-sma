@@ -3456,25 +3456,25 @@ For the full license text, see the link above.</lic>
          <l pos="A">lite</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="lite 75d906a2-e536-4992-9bd9-65d2a07a0a28">
-            <t pos="A" stem="3syll">madtege</t>
+         <tg xml:lang="sma" tw_id="lite f8126368-5d3f-4ce6-aacc-6995f0b465cd">
+            <t pos="A" stem="2syll">vaenie</t>
             <xg>
-               <x>lite gress lite mat</x>
-               <xt>madtege kraesie madtege beapmoeh</xt>
+               <x>Det er lite melk.</x>
+               <xt>Vaenie mielhkie.</xt>
+            </xg>
+            <xg>
+               <x>Jeg har lite penger.</x>
+               <xt>Mov vaenie beetnegh.</xt>
             </xg>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="lite 56e614fb-eeda-4363-a787-431eb0d62399">
-            <t pos="A" stem="2syll">ohtje</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="lite f8126368-5d3f-4ce6-aacc-6995f0b465cd">
-            <t pos="A" stem="2syll">vaenie</t>
+         <tg xml:lang="sma" tw_id="lite 75d906a2-e536-4992-9bd9-65d2a07a0a28">
+            <re>dårlig med</re>
+            <t pos="A" stem="3syll">madtege</t>
             <xg>
-               <x>Det er lite melk. Jeg har lite penger.</x>
-               <xt>Vaenie mielhkie. Mov vaenie beetnegh.</xt>
+               <x>Lite gress og lite mat.</x>
+               <xt>Madtege kraesie jïh madtege beapmoeh.</xt>
             </xg>
          </tg>
       </mg>
@@ -3982,6 +3982,19 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="liten 8fbd2d76-9501-4dab-8f89-d124a9c3492a">
             <t pos="A" stem="2syll">onne</t>
+            <xg>
+               <x>Dellie goh aahka lij onne.</x>
+               <xt>Da bestemor var liten.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="liten 8fbd2d76-9501-4dab-8f89-d124a9c3492a">
+            <t pos="A" stem="2syll">ohtje</t>
+            <xg>
+               <x>I sjøen er en liten holme.</x>
+               <xt>Jaevresne ohtje sååletje.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
