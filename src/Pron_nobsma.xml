@@ -417,16 +417,8 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">noen</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="noen 302cac59-902c-41e4-b507-003fbfb39b96">
-            <t pos="Pron" type="Indef">måedtie</t>
-            <xg>
-               <x>mange ganger</x>
-               <xt>måedtien aejkien</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
          <tg xml:lang="sma" tw_id="noen 40294a1d-bf01-46a8-9bd8-03913d27fbc9">
+             <re>en og annen, noen/noe</re>
             <t pos="Pron" type="Indef">muvhte</t>
             <xg>
                <x>noen steder</x>
@@ -443,11 +435,25 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
+         <tg xml:lang="sma" tw_id="noen 302cac59-902c-41e4-b507-003fbfb39b96">
+             <re>en del, mange</re>
+            <t pos="Pron" type="Indef">måedtie</t>
+            <xg>
+               <x>mange ganger</x>
+               <xt>måedtien aejkien</xt>
+            </xg>
+            <xg>
+               <x>ikke mange dagene</x>
+               <xt>ij måedtieh biejjieh</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
          <tg xml:lang="sma" tw_id="noen 8a7ab5d0-bebf-4e66-aaa7-8d181e4113bd">
             <t pg="no" pos="Pron" type="Indef">såemies</t>
             <xg>
                <x>Noen skoler skal tilby undervisning i samisk.</x>
-               <xt>Såemies skuvlh edtjieh lohkehtimmiem saemiengïelesne faaledh.</xt>
+               <xt>Såemies skuvlh edtjieh saemien lohkehtimmiem faaledh.</xt>
             </xg>
          </tg>
       </mg>
@@ -895,7 +901,7 @@ For the full license text, see the link above.</lic>
             <t pg="no" pos="Pron" type="Indef">abpe</t>
             <xg>
                <x>Hele vinteren hadde vi gått til skolen, slik at vi var gått lei.</x>
-               <xt>Abpe daelviem skuvlesse limh vaadtseme, guktie eevre destie vïssjehtovveme.</xt>
+               <xt>Abpe daelviem skuvlese limh vaadtseme, guktie eevre destie vïssjehtovveme.</xt>
             </xg>
          </tg>
       </mg>

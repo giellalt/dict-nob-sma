@@ -2879,15 +2879,15 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="mye 8226c5c5-5801-4fde-85af-66ed3dafcefe">
-            <t pos="A" stem="2syll">jeenje</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="mye 041e250b-239c-4ea0-9dfa-f52af49135b2">
             <t pos="A" stem="2syll">jïjnje</t>
+            <t pos="A" stem="2syll">jeenje</t>
             <xg>
-               <x>Da var det mye av arten fjellrev. Her er det mange hunder.</x>
-               <xt>Dillie lij jïjnje svaale. Daesnie jïjnjh bïenjh.</xt>
+               <x>Da var det mye av arten fjellrev.</x>
+               <xt>Dillie lij jïjnje svaale.</xt>
+            </xg>
+            <xg>
+               <x>Her er det mange hunder.</x>
+               <xt>Daesnie jïjnjh bïenjh.</xt>
             </xg>
          </tg>
       </mg>
@@ -2897,8 +2897,8 @@ For the full license text, see the link above.</lic>
          <l pos="A">mange</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="mange 1b59b885-edd7-480f-84d1-600f69a161b2">
-            <t pos="A" stem="2syll">jeenje</t>
+         <tg xml:lang="sma">
+            <t pos="A">jïjnjh</t>
          </tg>
       </mg>
    </e>
@@ -5279,11 +5279,25 @@ For the full license text, see the link above.</lic>
          <l pos="A">få</l>
       </lg>
       <mg>
+         <tg xml:lang="sma">
+            <t pos="A" stem="2syll">gille</t>
+            <xg>
+               <x>Nå er det bare noen få igjen.</x>
+               <xt>Daelie ajve gille aajmene.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
          <tg xml:lang="sma" tw_id="få 250f26a9-f08b-4904-9150-b4a9ee8bdb1b">
+            <re>lite</re>
             <t pos="A" stem="2syll">vaenie</t>
             <xg>
-               <x>Det er lite melk. Jeg har lite penger.</x>
-               <xt>Vaenie mielhkie. Mov vaenie beetnegh.</xt>
+               <x>Her er svært få arbeidsplasser.</x>
+               <xt>Daesnie joekoen vaenie barkoesijjieh.</xt>
+            </xg>
+            <xg>
+               <x>Det er få eller ingen tilbud.</x>
+               <xt>Vaenie jallh ij naan faaleldahkh.</xt>
             </xg>
          </tg>
       </mg>
@@ -6260,16 +6274,6 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="sma" tw_id="lignende 133a4683-a699-4142-b4c7-9719b25de583">
         <t pos="A">plearoeh</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A" src="fad">mange</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sma" tw_id="mange 0c5f0a50-2d2f-4a85-8548-182d9c1ec24a">
-        <t pos="A">jeene</t>
       </tg>
     </mg>
   </e>
