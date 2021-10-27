@@ -832,7 +832,7 @@ For the full license text, see the link above.</lic>
             <t pos="Pron" type="Indef">jeatja</t>
             <xg>
                <x>kunnskap om en annen kultur og et annet språk</x>
-               <xt>maahtoe jeatja kultuvren bïjre jïh jeatja gïelen bïjre</xt>
+               <xt>maahtoe jeatjah kultuvren bïjre jïh jeatjah gïelen bïjre</xt>
             </xg>
             <xg>
                <x>andre opplysninger</x>
@@ -844,8 +844,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma" tw_id="en annen 73040f27-06f9-44cb-90ae-6f997e36a875">
             <t pos="Pron" type="Indef">jeatjebe</t>
             <xg>
-               <x>gjøre noe annet De andre kom etter oss.</x>
-               <xt>jeatjebem darjodh Dah jeatjebh mijjen mænngan böötin.</xt>
+               <x>De andre kom etter oss.</x>
+               <xt>Dah jeatjebh mijjen mænngan böötin.</xt>
             </xg>
          </tg>
       </mg>
@@ -863,7 +863,7 @@ For the full license text, see the link above.</lic>
             </xg>
             <xg>
                <x>Vil du ha noe annet da?</x>
-               <xt>Sïjhth maam jeatjah utnedh dellie?</xt>
+               <xt>Sïjhth maam jeatjah dellie?</xt>
             </xg>
          </tg>
       </mg>
@@ -890,8 +890,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma" tw_id="hver 0e6f9c1e-04b2-4b25-910c-3913aa9c4b89">
             <t pos="Pron" type="Indef">fïerhte</t>
             <xg>
-               <x>i hver sin kommune i hver kommune hver gang Man bør pusse tennene hver morgen.</x>
-               <xt>fïerhtene tjïeltesne fïerhten tjïeltesne fïerhten aejkien Fïerhten aereden byöroe baenide skubpedh.</xt>
+               <x>Man bør pusse tennene hver morgen.</x>
+               <xt>Fïerhten aereden byöroe baenide skubpedh.</xt>
             </xg>
          </tg>
       </mg>
@@ -904,8 +904,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma" tw_id="hele 2461476c-6c31-4a54-9e54-7d60bc7b1a4a">
             <t pg="no" pos="Pron" type="Indef">abpe</t>
             <xg>
-               <x>Hele vinteren hadde vi gått på skolen slik at vi var gått lei.</x>
-               <xt>Abpe daelviem limh skuvlesne vaadtseme guktie eevre vïssjehtovveme.</xt>
+               <x>Hele vinteren hadde vi gått til skolen, slik at vi var gått lei.</x>
+               <xt>Abpe daelviem skuvlesse limh vaadtseme, guktie eevre destie vïssjehtovveme.</xt>
             </xg>
          </tg>
       </mg>
@@ -919,7 +919,7 @@ For the full license text, see the link above.</lic>
             <t pg="no" pos="Pron" type="Indef">såemies</t>
             <xg>
                <x>Noen skoler skal tilby undervisning i samisk.</x>
-               <xt>Såemies skuvlh edtjieh ööhpehtimmiem saemiengïelesne faaledh.</xt>
+               <xt>Såemies skuvlh edtjieh saemien lohkehtimmiem faaledh.</xt>
             </xg>
          </tg>
       </mg>
@@ -935,10 +935,11 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="noe som helst 182bf19c-e096-4428-a871-800da766ae59">
-            <t pg="no" pos="Pron" type="Indef">maamgih</t>
+            <t pg="no" pos="Pron" type="Indef">mij gih</t>
+            <t pg="no" pos="Pron" type="Indef">mij gænnah</t>
             <xg>
                <x>Piere hadde ikke noe som helst.</x>
-               <xt>Idtji Piere maamgih utnieh.</xt>
+               <xt>Ij lij Pieren mij gænnah</xt>
             </xg>
          </tg>
       </mg>
