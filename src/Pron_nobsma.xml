@@ -459,6 +459,13 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <t pg="no" pos="Pron" type="Indef">naakene</t>
+            <t pg="no" pos="Pron" type="Indef">naan</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>om personer</re>
             <t pos="Pron" type="Indef">guhte</t>
             <xg>
                <x>Om det er noen her som kan hjelpe meg?</x>
@@ -472,6 +479,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="en eller annen afcb7a3f-6ee3-42b3-b586-51f4c4b599ff">
+	         <re>om personer</re>
             <t pos="Pron">gie joem</t>
             <xg>
                <x>Han er så glad for at noen igjen vil leke med ham.</x>
