@@ -2465,6 +2465,25 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
+         <l pos="Pr">i stedet for</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Po">sijjeste</t>
+            <t pos="Po">sæjjan</t>
+            <xg>
+               <x>Istedenfor bruker de infinitiver og nominativer.</x>
+               <xt>Dan sijjeste infinitijvh jïh nominatijvh nuhtjieh.</xt>
+            </xg>
+            <xg>
+               <x>Så fikk jeg da deg i stedet for ham.</x>
+               <xt>Datnem jis åadtjoejim altese sæjjan.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="Pr">midt i</l>
       </lg>
       <mg>
