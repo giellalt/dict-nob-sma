@@ -36,7 +36,7 @@ For the full license text, see the link above.</lic>
             <t pos="Po">bieleli</t>
             <xg>
                <x>Jeg klarer meg ikke uten barna mine.</x>
-               <xt>Im bearkedh mov maanaj bieleli.</xt>
+               <xt>Maanaj bieleli im bearkenh</xt>
             </xg>
          </tg>
       </mg>
@@ -49,8 +49,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma" tw_id="hverandre 53ed29fc-9b63-4b6c-8229-13185915c154">
             <t pos="Po">gaskemsh</t>
             <xg>
-               <x>Mellom dem er det slik.</x>
-               <xt>Dej gaskemsh lea nimhtie.</xt>
+               <x>De er glad i hverandre</x>
+               <xt>dah gaskemsh lyjhkededtieh.</xt>
             </xg>
          </tg>
       </mg>
@@ -64,7 +64,21 @@ For the full license text, see the link above.</lic>
             <t pos="Po">sisnjielisnie</t>
             <xg>
                <x>Det er bra å ha en tynn undertrøye innenfor kofta.</x>
-               <xt>Hijven jissehts lijhkiesjåarhtoe utnedh gåptoen sisnjielisnie.</xt>
+               <xt>Hijven jissehts lijhkiesjåarhtoe gåptoen sisnjielisnie utnedh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+      <e>
+      <lg>
+         <l pos="Po">innersiden</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma" tw_id="innenfor edbed6a1-1d69-4956-9690-be2c5134c2dc">
+            <t pos="Po">sisnjielistie</t>
+            <xg>
+               <x>Skinnet bøyer jeg over (kanten) og syr det (fast) på innersiden</x>
+               <xt>Dam skåerriem marngestem bijjelen jih sisnjielistie gåaroem</xt>
             </xg>
          </tg>
       </mg>
