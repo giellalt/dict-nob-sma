@@ -2491,7 +2491,7 @@ For the full license text, see the link above.</lic>
             <t pos="Po">gaskoeh</t>
             <xg>
                <x>I år kommer påsken i midten av april. midt i denne måneden</x>
-               <xt>Daan jaepien påaske voerhtjen gaskoeh båata. daan asken gaskoeh</xt>
+               <xt>Daan jaapetje påaskh voerhtjen gaskoeh sjidtieh. Daan asken gaskoeh</xt>
             </xg>
          </tg>
       </mg>
@@ -2505,7 +2505,7 @@ For the full license text, see the link above.</lic>
             <t pos="Po">gaskoeh</t>
             <xg>
                <x>I år kommer påsken i midten av april. midt i denne måneden</x>
-               <xt>Daan jaepien påaske voerhtjen gaskoeh båata. daan asken gaskoeh</xt>
+               <xt>Daan jaapetje påaskh voerhtjen gaskoeh sjidtieh. Daan asken gaskoeh</xt>
             </xg>
          </tg>
       </mg>
@@ -2521,6 +2521,10 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Sett deg bak meg!</x>
                <xt>Tjihkedh mov genhtsemen!</xt>
+            </xg>
+            <xg>
+               <x>Sett deg bak meg!</x>
+               <xt>Tjihkedh mov duakan!</xt>
             </xg>
          </tg>
       </mg>
@@ -2569,10 +2573,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="inn mellom 54eda018-124d-416c-a8aa-1d31f7ce864d">
-            <t pos="Po">giske</t>
+            <t pos="Po">gaskese</t>
             <xg>
                <x>Legg bladet mellom de her bøkene!</x>
-               <xt>Bïejh dam lastem daej gærjaj giske!</xt>
+               <xt>Bïejh dam lastem daej gærjaj gaskese!</xt>
             </xg>
          </tg>
       </mg>
@@ -2645,7 +2649,7 @@ For the full license text, see the link above.</lic>
             <t pos="Po">jilleli</t>
             <xg>
                <x>Vestafor de fjellene er hytta som vi bodde i i fjor sommer.</x>
-               <xt>Doej vaartoej jilleli lea dïhte hæhtjoe gusnie mijjieh dæjmetje giesien årroejimh.</xt>
+               <xt>Doej vaartoej jilleli lea dïhte hæhtjoe gusnie dæjmetje giesien årroejimh.</xt>
             </xg>
          </tg>
       </mg>
@@ -2873,7 +2877,7 @@ For the full license text, see the link above.</lic>
             <t pos="Po">noerhtelen</t>
             <xg>
                <x>Vi bruker å fiske nord om den holmen.</x>
-               <xt>Mijjieh provhkebe gööledh dan såålen noerhtelen.</xt>
+               <xt>Mijjieh dan såålen noerhtelen viermieh jadtehtibie.</xt>
             </xg>
          </tg>
       </mg>
@@ -2933,6 +2937,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="nordfra b60b6063-13ba-4937-aee6-0a74f8c7bdca">
             <t pos="Po">noerhtelistie</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="nordfra b60b6063-13ba-4937-aee6-0a74f8c7bdca">
+            <t pos="Po">noerhtede</t>
          </tg>
       </mg>
    </e>
@@ -3066,7 +3075,7 @@ For the full license text, see the link above.</lic>
             <t pos="Po">åarjalisnie</t>
             <xg>
                <x>Hun kommer fra ei bygd sønnafor Snåsa.</x>
-               <xt>Dïhte aktede voeneste Snåasen åerjielisnie båata.</xt>
+               <xt>Dïhte voeneste Snåasen åerjielisnie båata.</xt>
             </xg>
          </tg>
       </mg>
@@ -3288,7 +3297,7 @@ For the full license text, see the link above.</lic>
             <t pos="Po">åvteste</t>
             <xg>
                <x>Flytt deg ut av veien for bilen min!</x>
-               <xt>Baaterh mov bïjlen åvteste!</xt>
+               <xt>Dabpenh mov bïjlen åvteste!</xt>
             </xg>
          </tg>
       </mg>
