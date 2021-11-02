@@ -418,15 +418,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="noen 40294a1d-bf01-46a8-9bd8-03913d27fbc9">
-             <re>en og annen, noen/noe</re>
+             <re>en og annen, noen</re>
             <t pos="Pron" type="Indef">muvhte</t>
             <xg>
                <x>Noen steder. Noen ganger.</x>
                <xt>Muvhten lehkien. Muvhten aejkien.</xt>
-            </xg>
-            <xg>
-               <x>Noen steder dukker sola fram mellom skyene og gjør mennesket glad.</x>
-               <xt>Muvhth lehkieh biejjie balvi gaskem jæjhta jïh almetjem madtjeldahta.</xt>
             </xg>
             <xg>
                <x>Bruden og brudgommen fikk gaver, av noen fikk de rein, av noen penger og av noen sølv.</x>
@@ -490,9 +486,14 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma" tw_id="en eller annen afcb7a3f-6ee3-42b3-b586-51f4c4b599ff">
 	         <re>om personer</re>
             <t pos="Pron">gie joem</t>
+            <t pos="Pron">gie akt</t>
             <xg>
                <x>Han er så glad for at noen igjen vil leke med ham.</x>
                <xt>Dïhte dan feejjen, juhkoe gie joem vihth satnine sæjhta stååkedidh.</xt>
+            </xg>
+            <xg>
+               <x>Jeg så noen.</x>
+               <xt>Gïem akt vööjnim.</xt>
             </xg>
          </tg>
       </mg>
