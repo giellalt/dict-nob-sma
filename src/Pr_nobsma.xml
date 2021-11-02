@@ -1681,8 +1681,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma" tw_id="på grunn av f7a4d73f-63aa-4f73-8262-8d9b6f48c870">
             <t pos="Po">gaavhtan</t>
             <xg>
-               <x>Av den grunn er det vanskelig. Det var bare for moro skyld. for eksempel</x>
-               <xt>Dan gaavhtan geerve. Barre lusten gaavhtan lij dïhte. vuesiehtimmien gaavhtan</xt>
+               <x>Av den grunn er det vanskelig.</x>
+               <xt>Dan gaavhtan geerve.</xt>
             </xg>
          </tg>
       </mg>
@@ -1699,8 +1699,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma" tw_id="på grunn av 06790afe-9776-4c34-b7a8-ee0909be625b">
             <t pos="Po">dïehre</t>
             <xg>
-               <x>Av den grunn tror hun ikke det er riktig. De kom på grunn av møtet.</x>
-               <xt>Dan dïehre ij vïenhth dïhte reaktoe. Dah tjåanghkoen dïehre böötin.</xt>
+               <x>Av den grunn tror hun ikke det er riktig.</x>
+               <xt>Dan dïehre ij vïenhth dïhte reaktoe.</xt>
+            </xg>
+            <xg>
+               <x>De kom på grunn av møtet.</x>
+               <xt>Dah tjåanghkoen dïehre böötin.</xt>
             </xg>
          </tg>
       </mg>
@@ -2157,9 +2161,9 @@ For the full license text, see the link above.</lic>
             <t pos="Po">bæjngoelistie</t>
             <xg>
                <x>Hvis vi hadde greid å passe oss for råd som alltid kommer utenfra, og arbeidet bedre etter våre egne
-               verdier...</x>
+               verdier.</x>
                <xt>Jis libie buektiehtamme geehtedidh dujstie raerijste mah iktegisth bæjngoelistie båetieh, jïh buerebh
-               mijjen jïjtjemh aarvoej mietie ektese-vyöki barkeme...</xt>
+               mijjen jïjtjemh aarvoej mietie ektese-vyöki barkeme.</xt>
             </xg>
          </tg>
       </mg>
@@ -2173,9 +2177,9 @@ For the full license text, see the link above.</lic>
             <t pos="Po">bæjngoelistie</t>
             <xg>
                <x>Hvis vi hadde greid å passe oss for råd som alltid kommer utenfra, og arbeidet bedre etter våre egne
-               verdier...</x>
+               verdier.</x>
                <xt>Jis libie buektiehtamme geehtedidh dujstie raerijste mah iktegisth bæjngoelistie båetieh, jïh buerebh
-               mijjen jïjtjemh aarvoej mietie ektese-vyöki barkeme...</xt>
+               mijjen jïjtjemh aarvoej mietie ektese-vyöki barkeme.</xt>
             </xg>
          </tg>
       </mg>
@@ -2490,22 +2494,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma" tw_id="midt i 991688ff-b941-4451-a7b8-d493e2ca9e58">
             <t pos="Po">gaskoeh</t>
             <xg>
-               <x>I år kommer påsken i midten av april. midt i denne måneden</x>
-               <xt>Daan jaapetje påaskh voerhtjen gaskoeh sjidtieh. Daan asken gaskoeh</xt>
+               <x>I år kommer påsken i midten av april.</x>
+               <xt>Daan jaapetje påaskh voerhtjen gaskoeh sjidtieh.</xt>
             </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pr">midt på</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="midt på f81866f0-a9dc-4033-9589-969bbc2f8484">
-            <t pos="Po">gaskoeh</t>
             <xg>
-               <x>I år kommer påsken i midten av april. midt i denne måneden</x>
-               <xt>Daan jaapetje påaskh voerhtjen gaskoeh sjidtieh. Daan asken gaskoeh</xt>
+               <x>Midt i denne måneden</x>
+               <xt>Daan asken gaskoeh.</xt>
             </xg>
          </tg>
       </mg>

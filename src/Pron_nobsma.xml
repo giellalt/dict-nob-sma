@@ -534,8 +534,8 @@ For the full license text, see the link above.</lic>
                <xt>Dan tjohpen ij naan duahpa.</xt>
             </xg>
             <xg>
-               <x>Jeg har ingen bukser</x>
-               <xt>Eah mov naan måvhkah</xt>
+               <x>Jeg har ingen bukser.</x>
+               <xt>Eah mov naan måvhkah.</xt>
             </xg>
          </tg>
       </mg>
@@ -581,8 +581,8 @@ For the full license text, see the link above.</lic>
                <xt>Ij mij gænnah.</xt>
             </xg>
             <xg>
-               <x>Jeg hadde ingenting</x>
-               <xt>Ij lij mov mij gænnah</xt>
+               <x>Jeg hadde ingenting.</x>
+               <xt>Ij lij mov mij gænnah.</xt>
             </xg>
             <xg>
                <x>Jeg trengte ikke å kjøpe noenting.</x>
@@ -975,7 +975,7 @@ For the full license text, see the link above.</lic>
             <t pg="no" pos="Pron" type="Indef">mij gænnah</t>
             <xg>
                <x>Piere hadde ikke noe som helst.</x>
-               <xt>Ij lij Pieren mij gænnah</xt>
+               <xt>Ij lij Pieren mij gænnah.</xt>
             </xg>
          </tg>
       </mg>
