@@ -421,16 +421,16 @@ For the full license text, see the link above.</lic>
              <re>en og annen, noen/noe</re>
             <t pos="Pron" type="Indef">muvhte</t>
             <xg>
-               <x>noen steder</x>
-               <xt>muvhten lehkien</xt>
+               <x>Noen steder. Noen ganger.</x>
+               <xt>Muvhten lehkien. Muvhten aejkien.</xt>
             </xg>
             <xg>
-               <x>Og så noen steder dukker sola fram mellom skyene og gjør mennesket glad.</x>
-               <xt>Jïh dle muvhth lehkieh biejjie balvi gaskem jæjhta jïh almetjem madtjeldahta.</xt>
+               <x>Noen steder dukker sola fram mellom skyene og gjør mennesket glad.</x>
+               <xt>Muvhth lehkieh biejjie balvi gaskem jæjhta jïh almetjem madtjeldahta.</xt>
             </xg>
             <xg>
-               <x>Bruden og brudgommen fikk gaver, av noen fikk de rein, og av noen penger og av noen sølv.</x>
-               <xt>Provrese jïh provkome sjïelh åadtjoejigan, muvhtijste bovtsh, jïh muvhtijste beetnegh, jïh muvhtijste sïlph.</xt>
+               <x>Bruden og brudgommen fikk gaver, av noen fikk de rein, av noen penger og av noen sølv.</x>
+               <xt>Provrese jïh provkome sjïelh åadtjoejigan, muvhtijste bovtsh, muvhtijste beetnegh jïh muvhtijste sïlph.</xt>
             </xg>
          </tg>
       </mg>
@@ -439,17 +439,18 @@ For the full license text, see the link above.</lic>
              <re>en del, mange</re>
             <t pos="Pron" type="Indef">måedtie</t>
             <xg>
-               <x>mange ganger</x>
-               <xt>måedtien aejkien</xt>
+               <x>Mange ganger.</x>
+               <xt>Måedtien aejkien.</xt>
             </xg>
             <xg>
-               <x>ikke mange dagene</x>
-               <xt>ij måedtieh biejjieh</xt>
+               <x>Ikke mange dagene.</x>
+               <xt>Ij måedtieh biejjieh.</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="noen 8a7ab5d0-bebf-4e66-aaa7-8d181e4113bd">
+             <re>en viss, noen</re>
             <t pg="no" pos="Pron" type="Indef">såemies</t>
             <xg>
                <x>Noen skoler skal tilby undervisning i samisk.</x>
@@ -461,6 +462,14 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pg="no" pos="Pron" type="Indef">naakene</t>
             <t pg="no" pos="Pron" type="Indef">naan</t>
+            <xg>
+               <x>Naakenh maehtieh joekoen skïemtjine sjïdtedh.</x>
+               <xt>Noen kan bli veldig syke.</xt>
+            </xg>
+            <xg>
+               <x>Lommen er ikke noen gåer (flink til å gå).</x>
+               <xt>Ij leah gurhtie naan vaedtsije.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -594,25 +603,47 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">noe</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="noe ae894481-f2c9-4258-9335-f0991f0d6181">
-            <t pos="Pron" type="Indef">naakene</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="noe 6a59a7e2-a87a-4923-833a-0c13ecdf0352">
-            <t pg="no" pos="Pron" type="Indef">naan</t>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Indef">mij akt</t>
             <xg>
-               <x>Og noen unge mennesker hadde allerede kommet.</x>
-               <xt>Jïh naan noere almetjh lin joe båateme.</xt>
+               <x>Noe rørte på seg.</x>
+               <xt>Mij akt svïhtji.</xt>
             </xg>
             <xg>
-               <x>Den lua har ikke noen dusk.</x>
-               <xt>Dan tjohpen ij naan duahpa.</xt>
+               <x>Jeg så noe.</x>
+               <xt>Vööjnim maam akt.</xt>
             </xg>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="noe acbb88b7-ad08-4ac1-aade-11463cca904a">
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Indef">mij joem</t>
+            <xg>
+               <x>Ring om det er noe.</x>
+               <xt>Rïnghkh jis mij joem.</xt>
+            </xg>
+            <xg>
+               <x>Noe er galt.</x>
+               <xt>Mij joem lea båajhtode.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>ved nekting</re>
+            <t pos="Pron" type="Indef">mij</t>
+            <xg>
+               <x>Det står ikke noe om det her.</x>
+               <xt>Ij mij daesnie tjåadtjoeh dan bïjre.</xt>
+            </xg>
+            <xg>
+               <x>Ikke si noe!</x>
+               <xt>Aellieh maam jiehtieh!</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
             <re>ved nekting</re>
             <t pg="no" pos="Pron" type="Indef">mejtegh</t>
             <xg>
@@ -622,12 +653,12 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="noe 4a5c4cd9-d970-4268-b8cb-f558935aaca4">
-            <re>ved nekting</re>
-            <t pos="Pron" type="Indef">mij</t>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Indef">naan</t>
+            <t pos="Pron" type="Indef">naakene</t>
             <xg>
-               <x>Det står ikke noe om det her.</x>
-               <xt>Ij mij daesnie tjåadtjoeh dan bïjre.</xt>
+               <x>Dette er ikke noe hjem.</x>
+               <xt>Daate ij naan gåetie.</xt>
             </xg>
          </tg>
       </mg>
