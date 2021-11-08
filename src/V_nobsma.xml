@@ -8058,6 +8058,20 @@ For the full license text, see the link above.</lic>
          <l pos="V">sulte</l>
       </lg>
       <mg>
+         <tg xml:lang="sma">
+            <t
+          class="V"
+          p3p="bårrestohtoe"
+          pos="V"
+          stem="2syll"
+        >bårrestohtedh</t>
+            <xg>
+               <x>Jeg er sulten.</x>
+               <xt>Manne bårrestohtem.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
          <tg xml:lang="sma" tw_id="sulte fe3c98fc-3b12-4315-8202-a88a6d2ef786">
             <t
           class="IV"
@@ -22702,6 +22716,10 @@ For the full license text, see the link above.</lic>
           umlaut="full"
           vow="x"
         >gojhkelovvedh</t>
+            <xg>
+               <x>Jeg er tørst.</x>
+               <xt>Manne gojhkelovvem.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
