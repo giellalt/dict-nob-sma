@@ -30158,7 +30158,42 @@ For the full license text, see the link above.</lic>
          <l pos="V">gå</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="gå 598caf32-2763-4052-b0b1-9812336ecdc4">
+         <tg xml:lang="sma">
+            <re>spasere</re>
+            <t
+          class="I"
+          p3p="vaadtsa"
+          pos="V"
+          stem="2syll"
+          umlaut="full"
+          vow="x"
+        >vaedtsedh</t>
+            <xg>
+               <x>Barnet går.</x>
+               <xt>Maana vaadtsa.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="gå 1517bd35-7485-4b9c-8269-8d455f96f724">
+            <re>ta en tur</re>
+            <t
+          class="IV"
+          p3p="mænna"
+          pos="V"
+          stem="2syll"
+          umlaut="full"
+          vow="x"
+        >mïnnedh</t>
+            <xg>
+               <x>Jeg skal gå innom butikken.</x>
+               <xt>Edtjem bovresne mïnnedh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>bevege seg</re>
             <t
           class="I"
           p3p="jåhta"
@@ -30174,29 +30209,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="gå 1517bd35-7485-4b9c-8269-8d455f96f724">
-            <t
-          class="IV"
-          p3p="mænna"
-          pos="V"
-          stem="2syll"
-          umlaut="full"
-          vow="x"
-        >mïnnedh</t>
-            <xg>
-               <x>Jeg skal ta en tur dit. ta en tur i butikken</x>
-               <xt>Manne edtjem dahkoe mïnnedh. bovresne mïnnedh</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="gå cf4488ca-a762-48c6-84b6-e74ce27f36b5">
-            <re>om et slitent barn</re>
-            <t diph="yes" p3p="slebpehte" pos="V" stem="3syll">slebpiehtidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="gå 3f3e9f32-9571-45b4-95a7-9307b6f878d7">
+         <tg xml:lang="sma">
             <re>om tid</re>
             <t
           class="IV"
@@ -30206,27 +30219,6 @@ For the full license text, see the link above.</lic>
           stem="2syll"
           vow="aa"
         >vaasedh</t>
-            <xg>
-               <x>Dette året har gått sakte.</x>
-               <xt>Daate jaepie soejmetji vaaseme.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="gå b7355f72-9d0b-4c1b-ba10-0bb18fcfefd4">
-            <t
-          class="I"
-          p3p="vaadtsa"
-          pos="V"
-          stem="2syll"
-          umlaut="full"
-          vow="x"
-        >vaedtsedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="gå fda07282-6a55-4f35-828e-63f66e73e8d3">
-            <re>om tid</re>
             <t
           class="I"
           context="3pers"
@@ -30236,10 +30228,19 @@ For the full license text, see the link above.</lic>
           vow="x"
         >vaesedh</t>
             <xg>
-               <x>Når folk venter på noe morsomt, går dagene langsomt.</x>
-               <xt
-          >Gosse almetjh maam joem lustem vuertieminie, dellie biejjieh soejmetje vaesieh.</xt>
+               <x>Dette året har gått sakte.</x>
+               <xt>Daate jaepie soejmetji vaaseme.</xt>
             </xg>
+            <xg>
+               <x>Når folk venter på noe morsomt, går dagene langsomt.</x>
+               <xt>Gosse almetjh maam joem lustem vuertieminie, dellie biejjieh soejmetje vaesieh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="gå cf4488ca-a762-48c6-84b6-e74ce27f36b5">
+            <re>om et slitent barn</re>
+            <t diph="yes" p3p="slebpehte" pos="V" stem="3syll">slebpiehtidh</t>
          </tg>
       </mg>
    </e>
