@@ -103,22 +103,25 @@ For the full license text, see the link above.</lic>
          <l pos="Num" value="4">fire</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="fire 87c79eb2-8439-4d1d-be8c-aae068e9b78c">
-            <t pos="Num">nieljie</t>
-         </tg>
-      </mg>
-      <mg>
          <tg xml:lang="sma" tw_id="fire 0333cb55-a3f4-49b9-9224-134a3a02b2f7">
             <t pos="Num">njieljie</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="fire 0f9c0f8a-d015-4e33-ae66-fb7a3591baf3">
+            <re>alternativ form</re>
             <t pos="Num">njielje</t>
          </tg>
       </mg>
       <mg>
+         <tg xml:lang="sma" tw_id="fire 87c79eb2-8439-4d1d-be8c-aae068e9b78c">
+            <re>alternativ form</re>
+            <t pos="Num">nieljie</t>
+         </tg>
+      </mg>
+      <mg>
          <tg xml:lang="sma" tw_id="fire c8a36855-9033-4d0a-aa86-daa83e6654d6">
+            <re>alternativ form</re>
             <t pos="Num">nielje</t>
          </tg>
       </mg>
