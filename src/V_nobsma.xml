@@ -36078,8 +36078,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="male 49739a44-3563-4df9-a533-fde476d38d4b">
-            <re>med pensel eller kost</re>
-            <t pos="V" stem="3syll">måaladidh</t>
+            <re>med farge</re>
+            <t pos="V" stem="3syll">måaledh</t>
          </tg>
       </mg>
       <mg>
@@ -36089,8 +36089,13 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="male 05a5e51d-2165-4529-8cad-3f80e03fc86f">
-            <re>få det malt</re>
             <t pos="V" stem="3syll">möölehtidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="male 49739a44-3563-4df9-a533-fde476d38d4b">
+            <re>med farger</re>
+            <t pos="V" stem="3syll">måaladidh</t>
          </tg>
       </mg>
       <mg>
