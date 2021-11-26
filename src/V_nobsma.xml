@@ -36067,8 +36067,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg
         xml:lang="sma"
-        tw_id="stikke ned 9d995c86-f65b-4d43-9e94-a61ade4e0a89"
-      >
+        tw_id="stikke ned 9d995c86-f65b-4d43-9e94-a61ade4e0a89">
             <t pos="V" stem="3syll">baskeridh</t>
          </tg>
       </mg>
@@ -36078,19 +36077,14 @@ For the full license text, see the link above.</lic>
          <l pos="V">male</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="male 04f656c5-c698-4c37-9e3f-b4e0c4bf73c9">
-            <re>om katt</re>
-            <t context="3pers" diph="yes" pos="V" stem="3syll">muerkiestidh</t>
-         </tg>
-      </mg>
-      <mg>
          <tg xml:lang="sma" tw_id="male 49739a44-3563-4df9-a533-fde476d38d4b">
+            <re>med pensel eller kost</re>
             <t pos="V" stem="3syll">måaladidh</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="male 56e85a19-6c47-4be4-92b1-4927548e66cd">
-            <t class="VI" pos="V" stem="2syll">njeervedh</t>
+         <tg xml:lang="sma" tw_id="male 05a5e51d-2165-4529-8cad-3f80e03fc86f">
+            <t pos="V" stem="3syll">möölehtidh</t>
          </tg>
       </mg>
       <mg>
@@ -36098,15 +36092,36 @@ For the full license text, see the link above.</lic>
             <t class="VI" pos="V" umlaut="F">feerpedh</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="male 5e05f81b-8751-41b6-bf4a-ca274ff16ed7">
-            <re>om kaffe, korn</re>
-            <t class="VI" pos="V" umlaut="F">meeledh</t>
+      <mg> <mg>
+         <tg xml:lang="sma" tw_id="male 04f656c5-c698-4c37-9e3f-b4e0c4bf73c9">
+            <re>om katt</re>
+            <t context="3pers" diph="yes" pos="V" stem="3syll">muerkiestidh</t>
          </tg>
       </mg>
+          <tg xml:lang="sma" tw_id="male 5e05f81b-8751-41b6-bf4a-ca274ff16ed7">
+            <re>om kaffe, korn, kjøtt </re>
+            <t class="VI" pos="V" umlaut="F">meeledh</t>
+         <xg>
+               <x>I dag maler vi kjøtt.</x>
+               <xt>Daanbien bearkoem meelebe.</xt>
+            </xg>
+         </tg>
+      </mg>
+    </e>
+    <e>
+      <lg>
+         <l pos="V">mose</l>
+      </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="male 05a5e51d-2165-4529-8cad-3f80e03fc86f">
-            <t pos="V" stem="3syll">möölehtidh</t>
+         <tg
+        xml:lang="sma"
+        tw_id="smile litt 10e0e10d-3222-4c41-ab72-5197a50b38b2">
+	        <re>om mat</re>
+            <t pos="V" stem="3syll">njeervedh</t>
+            <xg>
+               <x>Vil du mose poteten?</x>
+               <xt>Maahtah pearam njeervedh?</xt>
+            </xg>
          </tg>
       </mg>
    </e>
