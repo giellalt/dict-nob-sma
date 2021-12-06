@@ -62,100 +62,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Adv">i trykkende vær</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="i trykkende vær d610b79d-ccac-4122-9b11-dfc0deaa5e74">
-            <t pos="Adv">amhkedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">i godvær</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="i godvær b7b26c5c-afa8-4b31-a917-a71be1506a16">
-            <t pos="Adv">buaredh</t>
-            <xg>
-               <x>Når myggen kommer tidlig, så blir det godvær og en fin sommer.</x>
-               <xt>Gosse tjoejhkh aareh båetieh, dellie maa buaredh jïh buerie giesie sjædta.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">i oppholdsvær</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="i oppholdsvær be8fe299-4809-4add-87c8-4b37527bfe10">
-            <t pos="Adv">buaredh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">på slutten av brunsttiden</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="på slutten av brunsttiden 40655dde-a6da-4896-b70f-e322f7938a3c">
-            <t pos="Adv">golkedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">ved ustadig vind</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="ved ustadig vind f4d79177-0802-4a0e-a61a-72a05e2577c5">
-            <t pos="Adv">klååmsehth</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">ved klarvær</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="ved klarvær 0ece9e29-852f-4a5c-8bb9-1fbf82e607b2">
-            <t pos="Adv">moenjehth</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">ved oppklarning</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="ved oppklarning 4346fdea-8fe6-407f-9fe1-5a18dffc7c53">
-            <t pos="Adv">moenjehth</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">ved usikkert vær på grunn av solrøyk</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="ved usikkert vær på grunn av solrøyk 4264e8bc-1f56-4c00-bfb7-9b031cf8838d">
-            <t pos="Adv">samhkedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">vinglende</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="vinglende 9d13b555-519f-4017-919a-f60066f1f272">
-            <t pos="Adv" stem="2syll">vïdtjele</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Adv">sittende</l>
       </lg>
       <mg>
@@ -304,7 +210,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="nettopp cbff4085-20a3-4e44-91b7-a471598082f8">
-            <t pos="Adv">hojhte</t>
+            <t pos="Pcle">hojhte</t>
          </tg>
       </mg>
       <mg>
@@ -639,8 +545,8 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="tidligere 69ebdeb3-765f-4b98-abf2-3d79f9ba6abe">
-            <t pos="Adv">åvtetje</t>
-            <t pos="Adv">ovtetje</t>
+            <t pos="A">åvtetje</t>
+            <t pos="A">ovtetje</t>
             <xg>
                <x>sted hvor en har vært før, forrige sted</x>
                <xt>åvtetje mehkie</xt>
@@ -2287,16 +2193,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Adv">bak</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="bak 1e873b41-77c3-44d4-a73b-b5101b4dd5ff">
-            <t pos="Adv">duekie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Adv">rommet bak</l>
       </lg>
       <mg>
@@ -2689,16 +2585,6 @@ For the full license text, see the link above.</lic>
                <x>Plutselig hørte han et eller annet.</x>
                <xt>Faahketji maam akt govli.</xt>
             </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">hver</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="hver 9bb02a72-0f2f-4afd-81f4-e9e3f86b95c5">
-            <t pos="Adv">fïere</t>
          </tg>
       </mg>
    </e>
@@ -3273,8 +3159,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="faktisk b4363604-af6c-4e81-834f-32dbdae0678b">
-            <t pos="Adv">hojhte</t>
-            <t pos="Adv">ojhte</t>
+            <t pos="Pcle">hojhte</t>
+            <t pos="Pcle">ojhte</t>
             <xg>
                <x>Berit klarte faktisk å gjennomføre studiene.</x>
                <xt>Birje ojhte buektiehti dam learoem tjïrrehtidh.</xt>
@@ -6322,17 +6208,6 @@ For the full license text, see the link above.</lic>
                <x>Hun går på ski liksom en gal.</x>
                <xt>Tjuajka goh gaajege.</xt>
             </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">ha deg vekk</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="ha deg vekk aeeb22fa-7b09-4050-aa94-3f89ac3fa86f">
-            <re>til hund</re>
-            <t pos="Adv">aasshdohkoe</t>
          </tg>
       </mg>
    </e>

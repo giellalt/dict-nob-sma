@@ -28,6 +28,81 @@ For the full license text, see the link above.</lic>
    </lics>
    <e>
       <lg>
+         <l pos="Phrase">trykkende vær</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma" tw_id="i trykkende vær d610b79d-ccac-4122-9b11-dfc0deaa5e74">
+            <t pos="N">amhkedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">godvær</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma" tw_id="i godvær b7b26c5c-afa8-4b31-a917-a71be1506a16">
+            <t pos="N">buaredh</t>
+            <xg>
+               <x>Når myggen kommer tidlig, så blir det godvær og en fin sommer.</x>
+               <xt>Gosse tjoejhkh aareh båetieh, dellie maa buaredh jïh buerie giesie sjædta.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">oppholdsvær</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma" tw_id="i oppholdsvær be8fe299-4809-4add-87c8-4b37527bfe10">
+            <t pos="N">buaredh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Phrase">ustadig vind</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma" tw_id="ved ustadig vind f4d79177-0802-4a0e-a61a-72a05e2577c5">
+            <t pos="N">klååmsehth</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">klarvær</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma" tw_id="ved klarvær 0ece9e29-852f-4a5c-8bb9-1fbf82e607b2">
+            <t pos="N">moenjehth</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">oppklarning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma" tw_id="ved oppklarning 4346fdea-8fe6-407f-9fe1-5a18dffc7c53">
+            <t pos="N">moenjehth</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Phrase">usikkert vær</l>
+      </lg>
+      <mg>
+	      <re>på grunn av solrøyk</re>
+         <tg xml:lang="sma" tw_id="ved usikkert vær på grunn av solrøyk 4264e8bc-1f56-4c00-bfb7-9b031cf8838d">
+            <t pos="N">samhkedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="N">radioinnslag</l>
       </lg>
       <mg>
@@ -811,7 +886,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="avstamming bf30ce64-145d-4122-afcf-140f1d0580bf">
-            <t pos="N" stem="3syll">såelie</t>
+            <t pos="N" stem="2syll">såelie</t>
          </tg>
       </mg>
    </e>
@@ -831,7 +906,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="bakgrunn ae0d60bb-8e4e-494c-833c-f8f827edb7d0">
-            <t pos="N" stem="3syll">duekie</t>
+            <t pos="N" stem="2syll">duekie</t>
          </tg>
       </mg>
    </e>
@@ -846,17 +921,17 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="publikum 18e0db31-f72d-4072-af03-521a5f9b3d84">
-            <t pos="N" stem="3syll">goltelæjjah</t>
+            <t pos="N" stem="2syll">goltelæjjah</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="publikum 87bb261e-8b71-42e1-a252-4a0846ff2f70">
-            <t pos="N" stem="3syll">vuartasjæjjah</t>
+            <t pos="N" stem="2syll">vuartasjæjjah</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="publikum f0bc5764-e5b0-4457-af50-21e952fbb4e0">
-            <t pos="N" stem="3syll">lohkijh</t>
+            <t pos="N" stem="2syll">lohkijh</t>
          </tg>
       </mg>
    </e>
@@ -13775,16 +13850,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="oktober e71af4fe-4dfb-42eb-9691-c34a4e5090c0">
             <t margo="e" pos="N" soggi="e" stem="3syll">rïhkede</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">slutten av brunsttiden</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="slutten av brunsttiden ac8d6e08-8378-43e1-b22b-cca7f1866959">
-            <t pos="N" soggi="e" stem="2syll">golkedahke</t>
          </tg>
       </mg>
    </e>
@@ -28604,11 +28669,14 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="brunsttiden 5fe7ee84-c064-40d0-b216-2a3b2f092446">
             <t pos="N" soggi="e" stem="2syll">skïeredahke</t>
+            <t margo="e" pos="N" soggi="e" stem="3syll">skïerede</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="brunsttiden 0966cd90-9bb1-4e17-941b-64610d8ee799">
-            <t margo="e" pos="N" soggi="e" stem="3syll">skïerede</t>
+         <tg xml:lang="sma" tw_id="slutten av brunsttiden ac8d6e08-8378-43e1-b22b-cca7f1866959">
+	         <re>slutten av brunsttiden</re>
+            <t pos="N" soggi="e" stem="2syll">golkedh</t>
+            <t pos="N" soggi="e" stem="2syll">golkedahke</t>
          </tg>
       </mg>
    </e>

@@ -28,11 +28,21 @@ For the full license text, see the link above.</lic>
    </lics>
    <e>
       <lg>
+         <l pos="A">vinglende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma" tw_id="vinglende 9d13b555-519f-4017-919a-f60066f1f272">
+            <t pos="A" stem="3syll">vïdtjele</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="A">forskjellig</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="forskjellig b220e674-d96b-4f85-a4a4-a4cfd3a58d92">
-            <t pos="Pron">dom daam</t>
+            <t pos="Phrase">dom daam</t>
          </tg>
       </mg>
    </e>
@@ -42,7 +52,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="geografisk d1831262-ae3b-41a8-ad18-3bbdfaabbdf3">
-            <t pos="A" stem="2syll">eatnemelearoen mietie</t>
+            <t pos="Phrase">eatnemelearoen mietie</t>
          </tg>
       </mg>
    </e>
