@@ -189,21 +189,8 @@ For the full license text, see the link above.</lic>
         tw_id="forandres 55b361ed-99b6-4c87-bb8a-dc908b8ccef8"
       >
             <t pos="V">jarkerostedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg
-        xml:lang="sma"
-        tw_id="forandres 41c59499-b56f-45cb-a9cf-b286c5f61f4f"
-      >
             <t pos="V">jeatjahtovvedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg
-        xml:lang="sma"
-        tw_id="forandres 9b91c981-201b-4339-9d9b-8f1783c512ca"
-      >
+            <t class="IV" pos="V" umlaut="D">eatjahtovvedh</t>
             <t pos="V">måbpastovvedh</t>
          </tg>
       </mg>
@@ -1432,22 +1419,6 @@ For the full license text, see the link above.</lic>
       >
             <t class="V" pos="V" stem="2syll">aarmelostedh</t>
             <t class="V" pos="V" umlaut="E">aarmarostedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">avvise</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="avvise 36a504af-d0a9-4a8b-b0b0-31122cbb657d">
-            <t
-          class="I"
-          pos="V"
-          stem="2syll"
-          umlaut="full"
-          vow="x"
-        >aassjoestehtedh</t>
          </tg>
       </mg>
    </e>
@@ -8405,19 +8376,6 @@ For the full license text, see the link above.</lic>
          <tg
         xml:lang="sma"
         tw_id="offentliggjøre fd7ceda8-df1e-4636-8a43-b9551acbab95"
-      >
-            <t diph="yes" pos="V" stem="3syll">bæjjoehtidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">bekjentgjøre</l>
-      </lg>
-      <mg>
-         <tg
-        xml:lang="sma"
-        tw_id="bekjentgjøre 9e8e0037-e75b-4fb2-8549-060213c5ed2f"
       >
             <t diph="yes" pos="V" stem="3syll">bæjjoehtidh</t>
          </tg>
@@ -17893,19 +17851,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="V">forsvinne</l>
-      </lg>
-      <mg>
-         <tg
-        xml:lang="sma"
-        tw_id="forsvinne 1e733b14-7e4c-4fd8-9009-b48b558e2abf"
-      >
-            <t minip="notSg1" p3p="gaarvene" pos="V" stem="3syll">gaarvenidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">beklage</l>
       </lg>
       <mg>
@@ -25202,18 +25147,6 @@ For the full license text, see the link above.</lic>
         tw_id="eksistere 6aacedd3-4704-4c4b-9a08-082c4cbddb12"
       >
             <t pos="V" stem="3syll">lea</t>
-         </tg>
-      </mg>
-   </e>
-    <e>
-      <lg>
-         <l pos="V">eksistere</l>
-      </lg>
-      <mg>
-         <tg
-        xml:lang="sma"
-        tw_id="eksistere 380a2a8c-aef7-4e91-b53e-1f4c79c36124"
-      >
             <t pos="V" stem="3syll">gååvnesidh</t>
          </tg>
       </mg>
@@ -65072,27 +65005,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="V">forandres</l>
-      </lg>
-      <mg>
-         <tg
-        xml:lang="sma"
-        tw_id="forandres 4fb84b93-3ede-4317-93c6-310e04713363"
-      >
-            <t class="IV" pos="V" umlaut="D">eatjahtovvedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg
-        xml:lang="sma"
-        tw_id="forandres 234d0550-7a61-412e-967f-4f148f57732b"
-      >
-            <t class="IV" pos="V" umlaut="D">jeatjahtovvedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">arbeide hardt med noe</l>
       </lg>
       <mg>
@@ -76582,6 +76494,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="avvise 2805c62e-13a2-41e1-932b-86c3ae94410a">
             <t pos="V" stem="3syll">pruskiehtidh</t>
+            <t pos="V" stem="2syll">aassjoestehtedh</t>
          </tg>
       </mg>
    </e>
