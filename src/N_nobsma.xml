@@ -43,20 +43,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="i godvær b7b26c5c-afa8-4b31-a917-a71be1506a16">
             <t pos="N">buaredh</t>
+            <t pos="N" soggi="e" stem="2syll">buaradahke</t>
             <xg>
                <x>Når myggen kommer tidlig, så blir det godvær og en fin sommer.</x>
                <xt>Gosse tjoejhkh aareh båetieh, dellie maa buaredh jïh buerie giesie sjædta.</xt>
             </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">oppholdsvær</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="i oppholdsvær be8fe299-4809-4add-87c8-4b37527bfe10">
-            <t pos="N">buaredh</t>
          </tg>
       </mg>
    </e>
@@ -143,6 +134,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="lønnsmottaker 2c8a0c33-348b-45a7-af19-15efe2296440">
             <t pos="N" type="NomAg">dïenesjæjja</t>
+            <t pos="N">baalhkadåastoje</t>
          </tg>
       </mg>
    </e>
@@ -407,16 +399,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="fordeling 63cb708d-095a-4a72-bc75-2ec0d321cf2f">
             <t pos="N" stem="3syll">joekedimmie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">forbindelse</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="forbindelse f4a74341-5b55-4ad5-8093-96d903f4ee04">
-            <t pos="N" stem="3syll">gaskese</t>
          </tg>
       </mg>
    </e>
@@ -915,23 +897,27 @@ For the full license text, see the link above.</lic>
          <l pos="N">publikum</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="publikum 50e7d79a-c729-430d-adc9-266c47a89320">
-            <t pos="N" stem="3syll">almetjh</t>
-         </tg>
-      </mg>
-      <mg>
          <tg xml:lang="sma" tw_id="publikum 18e0db31-f72d-4072-af03-521a5f9b3d84">
-            <t pos="N" stem="2syll">goltelæjjah</t>
+	         <re>som lytter</re>
+            <t pos="N" stem="2syll">goltelæjja</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="publikum 87bb261e-8b71-42e1-a252-4a0846ff2f70">
-            <t pos="N" stem="2syll">vuartasjæjjah</t>
+	         <re>som ser på</re>
+            <t pos="N" stem="2syll">vuartasjæjjas</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="publikum f0bc5764-e5b0-4457-af50-21e952fbb4e0">
-            <t pos="N" stem="2syll">lohkijh</t>
+	         <re>som leser</re>
+            <t pos="N" stem="2syll">lohkije</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="publikum 50e7d79a-c729-430d-adc9-266c47a89320">
+	         <re>generelt: folk, flertall</re>
+            <t pos="N" stem="3syll">almetjh</t>
          </tg>
       </mg>
    </e>
@@ -2018,16 +2004,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="ørn ad62bbd7-072e-432a-93a2-7f82323509dc">
-            <t pos="N" soggi="e" stem="2syll">aarhtse</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">kongeørn</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="kongeørn d0a622f4-468b-4420-90e9-2727f7a664d1">
             <t pos="N" soggi="e" stem="2syll">aarhtse</t>
          </tg>
       </mg>
@@ -6001,20 +5977,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">godvær</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="godvær 369248dc-21f4-4fbd-b6ce-25f6af9bcefb">
-            <t pos="N" soggi="e" stem="2syll">buaradahke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">oppholdsvær</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="oppholdsvær c9d2684e-2f84-4652-a999-e0cb7ae51f70">
+            <t pos="N">buaredh</t>
             <t pos="N" soggi="e" stem="2syll">buaradahke</t>
          </tg>
       </mg>
@@ -11158,16 +11125,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">tepperot</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="tepperot 3c85bf0d-d56e-430e-bef4-b78a0ac29f8f">
-            <t pos="N" soggi="e" stem="2syll">fïerpenroehtse</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">latter</l>
       </lg>
       <mg>
@@ -15335,6 +15292,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="prim 2fd8b77f-233c-4c3b-8864-6cd14dabc539">
             <t pos="N" soggi="oe" stem="2syll">gåmpoe</t>
+            <t pos="N">prijme</t>
          </tg>
       </mg>
    </e>
@@ -29842,17 +29800,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="julaften c9f812d3-5836-41a6-9f9f-26e35b700129">
-            <t pos="N" soggi="e" stem="2syll">stroehte</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">julaften</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="julaften c9f812d3-5836-41a6-9f9f-26e35b700129">
             <t pos="N" soggi="e" stem="2syll">jåvle-iehkede</t>
+            <t pos="N" soggi="e" stem="2syll">stroehte</t>
          </tg>
       </mg>
    </e>
@@ -32575,6 +32524,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="slag 5e7f055b-afa1-4c37-8059-9ea4e8b6408c">
             <t pos="N" soggi="e" stem="2syll">tjïerte</t>
+            <t pos="N">såarhte</t>
          </tg>
       </mg>
    </e>
@@ -34547,16 +34497,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">morgenfugl</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="en som er tidlig våken 310d21c9-3aae-41fb-810a-d9630963a5de">
-            <t margo="e" pos="N" soggi="e" stem="3syll">voerpehke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">sekk</l>
       </lg>
       <mg>
@@ -34683,16 +34623,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="konas stemor f3094fd7-6109-4766-8982-d7f4a049a53e">
             <t margo="e" pos="N" soggi="a" stem="3syll">vuanove</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">publikum</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="publikum dcf02f40-cfe8-443e-8da1-97f319f5d50c">
-            <t pos="N" soggi="a" stem="2syll">vuartasjæjja</t>
          </tg>
       </mg>
    </e>
@@ -36127,16 +36057,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="ivrig person 646b35bf-9b74-4a8c-a600-288146fc1716">
             <t margo="e" pos="N" soggi="i" stem="3syll">ïedtjije</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">ribbe</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="ribbe 0a6ff3ed-24e7-4738-98a9-768041d6f9ca">
-            <t pos="N" soggi="e" stem="2syll">ïehterdahke</t>
          </tg>
       </mg>
    </e>
@@ -41222,16 +41142,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="student 13086701-f865-42df-aeb8-d4082c202506">
             <t pos="N">studente</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">teknikk</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="teknikk 6921f709-1a45-4723-942f-01e26e1a7c0a">
-            <t pos="N">teknihke</t>
          </tg>
       </mg>
    </e>
@@ -49624,16 +49534,6 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="N" src="fad">planprogram</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sma" tw_id="planprogram 46412475-8794-4815-ad75-63a24700153d">
-        <t pos="N">soejkesjeprogramme</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="N" src="fad">pasient</l>
     </lg>
     <mg>
@@ -49960,16 +49860,6 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="sma" tw_id="sjanger de31a53e-135c-4520-91eb-02a4540b0f23">
         <t pos="N">sjangere</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N" src="fad">prosjektmiddel</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sma" tw_id="prosjektmiddel 941c9bbc-ef7f-42ef-ace2-b07eecba551b">
-        <t pos="N">prosjektevierhtie</t>
       </tg>
     </mg>
   </e>
@@ -50883,6 +50773,7 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="sma" tw_id="lærerkraft 7ea2d711-40f9-40d7-956a-24af7359171f">
         <t pos="N">lohkehtæjjafaamoe</t>
+        <t pos="N">ööhpehtæjjafaamoe</t>
       </tg>
     </mg>
   </e>
@@ -51024,16 +50915,6 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="sma" tw_id="reindriftsland 21db3ea6-330a-4524-9b92-ca32bfac9ad9">
         <t pos="N">båatsoelaante</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N" src="fad">reindriftsavtale</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sma" tw_id="reindriftsavtale db221900-74d2-4c1e-bcaf-db85e1552bc7">
-        <t pos="N">båatsoelatjkoe</t>
       </tg>
     </mg>
   </e>
@@ -51444,16 +51325,6 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="sma" tw_id="utdanningsmulighet f7ad08a0-102e-4268-8359-26862b6ef0a9">
         <t pos="N">ööhpehtimmienupie</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N" src="fad">lærerkraft</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sma" tw_id="lærerkraft 16de8848-2987-42e4-9160-e42175d145e9">
-        <t pos="N">ööhpehtæjjafaamoe</t>
       </tg>
     </mg>
   </e>
@@ -56203,16 +56074,6 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="N" src="fad">planstrategi</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sma" tw_id="planstrategi 121a47b6-b8ff-4623-85a7-712a499b7355">
-        <t pos="N">soejkesjestrategije</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="N" src="fad">informasjonsstrategi</l>
     </lg>
     <mg>
@@ -58535,16 +58396,6 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="N" src="fad">helseområde</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sma" tw_id="helseområde a90a879b-d51c-431b-9883-5d782dccfcf7">
-        <t pos="N">healsoedajve</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="N" src="fad">sommerbeiteområde</l>
     </lg>
     <mg>
@@ -59570,16 +59421,6 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="N" src="fad">reindriftsland</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sma" tw_id="reindriftsland a3fe14e1-dcb5-44c2-aaf8-c8c439ebc192">
-        <t pos="N">båatsoelaante</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="N" src="fad">vårfiske</l>
     </lg>
     <mg>
@@ -59595,6 +59436,7 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="sma" tw_id="reinbeiteavtale b84f5303-d085-471a-94fe-386e93b6e798">
         <t pos="N">gåatomelatjkoe</t>
+        <t pos="N">båatsoelatjkoe</t>
       </tg>
     </mg>
   </e>
@@ -60845,16 +60687,6 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="sma" tw_id="pressehistorie 238eed73-33bb-4fbd-a1cb-682e4f9b65f7">
         <t pos="N">pressehistovrije</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N" src="fad">reinbeiteavtale</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sma" tw_id="reinbeiteavtale e5834b9b-7d09-4e98-b34e-bf5de8d78ec1">
-        <t pos="N">båatsoelatjkoe</t>
       </tg>
     </mg>
   </e>
@@ -62674,16 +62506,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">foto</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="foto 7258523c-c2b4-45fc-8d12-a9260eb0010a">
-            <t pos="N">guvvie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">kamera</l>
       </lg>
       <mg>
@@ -62844,16 +62666,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">part</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="part 0e9ce77b-72b0-4b8d-a8f7-9c83e79786ba">
-            <t pos="N">bielie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">logg</l>
       </lg>
       <mg>
@@ -62879,16 +62691,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="snakk 118a90df-ee20-442c-a4b9-eb8c633f27a3">
             <t pos="N">soptsestimmie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">slag</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="slag 35254314-ddc3-48f5-a96c-abb98594a0f5">
-            <t pos="N">såarhte</t>
          </tg>
       </mg>
    </e>
@@ -64128,16 +63930,6 @@ For the full license text, see the link above.</lic>
          <l pos="N">flypassasjer</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="flypassasjer 25914d09-ca73-4f04-96ea-ec4e6d60a64c">
-            <t pos="N">girtiefeelije</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="gg">
-      <lg>
-         <l pos="N">flypassasjer</l>
-      </lg>
-      <mg>
          <tg xml:lang="sma" tw_id="flypassasjer cf3d2580-512c-4a47-a616-5cd51aa0f50e">
             <t pos="N">girtiefeelije</t>
          </tg>
@@ -64240,6 +64032,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="foto 956888d6-81ee-4caf-8625-7d91e696f5f5">
             <t pos="N">tjoevkeguvvie</t>
+            <t pos="N">guvvie</t>
          </tg>
       </mg>
    </e>
@@ -65005,16 +64798,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="gg">
       <lg>
-         <l pos="N">lønnsmottaker</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="lønnsmottaker 4bfbf2bb-73a2-4c78-9a1e-f03cdf37c88b">
-            <t pos="N">baalhkadåastoje</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="gg">
-      <lg>
          <l pos="N">lønnstrinn</l>
       </lg>
       <mg>
@@ -65430,6 +65213,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="part 84d9ffeb-d02e-4275-aeb9-ecf95919b592">
             <t pos="N">paarhte</t>
+            <t pos="N">bielie</t>
          </tg>
       </mg>
    </e>
@@ -66356,26 +66140,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-     <e>
-      <lg>
-         <l pos="N">rundstykke</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="rundstykke 6b7599ed-509e-4c0a-8435-768ed4c90616">
-            <t pos="N">gaavnjeresgaahkoe</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">flatbrød</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="flatbrød 2c3f6fb0-0c89-40ff-8153-004e7ff25e74">
-            <t pos="N">jissehtslaejpie</t>
-         </tg>
-      </mg>
-   </e>
    <e>
       <lg>
          <l pos="N">mykbrød</l>
@@ -66388,39 +66152,12 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">glokake</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="glokake 747bc87d-942a-479d-9a7f-90b9fd452c87">
-            <t pos="N">sjïjlelaejpie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">hyllkake</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="hyllkake d3f93913-5d62-4f31-ae60-8d35e25efd36">
             <t pos="N">ruevtienlaejpie</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="hyllkake fe6d2e50-7a1d-4d2d-a904-3c2e6a0851e1">
             <t pos="N">gierkienlaejpie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">bløtkake</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="bløtkake 87c69c9d-0216-4e6a-bff4-864c57ba1448">
-            <t pos="N">måasoehgaahkoe</t>
-            <t pos="N">måasasgaahkoe</t>
-            <t pos="N">måasoehlaejpie</t>
-            <t pos="N">gïhpelaejpie</t>
          </tg>
       </mg>
    </e>
@@ -66434,57 +66171,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l pos="N">gulrotkake</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="gulrotkake 3e9b4be6-55d2-46e1-bb9a-2b4b4874d5f9">
-            <t pos="N">viskesroehtsegaahkoe</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">marsipankake</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="marsipankake 642b031b-d692-478c-a8ca-d6882f883074">
-            <t pos="N">marsipaanegaahkoe</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">ostekake</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="ostekake 4e5ebe2f-e670-484c-9ed0-0201aeffa7a2">
-            <t pos="N">vuastagaahkoe</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">fruktkake</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="fruktkake e82f6dc6-9d3a-465b-b1c9-a828903fdb51">
-            <t pos="N">muerjiegaahkoe</t>
-         </tg>
-      </mg>
-    </e>
-    <e>
-      <lg>
-         <l pos="N">iskake</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="iskake a8ee2f23-3bb4-4131-877d-24a5392655e4">
-            <t pos="N">tjastegaahkoe</t>
-         </tg>
-      </mg>
-    </e>
-
     <e>
       <lg>
          <l pos="N">hvitostskive</l>
@@ -66535,16 +66221,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l pos="N">nugatti</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="nugatti 2a766f7d-6cb6-4a29-9060-326104338699">
-            <t pos="N">nugatti</t>
-         </tg>
-      </mg>
-   </e>
 
    <e>
       <lg>
@@ -66558,34 +66234,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">honnikorn</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="honnikorn 0fed3ca7-8e51-4911-af24-d1daab3facdd">
-            <t pos="N">hååneskegernieh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">syltetøy</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="syltetøy a3617b2d-dd61-4fc2-9b66-6184a786e7f1">
             <t pos="N">muerjie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">bringebær</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="bringebær ee5874a1-e057-4a7e-a046-68ed8596f94d">
-            <t pos="N">gihperemuerjie</t>
-            <t pos="N">tjohpenmuerjie</t>
-            <t pos="N">dållemuerjie</t>
-            <t pos="N">tsietsehthmuerjie</t>
          </tg>
       </mg>
    </e>
@@ -66619,16 +66272,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma" tw_id="leverpostie dba6c693-f315-434b-848c-24ac43008b72">
             <t pos="N">libriepoeste</t>
             <t pos="N">mueksietjavkese</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">prim</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="prim 2a55fefa-da42-4e7f-922c-302ab4052a90">
-            <t pos="N">prijme</t>
          </tg>
       </mg>
    </e>
@@ -66689,16 +66332,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="ingefærøl fadfbc80-0384-4428-8812-d6ab92873410">
             <t pos="N">ingefæærenvoelege</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">middagspølse</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="middagspølse 396e2146-92da-4f93-ad0d-f0b1a3aeee01">
-            <t pos="N">gaskebiejjiengoerve</t>
          </tg>
       </mg>
    </e>
@@ -66777,16 +66410,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="gg">
-      <lg>
-         <l pos="N">bolle</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="bolle a209e1f2-66c5-4af8-b794-c34f2d79ecf2">
-            <t pos="N">jorpegååhketje</t>
-         </tg>
-      </mg>
-    </e>
     <e src="gg">
       <lg>
          <l pos="N">rundstykke</l>
@@ -66804,17 +66427,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="flatbrød a18bff67-afbd-40d6-abad-6ec8028ce27c">
             <t pos="N">jissehtslaejpie</t>
-         </tg>
-      </mg>
-     </e>
-     <e src="gg">
-      <lg>
-         <l pos="N">hyllkake</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="hyllkake 0981a439-aba2-446a-b944-fe7cd00c6bb6">
-            <t pos="N">ruevtienlaejpie</t>
-            <t pos="N">gierkienlaejpie</t>
          </tg>
       </mg>
      </e>
@@ -66929,16 +66541,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="nugatti d9ff4d7a-b1ec-4108-a153-e89f57268e0b">
             <t pos="N">nugattije</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">cornflakes</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="cornflakes 2d8d205f-7591-4d8e-b97b-6f7e8516e126">
-            <t pos="N">gerniebliehkie</t>
+            <t pos="N">nugatti</t>
          </tg>
       </mg>
    </e>
@@ -66967,94 +66570,12 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">jordbær</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="jordbær a00da8b7-df3f-486a-91a4-1894bb214d06">
-            <t pos="N">jåartemuerjie</t>
-            <t pos="N">laantenmuerjie</t>
-            <t pos="N">eatnemenmuerjie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">solbær</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="solbær 4fec8996-2fcd-4f47-ac1c-c8a5b5bc0a51">
-            <t pos="N">biejjienmuerjie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">leverpostei</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="leverpostei c71c9467-607a-4f72-913b-5affc2703ece">
             <t pos="N">libriepoeste</t>
             <t pos="N">mueksietjavkese</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">prim</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="prim 357e4614-4a50-4f34-a6e6-3413d86534e7">
-            <t pos="N">prijme</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">majones</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="majones 03791aab-f40f-4728-ac74-9da4662df5d7">
-            <t pos="N">majoneese</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">tomat</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="tomat 31f65ee5-ca0e-4225-9567-331f35defc8f">
-            <t pos="N">tomaate</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">agurk</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="agurk a70c0b1f-1e29-4124-b3a7-77291eea8f68">
-            <t pos="N">agurke</t>
-         </tg>
-      </mg>
-   </e>
-      <e>
-      <lg>
-         <l pos="N">paprika</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="paprika af8c0b7a-a521-4084-a02a-34a9503562d1">
-            <t pos="N">paprika</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">brus</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="brus d1a50423-284b-4671-aaa8-c1467885ede6">
-            <t pos="N">bruvse</t>
          </tg>
       </mg>
    </e>
@@ -67070,42 +66591,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">ingefærøl</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="ingefærøl 6783a861-df30-4ba9-8006-e6521e2f1201">
-            <t pos="N">ingefæærenvoelege</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">middagspølse</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="middagspølse 69c911b0-b9cb-4458-91be-e2087ce2a1e8">
             <t pos="N">gaskebiejjhgoerve</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">kjøttkake</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="kjøttkake 2bc18be1-aab3-4c93-b9a1-bce284b84286">
-            <t pos="N">bearkoegaamsoe</t>
-            <t pos="N">bearkoegaahkoe</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">kjøttpudding</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="kjøttpudding b790036e-5a96-42ec-afae-d1cf57ea4024">
-            <t pos="N">bearkoestongke</t>
          </tg>
       </mg>
    </e>
@@ -67185,7 +66675,13 @@ For the full license text, see the link above.</lic>
          <l pos="N">ribbe</l>
       </lg>
       <mg>
+         <tg xml:lang="sma" tw_id="ribbe 0a6ff3ed-24e7-4738-98a9-768041d6f9ca">
+            <t pos="N" soggi="e" stem="2syll">ïehterdahke</t>
+         </tg>
+      </mg>
+      <mg>
          <tg xml:lang="sma" tw_id="ribbe 77ff0fcb-dd75-4392-8b7a-4ad15d8239e3">
+	         <re>svineribbe</re>
             <t pos="N">snurkenïehterdahke</t>
          </tg>
       </mg>
@@ -67247,16 +66743,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="taco f06a9692-b4cf-45a1-a536-e17f952c1e7a">
             <t pos="N">taakoe</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">pizza</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma" tw_id="pizza 1754d25a-2d48-488f-a143-ff311304ac0b">
-            <t pos="N">pizza</t>
          </tg>
       </mg>
    </e>
@@ -69283,17 +68769,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="husbykuhmunen">
       <lg>
-         <l pos="N">blåstrupe</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <re xml:lang="lat">luscinia svecica</re>
-            <t pos="N">bealloe-ladtetje</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="husbykuhmunen">
-      <lg>
          <l pos="N">svartrødstjert</l>
       </lg>
       <mg>
@@ -70264,6 +69739,7 @@ For the full license text, see the link above.</lic>
             <re xml:lang="lat">Potentilla erecta</re>
             <t pos="N">fïerpene</t>
             <t pos="N">fïerpese</t>
+            <t pos="N" soggi="e" stem="2syll">fïerpenroehtse</t>
          </tg>
       </mg>
    </e>
