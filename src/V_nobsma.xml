@@ -53873,11 +53873,12 @@ For the full license text, see the link above.</lic>
          <l pos="V">være</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="være c699b6fb-48b0-4632-ba86-abfc8283b751">
-            <t p3p="vearede" pos="V" stem="3syll">vearadidh</t>
+         <tg xml:lang="sma">
+            <re>infinitte former dannes av årrodh</re>
+            <t pos="V">lea</t>
             <xg>
-               <x>Hvor har du vært?</x>
-               <xt>Gubpene vearadamme?</xt>
+               <x>Per er her.</x>
+               <xt>Piere lea daesnie.</xt>
             </xg>
          </tg>
       </mg>
@@ -53892,18 +53893,32 @@ For the full license text, see the link above.</lic>
           vow="x"
         >årrodh</t>
             <xg>
-               <x>Du må være årvåken! Vær stille!</x>
-               <xt>Tjoeverh fahkoes årrodh! Årroeh sjeavohth!</xt>
+               <x>Du må være årvåken!</x>
+               <xt>Tjoeverh fahkoes årrodh!</xt>
+            </xg>
+            <xg>
+               <x>Vær stille!</x>
+               <xt>Årroeh sjeavohth!</xt>
+            </xg>
+            <xg>
+               <x>Per har vært her.</x>
+               <xt>Piere daesnie orreme.</xt>
             </xg>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="være b63d6f10-3b17-4341-b046-6b16763b162e">
-            <t pos="V" stem="3syll">veasastidh</t>
+         <tg xml:lang="sma">
+            <re>oppholde seg</re>
+            <t p3p="vearede" pos="V" stem="3syll">vearadidh</t>
+            <xg>
+               <x>Hvor har du vært?</x>
+               <xt>Gubpene vearadamme?</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="være 2556f4b6-3e99-48a6-8cf8-5baec28e41dd">
+         <tg xml:lang="sma">
+            <t pos="V" stem="3syll">veasastidh</t>
             <t pos="V" stem="3syll">veasoestidh</t>
          </tg>
       </mg>
