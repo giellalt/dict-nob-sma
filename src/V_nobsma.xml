@@ -54029,6 +54029,29 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
+         <l pos="V">hete</l>
+      </lg>
+      <mg>
+         <tg
+        xml:lang="sma">
+            <t pos="N">nomme</t>
+            <xg>
+               <x>Jeg heter Per.</x>
+               <xt>Mov nomme Piere (Mitt navn er Per).</xt>
+            </xg>
+            <xg>
+               <x>Hva heter du?</x>
+               <xt>Guktie dov nomme?</xt>
+            </xg>
+            <xg>
+               <x>Hans/hennes navn er ...</x>
+               <xt>Dan nomme ...</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="V">gi som snarest</l>
       </lg>
       <mg>

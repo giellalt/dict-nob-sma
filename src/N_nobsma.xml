@@ -7970,8 +7970,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="stedsnavn f466b12b-509a-4cd4-9c3b-48e5981b87f4">
-            <t pos="N" soggi="e" stem="2syll">dajvenomme</t>
             <t pos="N" soggi="e" stem="2syll">sijjienomme</t>
+            <t pos="N" soggi="e" stem="2syll">dajvenomme</t>
          </tg>
       </mg>
    </e>
@@ -24567,6 +24567,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="navn f7779f76-7222-4a3c-9b86-242d8d426380">
             <t pos="N" soggi="e" stem="2syll">nomme</t>
+            <xg>
+               <x>Mitt navn er Per.</x>
+               <xt>Mov nomme Piere.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -47295,8 +47299,8 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma" tw_id="stedsnavnprosjekt 8008bd7a-477f-4ac1-8656-307434666f77">
-        <t pos="N">dajvenommeprosjekte</t>
         <t pos="N">sijjienommeprosjekte</t>
+        <t pos="N">dajvenommeprosjekte</t>
       </tg>
     </mg>
   </e>
