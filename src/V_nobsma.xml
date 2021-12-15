@@ -7460,8 +7460,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma" tw_id="burde bd662862-8ca2-4111-b19a-4213e9d67d79">
             <t class="V" pos="V" stem="2syll">byöredh</t>
             <xg>
-               <x>Jeg må kjøpe kaffe. Jeg bør ta en tur.</x>
-               <xt>Byörem prïhtjegem åestedh. Byörem dahkoe mïnnedh.</xt>
+               <x>Jeg bør kjøpe kaffe.</x>
+               <xt>Byörem prïhtjegem åestedh.</xt>
+            </xg>
+            <xg>
+               <x>Jeg bør ta en tur dit.</x>
+               <xt>Byörem dahkoe mïnnedh.</xt>
             </xg>
          </tg>
       </mg>
@@ -7471,29 +7475,25 @@ For the full license text, see the link above.</lic>
          <l pos="V">skulle</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="skulle 727f1e7f-0205-48bd-8c6f-e16cd353c9de">
-            <t class="V" pos="V" stem="2syll">byöredh</t>
+         <tg xml:lang="sma" tw_id="skulle 816353a7-3e83-4e49-aad6-c92e2e37aaea">
+            <t class="IV" p3p="galka" pos="V" stem="2syll" vow="a">galkedh</t>
             <xg>
-               <x>Jeg må kjøpe kaffe. Jeg bør ta en tur.</x>
-               <xt>Byörem prïhtjegem åestedh. Byörem dahkoe mïnnedh.</xt>
+               <x>Hvilken av de to koppene skal jeg drikke av?</x>
+               <xt>Gåabpede kåahpijste galkem jovkedh?</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="skulle ee3644a0-5cfb-4a69-bf53-2fb0bef360ec">
+         <re>av egen vilje</re>
             <t class="IV" pos="V" stem="2syll" umlaut="full" vow="x">edtjedh</t>
             <xg>
-               <x>Hva skal vi spise til middag i dag? Hvor skal du?</x>
-               <xt>Maam edtjebe gaskebeajjan byöpmedidh? Gåabph edtjh?</xt>
+               <x>Hva skal vi spise til middag i dag?</x>
+               <xt>Maam edtjebe gaskebeajjan byöpmedidh?</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="skulle 816353a7-3e83-4e49-aad6-c92e2e37aaea">
-            <t class="IV" p3p="galka" pos="V" stem="2syll" vow="a">galkedh</t>
             <xg>
-               <x>når man skal ut å gjete</x>
-               <xt>gosse galka olkese ryöjnesjidh</xt>
+               <x>Hvor skal du?</x>
+               <xt>Gåabph edtjh?</xt>
             </xg>
          </tg>
       </mg>
@@ -7503,11 +7503,19 @@ For the full license text, see the link above.</lic>
          <l pos="V">måtte</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="måtte 868a0e8b-6443-413e-8ae9-b5320440a5f7">
-            <t class="V" pos="V" stem="2syll">byöredh</t>
+         <tg xml:lang="sma">
+            <t
+          class="IV"
+          p3p="tjuara"
+          pos="V"
+          stem="2syll"
+          umlaut="full"
+          vow="x"
+        >tjoeredh</t>
+            <t p3p="tjoevere" pos="V" stem="3syll">tjoeveridh</t>
             <xg>
-               <x>Jeg må kjøpe kaffe. Jeg bør ta en tur.</x>
-               <xt>Byörem prïhtjegem åestedh. Byörem dahkoe mïnnedh.</xt>
+               <x>Jeg må dra.</x>
+               <xt>Tjoerem vuelkedh.</xt>
             </xg>
          </tg>
       </mg>
@@ -7539,23 +7547,6 @@ For the full license text, see the link above.</lic>
           umlaut="full"
           vow="x"
         >tjïehtedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="måtte 50b1000a-89c8-418b-bec0-26d2129e85a0">
-            <t
-          class="IV"
-          p3p="tjuara"
-          pos="V"
-          stem="2syll"
-          umlaut="full"
-          vow="x"
-        >tjoeredh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="måtte 24081369-b467-4fc4-b1da-b60a8820105b">
-            <t p3p="tjoevere" pos="V" stem="3syll">tjoeveridh</t>
          </tg>
       </mg>
    </e>
