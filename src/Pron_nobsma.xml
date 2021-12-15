@@ -460,7 +460,7 @@ For the full license text, see the link above.</lic>
             <t pg="no" pos="Pron" type="Indef">naan</t>
             <xg>
                <x>Noen kan bli svært syke.</x>
-               <xt>Naakenh maehtieh joekoen skïemtjine sjïdtedh.</xt>
+               <xt>Naakenh maehtieh joekoen skiemtjine sjïdtedh.</xt>
             </xg>
             <xg>
                <x>Lommen er ikke noen gåer (flink til å gå).</x>
@@ -621,7 +621,7 @@ For the full license text, see the link above.</lic>
             <t pos="Pron" type="Indef">mij joem</t>
             <xg>
                <x>Ring om det er noe.</x>
-               <xt>Rïnghkh jis mij joem.</xt>
+               <xt>Ringkh jis mij joem.</xt>
             </xg>
             <xg>
                <x>Noe er galt.</x>
@@ -1580,7 +1580,7 @@ For the full license text, see the link above.</lic>
             <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken om satne</t>            
             <xg>
                <x>Laara sa at han har båt.</x>
-               <xt>Larra jeehti sov lea vïnhtse.</xt>
+               <xt>Laara jeehti sov lea vïnhtse.</xt>
             </xg>
          </tg>
       </mg>
