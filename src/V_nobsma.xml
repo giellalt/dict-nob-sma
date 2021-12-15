@@ -54025,13 +54025,14 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg
         xml:lang="sma">
+            <re>navnet er</re>
             <t pos="N">nomme</t>
             <xg>
-               <x>Jeg heter Per.</x>
-               <xt>Mov nomme Piere (Mitt navn er Per).</xt>
+               <x>Jeg heter Per. (Mitt navn er Per).</x>
+               <xt>Mov nomme Piere.</xt>
             </xg>
             <xg>
-               <x>Hva heter du?</x>
+               <x>Hva er ditt navn?</x>
                <xt>Guktie dov nomme?</xt>
             </xg>
             <xg>
