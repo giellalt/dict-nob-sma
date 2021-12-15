@@ -7475,25 +7475,30 @@ For the full license text, see the link above.</lic>
          <l pos="V">skulle</l>
       </lg>
       <mg>
+         <tg xml:lang="sma" tw_id="skulle ee3644a0-5cfb-4a69-bf53-2fb0bef360ec">
+         <re>skulle</re>
+            <t class="IV" pos="V" stem="2syll" umlaut="full" vow="x">edtjedh</t>
+            <xg>
+               <x>Hvor skal du?</x>
+               <xt>Gåabph edtjh?</xt>
+            </xg>
+            <xg>
+               <x>Hva skal vi spise til middag i dag?</x>
+               <xt>Maam edtjebe gaskebeajjan byöpmedidh?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
          <tg xml:lang="sma" tw_id="skulle 816353a7-3e83-4e49-aad6-c92e2e37aaea">
+         <re>skulle, måtte</re>
             <t class="IV" p3p="galka" pos="V" stem="2syll" vow="a">galkedh</t>
             <xg>
                <x>Hvilken av de to koppene skal jeg drikke av?</x>
                <xt>Gåabpede kåahpijste galkem jovkedh?</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="skulle ee3644a0-5cfb-4a69-bf53-2fb0bef360ec">
-         <re>av egen vilje</re>
-            <t class="IV" pos="V" stem="2syll" umlaut="full" vow="x">edtjedh</t>
             <xg>
-               <x>Hva skal vi spise til middag i dag?</x>
-               <xt>Maam edtjebe gaskebeajjan byöpmedidh?</xt>
-            </xg>
-            <xg>
-               <x>Hvor skal du?</x>
-               <xt>Gåabph edtjh?</xt>
+               <x>Når man skal ut å gjete.</x>
+               <xt>Gosse galka olkese ryöjnesjidh.</xt>
             </xg>
          </tg>
       </mg>
