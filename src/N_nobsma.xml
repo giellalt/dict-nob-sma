@@ -86,8 +86,8 @@ For the full license text, see the link above.</lic>
          <l pos="Phrase">usikkert vær</l>
       </lg>
       <mg>
-	      <re>på grunn av solrøyk</re>
          <tg xml:lang="sma" tw_id="ved usikkert vær på grunn av solrøyk 4264e8bc-1f56-4c00-bfb7-9b031cf8838d">
+   	      <re>på grunn av solrøyk</re>
             <t pos="N">samhkedh</t>
          </tg>
       </mg>
@@ -37070,7 +37070,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma" tw_id="alle skinn, margbein eller sener fra reinens fire føtter 5d165cd8-807b-4306-88cf-92090ea4ad8c">
-	      <re>alle skinn, margbein eller sener fra reinens fire føtter</re>   
+	      <re>alle skinn, margbein eller sener fra reinens fire føtter</re>
             <t margo="e" pos="N" soggi="e" stem="3syll">gadtere</t>
          </tg>
       </mg>
