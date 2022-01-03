@@ -1574,6 +1574,16 @@ For the full license text, see the link above.</lic>
          <l pos="Adv">snart</l>
       </lg>
       <mg>
+         <tg xml:lang="sma" tw_id="snart e5219c9f-83ea-4982-b1ee-841e64fa3a7c">
+            <t pos="Adv">varke</t>
+            <t pos="Adv">varki</t>
+            <xg>
+               <x>Hvor snart (skal vi komme)?</x>
+               <xt>Man dle varke?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
          <tg xml:lang="sma" tw_id="snart 5e0bdc04-e805-4ccf-9f76-5b5a26f0ebfe">
             <t pos="Adv">rætnoe</t>
          </tg>
@@ -1581,16 +1591,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="snart 691fd3d5-f344-4274-b4e9-705505e3481d">
             <t pos="Adv">dallahmasten</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="snart e5219c9f-83ea-4982-b1ee-841e64fa3a7c">
-            <t pos="Adv">varke</t>
-            <t pos="Adv">varki</t>
-            <xg>
-               <x>Hun kommer gående fort.</x>
-               <xt>Dïhte varke båata vaedtsien.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
