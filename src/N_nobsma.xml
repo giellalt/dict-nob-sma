@@ -14395,7 +14395,17 @@ For the full license text, see the link above.</lic>
             <t pos="N" soggi="oe" stem="2syll">gullieværjoe</t>
          </tg>
       </mg>
-   </e>
+   </e>  
+      <e>
+      <lg>
+         <l pos="N">smykke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma" tw_id="gullsmykke f922ccd2-741a-4ff4-b2dd-36164d9c8ba9">
+            <t pos="N" soggi="oe" stem="2syll">værjoe</t>
+         </tg>
+      </mg>
+   </e>  
    <e>
       <lg>
          <l pos="N">lom</l>
@@ -39032,7 +39042,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="øvrighetsperson ca6364cb-4ee2-4b50-af6b-56fc50f310d9">
-            <t pos="N">åejviehearra</t>
+            <t pos="N">åajvaladtje</t>
          </tg>
       </mg>
    </e>
@@ -39613,6 +39623,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="folkedag 1e3dbe64-3596-4bb4-9b22-7a7734fdea46">
             <t pos="N">åålmehbiejjie</t>
+            <xg>
+               <x>Gratulerer med Samefolkets dag!</x>
+               <xt>Lahkoe Saemiej åålmehbiejjine!</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -67108,7 +67122,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">anser indicus</re>
-            <t pos="N">straenjie-gaase</t>
+            <t pos="N">straenjiegaase</t>
          </tg>
       </mg>
    </e>
@@ -67119,7 +67133,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">anser caerulescens</re>
-            <t pos="N">lopme-gaase</t>
+            <t pos="N">lopmegaase</t>
          </tg>
       </mg>
    </e>
@@ -67130,7 +67144,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">branta canadensis</re>
-            <t pos="N">kaanada-gaase</t>
+            <t pos="N">kaanadagaase</t>
          </tg>
       </mg>
    </e>
@@ -67141,7 +67155,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">branta leucopsis</re>
-            <t pos="N">skiehrie-gaase</t>
+            <t pos="N">skiehriegaase</t>
          </tg>
       </mg>
    </e>
@@ -67152,7 +67166,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">branta bernicla</re>
-            <t pos="N">ringsije-gaase</t>
+            <t pos="N">ringsijegaase</t>
          </tg>
       </mg>
    </e>
@@ -67241,7 +67255,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">anas clypeata</re>
-            <t pos="N">buste-tjååtsele</t>
+            <t pos="N">bustetjååtsele</t>
          </tg>
       </mg>
    </e>
@@ -67252,7 +67266,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">aythya ferina</re>
-            <t pos="N">provne-tjååtsele</t>
+            <t pos="N">provnetjååtsele</t>
          </tg>
       </mg>
    </e>
@@ -67375,7 +67389,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">mergus serrator</re>
-            <t pos="N">voepte-gåelsie</t>
+            <t pos="N">voeptegåelsie</t>
          </tg>
       </mg>
    </e>
@@ -67387,7 +67401,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <re xml:lang="lat">mergus merganser</re>
             <t pos="N">gåelsie</t>
-            <t pos="N">liejpie-gåelsie</t>
+            <t pos="N">liejpiegåelsie</t>
          </tg>
       </mg>
    </e>
