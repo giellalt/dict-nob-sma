@@ -14382,7 +14382,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="gullmedalje a9ae4895-a46c-49fa-bcf8-08193df4e327">
-            <t pos="N" soggi="a" stem="2syll">gullievæhta</t>
+            <t pos="N" soggi="a" stem="2syll">gulliebaalhkese</t>
          </tg>
       </mg>
    </e>
@@ -39616,17 +39616,17 @@ For the full license text, see the link above.</lic>
          <l pos="N">folkedag</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="folkedag 926645a6-d0ae-4825-b1fc-f551019594ee">
-            <t pos="N">åålmegebiejjie</t>
-         </tg>
-      </mg>
-      <mg>
          <tg xml:lang="sma" tw_id="folkedag 1e3dbe64-3596-4bb4-9b22-7a7734fdea46">
             <t pos="N">åålmehbiejjie</t>
             <xg>
                <x>Gratulerer med Samefolkets dag!</x>
                <xt>Lahkoe Saemiej åålmehbiejjine!</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma" tw_id="folkedag 926645a6-d0ae-4825-b1fc-f551019594ee">
+            <t pos="N">åålmegebiejjie</t>
          </tg>
       </mg>
    </e>
