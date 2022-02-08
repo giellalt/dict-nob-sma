@@ -14403,6 +14403,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma" tw_id="gullsmykke f922ccd2-741a-4ff4-b2dd-36164d9c8ba9">
             <t pos="N" soggi="oe" stem="2syll">værjoe</t>
+            <t pos="N" soggi="oe" stem="2syll">kjede</t>
          </tg>
       </mg>
    </e>  
@@ -14464,7 +14465,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="strikketrøye 5aadab26-a723-4d48-b06e-03ac369b1073">
-            <t pos="N" soggi="a" stem="2syll">gurremetråajja</t>
+            <t pos="N" soggi="a" stem="2syll">gurremetråajjoe</t>
          </tg>
       </mg>
    </e>
@@ -14483,6 +14484,20 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+      <e>
+      <lg>
+         <l pos="N">sofa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma" tw_id="strikketrøye 5aadab26-a723-4d48-b06e-03ac369b1073">
+            <t pos="N" soggi="a" stem="2syll">såffa</t>
+            <xg>
+               <x>Jeg ligger på sofaen.</x>
+               <xt>Manne såffan nelnie vealesjem.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e> 
    <e>
       <lg>
          <l pos="N">tvunnet bånd</l>
