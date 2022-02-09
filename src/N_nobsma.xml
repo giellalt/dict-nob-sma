@@ -33400,6 +33400,14 @@ For the full license text, see the link above.</lic>
             <re>om menneske</re>
             <t pos="N" soggi="oe" stem="2syll">vaajmoe</t>
          </tg>
+                  <tg xml:lang="sma" tw_id="hjerte 90609434-9086-44e3-8d48-c4bdb0a49fd8">
+            <re>om levende dyr</re>
+            <t pos="N" soggi="oe" stem="2syll">vååjmese</t>
+         </tg>
+         <tg xml:lang="sma" tw_id="hjerte 90609434-9086-44e3-8d48-c4bdb0a49fd8">
+            <re>om döde dyr</re>
+            <t pos="N" soggi="oe" stem="2syll">baahtsege</t>
+         </tg>
       </mg>
    </e>
    <e>
