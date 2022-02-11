@@ -9159,7 +9159,20 @@ For the full license text, see the link above.</lic>
          <l pos="V">ta</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="ta b3e1f86e-2c89-4050-922b-e4a182994481">
+         <tg xml:lang="sma" tw_id="ta 1883dd27-93b6-42ea-9f4c-1d26efaa4968">
+            <t
+          class="I"
+          p3p="vaalta"
+          pos="V"
+          stem="2syll"
+          umlaut="full"
+          vow="x"
+        >vaeltedh</t>
+         </tg>
+      </mg>
+      <mg>
+        <tg xml:lang="sma" tw_id="ta b3e1f86e-2c89-4050-922b-e4a182994481">
+	  <re>gripe fatt i</re>
             <t
           class="IV"
           p3p="bæksa"
@@ -9180,18 +9193,6 @@ For the full license text, see the link above.</lic>
           umlaut="full"
           vow="x"
         >dïjpedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="ta 1883dd27-93b6-42ea-9f4c-1d26efaa4968">
-            <t
-          class="I"
-          p3p="vaalta"
-          pos="V"
-          stem="2syll"
-          umlaut="full"
-          vow="x"
-        >vaeltedh</t>
          </tg>
       </mg>
       <mg>
@@ -14522,12 +14523,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma" tw_id="nappe fd7482a1-e1df-46ae-9749-dd8acb513cc2">
             <re>om fisk</re>
             <t class="IV" pos="V" umlaut="D">snjåaredh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma" tw_id="nappe ad7c8c63-c825-4138-91e1-c9c70612b8f5">
-            <re>om fisk</re>
-            <t class="VI" pos="V" umlaut="F">dijpedh</t>
          </tg>
       </mg>
       <mg>
@@ -42619,18 +42614,15 @@ For the full license text, see the link above.</lic>
          <l pos="V">holde</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="holde f0789691-4067-4afb-89cc-85df53d2e7e0">
-            <t
-          context="3pers"
-          p3p="rïeresje"
-          pos="V"
-          stem="3syll"
-        >rïeresjidh</t>
+        <tg xml:lang="sma" tw_id="holde 5f13ed6c-6ea6-4238-9c87-d30726f4dbd7">
+	  <re>holde noe</re>
+            <t class="VI" p3p="steerie" pos="V" stem="2syll">steeredh</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="holde 5f13ed6c-6ea6-4238-9c87-d30726f4dbd7">
-            <t class="VI" p3p="steerie" pos="V" stem="2syll">steeredh</t>
+        <tg xml:lang="sma" tw_id="holde 6a9b8cc7-c7a1-46fe-8e48-b65d152ba684">
+	  <re>arrangere, avholde</re>
+            <t class="VI" pos="V" umlaut="F">hööltedh</t>
          </tg>
       </mg>
       <mg>
@@ -42644,8 +42636,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="holde 6a9b8cc7-c7a1-46fe-8e48-b65d152ba684">
-            <t class="VI" pos="V" umlaut="F">hööltedh</t>
+        <tg xml:lang="sma" tw_id="holde f0789691-4067-4afb-89cc-85df53d2e7e0">
+	  <re>vare, strekke til</re>
+            <t
+          context="3pers"
+          p3p="rïeresje"
+          pos="V"
+          stem="3syll"
+        >rïeresjidh</t>
          </tg>
       </mg>
    </e>
