@@ -158,7 +158,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="A">skjermet for vind</l>
+         <l pos="Phrase">skjermet for vind</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="skjermet for vind a4532df8-3845-4827-a0f9-2f6af2458931">
@@ -986,7 +986,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="A">som kjent</l>
+         <l pos="Phrase">som kjent</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="som kjent 5fe93ca6-9d30-4913-b9ce-5f1be8cb29fb">
@@ -1194,7 +1194,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="A">fra gammelt</l>
+         <l pos="Phrase">fra gammelt</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="fra gammelt cdd0385c-50d6-4980-ae55-6efadd88462f">
@@ -1468,7 +1468,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="A">i veien</l>
+         <l pos="Phrase">i veien</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="i veien 3c40ca48-edef-4035-8b60-90da1beff3c6">
@@ -1482,7 +1482,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="A">som mangler</l>
+         <l pos="Phrase">som mangler</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="som mangler fe7eb427-6399-44f9-8a76-f0ba6fa04e57">
@@ -1649,7 +1649,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="A">grei i motsetning til flokete</l>
+         <l pos="Phrase">grei i motsetning til flokete</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="grei i motsetning til flokete 12f7f3c0-6856-4a1f-b673-71777b622e33">
@@ -1784,7 +1784,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="A">ferdig til bruk</l>
+         <l pos="Phrase">ferdig til bruk</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="ferdig til bruk 66f0485a-9308-40e4-befb-64a3ca1712fe">
@@ -3526,7 +3526,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="A">som kan litt av hvert</l>
+         <l pos="Phrase">som kan litt av hvert</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="som kan litt av hvert 762dbf3e-b90b-4816-839d-9da2c8cbc65d">
@@ -3555,7 +3555,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="A">for seg selv</l>
+         <l pos="Phrase">for seg selv</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="for seg selv 64c8c333-7575-49a3-a690-68f9bb094014">
@@ -3579,7 +3579,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="A">lenger borte</l>
+         <l pos="Phrase">lenger borte</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="lenger borte cfdad4ce-4f90-410e-8d10-5216ba3da53a">
@@ -3589,7 +3589,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="A">mot veggen</l>
+         <l pos="Phrase">mot veggen</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="mot veggen eeb84629-9de5-4e7c-b338-19702ec6cb2f">
@@ -3683,7 +3683,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="A">lett fornærmelig</l>
+         <l pos="Phrase">lett fornærmelig</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="lett fornærmelig ba1ec208-d746-40d6-afac-e63d596ee87f">
@@ -3693,7 +3693,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="A">noen slags</l>
+         <l pos="Phrase">noen slags</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="noen slags 7947d54e-add7-4776-87ec-aca31f347235">
@@ -3843,7 +3843,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="A">myk og tynn</l>
+         <l pos="Phrase">myk og tynn</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="myk og tynn 2b161f4b-59a9-49e6-81d4-0834120b6dce">
@@ -3958,7 +3958,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="A">som er alene</l>
+         <l pos="Phrase">som er alene</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="som er alene 99be9a68-203a-45ba-a2d0-f6bf960dc5f0">
@@ -4141,7 +4141,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="A">sein til å oppdage</l>
+         <l pos="Phrase">sein til å oppdage</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="sein til å oppdage 483aa421-4fb1-4197-a045-d2ae6a09476c">
@@ -4568,7 +4568,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="A">lik hverandre</l>
+         <l pos="Phrase">lik hverandre</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="lik hverandre 9da1fddf-d27b-4540-84c8-a1d25dccde37">
@@ -4588,7 +4588,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="A">tilbøyelig til å bry seg</l>
+         <l pos="Phrase">tilbøyelig til å bry seg</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="tilbøyelig til å bry seg e70e9f78-4382-4eb0-87c0-9a444b5ab85d">
@@ -4722,7 +4722,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="A">i ustand</l>
+         <l pos="Phrase">i ustand</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="i ustand fb469f0e-cad5-40da-987b-048a430f6ccd">
@@ -4762,7 +4762,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="A">spunnet av ryggsener</l>
+         <l pos="Phrase">spunnet av ryggsener</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="spunnet av ryggsener 3f1a8cfc-1edd-4b90-97df-c47deed44bef">
@@ -5022,7 +5022,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="A">svært skarpsynt</l>
+         <l pos="Phrase">svært skarpsynt</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="svært skarpsynt 47811265-b35f-411c-92a1-daec5053db77">
@@ -5214,7 +5214,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="A">som holder seg på plass</l>
+         <l pos="Phrase">som holder seg på plass</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="som holder seg på plass f729d35d-08b8-495f-8010-dc9550e37d08">
@@ -5225,7 +5225,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="A">som er rolig og samlet</l>
+         <l pos="Phrase">som er rolig og samlet</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="som er rolig og samlet 54da28c0-b9f2-4612-b551-072f76164935">
@@ -5246,7 +5246,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="A">snar til å oppfatte</l>
+         <l pos="Phrase">snar til å oppfatte</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="snar til å oppfatte b24e4552-d2f2-4334-878b-2d36a1b04737">
@@ -5699,7 +5699,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="A">god å ha</l>
+         <l pos="Phrase">god å ha</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="god å ha 97cc7cee-4413-4da7-b157-2b5711e3e9fe">
@@ -5766,7 +5766,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="A">liggende på siden</l>
+         <l pos="Phrase">liggende på siden</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="liggende på siden 9f3a3f64-e6ad-49db-adb5-3975888c93b8">
@@ -5856,7 +5856,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="A">svær til å trekke vann</l>
+         <l pos="Phrase">svær til å trekke vann</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="svær til å trekke vann 405bd939-1db4-4e1b-b080-78b75ca609b5">
@@ -5891,7 +5891,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="A">alle slags</l>
+         <l pos="Phrase">alle slags</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="alle slags c2f5c798-8c87-4d10-a917-d47f292f359c">
@@ -5901,7 +5901,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="A">ferdig tilberedt</l>
+         <l pos="Phrase">ferdig tilberedt</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="ferdig tilberedt d69b8027-c418-47ab-8768-92c1cb150fca">
@@ -5911,7 +5911,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="A">som er tilstede</l>
+         <l pos="Phrase">som er tilstede</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="som er tilstede 7f1cdf65-b13c-4b85-a900-ef963f030e01">
@@ -5921,7 +5921,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="A">fuktig og myk</l>
+         <l pos="Phrase">fuktig og myk</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="fuktig og myk a3b06e43-4a12-443e-9e5f-7fb8c96a9364">
@@ -6031,17 +6031,17 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="A">det er bra</l>
+         <l pos="Phrase">det er bra</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="det er bra 74fb1860-693c-4ca6-b819-37c0b9b24fc6">
-            <t pos="A">hijven hov</t>
+            <t pos="Phrase">hijven hov</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="A">mange slags</l>
+         <l pos="Phrase">mange slags</l>
       </lg>
       <mg>
          <tg xml:lang="sma" tw_id="mange slags 2fd4e0db-77aa-401c-a6f4-6adf3f792f90">
@@ -7184,8 +7184,8 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma" tw_id="oppmerksom 07177ab4-8577-4667-a767-25b00ce4852e">
-        <t pos="A">våårkehke  </t>
-        <t pos="A">vuepties  </t>
+        <t pos="Phrase">våårkehke  </t>
+        <t pos="Phrase">vuepties  </t>
       </tg>
     </mg>
   </e>
