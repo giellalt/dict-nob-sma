@@ -31,7 +31,7 @@ For the full license text, see the link above.</lic>
          <l pos="Phrase">ett eller annet</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="ett eller annet be739f05-4409-482b-a22a-5781bfd4f9ef">
+         <tg xml:lang="sma">
             <t pos="Phrase">maam joem</t>
          </tg>
       </mg>
@@ -41,7 +41,7 @@ For the full license text, see the link above.</lic>
          <l pos="Phrase">hvor mange</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="hvor mange aca00b91-91c3-416f-8f1e-8ce82505f2e3">
+         <tg xml:lang="sma">
             <t pos="Phrase">man gellie</t>
          </tg>
       </mg>
@@ -51,7 +51,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="Dem">den</l> 
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="den 58d1ce50-2977-4ffe-a522-9c775ff043e7">
+         <tg xml:lang="sma">
 	         <re>både den og det</re>
             <t pos="Pron" type="Dem">dïhte</t>
             <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#P%C3%A5pekende+pronomen">les i grammatikken</t>            
@@ -66,7 +66,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="den 58d1ce50-2977-4ffe-a522-9c775ff043e7">
+         <tg xml:lang="sma">
 	         <re>både den og det, foran substantiv</re>
             <t pos="Pron" type="Dem">dïhte</t>
             <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#P%C3%A5pekende+pronomen+sammen+med+substantiv">les i grammatikken</t>            
@@ -101,7 +101,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="den 9fb4385e-56fb-49d9-a176-1310ae99bdb9">
+         <tg xml:lang="sma">
             <re>både den og det, nærmere deg enn meg</re>
             <t pos="Pron" type="Dem">doete</t>
             <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#P%C3%A5pekende+pronomen">les i grammatikken</t>            
@@ -145,7 +145,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="Dem">de</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="de 025ee5ee-cf8a-4270-8eaf-5a7039aa4c27">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Dem">dah</t>
             <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#P%C3%A5pekende+pronomen">les i grammatikken</t>            
 
@@ -184,7 +184,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="den 9fb4385e-56fb-49d9-a176-1310ae99bdb9">
+         <tg xml:lang="sma">
             <re>nærmere deg enn meg</re>
             <t pos="Pron" type="Dem">doeh</t>
             <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#P%C3%A5pekende+pronomen">les i grammatikken</t>            
@@ -219,7 +219,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="de selv e66360a0-6bcf-435f-8bbc-3c64c9d669f8">
+         <tg xml:lang="sma">
             <re>om to som viser til seg selv</re>
             <t pos="Pron" type="Logo">såtnoeh</t>
             <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken om satne</t>            
@@ -230,7 +230,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="de selv ae979fa1-4402-40a8-a54d-d4da433f8327">
+         <tg xml:lang="sma">
             <re>de viser til seg selv</re>
             <t pos="Pron" type="Logo">sijjieh</t>
             <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken om satne</t>            
@@ -246,7 +246,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="Dem">deres</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="deres c92bcea1-a958-4c8c-b2f1-3f394e32a970">
+         <tg xml:lang="sma">
             <re>2. person, om to personer</re>
             <t pos="Pron" type="Pers">dotnen</t>
          <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken</t>            
@@ -257,7 +257,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="deres b94d7cd6-c32b-427e-972f-7920101cbe2c">
+         <tg xml:lang="sma">
             <re>2. person</re>
             <t pos="Pron" type="Pers">dijjen</t>
             <xg>
@@ -267,7 +267,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="deres a8a65280-9a89-4805-b487-b9ef21de5ea5">
+         <tg xml:lang="sma">
             <re>3. person</re>
             <t pos="Pron" type="Pers">dej</t>
             <xg>
@@ -277,14 +277,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="deres 16910cb5-16df-44cc-868d-671f78192eb0">
+         <tg xml:lang="sma">
             <re>3. person, om to personer</re>
             <t pos="Pron" type="Pers">daj guaktaj</t>
             <t pos="Pron" type="Pers">dej guaktaj</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="deres eget b3ab4852-bd22-4182-aa43-23c5f094b12f">
+         <tg xml:lang="sma">
             <re>3. person, to personer som viser til sin egen</re>
             <t pos="Pron" type="Logo">sotnen</t>
          <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken om satne</t>            
@@ -295,7 +295,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="deres egen d91a69dc-1437-4612-bc93-875222860823">
+         <tg xml:lang="sma">
             <re>3. person, som viser til sitt eget</re>
             <t pos="Pron" type="Logo">sijjen</t>
             <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken om satne</t>            
@@ -311,7 +311,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="Dem">denne</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="denne 336ab643-ab50-47fb-826e-7fb53b4ce83f">
+         <tg xml:lang="sma">
 	         <re>både denne og dette</re>
             <t pos="Pron" type="Dem">daate</t>
             <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#P%C3%A5pekende+pronomen">les i grammatikken</t>            
@@ -347,7 +347,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="Dem">disse</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="disse b11a85c3-6255-44c2-89a4-c06acd24d8cc">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Dem">daah</t>
             <xg>
                <x>Disse vottene er mine.</x>
@@ -377,7 +377,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">slik</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="slik 72e7121e-ac1a-49b6-b0e5-59d148c81ffa">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Dem">dagkeres</t>
             <xg>
                <x>Jeg har ikke slik bil.</x>
@@ -407,7 +407,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">slik som den der borte</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="slik som den der borte c3e9352d-7a36-411c-ab04-d4d214bbbdc3">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Dem">dogkeres</t>
          </tg>
       </mg>
@@ -417,7 +417,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">noen</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="noen 40294a1d-bf01-46a8-9bd8-03913d27fbc9">
+         <tg xml:lang="sma">
              <re>en og annen, noen</re>
             <t pos="Pron" type="Indef">muvhte</t>
             <xg>
@@ -431,7 +431,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="noen 302cac59-902c-41e4-b507-003fbfb39b96">
+         <tg xml:lang="sma">
              <re>en del, mange</re>
             <t pos="Pron" type="Indef">måedtie</t>
             <xg>
@@ -445,7 +445,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="noen 8a7ab5d0-bebf-4e66-aaa7-8d181e4113bd">
+         <tg xml:lang="sma">
              <re>en viss, noen</re>
             <t pg="no" pos="Pron" type="Indef">såemies</t>
             <xg>
@@ -483,7 +483,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="en eller annen afcb7a3f-6ee3-42b3-b586-51f4c4b599ff">
+         <tg xml:lang="sma">
 	         <re>om personer</re>
             <t pos="Pron">gie joem</t>
             <t pos="Pron">gie akt</t>
@@ -503,7 +503,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">en del</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="en del 48a9c131-f065-476f-8b3a-739a51328ceb">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Indef">måedtie</t>
             <xg>
                <x>mange ganger</x>
@@ -517,7 +517,7 @@ For the full license text, see the link above.</lic>
          <l pos="Phrase">en og annen</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="en og annen d0a5517b-3def-4114-a3f3-e5bf20e049f5">
+         <tg xml:lang="sma">
             <t pos="Phrase">muvhte</t>
          </tg>
       </mg>
@@ -527,7 +527,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">ingen</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" >
+         <tg xml:lang="sma">
             <t pos="Phrase">ij naan</t>
             <xg>
                <x>Den lua har ingen dusk.</x>
@@ -540,7 +540,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" >
+         <tg xml:lang="sma">
 	         <re>om personer</re>
             <t pos="Phrase">ij gie</t>
             <t pos="Phrase">ij guhte</t>
@@ -555,7 +555,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" >
+         <tg xml:lang="sma">
 	         <re>om to</re>
             <t pos="Phrase">ij gåabpa</t>
             <xg>
@@ -570,7 +570,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">ingenting</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" >
+         <tg xml:lang="sma">
             <t pos="Phrase">ij mij</t>
             <xg>
                <x>Det står ingenting om det her.</x>
@@ -669,12 +669,12 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">noen få</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="noen få cb800ff9-0943-4c53-9b31-f2139941ab0c">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Indef">naakene</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="noen få 94d8d834-93d9-418f-b9e5-19b695005bf6">
+         <tg xml:lang="sma">
             <t pg="no" pos="Pron" type="Indef">naan</t>
             <xg>
                <x>Og noen få unge mennesker hadde allerede kommet.</x>
@@ -683,7 +683,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="noen få d9fdf7fe-f7e5-4897-af1c-7ca74a81fa0b">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Indef">gille</t>
             <xg>
                <x>Nå er det bare noen få dager igjen av dette skoleåret.</x>
@@ -697,7 +697,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">all</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="all dc7f1556-db22-41e2-b232-64204f7b3ddd">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Indef">gaajhke</t>
             <xg>
                <x>ikke alle ganger</x>
@@ -714,7 +714,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="alle personer 942e3df6-743c-4fcf-8206-bd5c6005846b">
+         <tg xml:lang="sma">
 	         <re>om personer</re>
             <t pos="Pron" type="Coll">gaajhkesh</t>
             <xg>
@@ -737,7 +737,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">alle</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="all dc7f1556-db22-41e2-b232-64204f7b3ddd">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Indef">gaajhke</t>
             <xg>
                <x>ikke alle ganger</x>
@@ -754,7 +754,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="alle personer 942e3df6-743c-4fcf-8206-bd5c6005846b">
+         <tg xml:lang="sma">
 	         <re>om personer</re>
             <t pos="Pron" type="Coll">gaajhkesh</t>
             <xg>
@@ -777,7 +777,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">alt</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="alt cf96e512-75fa-4a03-9dbb-51903044c3b7">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Indef">gaajhke</t>
             <xg>
                <x>Alt sammen.</x>
@@ -795,7 +795,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">mange mennesker</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="mange mennesker 0f4084fc-b173-4dff-882f-d3fdf60c23f5">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Coll">gallesh</t>
             <xg>
                <x>De elevene, som du er sammen med, hvor mange er de?</x>
@@ -809,7 +809,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">begge to</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="begge to b15fc98d-4dc6-470b-bad0-fe68ba93cc48">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Indef">gåabpatjahkh</t>
          </tg>
       </mg>
@@ -819,7 +819,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">mange</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="mange 873ebfc1-55da-4f87-a124-3042e2f2f945">
+         <tg xml:lang="sma">
             <t pg="no" pos="Pron" type="Indef">gellie</t>
             <xg>
                <x>Mange spørsmål er det.</x>
@@ -832,7 +832,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="mange 5c69c50a-53dc-4aed-8c5d-35316850c77a">
+         <tg xml:lang="sma">
             <t pg="no" pos="Pron" type="Indef">gellieh</t>
             <xg>
                <x>Hvor mange bøker har du?</x>
@@ -850,7 +850,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">ikke noen av dem</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="ikke noen av dem 502ebba6-ddb1-4d58-a477-b5e1ed2e4ab3">
+         <tg xml:lang="sma">
             <t pg="no" pos="Pron" type="Indef">guhtegh</t>
             <xg>
                <x>Ikke noen av de arbeidstakerne ble med fra Havika til Hattfjelldal.</x>
@@ -864,7 +864,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">en annen</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="en annen 8fe35b8b-8604-4ace-b6b0-7be0e1c40113">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Indef">jeatja</t>
             <xg>
                <x>kunnskap om en annen kultur og et annet språk</x>
@@ -877,7 +877,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="en annen 73040f27-06f9-44cb-90ae-6f997e36a875">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Indef">jeatjebe</t>
             <xg>
                <x>De andre kom etter oss.</x>
@@ -891,7 +891,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">noe annet</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="noe annet f280482c-ba38-4c44-929a-bd3781f00764">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Indef">jeatjebe</t>
             <xg>
                <x>gjøre noe annet</x>
@@ -909,7 +909,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">mer</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="mer f83de65d-a320-4359-818c-8b20421c96e4">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Indef">jienebe</t>
             <xg>
                <x>Slik blir det også billigere når vi er flere.</x>
@@ -923,7 +923,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">hver</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="hver 0e6f9c1e-04b2-4b25-910c-3913aa9c4b89">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Indef">fïerhte</t>
             <xg>
                <x>Man bør pusse tennene hver morgen.</x>
@@ -937,7 +937,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">hele</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="hele 2461476c-6c31-4a54-9e54-7d60bc7b1a4a">
+         <tg xml:lang="sma">
             <t pg="no" pos="Pron" type="Indef">abpe</t>
             <xg>
                <x>Hele vinteren hadde vi gått til skolen, slik at vi var gått lei.</x>
@@ -951,7 +951,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">en viss</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="en viss e582fe42-2827-4887-9339-0b4b96758b1b">
+         <tg xml:lang="sma">
             <t pg="no" pos="Pron" type="Indef">såemies</t>
             <xg>
                <x>Noen skoler skal tilby undervisning i samisk.</x>
@@ -965,12 +965,12 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">noe som helst</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="noe som helst 0dedb87a-a183-42d3-ad69-f355eb817b5f">
+         <tg xml:lang="sma">
             <t pg="no" pos="Pron" type="Indef">mijgih</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="noe som helst 182bf19c-e096-4428-a871-800da766ae59">
+         <tg xml:lang="sma">
             <t pg="no" pos="Pron" type="Indef">mij gih</t>
             <t pg="no" pos="Pron" type="Indef">mij gænnah</t>
             <xg>
@@ -985,7 +985,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">jeg</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="jeg 82db294b-6280-4ba7-9518-ebe33c475968">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Pers">manne</t>
             <xg>
                <x>Jeg er ei jente.</x>
@@ -999,7 +999,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">meg</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="meg a1b7740e-f522-4c7e-9b8d-d6bcf7d1d895">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Pers">mannem</t>
             <xg>
                <x>Ser du meg?</x>
@@ -1013,7 +1013,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">min</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="min 2db941f5-6aed-4dfb-bf05-ada4f2b314bd">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Pers">mov</t>
             <xg>
                <x>Ser du båten min?</x>
@@ -1027,7 +1027,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">jeg har</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="jeg har 1e103230-5edb-43da-a4e9-62ac808074cd">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Pers">mov</t>
             <xg>
                <x>Jeg har en båt.</x>
@@ -1041,7 +1041,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">til meg</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="til meg 984fc279-3a5c-4414-aa07-27c750dc118d">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Pers">munnjien</t>
             <t pos="Pron" type="Pers">munnjan</t>
             <xg>
@@ -1060,7 +1060,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">av meg</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="av meg 76c77fda-709f-4683-9c0a-14c6ede837d7">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Pers">manneste</t>
             <xg>
                <x>Han fikk den av meg.</x>
@@ -1074,7 +1074,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">med meg</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="med meg 2dd67c55-6fc8-42be-9760-d81652c310a1">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Pers">mannine</t>
             <xg>
                <x>Du har vært så snill med meg.</x>
@@ -1088,7 +1088,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">vi to</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="vi to 8464de04-194f-4a3d-81ac-6ccc48af7a98">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Pers">månnoeh</t>
             <xg>
                <x>Vi to kommer i morgen.</x>
@@ -1106,7 +1106,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">oss to</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="oss to 4f702914-8761-4e12-a987-492ddabff526">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Pers">monnem</t>
             <xg>
                <x>Ta med oss to også!</x>
@@ -1120,7 +1120,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">vår</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="vår 7fd5b95f-e9a7-4142-93bb-0025d41a49f2">
+         <tg xml:lang="sma">
             <re>om to</re>
             <t pos="Pron" type="Pers">monnen</t>
             <xg>
@@ -1130,7 +1130,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="vår b3490e1c-76f0-42d2-900b-2bd533e7e46c">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Pers">mijjen</t>
             <xg>
                <x>våre områder, våre fjell</x>
@@ -1144,7 +1144,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">vi to har</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="vi to har 31d8f037-e6ba-45e2-89a9-4aaf31e6facf">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Pers">monnen</t>
             <xg>
                <x>Vi to har en båt.</x>
@@ -1158,7 +1158,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">til oss to</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="til oss to b624d800-ec2f-4267-a336-4a582bd357c6">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Pers">monnese</t>
             <xg>
                <x>Han er en av dem som ga en gave til oss to.</x>
@@ -1172,7 +1172,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">fra oss to</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="fra oss to 8f757f13-a5d2-4835-a101-f61b3ae5ed10">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Pers">monneste</t>
             <xg>
                <x>La en av oss to stå ved din høyre side!</x>
@@ -1186,7 +1186,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">med oss to</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="med oss to fd4ceb17-8627-4487-a185-9ae1bfda7f22">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Pers">monnine</t>
             <xg>
                <x>Han kom sammen med oss.</x>
@@ -1200,7 +1200,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">vi</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="vi e7ed9423-766e-4f01-b685-3fe3db9033fd">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Pers">mijjieh</t>
             <xg>
                <x>Vi er samer.</x>
@@ -1214,7 +1214,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">oss</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="oss 420b4df6-6a61-4fa1-8ec5-1aa2817cf1c6">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Pers">mijjem</t>
             <xg>
                <x>Hun hører oss ikke mer.</x>
@@ -1228,7 +1228,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">vi har</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="vi har 43f83552-7c1b-4fbc-8dc4-d1e4bbbdbaff">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Pers">mijjen</t>
             <xg>
                <x>Vi har en båt.</x>
@@ -1242,7 +1242,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">til oss</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="til oss 5a82504a-8180-4a6e-8fcb-bb011e43ff1c">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Pers">mijjese</t>
             <xg>
                <x>De har gitt det til oss.</x>
@@ -1251,7 +1251,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="til oss c501e714-01ac-4090-b128-fc4dd30dc6c0">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Pers">mijjide</t>
             <xg>
                <x>De har gitt det til oss.</x>
@@ -1265,7 +1265,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">av oss</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="av oss 81f41856-14ba-4f32-b17a-4343e3186631">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Pers">mijjeste</t>
             <xg>
                <x>Jentene i bygda likte da oss, de var da ikke redde for oss.</x>
@@ -1279,7 +1279,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">med oss</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="med oss 38776335-2282-4f08-a8fb-cf67518453b0">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Pers">mijjine</t>
             <xg>
                <x>Han måtte komme for å rådføre seg med oss.</x>
@@ -1293,7 +1293,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">du</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="du 979334b0-4865-4e9f-8d5e-5f7d90617c75">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Pers">datne</t>
             <xg>
                <x>Du er same.</x>
@@ -1307,7 +1307,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">deg</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="deg 87ace661-0530-4d2e-8705-6c4950964748">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Pers">datnem</t>
             <xg>
                <x>Jeg elsker deg.</x>
@@ -1325,7 +1325,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">din</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="din bd85697b-a683-4828-a146-635d17cf1a2b">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Pers">dov</t>
             <xg>
                <x>Er det din bok?</x>
@@ -1339,7 +1339,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">du har</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="du har 1a4d648a-c7f4-4716-be2f-bb2f7babe856">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Pers">dov</t>
             <xg>
                <x>Du har en båt.</x>
@@ -1353,7 +1353,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">til deg</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="til deg 7bbbca79-6b68-4e61-bb12-a5d8e30b0b89">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Pers">dutnjien</t>
             <xg>
                <x>Jeg vil fortelle nytt til deg.</x>
@@ -1367,7 +1367,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">av deg</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="av deg 927a7151-00f2-48dd-b5b1-b44cff363fa2">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Pers">datneste</t>
          </tg>
       </mg>
@@ -1377,7 +1377,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">med deg</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="med deg d2e0052a-e1d3-41fb-8f73-8378f2f5336f">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Pers">datnine</t>
             <xg>
                <x>Hvordan går det med deg der oppe?</x>
@@ -1391,7 +1391,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">dere to</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="dere to 67832964-efef-413c-a0e6-7a3dc7cc9a85">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Pers">dåtnoeh</t>
             <xg>
                <x>Dere to er her.</x>
@@ -1404,7 +1404,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="dere to d56f1dea-ae1f-4849-855e-4252bc273b29">
+         <tg xml:lang="sma">
             <re>akkusativ</re>
             <t pos="Pron" type="Pers">dotnem</t>
             <xg>
@@ -1419,7 +1419,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">dere to har</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="dere to har 80933317-822c-4ba4-a66e-c37290b26833">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Pers">dotnen</t>
             <xg>
                <x>Dere to har en båt.</x>
@@ -1433,7 +1433,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">til dere to</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="til dere to 85cdeb0d-54f2-46a6-9a20-faba5f2a004b">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Pers">dotnese</t>
             <xg>
                <x>Da skal han bygge stort hus til dere to.</x>
@@ -1447,7 +1447,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">av dere to</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="av dere to 52ef5188-6437-4069-bb1a-a4f5eb00b573">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Pers">dotneste</t>
             <xg>
                <x>Han har fått den av dere to.</x>
@@ -1461,7 +1461,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">med dere to</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="med dere to a3316856-3a4e-4022-b432-88aea75d764a">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Pers">dotnine</t>
             <xg>
                <x>Han kommer sammen med dere to.</x>
@@ -1475,7 +1475,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">dere</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="dere 16d974f6-e650-4b77-a271-51920c800c88">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Pers">dijjieh</t>
             <xg>
                <x>Dere er samer.</x>
@@ -1484,7 +1484,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="dere 0fe73210-4220-4e2c-b90b-7603dba7c9a5">
+         <tg xml:lang="sma">
             <re>akkusativ</re>
             <t pos="Pron" type="Pers">dijjem</t>
             <xg>
@@ -1499,7 +1499,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">dere har</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="dere har 5c13044d-cc04-48d8-b5a1-411548a674ae">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Pers">dijjen</t>
             <xg>
                <x>Dere har en båt.</x>
@@ -1513,7 +1513,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">til dere</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="til dere b1732d25-ffa4-493a-bc22-c4db32b20fd3">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Pers">dijjese</t>
             <xg>
                <x>Denne gir jeg til dere.</x>
@@ -1522,7 +1522,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="til dere 3d4eb649-f278-4229-9666-1b3aa7554b7b">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Pers">dijjide</t>
             <xg>
                <x>Denne gir jeg til dere.</x>
@@ -1536,7 +1536,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">fra dere</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="fra dere 59adf117-f4bf-4254-b047-853a4d28805e">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Pers">dijjeste</t>
             <xg>
                <x>Jeg fikk en stor gave fra dere.</x>
@@ -1550,7 +1550,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">med dere</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="med dere 6ee23948-7577-4e8e-9a74-7d7bc6dbb44e">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Pers">dijjine</t>
             <xg>
                <x>Hvordan går det med dere?</x>
@@ -1564,7 +1564,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">han har</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="han har ffa2036a-9219-4a96-89ce-3a64efed9c09">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Pers">dan</t>
             <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken</t>            
             <xg>
@@ -1574,7 +1574,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="han har 6a42f290-a1f3-499c-86e0-ab4f54414532">
+         <tg xml:lang="sma">
 	         <re>han viser til seg selv</re>
             <t pos="Pron" type="Logo">sov</t>
             <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken om satne</t>            
@@ -1590,7 +1590,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">hun har</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="hun har 3e715616-8792-425b-a0e2-7c0936644d3e">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Pers">dan</t>
             <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken</t>            
             <xg>
@@ -1600,7 +1600,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="hun har 44d36123-79b6-4dad-a0a9-673baa4641a6">
+         <tg xml:lang="sma">
 	         <re>han viser til seg selv</re>
             <t pos="Pron" type="Logo">sov</t>
             <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken om satne</t>            
@@ -1616,18 +1616,18 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">til dem</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="til dem to 2ba7c80e-8945-4882-b9b9-130630684e89">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Pers" case="Ill">dejtie</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="til dem to 2ba7c80e-8945-4882-b9b9-130630684e89">
+         <tg xml:lang="sma">
 	         <re>om to personer</re>
             <t pos="Pron" type="Pers" case="Ill">dejtie guaktide</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="til dem to a05cb58c-105e-4a1a-95a6-85ff4fd17c02">
+         <tg xml:lang="sma">
             <re>om to som viser til seg selv</re>
             <t pos="Pron" type="Logo">sotnese</t>
             <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken om satne</t>            
@@ -1638,7 +1638,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="til dem selv fbfe4a38-535a-46db-986a-410a3980e671">
+         <tg xml:lang="sma">
 	         <re>de viser til seg selv</re>
             <t pos="Pron" type="Logo">sijjese</t>
             <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken om satne</t>            
@@ -1654,7 +1654,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">av dem</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="av dem 5209a10f-b146-4e5f-873c-dc750dcfc7f8">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Pers">dejstie</t>
             <xg>
                <x>Den har han fått av dem.</x>
@@ -1663,13 +1663,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="av de to 0f69a7f4-22c5-4ea7-a67a-db23288d210c">
+         <tg xml:lang="sma">
 	         <re>om to personer</re>
             <t pos="Pron" type="Pers">dejstie guaktijste</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="av dem ebdbf77d-cc8c-4a93-a88e-24502438214f">
+         <tg xml:lang="sma">
 	         <re>de viser til seg selv</re>
             <t pos="Pron" type="Logo">sijjeste</t>
             <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken om satne</t>            
@@ -1681,7 +1681,7 @@ For the full license text, see the link above.</lic>
       </mg>
 
       <mg>
-         <tg xml:lang="sma" tw_id="fra dem selv c380d671-26b7-47ab-9ba7-06293e73544f">
+         <tg xml:lang="sma">
 	         <re>to personer som viser til seg selv</re>
             <t pos="Pron" type="Logo">sijjeste</t>
             <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken om satne</t>            
@@ -1697,7 +1697,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">han</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="han 3bbe77a0-ad5d-4755-9d24-dfaa358df262">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Pers">dïhte</t>
             <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken</t>            
             <xg>
@@ -1708,7 +1708,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="han selv 3031edbd-5117-48ae-b0be-041868b72109"> 
+         <tg xml:lang="sma"> 
 	         <re>han viser til seg selv</re>
             <t pos="Pron" type="Logo">satne</t>
             <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken om satne</t>            
@@ -1728,7 +1728,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">hun</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="hun d278f933-9d38-46ab-ab60-55f8d2fd6a9b">
+         <tg xml:lang="sma">
             <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken</t>            
             <t pos="Pron" type="Pers">dïhte</t>
             <xg>
@@ -1739,7 +1739,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="hun selv df12e736-682d-4cff-8a08-f25408fd0584">
+         <tg xml:lang="sma">
 	         <re>hun viser til seg selv</re>
             <t pos="Pron" type="Logo">satne</t>
             <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken om satne</t>            
@@ -1755,7 +1755,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">henne</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="henne b9f3dacb-9131-4dee-acbb-7d6436c48d17">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Pers">dam</t>
             <xg>
                <x>Jeg ser henne.</x>
@@ -1764,7 +1764,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="henne selv a9194e38-c50d-4fa0-b2ce-2e8d56a3f299">
+         <tg xml:lang="sma">
 	         <re>hun viser til seg selv</re>
             <t pos="Pron" type="Logo">satnem</t>
             <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken om satne</t>            
@@ -1780,7 +1780,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">hans</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="hans e9925b59-e8cc-4f73-82e9-74c3527d0b7d">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Pers">dan</t>
             <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken</t>            
             <xg>
@@ -1790,7 +1790,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="hans egen 29c3365c-ba3d-4d30-b8a9-033bc064a8b2">
+         <tg xml:lang="sma">
 	         <re>han viser til sitt eget</re>
             <t pos="Pron" type="Logo">sov</t>
             <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken om satne</t>            
@@ -1806,7 +1806,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">hennes</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="hennes a075fe46-e0ea-4e37-b0f7-4119badd97d0">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Pers">dan</t>
             <xg>
                <x>Huset hennes er stort.</x>
@@ -1815,7 +1815,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="hans egen 29c3365c-ba3d-4d30-b8a9-033bc064a8b2">
+         <tg xml:lang="sma">
 	         <re>hun viser til sitt eget</re>
             <t pos="Pron" type="Logo">sov</t>
             <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken om satne</t>            
@@ -1831,7 +1831,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">til han</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="til ham 78a3d804-ddd0-49e7-9688-9eb74a11e270">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Pers">dïsse</t>
             <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken</t>            
             <xg>
@@ -1841,7 +1841,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="til ham selv 312d6968-32cd-4ef7-9efe-99cc0a308ba1">
+         <tg xml:lang="sma">
 	         <re>han viser til seg selv</re>
             <t pos="Pron" type="Logo">sutnjien</t>
             <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken om satne</t>            
@@ -1857,7 +1857,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">til henne</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="til henne df2747b2-bf4e-4a0c-aceb-a1271393c790">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Pers">dïsse</t>
             <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken</t>            
             <xg>
@@ -1867,7 +1867,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="til henne selv 6d7df4a1-fca9-4547-a4de-d74d2e948da2">
+         <tg xml:lang="sma">
 	         <re>hun viser til seg selv</re>
             <t pos="Pron" type="Logo">sutnjien</t>
             <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken om satne</t>            
@@ -1883,13 +1883,13 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">fra han</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="fra ham 84b4b0f9-c481-4461-bc26-4a488fac57f1">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Pers">destie</t>
             <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken</t>            
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="fra ham selv 3eb6ee99-44a2-478f-a6a3-509dc7c49e8f">
+         <tg xml:lang="sma">
 	         <re>han viser til seg selv</re>
             <t pos="Pron" type="Logo">satneste</t>
             <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken om satne</t>            
@@ -1905,12 +1905,12 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">fra henne</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="fra henne a3106ee4-12fd-43aa-9e63-d8b9d3056900">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Pers">destie</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="fra henne selv 5eee3cea-421a-4a93-8265-2f5ae5900abb">
+         <tg xml:lang="sma">
 	         <re>hun viser til seg selv</re>
             <t pos="Pron" type="Logo">satneste</t>
             <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken om satne</t>            
@@ -1926,7 +1926,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">med han</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="med ham f176e05a-03ca-415e-9b3b-08c75712a090">
+         <tg xml:lang="sma">
             <t nr="Sg" pos="Pron" type="Pers">dejnie</t>
             <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken</t>            
             <xg>
@@ -1936,7 +1936,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="med ham selv 62643409-e89e-4a4e-b221-339b3c29f400">
+         <tg xml:lang="sma">
 	         <re>han viser til seg selv</re>
             <t pos="Pron" type="Logo">satnine</t>
             <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken om satne</t>            
@@ -1952,7 +1952,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">med henne</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="med henne e7587019-9af8-428e-a52d-903c004804d0">
+         <tg xml:lang="sma">
             <t nr="Sg" pos="Pron" type="Pers">dejnie</t>
             <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken</t>            
             <xg>
@@ -1962,7 +1962,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="med henne selv 23f85814-a9cd-431e-9966-bb33c4f6bd02">
+         <tg xml:lang="sma">
  	         <re>hun viser til seg selv</re>
            <t pos="Pron" type="Logo">satnine</t>
             <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken om satne</t>            
@@ -1978,7 +1978,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">dem</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="dem 1f7a828a-14dd-4984-9526-9249dacaa706">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Pers">dejtie</t>
             <xg>
                <x>Jeg skal hjelpe dem.</x>
@@ -1987,7 +1987,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="dem selv 64ed9062-ae1d-4058-8cc6-707285283f52">
+         <tg xml:lang="sma">
             <re>om to som viser til seg selv</re>
             <t pos="Pron" type="Logo">sotnem</t>
             <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken om satne</t>            
@@ -1998,7 +1998,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="dem selv bfbccdeb-9a9a-4a5f-91da-c931a3b0460d">
+         <tg xml:lang="sma">
             <re>de viser til seg selv</re>
             <t pos="Pron" type="Logo">sijjem</t>
             <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken om satne</t>            
@@ -2014,7 +2014,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">de har</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="de har 4708f112-04ca-4d01-9979-2df164a1a5e4">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Pers">dej</t>
             <xg>
                <x>De har en båt.</x>
@@ -2023,7 +2023,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="de to har e424789d-0d87-4325-8ba5-313473c98392">
+         <tg xml:lang="sma">
 	         <re>om to personer</re>
             <t pos="Pron" type="Pers">daj guaktaj</t>
             <t pos="Pron" type="Pers">dej guaktaj</t>
@@ -2034,14 +2034,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="deres egen d91a69dc-1437-4612-bc93-875222860823">
+         <tg xml:lang="sma">
             <re>de viser til det de selv har</re>
             <t pos="Pron" type="Logo">sijjen</t>
             <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken om satne</t>            
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="de to har selv 6c1ef6d4-ddae-4d6a-bb04-b862ccf897c3">
+         <tg xml:lang="sma">
 	         <re>to personer viser til det de selv har</re>
             <t pos="Pron" type="Logo">sotnen</t>
             <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken om satne</t>            
@@ -2053,7 +2053,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">de to</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="de to 1f01f80c-c4c4-49ae-bd01-5d5e81881a2d">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Pers">dah guaktah</t>
          </tg>
       </mg>
@@ -2063,7 +2063,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">dem to</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="dem to d8bda47c-3172-48a7-bd0a-996734a2be9b">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Pers" case="Acc">dejtie guaktide</t>
          </tg>
       </mg>
@@ -2073,19 +2073,19 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">med dem</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="med de to d62b99ef-370b-41ef-90bc-2594615118b0">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Pers">dejgujmie</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="med de to d62b99ef-370b-41ef-90bc-2594615118b0">
+         <tg xml:lang="sma">
 	         <re>om to personer</re>
             <t pos="Pron" type="Pers">dej guaktajgujmie</t>
             <t pos="Pron" type="Pers">daj guaktajgujmie</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="med dem selv 563a71c0-7419-4aae-af67-a2977a238939">
+         <tg xml:lang="sma">
             <re>de viser til seg selv</re>
             <t pos="Pron" type="Logo">sijjine</t>
             <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken om satne</t>            
@@ -2096,7 +2096,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="med dem selv 1b84a56f-bf40-453d-8e76-8cc9c56e776d">
+         <tg xml:lang="sma">
             <re>to personer som viser til seg selv</re>
             <t pos="Pron" type="Logo">sotnine</t>
             <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken om satne</t>            
@@ -2112,7 +2112,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">hverandre</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="hverandre 55ed9f1f-e283-459a-81ab-8d464a25e7c9">
+         <tg xml:lang="sma">
 	         <re>som objekt</re>
             <t pos="Pron" type="Recipr">sinsitniem</t>
             <xg>
@@ -2126,7 +2126,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="hverandre c1594ae3-7da3-449f-947e-0efaf5ab0e3c">
+         <tg xml:lang="sma">
  	         <re>foran postposisjon</re>
            <t pos="Pron" type="Recipr">sinsitnien</t>
             <xg>
@@ -2136,7 +2136,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="til hverandre 47bb7caf-f338-48ea-8ccf-c305c430c719">
+         <tg xml:lang="sma">
  	         <re>til hverandre</re>
             <t pos="Pron" type="Recipr">sinsætnan</t>
             <xg>
@@ -2146,7 +2146,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="fra hverandre b5a56776-0efa-4b2a-b22f-d5e077d0d306">
+         <tg xml:lang="sma">
  	         <re>fra hverandre</re>
             <t pos="Pron" type="Recipr">sinsitneste</t>
             <xg>
@@ -2160,7 +2160,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="med hverandre fe5f6552-9d52-4c0b-af18-cefe505ee49a">
+         <tg xml:lang="sma">
  	         <re>med hverandre</re>
             <t pos="Pron" type="Recipr">sinsitnine</t>
             <xg>
@@ -2175,7 +2175,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">hverandres</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="hverandres 42eb8cf8-5453-4955-8da3-eec433739988">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Recipr">sinsitnien</t>
             <xg>
                <x>De vasket hverandres føtter.</x>
@@ -2189,7 +2189,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">selv</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="selv ca05fa04-bb8d-4d9b-9840-0eca1776923c">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Refl">jïjtje</t>
             <xg>
                <x>Vinden blåser dit den vil selv.</x>
@@ -2211,7 +2211,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">meg selv</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="meg selv cbee2af2-b353-41ce-8edf-89c325c3a706">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Refl">jïjtjeme</t>
             <xg>
                <x>Jeg ser meg selv i speilet.</x>
@@ -2220,7 +2220,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="meg selv 55d5f19b-d806-4435-8900-1f80e252b8b4">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Refl">jïjtjemem</t>
             <xg>
                <x>Jeg ser meg selv i speilet.</x>
@@ -2234,7 +2234,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">min egen</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="min egen 9234cd3d-c9f4-44af-a037-b16238ee206f">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Refl">jïjtjen</t>
             <xg>
                <x>Jeg har min egen bil.</x>
@@ -2248,7 +2248,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">jeg har selv</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="jeg har selv 2d442653-1e9e-4bd0-b740-a9541dd46458">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Refl">jïjtjen</t>
             <xg>
                <x>Jeg har min egen bil.</x>
@@ -2262,7 +2262,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">til meg selv</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="til meg selv 172b8436-1a4d-4d60-9995-f4e0e8db50df">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Refl">jïjtsanne</t>
             <xg>
                <x>Jeg kokte mat til meg selv.</x>
@@ -2271,7 +2271,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="til meg selv 02a450ca-0304-40e5-b40d-18b9eb3d2278">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Refl">jïjtsene</t>
             <xg>
                <x>Jeg kokte mat til meg selv.</x>
@@ -2280,7 +2280,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="til meg selv 60b903aa-e2f4-474f-bbbd-d2c0d9d8d1b7">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Refl">jïjtjenistie</t>
             <xg>
                <x>Jeg gir ingenting fra meg selv.</x>
@@ -2294,7 +2294,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">på meg selv</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="på meg selv aa8f1776-08eb-4256-b19b-f2e0d8753380">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Refl">jïjtjemisnie</t>
             <xg>
                <x>Jeg så rusk på meg selv.</x>
@@ -2308,7 +2308,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">fra meg selv</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="fra meg selv f3bd498e-e614-4615-8b2a-cf35631a2d7f">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Refl">jïjtjestanne</t>
             <xg>
                <x>Jeg gir ingenting fra meg.</x>
@@ -2322,7 +2322,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">med meg selv</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="med meg selv 11ed7522-0cb8-4c03-9dcd-4444c8ccb5f5">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Refl">jïjtjeninie</t>
             <xg>
                <x>Jeg må bli enig med meg selv.</x>
@@ -2331,7 +2331,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="med meg selv b701bde5-28ed-497e-b157-3938b9c8efa7">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Refl">jïjtjenæjnene</t>
             <xg>
                <x>Jeg må bli enig med meg selv.</x>
@@ -2345,7 +2345,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">deg selv</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="deg selv c6f6bab9-cab0-4fca-b5de-d49fd837b851">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Refl">jïjtjemdh</t>
             <xg>
                <x>Du ser deg selv i speilet.</x>
@@ -2359,7 +2359,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">din egen</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="din egen f8e77c9b-5355-4958-b008-8b54e7c40842">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Refl">jïjtjedh</t>
             <xg>
                <x>Ser du din egen simle?</x>
@@ -2373,7 +2373,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">til deg selv</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="til deg selv dbc639ef-0b01-4764-bc35-0eea0ede597c">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Refl">jïjtsadth</t>
             <xg>
                <x>Du kjøper vel boka til deg selv.</x>
@@ -2387,7 +2387,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">i deg selv</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="i deg selv bdc59eaa-79e0-48e2-a5cd-67e108d14f49">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Refl">jïjtjenadth</t>
             <xg>
                <x>Det kjenner du på deg selv.</x>
@@ -2401,7 +2401,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">på deg selv</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="på deg selv 86a23405-8eb0-4e60-93ff-5a02af95d1c1">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Refl">jïjtjenadth</t>
             <xg>
                <x>Det kjenner du på deg selv.</x>
@@ -2415,7 +2415,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">fra deg selv</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="fra deg selv 036ac6de-1255-4631-81af-78cdda2c9558">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Refl">jïjtjestadth</t>
             <xg>
                <x>Du gjør det av deg selv.</x>
@@ -2429,7 +2429,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">av deg selv</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="av deg selv 006e7860-d348-4558-adbc-ea89a7050930">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Refl">jïjtjestadth</t>
             <xg>
                <x>Du gjør det av deg selv.</x>
@@ -2443,7 +2443,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">med deg selv</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="med deg selv 66b81e25-8f17-424e-b791-137185f77805">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Refl">jïjtjenæjnedh</t>
             <xg>
                <x>Du står og synger for deg selv.</x>
@@ -2452,7 +2452,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="med deg selv cf081a4b-c2fc-4389-9d58-e2a4b491fb65">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Refl">jïjtjenedh</t>
             <xg>
                <x>Du står og synger for deg selv.</x>
@@ -2466,7 +2466,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">seg selv</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="seg selv ff31d99b-a3f4-414a-8acb-4cd1e9ffc406">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Refl">jïjtjemse</t>
             <xg>
                <x>Åvla ser seg selv i speilet.</x>
@@ -2480,7 +2480,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">sin egen</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="sin egen 1b72fb3a-7993-4938-a796-59fa6785f9ea">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Refl">jïjtse</t>
             <xg>
                <x>Han tar sin egen sekk på ryggen.</x>
@@ -2494,7 +2494,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">til seg selv</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="til seg selv a8b89ad5-e45a-44a3-ae2c-51f921f726d2">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Refl">jïjtsasse</t>
             <xg>
                <x>Han koker kaffe bare til seg selv.</x>
@@ -2503,7 +2503,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="til seg selv 0f5f09c6-1259-4dda-936f-bb456b5b5e10">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Refl">jïjtsinie</t>
             <xg>
                <x>Piere står og synger for seg selv.</x>
@@ -2517,7 +2517,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">i seg selv</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="i seg selv 57aec129-ac03-4d50-99fb-80dd3b1784ac">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Refl">jïjtjisnie</t>
          </tg>
       </mg>
@@ -2527,7 +2527,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">på seg selv</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="på seg selv e9f31853-4a5d-493a-a3be-d84353c23cab">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Refl">jïjtjisnie</t>
             <xg>
                <x>Buksa passer ikke på han selv.</x>
@@ -2541,7 +2541,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">hos seg selv</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="hos seg selv 5b5db8e6-a960-45a1-afd3-f4e7a2473f86">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Refl">jïjtjisnie</t>
             <xg>
                <x>Barnet er hos seg selv.</x>
@@ -2555,7 +2555,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">av seg selv</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="fra seg selv 9ab220e0-7b62-480b-b10f-cd0f920db5b8">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Refl">jïjtjestissie</t>
             <xg>
                <x>Laara gjør det av seg selv.</x>
@@ -2564,7 +2564,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="fra seg selv a7c5bba0-b00b-478f-96e6-b96b1deb71b6">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Refl">jïjtsistie</t>
             <xg>
                <x>Laara gjør det av seg selv.</x>
@@ -2578,7 +2578,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">hva</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="hva a121d4c1-48e6-4711-8c11-bbe3e4c0f1c3">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Interr">mij</t>
             <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Sp%C3%B8rrende+og+relative+pronomen">les i grammatikken</t>            
             <xg>
@@ -2613,7 +2613,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">hvilke</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="hvilke ccb1d56b-1196-4530-87fc-d3b1c229044a">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Interr">mah</t>
             <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Sp%C3%B8rrende+og+relative+pronomen">les i grammatikken</t>            
             <xg>
@@ -2628,7 +2628,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">hvorfra</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="hvorfra 2845c677-cc97-416e-9c59-f5397d23c5e1">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Rel">mejstie</t>
             <xg>
                <x>De åkrene hvor man har tatt opp poteter, ser helt svarte ut nå.</x>
@@ -2642,7 +2642,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">med hvilke</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="med hvilke 766a359c-ed39-4640-8c67-6dd566852530">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Interr">mejgujmie</t>
             <xg>
                <x>Med hvilke drar du?</x>
@@ -2656,7 +2656,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">hva slags</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="hva slags ccda803b-851e-4d48-84a0-8f2c7cd3454e">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Interr">magkeres</t>
             <xg>
                <x>Hva slags arbeid har du?</x>
@@ -2665,7 +2665,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="hva slags 08965f64-d9d7-4842-991a-5290ac8449ab">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Interr">magkere</t>
             <xg>
                <x>Hva slags ord er det?</x>
@@ -2679,7 +2679,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">hvem</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="hvem 6535cf64-2156-4015-b776-83dc0a8c33e4">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Interr">gie</t>
             <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Sp%C3%B8rrende+og+relative+pronomen">les i grammatikken</t>            
             <xg>
@@ -2716,7 +2716,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="hvilken av dem 6d669060-fd4b-4089-8387-c047f62c403a">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Interr">guhte</t>
          </tg>
       </mg>
@@ -2731,7 +2731,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="hvilken av to 79d29518-00dc-4eb4-83db-b5fa20aca185">
+         <tg xml:lang="sma">
 	         <re>om to muligheter</re>
             <t pos="Pron" type="Interr">gåabpa</t>
             <xg>
@@ -2757,7 +2757,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="hvilken av to d63b13df-97ed-4388-bc54-611643ccd8b1">
+         <tg xml:lang="sma">
 	         <re>om to muligheter</re>
             <t pos="Pron" type="Interr">gåabpetje</t>
          </tg>
@@ -2768,7 +2768,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">hvem av dem sin</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="hvem av dem sin 1d5c3be2-6caa-4bbf-9d78-4d5312f52393">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Interr">guhten</t>
             <xg>
                <x>Hvem sine bukser er dette?</x>
@@ -2777,7 +2777,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="hvem av dem sin 9c3aba1c-cea2-4c24-aab1-4bd0127dcbc9">
+         <tg xml:lang="sma">
             <re>om flere</re>
             <t pos="Pron" type="Interr">guhti</t>
             <xg>
@@ -2792,7 +2792,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">til hvem av dem</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="til hvem av dem 74f6d2f6-b2e2-42f6-8bc1-fc86c6fa873b">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Indef">guhtese</t>
             <xg>
                <x>Ikke fortell det til noen av dem!</x>
@@ -2801,7 +2801,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="til hvem av dem bafc9791-4924-4ba2-ba29-a58906e01f49">
+         <tg xml:lang="sma">
             <re>om flere</re>
             <t case="Acc" pos="Pron" type="Indef">guhtide</t>
          </tg>
@@ -2812,7 +2812,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">fra hvem av dem</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="fra hvem av dem 86c0de1a-ae71-40bc-8c97-43dd3d7b6eaf">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Interr">guhteste</t>
             <xg>
                <x>Fra hvem har du hørt det?</x>
@@ -2821,7 +2821,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="fra hvem av dem 95f92196-e4d7-43f5-b86a-169266cde1be">
+         <tg xml:lang="sma">
             <re>om flere</re>
             <t pos="Pron" type="Interr">guhtijste</t>
          </tg>
@@ -2832,12 +2832,12 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">med hvem av dem</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="med hvem av dem 3772f8a0-93d6-4d27-89e6-6c3b799d3e63">
+         <tg xml:lang="sma">
             <t nr="Sg" pos="Pron" type="Interr">guhtine</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="med hvem av dem df312a19-59e4-4928-bee1-e6cac8e9b0f9">
+         <tg xml:lang="sma">
             <re>om flere</re>
             <t nr="Pl" pos="Pron" type="Interr">guhtigujmie</t>
          </tg>
@@ -2848,7 +2848,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pron">hos hvem av dem</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="hos hvem av dem b0062af2-3930-4c8c-8c4c-f2c4456e24da">
+         <tg xml:lang="sma">
             <re>om flere</re>
             <t pos="Pron" type="Interr">guhtine</t>
          </tg>

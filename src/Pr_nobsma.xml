@@ -31,12 +31,12 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">inntil</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="inntil e8358a66-4c88-4da6-8435-62e1b3af15f3">
+         <tg xml:lang="sma">
             <t pos="Adv">gossege</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="inntil 49e7f095-6dc3-479b-8df2-f96dcf89cab9">
+         <tg xml:lang="sma">
             <t pos="Po">vuestie</t>
             <xg>
                <x>Jeg skal jobbe med dette fram til våren.</x>
@@ -50,7 +50,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">derimot</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="derimot 4eca3cdf-5596-48a3-8caa-1a2952d4c4f7">
+         <tg xml:lang="sma">
             <t pos="Adv">daerps</t>
          </tg>
       </mg>
@@ -60,7 +60,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">til</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="til 69abb93f-1cde-4110-abf3-9d309d5375ee">
+         <tg xml:lang="sma">
             <re>om tid</re>
             <t pos="CS">goske</t>
             <xg>
@@ -70,7 +70,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="til c4e99aac-715b-4842-997c-02b9001071d1">
+         <tg xml:lang="sma">
             <t pos="Po">raajan</t>
             <xg>
                <x>Møtet varte fra mandag til fredag.</x>
@@ -79,7 +79,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="til 36f52c8e-6d89-492a-9187-87a5502ab40c">
+         <tg xml:lang="sma">
             <t pos="Po">gïetskese</t>
             <xg>
                <x>Stopp ved siden av den bilen.</x>
@@ -88,7 +88,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="til ab5d7a75-87b6-4ce6-b30a-3ba9a65f2a46">
+         <tg xml:lang="sma">
             <re>nært</re>
             <t pos="Po">gietskie</t>
             <xg>
@@ -98,7 +98,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="til b0f8b294-bf06-49c4-baee-fcd5fe96f5e9">
+         <tg xml:lang="sma">
             <t pos="Po">gåajkoe</t>
             <xg>
                <x>Barnet gikk til bestemor.</x>
@@ -107,12 +107,12 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="til 81be4542-3bce-4727-84dc-289107fb56b1">
+         <tg xml:lang="sma">
             <t pos="Pr">gietskie</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="til 80ed7b83-25cb-44c1-a55e-57513f4fb13c">
+         <tg xml:lang="sma">
             <t pos="Pr">gïetskese</t>
          </tg>
       </mg>
@@ -122,7 +122,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">på langs</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="på langs 49f00272-51ee-49c7-8f11-ad5fdca277fb">
+         <tg xml:lang="sma">
             <t pos="Po">aalkesth</t>
          </tg>
       </mg>
@@ -132,12 +132,12 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">langsetter</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="langsetter 4019c04b-c354-445c-b000-becf384da3cb">
+         <tg xml:lang="sma">
             <t pos="Po">aalkesth</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="langsetter 21d9af0c-4bb8-4547-bae7-9e2d99653655">
+         <tg xml:lang="sma">
             <t pos="Po">mietie</t>
             <xg>
                <x>Jeg skal gå langs denne streken.</x>
@@ -146,7 +146,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="langsetter f8942341-b5a2-4e75-a56e-0bd98ca662df">
+         <tg xml:lang="sma">
             <t pos="Po">meatesth</t>
             <xg>
                <x>langsetter det skinnet</x>
@@ -160,7 +160,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">i begynnelsen</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="i begynnelsen 7f7ae21d-e6e8-43df-b0e0-c681daf1749c">
+         <tg xml:lang="sma">
             <re>om året</re>
             <t pos="Po">aalkoelisnie</t>
          </tg>
@@ -171,7 +171,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">fra begynnelsen</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="fra begynnelsen 0a96a767-5c1e-4009-b71c-f277f9d6e4cf">
+         <tg xml:lang="sma">
             <re>om året</re>
             <t pos="Po">aalkoelistie</t>
          </tg>
@@ -182,7 +182,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">med</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="med a109712d-f770-4089-a826-c7f338d41425">
+         <tg xml:lang="sma">
             <t pos="Po">gujmie</t>
             <xg>
                <x>Han danser med ulver.</x>
@@ -191,18 +191,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="med b1df9887-02c4-4c24-a19e-51b001974ad0">
+         <tg xml:lang="sma">
             <t pos="Po">mietelen</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="med 71cb41b6-bc78-4f3e-bd53-90c889535ec2">
+         <tg xml:lang="sma">
             <re>om flere</re>
             <t pos="Po">mieteli</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="med ff79df74-520b-4b60-9cd4-fd64f6acef53">
+         <tg xml:lang="sma">
             <t pos="Po">mietielisnie</t>
          </tg>
       </mg>
@@ -212,7 +212,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">fra</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="fra 76579fa1-cecd-4d8a-a0b4-7c7a905aca4a">
+         <tg xml:lang="sma">
             <t pos="Po">raejeste</t>
             <xg>
                <x>Møtet varte fra mandag til fredag.</x>
@@ -221,7 +221,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="fra 6b476fdf-4e51-4372-aadb-30589aecfd42">
+         <tg xml:lang="sma">
             <t pos="Po">luvhtie</t>
             <xg>
                <x>Hun kommer fra reinhjorden. Når begynner du å gå fra Krïhke?</x>
@@ -235,7 +235,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">til ved siden av</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="til ved siden av 781d1565-2dbf-493a-a298-885f52456542">
+         <tg xml:lang="sma">
             <t pos="Po">gïetskese</t>
             <xg>
                <x>Stopp ved siden av den bilen.</x>
@@ -244,7 +244,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="til ved siden av 253b3f8b-6bb5-4fec-9b19-b27c6e1fb45e">
+         <tg xml:lang="sma">
             <t pos="Pr">gïetskese</t>
          </tg>
       </mg>
@@ -254,7 +254,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">mot</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="mot 5217c363-a2ed-4b88-b1b4-3692fbb90a98">
+         <tg xml:lang="sma">
             <re>nært</re>
             <t pos="Po">gietskie</t>
             <xg>
@@ -264,7 +264,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="mot 7f530759-0fc5-40a1-aa41-35a596fa26be">
+         <tg xml:lang="sma">
             <t pos="Po">gåajkoe</t>
             <xg>
                <x>Barnet gikk til bestemor.</x>
@@ -273,12 +273,12 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="mot 83ce5fb0-b2db-476a-a749-32edfb034c01">
+         <tg xml:lang="sma">
             <t pos="Po">tsegkie</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="mot b5bc17dd-eca1-477d-8430-6e4f0bada56a">
+         <tg xml:lang="sma">
             <t pos="Po">vööste</t>
             <xg>
                <x>Hunden kom gjøende mot meg. Skiene står mot veggen. Mot kvelden ble det mildere.</x>
@@ -287,12 +287,12 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="mot 9b5c0c77-5daa-43b4-880f-d2d8fbb3aa14">
+         <tg xml:lang="sma">
             <t pos="Po">vuestie</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="mot c6866da7-4459-483c-9f93-02cb33ed38c7">
+         <tg xml:lang="sma">
             <t pos="Po">njeajah</t>
             <xg>
                <x>Han sparket mot den.</x>
@@ -301,7 +301,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="mot 8f6a1760-dbe4-441c-a0f7-5447e015e9d2">
+         <tg xml:lang="sma">
             <t pos="Po">vuestelen</t>
             <xg>
                <x>Den som ikke er mot oss, er sammen med oss.</x>
@@ -310,18 +310,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="mot 0f2151c6-cb53-4bc7-8c96-e86555b9f77b">
+         <tg xml:lang="sma">
             <re>om flere</re>
             <t pos="Po">vuesteli</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="mot 5c1661e7-25eb-42f2-8240-5b6db508da57">
+         <tg xml:lang="sma">
             <t pos="Po">vuestielisnie</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="mot 09d8d280-82d8-4ae1-8af4-6718e93230bb">
+         <tg xml:lang="sma">
             <t pos="Pr">gietskie</t>
          </tg>
       </mg>
@@ -331,12 +331,12 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">i tilknytning til</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="i tilknytning til df71b7e0-d22d-4a61-827a-b03440edffba">
+         <tg xml:lang="sma">
             <t pos="Po">muhteste</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="i tilknytning til 8565c17b-ca20-498e-b052-3d9c300f02cb">
+         <tg xml:lang="sma">
             <t pos="Pr">muhteste</t>
          </tg>
       </mg>
@@ -346,12 +346,12 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">i forhold til</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="i forhold til 62e2f53c-4b26-473b-b33e-1f72aa76cdb4">
+         <tg xml:lang="sma">
             <t pos="Po">muhteste</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="i forhold til 610aedea-132e-4416-bb2e-709c8d6d22b8">
+         <tg xml:lang="sma">
             <t pos="Pr">muhteste</t>
          </tg>
       </mg>
@@ -361,12 +361,12 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">ved hjelp av</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="ved hjelp av 5c08eb03-16d2-4633-86bd-e70a7807cc42">
+         <tg xml:lang="sma">
             <t pos="Po">vieken</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="ved hjelp av ad589c54-632c-4a23-84a7-9366f6b12dbd">
+         <tg xml:lang="sma">
             <t pos="Pr">vieken</t>
          </tg>
       </mg>
@@ -376,12 +376,12 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">gjennom</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="gjennom e40aeaaa-697b-4f9d-81f3-86e5b4b07f82">
+         <tg xml:lang="sma">
             <t pos="Po">vieken</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="gjennom 64629fc6-646a-4826-a1a8-3d7370b3ea9c">
+         <tg xml:lang="sma">
             <t pos="Po">tjïrrh</t>
             <xg>
                <x>Vannet renner gjennom slangen.</x>
@@ -390,7 +390,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="gjennom ba5bbb37-6fad-40f7-80a6-114c25fdd4ab">
+         <tg xml:lang="sma">
             <t pos="Pr">vieken</t>
          </tg>
       </mg>
@@ -400,12 +400,12 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">nær</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="nær 42deac2c-274f-4c85-bdfc-abe1817de9a0">
+         <tg xml:lang="sma">
             <t pos="Po">gïetske</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="nær debf4dfb-b38c-4e8a-ba1f-5341ebe8a7c5">
+         <tg xml:lang="sma">
             <t pos="Pr">gïetske</t>
          </tg>
       </mg>
@@ -415,7 +415,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">før</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="før 08ace530-0d60-4acd-b238-5968d2ed4068">
+         <tg xml:lang="sma">
             <t pos="Po">aarebi</t>
             <xg>
                <x>Dagen før var det så kaldt at vannet hadde fryst.</x>
@@ -424,7 +424,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="før 8879a2cd-f950-463f-a3d8-7bad1146a15f">
+         <tg xml:lang="sma">
             <re>om tid</re>
             <t pos="Po">åvtelen</t>
             <xg>
@@ -434,7 +434,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="før faaf12a7-7b55-418f-9932-38688ee81e24">
+         <tg xml:lang="sma">
             <re>om tid</re>
             <t pos="Po">åvteli</t>
             <xg>
@@ -444,7 +444,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="før c28645fc-2c74-458c-9016-efe8633d77c8">
+         <tg xml:lang="sma">
             <t pos="Po">avteli</t>
             <xg>
                <x>Før jul blir det travelt.</x>
@@ -453,12 +453,12 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="før cbe4f83c-3603-469d-814e-350f6a833901">
+         <tg xml:lang="sma">
             <t pos="Po">åvtetji</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="før 0f246b08-9c2d-45ae-a0e2-f38251f0de8a">
+         <tg xml:lang="sma">
             <t pos="Po">bijjelen</t>
             <xg>
                <x>Aanta kom før meg.</x>
@@ -467,7 +467,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="før ebe91412-b5a4-4d5d-b7d2-9c806999ac7d">
+         <tg xml:lang="sma">
             <re>om tid</re>
             <t pos="Po">avtelen</t>
             <xg>
@@ -477,7 +477,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="før fd4c6631-40ca-4f6b-bd02-78d3fe89615b">
+         <tg xml:lang="sma">
             <t pos="Po">åvtem</t>
             <xg>
                <x>Han kom to dager før meg.</x>
@@ -486,7 +486,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="før 3a801e69-4ef7-4e89-9a3d-1daf893c56a2">
+         <tg xml:lang="sma">
             <t pos="Po">avtem</t>
             <xg>
                <x>Han kom to dager før meg.</x>
@@ -495,17 +495,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="før ce50999c-67a5-42eb-8a1e-7f3471a77651">
+         <tg xml:lang="sma">
             <t pos="Pr">aarebi</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="før 2830ae1b-4480-4717-8745-c779bbe64a0d">
+         <tg xml:lang="sma">
             <t pos="Pr">avtelen</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="før 3c4fa0b7-400d-42af-a1c4-18557959124d">
+         <tg xml:lang="sma">
             <t pos="Pr">åvtelen</t>
             <xg>
                <x>før parringstiden</x>
@@ -514,7 +514,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="før 621f4b65-4a2f-49ae-a454-7b4c94e4c98c">
+         <tg xml:lang="sma">
             <re>om flere</re>
             <t pos="Pr">åvteli</t>
             <xg>
@@ -524,7 +524,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="før 8233439e-1d9b-473e-85a2-8acc53d48cfa">
+         <tg xml:lang="sma">
             <re>om flere</re>
             <t pos="Pr">avteli</t>
             <xg>
@@ -539,7 +539,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">over</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="over 9f51cf83-a6e2-4fa5-9ed5-6d43809a4d97">
+         <tg xml:lang="sma">
             <re>om luft</re>
             <t pos="Po">aatsolen</t>
             <xg>
@@ -549,13 +549,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="over b2778750-1a61-4163-8022-5e6964f98663">
+         <tg xml:lang="sma">
             <re>om luft</re>
             <t pos="Po">aatsoli</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="over 9580df40-ebc2-482b-aa40-572790f0bea5">
+         <tg xml:lang="sma">
             <t pos="Po">bijjelen</t>
             <xg>
                <x>Så flyttet vi over det lave snaufjellet med krattskog omkring.</x>
@@ -564,7 +564,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="over 308f763e-b725-4655-a386-3a49e42d3d2b">
+         <tg xml:lang="sma">
             <re>om flere</re>
             <t pos="Po">bijjeli</t>
             <xg>
@@ -574,12 +574,12 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="over 66d34c90-276a-4892-9d07-d5bfc0cf9966">
+         <tg xml:lang="sma">
             <t pos="Po">dåaresth</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="over d2fb99d8-dd65-46d1-bcce-bb8a343e19fc">
+         <tg xml:lang="sma">
             <t pos="Po">rastah</t>
             <xg>
                <x>Gutten ror over vannet.</x>
@@ -588,12 +588,12 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="over 68c9795e-450c-48ce-9bbf-253c3543fac0">
+         <tg xml:lang="sma">
             <t pos="Pr">bijjelen</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="over 7cecd93e-c271-4b5f-8533-5def83dad109">
+         <tg xml:lang="sma">
             <t pos="Pr">bijjeli</t>
             <xg>
                <x>Gå over de lave snaufjellene med krattskog omkring!</x>
@@ -602,18 +602,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="over d1ecdc9b-b56e-4505-b0e3-655396cebe97">
+         <tg xml:lang="sma">
             <re>om flere</re>
             <t pos="Pr">aatsoli</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="over 9392119c-a003-4397-ade7-4a7eee260a28">
+         <tg xml:lang="sma">
             <t pos="Pr">aatsolen</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="over a0294eb9-374f-4765-98b3-08c6a4e2cfe7">
+         <tg xml:lang="sma">
             <t pos="Pr">njoektjelen</t>
          </tg>
       </mg>
@@ -623,7 +623,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">henover</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="henover 971f7941-3016-4799-bfa2-f28b8fd0b4ad">
+         <tg xml:lang="sma">
             <re>om luft</re>
             <t pos="Po">aatsolen</t>
             <xg>
@@ -633,24 +633,24 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="henover d8fdfee6-1907-40fd-8312-1bb107508200">
+         <tg xml:lang="sma">
             <re>om luft</re>
             <t pos="Po">aatsoli</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="henover af436eb2-f51e-4ddd-9c41-5e3ecc930622">
+         <tg xml:lang="sma">
             <t pos="Pr">bijjelen</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="henover cd5b7bf3-25c4-4424-af12-571371e2bc08">
+         <tg xml:lang="sma">
             <re>om flere</re>
             <t pos="Pr">aatsoli</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="henover 38430310-a835-4e76-ae51-00dfaf8b5d98">
+         <tg xml:lang="sma">
             <t pos="Pr">aatsolen</t>
          </tg>
       </mg>
@@ -660,7 +660,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">på</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="på ebb7fdde-5e14-49dd-8e11-8df4201983b8">
+         <tg xml:lang="sma">
             <re>om klokka</re>
             <t pos="Po">åvtelen</t>
             <xg>
@@ -670,7 +670,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="på 30c4f2f6-de8d-4f32-884c-634d0652112d">
+         <tg xml:lang="sma">
             <t pos="Po">nelnie</t>
             <xg>
                <x>Barnet sitter på bordet.</x>
@@ -679,7 +679,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="på 7c1c5fcf-fff2-4873-95e3-e79f9f901617">
+         <tg xml:lang="sma">
             <re>bevegelse til</re>
             <t pos="Po">nïlle</t>
             <xg>
@@ -689,7 +689,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="på a907aa1e-1e22-4556-b42e-2e94ac89631c">
+         <tg xml:lang="sma">
             <re>bevegelse til</re>
             <t pos="Po">nille</t>
             <xg>
@@ -704,7 +704,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">nedenfor</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="nedenfor 177054fc-3944-4a1e-a3dd-d0f0c47dc543">
+         <tg xml:lang="sma">
             <re>om flere</re>
             <t pos="Po">vueleli</t>
             <xg>
@@ -714,7 +714,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="nedenfor b46b0c26-2e88-4e9e-965a-d7f93c1c75a7">
+         <tg xml:lang="sma">
             <re>bevegelse til</re>
             <t pos="Po">vuelelen</t>
             <xg>
@@ -724,7 +724,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="nedenfor 9b4e337e-b06f-42e4-861b-38bf26c23d71">
+         <tg xml:lang="sma">
             <re>bevegelse til</re>
             <t pos="Pr">vuelelen</t>
             <xg>
@@ -734,7 +734,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="nedenfor a9dd525a-af21-405a-812e-b98d60a3fc16">
+         <tg xml:lang="sma">
             <re>om flere</re>
             <t pos="Pr">vueleli</t>
             <xg>
@@ -749,7 +749,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">nedenom</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="nedenom 47a3ce49-c4d7-4326-b804-434bbad2a018">
+         <tg xml:lang="sma">
             <re>om flere</re>
             <t pos="Po">vueleli</t>
             <xg>
@@ -764,7 +764,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">foran</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="foran 49a2a7d9-3b16-4ecd-9049-e38d0b651256">
+         <tg xml:lang="sma">
             <t pos="Po">åvtelisnie</t>
             <xg>
                <x>Hva er foran huset?</x>
@@ -773,7 +773,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="foran 32df46bd-5605-473b-98c5-06a510caa846">
+         <tg xml:lang="sma">
             <t pos="Po">åvtene</t>
             <xg>
                <x>Hvem er det som går foran deg?</x>
@@ -782,7 +782,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="foran cf0612bf-4fcd-4385-9e57-1fbca5d06008">
+         <tg xml:lang="sma">
             <t pos="Po">åvtesne</t>
             <xg>
                <x>Han står i veien for meg slik at jeg ikke kommer frem.</x>
@@ -791,7 +791,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="foran 165ab229-48f1-402b-a88f-91e456091e2f">
+         <tg xml:lang="sma">
             <t pos="Po">uvte</t>
             <xg>
                <x>Det er granbar foran døra. Stopp opp foran døra!</x>
@@ -800,17 +800,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="foran 57e20b80-9298-40c1-9b98-db5fe28d7540">
+         <tg xml:lang="sma">
             <t pos="Po">avtelen</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="foran a0488586-737e-4381-9835-20695784b745">
+         <tg xml:lang="sma">
             <t pos="Po">avtelisnie</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="foran 35fdd313-3075-4593-9f26-b2b0bff2f398">
+         <tg xml:lang="sma">
             <t pos="Po">åvtem</t>
             <xg>
                <x>Gå foran meg!</x>
@@ -819,7 +819,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="foran 50145b1c-4255-4921-aad0-1d4989fbb246">
+         <tg xml:lang="sma">
             <t pos="Po">avtem</t>
             <xg>
                <x>Gå foran meg!</x>
@@ -828,7 +828,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="foran abf97dcc-2915-4af1-bd33-c804ba069028">
+         <tg xml:lang="sma">
             <t pos="Po">åvtine</t>
             <xg>
                <x>Hun går foran meg.</x>
@@ -837,7 +837,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="foran a7222e03-7bdb-44c2-b147-911d7cf002be">
+         <tg xml:lang="sma">
             <t pos="Po">avtene</t>
             <xg>
                <x>Hun går foran meg.</x>
@@ -846,7 +846,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="foran 66bc28c6-684d-46aa-9ce0-2a7556dd97e5">
+         <tg xml:lang="sma">
             <t pos="Pr">avtelisnie</t>
          </tg>
       </mg>
@@ -856,7 +856,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">forfra</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="forfra 77436493-3090-4726-ab10-ef9e8111cd14">
+         <tg xml:lang="sma">
             <t pos="Po">åvtelistie</t>
          </tg>
       </mg>
@@ -866,7 +866,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">ved</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="ved fbf08d78-1725-43f1-97e6-5e80fcad54f7">
+         <tg xml:lang="sma">
             <t pos="Po">baaktoe</t>
             <xg>
                <x>Gjesten kom via Røros. Han gikk forbi meg.</x>
@@ -875,7 +875,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="ved 8897afca-c766-4110-a9b2-1f6a82f31718">
+         <tg xml:lang="sma">
             <t pos="Po">lïhke</t>
             <xg>
                <x>En bil stoppet ved huset.</x>
@@ -884,7 +884,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="ved 58117c22-815b-4145-b9ae-a42139c01773">
+         <tg xml:lang="sma">
             <t pos="Po">sakte</t>
             <xg>
                <x>ved fotenden</x>
@@ -898,7 +898,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">om</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="om d485ff20-3007-47c6-b49d-b39a53b04457">
+         <tg xml:lang="sma">
             <t pos="Po">bïjre</t>
             <xg>
                <x>De snakket om været.</x>
@@ -912,7 +912,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">via</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="via 2f2bf43d-97d8-4f6e-ae69-622e2d95a04c">
+         <tg xml:lang="sma">
             <t pos="Po">baaktoe</t>
             <xg>
                <x>Gjesten kom via Røros.</x>
@@ -926,7 +926,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">ved siden av</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="ved siden av 977f45d8-8a9c-4495-93de-1298d26ec460">
+         <tg xml:lang="sma">
             <t pos="Po">baalte</t>
             <xg>
                <x>Den er ved siden av meg.</x>
@@ -935,7 +935,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="ved siden av 843be01c-2faa-4a57-8cfc-579022fcd52f">
+         <tg xml:lang="sma">
             <t pos="Po">baaltese</t>
             <xg>
                <x>Det er ikke lov å gå forbi meg.</x>
@@ -944,7 +944,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="ved siden av 5a089a6f-0d6b-4a68-ac8a-cf2eb1986ae9">
+         <tg xml:lang="sma">
             <re>bevegelse til</re>
             <t pos="Po">bealese</t>
             <xg>
@@ -954,7 +954,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="ved siden av 438e171a-6bfc-4c14-934d-80d4555663fc">
+         <tg xml:lang="sma">
             <t pos="Po">bealesne</t>
             <xg>
                <x>Han er ved siden av meg. Bestemor sitter ved ovnen.</x>
@@ -963,7 +963,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="ved siden av 6db50321-579d-4834-840f-b178a6e26f2a">
+         <tg xml:lang="sma">
             <re>bevegelse fra</re>
             <t pos="Po">bealeste</t>
             <xg>
@@ -973,7 +973,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="ved siden av 4d0a7ac1-38ea-4d12-b378-19624f963dd0">
+         <tg xml:lang="sma">
             <t pos="Po">gïetskesne</t>
             <xg>
                <x>Sola har kommet fram, Guds rike er nær.</x>
@@ -982,24 +982,24 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="ved siden av f58fabc9-8442-4ae0-90c6-00f479e62acf">
+         <tg xml:lang="sma">
             <re>bevegelse til</re>
             <t pos="Po">goerese</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="ved siden av e9c955bc-3c5a-4296-9907-ec6d52446bbe">
+         <tg xml:lang="sma">
             <re>bevegelse til</re>
             <t pos="Po">maadtegasse</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="ved siden av 0b20bdf4-735a-4624-be1e-aa0d46b3c4cf">
+         <tg xml:lang="sma">
             <t pos="Po">syjretjisnie</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="ved siden av d1cf8d1f-b168-45d6-911b-20d321e52ea3">
+         <tg xml:lang="sma">
             <t pos="Pr">baalte</t>
             <xg>
                <x>ved siden av den</x>
@@ -1008,7 +1008,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="ved siden av c8af62a9-3693-4b60-959c-8b9eac394939">
+         <tg xml:lang="sma">
             <t pos="Pr">gïetskesne</t>
          </tg>
       </mg>
@@ -1018,7 +1018,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">forbi</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="forbi 50330fcb-add4-4ca1-9b39-562d2adf49f5">
+         <tg xml:lang="sma">
             <t pos="Po">baaltelen</t>
             <xg>
                <x>Først skal du gå forbi kirka, og etterpå skal du ta av til venstre.</x>
@@ -1027,7 +1027,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="forbi 2f7eaa6b-1c44-44b3-8eca-9794cba8f030">
+         <tg xml:lang="sma">
             <t pos="Po">baalteli</t>
             <xg>
                <x>Gå forbi de husene!</x>
@@ -1036,7 +1036,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="forbi 53fdeb92-6b77-4f95-a217-7e084a6ef9e7">
+         <tg xml:lang="sma">
             <t pos="Po">baaltelisnie</t>
             <xg>
                <x>Når vi var forbi den der innsjøen, så kom vi på hva vi hadde lagt igjen hjemme.</x>
@@ -1045,13 +1045,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="forbi 0d03d870-391c-4364-912d-7215ae44bb51">
+         <tg xml:lang="sma">
             <re>bevegelse fra</re>
             <t pos="Po">baaltelistie</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="forbi 681196ac-ceca-4f3a-8f64-27b8dcfa13b6">
+         <tg xml:lang="sma">
             <t pos="Po">baaltese</t>
             <xg>
                <x>Det er ikke lov å gå forbi meg.</x>
@@ -1060,7 +1060,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="via 2f2bf43d-97d8-4f6e-ae69-622e2d95a04c">
+         <tg xml:lang="sma">
             <t pos="Po">baaktoe</t>
             <xg>
                <x>Han gikk forbi meg.</x>
@@ -1069,7 +1069,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="via cf293ad1-4102-4465-b617-974d9d1b9496">
+         <tg xml:lang="sma">
             <t pos="Po">baakta</t>
             <xg>
                <x>Ikke gå forbi meg!</x>
@@ -1078,12 +1078,12 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="forbi 1df1c729-50a4-4c60-889a-45d967021708">
+         <tg xml:lang="sma">
             <t pos="Po">tsegkie</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="forbi 25a55b77-c443-4d32-b8a9-af6fe6ce26ec">
+         <tg xml:lang="sma">
             <t pos="Po">baakta</t>
             <xg>
                <x>Ikke gå forbi meg!</x>
@@ -1092,12 +1092,12 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="forbi 873d036c-2750-4878-8ef4-f88774ef2113">
+         <tg xml:lang="sma">
             <t pos="Pr">baaltelen</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="forbi 5f735389-cc6d-4843-b7dc-0bdbb506630f">
+         <tg xml:lang="sma">
             <re>om flere</re>
             <t pos="Pr">baalteli</t>
             <xg>
@@ -1112,7 +1112,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">uten</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="uten 316b7a59-e380-45f3-829c-ba9810b3d7c6">
+         <tg xml:lang="sma">
             <t pos="Po">baaltelen</t>
             <xg>
                <x>Det går ikke an å gjøre det uten deg.</x>
@@ -1121,12 +1121,12 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="uten 9c666613-db21-4b3d-9c3e-10163c524590">
+         <tg xml:lang="sma">
             <t pos="Po">baaltelisnie</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="uten 1765171b-4ee4-4c7c-89f6-3166ed59bf59">
+         <tg xml:lang="sma">
             <t pos="Po">bielehth</t>
             <xg>
                <x>Kan du renne på ski uten staver?</x>
@@ -1135,7 +1135,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="uten 1d0b2f5d-2a8f-4aac-9be3-95817aa6ca79">
+         <tg xml:lang="sma">
             <t pos="Po">namhtah</t>
             <xg>
                <x>Jeg greier ikke å gjøre leksene mine uten boka.</x>
@@ -1144,7 +1144,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="uten 2bd7da20-d2e9-403d-bb22-67d259c715a5">
+         <tg xml:lang="sma">
             <t pos="Po">bielelen</t>
             <xg>
                <x>Han renner på ski uten stav. Du får snakke uten at jeg spør. Du får ikke gå uten meg!</x>
@@ -1153,7 +1153,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="uten 77e07920-7589-4737-b8d8-c0fb6c95a74a">
+         <tg xml:lang="sma">
             <t pos="Po">bijjelen</t>
             <xg>
                <x>Jeg greier meg uten han.</x>
@@ -1162,7 +1162,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="uten ce0dc979-f5f4-4017-b9cf-f7fa47e4babb">
+         <tg xml:lang="sma">
             <t pos="Po">namhtegh</t>
             <xg>
                <x>Vi måtte gå hele dagen uten mat.</x>
@@ -1171,12 +1171,12 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="uten 88547c2d-6ef2-4a26-8952-cf8200ac20e6">
+         <tg xml:lang="sma">
             <t pos="Pr">baaltelen</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="uten fadd8d34-fdee-458a-8958-e51ce74499e8">
+         <tg xml:lang="sma">
             <t pos="Pr">bielelen</t>
             <xg>
                <x>Han renner på ski uten stav.</x>
@@ -1185,7 +1185,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="uten 865ab4dc-f14d-4e3b-9e76-705d7d20c78d">
+         <tg xml:lang="sma">
             <t pos="Pr">namhtah</t>
             <xg>
                <x>Jeg er uten mat.</x>
@@ -1199,7 +1199,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">fra uten</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="fra uten 995edb11-f6f0-4cda-8967-cf384f73e362">
+         <tg xml:lang="sma">
             <t pos="Po">baaltelistie</t>
          </tg>
       </mg>
@@ -1209,7 +1209,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">til siden</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="til siden c0e486a9-d829-4b46-9a38-c3f8a0ba2e70">
+         <tg xml:lang="sma">
             <t pos="Po">bealan</t>
             <xg>
                <x>Kom hit til min side!</x>
@@ -1223,7 +1223,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">hos</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="hos 7551e5c6-80c6-46f9-b0f0-8442ea90f760">
+         <tg xml:lang="sma">
             <t pos="Po">bealesne</t>
             <xg>
                <x>Han er ved siden av meg. Bestemor sitter ved ovnen.</x>
@@ -1232,7 +1232,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="hos 0b1b72ba-dabe-44c8-bce4-cd5cd312b4e9">
+         <tg xml:lang="sma">
             <t pos="Po">luvnie</t>
             <xg>
                <x>Jeg synes det er artig å være hos bestemor.</x>
@@ -1246,7 +1246,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">sammen med</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="sammen med bd6ce39d-7420-477f-acc2-785c96368dc7">
+         <tg xml:lang="sma">
             <t pos="Po">bealesne</t>
             <xg>
                <x>Han er ved siden av meg. Bestemor sitter ved ovnen.</x>
@@ -1255,18 +1255,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="sammen med f1f3dc5e-4316-42b3-a41c-9635f3293f00">
+         <tg xml:lang="sma">
             <re>om beskyttelse og omsorg, bevegelse til</re>
             <t pos="Po">åalan</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="sammen med 70d167e0-314b-4947-80b4-0a0ff3ad2954">
+         <tg xml:lang="sma">
             <t pos="Pr">ektine</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="sammen med acf8ed53-5be8-4032-883e-094529310c60">
+         <tg xml:lang="sma">
             <t pos="Pr">aktene</t>
             <xg>
                <x>sammen med gudfar</x>
@@ -1280,7 +1280,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">på sida av</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="på sida av e0b952d3-576d-4e24-8fbd-39f3fceda997">
+         <tg xml:lang="sma">
             <t pos="Po">bielesne</t>
             <xg>
                <x>Hvem er ved siden av deg?</x>
@@ -1294,7 +1294,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">fra sida av</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="fra sida av 6650df76-d453-47a9-9290-cbac4349a25b">
+         <tg xml:lang="sma">
             <t pos="Po">bieleste</t>
             <xg>
                <x>Min slekt er både i fra norsk og svensk side.</x>
@@ -1308,7 +1308,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">bortenfor</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="bortenfor d74ef153-897d-4bdc-a757-d1f35135b286">
+         <tg xml:lang="sma">
             <t pos="Po">dubpelen</t>
             <xg>
                <x>Gå bortenfor det der lave snaufjellet med krattskog omkring!</x>
@@ -1317,7 +1317,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="bortenfor 5a538ed6-63bd-4188-8c5e-ecda9c25b20d">
+         <tg xml:lang="sma">
             <t pos="Po">dubpeli</t>
             <xg>
                <x>Gå bortenfor de lave snaufjellene med krattskog omkring!</x>
@@ -1326,7 +1326,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="bortenfor db58f3d7-d63b-4c2b-9e62-5e09912aac27">
+         <tg xml:lang="sma">
             <t pos="Pr">dubpelen</t>
             <xg>
                <x>Gå bortenfor det der lave snaufjellet med krattskog omkring!</x>
@@ -1335,7 +1335,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="bortenfor b3796d07-6f7a-4155-a184-b222219cc757">
+         <tg xml:lang="sma">
             <re>om flere</re>
             <t pos="Pr">dubpeli</t>
             <xg>
@@ -1350,7 +1350,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">ovenfor</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="ovenfor 519733ea-d2aa-4ccf-83d5-973268278c25">
+         <tg xml:lang="sma">
             <re>bevegelse fra</re>
             <t pos="Po">bijjielistie</t>
             <xg>
@@ -1360,7 +1360,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="ovenfor 92742272-73f8-4bf0-b205-7aca2e55f778">
+         <tg xml:lang="sma">
             <t pos="Po">bijjielisnie</t>
             <xg>
                <x>Den er ovenfor den.</x>
@@ -1369,18 +1369,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="ovenfor 4222fc8d-7bca-4c22-a24a-8b8cd867e236">
+         <tg xml:lang="sma">
             <t pos="Po">bæjngoelisnie</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="ovenfor d21a0ca1-0a17-4b7d-aa52-c925315d3df1">
+         <tg xml:lang="sma">
             <re>om flere</re>
             <t pos="Po">bæjngoli</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="ovenfor 29fd72c6-8139-4b2e-b35c-d7c58471b54d">
+         <tg xml:lang="sma">
             <t pos="Pr">bijjielisnie</t>
             <xg>
                <x>Den er ovenfor den.</x>
@@ -1394,7 +1394,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">omkring</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="omkring 854f61c7-a634-4957-a12e-f69ed0696b27">
+         <tg xml:lang="sma">
             <t pos="Po">bïjre</t>
             <xg>
                <x>De snakket om været.</x>
@@ -1408,7 +1408,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">midt imot</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="midt imot 8ca5cd91-337e-4230-b3f4-a5ace2e0ecd5">
+         <tg xml:lang="sma">
             <t pos="Po">boehth</t>
             <xg>
                <x>De bor rett overfor oss.</x>
@@ -1417,7 +1417,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="midt imot a30d8a9f-7ce5-4698-b4ee-a299e33b9a2b">
+         <tg xml:lang="sma">
             <t pos="Po">mihte</t>
             <xg>
                <x>komme midt imot en villrein</x>
@@ -1431,7 +1431,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">overfor</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="overfor f4cf7f05-090a-4894-a946-97cd43f3ad94">
+         <tg xml:lang="sma">
             <t pos="Po">boehth</t>
             <xg>
                <x>De bor rett overfor oss.</x>
@@ -1445,7 +1445,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">utenfor</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="utenfor f2bc9db9-bacc-456d-b812-fb1bb440c0e4">
+         <tg xml:lang="sma">
             <re>bevegelse til</re>
             <t pos="Po">bæjngoelasse</t>
             <xg>
@@ -1455,12 +1455,12 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="utenfor 2981d1a3-5808-4ff4-8c48-ef6a5e8b8468">
+         <tg xml:lang="sma">
             <t pos="Po">bæjngoli</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="utenfor 1d6b6855-d7d6-435b-9d96-96413bb22969">
+         <tg xml:lang="sma">
             <t pos="Po">ålkolen</t>
             <xg>
                <x>De har samlet seg utenfor gjerdet.</x>
@@ -1469,7 +1469,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="utenfor ac3a4934-4bec-4711-88a0-bc5a177e2f82">
+         <tg xml:lang="sma">
             <t pos="Po">ålkoli</t>
             <xg>
                <x>Det er ingen som orker å måke snø utenfor de husene.</x>
@@ -1478,7 +1478,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="utenfor 0b29e418-4fac-4a60-a36e-d6f8d3ee4418">
+         <tg xml:lang="sma">
             <t pos="Pr">bæjngolen</t>
          </tg>
       </mg>
@@ -1488,7 +1488,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">utenpå</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="utenpå 3670ffc7-3f0b-4824-8428-139258218b94">
+         <tg xml:lang="sma">
             <t pos="Po">bæjngolen</t>
             <xg>
                <x>Hva skal jeg ta på meg utenpå den?</x>
@@ -1497,7 +1497,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="utenpå 94e39fc7-da3e-4cd5-b02d-87d8f8ecf6b3">
+         <tg xml:lang="sma">
             <t pos="Po">bæjngoelisnie</t>
             <xg>
                <x>Navnet hans står utenpå døra.</x>
@@ -1506,7 +1506,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="utenpå 8a531d06-4e41-48aa-bc64-97b4a0f8868b">
+         <tg xml:lang="sma">
             <t pos="Po">bæjngolde</t>
             <xg>
                <x>Den er utenpå den.</x>
@@ -1515,12 +1515,12 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="utenpå e4d05352-1545-4879-a758-4594d52da680">
+         <tg xml:lang="sma">
             <t pos="Po">ålkolen</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="utenpå 926ae9bd-6480-4cde-89ba-ba35d56fa5f1">
+         <tg xml:lang="sma">
             <t pos="Po">ålkoli</t>
          </tg>
       </mg>
@@ -1530,12 +1530,12 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">tvers over</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="tvers over 30d80be6-b2b2-4ce1-b627-62bcd9d863ed">
+         <tg xml:lang="sma">
             <t pos="Po">dåaresth</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="tvers over d44fc901-b352-4cd2-a2fe-21833062d1eb">
+         <tg xml:lang="sma">
             <t pos="Po">rastah</t>
             <xg>
                <x>Gutten ror over vannet.</x>
@@ -1544,7 +1544,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="tvers over 06acf45a-179f-4574-9c59-02acd53877d6">
+         <tg xml:lang="sma">
             <t pos="Pr">dåaresth</t>
             <xg>
                <x>Jeg har gått på ski tvers over Norge.</x>
@@ -1558,7 +1558,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">bak</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="bak 3c0980bf-bc9b-4f85-b44b-67dab4d6723e">
+         <tg xml:lang="sma">
             <re>bevegelse til</re>
             <t pos="Po">duakan</t>
             <xg>
@@ -1568,7 +1568,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="bak 841347ea-02d5-457d-a203-4357cf2469be">
+         <tg xml:lang="sma">
             <t pos="Po">duekesne</t>
             <xg>
                <x>Bak hytta er det et vann.</x>
@@ -1577,7 +1577,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="bak d50f4066-8213-4971-bc63-3abdafa9215b">
+         <tg xml:lang="sma">
             <re>om mennesker og klesplagg</re>
             <t pos="Po">genhtsemen</t>
             <xg>
@@ -1587,7 +1587,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="bak c3ecb701-0d5e-40aa-84b3-bc50e9d1c107">
+         <tg xml:lang="sma">
             <re>om flere mennesker og klesplagg</re>
             <t pos="Po">genhtsemi</t>
             <xg>
@@ -1602,7 +1602,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">bakenfor</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="bakenfor 704493ab-a4b9-4e51-a918-b17cf489a6d6">
+         <tg xml:lang="sma">
             <re>bevegelse fra_SWE</re>
             <t pos="Po">duekeste</t>
             <xg>
@@ -1612,13 +1612,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="bakenfor b522777e-f7ad-44b8-a272-53013a76872e">
+         <tg xml:lang="sma">
             <re>bevegelse til</re>
             <t pos="Po">duekelen</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="bakenfor 28f94e68-83b7-49c2-a61a-4344e6202fa3">
+         <tg xml:lang="sma">
             <t pos="Po">miehtjelen</t>
             <xg>
                <x>Legg den bak deg!</x>
@@ -1627,30 +1627,30 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="bakenfor 884aad00-9012-4ee1-a7ee-b0eab4a85b7f">
+         <tg xml:lang="sma">
             <re>om flere</re>
             <t pos="Po">miehtjeli</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="bakenfor 03fab656-6b14-421c-924b-1e28995f8e5f">
+         <tg xml:lang="sma">
             <re>bevegelse til</re>
             <t pos="Po">minngelen</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="bakenfor ef279f58-0a9f-49d7-9b11-ec80ec25ffc3">
+         <tg xml:lang="sma">
             <re>bevegelse til</re>
             <t pos="Po">minngeli</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="bakenfor 176c3dd9-03be-4fe3-9154-453e33603815">
+         <tg xml:lang="sma">
             <t pos="Po">ålkolen</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="bakenfor 2a0537d7-2ad6-42aa-81fd-b5208dbc2803">
+         <tg xml:lang="sma">
             <t pos="Pr">minngielisnie</t>
             <xg>
                <x>bakom det vannet</x>
@@ -1664,7 +1664,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">til fordel for</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="til fordel for d92abc7d-589b-4bca-aabb-93c91fd3fac2">
+         <tg xml:lang="sma">
             <t pos="Po">gaavhtan</t>
             <xg>
                <x>Gjerne for min skyld!</x>
@@ -1678,7 +1678,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">på grunn av</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="på grunn av f7a4d73f-63aa-4f73-8262-8d9b6f48c870">
+         <tg xml:lang="sma">
             <t pos="Po">gaavhtan</t>
             <xg>
                <x>Av den grunn er det vanskelig.</x>
@@ -1687,7 +1687,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="på grunn av abe79f65-a9ff-45ac-bb5f-c6e073199250">
+         <tg xml:lang="sma">
             <t pos="Po">gielhtie</t>
             <xg>
                <x>På grunn av beitet måtte vi flytte.</x>
@@ -1696,7 +1696,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="på grunn av 06790afe-9776-4c34-b7a8-ee0909be625b">
+         <tg xml:lang="sma">
             <t pos="Po">dïehre</t>
             <xg>
                <x>Av den grunn tror hun ikke det er riktig.</x>
@@ -1709,7 +1709,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="på grunn av 101cf4cb-67e7-4541-baa0-b59c2ae5c721">
+         <tg xml:lang="sma">
             <t pos="Po">dïereh</t>
             <xg>
                <x>Du behøver ikke gjøre det for min skyld.</x>
@@ -1718,7 +1718,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="på grunn av b2e1eb46-cfd8-4465-a1af-f081ec3a46c3">
+         <tg xml:lang="sma">
             <t pos="Po">dïete</t>
             <xg>
                <x>Han gjordet det på grunn av meg.</x>
@@ -1727,7 +1727,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="på grunn av ae5a3386-8a79-432d-891c-26ee0f38b871">
+         <tg xml:lang="sma">
             <t pos="Po">gaevhtieh</t>
             <xg>
                <x>På grunn av dette er det nødvendig å gjøre det slik.</x>
@@ -1736,17 +1736,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="på grunn av 0eabf61e-bbef-457a-99a0-97636fb13c3b">
+         <tg xml:lang="sma">
             <t pos="Po">sjïekenasse</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="på grunn av 5db6c57e-6e88-45b3-a0cc-945427ec3518">
+         <tg xml:lang="sma">
             <t pos="Po">sjïekenisnie</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="på grunn av ea90129b-3d89-4e39-b129-8d54b44715aa">
+         <tg xml:lang="sma">
             <t pos="Po">sjïekenistie</t>
          </tg>
       </mg>
@@ -1756,7 +1756,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">i anledning av</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="i anledning av 3d2cba55-5160-4ec2-9a41-8318cc52ca69">
+         <tg xml:lang="sma">
             <t pos="Po">gaavhtan</t>
             <xg>
                <x>Av den grunn er det vanskelig. Det var bare for moro skyld. for eksempel</x>
@@ -1765,17 +1765,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="i anledning av b83612ae-cdbc-4bf8-8aa9-1a8638e41a0d">
+         <tg xml:lang="sma">
             <t pos="Po">sjïekenasse</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="i anledning av 8e66ec77-810c-4b2f-bc69-9669c7c74eea">
+         <tg xml:lang="sma">
             <t pos="Po">sjïekenisnie</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="i anledning av 76f919a7-5743-4790-88e5-5f7d4bc5277b">
+         <tg xml:lang="sma">
             <t pos="Po">sjïekenistie</t>
          </tg>
       </mg>
@@ -1785,7 +1785,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">mellom</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="mellom a59a95b7-73fe-4c31-8414-d71ce659fd8a">
+         <tg xml:lang="sma">
             <re>bevegelse til</re>
             <t pos="Po">gaskese</t>
             <xg>
@@ -1795,7 +1795,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="mellom 41d9078f-e4fd-4add-a271-aad952fb2871">
+         <tg xml:lang="sma">
             <t pos="Po">gaskesne</t>
             <xg>
                <x>i mellomtiden Det er god plass mellom gamma og bua.</x>
@@ -1804,7 +1804,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="mellom 2df471f5-463f-46d2-87ae-aed1550407f3">
+         <tg xml:lang="sma">
             <re>bevegelse fra</re>
             <t pos="Po">gaskeste</t>
             <xg>
@@ -1814,7 +1814,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="mellom ebf6ba6e-eefa-4d24-9e9a-4491fb1cdda6">
+         <tg xml:lang="sma">
             <t pos="Po">gaskem</t>
             <xg>
                <x>Koftebåndene formidler et budskap mellom mennesker. Og så noen steder dukker sola fram mellom skyene og gjør mennesket glad. Vi gikk mellom de vannene der borte.</x>
@@ -1823,12 +1823,12 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="mellom b26df938-11ad-4a5f-99bb-1a888fa6f2e3">
+         <tg xml:lang="sma">
             <t pos="Pr">gaskesne</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="mellom ae22213c-85b3-4911-9f23-123589be1a5c">
+         <tg xml:lang="sma">
             <t pos="Pr">gaskemsh</t>
             <xg>
                <x>i mellom dem er det slik</x>
@@ -1842,7 +1842,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">rett overfor</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="rett overfor 9fdbbb61-f535-4c4c-9db7-2d2254ecbf91">
+         <tg xml:lang="sma">
             <t pos="Po">jåårke</t>
             <xg>
                <x>Jeg bor rett ovenfor Ola.</x>
@@ -1856,7 +1856,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">midt i mot</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="midt i mot 6995e156-cf72-4bcd-90ff-dda07ad685ad">
+         <tg xml:lang="sma">
             <t pos="Po">jåårke</t>
             <xg>
                <x>Hun som sto midt i mot meg, hun heter Sara.</x>
@@ -1865,7 +1865,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="midt i mot 35e30954-8e7f-44ef-af26-312ad1686a5d">
+         <tg xml:lang="sma">
             <t pos="Pr">mihte</t>
             <xg>
                <x>midt i mot meg</x>
@@ -1879,7 +1879,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">ifølge</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="ifølge 0df7ddc3-50cf-4c34-9862-70dc89f63101">
+         <tg xml:lang="sma">
             <t pos="Po">mietie</t>
             <xg>
                <x>Ifølge dette brevet får jeg begynne på den skolen. Etter min mening er det et stort problem.</x>
@@ -1888,7 +1888,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="ifølge f12f6e4f-4e52-4bf4-b459-1ce2c2ee3d78">
+         <tg xml:lang="sma">
             <t pos="Po">tsegkie</t>
          </tg>
       </mg>
@@ -1898,7 +1898,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">etter</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="etter 3d64a417-43f6-4556-9c1f-1fc61ee5b4b2">
+         <tg xml:lang="sma">
             <t pos="Po">mïnngesne</t>
             <xg>
                <x>Han kom etter meg.</x>
@@ -1907,7 +1907,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="etter d3d70160-15ac-4ddb-b98f-2cfe27cf64ea">
+         <tg xml:lang="sma">
             <re>om tid</re>
             <t pos="Po">mænngan</t>
             <xg>
@@ -1917,12 +1917,12 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="etter 7c1bf644-513a-4779-8977-02e5c6b72dc5">
+         <tg xml:lang="sma">
             <t pos="Po">tsegkie</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="etter 3738c7fc-ba43-4709-adad-b06a839cd93b">
+         <tg xml:lang="sma">
             <re>om tid</re>
             <t pos="Po">minngelde</t>
             <xg>
@@ -1932,7 +1932,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="etter 83c6bf3a-48b9-4123-942c-99730ea6c60d">
+         <tg xml:lang="sma">
             <re>om tid</re>
             <t pos="Po">minngelen</t>
             <xg>
@@ -1942,7 +1942,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="etter 839fd06f-6ce1-441d-b54c-8457ab003cd7">
+         <tg xml:lang="sma">
             <re>om tid</re>
             <t pos="Po">minngielistie</t>
          </tg>
@@ -1953,7 +1953,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">borti</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="borti 99b87f5b-78e3-4b9e-95d9-4a6bc181960f">
+         <tg xml:lang="sma">
             <t pos="Po">morte</t>
             <xg>
                <x>Laara falt borti ovnen og brente seg.</x>
@@ -1962,7 +1962,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="borti e1d21da9-bc79-47cd-8018-9a6a33f080d0">
+         <tg xml:lang="sma">
             <t pos="Po">sontere</t>
             <xg>
                <x>Den trillet og kom bort i katten.</x>
@@ -1971,7 +1971,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="borti e27e38d7-d2fa-4323-a41f-1fe4e57ac0a0">
+         <tg xml:lang="sma">
             <t pos="Po">sonterh</t>
             <xg>
                <x>Han kjørte borti bilen.</x>
@@ -1985,7 +1985,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">ned fra</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="ned fra 393c170a-e959-4381-b9db-7bc70628555a">
+         <tg xml:lang="sma">
             <re>fra overflaten</re>
             <t pos="Po">nelhtie</t>
             <xg>
@@ -2000,7 +2000,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">bort fra</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="bort fra bd1510e7-b85d-4c67-863a-77104936fb72">
+         <tg xml:lang="sma">
             <re>fra overflaten</re>
             <t pos="Po">nelhtie</t>
             <xg>
@@ -2015,7 +2015,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">oppe på</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="oppe på cbd6b155-c2f6-412f-b4a6-31551eb9215c">
+         <tg xml:lang="sma">
             <t pos="Po">nelnie</t>
             <xg>
                <x>Barnet sitter på bordet.</x>
@@ -2029,7 +2029,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">inn under</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="inn under d38084fd-98aa-47cd-9d64-e551f0914a5d">
+         <tg xml:lang="sma">
             <re>bevegelse til</re>
             <t pos="Po">nualan</t>
             <xg>
@@ -2044,7 +2044,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">under</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="under 8b839ca9-c9ee-425b-857b-fa49fc2f372a">
+         <tg xml:lang="sma">
             <t pos="Po">nuelesne</t>
             <xg>
                <x>Skiene er under stabburet. Skoene dine er under stolen.</x>
@@ -2058,7 +2058,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">fra under</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="fra under 70211e3f-a094-46dd-894a-6641b8ee4b31">
+         <tg xml:lang="sma">
             <t pos="Po">nueleste</t>
             <xg>
                <x>Han dro frem en stor pakke fra under senga.</x>
@@ -2072,12 +2072,12 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">langs under</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="langs under d8d8ab29-2f0f-4299-bacd-4f202f57592d">
+         <tg xml:lang="sma">
             <t pos="Po">nuelie</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="langs under d2afb37c-d17d-4e94-9cb4-beba8fad789d">
+         <tg xml:lang="sma">
             <t pos="Po">nueliem</t>
          </tg>
       </mg>
@@ -2087,7 +2087,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">inn i</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="inn i a02fabd1-43cc-4247-8bbc-b78c5c9fb069">
+         <tg xml:lang="sma">
             <t pos="Po">sïjse</t>
             <xg>
                <x>Pakk i sekken!</x>
@@ -2101,7 +2101,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">i</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="i bec0a44c-b8cb-401b-92c2-b1737a46c25f">
+         <tg xml:lang="sma">
             <t pos="Po">sisnie</t>
             <xg>
                <x>Det er mat i sekken.</x>
@@ -2115,7 +2115,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">inne i</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="inne i 023a11ac-612b-41f6-a8a0-a2bf5ce8e901">
+         <tg xml:lang="sma">
             <t pos="Po">sisnie</t>
             <xg>
                <x>Det er mat i sekken.</x>
@@ -2129,7 +2129,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">fram til</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="fram til 94f90e1e-f1ae-4383-a69a-89da8cf2c21e">
+         <tg xml:lang="sma">
             <t pos="Po">vuestie</t>
             <xg>
                <x>Jeg skal jobbe med dette fram til våren.</x>
@@ -2143,7 +2143,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">i disse tider</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="i disse tider 3bfb0899-8e14-4750-b1dc-b794f4953c74">
+         <tg xml:lang="sma">
             <t pos="Po">boehten</t>
             <xg>
                <x>Før i tiden.</x>
@@ -2157,7 +2157,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">fra yttersiden eller oversiden</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="fra yttersiden eller oversiden bcb68c49-81f9-4a6c-9c73-c6f25f98be4f">
+         <tg xml:lang="sma">
             <t pos="Po">bæjngoelistie</t>
             <xg>
                <x>Hvis vi hadde greid å passe oss for råd som alltid kommer utenfra, og arbeidet bedre etter våre egne
@@ -2173,7 +2173,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">på yttersiden eller oversiden</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="på yttersiden eller oversiden 221e270a-9af0-4a56-a603-b35839277e74">
+         <tg xml:lang="sma">
             <t pos="Po">bæjngoelistie</t>
             <xg>
                <x>Hvis vi hadde greid å passe oss for råd som alltid kommer utenfra, og arbeidet bedre etter våre egne
@@ -2189,7 +2189,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">fra ytterkanten</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="fra ytterkanten 3b3d9ab0-17a9-48ea-856b-522e319b0199">
+         <tg xml:lang="sma">
             <t pos="Po">bæjngoelistie</t>
          </tg>
       </mg>
@@ -2199,7 +2199,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">bakom</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="bakom 71a66b32-d4c7-4de9-99bf-6de7b43f3163">
+         <tg xml:lang="sma">
             <t pos="Po">bååktjesne</t>
             <xg>
                <x>Han er bakom meg nå.</x>
@@ -2208,7 +2208,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="bakom bab8a423-55f7-41d1-ba3c-c6aecf0ee3c0">
+         <tg xml:lang="sma">
             <re>bevegelse fra</re>
             <t pos="Po">bååktjeste</t>
             <xg>
@@ -2218,7 +2218,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="bakom 815abed2-efc1-4e67-a3a0-7d9e59191978">
+         <tg xml:lang="sma">
             <t pos="Po">miehtjelen</t>
             <xg>
                <x>Legg den bak deg!</x>
@@ -2227,18 +2227,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="bakom c8bdc900-ef4e-435a-9766-bd50a75233cb">
+         <tg xml:lang="sma">
             <re>om flere</re>
             <t pos="Po">miehtjeli</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="bakom db76f5ac-dd5d-4f76-ae9a-87213c5210cc">
+         <tg xml:lang="sma">
             <t pos="Po">miehtjielisnie</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="bakom 6b399a65-d1d2-4ca9-bdcf-d0ef6c351c0c">
+         <tg xml:lang="sma">
             <t pos="Po">minngielisnie</t>
             <xg>
                <x>Huset mitt er bakom det vannet.</x>
@@ -2247,7 +2247,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="bakom aed978f5-a45c-485b-aa39-afc053e157f2">
+         <tg xml:lang="sma">
             <t pos="Pr">miehtjelen</t>
             <xg>
                <x>Legg den bak den der borte.</x>
@@ -2261,7 +2261,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">hitenfor</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="hitenfor a252f045-5e45-4cd5-849b-29e119df4a44">
+         <tg xml:lang="sma">
             <t pos="Po">daebpelen</t>
             <xg>
                <x>Hitenfor det fjellet er den åsen hvor det så mye molter.</x>
@@ -2270,7 +2270,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="hitenfor 2fd7d860-12e6-4ed4-b80c-40c52cf31ada">
+         <tg xml:lang="sma">
             <re>om flere</re>
             <t pos="Po">daebpeli</t>
             <xg>
@@ -2280,12 +2280,12 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="hitenfor a015a98e-cc78-462e-951b-7ef244fae28f">
+         <tg xml:lang="sma">
             <t pos="Po">daebpielisnie</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="hitenfor 3c0e0f38-3a02-4d43-b127-b8067fc57a3c">
+         <tg xml:lang="sma">
             <t pos="Pr">daebpelen</t>
             <xg>
                <x>Den er hitenfor det lave snaufjell med krattskog omkring.</x>
@@ -2294,7 +2294,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="hitenfor 7a15756d-1423-44e8-ae8d-8cfb3781cfe5">
+         <tg xml:lang="sma">
             <re>om flere</re>
             <t pos="Pr">daebpeli</t>
             <xg>
@@ -2304,7 +2304,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="hitenfor 7c858c9d-3bf8-4282-bdb6-61ee00384c59">
+         <tg xml:lang="sma">
             <t pos="Pr">daebpielisnie</t>
          </tg>
       </mg>
@@ -2314,7 +2314,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">hitover</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="hitover eca135e3-8f31-4149-8df5-81aa7c4687a1">
+         <tg xml:lang="sma">
             <t pos="Po">daebpelen</t>
          </tg>
       </mg>
@@ -2324,12 +2324,12 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">nærmere her</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="nærmere her ba73980c-cb56-463d-a798-93bdcd85e970">
+         <tg xml:lang="sma">
             <t pos="Po">daebpielisnie</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="nærmere her 169a66ed-e9fc-4835-a87c-f07697a2a4f1">
+         <tg xml:lang="sma">
             <t pos="Pr">daebpielisnie</t>
          </tg>
       </mg>
@@ -2339,7 +2339,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">mer herfra</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="mer herfra e1957073-7e05-4a5b-ab39-bc145d786eb2">
+         <tg xml:lang="sma">
             <t pos="Po">daebpielistie</t>
          </tg>
       </mg>
@@ -2349,7 +2349,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">fra denne siden av</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="fra denne siden av 8aab91d6-1b82-41d2-ad87-7e9543d31365">
+         <tg xml:lang="sma">
             <t pos="Po">daebpielistie</t>
          </tg>
       </mg>
@@ -2359,7 +2359,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">lenger bortfra</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="lenger bortfra 70b69415-60f7-427a-83b4-a1175c414125">
+         <tg xml:lang="sma">
             <t pos="Po">dubpielistie</t>
          </tg>
       </mg>
@@ -2369,7 +2369,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">lenger bort</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="lenger bort e811803d-630a-444a-92f1-fcc3412a0b5e">
+         <tg xml:lang="sma">
             <t pos="Po">dubpielisnie</t>
             <xg>
                <x>Bortenfor de der fjellene er vårt kalvingsland.</x>
@@ -2383,7 +2383,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">lenger ut på</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="lenger ut på dd7b0e63-cd42-45b2-a961-6ea019ad89bf">
+         <tg xml:lang="sma">
             <t pos="Po">duebpelen</t>
             <xg>
                <x>lenger ut på høsten</x>
@@ -2392,7 +2392,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="lenger ut på b1e94ce9-fa62-4803-98a7-8706b013505f">
+         <tg xml:lang="sma">
             <t pos="Po">duebpeli</t>
          </tg>
       </mg>
@@ -2402,7 +2402,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">langs bak</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="langs bak 2869dedb-8a73-487e-97a8-7128bab1e13c">
+         <tg xml:lang="sma">
             <t pos="Po">duekiem</t>
             <xg>
                <x>I går gikk jeg tilfeldigvis bak kongens slott.</x>
@@ -2416,7 +2416,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">forbi bak</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="forbi bak 0e8bb201-396e-4645-9939-7a107462e4a9">
+         <tg xml:lang="sma">
             <t pos="Po">duekiem</t>
             <xg>
                <x>I går gikk jeg tilfeldigvis bak kongens slott.</x>
@@ -2430,7 +2430,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">i møte</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="i møte 1ef87066-4eb6-45ba-ae0c-05526e2dc38f">
+         <tg xml:lang="sma">
             <t pos="Po">gaavnefedtie</t>
             <xg>
                <x>Kom meg i møte!</x>
@@ -2439,7 +2439,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="i møte e8e591e3-a225-4f19-a9ff-a3a400dab0ad">
+         <tg xml:lang="sma">
             <t pos="Po">gaavnuhte</t>
             <xg>
                <x>Kom meg i møte!</x>
@@ -2491,7 +2491,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">midt i</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="midt i 991688ff-b941-4451-a7b8-d493e2ca9e58">
+         <tg xml:lang="sma">
             <t pos="Po">gaskoeh</t>
             <xg>
                <x>I år kommer påsken i midten av april.</x>
@@ -2509,7 +2509,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">på baksiden av</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="på baksiden av dc0b0b28-18cb-4738-9bf4-0be7191160cc">
+         <tg xml:lang="sma">
             <re>om mennesker og klesplagg</re>
             <t pos="Po">genhtsemen</t>
             <xg>
@@ -2523,7 +2523,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="på baksiden av 51a5d507-e7b9-4b69-8a4f-8f8809b91337">
+         <tg xml:lang="sma">
             <re>om flere mennesker og klesplagg</re>
             <t pos="Po">genhtsemi</t>
             <xg>
@@ -2538,7 +2538,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">bakpå</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="bakpå 1d4d6775-1260-45de-adae-d6d15cd2741e">
+         <tg xml:lang="sma">
             <t pos="Po">genhtsiemisnie</t>
             <xg>
                <x>Duskene er bakpå lua.</x>
@@ -2552,7 +2552,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">fra bak</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="fra bak 78bfb57f-3862-4a00-a933-5a07a3fe6fba">
+         <tg xml:lang="sma">
             <t pos="Po">genhtsiemistie</t>
             <xg>
                <x>Han kommer gående fra bak det fjellet.</x>
@@ -2566,7 +2566,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">inn mellom</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="inn mellom 54eda018-124d-416c-a8aa-1d31f7ce864d">
+         <tg xml:lang="sma">
             <t pos="Po">gaskese</t>
             <xg>
                <x>Legg bladet mellom de her bøkene!</x>
@@ -2580,7 +2580,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">på to sider</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="på to sider 6f08b26b-a8f0-44bc-bbb1-908475ee13d7">
+         <tg xml:lang="sma">
             <t pos="Po">guektielisnie</t>
          </tg>
       </mg>
@@ -2590,7 +2590,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">på to steder</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="på to steder d61b65e3-41db-4a77-b6aa-77b4583e3130">
+         <tg xml:lang="sma">
             <t pos="Po">guektielisnie</t>
          </tg>
       </mg>
@@ -2600,7 +2600,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">fra begge sider</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="fra begge sider 04682778-bffa-4b4e-a109-cfa36f1cf188">
+         <tg xml:lang="sma">
             <t pos="Po">guektielistie</t>
          </tg>
       </mg>
@@ -2610,7 +2610,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">litt lenger vest for</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="litt lenger vest for 2b419c99-99ca-4abe-922b-c8a970522585">
+         <tg xml:lang="sma">
             <t pos="Po">jillelen</t>
             <xg>
                <x>Gå vestafor den!</x>
@@ -2624,7 +2624,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">til vestsiden av</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="til vestsiden av 1f2b42dd-23a1-4f99-8494-d2b805427cf3">
+         <tg xml:lang="sma">
             <t pos="Po">jillelen</t>
             <xg>
                <x>Gå vestafor den!</x>
@@ -2638,7 +2638,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">vestafor</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="vestafor a92af813-56cf-4834-8fdc-fdf24dab2db6">
+         <tg xml:lang="sma">
             <re>om flere</re>
             <t pos="Po">jilleli</t>
             <xg>
@@ -2648,12 +2648,12 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="vestafor afe29ff9-1f56-4aea-9d62-0cc605311438">
+         <tg xml:lang="sma">
             <t pos="Po">jillielisnie</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="vestafor b38a5895-da14-44d3-b96f-144c48c1b89d">
+         <tg xml:lang="sma">
             <re>om flere</re>
             <t pos="Pr">jilleli</t>
             <xg>
@@ -2668,7 +2668,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">mer vestfra</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="mer vestfra 702cd399-702f-47b3-9811-2f61914ae829">
+         <tg xml:lang="sma">
             <t pos="Po">jillielistie</t>
             <xg>
                <x>Der bortenfor, lenger borte, vestafor sol og måne, er vel verden av gull.</x>
@@ -2682,7 +2682,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">fra vestafor</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="fra vestafor e3e083f9-973f-465d-8b93-39021ca1995d">
+         <tg xml:lang="sma">
             <t pos="Po">jillielistie</t>
             <xg>
                <x>Der bortenfor, lenger borte, vestafor sol og måne, er vel verden av gull.</x>
@@ -2696,7 +2696,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">østafor</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="østafor 7d47c059-9a48-4a5d-b657-68b9a502dccd">
+         <tg xml:lang="sma">
             <re>om flere steder</re>
             <t pos="Po">luvleli</t>
             <xg>
@@ -2706,7 +2706,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="østafor 2966d5a2-5847-4b9e-af80-43fe96e1dd4a">
+         <tg xml:lang="sma">
             <re>om flere</re>
             <t pos="Pr">luvleli</t>
             <xg>
@@ -2721,7 +2721,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">fra østafor</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="fra østafor bf3c40e1-35cd-4151-a43c-d964d987f242">
+         <tg xml:lang="sma">
             <t pos="Po">luvlielistie</t>
             <xg>
                <x>Hun kommer fra litt lenger øst enn den siidaen.</x>
@@ -2735,7 +2735,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">fra litt lenger øst enn</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="fra litt lenger øst enn 074def26-a242-4617-8971-2a964bce8883">
+         <tg xml:lang="sma">
             <t pos="Po">luvlielistie</t>
             <xg>
                <x>Hun kommer fra litt lenger øst enn den siidaen.</x>
@@ -2749,12 +2749,12 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">bakover</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="bakover 757b7c62-420d-416f-aa9a-6cdf0cd013b2">
+         <tg xml:lang="sma">
             <t pos="Po">miehtjelde</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="bakover a86c2597-98e1-4630-8808-164e5c46e985">
+         <tg xml:lang="sma">
             <t pos="Pr">miehtjelen</t>
             <xg>
                <x>Legg den bak den der borte.</x>
@@ -2763,7 +2763,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="bakover 9de5103a-66c8-41d0-b63a-c2fe61a4fecc">
+         <tg xml:lang="sma">
             <re>om flere</re>
             <t pos="Pr">miehtjeli</t>
          </tg>
@@ -2774,7 +2774,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">bakfra</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="bakfra c26e139f-8e7b-4d7b-a73d-f890f128ddf6">
+         <tg xml:lang="sma">
             <t pos="Po">miehtjelde</t>
          </tg>
       </mg>
@@ -2784,7 +2784,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">lenger bakover</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="lenger bakover 60f5ace0-bb24-4dad-8a8f-00cfc7722889">
+         <tg xml:lang="sma">
             <re>bevegelse til</re>
             <t pos="Po">miehtjielasse</t>
          </tg>
@@ -2795,7 +2795,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">fra den bakre siden av</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="fra den bakre siden av 67fdf9cb-01fe-4dc8-9e4c-9542f9915289">
+         <tg xml:lang="sma">
             <t pos="Po">miehtjielistie</t>
             <xg>
                <x>Den dukket opp fra baksida av kåta.</x>
@@ -2809,7 +2809,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">fra nordsiden av</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="fra nordsiden av f6ae2607-1fb9-4518-bbbd-b90325354f63">
+         <tg xml:lang="sma">
             <t pos="Po">miehtjielistie</t>
          </tg>
       </mg>
@@ -2819,7 +2819,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">i midten</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="i midten dbff8655-7f48-4b2e-9139-b9f78495abad">
+         <tg xml:lang="sma">
             <t pos="Po">mihti</t>
          </tg>
       </mg>
@@ -2829,7 +2829,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">baktil</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="baktil 06f22ec5-eb9b-4eee-a6b9-0b671b5a1d7c">
+         <tg xml:lang="sma">
             <t pos="Po">minngelde</t>
          </tg>
       </mg>
@@ -2839,13 +2839,13 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">lenger bak</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="lenger bak 9c92cc87-e6c7-4cf4-b1c6-ed3735e23fdf">
+         <tg xml:lang="sma">
             <re>bevegelse til</re>
             <t pos="Po">minngelen</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="lenger bak d62aa303-f349-4140-8445-684aa8f38298">
+         <tg xml:lang="sma">
             <re>bevegelse til</re>
             <t pos="Po">minngeli</t>
          </tg>
@@ -2856,7 +2856,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">just opp på</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="just opp på 82098973-e995-4011-90fa-c50d15719b6d">
+         <tg xml:lang="sma">
             <t pos="Po">nallatjasse</t>
          </tg>
       </mg>
@@ -2866,7 +2866,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">nord om</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="nord om 83d1bd3b-ca41-4098-b2fe-550f2ad5b677">
+         <tg xml:lang="sma">
             <re>bevegelse til</re>
             <t pos="Po">noerhtelen</t>
             <xg>
@@ -2881,7 +2881,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">nordafor</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="nordafor d6c0996e-e2a7-4a63-9154-53f812632b31">
+         <tg xml:lang="sma">
             <t pos="Po">noerhteli</t>
             <xg>
                <x>Den er nord for de fjellene.</x>
@@ -2890,7 +2890,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="nordafor b6fdaa11-4c86-4547-afce-dfd925f59cbc">
+         <tg xml:lang="sma">
             <re>om flere</re>
             <t pos="Pr">noerhteli</t>
             <xg>
@@ -2905,7 +2905,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">lenger i nord</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="lenger i nord 5237e8de-042c-4223-b3d3-1f3eae3b9fce">
+         <tg xml:lang="sma">
             <t pos="Po">noerhtelisnie</t>
             <xg>
                <x>Lenger nord i fylket bor det lite folk.</x>
@@ -2919,7 +2919,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">lengre nordfra</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="lengre nordfra 074bfcd9-316c-4c12-a7a5-b2a1805e9aee">
+         <tg xml:lang="sma">
             <t pos="Po">noerhtelistie</t>
          </tg>
       </mg>
@@ -2929,12 +2929,12 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">nordfra</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="nordfra b60b6063-13ba-4937-aee6-0a74f8c7bdca">
+         <tg xml:lang="sma">
             <t pos="Po">noerhtelistie</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="nordfra b60b6063-13ba-4937-aee6-0a74f8c7bdca">
+         <tg xml:lang="sma">
             <t pos="Po">noerhtede</t>
          </tg>
       </mg>
@@ -2944,13 +2944,13 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">innenfor</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="innenfor 8156ca77-6448-4364-8b51-1f27c78a350f">
+         <tg xml:lang="sma">
             <re>om flere</re>
             <t pos="Po">sisnjeli</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="innenfor f37f143e-0376-4ec6-a13a-332601f03d5b">
+         <tg xml:lang="sma">
             <re>om flere</re>
             <t pos="Po">sjisjnjeli</t>
             <xg>
@@ -2960,7 +2960,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="innenfor b490c735-be13-4238-9264-441122c98b76">
+         <tg xml:lang="sma">
             <re>om flere</re>
             <t pos="Pr">sjisjnjeli</t>
             <xg>
@@ -2975,7 +2975,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">på innsida av</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="på innsida av f789bdb9-c47d-429e-b839-8880c952b787">
+         <tg xml:lang="sma">
             <t pos="Po">sjisjnjielisnie</t>
             <xg>
                <x>På innsida av klærne er man naken.</x>
@@ -2989,7 +2989,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">fra innersiden</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="fra innersiden 954536da-8511-4988-9449-279b03b03f35">
+         <tg xml:lang="sma">
             <t pos="Po">sisnjielistie</t>
          </tg>
       </mg>
@@ -2999,7 +2999,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">ut fra</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="ut fra f6a2e306-07fa-4314-8263-3469cf75fb95">
+         <tg xml:lang="sma">
             <t pos="Po">sistie</t>
             <xg>
                <x>Den kom ut fra sekken.</x>
@@ -3013,7 +3013,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">i mot</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="i mot e1176061-023c-4eef-804b-0179bf3a5ff0">
+         <tg xml:lang="sma">
             <t pos="Po">sonterh</t>
          </tg>
       </mg>
@@ -3023,7 +3023,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">litt innenfor</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="litt innenfor dfe30772-0204-4e1a-a49c-05b68d01468f">
+         <tg xml:lang="sma">
             <t pos="Po">sæsngatjisnie</t>
          </tg>
       </mg>
@@ -3033,7 +3033,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">nedanfor</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="nedanfor 33b37d82-6f1c-41bb-a6b5-09bef7ebd82c">
+         <tg xml:lang="sma">
             <t pos="Po">vuelielisnie</t>
          </tg>
       </mg>
@@ -3043,7 +3043,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">fra mot</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="fra mot 95d25c24-ec29-4f0e-9247-b36f6a683bb0">
+         <tg xml:lang="sma">
             <t pos="Po">vuestielistie</t>
          </tg>
       </mg>
@@ -3053,19 +3053,19 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">sønnafor</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="sønnafor 9e69e334-da6e-42b4-8c31-d9ef5c6448b9">
+         <tg xml:lang="sma">
             <re>bevegelse til</re>
             <t pos="Po">åarjelen</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="sønnafor d67a3fd0-bdc2-4cba-9c63-1d1de2d88604">
+         <tg xml:lang="sma">
             <re>om flere, bevegelse til</re>
             <t pos="Po">åarjeli</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="sønnafor d0fd678a-8a61-4bc5-bdf1-6103ef11d992">
+         <tg xml:lang="sma">
             <t pos="Po">åarjalisnie</t>
             <xg>
                <x>Hun kommer fra ei bygd sønnafor Snåsa.</x>
@@ -3074,7 +3074,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="sønnafor 26d0b80d-0d6d-48fc-be8e-0561c52795bd">
+         <tg xml:lang="sma">
             <t pos="Po">åerjielisnie</t>
             <xg>
                <x>Hun kommer fra ei bygd sønnafor Snåsa.</x>
@@ -3088,13 +3088,13 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">sør om</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="sør om f4c64c37-8477-4f9f-b392-499dcfbac7b3">
+         <tg xml:lang="sma">
             <re>bevegelse til</re>
             <t pos="Po">åarjelen</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="sør om af57fa0a-8e1e-4dd3-80f9-2228baf99484">
+         <tg xml:lang="sma">
             <re>om flere, bevegelse til</re>
             <t pos="Po">åarjeli</t>
          </tg>
@@ -3105,12 +3105,12 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">lenger syd fra</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="lenger syd fra 11e03753-6334-4ca2-b370-dc17f8700216">
+         <tg xml:lang="sma">
             <t pos="Po">åarjalistie</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="lenger syd fra f8d98c4b-278b-4e9b-b706-462725699a2c">
+         <tg xml:lang="sma">
             <t pos="Po">åarjielistie</t>
          </tg>
       </mg>
@@ -3120,12 +3120,12 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">fra sønnafor</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="fra sønnafor d850708b-0497-43e8-82d8-a47b8dd35766">
+         <tg xml:lang="sma">
             <t pos="Po">åarjalistie</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="fra sønnafor f37e08b7-2e50-4717-b6d3-a8d8c9950d48">
+         <tg xml:lang="sma">
             <t pos="Po">åarjielistie</t>
          </tg>
       </mg>
@@ -3135,7 +3135,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">i beskyttelse</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="i beskyttelse 9d2bda0a-b7ed-4349-ac1b-3cf050d61730">
+         <tg xml:lang="sma">
             <t pos="Po">åelesne</t>
             <xg>
                <x>Han er under vår beskyttelse og omsorg.</x>
@@ -3149,7 +3149,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">i omsorg</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="i omsorg b9294ada-92ef-48e6-aeaf-563bc212feee">
+         <tg xml:lang="sma">
             <t pos="Po">åelesne</t>
             <xg>
                <x>Han er under vår beskyttelse og omsorg.</x>
@@ -3163,12 +3163,12 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">på utsida av</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="på utsida av 0ccd7441-8c5d-43e7-a993-7db3ef99d448">
+         <tg xml:lang="sma">
             <t pos="Po">alkalisnie</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="på utsida av 42cfd1a9-0638-4e52-a130-76e66894678e">
+         <tg xml:lang="sma">
             <t pos="Po">alkalistie</t>
          </tg>
       </mg>
@@ -3178,12 +3178,12 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">like utenfor</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="like utenfor 66b9fd3d-5c1a-46ed-8dc6-259f1c63661a">
+         <tg xml:lang="sma">
             <t pos="Po">alkalisnie</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="like utenfor dcf72efd-0963-49a4-aa8b-261b3aa6c2cf">
+         <tg xml:lang="sma">
             <t pos="Po">alkalistie</t>
          </tg>
       </mg>
@@ -3193,7 +3193,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">fra utsida av</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="fra utsida av c9148d57-3d24-42f9-98b6-217b2624cef5">
+         <tg xml:lang="sma">
             <t pos="Po">ålkoelistie</t>
          </tg>
       </mg>
@@ -3203,7 +3203,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">fra like utenfor</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="fra like utenfor 41d29466-67cb-44e6-a346-63473ced0011">
+         <tg xml:lang="sma">
             <t pos="Po">ålkoelistie</t>
          </tg>
       </mg>
@@ -3213,7 +3213,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">utenom</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="utenom 1b0d5272-32cf-459f-a3e9-f92bc46824d9">
+         <tg xml:lang="sma">
             <re>om flere steder</re>
             <t pos="Po">ålkoli</t>
          </tg>
@@ -3224,7 +3224,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">fremover</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="fremover e40f63b5-7a52-466b-ac4d-a8e495b6ef44">
+         <tg xml:lang="sma">
             <t pos="Po">avtelen</t>
          </tg>
       </mg>
@@ -3234,12 +3234,12 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">lenger frem</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="lenger frem 991fc03a-0236-4c38-8058-13df7ec04c3e">
+         <tg xml:lang="sma">
             <t pos="Po">avtelisnie</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="lenger frem 901b2cb4-be50-4b32-a73a-658cbac8bea6">
+         <tg xml:lang="sma">
             <t pos="Pr">avtelisnie</t>
          </tg>
       </mg>
@@ -3249,12 +3249,12 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">fra foran</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="fra foran fd369966-1e8f-4f27-93d4-2b709cfbd675">
+         <tg xml:lang="sma">
             <t pos="Po">avtelistie</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="fra foran 5093ec8d-b2df-4bbb-8c50-25f2317685b1">
+         <tg xml:lang="sma">
             <t pos="Po">åvteste</t>
          </tg>
       </mg>
@@ -3264,7 +3264,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">i veien for</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="i veien for b3a03807-f6b8-4528-83fe-8fb7e4efd016">
+         <tg xml:lang="sma">
             <t pos="Po">åvtem</t>
             <xg>
                <x>Han står i veien for meg.</x>
@@ -3273,7 +3273,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="i veien for ff281408-1dbf-4c3b-b452-2215029eb2a0">
+         <tg xml:lang="sma">
             <t pos="Po">avtem</t>
             <xg>
                <x>Han står i veien for meg.</x>
@@ -3287,7 +3287,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">ut av veien fra</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="ut av veien fra 6ff7c46e-a574-4cb0-ac4e-baa59af7cf23">
+         <tg xml:lang="sma">
             <t pos="Po">åvteste</t>
             <xg>
                <x>Flytt deg ut av veien for bilen min!</x>
@@ -3301,7 +3301,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">for</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="for cfba997d-8481-457f-a628-605001164763">
+         <tg xml:lang="sma">
             <t pos="Po">åvteste</t>
             <xg>
                <x>Hvorfor er det så lite mat? Takk for maten! Vil du gå og handle for bestemor? Læjsa kommer i stedet for deg.</x>
@@ -3310,7 +3310,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="for 2cfb6c80-da7f-4b40-b407-eed1d7758cb1">
+         <tg xml:lang="sma">
             <t pos="Pr">dïehre</t>
             <xg>
                <x>for våre synder</x>
@@ -3324,7 +3324,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">sammen</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="sammen fdc2310b-720d-41cc-ba1c-02f24a089e44">
+         <tg xml:lang="sma">
             <t pos="Po">aktene</t>
          </tg>
       </mg>
@@ -3334,7 +3334,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">høyere opp enn</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="høyere opp enn f5a4bd10-5c7b-4a3f-8f32-95b1d457b287">
+         <tg xml:lang="sma">
             <t pos="Pr">bijjielisnie</t>
             <xg>
                <x>Den er ovenfor den.</x>
@@ -3348,7 +3348,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">mer på denne siden av</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="mer på denne siden av c39d700f-8e33-4dc1-b46e-1d0031cff490">
+         <tg xml:lang="sma">
             <t pos="Pr">daebpiebisnie</t>
             <xg>
                <x>Fiskene er mer på denne siden av det lille vannet.</x>
@@ -3362,7 +3362,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">på denne siden av</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="på denne siden av 84197193-4968-4723-973e-fd2291aa1847">
+         <tg xml:lang="sma">
             <t pos="Pr">daebpielisnie</t>
          </tg>
       </mg>
@@ -3372,7 +3372,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">midt for</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="midt for 4610b094-8f4b-45b5-bd39-830ec04c2a75">
+         <tg xml:lang="sma">
             <t pos="Pr">gaskoeh</t>
             <xg>
                <x>Her i dette området er det varmt og godt nå midt på sommeren. Midt i myra er det en kilde med vann.</x>
@@ -3386,7 +3386,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">på midten</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="på midten bd4eceed-3432-4b17-b776-b7129d590435">
+         <tg xml:lang="sma">
             <t pos="Pr">gaskoeh</t>
             <xg>
                <x>Her i dette området er det varmt og godt nå midt på sommeren. Midt i myra er det en kilde med vann.</x>
@@ -3400,7 +3400,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">langs</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="langs 05041f9b-f55a-4a2b-bc20-522b737271ca">
+         <tg xml:lang="sma">
             <t pos="Pr">meatesth</t>
             <xg>
                <x>Han kom langs det skinnet.</x>
@@ -3414,7 +3414,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">bakom flere</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="bakom flere 7f72076f-d4a2-4700-9cf5-1f988e982e1f">
+         <tg xml:lang="sma">
             <re>om flere</re>
             <t pos="Pr">miehtjeli</t>
          </tg>
@@ -3425,7 +3425,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">baketter</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="baketter 5f2089ed-d202-4bbb-8508-a211daf13453">
+         <tg xml:lang="sma">
             <t pos="Pr">minngielisnie</t>
             <xg>
                <x>bakom det vannet</x>
@@ -3439,7 +3439,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">nord for</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="nord for 6fe69684-8b70-4c90-bed5-130799c99b55">
+         <tg xml:lang="sma">
             <re>bevegelse til</re>
             <t pos="Pr">noerhtelen</t>
             <xg>
@@ -3454,7 +3454,7 @@ For the full license text, see the link above.</lic>
          <l pos="Pr">rundt</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="rundt 2d2d71a9-27c4-4107-be29-07a0e6ea74c2">
+         <tg xml:lang="sma">
             <t pos="Pr">bïjre</t>
             <xg>
                <x>Saara gikk rundt huset. Reinen var rundt de gammene.</x>

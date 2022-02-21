@@ -31,7 +31,7 @@ For the full license text, see the link above.</lic>
          <l pos="CS">innen</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="innen c417f2b4-f903-4821-b541-856cec15dd37">
+         <tg xml:lang="sma">
             <t pos="CS">eannan</t>
             <xg>
                <x>Det er best å drikke vann før man blir veldig tørst.</x>
@@ -45,7 +45,7 @@ For the full license text, see the link above.</lic>
          <l pos="CS">som</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="som 7dfa5b93-b9e7-4ff1-91a5-9e6fafa6c2bd">
+         <tg xml:lang="sma">
             <t pos="Pron">mij</t>
              <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Sp%C3%B8rrende+og+relative+pronomen">les om bruken</t>            
              <xg>
@@ -99,7 +99,7 @@ For the full license text, see the link above.</lic>
          <l pos="CS">før</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="før 0c0c97b9-2049-4d23-99fb-59b4e75f84a1">
+         <tg xml:lang="sma">
             <t pos="CS">eannan</t>
             <xg>
                <x>Det er best å drikke vann før man blir veldig tørst.</x>
@@ -113,7 +113,7 @@ For the full license text, see the link above.</lic>
          <l pos="CS">når</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="når 43b2cdf1-6764-4f2d-96e3-559bd6435f81">
+         <tg xml:lang="sma">
             <t pos="CS">gosse</t>
             <xg>
                <x>Når man skal kløyve ved, er en kvass øks nødvendig.</x>
@@ -127,7 +127,7 @@ For the full license text, see the link above.</lic>
          <l pos="CS">da</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="da 7019a6d8-604e-4a3f-8161-53ded46b05be">
+         <tg xml:lang="sma">
             <t pos="CS">goh</t>
             <xg>
                <x>Da bestemor var ung, bodde hun i en torvgamme. Jeg er ikke like gammel som deg. Du må vaske hendene før du spiser.</x>
@@ -141,7 +141,7 @@ For the full license text, see the link above.</lic>
          <l pos="CS">den gangen da</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="den gangen da fa082a7a-7ff7-4690-b54f-aa86b2330db0">
+         <tg xml:lang="sma">
             <t pos="CS">goh</t>
             <xg>
                <x>Da bestemor var ung, bodde hun i en torvgamme. Jeg er ikke like gammel som deg. Du må vaske hendene før du spiser.</x>
@@ -155,7 +155,7 @@ For the full license text, see the link above.</lic>
          <l pos="CS">som om</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="som om 4e08cf5c-4ea7-4e68-9011-a22b2f745539">
+         <tg xml:lang="sma">
             <t pos="CS">goh</t>
             <xg>
                <x>Hun går på ski som en gal.</x>
@@ -169,7 +169,7 @@ For the full license text, see the link above.</lic>
          <l pos="CS">at</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="at bdf439e6-b05c-4751-9ad3-015640273d0b">
+         <tg xml:lang="sma">
             <t pos="CS">ahte</t>
             <xg>
                <x>Så er det slik at man må diskutere med dem.</x>
@@ -178,7 +178,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="at 3742f10d-87fb-4298-bb54-3b8d3ca4b4f8">
+         <tg xml:lang="sma">
             <t pos="CS">ihke</t>
             <xg>
                <x>Fortell at bestemor nettopp har dratt til sykehuset. Takk for at dere hørte på meg og til lykke med seminaret!</x>
@@ -192,12 +192,12 @@ For the full license text, see the link above.</lic>
          <l pos="CS">fordi</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="fordi 6c167a17-308a-4892-8d0d-7b63a4854c47">
+         <tg xml:lang="sma">
             <t pos="CS">ahte</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="fordi f9295155-728b-41e6-afa5-7dca428fd374">
+         <tg xml:lang="sma">
             <t pos="CS">ihke</t>
             <xg>
                <x>Han bare måtte gjøre det slik, fordi det var nødvendig.</x>
@@ -206,12 +206,12 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="fordi 8bd7fba8-274f-49ab-affa-3ccadd837d81">
+         <tg xml:lang="sma">
             <t pos="CS">jihkie</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="fordi 933a8353-cd6d-4fcd-bb53-6ce05f80f8e0">
+         <tg xml:lang="sma">
             <t pos="CS">juhkoe</t>
             <xg>
                <x>Mor skryter av far fordi han finner råd.</x>
@@ -220,7 +220,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="fordi f6084682-a997-473c-a8ca-7c6b142bbfe6">
+         <tg xml:lang="sma">
             <t pos="CS">juktie</t>
             <xg>
                <x>Kle på deg skikkelig fordi det er kaldt ute!</x>
@@ -234,7 +234,7 @@ For the full license text, see the link above.</lic>
          <l pos="CS">for</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="for f8575a7d-688f-40c5-a26d-6ddc7e4c9369">
+         <tg xml:lang="sma">
             <t pos="CS">ahte</t>
          </tg>
       </mg>
@@ -244,7 +244,7 @@ For the full license text, see the link above.</lic>
          <l pos="CS">selv om</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="selv om c7f12bd5-f716-4944-bcc8-2f161c06052a">
+         <tg xml:lang="sma">
             <t pos="CS">ihkie</t>
             <xg>
                <x>selv om jeg ikke ser det De klarte ikke å forklare barna sine det, skjønt de gjerne ville.</x>
@@ -253,7 +253,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="selv om 73a00d36-cb4d-4aec-96dc-0ced1047d035">
+         <tg xml:lang="sma">
             <t pos="CS">jalhts</t>
             <xg>
                <x>Hodet verker selv om jeg har sovet godt.</x>
@@ -262,7 +262,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="selv om f5111270-55b7-4145-ab28-c35a3f89fcfd">
+         <tg xml:lang="sma">
             <t pos="CS">jalts</t>
             <xg>
                <x>Nå skal du få se om du får det til, selv om jeg tror at du ikke får det bedre til enn broren
@@ -273,7 +273,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="selv om a52de2fc-f969-4e78-ac61-26324d44f111">
+         <tg xml:lang="sma">
             <t pos="CS">jïlhts</t>
             <xg>
                <x>Nå skal du få se om om du får det til, selv om jeg tror at du ikke får det bedre til enn broren
@@ -289,7 +289,7 @@ For the full license text, see the link above.</lic>
          <l pos="CS">skjønt</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="skjønt 8d1db283-7c81-4656-ac4f-a1db28339418">
+         <tg xml:lang="sma">
             <t pos="CS">ihkie</t>
             <xg>
                <x>selv om jeg ikke ser det De klarte ikke å forklare barna sine det, skjønt de gjerne ville.</x>
@@ -303,7 +303,7 @@ For the full license text, see the link above.</lic>
          <l pos="CS">om enn</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="om enn c8e553bd-3e3a-49df-a0e8-a01e4665aa21">
+         <tg xml:lang="sma">
             <t pos="CS">ihkie</t>
             <xg>
                <x>selv om jeg ikke ser det De klarte ikke å forklare barna sine det, skjønt de gjerne ville.</x>
@@ -317,7 +317,7 @@ For the full license text, see the link above.</lic>
          <l pos="CS">slik at</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="slik at ce2d5b84-f529-4f3a-92a4-4be3332b19c7">
+         <tg xml:lang="sma">
             <t pos="CS">juktie</t>
             <xg>
                <x>Best å hvile seg slik at man blir opplagt til arbeidet.</x>
@@ -331,7 +331,7 @@ For the full license text, see the link above.</lic>
          <l pos="CS">mens</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="mens ad29617c-c7de-4d1a-9f6f-c9c73eddf62f">
+         <tg xml:lang="sma">
             <t pos="CS">mearan</t>
             <xg>
                <x>Jeg skriver mens kjøttgryta koker.</x>
@@ -345,7 +345,7 @@ For the full license text, see the link above.</lic>
          <l pos="CS">hvis</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="hvis 10b21aa0-efdc-49cf-b0e7-8e1909c67ab5">
+         <tg xml:lang="sma">
             <t pos="CS">dastegh</t>
             <xg>
                <x>Regntøy er nødvendig i tilfelle det begynner å regne.</x>
@@ -354,7 +354,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="hvis 3baeab25-8258-4431-8866-9392fc76e4a3">
+         <tg xml:lang="sma">
             <t pos="CS">jis</t>
             <xg>
                <x>Jeg vil plukke bær hvis du også gjør det.</x>
@@ -368,7 +368,7 @@ For the full license text, see the link above.</lic>
          <l pos="CS">i tilfelle</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="i tilfelle 006e37ae-1b6d-4295-a7df-07e9e71dd465">
+         <tg xml:lang="sma">
             <t pos="CS">dastegh</t>
             <xg>
                <x>Regntøy er nødvendig i tilfelle det begynner å regne.</x>
@@ -382,7 +382,7 @@ For the full license text, see the link above.</lic>
          <l pos="CS">heller ikke</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="heller ikke eaf347e6-cbd3-4339-9a00-3212d82b817f">
+         <tg xml:lang="sma">
             <t pos="CS">vaallah</t>
          </tg>
       </mg>
@@ -392,7 +392,7 @@ For the full license text, see the link above.</lic>
          <l pos="CS">jo</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="jo 78eb8bfd-0162-49c1-9394-9bc6fd006480">
+         <tg xml:lang="sma">
             <t pos="CS">bene</t>
          </tg>
       </mg>
@@ -402,7 +402,7 @@ For the full license text, see the link above.</lic>
          <l pos="CS">vel</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="vel 885f833f-4264-4f74-9a93-f2377d55edea">
+         <tg xml:lang="sma">
             <t pos="CS">bene</t>
          </tg>
       </mg>
@@ -412,7 +412,7 @@ For the full license text, see the link above.</lic>
          <l pos="CS">kanskje</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="kanskje ba486df8-928c-4aa4-aa39-507d5e95e32d">
+         <tg xml:lang="sma">
             <t pos="CS">bene</t>
          </tg>
       </mg>
@@ -422,7 +422,7 @@ For the full license text, see the link above.</lic>
          <l pos="CS">aller helst</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="aller helst e42b83cf-e42b-4cce-9e9e-03085892ae52">
+         <tg xml:lang="sma">
             <t pos="CS">eeremes</t>
             <xg>
                <x>Aller helst vil jeg takke...</x>
@@ -436,7 +436,7 @@ For the full license text, see the link above.</lic>
          <l pos="CS">enn</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="enn 95587928-29e5-49ef-a41c-05a746bf4526">
+         <tg xml:lang="sma">
             <t pos="CS">goh</t>
             <t pos="CS">enn</t>
             <xg>
@@ -464,7 +464,7 @@ For the full license text, see the link above.</lic>
          <l pos="CS">om</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="om d77f7803-ead8-4986-a981-434fd5f4c8a4">
+         <tg xml:lang="sma">
             <t pos="CS">jis</t>
             <xg>
                <x>Jeg vil plukke bær hvis du også gjør det.</x>

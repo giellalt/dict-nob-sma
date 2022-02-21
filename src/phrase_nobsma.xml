@@ -31,7 +31,7 @@ For the full license text, see the link above.</lic>
          <l pos="Phrase">ditt og datt</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="ditt og datt ec5751bb-b157-4561-b118-e4b0533ff59d">
+         <tg xml:lang="sma">
             <t pos="Phrase">dom daam</t>
          </tg>
       </mg>
@@ -41,12 +41,12 @@ For the full license text, see the link above.</lic>
          <l t_type="expl" pos="Phrase">egenskapen til barkelåg som trekker godt inn i skinn</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="egenskapen til barkelåg som trekker godt inn i skinn 7b2fecdb-ee23-4bcd-8f58-ac02def331f3">
+         <tg xml:lang="sma">
             <t pos="A" stem="3syll">raavtehtje</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="egenskapen til barkelåg som trekker godt inn i skinn eff6b5a4-2ae0-4502-9801-da01aa7f5b53">
+         <tg xml:lang="sma">
             <t pos="A" stem="3syll">raavteres</t>
          </tg>
       </mg>
@@ -102,7 +102,7 @@ For the full license text, see the link above.</lic>
          <l pos="Adv">vær så god</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="vær så god 55923062-2dda-43c8-b82a-ee4b35a3bdc6">
+         <tg xml:lang="sma">
             <t pos="Adv">duelie</t>
             <xg>
                <x>Vær så god og ta denne.</x>
@@ -120,7 +120,7 @@ For the full license text, see the link above.</lic>
          <l pos="Phrase" type="Indef">et eller annet</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="et eller annet 2d4cc244-49f2-49d3-bf54-8651a1e43181">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Indef">mij akt</t>
             <xg>
                <x>Der borte i skogen var det et eller annet som rørte på seg.</x>
@@ -129,7 +129,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="et eller annet 2fcce32e-4c5d-4331-9ab8-5dd966787d66">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Indef">maam akt</t>
             <xg>
                <x>Vi må jo gjøre et eller annet.</x>
@@ -138,7 +138,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="et eller annet 695b8639-c46a-4f61-bd9d-5932dd41f683">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Indef">man akt</t>
             <xg>
                <x>Og så begynte læreren å fortelle om ett eller annet, men jeg forsto ingenting av det.</x>
@@ -152,7 +152,7 @@ For the full license text, see the link above.</lic>
          <l pos="Phrase" type="Indef">til et eller annet</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="til et eller annet 7e4774c1-e141-4abf-8411-b9e0b31f074f">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Indef">mïsse akt</t>
             <xg>
                <x>Det går sikkert an å bruke dette til et eller annet også.</x>
@@ -161,7 +161,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="til et eller annet 1628947b-0169-4d8e-8ac7-4afe7d1cdddf">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Indef">masse akt</t>
             <xg>
                <x>Det går sikkert an å bruke dette til et eller annet også.</x>
@@ -175,7 +175,7 @@ For the full license text, see the link above.</lic>
          <l pos="Phrase" type="Indef">i et eller annet</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="i et eller annet c4b2db17-5639-4044-b515-fe790293826b">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Indef">mesnie akt</t>
             <xg>
                <x>Jeg husker ikke om det var i eska eller i sekken, men jeg husker at det var i et eller annet på
@@ -190,7 +190,7 @@ For the full license text, see the link above.</lic>
          <l pos="Phrase" type="Indef">fra et eller annet</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="fra et eller annet 1de82edb-b745-42a9-ac39-9a1d7f6ca680">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Indef">mestie akt</t>
             <xg>
                <x>Jeg vet ikke hva jeg skal sy veska av, men jeg må nok sy av et eller annet som jeg har i denne
@@ -206,7 +206,7 @@ For the full license text, see the link above.</lic>
          <l pos="Phrase" type="Indef">med et eller annet</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="med et eller annet 5fbbe448-271e-43b8-9b30-c15ae83375a6">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Indef">mejnie akt</t>
             <xg>
                <x>Han kom til meg med et eller annet, og ba meg gi det til Laara.</x>
@@ -220,7 +220,7 @@ For the full license text, see the link above.</lic>
          <l pos="Phrase" type="Indef">en eller annen</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="en eller annen 54c9abfe-3577-4aac-850c-4b2635a2bc8d">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Indef">gie akt</t>
             <xg>
                <x>Her har det nok vært noen tidligere.</x>
@@ -229,7 +229,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="en eller annen b5d36faf-72be-442a-8723-c72049146344">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Indef">gïem akt</t>
             <xg>
                <x>Jeg hørte en eller annen i fra det huset.</x>
@@ -238,7 +238,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="en eller annen 33022f88-7d5d-4aba-ba4f-f0addea2d8ea">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Indef">geam akt</t>
             <xg>
                <x>Jeg hørte en eller annen i fra det huset.</x>
@@ -252,7 +252,7 @@ For the full license text, see the link above.</lic>
          <l pos="Phrase" type="Indef">en eller annens</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="en eller annens 985f0aa1-b1c2-4fce-adf9-2da3214d4b83">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Indef">gïen akt</t>
             <xg>
                <x>Jeg vet ikke hvem sin dette her er, men en eller annens er det.</x>
@@ -261,7 +261,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="en eller annens 6be971d9-4bee-4a16-8029-a87d034a04e3">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Indef">gean akt</t>
             <xg>
                <x>Jeg vet ikke hvem sin dette her er, men en eller annens er det.</x>
@@ -275,7 +275,7 @@ For the full license text, see the link above.</lic>
          <l pos="Phrase" type="Indef">til en eller annen</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="til en eller annen 5fa1b128-cc8c-443b-9429-f3b5fc2359c9">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Indef">gïese akt</t>
             <xg>
                <x>Jeg må ringe til en eller annen.</x>
@@ -284,7 +284,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="til en eller annen 85b18531-47c2-45c6-bb08-9708245ba8a9">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Indef">gease akt</t>
             <xg>
                <x>Jeg må ringe til en eller annen.</x>
@@ -298,7 +298,7 @@ For the full license text, see the link above.</lic>
          <l pos="Phrase" type="Indef">hos en eller annen</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="hos en eller annen f6a4f19f-91df-44d7-9807-1b96384c454f">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Indef">giesnie akt</t>
          </tg>
       </mg>
@@ -308,7 +308,7 @@ For the full license text, see the link above.</lic>
          <l pos="Phrase" type="Indef">fra en eller annen</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="fra en eller annen 10a57129-4c16-4025-8bca-bf44fcda4a91">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Indef">giestie akt</t>
             <xg>
                <x>Jeg hørte det fra en eller annen på skolen.</x>
@@ -322,7 +322,7 @@ For the full license text, see the link above.</lic>
          <l pos="Phrase" type="Indef">med en eller annen</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="med en eller annen fa756f0e-aa19-4e4c-90a8-7626eac7b072">
+         <tg xml:lang="sma">
             <t pos="Pron" type="Indef">giejnie akt</t>
             <xg>
                <x>Behøver du en eller annen å prate med?</x>
@@ -336,7 +336,7 @@ For the full license text, see the link above.</lic>
          <l t_type="expl" pos="Phrase">uttrykker formodning eller forundring</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="uttrykker formodning eller forundring 9d3aa207-03ef-40fd-ba66-db76dbb6b4a4">
+         <tg xml:lang="sma">
             <re>ved subjekt 1.p. entall</re>
             <t pos="Pcle">mån</t>
             <xg>
@@ -346,7 +346,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="uttrykker formodning eller forundring a6b0efe0-1ba4-4e23-ba6c-ba8fb2711558">
+         <tg xml:lang="sma">
             <re>ved subjekt 2.p. entall</re>
             <t pos="Pcle">dån</t>
             <xg>
@@ -356,7 +356,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="uttrykker formodning eller forundring 628c472e-fc18-42da-8344-8faebff2dc9a">
+         <tg xml:lang="sma">
             <re>ved subjekt 3.p. entall</re>
             <t pos="Pcle">sån</t>
             <xg>
@@ -366,7 +366,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="uttrykker formodning eller forundring c78d7a19-e7a3-4a04-98b3-1727eea9014e">
+         <tg xml:lang="sma">
             <re>ved subjekt 1.p. totall</re>
             <t pos="Pcle">min</t>
             <xg>
@@ -376,7 +376,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="uttrykker formodning eller forundring 84b506af-c830-4a56-8465-19498fe77fa7">
+         <tg xml:lang="sma">
             <re>ved subjekt 2.p. totall</re>
             <t pos="Pcle">din</t>
             <xg>
@@ -386,7 +386,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="uttrykker formodning eller forundring e0d961df-d8f8-4ec4-bfba-de17d4dd82a2">
+         <tg xml:lang="sma">
             <re>ved subjekt 3.p. totall</re>
             <t pos="Pcle">sin</t>
             <xg>
@@ -396,7 +396,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="uttrykker formodning eller forundring 5bcef7fd-9f12-4075-9cae-bccf115115ad">
+         <tg xml:lang="sma">
             <re>ved subjekt 1.p. flertall</re>
             <t pos="Pcle">mih</t>
             <xg>
@@ -406,7 +406,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="uttrykker formodning eller forundring 59a0207d-11ae-4e57-b22f-99b13b672e66">
+         <tg xml:lang="sma">
             <re>ved subjekt 2.p. flertall</re>
             <t pos="Pcle">dih</t>
             <xg>
@@ -416,7 +416,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sma" tw_id="uttrykker formodning eller forundring fb5387e8-5b60-47bd-95ca-3dc4b3a2d4d1">
+         <tg xml:lang="sma">
             <re>ved subjekt 3.p. flertall</re>
             <t pos="Pcle">sih</t>
             <xg>
@@ -431,7 +431,7 @@ For the full license text, see the link above.</lic>
          <l t_type="expl" pos="Phrase">uttrykker utålmodighet</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="uttrykker utålmodighet 64120b7a-c00c-4a88-91ab-d7de968e1c54">
+         <tg xml:lang="sma">
             <t pos="Pcle">mihk</t>
             <xg>
                <x>Kanskje du nå gjør det.</x>
@@ -445,7 +445,7 @@ For the full license text, see the link above.</lic>
          <l t_type="expl" pos="Phrase">står til nektingsverbet og innebærer at taleren forventer et positivt svar</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="står til nektingsverbet og innebærer at taleren forventer et positivt svar 2feeff6e-0dbe-46f2-b323-84120f8cbf04">
+         <tg xml:lang="sma">
             <t pos="Pcle">goh</t>
             <xg>
                <x>Har ikke du hørt det?</x>
@@ -459,7 +459,7 @@ For the full license text, see the link above.</lic>
          <l t_type="expl" pos="Phrase">uttrykker selvfølge eller visshet</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="uttrykker selvfølge eller visshet f0f0880e-7168-4856-8289-7146aac506cf">
+         <tg xml:lang="sma">
             <t pos="Pcle">badth</t>
             <xg>
                <x>Slik tenker de, ja. I smug da vel. A nei, da!</x>
@@ -473,7 +473,7 @@ For the full license text, see the link above.</lic>
          <l pos="Phrase">seg mellom</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="seg mellom 08f8c8eb-6161-44be-91d5-cd22adb26b1e">
+         <tg xml:lang="sma">
             <t pos="Po">gaskemsh</t>
             <xg>
                <x>Mellom dem er det slik.</x>
@@ -487,7 +487,7 @@ For the full license text, see the link above.</lic>
          <l pos="Phrase">så mye</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="så mye ca1934e3-d462-49b3-bb51-66f270374793">
+         <tg xml:lang="sma">
             <t pos="Po">jarke</t>
             <xg>
                <x>Det er ikke så mye.</x>
@@ -501,7 +501,7 @@ For the full license text, see the link above.</lic>
          <l t_type="expl" pos="Phrase">simla og kalven grynter når de kaller på hverandre</l>
       </lg>
       <mg>
-         <tg xml:lang="sma" tw_id="simla og kalven grynter når de kaller på hverandre edc948a3-56e8-4e19-a98b-998b3b8b3bc7">
+         <tg xml:lang="sma">
             <t class="IV" context="3pers" minip="notSg1" p3p="råavka" pos="V" stem="2syll" vow="åa">råavkedh</t>
          </tg>
       </mg>
