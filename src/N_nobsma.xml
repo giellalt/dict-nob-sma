@@ -35521,6 +35521,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" soggi="ie" stem="2syll">åejjie</t>
+            <xg>
+               <x>Jeg har hodepine</x>
+               <xt>Mov åejjieh saejriedieh</xt>
+            </xg>
          </tg>
          <tg xml:lang="sma">
 	         <re>om dødt reinhode</re>
@@ -64302,6 +64306,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">gïete</t>
+            <xg>
+               <x>Hold meg i handa!</x>
+               <xt>Steerh mov gïeteste</xt>
+            </xg>
          </tg>
       </mg>
    </e>
