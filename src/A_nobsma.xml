@@ -28,6 +28,16 @@ For the full license text, see the link above.</lic>
    </lics>
    <e>
       <lg>
+         <l pos="A">allmenn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma" tw_id="allmenn 19f78e08-af4d-4ee1-b010-c19ca783e038">
+            <t pos="A" stem="3syll">sïejhme</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="A">vinglende</l>
       </lg>
       <mg>
@@ -7706,7 +7716,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="gg">
       <lg>
-         <l pos="N">sammenhengende</l>
+         <l pos="A">sammenhengende</l>
       </lg>
       <mg>
          <tg xml:lang="sma">

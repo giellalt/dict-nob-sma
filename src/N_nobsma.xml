@@ -785,7 +785,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">allmenn</l>
+         <l pos="A">allmenn</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -61927,481 +61927,481 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">diskusjonsemne</l>
+      <l pos="N" src="fad">diskusjonsemne</l>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="A">digkiedimmieaamhtese</t>
+        <t pos="N">digkiedimmieaamhtese</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">dagsenter</l>
+      <l pos="N" src="fad">dagsenter</l>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="A">biejjiejarnge</t>
+        <t pos="N">biejjiejarnge</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">verdenssenter</l>
+      <l pos="N" src="fad">verdenssenter</l>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="A">eatnemejarnge</t>
+        <t pos="N">eatnemejarnge</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">kraftsenter</l>
+      <l pos="N" src="fad">kraftsenter</l>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="A">faamoejarnge</t>
+        <t pos="N">faamoejarnge</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">jordressurs</l>
+      <l pos="N" src="fad">jordressurs</l>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="A">eatnemevierhtie</t>
+        <t pos="N">eatnemevierhtie</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">ferierettighet</l>
+      <l pos="N" src="fad">ferierettighet</l>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="A">eejehtimmiereakta</t>
+        <t pos="N">eejehtimmiereakta</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">matprodukt</l>
+      <l pos="N" src="fad">matprodukt</l>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="A">beapmoedorjese</t>
+        <t pos="N">beapmoedorjese</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">vannressurslov</l>
+      <l pos="N" src="fad">vannressurslov</l>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="A">jaevrievierhtie</t>
+        <t pos="N">jaevrievierhtie</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">forskningssøknad</l>
+      <l pos="N" src="fad">forskningssøknad</l>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="A">dotkemeohtseme</t>
+        <t pos="N">dotkemeohtseme</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">hovedstad</l>
+      <l pos="N" src="fad">hovedstad</l>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="A">åejviestaare</t>
+        <t pos="N">åejviestaare</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">økonomiområde</l>
+      <l pos="N" src="fad">økonomiområde</l>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="A">ekonomijesuerkie</t>
+        <t pos="N">ekonomijesuerkie</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">landskapsvernområde</l>
+      <l pos="N" src="fad">landskapsvernområde</l>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="A">eatnemenvaarjelimmiedajve</t>
+        <t pos="N">eatnemenvaarjelimmiedajve</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">tilskuddsområde</l>
+      <l pos="N" src="fad">tilskuddsområde</l>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="A">dåarjoesuerkie</t>
+        <t pos="N">dåarjoesuerkie</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">fødselspenge</l>
+      <l pos="N" src="fad">fødselspenge</l>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="A">reakadehtemebeetnege</t>
+        <t pos="N">reakadehtemebeetnege</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">miljøvernavdeling</l>
+      <l pos="N" src="fad">miljøvernavdeling</l>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="A">byjresevaarjelimmiegoevtese</t>
+        <t pos="N">byjresevaarjelimmiegoevtese</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">grunnforskning</l>
+      <l pos="N" src="fad">grunnforskning</l>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="A">maadth-dotkeme</t>
+        <t pos="N">maadth-dotkeme</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">miljøforskning</l>
+      <l pos="N" src="fad">miljøforskning</l>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="A">byjresedotkeme</t>
+        <t pos="N">byjresedotkeme</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">tilskuddsforvaltning</l>
+      <l pos="N" src="fad">tilskuddsforvaltning</l>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="A">dåarjoereereme</t>
+        <t pos="N">dåarjoereereme</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">eiendomsforvaltning</l>
+      <l pos="N" src="fad">eiendomsforvaltning</l>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="A">eekereereme</t>
+        <t pos="N">eekereereme</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">bergindustri</l>
+      <l pos="N" src="fad">bergindustri</l>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="A">baektieindustrije</t>
+        <t pos="N">baektieindustrije</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">matfisk</l>
+      <l pos="N" src="fad">matfisk</l>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="A">beapmoeguelie</t>
+        <t pos="N">beapmoeguelie</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">innledningsdel</l>
+      <l pos="N" src="fad">innledningsdel</l>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="A">aalkoebielie</t>
+        <t pos="N">aalkoebielie</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">drøftingsdel</l>
+      <l pos="N" src="fad">drøftingsdel</l>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="A">digkiedimmiebielie</t>
+        <t pos="N">digkiedimmiebielie</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">handlingsprogram</l>
+      <l pos="N" src="fad">handlingsprogram</l>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="A">darjomeprogramme</t>
+        <t pos="N">darjomeprogramme</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">forskningsverden</l>
+      <l pos="N" src="fad">forskningsverden</l>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="A">dotkemeveartene</t>
+        <t pos="N">dotkemeveartene</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">forskningstradisjon</l>
+      <l pos="N" src="fad">forskningstradisjon</l>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="A">dotkemevuekie</t>
+        <t pos="N">dotkemevuekie</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">kretsstruktur</l>
+      <l pos="N" src="fad">kretsstruktur</l>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="A">dajvestruktuvre</t>
+        <t pos="N">dajvestruktuvre</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">prisnivå</l>
+      <l pos="N" src="fad">prisnivå</l>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="A">åasadaltese</t>
+        <t pos="N">åasadaltese</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">aktivitetsstøtte</l>
+      <l pos="N" src="fad">aktivitetsstøtte</l>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="A">darjomedåarjoe</t>
+        <t pos="N">darjomedåarjoe</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">forskningsmelding</l>
+      <l pos="N" src="fad">forskningsmelding</l>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="A">dotkemebïevnese</t>
+        <t pos="N">dotkemebïevnese</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">pressestøtteordning</l>
+      <l pos="N" src="fad">pressestøtteordning</l>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="A">pressedåarjehöörnege</t>
+        <t pos="N">pressedåarjehöörnege</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">helseforskning</l>
+      <l pos="N" src="fad">helseforskning</l>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="A">healsoedotkeme</t>
+        <t pos="N">healsoedotkeme</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">skoleundervisning</l>
+      <l pos="N" src="fad">skoleundervisning</l>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="A">skuvleööhpehtimmie</t>
+        <t pos="N">skuvleööhpehtimmie</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">fiskeriforvaltning</l>
+      <l pos="N" src="fad">fiskeriforvaltning</l>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="A">göölemereereme</t>
+        <t pos="N">göölemereereme</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">hovedsak</l>
+      <l pos="N" src="fad">hovedsak</l>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="A">åejvieaamhtese</t>
+        <t pos="N">åejvieaamhtese</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">urfolksspråk</l>
+      <l pos="N" src="fad">urfolksspråk</l>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="A">aalkoealmetjegïele</t>
+        <t pos="N">aalkoealmetjegïele</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">priskontroll</l>
+      <l pos="N" src="fad">priskontroll</l>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="A">åasagïehtjedimmie</t>
+        <t pos="N">åasagïehtjedimmie</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">samiskplan</l>
+      <l pos="N" src="fad">samiskplan</l>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="A">saemiengïelesoejkesje</t>
+        <t pos="N">saemiengïelesoejkesje</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">eieransvar</l>
+      <l pos="N" src="fad">eieransvar</l>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="A">aajhteredïedte</t>
+        <t pos="N">aajhteredïedte</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">tilskuddmottaker</l>
+      <l pos="N" src="fad">tilskuddmottaker</l>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="A">dåarjoedåastoje</t>
+        <t pos="N">dåarjoedåastoje</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">regionteater</l>
+      <l pos="N" src="fad">regionteater</l>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="A">regijovneteaatere</t>
+        <t pos="N">regijovneteaatere</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">fødselstidspunkt</l>
+      <l pos="N" src="fad">fødselstidspunkt</l>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="A">reakadehteme-aejkie</t>
+        <t pos="N">reakadehteme-aejkie</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">tilskuddspost</l>
+      <l pos="N" src="fad">tilskuddspost</l>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="A">dåarjoepåaste</t>
+        <t pos="N">dåarjoepåaste</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">teknologisenter</l>
+      <l pos="N" src="fad">teknologisenter</l>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="A">teknologijejarnge</t>
+        <t pos="N">teknologijejarnge</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">brosjyre</l>
+      <l pos="N" src="fad">brosjyre</l>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="A">tjaalege</t>
+        <t pos="N">tjaalege</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">opptelling</l>
+      <l pos="N" src="fad">opptelling</l>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="A">lohkeme</t>
+        <t pos="N">lohkeme</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">utfordring</l>
+      <l pos="N" src="fad">utfordring</l>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="A">haesteme</t>
+        <t pos="N">haesteme</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">fjord</l>
+      <l pos="N" src="fad">fjord</l>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="A">voene</t>
+        <t pos="N">voene</t>
       </tg>
     </mg>
     <mg>
@@ -62412,132 +62412,132 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">styring</l>
+      <l pos="N" src="fad">styring</l>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="A">reereme</t>
+        <t pos="N">reereme</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">bjørkeskog</l>
+      <l pos="N" src="fad">bjørkeskog</l>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="A">boelte</t>
+        <t pos="N">boelte</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">duft</l>
+      <l pos="N" src="fad">duft</l>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="A">roenge</t>
+        <t pos="N">roenge</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">anvendelse</l>
+      <l pos="N" src="fad">anvendelse</l>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="A">åtnasovvedh</t>
+        <t pos="N">åtnasovvedh</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">ornamentikk</l>
+      <l pos="N" src="fad">ornamentikk</l>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="A">tjaalehtjimmie</t>
+        <t pos="N">tjaalehtjimmie</t>
         <t pos="N">ornamentihke</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">lovverk</l>
+      <l pos="N" src="fad">lovverk</l>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="A">laake</t>
+        <t pos="N">laake</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">margarin</l>
+      <l pos="N" src="fad">margarin</l>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="A">margarijne</t>
+        <t pos="N">margarijne</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">klesdrakt</l>
+      <l pos="N" src="fad">klesdrakt</l>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="A">gaarvoe</t>
+        <t pos="N">gaarvoe</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">yrkesliv</l>
+      <l pos="N" src="fad">yrkesliv</l>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="A">barkoejieleme</t>
+        <t pos="N">barkoejieleme</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">ubehag</l>
+      <l pos="N" src="fad">ubehag</l>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="A">ropmege</t>
+        <t pos="N">ropmege</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">analyse</l>
+      <l pos="N" src="fad">analyse</l>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="A">goerehtimmie</t>
+        <t pos="N">goerehtimmie</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">etternavn</l>
+      <l pos="N" src="fad">etternavn</l>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="A">minngienomme</t>
+        <t pos="N">minngienomme</t>
       </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A" src="fad">opprinnelig intensjon</l>
+      <l pos="N" src="fad">intensjon</l>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="A">aajkoe</t>
+        <t pos="N">aajkoe</t>
       </tg>
     </mg>
   </e>
