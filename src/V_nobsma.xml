@@ -244,6 +244,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="V">nænnoestidh</t>
+            <xg>
+               <x>De har besluttet det slik.</x>
+               <xt>Dah leah nænnoestamme nimhtie.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1559,8 +1563,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t class="IV" p3p="veanhta" pos="V" stem="2syll" umlaut="full" vow="x">vïenhtedh</t>
             <xg>
-               <x>Hva tror du? ta stilling til noe</x>
-               <xt>Maam vïenhth? jiehtedh maam veanhta</xt>
+               <x>Hva antar du?</x>
+               <xt>Maam vïenhth?</xt>
             </xg>
          </tg>
       </mg>
@@ -3745,8 +3749,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t class="I" p3p="luajhta" pos="V" stem="2syll" umlaut="full" vow="x">luejhtedh</t>
             <xg>
-               <x>Slipp! la gå til spille tilgi</x>
-               <xt>Luejhtieh! deajese luejhtedh aanteges luejhtedh</xt>
+               <x>Slipp!</x>
+               <xt>Luejhtieh!</xt>
             </xg>
          </tg>
       </mg>
@@ -4796,9 +4800,13 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t diph="yes" p3p="buektehte" pos="V" stem="3syll">buektiehtidh</t>
             <xg>
-               <x>Nå skal du få se hva du får til, selv om jeg tror at du ikke får det bedre til enn broren din. Jeg greier ikke å gjøre leksene mine uten boka.</x>
+               <x>Nå skal du få se hva du får til, selv om jeg tror at du ikke får det bedre til enn broren din.</x>
                <xt>Nov edtjh åadtjodh vuejnedh mejtie buektehth, jïlhts manne straavvem ih datne buerebh buektehth goh
-               vïelledh. Im buektehth mov leaksoeh darjodh gærjan namhtah.</xt>
+               vïelledh.</xt>
+            </xg>
+            <xg>
+               <x>Jeg får ikke til å gjøre leksene mine uten boka.</x>
+               <xt>Im buektehth mov leaksoeh darjodh gærjan namhtah.</xt>
             </xg>
          </tg>
       </mg>
@@ -6232,8 +6240,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t class="I" p3p="luajhta" pos="V" stem="2syll" umlaut="full" vow="x">luejhtedh</t>
             <xg>
-               <x>Slipp! la gå til spille tilgi</x>
-               <xt>Luejhtieh! deajese luejhtedh aanteges luejhtedh</xt>
+               <x>Slipp!</x>
+               <xt>Luejhtieh!</xt>
             </xg>
          </tg>
       </mg>
@@ -7547,8 +7555,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t class="IV" pos="V" stem="2syll" vow="a">dajpedh</t>
             <xg>
-               <x>Det duger ikke. Det går an å flytte nå.</x>
-               <xt>Ij dajph. Dajpa juhtedh.</xt>
+               <x>Det går an å flytte nå.</x>
+               <xt>Dajpa juhtedh.</xt>
             </xg>
          </tg>
       </mg>
@@ -7570,8 +7578,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t class="IV" pos="V" stem="2syll" vow="a">dajpedh</t>
             <xg>
-               <x>Det duger ikke. Det går an å flytte nå.</x>
-               <xt>Ij dajph. Dajpa juhtedh.</xt>
+               <x>Det duger ikke.</x>
+               <xt>Ij dajph.</xt>
             </xg>
          </tg>
       </mg>
@@ -8995,10 +9003,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t class="VI" p3p="feerie" pos="V" stem="2syll">feeredh</t>
-            <xg>
-               <x>Kom deg ut! Kom deg vekk!</x>
-               <xt>Feerh olkese! Feerh dohkoe!</xt>
-            </xg>
          </tg>
       </mg>
       <mg>
@@ -10268,8 +10272,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="V" stem="3syll">tsyögkegidh</t>
             <xg>
-               <x>De satte seg i mot det da. De bruker å motsette seg alt! Hundens hår reiser seg når den blir sint.</x>
-               <xt>Dah gujht dan aejkien tsyögkegin! Dah hov gaajhkese pruvhkieh tsyögkegidh! Bïenjen goelkh tsyögkegieh gosse måarahtåvva.</xt>
+               <x>De satte seg i mot det da.</x>
+               <xt>Dah gujht dan aejkien tsyögkegin!</xt>
+            </xg>
+            <xg>
+               <x>De bruker å motsette seg alt!</x>
+               <xt>Dah hov gaajhkese pruvhkieh tsyögkegidh!</xt>
             </xg>
          </tg>
       </mg>
@@ -11052,10 +11060,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t class="VI" p3p="feerie" pos="V" stem="2syll">feeredh</t>
-            <xg>
-               <x>Kom deg ut! Kom deg vekk!</x>
-               <xt>Feerh olkese! Feerh dohkoe!</xt>
-            </xg>
          </tg>
       </mg>
       <mg>
@@ -11110,10 +11114,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t class="VI" p3p="feerie" pos="V" stem="2syll">feeredh</t>
-            <xg>
-               <x>Kom deg ut! Kom deg vekk!</x>
-               <xt>Feerh olkese! Feerh dohkoe!</xt>
-            </xg>
          </tg>
       </mg>
       <mg>
@@ -13695,8 +13695,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t class="III" p3p="galhkoe" pos="V" stem="2syll">galhkedh</t>
             <xg>
-               <x>Da jeg ble ferdig i butikken, ... Er du allerede ferdig?</x>
-               <xt>Goh galhkeme daehtie bovreste, ... Joe galhkeme?</xt>
+               <x>Da jeg ble ferdig i butikken, ...</x>
+               <xt>Goh galhkeme daehtie bovreste, ...</xt>
+            </xg>
+            <xg>
+               <x>Er du allerede ferdig?</x>
+               <xt>Joe galhkeme?</xt>
             </xg>
          </tg>
       </mg>
@@ -13713,10 +13717,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t class="III" p3p="galhkoe" pos="V" stem="2syll">galhkedh</t>
-            <xg>
-               <x>Da jeg ble ferdig i butikken, ... Er du allerede ferdig?</x>
-               <xt>Goh galhkeme daehtie bovreste, ... Joe galhkeme?</xt>
-            </xg>
          </tg>
       </mg>
       <mg>
@@ -13741,10 +13741,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t class="III" p3p="galhkoe" pos="V" stem="2syll">galhkedh</t>
-            <xg>
-               <x>Da jeg ble ferdig i butikken, ... Er du allerede ferdig?</x>
-               <xt>Goh galhkeme daehtie bovreste, ... Joe galhkeme?</xt>
-            </xg>
          </tg>
       </mg>
       <mg>
@@ -14336,8 +14332,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t class="IV" minip="notSg1" p3p="sjeahta" pos="V" stem="2syll" umlaut="full" vow="x">sjïehtedh</t>
             <xg>
-               <x>Det passer fint! Det passer ikke.</x>
-               <xt>Hijven sjeahta! Ij sjïehth.</xt>
+               <x>Det passer fint!</x>
+               <xt>Hijven sjeahta!</xt>
+            </xg>
+            <xg>
+               <x>Det passer ikke.</x>
+               <xt>Ij sjïehth.</xt>
             </xg>
          </tg>
       </mg>
@@ -14811,8 +14811,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t p3p="vuartesje" pos="V" stem="3syll">vuartasjidh</t>
             <xg>
-               <x>Jeg skal se etter om hun ennå er der. Jeg ser på TV. Kan du se over om det ble riktig?</x>
-               <xt>Manne edtjem vuartasjidh, mejtie annje desnie lea. Manne TV:se vuartesjem. Maahtah datne vuartasjidh mejtie staaran sjïdti?</xt>
+               <x>Jeg ser på TV.</x>
+               <xt>Manne TV:se vuartesjem.</xt>
             </xg>
          </tg>
       </mg>
@@ -15917,6 +15917,10 @@ For the full license text, see the link above.</lic>
    <e>
       <lg>
          <l pos="Phrase">se etter</l>
+            <xg>
+              <x>Jeg skal se etter om hun ennå er der.</x>
+              <xt>Manne edtjem vuartasjidh, mejtie annje desnie lea.</xt>            
+		    </xg>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -15946,10 +15950,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t class="IV" p3p="mænna" pos="V" stem="2syll" umlaut="full" vow="x">mïnnedh</t>
-            <xg>
-               <x>Jeg skal ta en tur dit. ta en tur i butikken</x>
-               <xt>Manne edtjem dahkoe mïnnedh. bovresne mïnnedh</xt>
-            </xg>
          </tg>
       </mg>
       <mg>
@@ -17345,8 +17345,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t class="IV" minip="notSg1" p3p="sjeahta" pos="V" stem="2syll" umlaut="full" vow="x">sjïehtedh</t>
             <xg>
-               <x>Det passer fint! Det passer ikke.</x>
-               <xt>Hijven sjeahta! Ij sjïehth.</xt>
+               <x>Det er høvelig.</x>
+               <xt>Hijven sjeahta!</xt>
             </xg>
          </tg>
       </mg>
@@ -18129,8 +18129,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t p3p="vuartesje" pos="V" stem="3syll">vuartasjidh</t>
             <xg>
-               <x>Jeg skal se etter om hun ennå er der. Jeg ser på TV. Kan du se over om det ble riktig?</x>
-               <xt>Manne edtjem vuartasjidh, mejtie annje desnie lea. Manne TV:se vuartesjem. Maahtah datne vuartasjidh mejtie staaran sjïdti?</xt>
+               <x>Kan du se over om det ble riktig?</x>
+               <xt>Maahtah datne vuartasjidh mejtie staaran sjïdti?</xt>
             </xg>
          </tg>
       </mg>
@@ -20125,28 +20125,22 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">tro på</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="I" p3p="jaaka" pos="V" stem="2syll" umlaut="full" vow="x">jaehkedh</t>
-            <xg>
-               <x>Jeg tror på Gud. Jeg tror det. Jeg tror da på ham.</x>
-               <xt>Manne Jupmielasse jaahkam. Manne dam jaahkam. Nov gujht manne dïsse jaahkam.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">tro</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <t class="I" p3p="jaaka" pos="V" stem="2syll" umlaut="full" vow="x">jaehkedh</t>
             <xg>
-               <x>Jeg tror på Gud. Jeg tror det. Jeg tror da på ham.</x>
-               <xt>Manne Jupmielasse jaahkam. Manne dam jaahkam. Nov gujht manne dïsse jaahkam.</xt>
+               <x>Jeg tror på Gud.</x>
+               <xt>Manne Jupmielasse jaahkam.</xt>
+            </xg>
+            <xg>
+               <x>Jeg tror det.</x>
+               <xt>Manne dam jaahkam.</xt>
+            </xg>
+            <xg>
+               <x>Jeg tror da på ham.</x>
+               <xt>Nov gujht manne dïsse jaahkam.</xt>
             </xg>
          </tg>
       </mg>
@@ -20172,8 +20166,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t class="IV" p3p="veanhta" pos="V" stem="2syll" umlaut="full" vow="x">vïenhtedh</t>
             <xg>
-               <x>Hva tror du? ta stilling til noe</x>
-               <xt>Maam vïenhth? jiehtedh maam veanhta</xt>
+               <x>Hva tror du?</x>
+               <xt>Maam vïenhth?</xt>
             </xg>
          </tg>
       </mg>
@@ -20191,8 +20185,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t class="I" p3p="jaaka" pos="V" stem="2syll" umlaut="full" vow="x">jaehkedh</t>
             <xg>
-               <x>Jeg tror på Gud. Jeg tror det. Jeg tror da på ham.</x>
-               <xt>Manne Jupmielasse jaahkam. Manne dam jaahkam. Nov gujht manne dïsse jaahkam.</xt>
+               <x>Jeg liter da på ham.</x>
+               <xt>Nov gujht manne dïsse jaahkam.</xt>
             </xg>
          </tg>
       </mg>
@@ -20604,8 +20598,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t class="I" p3p="jeahta" pos="V" stem="2syll" umlaut="full" vow="x">jiehtedh</t>
             <xg>
-               <x>Du må ikke si slikt i barnas påhør. å uttale et språk øve verbal innflytelse ta stilling til noe</x>
-               <xt>Ih åadtjoeh maanaj govledæjjesne nimhtie jiehtedh. gïelem jiehtedh maam gïese jiehtedh jiehtedh guktie vuajna</xt>
+               <x>Du må ikke si slikt i barnas påhør.</x>
+               <xt>Ih åadtjoeh maanaj govledæjjesne nimhtie jiehtedh.</xt>
             </xg>
          </tg>
       </mg>
@@ -20622,10 +20616,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t class="I" p3p="jeahta" pos="V" stem="2syll" umlaut="full" vow="x">jiehtedh</t>
-            <xg>
-               <x>Du må ikke si slikt i barnas påhør. å uttale et språk øve verbal innflytelse ta stilling til noe</x>
-               <xt>Ih åadtjoeh maanaj govledæjjesne nimhtie jiehtedh. gïelem jiehtedh maam gïese jiehtedh jiehtedh guktie vuajna</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -21680,8 +21670,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t diph="yes" pos="V" stem="3syll">nænnoestidh</t>
             <xg>
-               <x>Laara kom og bekreftet det. Du må forsterke denne sømmen.</x>
-               <xt>Laara bööti nænnoesti dam. Datne tjoerh dam saejmiem nænnoestidh.</xt>
+               <x>Laara kom og bekreftet det.</x>
+               <xt>Laara bööti nænnoesti dam.</xt>
             </xg>
          </tg>
       </mg>
@@ -23913,10 +23903,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t class="I" p3p="luajhta" pos="V" stem="2syll" umlaut="full" vow="x">luejhtedh</t>
-            <xg>
-               <x>Slipp! la gå til spille tilgi</x>
-               <xt>Luejhtieh! deajese luejhtedh aanteges luejhtedh</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -24718,20 +24704,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="V" stem="3syll">saarnahtidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">ha ferdigheter til</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="I" p3p="maahta" pos="V" stem="2syll" umlaut="full" vow="x">maehtedh</t>
-            <xg>
-               <x>Jeg kan komme. Det kan du da ikke gjøre. Kanskje det. Jeg kan norsk.</x>
-               <xt>Manne maahtam båetedh. Ih maehtieh dam darjodh. Jaa, maahta sån. Manne daaroengïelem maahtam.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -26042,9 +26014,14 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t class="VI" p3p="tuhtjie" pos="V" stem="2syll">tuhtjedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t class="I" p3p="åtna" pos="V" stem="2syll" umlaut="full" vow="x">utnedh</t>
             <xg>
-               <x>Jeg synes det er artig! Jeg synes det er spennende å skulle dra til Trondheim.</x>
-               <xt>Manne tuhtjem dïhte luste! Tuhtjem gieltegs Tråantese fealadidh.</xt>
+               <x>Ikke alle mener at det er nødvendig.</x>
+               <xt>Eah sih gaajhkesh utnieh dïhte lea daerpies.</xt>
             </xg>
          </tg>
       </mg>
@@ -26052,25 +26029,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t class="I" p3p="åtna" pos="V" stem="2syll" umlaut="full" vow="x">utnedh</t>
             <xg>
-               <x>Ikke alle synes det er nødvendig. som du synes passer Jeg synes at den er så stor. Og jeg som synes at du er så stor og sterk.</x>
-               <xt>Eah sih gaajhkesh utnieh dïhte lea daerpies. mejtie åtnah dïhte sjeahta Manne åtnam dïhte dan stoerre. Manne jis utnieminie, datne dan stoerre, veaksehke.</xt>
+               <x>Jeg mener at den er så stor.</x>
+               <xt>Manne åtnam dïhte dan stoerre.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="I" p3p="åtna" pos="V" stem="2syll" umlaut="full" vow="x">utnedh</t>
             <xg>
-               <x>Jeg synes at den er så stor. Og jeg som synes at du er så stor og sterk.</x>
-               <xt>Manne åtnam dïhte dan stoerre. Manne jis utnieminie, datne dan stoerre, veaksehke.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="I" p3p="åtna" pos="V" stem="2syll" umlaut="full" vow="x">utnedh</t>
-            <xg>
-               <x>og jeg som synes at du er så stor og sterk.</x>
+               <x>Og jeg som mener at du er så stor og sterk.</x>
                <xt>Manne jis utnieminie, datne dan stoerre, veaksehke.</xt>
             </xg>
          </tg>
@@ -26163,8 +26126,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t class="IV" p3p="mænna" pos="V" stem="2syll" umlaut="full" vow="x">mïnnedh</t>
             <xg>
-               <x>Jeg skal ta en tur dit. ta en tur i butikken</x>
-               <xt>Manne edtjem dahkoe mïnnedh. bovresne mïnnedh</xt>
+               <x>Jeg skal ta en tur dit.</x>
+               <xt>Manne edtjem dahkoe mïnnedh.</xt>
+            </xg>
+            <xg>
+               <x>ta en tur i butikken</x>
+               <xt>bovresne mïnnedh</xt>
             </xg>
          </tg>
       </mg>
@@ -28163,8 +28130,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t diph="yes" pos="V" stem="3syll">nænnoestidh</t>
             <xg>
-               <x>Laara kom og bekreftet det. Du må forsterke denne sømmen.</x>
-               <xt>Laara bööti nænnoesti dam. Datne tjoerh dam saejmiem nænnoestidh.</xt>
+               <x>Du må forsterke denne sømmen.</x>
+               <xt>Datne tjoerh dam saejmiem nænnoestidh.</xt>
             </xg>
          </tg>
       </mg>
@@ -28176,10 +28143,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t diph="yes" pos="V" stem="3syll">nænnoestidh</t>
-            <xg>
-               <x>Laara kom og bekreftet det. Du må forsterke denne sømmen.</x>
-               <xt>Laara bööti nænnoesti dam. Datne tjoerh dam saejmiem nænnoestidh.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -31383,15 +31346,11 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t class="III" minip="notSg1" pos="V" stem="2syll">skearkedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t class="VI" minip="notSg1" p3p="skeerkie" pos="V" stem="2syll">skeerkedh</t>
+            <t class="III" minip="notSg1" pos="V" stem="2syll">skearkedh</t>
             <xg>
-               <x>Endelig oppfattet han poenget. Når det klarner og skodda forsvinner, begynner vi reinsamlinga.</x>
-               <xt>Maajetjh skeerki. Gosse skeerkie dellie aelkebe tjöönghkedh.</xt>
+               <x>Når det klarner og skodda forsvinner, begynner vi reinsamlinga.</x>
+               <xt>Gosse skeerkie dellie aelkebe tjöönghkedh.</xt>
             </xg>
          </tg>
       </mg>
@@ -35385,26 +35344,14 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="V" stem="3syll">tsyögkegidh</t>
-            <xg>
-               <x>De satte seg i mot det da. De bruker å motsette seg alt! Hundens hår reiser seg når den blir sint.</x>
-               <xt>Dah gujht dan aejkien tsyögkegin! Dah hov gaajhkese pruvhkieh tsyögkegidh! Bïenjen goelkh tsyögkegieh gosse måarahtåvva.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <re>om hår</re>
             <t pos="V" stem="3syll">tsyögkesidh</t>
+            <t pos="V" stem="3syll">tsyögkegidh</t>
+            <t pos="V" stem="3syll">tsöögkegidh</t>
             <xg>
                <x>Hundens hår reiser seg når den blir sint.</x>
                <xt>Bïenjen goelkh tsyögkesieh gosse måarahtåvva.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V" stem="3syll">tsöögkegidh</t>
          </tg>
       </mg>
    </e>
@@ -36048,28 +35995,28 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">stanse opp litt</l>
+         <l pos="Phrase">stanse</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <t pos="V" stem="3syll">tjöödtjehtidh</t>
             <xg>
-               <x>Bussen stanset ved stasjonen. Stopp opp foran døra!</x>
-               <xt>Busse stasjovnese tjöödtjehti. Tjöödtjehth oksen uvte!</xt>
+               <x>Bussen stanset ved stasjonen.</x>
+               <xt>Busse stasjovnese tjöödtjehti.</xt>
             </xg>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">stoppe opp litt</l>
-      </lg>
       <mg>
          <tg xml:lang="sma">
+	         <re>stanse litt</re>
             <t p3p="tjöödtjeste" pos="V" stem="3syll">tjöödtjestidh</t>
             <xg>
-               <x>Jeg stopper opp her. Skal vi stoppe på Snåsa?</x>
-               <xt>Manne daase tjöödtjestem. Edtjebe Snåasesne tjöödtjestidh?</xt>
+               <x>Jeg stanser her.</x>
+               <xt>Manne daase tjöödtjestem.</xt>
+            </xg>
+            <xg>
+               <x>Skal vi stanse på Snåsa?</x>
+               <xt>Edtjebe Snåasesne tjöödtjestidh?</xt>
             </xg>
          </tg>
       </mg>
@@ -36080,30 +36027,30 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <t pos="V" stem="3syll">tjöödtjehtidh</t>
+            <xg>
+               <x>Bussen stoppet ved stasjonen.</x>
+               <xt>Busse stasjovnese tjöödtjehti.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>stoppe litt</re>
             <t p3p="tjöödtjeste" pos="V" stem="3syll">tjöödtjestidh</t>
             <xg>
-               <x>Jeg stopper opp her. Skal vi stoppe på Snåsa?</x>
-               <xt>Manne daase tjöödtjestem. Edtjebe Snåasesne tjöödtjestidh?</xt>
+               <x>Jeg stopper her.</x>
+               <xt>Manne daase tjöödtjestem.</xt>
+            </xg>
+            <xg>
+               <x>Skal vi stoppe på Snåsa?</x>
+               <xt>Edtjebe Snåasesne tjöödtjestidh?</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
             <t pos="V" stem="3syll">nelhkiehtidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">stanse litt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t p3p="tjöödtjeste" pos="V" stem="3syll">tjöödtjestidh</t>
-            <xg>
-               <x>Jeg stopper opp her. Skal vi stoppe på Snåsa?</x>
-               <xt>Manne daase tjöödtjestem. Edtjebe Snåasesne tjöödtjestidh?</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -36871,8 +36818,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t class="VI" p3p="tuhtjie" pos="V" stem="2syll">tuhtjedh</t>
             <xg>
-               <x>Jeg synes det er artig! Jeg synes det er spennende å skulle dra til Trondheim.</x>
-               <xt>Manne tuhtjem dïhte luste lea! Tuhtjem gieltegs edtjem Tråantese fealadidh.</xt>
+               <x>Jeg synes det er artig!</x>
+               <xt>Manne tuhtjem dïhte luste lea!</xt>
+            </xg>
+            <xg>
+               <x>Jeg synes det er spennende å skulle dra til Trondheim.</x>
+               <xt>Tuhtjem gieltegs edtjem Tråantese fealadidh.</xt>
             </xg>
          </tg>
       </mg>
@@ -36989,18 +36940,14 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t p3p="ussjede" pos="V" stem="3syll">ussjedidh</t>
-            <xg>
-               <x>Hva akter du å gjøre? Jeg akter å dra dit.</x>
-               <xt>Maam ussjedh darjodh? Manne ussjedem dahkoe vuelkedh.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t diph="yes" p3p="ussjede" pos="V" stem="3syll">ussjiedidh</t>
             <xg>
-               <x>Jeg akter å dra dit. Hva akter du å gjøre?</x>
-               <xt>Manne ussjedem dahkoe vuelkedh. Maam ussjedh darjodh?</xt>
+               <x>Hva akter du å gjøre?</x>
+               <xt>Maam ussjedh darjodh?</xt>
+            </xg>
+            <xg>
+               <x>Jeg akter å dra dit.</x>
+               <xt>Manne ussjedem dahkoe vuelkedh.</xt>
             </xg>
          </tg>
       </mg>
@@ -37085,8 +37032,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t class="I" p3p="åtna" pos="V" stem="2syll" umlaut="full" vow="x">utnedh</t>
             <xg>
-               <x>Ikke alle synes det er nødvendig. som du synes passer Jeg synes at den er så stor. Og jeg som synes at du er så stor og sterk.</x>
-               <xt>Eah sih gaajhkesh utnieh dïhte lea daerpies. mejtie åtnah dïhte sjeahta Manne åtnam dïhte dan stoerre. Manne jis utnieminie, datne dan stoerre, veaksehke.</xt>
+               <x>Jeg anser den for å være stor.</x>
+               <xt>Manne åtnam dïhte dan stoerre.</xt>
             </xg>
          </tg>
       </mg>
@@ -37525,8 +37472,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t class="I" p3p="vaata" pos="V" stem="2syll" umlaut="full" vow="x">vaetedh</t>
             <xg>
-               <x>Gaupa har tatt en rein. Jeg våger knapt å be om noe godt.</x>
-               <xt>Råate aktem krïevvem vaateme. Jællan jolkem njaelkiem vaetedh.</xt>
+               <x>Gaupa har tatt en rein.</x>
+               <xt>Råate aktem krïevvem vaateme.</xt>
+            </xg>
+            <xg>
+               <x>Jeg våger knapt å be om noe godt.</x>
+               <xt>Jællan jolkem njaelkiem vaetedh.</xt>
             </xg>
          </tg>
       </mg>
@@ -37539,8 +37490,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t class="I" p3p="vaata" pos="V" stem="2syll" umlaut="full" vow="x">vaetedh</t>
             <xg>
-               <x>Gaupa har tatt en rein. Jeg våger knapt å be om noe godt.</x>
-               <xt>Råate aktem krïevvem vaateme. Jællan jolkem njaelkiem vaetedh.</xt>
+               <x>Gaupa har tatt en rein.</x>
+               <xt>Råate aktem krïevvem vaateme.</xt>
+            </xg>
+            <xg>
+               <x>Jeg våger knapt å be om noe godt.</x>
+               <xt>Jællan jolkem njaelkiem vaetedh.</xt>
             </xg>
          </tg>
       </mg>
@@ -38861,28 +38816,18 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t class="I" p3p="vuajna" pos="V" stem="2syll" umlaut="full" vow="x">vuejnedh</t>
             <xg>
-               <x>Jeg ser bestemor. Se der!</x>
-               <xt>Manne aahkam vuajnam. Vuajnah!</xt>
+               <x>Jeg ser bestemor.</x>
+               <xt>Manne aahkam vuajnam.</xt>
+            </xg>
+            <xg>
+               <x>Se der!</x>
+               <xt>Vuajnah!</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
             <t pos="V" stem="3syll">vuejniestidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">få oversikt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="I" p3p="vuajna" pos="V" stem="2syll" umlaut="full" vow="x">vuejnedh</t>
-            <xg>
-               <x>Se der! Jeg ser bestemor.</x>
-               <xt>Vuajnah! Manne aahkam vuajnam.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -39438,8 +39383,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t p3p="vïjlele" pos="V" stem="3syll">vïjlelidh</t>
             <xg>
-               <x>Se til den andre siden. Ser på meg og sier ...</x>
-               <xt>Mubpelen vïjlelidh. Vïjlele munnjien jïh jeahta ...</xt>
+               <x>Kaste et blikk til den andre siden.</x>
+               <xt>Mubpelen vïjlelidh.</xt>
+            </xg>
+            <xg>
+               <x>Han kaster et blikk på meg.</x>
+               <xt>Vïjlele munnjien.</xt>
             </xg>
          </tg>
       </mg>
@@ -39456,10 +39405,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t p3p="vïjlele" pos="V" stem="3syll">vïjlelidh</t>
-            <xg>
-               <x>Se til den andre siden. Ser på meg og sier ...</x>
-               <xt>Mubpelen vïjlelidh. Vïjlele munnjien jïh jeahta ...</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -39619,8 +39564,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t p3p="åahpene" pos="V" stem="3syll">åahpenidh</t>
             <xg>
-               <x>Det er så artig å få bli kjent med deg! Jeg må bare få gjøre meg kjent med området!</x>
-               <xt>Dan luste åadtjodh datnine åahpenidh! Tjoeverem barre åadtjodh dajvine åahpenidh!</xt>
+               <x>Det er så artig å få bli kjent med deg.</x>
+               <xt>Dan luste åadtjodh datnine åahpenidh.</xt>
             </xg>
          </tg>
       </mg>
@@ -39633,8 +39578,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t p3p="åahpene" pos="V" stem="3syll">åahpenidh</t>
             <xg>
-               <x>Det er så artig å få bli kjent med deg! Jeg må bare få gjøre meg kjent med området!</x>
-               <xt>Dan luste åadtjodh datnine åahpenidh! Tjoeverem barre åadtjodh dajvine åahpenidh!</xt>
+               <x>Jeg må bare få gjøre meg kjent med området.</x>
+               <xt>Tjoeverem barre åadtjodh dajvine åahpenidh.</xt>
             </xg>
          </tg>
       </mg>
@@ -58868,8 +58813,16 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t mod="ind" nr="Sg" pos="V">leah</t>
             <xg>
-               <x>Er du i byen? De er i Røros. Marit er ikke her.</x>
-               <xt>Datne leah staaresne? Dah leah Plassjesne. Ij leah Meerje daesnie.</xt>
+               <x>Er du i byen?</x>
+               <xt>Datne leah staaresne?</xt>
+            </xg>
+            <xg>
+               <x>De er i Røros.</x>
+               <xt>Dah leah Plassjesne.</xt>
+            </xg>
+            <xg>
+               <x>Marit er ikke her.</x>
+               <xt>Ij leah Meerje daesnie.</xt>
             </xg>
          </tg>
       </mg>
@@ -58936,8 +58889,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="V">lim</t>
             <xg>
-               <x>Her er Per. Jeg var sammen med ham i Trondheim i høst.</x>
-               <xt>Daate lea Piere. Dejnie ektesne lim Tråantesne dan tjaktjen.</xt>
+               <x>Jeg var sammen med ham i Trondheim i høst.</x>
+               <xt>Dejnie ektesne lim Tråantesne dan tjaktjen.</xt>
             </xg>
          </tg>
       </mg>
