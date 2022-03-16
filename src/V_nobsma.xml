@@ -6056,8 +6056,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t class="IV" p3p="beaja" pos="V" stem="2syll" umlaut="full" vow="x">bïejedh</t>
             <xg>
-               <x>Legg boka på bordet! lage bål/ild. slå på lyset</x>
-               <xt>Bïejh gærjam buertien nille! dållem bïejedh tjoevkesem bïejedh</xt>
+               <x>Legg boka på bordet!</x>
+               <xt>Bïejh gærjam buertien nille!</xt>
             </xg>
          </tg>
       </mg>
@@ -6075,8 +6075,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t class="IV" p3p="beaja" pos="V" stem="2syll" umlaut="full" vow="x">bïejedh</t>
             <xg>
-               <x>Legg boka på bordet! lage bål/ild. slå på lyset</x>
-               <xt>Bïejh gærjam buertien nille! dållem bïejedh tjoevkesem bïejedh</xt>
+               <x>Sett boka på bordet!</x>
+               <xt>Bïejh gærjam buertien nille!</xt>
             </xg>
          </tg>
       </mg>
@@ -22987,15 +22987,15 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="V" stem="3syll">lahkaskidh</t>
+            <xg>
+               <x>Vi skal lykkes.</x>
+               <xt>Mijjieh edtjebe lahkaskidh.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
             <t diph="yes" p3p="lahkeske" pos="V" stem="3syll">læhkoeskidh</t>
-            <xg>
-               <x>Vi skal lykkes / vi skal ha hell med oss.</x>
-               <xt>Mijjieh edtjebe lahkaskidh.</xt>
-            </xg>
          </tg>
       </mg>
       <mg>
@@ -24311,8 +24311,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t diph="yes" p3p="lahkeske" pos="V" stem="3syll">læhkoeskidh</t>
             <xg>
-               <x>Vi skal lykkes / vi skal ha hell med oss.</x>
-               <xt>Mijjieh edtjebe lahkaskidh.</xt>
+               <x>Vi skal ha hell med oss.</x>
+               <xt>Mijjieh edtjebe læhkoeskidh.</xt>
             </xg>
          </tg>
       </mg>
@@ -31189,8 +31189,16 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t class="IV" p3p="sjædta" pos="V" stem="2syll" umlaut="full" vow="x">sjïdtedh</t>
             <xg>
-               <x>ta slutt, bli uten Slik vil det bli. Jeg skal bli bestemor. Hvor ble Laara av?</x>
-               <xt>namhtah sjïdtedh Nimhtie sæjhta sjïdtedh. Manne edtjem aahkine sjïdtedh. Gåabph Laara sjïdti?</xt>
+               <x>Slik vil det bli.</x>
+               <xt>Nimhtie sæjhta sjïdtedh.</xt>
+            </xg>
+            <xg>
+               <x>Jeg skal bli bestemor.</x>
+               <xt>Manne edtjem aahkine sjïdtedh.</xt>
+            </xg>
+            <xg>
+               <x>Hvor ble Laara av?</x>
+               <xt>Gåabph Laara sjïdti?</xt>
             </xg>
          </tg>
       </mg>
@@ -37813,8 +37821,8 @@ For the full license text, see the link above.</lic>
                <xt>Guktie dov nomme?</xt>
             </xg>
             <xg>
-               <x>Hans/hennes navn er ...</x>
-               <xt>Dan nomme ...</xt>
+               <x>Hans navn er Laara.</x>
+               <xt>Dan nomme Laara.</xt>
             </xg>
          </tg>
       </mg>
