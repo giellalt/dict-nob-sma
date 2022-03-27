@@ -28,6 +28,75 @@ For the full license text, see the link above.</lic>
    </lics>
    <e>
       <lg>
+         <l pos="Interj">hei</l>
+      </lg>
+      <mg>
+         <l_ref>god dag_i</l_ref>
+         <tg xml:lang="sma">
+            <re>når man håndhilser</re>
+            <t pos="Interj">buaregh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Interj">hejja</t>
+         </tg>
+      </mg>
+  </e>
+   <e>
+      <lg>
+         <l pos="Interj">god dag</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Interj">buerie biejjie</t>
+         </tg>
+      </mg>
+       <mg>
+         <tg xml:lang="sma">
+            <re>som svar på hilsning</re>
+            <t pos="Interj">buerie buerie</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>når man håndhilser</re>
+            <t pos="Interj">buaregh</t>
+         </tg>
+      </mg>
+  </e>
+   <e>
+      <lg>
+         <l pos="Interj">god morgen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Interj">buerie aerede</t>
+         </tg>
+      </mg>
+  </e>
+   <e>
+      <lg>
+         <l pos="Interj">god kveld</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Interj">buerie iehkede</t>
+         </tg>
+      </mg>
+  </e>
+   <e>
+      <lg>
+         <l pos="Interj">god natt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Interj">buerie jïjje</t>
+         </tg>
+      </mg>
+  </e>
+   <e>
+      <lg>
          <l pos="Phrase">ha deg vekk</l>
       </lg>
       <mg>
