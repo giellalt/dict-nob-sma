@@ -3562,20 +3562,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">skjemme ut</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="I" pos="V" stem="2syll" umlaut="full" vow="x">biejstedh</t>
-            <xg>
-               <x>Isskaren etter tøvær ødelegger beitet.</x>
-               <xt>Radte gåatomem beajsta.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">vasse</l>
       </lg>
       <mg>
@@ -16470,17 +16456,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">ligge sammenkrøllet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <re>om dyr</re>
-            <t minip="notSg1" p3p="guarjesje" pos="V" stem="3syll">guarjasjidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Phrase">begynne å forstå som smått</l>
       </lg>
       <mg>
@@ -17943,24 +17918,102 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t p3p="gællesje" pos="V" stem="3syll">gællasjidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="V" stem="3syll">gaajranidh</t>
+            <t p3p="gællesje" pos="V" stem="3syll">gællasjidh</t>
+            <xg>
+               <x>Jentungen ligger på et pledd.</x>
+               <xt>Nïejtetje jievegen nelnie gællesje.</xt>
+            </xg>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">ligge henslengt</l>
-      </lg>
       <mg>
          <tg xml:lang="sma">
+	         <re>ligge henslengt</re>
             <t p3p="gællesje" pos="V" stem="3syll">gællasjidh</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>ligge på siden</re>
+            <t pos="V" stem="3syll">vealasjidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>ligge sammenkrøket</re>
+            <t p3p="kråavhkesje" pos="V" stem="3syll">kråavhkasjidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>om dyr: ligge sammenkrøllet</re>
+            <t minip="notSg1" p3p="guarjesje" pos="V" stem="3syll">guarjasjidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>ligge på en bestemt plass</re>
+            <t p3p="kråavhkesje" pos="V" stem="3syll">kråavhkasjidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>hvile liggende</re>
+            <t pos="V" stem="3syll">plaahkasjidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>om klovdyr og hovdyr: hvile liggende</re>
+            <t minip="notSg1" p3p="lovvesje" pos="V" stem="3syll">lovvesjidh</t>
+            <t pos="V" stem="3syll">lyvvesjidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>ligge og velte seg</re>
+            <t pos="V" stem="3syll">vïevtjedidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>ligge og late seg</re>
+            <t class="IV" pos="V" umlaut="D">gïllerdalledh</t>
+            <t pos="V" stem="3syll">gaajrasjidh</t>
+            <t pos="V" stem="3syll">reanesjidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>ligge med strake føtter</re>
+            <t pos="V" stem="3syll">skællasjidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+         <re>ligge og døse</re>
+            <t pos="V" stem="3syll">savsesjidh</t>
+            <t pos="V" stem="3syll">såvsasjidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+         <re>ligge på lur</re>
+            <t pos="V" stem="3syll">njaakedidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+         <re>ligge full</re>
+            <t pos="V" stem="3syll">gaajrasjidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+         <re>ligge med ei kvinne</re>
+            <t pos="V" stem="3syll">åarehtjidh</t>
+         </tg>
+      </mg> 
    </e>
    <e>
       <lg>
@@ -22250,27 +22303,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">ligge sammenkrøke</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t p3p="kråavhkesje" pos="V" stem="3syll">kråavhkasjidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Phrase">sitte sammenkrøket</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t p3p="kråavhkesje" pos="V" stem="3syll">kråavhkasjidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">ligge på en bestemt plass</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -23722,28 +23755,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">ligge og hvile</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <re>om klovdyr</re>
-            <t minip="notSg1" p3p="lovvesje" pos="V" stem="3syll">lovvesjidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <re>om kløvdyr og hovdyr</re>
-            <t pos="V" stem="3syll">lyvvesjidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V" stem="3syll">plaahkasjidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Phrase">gå ned</l>
       </lg>
       <mg>
@@ -24290,21 +24301,26 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t p3p="lïegkede" pos="V" stem="3syll">lïegkedidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="V" stem="3syll">lïgkedidh</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">hvile litt</l>
-      </lg>
       <mg>
          <tg xml:lang="sma">
+	         <re>hvile litt</re>
             <t p3p="lïegkeste" pos="V" stem="3syll">lïegkestidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>hvile liggende</re>
+            <t pos="V" stem="3syll">plaahkasjidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>om klovdyr og hovdyr: hvile liggende</re>
+            <t minip="notSg1" p3p="lovvesje" pos="V" stem="3syll">lovvesjidh</t>
+            <t pos="V" stem="3syll">lyvvesjidh</t>
          </tg>
       </mg>
    </e>
@@ -26708,16 +26724,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t class="IV" p3p="njaaka" pos="V" stem="2syll" vow="aa">njaakedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">ligge på lur</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V" stem="3syll">njaakedidh</t>
          </tg>
       </mg>
    </e>
@@ -31182,11 +31188,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="V" stem="3syll">skaamasjidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t p3p="skaamesje" pos="V" stem="3syll">skaamesjidh</t>
+            <t pos="V" stem="3syll">skaamasidh</t>
          </tg>
       </mg>
       <mg>
@@ -31197,11 +31200,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t class="IV" pos="V" umlaut="D">skaamasjadtedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V" stem="3syll">skaamasidh</t>
          </tg>
       </mg>
    </e>
@@ -37501,16 +37499,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">ligge på siden</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V" stem="3syll">vealasjidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Phrase">gjøre seg til venns med igjen</l>
       </lg>
       <mg>
@@ -39260,16 +39248,6 @@ For the full license text, see the link above.</lic>
    <e>
       <lg>
          <l pos="V">sprelle</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V" stem="3syll">vïevtjedidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">ligge og velte seg</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -42584,16 +42562,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="V" stem="3syll">yörhkedidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">la slakterein ligge uslaktet så lenge at den blir ødelagt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="I" pos="V" umlaut="A">åajkaskehtedh</t>
          </tg>
       </mg>
    </e>
@@ -45938,16 +45906,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">ligge og late seg</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="IV" pos="V" umlaut="D">gïllerdalledh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">protestere</l>
       </lg>
       <mg>
@@ -46643,10 +46601,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t class="IV" pos="V" umlaut="D">pleavvastalledh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t class="IV" pos="V" umlaut="D">plievviestalledh</t>
          </tg>
       </mg>
@@ -48275,10 +48229,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t class="VI" pos="V" umlaut="F">geevtedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t class="VI" pos="V" umlaut="F">göövtedh</t>
          </tg>
       </mg>
@@ -52016,31 +51966,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">ligge og dra seg</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V" stem="3syll">gaajrasjidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V" stem="3syll">reanesjidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">ligge full</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V" stem="3syll">gaajrasjidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Phrase">ta på noen skoene</l>
       </lg>
       <mg>
@@ -54027,6 +53952,13 @@ For the full license text, see the link above.</lic>
             <t pos="V" stem="3syll">ovredidh</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sma">
+         <re>ligge og døse</re>
+            <t pos="V" stem="3syll">savsesjidh</t>
+            <t pos="V" stem="3syll">såvsasjidh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -55095,16 +55027,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">ligge med strake føtter</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V" stem="3syll">skællasjidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V" re="uten skor og bukser">sitte naken</l>
       </lg>
       <mg>
@@ -55810,21 +55732,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="V" stem="3syll">sarvestidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">ligge og døse</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V" stem="3syll">savsesjidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V" stem="3syll">såvsasjidh</t>
          </tg>
       </mg>
    </e>
@@ -58313,16 +58220,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="V" stem="3syll">åananidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">ligge med ei kvinne</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V" stem="3syll">åarehtjidh</t>
          </tg>
       </mg>
    </e>
