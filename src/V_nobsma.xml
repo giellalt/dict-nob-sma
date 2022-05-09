@@ -16712,12 +16712,20 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t class="VI" p3p="gujrie" pos="V" stem="2syll">gujredh</t>
+            <t diph="yes" pos="V" stem="3syll">ujkierdidh</t>
+            <xg>
+               <x>Ulven uler.</x>
+               <xt>Vaejsjie ujkerdeminie.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t diph="yes" pos="V" stem="3syll">ujkierdidh</t>
+            <t class="VI" p3p="gujrie" pos="V" stem="2syll">gujredh</t>
+            <xg>
+               <x>Hunden småpistrer og uler.</x>
+               <xt>Bïenje gujreminie.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -16738,32 +16746,77 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t class="VI" p3p="gurkie" pos="V" stem="2syll">gurhkedh</t>
+            <xg>
+               <x>Hell i litt te til meg også!</x>
+               <xt>Gurhkh munnjien aaj löövjem!</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t class="I" pos="V" stem="2syll" umlaut="full" vow="x">liebnedh</t>
+	        <re>Ved høflighet og forsiktighet</re>
+            <t class="VI" p3p="gurkie" pos="V" stem="2syll">gurhkestidh</t>
+            <xg>
+               <x>Heller du som snarest litt kaffe i min kopp også?</x>
+               <xt>Dagke munnjien aaj prïhtjegijstie gurhkesth?</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="V" stem="3syll">furpiedidh</t>
+            <t class="I" pos="V" stem="2syll" umlaut="full" vow="x">njööredh</t>
+            <xg>
+               <x>Hell i litt te til meg også!</x>
+               <xt>Njöörh munnjien aaj löövjem!</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="V" stem="3syll">sleebpedh</t>
+            <xg>
+               <x>Slå ut det grisvannet mellom de steinene der!</x>
+               <xt>Sleebph dam sorhpetjaetsiem duej gierkiej gaskese!</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	        <re>Som fort og snarest</re>
+            <t pos="V" stem="3syll">sleebpestidh</t>
+            <xg>
+               <x>Det slo inn litt sjøvann i båten!</x>
+               <xt>Sleebpesti gujhth tjaetsiem vïnhtsen sïjse!</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	        <re>helle ut flere ganger; slå inn om bølger</re>
+            <t pos="V" stem="3syll">sleabpodh</t>
+            <xg>
+               <x>Det slo inn bølger i båten!</x>
+               <xt>Vïnhtsen sïjse sleabpoejin!</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
             <t pos="V" stem="3syll">haallasjidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V" stem="3syll">haalledidh</t>
+            <xg>
+               <x>Her heller gulvet.</x>
+               <xt>Daagkoe guelpie haallesje.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
             <re>om terreng</re>
             <t pos="V" stem="3syll">heavvalgidh</t>
+            <xg>
+               <x>Der omkring heller terrenget.</x>
+               <xt>Doegkoe heavvelge.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -16774,21 +16827,24 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t class="VI" p3p="gurkie" pos="V" stem="2syll">gurhkedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="I" pos="V" stem="2syll" umlaut="full" vow="x">liebnedh</t>
+            <xg>
+               <x>Hell i te til meg også!</x>
+               <xt>Gurhkh munnjien aaj löövjem!</xt>
+            </xg>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">helle i litt som snarest</l>
+         <l pos="Phrase">fylle i litt som snarest</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <t diph="yes" p3p="gurkeste" pos="V" stem="3syll">gurhkestidh</t>
+            <xg>
+               <x>Fyller du som snarest litt kaffe i min kopp også?</x>
+               <xt>Dagke munnjien aaj prïhtjegijstie gurhkesth?</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -17904,11 +17960,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="V" stem="3syll">gaajranidh</t>
-            <t p3p="gællesje" pos="V" stem="3syll">gællasjidh</t>
+            <t p3p="gællesje" pos="V" stem="3syll">vealasjidh</t>
             <xg>
-               <x>Jentungen ligger på et pledd.</x>
-               <xt>Nïejtetje jievegen nelnie gællesje.</xt>
+               <x>Jentungen ligger på et reinskinn.</x>
+               <xt>Nïejtetje dueljien nelnie vealesje.</xt>
             </xg>
          </tg>
       </mg>
@@ -17928,12 +17983,20 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <re>ligge sammenkrøket</re>
             <t p3p="kråavhkesje" pos="V" stem="3syll">kråavhkasjidh</t>
+            <xg>
+               <x>Manne dan tjööjjeste, guktie kråavhkesjem.</x>
+               <xt>Jeg har så vondt i magen, at jeg ligger sammenkrøket.</xt>
+           </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <re>om dyr: ligge sammenkrøllet</re>
+            <re>om klodyr: ligge sammenkrøllet</re>
             <t minip="notSg1" p3p="guarjesje" pos="V" stem="3syll">guarjasjidh</t>
+            <xg>
+               <x>Hunden ligger under senga.</x>
+               <xt>Bïenje seangkoen nuelesne guarjesje.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -17953,12 +18016,20 @@ For the full license text, see the link above.</lic>
             <re>om klovdyr og hovdyr: hvile liggende</re>
             <t minip="notSg1" p3p="lovvesje" pos="V" stem="3syll">lovvesjidh</t>
             <t pos="V" stem="3syll">lyvvesjidh</t>
+            <xg>
+               <x>Reinen ligger på den bakken.</x>
+               <xt>Bovtsh deavan nelnie lovvesjeminie.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
             <re>ligge og velte seg</re>
             <t pos="V" stem="3syll">vïevtjedidh</t>
+            <xg>
+               <x>Fisken ligger og velter seg i bøtta.</x>
+               <xt>Guelieh bæhtoen sisnie vïevtjedeminie.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -17978,8 +18049,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
          <re>ligge og døse</re>
-            <t pos="V" stem="3syll">savsesjidh</t>
             <t pos="V" stem="3syll">såvsasjidh</t>
+            <t pos="V" stem="3syll">savsesjidh</t>
+            <xg>
+               <x>Ligge og døse i solskinnet.</x>
+               <xt>Biejjh-guakoen såvsasjidh.</xt> 
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -18099,7 +18174,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">vikle opp</l>
+         <l pos="Phrase">vikle</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -18109,6 +18184,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t class="IV" p3p="geasa" pos="V" stem="2syll" umlaut="full" vow="x">gïesedh</t>
+            <xg>
+               <x>Vikle skobånd rundt leggene.</x>
+               <xt>Voedtegh gïesedh.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -27653,8 +27732,26 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <t class="IV" pos="V" umlaut="D">bovredh</t>
+            <xg>
+               <x>Spyflua surrer.</x>
+               <xt>Tjovrege båvra.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
             <re>om klegg</re>
             <t pos="V" stem="3syll">såårredidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t p3p="nosserde" pos="V" stem="3syll">gïesedh</t>
+            <xg>
+               <x>Surre skobånd rundt leggene.</x>
+               <xt>Voedtegh gïesedh.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -52950,6 +53047,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="V" stem="3syll">hugkerdidh</t>
+            <xg>
+               <x>Hesten knegger.</x>
+               <xt>Hierkie hugkerde.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
