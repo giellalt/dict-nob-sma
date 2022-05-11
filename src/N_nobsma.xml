@@ -9847,7 +9847,7 @@ For the full license text, see the link above.</lic>
             <t pos="N" soggi="e" stem="2syll">sjuvvesje</t>
             <xg>
                <x>Har du hørt dødsbudskapet?</x>
-               <xt>dam sjuvvesjem leah datne govleme?</xt>
+               <xt>Datne sjuvvesjem govleme?</xt>
             </xg>
          </tg>
       </mg>
@@ -10941,11 +10941,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" soggi="e" stem="2syll">frïere</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N" soggi="ie" stem="2syll">raeffie</t>
          </tg>
       </mg>
@@ -10959,11 +10954,6 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="N">ro</l>
       </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N" soggi="e" stem="2syll">frïere</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" soggi="ie" stem="2syll">raeffie</t>
@@ -11496,6 +11486,36 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t margo="e" pos="N" soggi="e" stem="3syll">gaamege</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	     <re>vintersko</re>
+            <t margo="e" pos="N" soggi="e" stem="3syll">daelviegaamege</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	     <re>sommersko</re>
+            <t margo="e" pos="N" soggi="e" stem="3syll">giesiegaamege</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	     <re>fotballsko</re>
+            <t margo="e" pos="N" soggi="e" stem="3syll">tjiektjemegaamege</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	     <re>skisko</re>
+            <t margo="e" pos="N" soggi="e" stem="3syll">tjoejkemegaamege</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	     <re>hestesko, sko til hesten</re>
+            <t margo="e" pos="N" soggi="e" stem="3syll">skoeve</t>
          </tg>
       </mg>
    </e>
@@ -23952,6 +23972,30 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" soggi="ie" stem="2syll">nejpie</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	     <re>gammel, sløv kniv</re>
+            <t pos="N" soggi="ie" stem="2syll">tsööre</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	     <re>liten kniv</re>
+            <t pos="N" soggi="ie" stem="2syll">tsurre</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	     <re>bordkniv</re>
+            <t pos="N" soggi="ie" stem="2syll">jåannga</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	     <re>tollekniv, slaktekniv</re>
+            <t pos="N" soggi="ie" stem="2syll">gulhke</t>
          </tg>
       </mg>
    </e>
