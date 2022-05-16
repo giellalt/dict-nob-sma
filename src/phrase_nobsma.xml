@@ -42,12 +42,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">raavtehtje</t>
+            <t pos="A">raavtehtje</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="3syll">raavteres</t>
+            <t pos="A">raavteres</t>
          </tg>
       </mg>
    </e>
@@ -502,7 +502,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t class="IV" context="3pers" minip="notSg1" p3p="råavka" pos="V" stem="2syll" vow="åa">råavkedh</t>
+            <t class="IV" context="3pers" minip="notSg1" p3p="råavka" pos="V" vow="åa">råavkedh</t>
          </tg>
       </mg>
    </e>

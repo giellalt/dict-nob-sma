@@ -64,7 +64,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Adv" stem="2syll">tjahkan</t>
+            <t pos="Adv">tjahkan</t>
             <xg>
                <x>Bestemor var sittende der på sitt rom.</x>
                <xt>Aahka lij tjahkan dennie sov tjïehtjelisnie.</xt>
@@ -78,12 +78,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Adv" stem="2syll">tjarke</t>
+            <t pos="Adv">tjarke</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A" stem="2syll">tjarki</t>
+            <t pos="A">tjarki</t>
          </tg>
       </mg>
       <mg>
@@ -98,8 +98,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Adv" stem="2syll">tjarke</t>
-            <t pos="Adv" stem="2syll">tjarki</t>
+            <t pos="Adv">tjarke</t>
+            <t pos="Adv">tjarki</t>
             <t pos="Adv">tjamki</t>
             <xg>
                <x>Du må rope kraftig hvis de skal høre deg.</x>
@@ -127,8 +127,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Adv" stem="2syll">tjarke</t>
-            <t pos="A" stem="2syll">tjarki</t>
+            <t pos="Adv">tjarke</t>
+            <t pos="A">tjarki</t>
             <xg>
                <x>Du må rope kraftig hvis de skal høre deg.</x>
                <xt>Datne tjoerh tjarke gæljodh jis dah edtjieh datnem govledh.</xt>
