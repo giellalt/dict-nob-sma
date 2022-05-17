@@ -181,8 +181,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="CS">ihke</t>
             <xg>
-               <x>Fortell at bestemor nettopp har dratt til sykehuset. Takk for at dere hørte på meg og til lykke med seminaret!</x>
-               <xt>Saarnoeh, ihke aahka ieskien skïemtjegåatan vualkeme. Gæjhtoe ihke mannem goltelidh jïh læhkoe seminaarine!</xt>
+               <x>Fortell at bestemor nettopp har dratt til sykehuset.</x>
+               <xt>Saarnoeh, ihke aahka ieskien skïemtjegåatan vualkeme.</xt>
+            </xg>
+            <xg>
+               <x>Takk for at dere hørte på meg og til lykke med seminaret!</x>
+               <xt>Gæjhtoe ihke mannem goltelidh jïh læhkoe seminaarine!</xt>
             </xg>
          </tg>
       </mg>

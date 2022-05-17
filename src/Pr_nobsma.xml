@@ -3304,8 +3304,16 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="Po">åvteste</t>
             <xg>
-               <x>Hvorfor er det så lite mat? Takk for maten! Vil du gå og handle for bestemor? Læjsa kommer i stedet for deg.</x>
-               <xt>Man åvteste dan vaenie beapmoeh? Gudtsien beapmoej åvteste! Sïjhth datne aahkan åvteste mïnnedh åesiestidh? Læjsa dov åvteste båata.</xt>
+               <x>Takk for maten!</x>
+               <xt>Gudtsien beapmoej åvteste!</xt>
+            </xg>
+            <xg>
+               <x>Vil du gå og handle for bestemor?</x>
+               <xt>Sïjhth datne aahkan åvteste mïnnedh åesiestidh?</xt>
+            </xg>
+            <xg>
+               <x>Læjsa kommer i stedet for deg.</x>
+               <xt>Læjsa dov åvteste båata.</xt>
             </xg>
          </tg>
       </mg>
@@ -3369,14 +3377,18 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pr">midt for</l>
+         <l pos="Adv">midt</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <t pos="Pr">gaskoeh</t>
             <xg>
-               <x>Her i dette området er det varmt og godt nå midt på sommeren. Midt i myra er det en kilde med vann.</x>
-               <xt>Daebpene daelie gaskoeh giesien bïjvele njaelkie. Gaskoeh dam plueviem lea aajehjohke.</xt>
+               <x>Her i dette området er det varmt og godt nå midt på sommeren.</x>
+               <xt>Daebpene daelie gaskoeh giesien bïjvele njaelkie.</xt>
+            </xg>
+            <xg>
+               <x>Midt i myra er det en kilde med vann.</x>
+               <xt>Gaskoeh dam plueviem lea aajehjohke.</xt>
             </xg>
          </tg>
       </mg>
@@ -3388,10 +3400,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="Pr">gaskoeh</t>
-            <xg>
-               <x>Her i dette området er det varmt og godt nå midt på sommeren. Midt i myra er det en kilde med vann.</x>
-               <xt>Daebpene daelie gaskoeh giesien bïjvele njaelkie. Gaskoeh dam plueviem lea aajehjohke.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -3457,8 +3465,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="Pr">bïjre</t>
             <xg>
-               <x>Saara gikk rundt huset. Reinen var rundt de gammene.</x>
-               <xt>Saara bïjre dam gåetiem veedtsi. Bovtsh lin bïjre dah gåetieh.</xt>
+               <x>Saara gikk rundt huset.</x>
+               <xt>Saara bïjre dam gåetiem veedtsi.</xt>
+            </xg>
+            <xg>
+               <x>Reinen var rundt de gammene.</x>
+               <xt>Bovtsh lin bïjre dah gåetieh.</xt>
             </xg>
          </tg>
       </mg>

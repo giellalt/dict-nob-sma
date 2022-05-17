@@ -48,16 +48,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="A">forskjellig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Phrase">dom daam</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="A">geografisk</l>
       </lg>
       <mg>
@@ -4063,31 +4053,29 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A">ovmese</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="A">ovmessie</t>
+            <t pos="A">ovmese</t>
             <xg>
-               <x>Det er bra å bruke ulike arbeidsmåter.</x>
+               <x>Det er bra å bruke forskjellige arbeidsmåter.</x>
                <xt>Hijven ovmessie barkoevuekieh utnedh.</xt>
             </xg>
          </tg>
       </mg>
-   </e>
+       <mg>
+         <tg xml:lang="sma">
+            <t pos="Phrase">dom daam</t>
+         </tg>
+      </mg>
+  </e>
    <e>
       <lg>
          <l pos="A">ulik</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <t pos="A">ovmessie</t>
             <t pos="A">ovmese</t>
          </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="A">ovmessie</t>
             <xg>
                <x>Det er bra å bruke ulike arbeidsmåter.</x>
                <xt>Hijven ovmessie barkoevuekieh utnedh.</xt>
@@ -4103,7 +4091,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="A">ovmessie</t>
             <xg>
-               <x>Det er bra å bruke ulike arbeidsmåter.</x>
+               <x>Det er bra å bruke atskillige arbeidsmåter.</x>
                <xt>Hijven ovmessie barkoevuekieh utnedh.</xt>
             </xg>
          </tg>
@@ -6324,16 +6312,6 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="sma">
         <t pos="A">aktengïeleh</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A" src="fad">forskjellig</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sma">
-        <t pos="A">ovmessie</t>
       </tg>
     </mg>
   </e>
