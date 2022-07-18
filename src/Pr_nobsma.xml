@@ -1236,7 +1236,7 @@ For the full license text, see the link above.</lic>
             <t pos="Po">bealesne</t>
             <xg>
                <x>Han er ved siden av meg. Bestemor sitter ved ovnen.</x>
-               <xt>Dïhte mov bealesne lea. Aahka vuebnien bealesne tjahkan.</xt>
+               <xt>Dïhte mov bealesne. Aahka vuebnien bealesne tjahkan.</xt>
             </xg>
          </tg>
       </mg>
@@ -1292,7 +1292,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="Po">bielesne</t>
             <xg>
-               <x>Hvem er ved siden av deg?</x>
+               <x>Hvem er på samme siden som deg?</x>
                <xt>Gie dov bielesne?</xt>
             </xg>
          </tg>
