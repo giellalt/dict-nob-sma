@@ -28,31 +28,6 @@ For the full license text, see the link above.</lic>
    </lics>
    <e>
       <lg>
-         <l pos="Po">uten</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <re>om flere</re>
-            <t pos="Po">bieleli</t>
-            <xg>
-               <x>Jeg klarer meg ikke uten barna mine.</x>
-               <xt>Maanaj bieleli im bearkenh</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-	         <re>om en</re>
-            <t pos="Po">namhtah</t>
-            <xg>
-               <x>Vi er uten mat.</x>
-               <xt>Mijjieh beapmoej namhtah</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Po">hverandre</l>
       </lg>
       <mg>
