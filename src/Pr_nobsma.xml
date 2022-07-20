@@ -3497,5 +3497,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e>
+      <lg>
+         <l pos="Pr">innen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <xg>
+               <x>Vi må gjøre det innen fredag.</x>
+               <xt>Dam tjoeveribie bearjadahkese darjodh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <xhtml:script xmlns:xhtml="http://www.w3.org/1999/xhtml" src="../../scripts/gt_dictionary.js" type="text/javascript"/>
 </r>
