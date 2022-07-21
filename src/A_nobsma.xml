@@ -42,11 +42,42 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om personer</re>
+            <t pos="A">lujjies</t>
+            <xg>
+               <x>lujjies nïejte</x>
+               <xt>ei beskjeden jente</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A">dujmies</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
             <t pos="A">guassastalledh</t>
             <xg>
                <x>Ih daarpesjh mov gaavhtan guassastalledh.</x>
                <xt>Du behøver ikke være beskjeden på grunn av meg.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>om barn og ungdom</re>
+            <t pos="A">dogkestalledh</t>
+            <xg>
+               <x>Nïejtetje jis buertiebealesne dogkestalleminie, ij doesth beapmojste gåajvodh.</x>
+               <xt>Jenta er så beskjeden, hun tør ikke øse av maten.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>om gjester</re>
+            <t pos="A">kruassjasjidh</t>
          </tg>
       </mg>
    </e>
