@@ -95,6 +95,28 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+     <e>
+      <lg>
+         <l pos="A">oppgitt</l>
+      </lg>
+       <mg>
+         <tg xml:lang="sma">
+            <t pos="A">njåajjoeh</t>
+            <t pos="A">njåajjah</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">motløs</l>
+      </lg>
+       <mg>
+         <tg xml:lang="sma">
+            <t pos="A">njåajjoeh</t>
+            <t pos="A">njåajjah</t>
+         </tg>
+      </mg>
+   </e>
    <e>
       <lg>
          <l pos="A">nordisk</l>
@@ -2661,6 +2683,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="A">håjnoes</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A">njåajjoeh</t>
+            <t pos="A">njåajjah</t>
          </tg>
       </mg>
    </e>
