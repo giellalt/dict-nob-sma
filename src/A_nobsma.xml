@@ -38,6 +38,20 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
+         <l pos="A">beskjeden</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A">guassastalledh</t>
+            <xg>
+               <x>Ih daarpesjh mov gaavhtan guassastalledh.</x>
+               <xt>Du behøver ikke være beskjeden på grunn av meg.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="A">vinglende</l>
       </lg>
       <mg>
