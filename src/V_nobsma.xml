@@ -1593,8 +1593,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t class="III" pos="V" umlaut="full" vow="x">guarkedh</t>
             <xg>
-               <x>Manne guarkam.</x>
-               <xt>Jeg forstår det.</xt>
+               <x>Jeg forstår det.</x>
+               <xt>Manne guarkam.</xt>
             </xg>
          </tg>
       </mg>
@@ -15916,10 +15916,6 @@ For the full license text, see the link above.</lic>
    <e>
       <lg>
          <l pos="Phrase">se etter</l>
-            <xg>
-              <x>Jeg skal se etter om hun ennå er der.</x>
-              <xt>Manne edtjem vuartasjidh, mejtie annje desnie lea.</xt>            
-		    </xg>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -15929,6 +15925,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t p3p="vuartesje" pos="V">vuartasjidh</t>
+            <xg>
+              <x>Jeg skal se etter om hun ennå er der.</x>
+              <xt>Manne edtjem vuartasjidh, mejtie annje desnie lea.</xt>            
+		    </xg>
          </tg>
       </mg>
       <mg>
@@ -20881,6 +20881,8 @@ For the full license text, see the link above.</lic>
             <t class="IV" pos="V" umlaut="full" vow="x">joejkedh</t>
          </tg>
       </mg>
+   </e>
+   <e>
       <lg>
          <l pos="V">småjoike</l>
       </lg>
@@ -39989,8 +39991,8 @@ For the full license text, see the link above.</lic>
             <t class="I" pos="V" umlaut="full" vow="x">öörnedidh</t>
          </tg>
          <xg>
-               <x>Gïeh dah jis dam öörnedieh?.</x>
-               <xt>Hvem er det som arrangerer det?</xt>
+               <x>Hvem er det som arrangerer det?</x>
+               <xt>Gïeh dah jis dam öörnedieh?</xt>
          </xg>
       </mg>
    </e>
