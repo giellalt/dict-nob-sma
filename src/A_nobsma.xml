@@ -45,8 +45,8 @@ For the full license text, see the link above.</lic>
             <re>om personer</re>
             <t pos="A">lujjies</t>
             <xg>
-               <x>lujjies nïejte</x>
-               <xt>ei beskjeden jente</xt>
+               <x>ei beskjeden jente</x>
+               <xt>lujjies nïejte</xt>
             </xg>
          </tg>
       </mg>
@@ -59,8 +59,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="A">guassastalledh</t>
             <xg>
-               <x>Ih daarpesjh mov gaavhtan guassastalledh.</x>
-               <xt>Du behøver ikke være beskjeden på grunn av meg.</xt>
+               <x>Du behøver ikke være beskjeden på grunn av meg.</x>
+               <xt>Ih daarpesjh mov gaavhtan guassastalledh.</xt>
             </xg>
          </tg>
       </mg>
@@ -69,8 +69,8 @@ For the full license text, see the link above.</lic>
 	         <re>om barn og ungdom</re>
             <t pos="A">dogkestalledh</t>
             <xg>
-               <x>Nïejtetje jis buertiebealesne dogkestalleminie, idtji doesth beapmojste gåajvodh.</x>
-               <xt>Jenta stod beskjeden ved matbordet, hun torde ikke øse av maten.</xt>
+               <x>Jenta stod beskjeden ved matbordet, hun torde ikke øse av maten.</x>
+               <xt>Nïejtetje jis buertiebealesne dogkestalleminie, idtji doesth beapmojste gåajvodh.</xt>
             </xg>
          </tg>
       </mg>
@@ -363,7 +363,7 @@ For the full license text, see the link above.</lic>
                <xt>Dïhte læhkoeladtje!</xt>
             </xg>
             <xg>
-               <x>heldig menneske</x>
+               <x>et heldig menneske</x>
                <xt>læhkoeladtje almetje</xt>
             </xg>
          </tg>
@@ -770,8 +770,12 @@ For the full license text, see the link above.</lic>
                <xt>Buerie sijjie lea.</xt>
             </xg>
             <xg>
-               <x>bli god Det er godt om plass.</x>
-               <xt>buerine sjïdtedh Buerie sijjie lea.</xt>
+               <x>bli god</x>
+               <xt>buerine sjïdtedh</xt>
+            </xg>
+            <xg>
+               <x>Det er godt om plass.</x>
+               <xt>Buerie sijjie lea.</xt>
             </xg>
          </tg>
       </mg>
@@ -4052,8 +4056,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="A">sjïere</t>
             <xg>
-               <x>særskilt sjanse Det står på særskilt papir.</x>
-               <xt>sjïere nuepie Sjïere paehpierisnie tjåådtje.</xt>
+               <x>en særskilt sjanse</x>
+               <xt>sjïere nuepie</xt>
+            </xg>
+            <xg>
+               <x>Det står på særskilt papir.</x>
+               <xt>Sjïere paehpierisnie tjåådtje.</xt>
             </xg>
          </tg>
       </mg>
