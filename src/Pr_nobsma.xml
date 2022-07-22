@@ -224,8 +224,26 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="Po">luvhtie</t>
             <xg>
-               <x>Hun kommer fra reinhjorden. Når begynner du å gå fra Krïhke?</x>
-               <xt>Båata bovtsi luvhtie. Gåessie Krïhken luvhtie vaadtsijh?</xt>
+               <x>Hun kommer fra reinhjorden.</x>
+               <xt>Båata bovtsi luvhtie.</xt>
+            </xg>
+            <xg>
+               <x>Når begynner du å gå fra Krïhke?</x>
+               <xt>Gåessie Krïhken luvhtie vaadtsijh?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>fra overflaten</re>
+            <t pos="Po">nelhtie</t>
+            <xg>
+               <x>Katta hoppet ned fra bordet.</x>
+               <xt>Gaahtoe buertien nelhtie njulhtji.</xt>
+            </xg>
+            <xg>
+               <x>Fuglene fløy opp fra taket.</x>
+               <xt>Ledtieh tæhtjoen nelhtie haalanin.</xt>
             </xg>
          </tg>
       </mg>
@@ -281,8 +299,16 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="Po">vööste</t>
             <xg>
-               <x>Hunden kom gjøende mot meg. Skiene står mot veggen. Mot kvelden ble det mildere.</x>
-               <xt>Bïenje mov vööste bööti huhtien. Treavkah vïedtjen vööste tjåadtjoeh. Iehkeden vööste bïjvelåbpoe sjïdti.</xt>
+               <x>Hunden kom gjøende mot meg.</x>
+               <xt>Bïenje mov vööste bööti huhtien.</xt>
+            </xg>
+            <xg>
+               <x>Skiene står mot veggen.</x>
+               <xt>Treavkah vïedtjen vööste tjåadtjoeh.</xt>
+            </xg>
+            <xg>
+               <x>Mot kvelden ble det mildere.</x>
+               <xt>Iehkeden vööste bïjvelåbpoe sjïdti.</xt>
             </xg>
          </tg>
       </mg>
@@ -543,8 +569,12 @@ For the full license text, see the link above.</lic>
             <re>om luft</re>
             <t pos="Po">aatsolen</t>
             <xg>
-               <x>Kjelen henger over bålet. Å jøss, så er den over hodet mitt, langt der opp mot himmelen synes de!</x>
-               <xt>Giebnie dållen aatsolen gåvnjan. Å jemmede, die dan mov åejjien aatsolen, guhkene bijjene elmede vööste vååjnoeh!</xt>
+               <x>Kjelen henger over bålet.</x>
+               <xt>Giebnie dållen aatsolen gåvnjan.</xt>
+            </xg>
+            <xg>
+               <x>Å jøss, så er den over hodet mitt, langt der opp mot himmelen synes de!</x>
+               <xt>Å jemmede, die dan mov åejjien aatsolen, guhkene bijjene elmede vööste vååjnoeh!</xt>
             </xg>
          </tg>
       </mg>
@@ -626,10 +656,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <re>om luft</re>
             <t pos="Po">aatsolen</t>
-            <xg>
-               <x>Kjelen henger over bålet. Å jøss, så er den over hodet mitt, langt der opp mot himmelen synes de!</x>
-               <xt>Giebnie dållen aatsolen gåvnjan. Å jemmede, die dan mov åejjien aatsolen, guhkene bijjene elmede vööste vååjnoeh!</xt>
-            </xg>
          </tg>
       </mg>
       <mg>
@@ -661,16 +687,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <re>om klokka</re>
-            <t pos="Po">åvtelen</t>
-            <xg>
-               <x>Klokka er kvart på sju.</x>
-               <xt>Tsåahka lea njealjehts åvtelen tjïjhtje.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="Po">nelnie</t>
             <xg>
                <x>Barnet sitter på bordet.</x>
@@ -690,11 +706,11 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <re>bevegelse til</re>
-            <t pos="Po">nille</t>
+            <re>om klokka</re>
+            <t pos="Po">åvtelen</t>
             <xg>
-               <x>Legg boka på bordet!</x>
-               <xt>Bïejh gærjam buertien nille!</xt>
+               <x>Klokka er kvart på sju.</x>
+               <xt>Tsåahka lea njealjehts åvtelen tjïjhtje.</xt>
             </xg>
          </tg>
       </mg>
@@ -720,26 +736,6 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Gå nedenfor det huset!</x>
                <xt>Vaedtsieh doen gåetien vuelelen!</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <re>bevegelse til</re>
-            <t pos="Pr">vuelelen</t>
-            <xg>
-               <x>Gå nedenfor det huset!</x>
-               <xt>Vaedtsieh vuelelen doem gåetiem!</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <re>om flere</re>
-            <t pos="Pr">vueleli</t>
-            <xg>
-               <x>Gå nedenfor de husene!</x>
-               <xt>Vaedtsieh vueleli doeh gåetieh!</xt>
             </xg>
          </tg>
       </mg>
@@ -794,8 +790,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="Po">uvte</t>
             <xg>
-               <x>Det er granbar foran døra. Stopp opp foran døra!</x>
-               <xt>Leevegh oksen uvte. Tjöödtjehth oksen uvte!</xt>
+               <x>Det er granbar foran døra.</x>
+               <xt>Leevegh oksen uvte.</xt>
+            </xg>
+            <xg>
+               <x>Stopp opp foran døra!</x>
+               <xt>Tjöödtjehth oksen uvte!</xt>
             </xg>
          </tg>
       </mg>
@@ -868,9 +868,15 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="Po">baaktoe</t>
+         </tg>
+      </mg>
+
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Po">bealesne</t>
             <xg>
-               <x>Gjesten kom via Røros. Han gikk forbi meg.</x>
-               <xt>Guessie Plassjen baaktoe bööti. Mov baaktoe veedtsi.</xt>
+               <x>Bestemor sitter ved ovnen.</x>
+               <xt>Aahka vuebnien bealesne tjahkan.</xt>
             </xg>
          </tg>
       </mg>
@@ -957,8 +963,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="Po">bealesne</t>
             <xg>
-               <x>Han er ved siden av meg. Bestemor sitter ved ovnen.</x>
-               <xt>Dïhte mov bealesne lea. Aahka vuebnien bealesne tjahkan.</xt>
+               <x>Han er ved siden av meg.</x>
+               <xt>Dïhte mov bealesne lea.</xt>
             </xg>
          </tg>
       </mg>
@@ -1147,8 +1153,16 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="Po">bielelen</t>
             <xg>
-               <x>Han renner på ski uten stav. Du får snakke uten at jeg spør. Du får ikke gå uten meg!</x>
-               <xt>Dïhte klaahkan bielelen tjuajka. Datne fihkh soptsestidh bielelen mov gihtjemem. Ih åadtjoeh mov bielelen vaedtsedh!</xt>
+               <x>Han renner på ski uten stav.</x>
+               <xt>Dïhte klaahkan bielelen tjuajka.</xt>
+            </xg>
+            <xg>
+               <x>Du får snakke uten at jeg spør.</x>
+               <xt>Datne fihkh soptsestidh bielelen mov gihtjemem.</xt>
+            </xg>
+            <xg>
+               <x>Du får ikke gå uten meg!</x>
+               <xt>Ih åadtjoeh mov bielelen vaedtsedh!</xt>
             </xg>
          </tg>
       </mg>
@@ -1196,17 +1210,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pr">fra uten</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Po">baaltelistie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pr">til siden</l>
+         <l pos="Pr">til side</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -1226,8 +1230,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="Po">bealesne</t>
             <xg>
-               <x>Han er ved siden av meg. Bestemor sitter ved ovnen.</x>
-               <xt>Dïhte mov bealesne. Aahka vuebnien bealesne tjahkan.</xt>
+               <x>Han er hos meg.</x>
+               <xt>Dïhte mov bealesne.</xt>
             </xg>
          </tg>
       </mg>
@@ -1248,10 +1252,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="Po">bealesne</t>
-            <xg>
-               <x>Han er ved siden av meg. Bestemor sitter ved ovnen.</x>
-               <xt>Dïhte mov bealesne lea. Aahka vuebnien bealesne tjahkan.</xt>
-            </xg>
          </tg>
       </mg>
       <mg>
@@ -1767,10 +1767,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="Po">gaavhtan</t>
-            <xg>
-               <x>Av den grunn er det vanskelig. Det var bare for moro skyld. for eksempel</x>
-               <xt>Dan gaavhtan geerve. Barre lusten gaavhtan lij dïhte. vuesiehtimmien gaavhtan</xt>
-            </xg>
          </tg>
       </mg>
       <mg>
@@ -1826,8 +1822,16 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="Po">gaskem</t>
             <xg>
-               <x>Koftebåndene formidler et budskap mellom mennesker. Og så noen steder dukker sola fram mellom skyene og gjør mennesket glad. Vi gikk mellom de vannene der borte.</x>
-               <xt>Budtestahkh dïjrem almetji gaskem guedtieh. Jïh dle muvhth lehkieh biejjie balvi gaskem jæjhta jïh almetjem madtjeldahta. Doj jaevriej gaskem veedtsimh.</xt>
+               <x>Koftebåndene formidler et budskap mellom mennesker.</x>
+               <xt>Budtestahkh dïjrem almetji gaskem guedtieh.</xt>
+            </xg>
+            <xg>
+               <x>Og så noen steder dukker sola fram mellom skyene og gjør mennesket glad.</x>
+               <xt>Jïh dle muvhth lehkieh biejjie balvi gaskem jæjhta jïh almetjem madtjeldahta.</xt>
+            </xg>
+            <xg>
+               <x>Vi gikk mellom de vannene der borte.</x>
+               <xt>Doj jaevriej gaskem veedtsimh.</xt>
             </xg>
          </tg>
       </mg>
@@ -1891,8 +1895,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="Po">mietie</t>
             <xg>
-               <x>Ifølge dette brevet får jeg begynne på den skolen. Etter min mening er det et stort problem.</x>
-               <xt>Dan prievien mietie, dle åadtjoem dennie skuvlesne aelkedh. Mov mïelen mietie dïhte stoerre dåeriesmoere.</xt>
+               <x>Ifølge dette brevet får jeg begynne på den skolen.</x>
+               <xt>Dan prievien mietie, dle åadtjoem dennie skuvlesne aelkedh.</xt>
             </xg>
          </tg>
       </mg>
@@ -1945,8 +1949,12 @@ For the full license text, see the link above.</lic>
             <re>om tid</re>
             <t pos="Po">minngelen</t>
             <xg>
-               <x>etter et år To dager senere reiste de to.</x>
-               <xt>jaepien minngelen Göökte biejjieh dan minngelen dah guaktah vöölkigan.</xt>
+               <x>etter et år</x>
+               <xt>jaepien minngelen</xt>
+            </xg>
+            <xg>
+               <x>To dager senere reiste de to.</x>
+               <xt>Göökte biejjieh dan minngelen dah guaktah vöölkigan.</xt>
             </xg>
          </tg>
       </mg>
@@ -1954,6 +1962,15 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <re>om tid</re>
             <t pos="Po">minngielistie</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Po">mietie</t>
+            <xg>
+               <x>Etter min mening er det et stort problem.</x>
+               <xt>Mov mïelen mietie dïhte stoerre dåeriesmoere.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1985,50 +2002,6 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Han kjørte borti bilen.</x>
                <xt>Bïjlen sonterh vööji.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pr">ned fra</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <re>fra overflaten</re>
-            <t pos="Po">nelhtie</t>
-            <xg>
-               <x>Katta hoppet ned fra bordet. Fuglene fløy opp fra taket.</x>
-               <xt>Gaahtoe buertien nelhtie njulhtji. Ledtieh tæhtjoen nelhtie haalanin.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pr">bort fra</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <re>fra overflaten</re>
-            <t pos="Po">nelhtie</t>
-            <xg>
-               <x>Katta hoppet ned fra bordet. Fuglene fløy opp fra taket.</x>
-               <xt>Gaahtoe buertien nelhtie njulhtji. Ledtieh tæhtjoen nelhtie haalanin.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pr">oppe på</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Po">nelnie</t>
-            <xg>
-               <x>Barnet sitter på bordet.</x>
-               <xt>Maana buertien nelnie tjahkan.</xt>
             </xg>
          </tg>
       </mg>
@@ -2111,16 +2084,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Po">sisnie</t>
-            <xg>
-               <x>Det er mat i sekken.</x>
-               <xt>Beapmoeh voessen sisnie.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <re>hvor</re>
+          <t type="grammar" href="https://oahpa.no/sma/gramm/substantiv.nob.html#Inessiv">Bruk inessiv</t>            
             <xg>
                <x>i Norge</x>
                <xt>Nöörjesne</xt>
@@ -2131,17 +2095,23 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pr">inne i</l>
-      </lg>
       <mg>
          <tg xml:lang="sma">
+	         <re>inne i</re>
             <t pos="Po">sisnie</t>
             <xg>
                <x>Det er mat i sekken.</x>
                <xt>Beapmoeh voessen sisnie.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>om tider</re>
+            <t pos="Po">boehten</t>
+            <xg>
+               <x>Før i tiden.</x>
+               <xt>Daaj boehten.</xt>
             </xg>
          </tg>
       </mg>
@@ -2162,30 +2132,14 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pr">i disse tider</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Po">boehten</t>
-            <xg>
-               <x>Før i tiden.</x>
-               <xt>Daaj boehten.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Pr">fra yttersiden eller oversiden</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <t pos="Po">bæjngoelistie</t>
             <xg>
-               <x>Hvis vi hadde greid å passe oss for råd som alltid kommer utenfra, og arbeidet bedre etter våre egne
-               verdier.</x>
-               <xt>Jis libie buektiehtamme geehtedidh dujstie raerijste mah iktegisth bæjngoelistie båetieh, jïh buerebh
-               mijjen jïjtjemh aarvoej mietie ektese-vyöki barkeme.</xt>
+               <x>Hvis vi hadde greid å passe oss for råd som alltid kommer utenfra, og arbeidet bedre etter våre egne verdier.</x>
+               <xt>Jis libie buektiehtamme geehtedidh dujstie raerijste mah iktegisth bæjngoelistie båetieh, jïh buerebh mijjen jïjtjemh aarvoej mietie ektese-vyöki barkeme.</xt>
             </xg>
          </tg>
       </mg>
@@ -2196,23 +2150,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Po">bæjngoelistie</t>
-            <xg>
-               <x>Hvis vi hadde greid å passe oss for råd som alltid kommer utenfra, og arbeidet bedre etter våre egne
-               verdier.</x>
-               <xt>Jis libie buektiehtamme geehtedidh dujstie raerijste mah iktegisth bæjngoelistie båetieh, jïh buerebh
-               mijjen jïjtjemh aarvoej mietie ektese-vyöki barkeme.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pr">fra ytterkanten</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Po">bæjngoelistie</t>
+            <t pos="Po">bæjngoelisnie</t>
          </tg>
       </mg>
    </e>
@@ -2323,11 +2261,6 @@ For the full license text, see the link above.</lic>
                <x>Hitenfor de lave snaufjell med krattskog omkring er de gravene.</x>
                <xt>Daebpeli doeh vaartoeh dah gaelmieh leah.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Pr">daebpielisnie</t>
          </tg>
       </mg>
    </e>
@@ -3503,6 +3436,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
+          <t type="grammar" href="https://oahpa.no/sma/gramm/substantiv.nob.html#Illativ">Bruk illativ</t>            
             <xg>
                <x>Vi må gjøre innen fredag.</x>
                <xt>Dam tjoeveribie bearjadahkese darjodh.</xt>
