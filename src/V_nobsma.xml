@@ -31659,7 +31659,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t>daanjedh</t>
+            <t pos="V">daanjedh</t>
          </tg>
       </mg>
       <mg>
@@ -39106,7 +39106,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t>mealtan årrodh</t>
+            <t pos="Phrase">mealtan årrodh</t>
          </tg>
       </mg>
    </e>
