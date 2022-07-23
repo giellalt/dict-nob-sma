@@ -1064,21 +1064,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Adv">båajhtede</t>
-            <xg>
-               <x>Nå har jeg gjort feil.</x>
-               <xt>Daelie manne båajhtede dorjeme.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">galt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="Adv">båajhtode</t>
+            <t pos="Adv">båajhtede</t>
             <xg>
                <x>Nå har jeg gjort feil.</x>
                <xt>Daelie manne båajhtode dorjeme.</xt>
@@ -1094,8 +1081,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="Adv">båajhtode</t>
             <xg>
-               <x>Nå har jeg gjort feil.</x>
-               <xt>Daelie manne båajhtode dorjeme.</xt>
+               <x>Dette ble misvisende.</x>
+               <xt>Daate båajhtode sjïdti.</xt>
             </xg>
          </tg>
       </mg>
@@ -1110,7 +1097,7 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">bååstide</t>
             <xg>
                <x>Jeg kommer aldri tilbake.</x>
-               <xt>Im manne gåessie bååstede båetieh.</xt>
+               <xt>Im manne gåessie gænnah bååstede båetieh.</xt>
             </xg>
          </tg>
       </mg>
@@ -1145,10 +1132,12 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Adv">oppover mot fjellet</l>
+         <l pos="Adv">oppover mot fjellet fra kysten</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+	         <re>om vårflytting</re>
+            <t pos="Adv">bæjjesvåårti</t>
             <t pos="Adv">bæjjesvåårte</t>
          </tg>
       </mg>
@@ -4109,17 +4098,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Adv">uten videre</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Adv">namhtah</t>
-            <t pos="Adv">numhtegh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Adv">gratis</l>
       </lg>
       <mg>
@@ -6895,7 +6873,7 @@ For the full license text, see the link above.</lic>
             </xg>
             <xg>
                <x>Blir dere ikke med til Majavatn?</x>
-               <xt>Idie dijjieh dåeredh Maajehjaavran?</xt>
+               <xt>Idie goh dåeredh Maajehjaavran?</xt>
             </xg>
             <xg>
                <x>De fisker jo ikke i det lille vannet.</x>
@@ -6907,7 +6885,7 @@ For the full license text, see the link above.</lic>
             </xg>
             <xg>
                <x>Vi to gikk ikke til fjells.</x>
-               <xt>Idtjimen månnoeh vaaran vaedtsieh.</xt>
+               <xt>Idtjimen månnoeh bæjjese vaaran vaedtsieh.</xt>
             </xg>
             <xg>
                <x>Dere to kunne ikke.</x>

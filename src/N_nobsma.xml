@@ -25439,6 +25439,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
+         <l pos="N">fargeblyant</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">klaerieplæjjohke</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="N">likhet</l>
       </lg>
       <mg>
@@ -25529,11 +25539,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">provkome</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">provrese</t>
          </tg>
       </mg>
    </e>
@@ -48408,7 +48413,6 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">linjaale</t>
         <t pos="N">sïevestahke</t>
       </tg>
     </mg>

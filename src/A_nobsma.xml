@@ -1604,18 +1604,13 @@ For the full license text, see the link above.</lic>
             <t pos="A">feejjene</t>
             <xg>
                <x>Barnet så så glad og fornøyd ut.</x>
-               <xt>Maana dan feejjene våajnoe.</xt>
+               <xt>Maana dan feejjen vååjnoe.</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
             <t pos="A">geerjene</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="A">hååkene</t>
          </tg>
       </mg>
       <mg>
@@ -1869,16 +1864,119 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A">gallas</t>
+            <t pos="A">gallasodtje</t>
+            <xg>
+               <x>Jeg er mett.</x>
+               <xt>Manne gallasodtje.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>  
+      <e>
+      <lg>
+         <l pos="A">mett</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A">gallasodtje</t>
+            <xg>
+               <x>Jeg er mett.</x>
+               <xt>Manne gallasodtje.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
+   <e>
+      <lg>
+         <l pos="A">sulten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A">bårrestohteminie</t>
+            <xg>
+               <x>Jeg er sulten (egtl. jeg sulter).</x>
+               <xt>Manne bårrestohteminie.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">tørst</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A">gojhkelovveminie (egtl. jeg tørster)</t>
+            <xg>
+               <x>Jeg er tørst.</x>
+               <xt>Manne gojhkelovveminie.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+      <e>
+      <lg>
+         <l pos="A">trett</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A">nahkeren</t>
+            <xg>
+               <x>Jeg er trett.</x>
+               <xt>Manne nahkeren.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e> 
+   <e>
+      <lg>
+         <l pos="A">tissetrengt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A">gadtjetrehpesne</t>
+            <xg>
+               <x>Jeg er tissetrengt.(egtl. jeg må tisse)</x>
+               <xt>Manne gadtjetrehpesne.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e> 
+      <e>
+      <lg>
+         <l pos="A">tissetrengt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A">gadtjisisnie</t>
+            <xg>
+               <x>Jeg er tissetrengt.(egtl. jeg må tisse)</x>
+               <xt>Manne gadtjisisnie.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e> 
+      <e>
+      <lg>
+         <l pos="A">bæsjetrengt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A">bajhketrehpesne</t>
+            <xg>
+               <x>Jeg er bæsjetrengt (egtl. jeg må skite).</x>
+               <xt>Manne bajhketrehpesne.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e> 
    <e>
       <lg>
          <l pos="A">bred</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <t pos="A">gabte</t>
             <t pos="A">gamte</t>
          </tg>
       </mg>
@@ -1889,7 +1987,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A">gaptjeldihkie</t>
+            <t pos="A">gåptjeldihkie</t>
          </tg>
       </mg>
    </e>
@@ -1899,7 +1997,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A">gaptjeldihkie</t>
+            <t pos="A">gåptjeldihkie</t>
          </tg>
       </mg>
       <mg>
@@ -3268,6 +3366,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="A">kruepies</t>
+            <xg>
+               <x>Grovt brød.</x>
+               <xt>Kruepies laejpie.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3280,7 +3382,7 @@ For the full license text, see the link above.</lic>
             <t pos="A">krænkoeh</t>
             <xg>
                <x>Han var en gretten gammel mann som var sint på alle.</x>
-               <xt>Dïhte lij krænkoeh båeries alma gie gaajhkesidie lij måeresne.</xt>
+               <xt>Dïhte lij krænkoeh båeries ålma gie gaajhkesidie lij måeresne.</xt>
             </xg>
          </tg>
       </mg>
@@ -3291,12 +3393,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A">kåvrehts</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="A">nahkeren</t>
+            <xg>
+               <x>Jeg er søvnig.</x>
+               <xt>Manne nahkeren.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3575,6 +3676,15 @@ For the full license text, see the link above.</lic>
             <t pos="A">madtjeles</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A">nukteme</t>
+            <xg>
+               <x>Daelie leam nukteme.</x>
+               <xt>Nå er jeg fornøyd.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -3620,7 +3730,7 @@ For the full license text, see the link above.</lic>
             <t pos="A">miehtjies</t>
             <xg>
                <x>Fatmomakke er på en avsides plass.</x>
-               <xt>Faepmie lea miehtjies deajvesne.</xt>
+               <xt>Faepmie lea miehtjies dajvesne.</xt>
             </xg>
          </tg>
       </mg>
@@ -3636,10 +3746,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A">miehtjies</t>
+            <t pos="A">tjietjelen</t>
             <xg>
-               <x>Fatmomakke er på en avsides plass.</x>
-               <xt>Faepmie lea miehtjies deajvesne.</xt>
+               <x>Denne vinteren er vi for oss selv med reinene.</x>
+               <xt>Daen daelvien libie tjietjelen bovtsigujmie.</xt>
             </xg>
          </tg>
       </mg>
@@ -3651,26 +3761,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="A">miehtjies</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">lenger borte</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="A">miehtjies</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">mot veggen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="A">miehtjies</t>
+            <xg>
+               <x>Gutten i ødemarka.</x>
+               <xt>Miehtjiesdajven baernie.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
