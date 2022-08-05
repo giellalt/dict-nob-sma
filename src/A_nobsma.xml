@@ -1522,8 +1522,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="A">faatoes</t>
             <xg>
-               <x>Hva er i veien? Hva feiler det deg?</x>
-               <xt>Mij dle faatoes? Mij amma dov faatoes?</xt>
+               <x>Hva er i veien?</x>
+               <xt>Mij dle faatoes?</xt>
+            </xg>
+            <xg>
+               <x>Hva feiler det deg?</x>
+               <xt>Mij amma dov faatoes?</xt>
             </xg>
          </tg>
       </mg>
@@ -1536,8 +1540,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="A">faatoes</t>
             <xg>
-               <x>Hva er i veien? Hva feiler det deg?</x>
-               <xt>Mij dle faatoes? Mij amma dov faatoes?</xt>
+               <x>Hva mangler?</x>
+               <xt>Mij dle faatoes?</xt>
+            </xg>
+            <xg>
+               <x>Hva mangler hos deg?</x>
+               <xt>Mij amma dov faatoes?</xt>
             </xg>
          </tg>
       </mg>
@@ -2274,8 +2282,12 @@ For the full license text, see the link above.</lic>
             <re>om midlertidig tilstand</re>
             <t pos="A">jåalhkoeh</t>
             <xg>
-               <x>snargått kjørerein snar og rask bil</x>
-               <xt>jåalhkoeh vuejemeråantjoe jåalhkoeh bïjle</xt>
+               <x>snargått kjørerein</x>
+               <xt>jåalhkoeh vuejemeråantjoe</xt>
+            </xg>
+            <xg>
+               <x>snar og rask bil</x>
+               <xt>jåalhkoeh bïjle</xt>
             </xg>
          </tg>
       </mg>
@@ -2284,7 +2296,7 @@ For the full license text, see the link above.</lic>
             <re>om egenskap</re>
             <t pos="A">jåalhkoes</t>
             <xg>
-               <x>snargått kjørerein </x>
+               <x>snargått kjørerein</x>
                <xt>jåalhkoes vuejemeråantjoe</xt>
             </xg>
             <xg>
@@ -2752,8 +2764,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="A">hijven</t>
             <xg>
-               <x>Dette er bra! Det er bra!</x>
-               <xt>Daate hijven! Hijven hov!</xt>
+               <x>Dette er bra!</x>
+               <xt>Daate hijven!</xt>
+            </xg>
+            <xg>
+               <x>Det er bra!</x>
+               <xt>Hijven hov!</xt>
             </xg>
          </tg>
       </mg>
@@ -3188,8 +3204,12 @@ For the full license text, see the link above.</lic>
             <re>om midlertidig tilstand</re>
             <t pos="A">jåalhkoeh</t>
             <xg>
-               <x>snargått kjørerein snar og rask bil</x>
-               <xt>jåalhkoeh vuejemeråantjoe jåalhkoeh bïjle</xt>
+               <x>kjapp kjørerein</x>
+               <xt>jåalhkoeh vuejemeråantjoe</xt>
+            </xg>
+            <xg>
+               <x>kjapp bil</x>
+               <xt>jåalhkoeh bïjle</xt>
             </xg>
          </tg>
       </mg>
@@ -4532,8 +4552,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="A">saavrehks</t>
             <xg>
-               <x>å være utholdende bli tilstrekkelig veltrent</x>
-               <xt>saavrehke årrodh saavrehke nuekies sjïdtedh</xt>
+               <x>være utholdende</x>
+               <xt>saavrehke årrodh</xt>
+            </xg>
+            <xg>
+               <x>bli tilstrekkelig utholdende</x>
+               <xt>saavrehke nuekies sjïdtedh</xt>
             </xg>
          </tg>
       </mg>
@@ -4795,8 +4819,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="A">sjïere</t>
             <xg>
-               <x>særskilt sjanse Det står på særskilt papir.</x>
-               <xt>sjïere nuepie Sjïere paehpierisnie tjåådtje.</xt>
+               <x>særskilt sjanse</x>
+               <xt>sjïere nuepie</xt>
+            </xg>
+            <xg>
+               <x>Det står på særskilt papir.</x>
+               <xt>Sjïere paehpierisnie tjåådtje.</xt>
             </xg>
          </tg>
       </mg>
@@ -4809,8 +4837,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="A">sjïere</t>
             <xg>
-               <x>særskilt sjanse Det står på særskilt papir.</x>
-               <xt>sjïere nuepie Sjïere paehpierisnie tjåådtje.</xt>
+               <x>særegen sjanse</x>
+               <xt>sjïere nuepie</xt>
+            </xg>
+            <xg>
+               <x>Det står på særegent papir.</x>
+               <xt>Sjïere paehpierisnie tjåådtje.</xt>
             </xg>
          </tg>
       </mg>
@@ -5460,8 +5492,16 @@ For the full license text, see the link above.</lic>
 	        <t pos="A">bahhas</t>
             <t pos="A">vesties</t>
             <xg>
-               <x>Det er lett å slenge stygge benevnelser seg imellom. De sa onde ord til hverandre. Fy, så slem du er!</x>
-               <xt>Aelhkie vesties lahtestimmieh sinsætnan sleengkedh. Vesties baakoeh sinsætnan jeehtigan. Die hov datne vestie leah!</xt>
+               <x>Det er lett å slenge stygge benevnelser seg imellom.</x>
+               <xt>Aelhkie vesties lahtestimmieh sinsætnan sleengkedh.</xt>
+            </xg>
+            <xg>
+               <x>De sa onde ord til hverandre.</x>
+               <xt>Vesties baakoeh sinsætnan jeehtigan.</xt>
+            </xg>
+            <xg>
+               <x>Fy, så slem du er!</x>
+               <xt>Die hov datne vestie leah!</xt>
             </xg>
          </tg>
       </mg>
@@ -5677,8 +5717,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="A">åenehks</t>
             <xg>
-               <x>kort bukse Kofta er altfor kort.</x>
-               <xt>åenehks måvhkah Gaeptie ååpsen åenehke.</xt>
+               <x>kort bukse</x>
+               <xt>åenehks måvhkah</xt>
+            </xg>
+            <xg>
+               <x>Kofta er altfor kort.</x>
+               <xt>Gaeptie ååpsen åenehke.</xt>
             </xg>
          </tg>
       </mg>
