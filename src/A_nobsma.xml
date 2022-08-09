@@ -627,10 +627,10 @@ For the full license text, see the link above.</lic>
    <e>
       <lg>
          <l pos="A">berømt</l>
-          <t pos="A">byögkeles</t>
       </lg>
       <mg>
          <tg xml:lang="sma">
+          <t pos="A">byögkeles</t>
             <t pos="A">beagkoes</t>
          </tg>
       </mg>
