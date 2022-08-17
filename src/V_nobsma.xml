@@ -5204,19 +5204,24 @@ For the full license text, see the link above.</lic>
             <t pos="V">svarkelidh</t>
             <xg>
                <x>Piere svarkeli</x>
-               <xt>per spiste seg halvveis mett</xt>
+               <xt>Per spiste seg halvveis mett</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
 	         <re>om klodyr(f.eks hund og rovdyr)</re>
-	         <re>også brukt ironisk om mennesker som spiser på en stygg og glupsk måte</re>
             <t pos="V">bårrelidh</t>
             <xg>
-               <x>Bïenje varki bårreli</x>
-               <xt>Hunden spiste fort</xt>
+               <x>Bïenje dejtie sov beapmojde bårrele.</x>
+               <xt>Hunden spiser maten sin. </xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>spise på en stygg og glupsk måte</re>
+            <t pos="V">bårrelidh</t>
             <xg>
                <x>Dohte jis bööti gaajhkem njaalkadahkem bårreli!</x>
                <xt>Hen der kom og spiste opp alt godteriet vårt!</xt>
