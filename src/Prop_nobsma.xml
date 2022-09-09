@@ -10831,7 +10831,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" type="Prop">Plassje</t>
+            <re>tettsted</re>
+            <t pos="N" type="Prop">Plaassja</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>kommune</re>
+            <t pos="N" type="Prop">Rosse</t>
          </tg>
       </mg>
    </e>
