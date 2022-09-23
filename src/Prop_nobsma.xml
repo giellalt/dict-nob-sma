@@ -515,11 +515,62 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Mo i Rana</l>
+         <l pos="N" type="Prop" sem_type="Plc">Rana</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Raane</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Mo i Rana</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N" type="Prop">Måefie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Leirskarddalen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>Hemnes</re>
+            <t pos="N" type="Prop">Laajroedurrie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Vefsn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N" type="Prop">Vaapste</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Namsskogan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N" type="Prop">Laakesvuemie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Namsos</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N" type="Prop">Nåavmesjenjaelmie</t>
          </tg>
       </mg>
    </e>
