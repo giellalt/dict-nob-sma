@@ -39349,6 +39349,17 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>noe underlig</re>
+            <t pos="N">åavtoe</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">mirakel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
             <t pos="N">åavtoe</t>
          </tg>
       </mg>

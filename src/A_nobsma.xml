@@ -4490,6 +4490,21 @@ For the full license text, see the link above.</lic>
             <t pos="A">rovnegs</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>f.eks. mann</re>
+            <t pos="A">åavtoes</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A">ipmies</t>
+            <xg>
+               <x>Det er da underlig.</x>
+               <xt>Dïhte maaje ipmies.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
