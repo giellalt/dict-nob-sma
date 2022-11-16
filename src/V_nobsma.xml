@@ -8909,54 +8909,35 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <re>intransitiv</re>
-            <t class="IV" context="3pers" minip="notSg1" p3p="dualta" pos="V" umlaut="full" vow="x">doeltedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
+	         <re>transitiv: å koke noe</re>
             <t class="IV" p3p="vuassja" pos="V" umlaut="full" vow="x">voessjedh</t>
+            <xg>
+               <x>Bestemor koker kaffe og serverer småkaker.</x>
+               <xt>Aahka prïhtjegem vuassja jïh laajpetjh gåassohte.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t class="VI" pos="V" umlaut="F">kööhkedh</t>
+            <re>intransitiv: noe som koker</re>
+            <t class="IV" context="3pers" minip="notSg1" p3p="dualta" pos="V" umlaut="full" vow="x">doeltedh</t>
+            <xg>
+               <x>Vannet koker.</x>
+               <xt>tjaetsie dualta.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="V">sjåaredidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">få til å koke</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t p3p="doeltehte" pos="V">doeltehtidh</t>
+            <re>transitiv: å få noe til å koke</re>
+            <t class="IV" context="3pers" minip="notSg1" p3p="dualta" pos="V" umlaut="full" vow="x">doeltehtidh</t>
             <xg>
                <x>Jeg koker opp vann.</x>
                <xt>Manne tjaetsiem doeltehtem.</xt>
             </xg>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">la koke</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t p3p="doeltehte" pos="V">doeltehtidh</t>
-            <xg>
-               <x>Jeg koker opp vann.</x>
-               <xt>Manne tjaetsiem doeltehtem.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
+    </e>
    <e>
       <lg>
          <l pos="Phrase">koke opp</l>
