@@ -8919,6 +8919,12 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
+	         <re>transitiv: å koke noe fort</re>
+            <t class="IV" p3p="vuassja" pos="V" umlaut="full" vow="x">voessjestidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
             <re>intransitiv: noe som koker</re>
             <t class="IV" context="3pers" minip="notSg1" p3p="dualta" pos="V" umlaut="full" vow="x">doeltedh</t>
             <xg>
