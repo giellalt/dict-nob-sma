@@ -5173,27 +5173,18 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
+	         <re>transitiv</re>
             <t p3p="byöpmede" pos="V">byöpmedidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t diph="yes" p3p="mehsehte" pos="V">meksiehtidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="IV" pos="V" umlaut="D">maatadadtedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">fyödedidh</t>
+            <xg>
+               <x>Manne laejpiem byöpmedem.</x>
+               <xt>Jeg spiser brød. </xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
             <t pos="V">sverkiehtidh</t>
+            <re>transitiv</re>
             <xg>
                <x>onn´-ohtjetjem sverkehtem</x>
                <xt>Jeg spiser litt, slik at jeg blir litt mett</xt>
@@ -5203,6 +5194,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="V">svarkelidh</t>
+            <re>transitiv</re>
             <xg>
                <x>Piere svarkeli</x>
                <xt>Per spiste seg halvveis mett</xt>
@@ -5211,6 +5203,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
+	         <re>transitiv</re>
 	         <re>om klodyr(f.eks hund og rovdyr)</re>
             <t pos="V">bårrelidh</t>
             <xg>
@@ -5221,6 +5214,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
+	         <re>transitiv</re>
 	         <re>spise på en stygg og glupsk måte</re>
             <t pos="V">bårrelidh</t>
             <xg>
@@ -5231,6 +5225,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
+	         <re>transitiv</re>
 	         <re>om suppe og annet flytende</re>
             <t pos="V">gadtsedh</t>
             <xg>
