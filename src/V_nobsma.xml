@@ -1951,6 +1951,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
+	        <re>transitiv</re>
             <t class="I" pos="V" umlaut="full" vow="x">biktedh</t>
             <xg>
                <x>Jeg vil kle på med sko for å varme føttene.</x>
@@ -21240,7 +21241,24 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t class="IV" p3p="jåvka" pos="V" type="TV">jovkedh</t>
+	         <re>transitiv</re>
+	         <re>om mennesker</re>
+            <t class="IV" p3p="jåvka" pos="V" type="TV">jovhkedh</t>
+            <xg>
+               <x>Jeg drikker melk.</x>
+               <xt>Manne mielhkiem jovhkem.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>transitiv</re>
+            <re>om dyr</re>
+            <t pos="V">tjoekedh</t>
+            <xg>
+               <x>Hunden drikker vann.</x>
+               <xt>Bïenje tjaetsiem tjuaka.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
