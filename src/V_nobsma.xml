@@ -16307,7 +16307,23 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
+	         <re>intransitiv</re>
+            <re>flere ganger</re>
             <t class="IV" p3p="gåssa" pos="V" umlaut="full" vow="x">gossedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	          <re>intransitiv</re>
+	         <re>en gang: om mennesker</re>
+            <t p3p="gosseste" pos="V">gossestidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	          <re>intransitiv</re>
+	         <re>om dyr</re>
+             <t class="IV" p3p="guarsa" pos="V" umlaut="full" vow="x">goersedh</t>
          </tg>
       </mg>
    </e>
