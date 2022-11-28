@@ -5263,11 +5263,11 @@ For the full license text, see the link above.</lic>
             <t class="IV" pos="V" umlaut="full" vow="x">edtjedh</t>
             <xg>
                <x>Hvor skal du?</x>
-               <xt>Gåabph edtjh?</xt>
+               <xt>Gåabph edtjh datne?</xt>
             </xg>
             <xg>
                <x>Hva skal vi spise til middag i dag?</x>
-               <xt>Maam edtjebe gaskebeajjan byöpmedidh?</xt>
+               <xt>Maam edtjijibie gaskebeajjan byöpmedidh?</xt>
             </xg>
          </tg>
       </mg>
@@ -22857,12 +22857,20 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
+	     <re>intransitiv</re>
             <re>en gang</re>
             <t class="VI" p3p="njulhtjie" pos="V">njulhtjedh</t>
             <xg>
                <x>Katta hoppet ned fra bordet.</x>
                <xt>Gaahtoe buertien nelhtie njulhtji.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	        <re>intransitiv</re>
+            <re>gjentagelser</re>
+            <t class="VI" p3p="njulhtjie" pos="V">njålhtjodh</t>
          </tg>
       </mg>
       <mg>
