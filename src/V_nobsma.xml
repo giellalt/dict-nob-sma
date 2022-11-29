@@ -10776,11 +10776,6 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t class="I" pos="V" umlaut="full" vow="x">væssjastehtedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="V">byrrehtidh</t>
          </tg>
       </mg>
@@ -10791,7 +10786,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t class="VI" pos="V">eevtjedh</t>
+            <t class="VI" pos="V">sjïehtesjidh</t>
          </tg>
       </mg>
       <mg>
@@ -59586,7 +59581,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="V">eelpedh</t>
+            <t pos="V">naskoehtidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="V">næskoehtidh</t>
          </tg>
       </mg>
    </e>
