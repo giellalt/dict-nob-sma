@@ -28393,11 +28393,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t class="IV" pos="V" type="TV">ohtsedh</t>
          </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="V" pos="V" umlaut="E">syökedh</t>
-         </tg>
+         <xg>
+             <x>Du får søke støtte.</x>
+             <xt>Åadtjoeh dåarjegem ohtsedh.</xt>
+         </xg>
       </mg>
    </e>
    <e>
@@ -28406,22 +28405,16 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t class="IV" pos="V" type="TV">ohtsedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t p3p="ohtsede" pos="V">ohtsedidh</t>
          </tg>
+         <xg>
+             <x>Mor holder på å lete etter barnet.</x>
+             <xt>Tjidtjie lea maanam ohtsedeminie.</xt>
+         </xg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t class="IV" pos="V" type="TV" umlaut="D">hohtjedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="VI" pos="V" umlaut="F">röötedh</t>
+            <t class="IV" pos="V" type="TV" umlaut="D">hohtjedidh</t>
          </tg>
       </mg>
    </e>
@@ -28431,26 +28424,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t class="IV" pos="V" type="TV">ohtsedh</t>
+            <t class="IV" pos="V" type="TV">ohtselidh</t>
             <xg>
-               <x>Jeg kommer til å savne det.</x>
-               <xt>Båatam dam ohtsedh.</xt>
+               <x>Jeg savner deg.</x>
+               <xt>Manne datnem ohtselem.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t p3p="ohtsede" pos="V">ohtsedidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">ohtseldidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">ohtselidh</t>
          </tg>
       </mg>
    </e>
@@ -28460,21 +28438,16 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t class="IV" pos="V" type="TV">ohtsedh</t>
+            <t class="IV" pos="V" type="TV">ohtselidh</t>
             <xg>
                <x>Jeg kommer til å savne det.</x>
-               <xt>Båatam dam ohtsedh.</xt>
+               <xt>Båatam dam ohtselidh.</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t class="IV" pos="V" umlaut="D">fååtesmovvedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">hohtjedidh</t>
+            <t pos="V">hohtjelidh</t>
          </tg>
       </mg>
    </e>
@@ -28482,11 +28455,6 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="V">lete</l>
       </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t p3p="ohtsede" pos="V">ohtsedidh</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
