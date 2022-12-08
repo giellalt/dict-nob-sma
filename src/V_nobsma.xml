@@ -12491,6 +12491,40 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t diph="yes" pos="V">gaarkoehtidh</t>
+	        <xg>
+               <x>Skrape fett av tarmer.</x>
+               <xt>Tjåelieh gaarkoehtidh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	        <re>om skinn og bellinger</re>
+            <t diph="yes" pos="V">nieskedh</t>
+	        <xg>
+               <x>Skrape av kjøtthinnen på bellinger.</x>
+               <xt>Gaamesh nieskedh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	        <re>om fisk</re>
+            <t diph="yes" pos="V">skibledh</t>
+	        <xg>
+               <x>Skrape av skjellene på fisken.</x>
+               <xt>Guelieh skibledh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	        <re>om gryte og kokekar</re>
+            <t diph="yes" pos="V">skeenedh</t>
+	        <xg>
+               <x>bunnskrape skåla med tommelen for fløte.</x>
+               <xt>Gïhpem bielkine skeenedh.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -12501,17 +12535,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t class="II" pos="V" umlaut="C">skråapodh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="II" pos="V" umlaut="C">våhtsodh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <re>om rein</re>
-            <t class="VI" pos="V" umlaut="F">pleehtjedh</t>
          </tg>
       </mg>
    </e>
