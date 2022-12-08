@@ -28476,6 +28476,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+      <e>
+      <lg>
+         <l pos="Phrase">oppholde seg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t p3p="orrede" pos="V">jogrestidh</t>
+         </tg>
+      </mg>
+   </e>
    <e>
       <lg>
          <l pos="V">fornye</l>
@@ -59590,5 +59600,56 @@ For the full license text, see the link above.</lic>
    </e>
 
 
+   <e>
+      <lg>
+         <l pos="V">ha</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>å ha noe</re>
+            <t pos="V">leah</t>
+            <xg>
+               <x>Jeg har en bil.</x>
+               <xt>Mov lea bïjle.</xt>
+            </xg>
+            <xg>
+               <x>Jeg har et hus.</x>
+               <xt>Mov lea gåetie.</xt>
+            </xg>
+            <xg>
+               <x>Anna har tre barn.</x>
+               <xt>Aannnan leah golme maanah.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	        <re>å ha gjort noe, (hjelpeverb)</re>
+            <t pos="V">leah</t>   
+            <xg>
+               <x>Jeg har kjøpt bil.</x>
+               <xt>Manne leam bïjlem åasteme.</xt>
+            </xg>
+            <xg>
+               <x>Ungene har vært lenge ute.</x>
+               <xt>Ångkenh leah guhkiem ålkene orreme.</xt>
+            </xg>
+            <xg>
+               <x>Lisa har vasket kopper.</x>
+               <xt>Læjsa lea lihtieh bïsseme.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>om å eie</re>
+            <t pos="V">eekedh</t>
+            <xg>
+               <x>Gïe dïhte dam eekie?</x>
+               <xt>Hvem eier den?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <xhtml:script xmlns:xhtml="http://www.w3.org/1999/xhtml" src="../../scripts/gt_dictionary.js" type="text/javascript"/>
 </r>
