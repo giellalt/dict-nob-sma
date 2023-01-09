@@ -257,6 +257,24 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>være i dårlig humør</re>
+            <t diph="yes" pos="V">suvriedidh</t>
+            <t class="I" pos="V" umlaut="full" vow="x">suvriedistedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">bisol</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>være bisol</re>
+            <t class="II" pos="V" umlaut="C">dåavlodh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -14371,6 +14389,12 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>være gjest</re>
+            <t class="II" p3p="gååsse" pos="V" umlaut="full" vow="x">gåassodh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -16777,6 +16801,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">starne</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>være ved god helse</re>
+            <t diph="yes" pos="V">verviestidh</t>
+            <xg>
+               <x>Nå er jeg ved god helse.</x>
+               <xt>Nov gujhth manne vervestem.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -19378,11 +19412,24 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">konsulente</t>
+            <t pos="N">raerievedtije</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">raerievedtije</t>
+	         <re>være konsulent</re>
+            <t class="I" pos="V" umlaut="full" vow="x">tjuevtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">ordstyrer</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>være ordstyrer</re>
+            <t class="I" pos="V" umlaut="full" vow="x">tsuvtsedh</t>
          </tg>
       </mg>
    </e>
@@ -27812,6 +27859,12 @@ For the full license text, see the link above.</lic>
             <t pos="N">sjovne</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>være tjenestejente</re>
+            <t pos="V">sjovnestidh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -32841,6 +32894,28 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">trïengke</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>være dreng</re>
+            <t pos="V">trïengkestidh</t>
+            <t pos="V">treangkestidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">vinddrag</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>være vinddrag</re>
+            <t pos="V">jïeledidh</t>
+            <xg>
+               <x>Det trekker.</x>
+               <xt>Jïelede.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
