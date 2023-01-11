@@ -2,7 +2,7 @@
 <dictmeta>
 
   <!-- The ID string for the dictionary -->
-  <id>nobsma</id>
+  <id>gtnobsma</id>
 
   <!-- The natural language name(s) for the dictionary -->
   <name xml:lang="no">Norsk-sørsamisk ordbok</name>
@@ -29,7 +29,7 @@
     lemma. Vær obs på at ordboka er blitt til ved å snu sørsamisk-norsk
     ordbok, og at ordboka dermed vil mangle en del vanlige norske ord.</p>
   </description>
-  
+
   <description xml:lang="se">
     <p>Sátnegirjji vuođđun lea Albert Jåma ja Tove Brustad sátnelistui, guđe lea
     gávdnomis <a href="http://www.ruovatsijte.no/">Hemnes Samiske
@@ -40,15 +40,15 @@
     sullii 8750 dárugiela vuođđohámi. Sátnegirji lea jorgaluvvon máttasámi-dáru sátnegirjjis,
     de lea vejolaš ahte oalle máŋga dábálaš dárusáni váilot.</p>
   </description>
-  
+
   <description xml:lang="sma">
     <p>Dan baakoegærjan sisvege båata Albert Jåman jïh Tove Brustaden baakoelæstojste, mah leah<a href="http://www.ruovatsijte.no/">Hemnes Samiske
     Forening</a> nedtesæjrosne. Lissine leah baakoeh mah jeenemes åtneme saemien tekstine, jïh 1250 åarjelsaemien sijjienommh mah Statens Kartverkeste jïh Sveerjen Saemiedigkien nedtesæjroste leah veedtjesovveme.Gaajhkh dah veerbh Verb!-gærjesne leah aaj mealtan, mejtie lea svïenskegïelese jorkesovveme.Dan baakoegærjan leah medtie 8750 daaroen lemma.Vuep!Dam åarjelsaemien-daaroen baakoegærjam libie jårrehtamme, dannasinie naan sïejhme daaroen baakoeh fååtesieh daennie Daaroen-åarjelsaemien baakoegærjesne.</p>
   </description>
-  
+
     <description xml:lang="smj">
     <p> Albert Jåma ja Tove Brustada báhkolistatjoakkáldahka l vuodon dán báhkogirjjáj. Báhkolistatjoakkáldahka l sadjihin  <a href="http://www.ruovatsijte.no/">Hemnes Samiske
-    Foreninga</a> næhttasijdon. Duodden de li dábálamos bágo oarjjelsáme tevstajs duoddidum, ja birrusin 1250 oarjjelsáme bájkkenamá li viettjadum Statens Kartverka ja Svieriga Sámedikke næhttabielijs. 
+    Foreninga</a> næhttasijdon. Duodden de li dábálamos bágo oarjjelsáme tevstajs duoddidum, ja birrusin 1250 oarjjelsáme bájkkenamá li viettjadum Statens Kartverka ja Svieriga Sámedikke næhttabielijs.
      Divna verba ma li girjen Verbh! li duoddiduvvam svierigadárogielak jårggålusájn. Tjoahkkáj li báhkogirjen birrusin 8750 dároliemmá. Gå dagájma dáv báhkogirjev de jårggålijma ber oarjjelsáme-dárro báhkogirjev, ja dajnas de vájlluji muhtem dábálasj dárogielbágo.</p>
   </description>
 
