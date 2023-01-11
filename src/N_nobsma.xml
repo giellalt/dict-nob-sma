@@ -7213,6 +7213,12 @@ For the full license text, see the link above.</lic>
             <t pos="N">bïevle</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>bli barmark</re>
+            <t class="IV" context="3pers" pos="V" umlaut="full" vow="x">bïevledh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -7354,6 +7360,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <re>om vinteren</re>
             <t illpl="no" pos="N">liemkede</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>bli mildvær</re>
+            <t class="III" pos="V">leamkedh</t>
          </tg>
       </mg>
    </e>
@@ -16143,6 +16155,12 @@ For the full license text, see the link above.</lic>
             <t pos="N">gïjre</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>bli vår</re>
+            <t pos="V">gïjredidh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -16206,6 +16224,17 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
+         <l pos="N">ablegøye</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>finne på ablegøyer</re>
+            <t pos="V">gïmpeldidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="N">vårløysing</l>
       </lg>
       <mg>
@@ -16221,6 +16250,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">gïknjele</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>bli fylt med tårer</re>
+            <t class="IV" pos="V" umlaut="full" vow="x">gïknjeldovvedh</t>
          </tg>
       </mg>
    </e>
