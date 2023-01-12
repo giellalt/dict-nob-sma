@@ -567,40 +567,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron">ingenting</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Phrase">ij mij</t>
-            <xg>
-               <x>Det står ingenting om det her.</x>
-               <xt>Ij mij daesnie tjåadtjoeh dan bïjre.</xt>
-            </xg>
-            <xg>
-               <x>Absolutt ingenting.</x>
-               <xt>Ij mij gænnah.</xt>
-            </xg>
-            <xg>
-               <x>Jeg hadde ingenting.</x>
-               <xt>Ij lij mov mij gænnah.</xt>
-            </xg>
-            <xg>
-               <x>Jeg trengte ikke å kjøpe noenting.</x>
-               <xt>Idtjim daarpesjh maam gænnah åestedh.</xt>
-            </xg>
-            <xg>
-               <x>Jeg ser ingenting.</x>
-               <xt>Im maam gænnah vuejnieh.</xt>
-            </xg>
-            <xg>
-               <x>Denne passer ikke til noe.</x>
-               <xt>Daate ij mïsse sjïehth.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Pron">noe</l>
       </lg>
       <mg>

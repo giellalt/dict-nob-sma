@@ -2526,6 +2526,17 @@ For the full license text, see the link above.</lic>
             <t pos="N">tïjje</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>ha tid</re>
+            <t class="IV" p3p="asta" pos="V" vow="a">astedh</t>
+            <t class="VI" pos="V">nööredh</t>
+            <xg>
+               <x>Jeg har ikke tid å dra dit.</x>
+               <xt>Im manne asth dahkoe vuelkedh.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -7371,6 +7382,58 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
+         <l pos="N">matlyst</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>miste matlysten</re>
+            <t pos="V">dealasidh</t>
+            <t pos="V">dealaskidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">ingenting</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Phrase">ij mij</t>
+            <xg>
+               <x>Det står ingenting om det her.</x>
+               <xt>Ij mij daesnie tjåadtjoeh dan bïjre.</xt>
+            </xg>
+            <xg>
+               <x>Absolutt ingenting.</x>
+               <xt>Ij mij gænnah.</xt>
+            </xg>
+            <xg>
+               <x>Jeg hadde ingenting.</x>
+               <xt>Ij lij mov mij gænnah.</xt>
+            </xg>
+            <xg>
+               <x>Jeg trengte ikke å kjøpe noenting.</x>
+               <xt>Idtjim daarpesjh maam gænnah åestedh.</xt>
+            </xg>
+            <xg>
+               <x>Jeg ser ingenting.</x>
+               <xt>Im maam gænnah vuejnieh.</xt>
+            </xg>
+            <xg>
+               <x>Denne passer ikke til noe.</x>
+               <xt>Daate ij mïsse sjïehth.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>bli til ingenting</re>
+            <t pos="V">dåssjanidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="N">trekopp</l>
       </lg>
       <mg>
@@ -11888,6 +11951,12 @@ For the full license text, see the link above.</lic>
             <t pos="N">gaavnedimmie</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>>ha stevnemøte</re>
+            <t minip="onlyPl" p3p="gaavnede" pos="V">gaavnedidh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -11896,6 +11965,17 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">gaavnedimmiesijjie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">tålmodighet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>ha tålmodighet</re>
+            <t class="IV" pos="V" vow="a">arhpedh</t>
          </tg>
       </mg>
    </e>
@@ -26185,11 +26265,13 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">reagka</t>
+            <t pos="N">rïngke</t>
          </tg>
       </mg>
       <mg>
+         <re>gå i ring</re>
          <tg xml:lang="sma">
-            <t pos="N">rïngke</t>
+            <t class="IV" pos="V" vow="aa">gaavedh</t>
          </tg>
       </mg>
    </e>
