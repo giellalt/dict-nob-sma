@@ -2531,6 +2531,7 @@ For the full license text, see the link above.</lic>
             <re>ha tid</re>
             <t class="IV" p3p="asta" pos="V" vow="a">astedh</t>
             <t class="VI" pos="V">nööredh</t>
+            <t class="VI" pos="V">nöödtedh</t>
             <xg>
                <x>Jeg har ikke tid å dra dit.</x>
                <xt>Im manne asth dahkoe vuelkedh.</xt>
@@ -11976,6 +11977,17 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
 	         <re>ha tålmodighet</re>
             <t class="IV" pos="V" vow="a">arhpedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">vigør</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>være i vigør, om gamle mennesker</re>
+            <t pos="V">deervesjidh</t>
          </tg>
       </mg>
    </e>
@@ -21578,6 +21590,32 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
+         <l pos="N">løpetid</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+         <re>være i løpetid</re>
+            <t pos="V">vijniedidh</t>
+            <xg>
+               <x>Tispa er i løpetid.</x>
+               <xt>Råaksoe vijnede.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">brusk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+           <re>være bruskaktig</re>
+           <t pos="V">pratjkoestidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="N">snø</l>
       </lg>
       <mg>
@@ -21588,6 +21626,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">moehtege</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+         <re>være lite snø</re>   
+         <t pos="V">bïrhtsehtidh</t>
          </tg>
       </mg>
    </e>
@@ -24895,6 +24939,47 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
+         <l pos="N">grimase</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>gjøre grimaser</re>
+            <t class="V" pos="V" umlaut="E">snorvedh</t>
+            <t class="VI" pos="V" umlaut="F">snjurmedh</t>
+            <t class="VI" pos="V" umlaut="F">skurnjedh</t>
+            <t class="VI" pos="V">jidtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">mareritt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+          <re>ha mareritt</re>
+            <t pos="V">voepedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">snare</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">gïele</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+          <re>se til snarer</re>
+            <t pos="V">ååhpedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="N">anledning</l>
       </lg>
       <mg>
@@ -24904,6 +24989,12 @@ For the full license text, see the link above.</lic>
                <x>til hvilken anledning/grunn er det?</x>
                <xt>man gaavhtan dïhte?</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>ha anledning</re>
+            <t class="VI" pos="V">nööredh</t>
          </tg>
       </mg>
    </e>
@@ -28615,11 +28706,13 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">skugkie</t>
+            <t pos="N">soejvene</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">soejvene</t>
+            <re>gi skygge</re>
+            <t pos="V">yörhkedidh</t>
          </tg>
       </mg>
    </e>
@@ -29738,6 +29831,23 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">vaanejaahkoe</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>ha mistanke om</re>
+            <t class="IV" pos="V" type="TV">sovmedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">ekstase</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>være som i ekstase</re>
+            <t class="II" pos="V" umlaut="C">geavodh</t>
          </tg>
       </mg>
    </e>
@@ -57574,7 +57684,25 @@ For the full license text, see the link above.</lic>
         <t pos="N">gåetieviehkie</t>
       </tg>
     </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>være hushjelp</re>
+            <t pos="V">tjeanadidh</t>
+         </tg>
+      </mg>
   </e>
+   <e>
+      <lg>
+         <l pos="N">huk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>sitte på huk</re>
+            <t pos="V">tjeakngasjidh</t>
+            <t pos="V">tjanhtasjidh</t>
+         </tg>
+      </mg>
+   </e>
   <e>
     <lg>
       <l pos="N" src="fad">kommuneseminar</l>

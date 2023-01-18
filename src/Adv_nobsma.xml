@@ -26,6 +26,32 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
+   <e>
+      <lg>
+         <l pos="Adv">glatt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>være glatt</re>
+            <t pos="V">vuenjiedidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">mulig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>være mulig</re>
+            <t minip="notSg1" p3p="gåarede" pos="V">gåaradidh</t>
+            <xg>
+               <x>Er det mulig?</x>
+               <xt>Dagke dïhte gåarede?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
 
 	<e note="checked">
       <lg>
