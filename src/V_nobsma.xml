@@ -1424,6 +1424,28 @@ For the full license text, see the link above.</lic>
             <t pos="V">jeeredidh</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sma">
+          <re>bli hindra</re>
+            <t class="II" pos="V" umlaut="C">heaptodh</t>
+            <t class="IV" pos="V" umlaut="D">heerredoevedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">hindres</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t class="IV" pos="V" umlaut="D">heerredoevedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t class="II" pos="V" umlaut="C">heaptodh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -1568,17 +1590,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">bli forferdet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="IV" pos="V" umlaut="full" vow="x">alvehtovvedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">komme til skade</l>
+         <l pos="V">skades</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -1608,51 +1620,29 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">begynne å bli urolig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="I" pos="V" umlaut="full" vow="x">arhtegåetedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">fornærme</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <t class="I" pos="V" umlaut="full" vow="x">armoedehtedh</t>
+            <t class="I" pos="V" umlaut="full" vow="x">ærmoedehtedh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
             <t diph="yes" pos="V">armoedidh</t>
+            <t diph="yes" pos="V">ærmoedidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
             <t diph="yes" pos="V">eadtoedidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t class="I" pos="V" umlaut="full" vow="x">iedtedh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
             <t class="I" pos="V" umlaut="full" vow="x">måaskadehtedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="I" pos="V" umlaut="full" vow="x">ærmoedehtedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t diph="yes" pos="V">ærmoedidh</t>
          </tg>
       </mg>
    </e>
@@ -1693,26 +1683,6 @@ For the full license text, see the link above.</lic>
 	        <re>>bli forarga</re> 
             <t class="II" pos="V" umlaut="C">armodh</t>
             <t class="II" pos="V" umlaut="C">ærmodh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">legge på grime</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t diph="yes" p3p="baagkohte" pos="V">baagkoehtidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="I" p3p="njåånestahta" pos="V" umlaut="full" vow="x">njåånestehtedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t p3p="njååneste" pos="V">njåånestidh</t>
          </tg>
       </mg>
    </e>
@@ -2740,16 +2710,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">bli kastet ut</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="IV" pos="V" umlaut="full" vow="x">beelhkesovvedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Phrase">hive ut</l>
       </lg>
       <mg>
@@ -2770,6 +2730,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="V">hïspehtidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+         <re>bli kastet ut</re>
+            <t class="IV" pos="V" umlaut="full" vow="x">beelhkesovvedh</t>
          </tg>
       </mg>
    </e>
@@ -40816,31 +40782,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">bli tett</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="II" pos="V" umlaut="C">dæktodh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="IV" pos="V" umlaut="D">domhpelgovvedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">domhpenidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">dyvhtegidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">vike</l>
       </lg>
       <mg>
@@ -40876,16 +40817,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="V">flåarastidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">bli fornærma</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="II" pos="V" umlaut="C">eadtodh</t>
          </tg>
       </mg>
    </e>
@@ -40967,61 +40898,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">bli fattig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="II" pos="V" umlaut="C">geafodh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">bli lett</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="II" pos="V" umlaut="C">geahpodh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Phrase">snappe til seg</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <t class="II" pos="V" umlaut="C">haavhkodh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">bli svak</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="II" pos="V" umlaut="C">heajjodh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="II" pos="V" umlaut="C">lajjodh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="II" pos="V" umlaut="C">veasjodh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">bli hindra</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="II" pos="V" umlaut="C">heaptodh</t>
          </tg>
       </mg>
    </e>
@@ -43845,16 +43726,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t class="IV" pos="V" umlaut="D">heekedalledh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">hindres</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="IV" pos="V" umlaut="D">heerredoevedh</t>
          </tg>
       </mg>
    </e>
