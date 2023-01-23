@@ -28,6 +28,39 @@ For the full license text, see the link above.</lic>
    </lics>
    <e>
       <lg>
+         <l pos="Adv">ferdig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>bli ferdig</re>
+            <t class="IV" minip="notSg1" pos="V" umlaut="full" vow="x">galhkasovvedh</t>
+            <t class="III" p3p="galhkoe" pos="V">galhkedh</t>
+            <t class="IV" pos="V" umlaut="D">dorjesovvedh</t>
+            <xg>
+               <x>Da jeg ble ferdig i butikken, ...</x>
+               <xt>Goh galhkeme daehtie bovreste, ...</xt>
+            </xg>
+            <xg>
+               <x>Er du allerede ferdig?</x>
+               <xt>Joe galhkeme?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">borte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+             <re>bli borte</re>
+           <t pos="V">gaarvanidh</t>
+            <t diph="yes" pos="V">gaatoelidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="Adv">glatt</l>
       </lg>
       <mg>
@@ -2665,7 +2698,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="Adv">geajnoeraejkien</t>
             <xg>
-               <x>De kommer gående etter vegen. </x>
+               <x>De kommer gående etter vegen.</x>
                <xt>Geajnoeraejkien båetieh vaedtsien.</xt>
             </xg>
          </tg>
@@ -4102,7 +4135,7 @@ For the full license text, see the link above.</lic>
                <xt>Jïh numhtegh frurkehte olkese.</xt>
             </xg>
             <xg>
-               <x>Slik går det også an å gjøre det. </x>
+               <x>Slik går det også an å gjøre det.</x>
                <xt>Numhtie aaj gåarede darjodh.</xt>
             </xg>
          </tg>
@@ -4116,7 +4149,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="Adv">namhtah</t>
             <xg>
-               <x>Jeg ble uten (egentl. det tok slutt). </x>
+               <x>Jeg ble uten (egentl. det tok slutt).</x>
                <xt>Manne eevre namhtah sjïdtim.</xt>
             </xg>
          </tg>
@@ -4300,34 +4333,6 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Nå er det tilstrekkelig!</x>
                <xt>Daelie hov nuekies!</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">på den måten</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Adv">numhtegh</t>
-            <xg>
-               <x>På den måten fløy den ut.</x>
-               <xt>Jïh numhtegh frurkehte olkese.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">på den der måten</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Adv">numhtie</t>
-            <xg>
-               <x>På den der måten går det også an å gjøre det. </x>
-               <xt>Numhtie aaj gåarede darjodh.</xt>
             </xg>
          </tg>
       </mg>
