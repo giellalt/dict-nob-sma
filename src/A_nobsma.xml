@@ -940,7 +940,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
 	         <re>bli flau</re>
-             <t diph="yes" p3p="sjaejmeje" pos="V">sjaejmoejidh</t>         
+             <t diph="yes" p3p="sjaejmeje" pos="V">sjaejmoejidh</t>
          </tg>
       </mg>
    </e>
@@ -1566,7 +1566,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-           <re>blli forferdet</re> 
+           <re>blli forferdet</re>
             <t class="IV" pos="V" umlaut="full" vow="x">alvehtovvedh</t>
          </tg>
       </mg>
@@ -2406,7 +2406,7 @@ For the full license text, see the link above.</lic>
             <t p3p="gallene" pos="V">gallanidh</t>
          </tg>
       </mg>
-   </e>  
+   </e>
    <e>
       <lg>
          <l pos="A">sulten</l>
@@ -2484,7 +2484,7 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
-   </e> 
+   </e>
    <e>
       <lg>
          <l pos="A">tissetrengt</l>
@@ -2503,7 +2503,7 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
-   </e> 
+   </e>
    <e>
       <lg>
          <l pos="A">bæsjetrengt</l>
@@ -2517,7 +2517,7 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
-   </e> 
+   </e>
    <e>
       <lg>
          <l pos="A">bred</l>
@@ -2896,7 +2896,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-	        <re>bli fattig</re> 
+	        <re>bli fattig</re>
             <t class="II" pos="V" umlaut="C">geafodh</t>
          </tg>
       </mg>
@@ -3241,7 +3241,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-	         <re>være dum</re> 
+	         <re>være dum</re>
             <t pos="V">jåamahtidh</t>
             <t pos="V">jåasaridh</t>
          </tg>
@@ -3253,7 +3253,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-	         <re>være kåt</re> 
+	         <re>være kåt</re>
             <t pos="V">kleenghkestidh</t>
          </tg>
       </mg>
@@ -3517,7 +3517,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-	        <re>være hardhendt med saker som ikke tåler det</re> 
+	        <re>være hardhendt med saker som ikke tåler det</re>
             <t pos="V">redtsiedidh</t>
          </tg>
       </mg>
@@ -5092,7 +5092,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-	        <re>være sta</re> 
+	        <re>være sta</re>
             <t pos="V">bajjesidh</t>
             <t pos="V">beekestidh</t>
          </tg>
@@ -5210,7 +5210,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-	       <re>bli isbelagt</re>  
+	       <re>bli isbelagt</re>
             <t class="VI" pos="V" umlaut="F">sihkedh</t>
          </tg>
       </mg>
