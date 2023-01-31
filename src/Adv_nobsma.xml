@@ -58,6 +58,12 @@ For the full license text, see the link above.</lic>
             <t diph="yes" pos="V">gaatoelidh</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>synes at noen blir lenge borte</re>
+            <t pos="V">gåhkasjidh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -5573,6 +5579,60 @@ For the full license text, see the link above.</lic>
                <x>Når reiser du sørover igjen?</x>
                <xt>Gåessie datne viht åarjese vualkah?</xt>
             </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">travelt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>travelhet</re>
+            <t illpl="no" pos="N">fuehpie</t>
+            <xg>
+               <x>Før jul blir det travelt.</x>
+               <xt>Jåvli åvteli fuehpie sjædta.</xt>
+            </xg>
+            <xg>
+               <x>Jeg har det travelt.</x>
+               <xt>JManne fuehpesne.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>å ha det travelt</re>
+            <t p3p="fuehpede" pos="V">fuehpiedidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>få det travelt og ikke vite hva man skal gjøre</re>
+            <t class="V" pos="V" umlaut="E">baanhtsarostedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">morsomt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>å ha det morsomt</re>
+            <t diph="yes" pos="V">klæhtoehtidh</t>
+            <t class="IV" pos="V" vow="a">lustestalledh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">hyggelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>ha det hyggelig</re>
+            <t diph="yes" p3p="murrede" pos="V">murriedidh</t>
          </tg>
       </mg>
    </e>

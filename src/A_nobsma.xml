@@ -400,6 +400,12 @@ For the full license text, see the link above.</lic>
             <t class="I" pos="V" umlaut="A">guhtjedh</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>holde våken</re>
+            <t diph="yes" p3p="guhtsehte" pos="V">guhtsiehtidh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -1244,8 +1250,8 @@ For the full license text, see the link above.</lic>
                <xt>Buerie sijjie lea.</xt>
             </xg>
             <xg>
-               <x>bli god.</x>
-               <xt>buerine sjïdtedh.</xt>
+               <x>bli god</x>
+               <xt>buerine sjïdtedh</xt>
             </xg>
          </tg>
       </mg>
