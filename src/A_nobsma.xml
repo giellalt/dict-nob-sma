@@ -409,6 +409,17 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
+         <l pos="A">solbrent</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>bli solbrent</re>
+            <t class="IV" pos="V" umlaut="full" vow="x">roevtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="A">rovdyrfritt</l>
       </lg>
       <mg>
@@ -1317,6 +1328,37 @@ For the full license text, see the link above.</lic>
             <t class="IV" p3p="damta" pos="V" vow="a">damtedh</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>bli kjent med</re>
+            <t p3p="åahpene" pos="V">åahpenidh</t>
+            <xg>
+               <x>Det er så artig å få bli kjent med deg.</x>
+               <xt>Dan luste åadtjodh datnine åahpenidh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>bli kjent med flere</re>
+            <t class="IV" pos="V" vow="a">åahpanadtedh</t>
+            <t class="IV" pos="V" vow="a">åahpenadtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Phrase">gjøre seg kjent</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t p3p="åahpene" pos="V">åahpenidh</t>
+            <xg>
+               <x>Jeg må bare få gjøre meg kjent med området.</x>
+               <xt>Tjoeverem barre åadtjodh dajvine åahpenidh.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -2023,6 +2065,16 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Piere er så sløv og likegyldig!</x>
                <xt>Piere dan ealjohts!</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>bli giddesløs</re>
+            <t class="IV" p3p="vïssjehtåvva" pos="V" umlaut="full" vow="x">vïssjehtovvedh</t>
+            <xg>
+               <x>Jeg ble nesten giddeløs.</x>
+               <xt>Manne raaktan vïssjehtovvim.</xt>
             </xg>
          </tg>
       </mg>
@@ -7113,11 +7165,33 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
+         <l pos="A">lei</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>bli lei</re>
+            <t class="IV" p3p="vïssjehtåvva" pos="V" umlaut="full" vow="x">vïssjehtovvedh</t>
+            <xg>
+               <x>Jeg ble så lei av det!</x>
+               <xt>Manne hov destie vïssjehtovvim!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="A">hvit</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <t pos="A">veelkes</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>bli hvit</re>
+            <t pos="V">vyölkedidh</t>
+            <t pos="V">vyölkenidh</t>
          </tg>
       </mg>
    </e>
@@ -9166,6 +9240,17 @@ For the full license text, see the link above.</lic>
         <t pos="A">dejpeladtje</t>
       </tg>
     </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A">vant</l>
+    </lg>
+      <mg>
+         <tg xml:lang="sma">
+	       <re>bli vant til å få noe</re>  
+            <t class="III" pos="V">snjåarkedh</t>
+         </tg>
+      </mg>
   </e>
   <e>
     <lg>

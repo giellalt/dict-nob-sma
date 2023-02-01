@@ -10552,6 +10552,12 @@ For the full license text, see the link above.</lic>
             <t pos="N">aajma</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sma">
+	       <re>sette inn med uvær</re>  
+            <t class="V" context="3pers" pos="V">rohtedh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -27554,6 +27560,17 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
+         <l pos="N">mellommat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+	      <re>spise mellommat</re>   
+            <t class="I" pos="V" umlaut="full" vow="x">snjåapedehtedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="N">spyd</l>
       </lg>
       <mg>
@@ -27564,6 +27581,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">saejtieklaahka</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>kjøre spydet i</re>
+            <t diph="yes" p3p="saejtede" pos="V">saejhtiedidh</t>
          </tg>
       </mg>
    </e>
