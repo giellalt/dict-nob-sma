@@ -13368,6 +13368,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+      <e>
+      <lg>
+         <l pos="N">aktivitet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">dåajme</t>
+         </tg>
+      </mg>
+   </e>
    <e>
       <lg>
          <l pos="N">jerv</l>
