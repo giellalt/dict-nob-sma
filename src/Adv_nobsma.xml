@@ -137,6 +137,20 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+      <e>
+      <lg>
+         <l pos="Adv">tomhendt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">gåaroesgïeti</t>
+            <xg>
+               <x>Han/Hun måtte vendte tilbake tomhendt.</x>
+               <xt>Tjoeveri gåaroesgïeti bååstede jarkelidh</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e>
       <lg>
          <l pos="Adv">sterkt</l>
