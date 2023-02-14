@@ -387,7 +387,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <re>>ikke bry seg om</re>
+            <re>ikke bry seg om</re>
             <t pos="V">barhkelidh</t>
          </tg>
       </mg>
@@ -1542,7 +1542,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-	        <re>>bli forarga</re> 
+	        <re>bli forarga</re> 
             <t class="II" pos="V" umlaut="C">armodh</t>
             <t class="II" pos="V" umlaut="C">ærmodh</t>
          </tg>
@@ -2029,59 +2029,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <re>om rein</re>
             <t class="I" p3p="baajhta" pos="V" umlaut="full" vow="x">baejhtedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">gjøre vondt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t context="3pers" diph="yes" pos="V">baektjiedidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="IV" pos="V" umlaut="full" vow="x">jïjledh</t>
-            <xg>
-               <x>Tannen gjør stadig vondt.</x>
-               <xt>Baenie jæjla.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t diph="yes" p3p="saejrede" pos="V">saejriedidh</t>
-            <xg>
-               <x>Hodet mitt verker.</x>
-               <xt>Mov åejjieh saejriedieh.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="I" hid="1" minip="notSg1" p3p="svæjra" pos="V" type="IV">svijredh</t>
-            <xg>
-               <x>såret svir</x>
-               <xt>saejrie svæjra</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="IV" pos="V" umlaut="D">saejriedahtjedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">ilkedidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-	         <re>begynne å gjøre vondt</re>
-            <t class="I" pos="V" umlaut="full" vow="x">baektjiegåetedh</t>
          </tg>
       </mg>
    </e>
@@ -3340,6 +3287,13 @@ For the full license text, see the link above.</lic>
             <t class="VI" p3p="tjöönghkie" pos="V">tjöönghkedh</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>bli plukket</re>
+            <t class="IV" context="3pers" pos="V" umlaut="full" vow="x">tjöönghkesovvedh</t>
+            <t class="IV" pos="V" umlaut="D">bæhkasovvedh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -3368,21 +3322,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t class="I" p3p="bæhka" pos="V" umlaut="full" vow="x">bihkedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">smake bittert</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t diph="yes" pos="V">bihtsiedidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="I" context="3pers" minip="notSg1" pos="V" umlaut="full" vow="x">tsietsedh</t>
          </tg>
       </mg>
    </e>
@@ -3814,6 +3753,12 @@ For the full license text, see the link above.</lic>
             <t class="IV" pos="V" umlaut="D">skïjlijahtjedh</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>begynne å gulne</re>
+            <t class="III" pos="V" umlaut="B">spualledh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -3898,16 +3843,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="V">boetkenidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">drive på å melke</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="IV" p3p="bohtjetjadta" pos="V" vow="a">bohtjehtjadtedh</t>
          </tg>
       </mg>
    </e>
@@ -4414,6 +4349,12 @@ For the full license text, see the link above.</lic>
             <t class="I" p3p="båhtja" pos="V" umlaut="full" vow="x">buhtjedh</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sma">
+	      <re>drive på å melke</re>   
+            <t class="IV" p3p="bohtjetjadta" pos="V" vow="a">bohtjehtjadtedh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -4468,6 +4409,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <re>om edderkopp</re>
             <t class="I" p3p="gårra" pos="V" umlaut="full" vow="x">gurredh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	      <re>spinne senetråd av ryggsene</re>   
+            <t class="VI" pos="V">sleehpedh</t>
          </tg>
       </mg>
    </e>
@@ -5167,21 +5114,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">forundre seg</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t p3p="bååhpere" pos="V">bååhperidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">ipmierdidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">barke</l>
       </lg>
       <mg>
@@ -5810,11 +5742,13 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t class="IV" p3p="dæjpa" pos="V" umlaut="full" vow="x">dïjpedh</t>
+            <t class="VI" pos="V" umlaut="F">dijpedh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t class="VI" pos="V" umlaut="F">dijpedh</t>
+	       <re>bli tatt</re>
+            <t class="IV" pos="V" umlaut="full" vow="x">vaaltasovvedh</t>
          </tg>
       </mg>
    </e>
@@ -7900,7 +7834,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-	         <re>transitiv: å koke noe</re>
+	         <re>transitiv: å koke (noe)</re>
             <t class="IV" p3p="vuassja" pos="V" umlaut="full" vow="x">voessjedh</t>
             <xg>
                <x>Bestemor koker kaffe og serverer småkaker.</x>
@@ -7910,8 +7844,20 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-	         <re>transitiv: å koke noe fort</re>
+	         <re>transitiv: å holde på å koke (noe)</re>
+            <t pos="V">voessjehtjidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>transitiv: å koke noe litt og fort</re>
             <t class="IV" p3p="vuassja" pos="V" umlaut="full" vow="x">voessjestidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>transitiv: å koke noe fort</re>
+            <t p3p="voessjele" pos="V">voessjelidh</t>
          </tg>
       </mg>
       <mg>
@@ -7936,9 +7882,15 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-	         <re>koke opp</re>
+	         <re>intransitiv: koke opp</re>
             <t class="IV" pos="V" umlaut="full" vow="x">doeltijahtjedh</t>
             <t class="I" context="3pers" pos="V" umlaut="full" vow="x">doeltijehtedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+         <re>komme i kok</re>
+            <t pos="V">doeltijidh</t>
          </tg>
       </mg>
       <mg>
@@ -9304,35 +9256,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">ha til hensikt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="IV" pos="V" umlaut="full" vow="x">eajhnadovvedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">earnadidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">geakasjidh</t>
-            <xg>
-               <x>Enda det var min mening.</x>
-               <xt>Manne maaje geakasjamme.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">åssjoelidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Phrase">komme i de tanker</l>
       </lg>
       <mg>
@@ -9822,10 +9745,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t class="VI" p3p="feelie" pos="V">feeledh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t class="VI" p3p="feerie" pos="V">feeredh</t>
          </tg>
       </mg>
@@ -11804,23 +11723,9 @@ For the full license text, see the link above.</lic>
             <t class="IV" p3p="gahpa" pos="V" vow="a">gahpedh</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">streve etter å komme opp</l>
-      </lg>
       <mg>
          <tg xml:lang="sma">
-            <t class="IV" p3p="gahpa" pos="V" vow="a">gahpedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">reise seg på to for å slå hastig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
+	      <re>reise seg på to for å slå hastig</re>   
             <t pos="V">gahpestidh</t>
          </tg>
       </mg>
@@ -12600,20 +12505,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">ha som mening</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">geakasjidh</t>
-            <xg>
-               <x>Enda det var min mening.</x>
-               <xt>Manne maaje geakasjamme.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">tvile</l>
       </lg>
       <mg>
@@ -13273,6 +13164,12 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sma">
+	       <re>bli trukket</re>  
+            <t pos="V">sygkesidh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -13425,6 +13322,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <t pos="V">galmedidh</t>
             <t pos="V">gilmehtidh</t>
          </tg>
       </mg>
@@ -14653,6 +14551,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="V">gaesvierdidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	      <re>velte flere ting</re>   
+            <t class="IV" pos="V" vow="a">rïehpestalledh</t>
          </tg>
       </mg>
    </e>
@@ -17548,16 +17452,6 @@ For the full license text, see the link above.</lic>
 	         <re>bli skuffet</re>
             <t pos="V">hojnegidh</t>
             <t pos="V">njoejjegidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">ha til hensikt å</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="I" pos="V">iernedh</t>
          </tg>
       </mg>
    </e>
@@ -20527,7 +20421,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-	         <re>>bli lurt</re>
+	         <re>bli lurt</re>
             <t class="IV" pos="V" vow="a">beahtahtalledh</t>
             <t pos="V">slågkagidh</t>
          </tg>
@@ -20647,30 +20541,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t diph="yes" p3p="leamoste" pos="V">leamoestidh</t>
-            <xg>
-               <x>koke kraft av bein</x>
-               <xt>måaroeh leamoestidh</xt>
-            </xg>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">koke ut kraft</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t diph="yes" p3p="leamoste" pos="V">leamoestidh</t>
-            <xg>
-               <x>koke kraft av bein</x>
-               <xt>måaroeh leamoestidh</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">koke kaffe på grut</l>
+         <l pos="Phrase">koke ut noe</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -22973,6 +22849,15 @@ For the full license text, see the link above.</lic>
             <t class="IV" pos="V" umlaut="D">aarvadalledh</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="V">geakasjidh</t>
+            <xg>
+               <x>Enda det var min mening.</x>
+               <xt>Manne maaje geakasjamme.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -23817,10 +23702,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t minip="notSg1" pos="V">njemkehtidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t diph="yes" minip="notSg1" pos="V">njemkiehtidh</t>
          </tg>
       </mg>
@@ -24708,16 +24589,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">bli tomt for noe</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t p3p="nåhkele" pos="V">nåhkelidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Phrase">gå med på</l>
       </lg>
       <mg>
@@ -25218,27 +25089,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t class="IV" pos="V" umlaut="D">bradtjedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">bli oppblåst</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="III" p3p="pragkoe" pos="V">pragkedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <re>om mage</re>
-            <t pos="V">bosseldidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">pragkedidh</t>
          </tg>
       </mg>
    </e>
@@ -26238,30 +26088,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">kalven begynner å lete etter simla</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="I" minip="notSg1" p3p="råavegåata" pos="V" umlaut="full" vow="x">råavegåetedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">bli forundret</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">råvnasjidh</t>
-            <xg>
-               <x>han undret seg over at ..</x>
-               <xt>råvnesji juhkoe ...</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Phrase">undre seg</l>
       </lg>
       <mg>
@@ -26287,16 +26113,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">finne underlig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">råvnesjidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Phrase">slikke urin omkring gammene</l>
       </lg>
       <mg>
@@ -26313,26 +26129,15 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="V">rååpsedidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="V">reapsasjidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="V">reapsanidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="V">ruapsadidh</t>
+            <t pos="V">ruapsasjidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="V">ruapsasjidh</t>
+            <t pos="V">prantjegidh</t>
          </tg>
       </mg>
    </e>
@@ -26349,16 +26154,6 @@ For the full license text, see the link above.</lic>
    <e>
       <lg>
          <l pos="Phrase">kaste overende flere ting</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="IV" pos="V" vow="a">rïehpestalledh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">velte flere ting</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -26975,6 +26770,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t class="VI" p3p="tjöönghkie" pos="V">tjöönghkedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	       <re>bli samlet</re>  
+            <t class="IV" context="3pers" pos="V" umlaut="full" vow="x">tjöönghkesovvedh</t>
          </tg>
       </mg>
    </e>
@@ -28067,31 +27868,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">ta skade</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t context="3pers" pos="V">skïemmenidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">bli skjemt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t context="3pers" pos="V">skïemmenidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="IV" pos="V" umlaut="D">byjestovvedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Phrase">pare seg</l>
       </lg>
       <mg>
@@ -28149,16 +27925,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <re>om rein</re>
             <t class="VI" p3p="sleegkie" pos="V">sleegkedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">spinne senetråd av ryggsene</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="VI" pos="V">sleehpedh</t>
          </tg>
       </mg>
    </e>
@@ -29722,16 +29488,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">bli trukket</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">sygkesidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Phrase">passe barn</l>
       </lg>
       <mg>
@@ -29742,16 +29498,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t class="VI" pos="V" umlaut="F">suvhtedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">ha omsorg for</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="VI" p3p="sujhtie" pos="V">sujhtedh</t>
          </tg>
       </mg>
    </e>
@@ -32018,31 +31764,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">bli plukket</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="IV" context="3pers" pos="V" umlaut="full" vow="x">tjöönghkesovvedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="IV" pos="V" umlaut="D">bæhkasovvedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">bli samlet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="IV" context="3pers" pos="V" umlaut="full" vow="x">tjöönghkesovvedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Phrase">begynne å plukke</l>
       </lg>
       <mg>
@@ -32192,21 +31913,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">ha det trivelig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">tråjjadidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">tryöjjadidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Phrase">komme til saken</l>
       </lg>
       <mg>
@@ -32328,7 +32034,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">reise opp</l>
+         <l pos="Phrase">reise noe opp</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -32978,16 +32684,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">ha smerter</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="IV" pos="V" vow="aa">vaajvedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">plages</l>
       </lg>
       <mg>
@@ -33108,16 +32804,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">bli tatt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="IV" pos="V" umlaut="full" vow="x">vaaltasovvedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">bevare</l>
       </lg>
       <mg>
@@ -33224,46 +32910,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t diph="yes" pos="V">vaejviedidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">ha smerte</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t diph="yes" pos="V">vaejviedidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">påføre smerte</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t diph="yes" pos="V">vaejviestidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">påføre lidelse</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t diph="yes" pos="V">vaejviestidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">påføre bekymring</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t diph="yes" pos="V">vaejviestidh</t>
          </tg>
       </mg>
    </e>
@@ -33724,16 +33370,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">ha blodsott</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="I" pos="V" umlaut="full" vow="x">vertedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Phrase">gå hurtig</l>
       </lg>
       <mg>
@@ -33882,16 +33518,6 @@ For the full license text, see the link above.</lic>
                <x>vurderingsgrunnlag</x>
                <xt>vierhtiedimmievåarome</xt>
             </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">ha dyresykdommen tussen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t p3p="vierkede" pos="V">vierkedidh</t>
          </tg>
       </mg>
    </e>
@@ -34329,16 +33955,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t class="IV" pos="V" umlaut="full" vow="x">voerpesovvedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">koke i en fart</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t p3p="voessjele" pos="V">voessjelidh</t>
          </tg>
       </mg>
    </e>
@@ -35596,6 +35212,12 @@ For the full license text, see the link above.</lic>
             <t class="V" pos="V" umlaut="E">hååkedh</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sma">
+	       <re>bli ordnet</re>  
+            <t class="IV" pos="V" umlaut="full" vow="x">öörnesovvedh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -35609,16 +35231,6 @@ For the full license text, see the link above.</lic>
                <x>Hvem er det som arrangerer det?</x>
                <xt>Gïeh dah jis dam öörnedieh?</xt>
          </xg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">bli brakt i orden</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="IV" pos="V" umlaut="full" vow="x">öörnesovvedh</t>
-         </tg>
       </mg>
    </e>
    <e>
@@ -35709,16 +35321,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="V">undres</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">onterdidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Phrase">slå sprekke</l>
       </lg>
       <mg>
@@ -35769,16 +35371,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">spre reinsdyr</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="VI" pos="V">speedtjedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Phrase">spre reinhjord</l>
       </lg>
       <mg>
@@ -35814,16 +35406,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="V">svatjkesidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">holde på å koke</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">voessjehtjidh</t>
          </tg>
       </mg>
    </e>
@@ -36026,16 +35608,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">ha treg mage</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="II" pos="V" umlaut="full" vow="x">tjæjnodh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Phrase">brekkes av</l>
       </lg>
       <mg>
@@ -36127,35 +35699,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t class="IV" pos="V" vow="a">ååjsehtalledh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">bli bedre</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">buaranidh</t>
-            <xg>
-               <x>Jeg har blitt bedre av hosten.</x>
-               <xt>Novh leam gossehtsijstie buaranamme.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">jïerenidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">komme i kok</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">doeltijidh</t>
          </tg>
       </mg>
    </e>
@@ -39574,16 +39117,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">bli blekgul</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="III" pos="V" umlaut="B">spualledh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Phrase">bli verre</l>
       </lg>
       <mg>
@@ -40469,32 +40002,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">ha ring rundt seg</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="IV" pos="V" umlaut="D">daavledh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <re>om sola</re>
-            <t pos="V">daavlesidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">holde på og feste i hop</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="IV" pos="V" umlaut="D">dabrahtalledh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Phrase">snørekjøre på ski etter rein</l>
       </lg>
       <mg>
@@ -40995,16 +40502,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t class="IV" pos="V" umlaut="D">fyödtelgovvedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">ha forheng på vogge</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="IV" pos="V" umlaut="D">gaabledh</t>
          </tg>
       </mg>
    </e>
@@ -44232,16 +43729,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">gjøre vont</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="VI" pos="V" umlaut="F">speekedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Phrase">hugge av</l>
       </lg>
       <mg>
@@ -44304,16 +43791,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <re>om rein</re>
             <t class="VI" pos="V" umlaut="F">stöövedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">gjøre vondt i tennene</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="VI" pos="V" umlaut="F">sveeledh</t>
          </tg>
       </mg>
    </e>
@@ -45330,6 +44807,12 @@ For the full license text, see the link above.</lic>
             <t pos="V">dabrelidh</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sma">
+	      <re>holde på og feste i hop</re>   
+            <t class="IV" pos="V" umlaut="D">dabrahtalledh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -45992,6 +45475,14 @@ For the full license text, see the link above.</lic>
             <t pos="V">dåaktjelidh</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sma">
+	      <re>koke kaffe fort</re>   
+            <t pos="V">pråaktjelidh</t>
+            <t pos="V">pråatjkelidh</t>
+            <t pos="V">prååredidh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -46097,16 +45588,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="V">dååjrehtidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">ha samlag</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">dååkerdidh</t>
          </tg>
       </mg>
    </e>
@@ -46735,47 +46216,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <re>om rein</re>
             <t pos="V">gaekierdidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">ha hard avføring</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <re>om mennesker</re>
-            <t pos="V">gaekierdidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">føre tilbake dem som tatt av fra den rette veien</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">gajvelidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">ta en omveg</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">gajvestidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">la kjøtt fryse ned</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">galmedidh</t>
          </tg>
       </mg>
    </e>
@@ -47678,21 +47118,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">ha kraft</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">håsvedidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">håsveridh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Phrase">henge med hodet</l>
       </lg>
       <mg>
@@ -48155,21 +47580,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">ha til overs</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">læjkaridh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">læjkahtidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">veksle</l>
       </lg>
       <mg>
@@ -48195,16 +47605,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="V">lååvesjidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">ha måltid</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">maeliestidh</t>
          </tg>
       </mg>
    </e>
@@ -48638,11 +48038,21 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">forundres over noe</l>
+         <l pos="V">forundres</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <t pos="V">plååskesidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t p3p="bååhpere" pos="V">bååhperidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="V">ipmierdidh</t>
          </tg>
       </mg>
    </e>
@@ -48713,16 +48123,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <re>om reinkalv</re>
             <t pos="V">praepkiehtidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V" re="i ansiktet">bli rød</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">prantjegidh</t>
          </tg>
       </mg>
    </e>
@@ -48986,18 +48386,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="V">pruvvelidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">koke kaffe fort</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">pråaktjelidh</t>
-            <t pos="V">pråatjkelidh</t>
-            <t pos="V">prååredidh</t>
          </tg>
       </mg>
    </e>
@@ -49591,16 +48979,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">ha mageknip</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">skirmieldidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Phrase">dekke over</l>
       </lg>
       <mg>
@@ -49899,16 +49277,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="V">saahtesjidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">ha klovsjuke</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">saajvestidh</t>
          </tg>
       </mg>
    </e>
@@ -51097,16 +50465,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">ha litt vont</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">tjaagredidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Phrase">smyge inn</l>
       </lg>
       <mg>
@@ -52021,31 +51379,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="V">åadajidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">bli bedervet ved å glemmes bort</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">åajkasidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">gi et råd</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">åajvadidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">åajvedidh</t>
          </tg>
       </mg>
    </e>
