@@ -25938,6 +25938,26 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
+         <l pos="N">likegyldighet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">ealjohtsvoete</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">håpløshet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">håhkohtsvoete</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="N">uenighet</l>
       </lg>
       <mg>
