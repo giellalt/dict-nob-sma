@@ -1375,6 +1375,11 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <t pos="A">damtoes</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
 	         <re>bli kjent med</re>
             <t class="IV" p3p="damta" pos="V" vow="a">damtedh</t>
          </tg>
