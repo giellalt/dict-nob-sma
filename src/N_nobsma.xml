@@ -152,12 +152,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">radio-boelhketje</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">radijoveboelhketje</t>
+            <t pos="N">raadijoveboelhketje</t>
          </tg>
       </mg>
 	</e>
@@ -293,7 +288,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">aalkoe</t>
             <t pos="N">aalkove</t>
          </tg>
       </mg>
@@ -347,6 +341,26 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">laaketsiehkie</t>
+         </tg>
+      </mg>
+   </e>
+      <e>
+      <lg>
+         <l pos="N">lysestake</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">tjoevkesjuelkie</t>
+         </tg>
+      </mg>
+   </e> 
+      <e>
+      <lg>
+         <l pos="N">kofte på vranga</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">mådtsoehgåptoe</t>
          </tg>
       </mg>
    </e>
