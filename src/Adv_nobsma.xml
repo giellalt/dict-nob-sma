@@ -4087,6 +4087,20 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
+         <l pos="Adv">ganske</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">naa</t>
+            <xg>
+               <x>Den er ganske stor.</x>
+               <xt>Dïhte naa stoerre.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="Adv">slik som denne</l>
       </lg>
       <mg>
@@ -4693,14 +4707,14 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Adv">ganske sakte</l>
+         <l pos="Adv">langsomt</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <t pos="Adv">soejmetje</t>
             <t pos="Adv">soejmetji</t>
             <xg>
-               <x>Ganske sakte begynner jeg å sløye den lille fisken.</x>
+               <x>Langsomt begynner jeg å sløye den lille fisken.</x>
                <xt>Soejmetje aalkam tjööledh dam onne gualetjem.</xt>
             </xg>
          </tg>
