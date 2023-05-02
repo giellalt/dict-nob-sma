@@ -28376,42 +28376,35 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="V">soelkedidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t class="I" pos="V" umlaut="full" vow="x">åajaldehtedh</t>
+            <t class="I" pos="V" umlaut="A">aajaldehtedh</t>
+            <xg>
+               <x>Åajaldehtin jïjtjemse.</x>
+               <xt>De glemte seg selv.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t class="I" pos="V" umlaut="A">aajaldehtedh</t>
+            <t pos="V">åajaldidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
             <t class="I" pos="V" umlaut="A">vaajeldehtedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t class="I" pos="V" umlaut="A">vååjeldehtedh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
             <t pos="V">vaajaldidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="V">våajaldidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="V">åajaldidh</t>
+            <re>tilgi</re>
+            <t pos="V">soelkedidh</t>
          </tg>
       </mg>
    </e>
