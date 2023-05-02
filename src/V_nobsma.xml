@@ -28376,7 +28376,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-         <t p3p="åahpene" pos="V" stem="3syll">åahpenidh</l>
+         <t p3p="åahpene" pos="V" stem="3syll">åahpenidh</t>
             <xg>
                <x>Luste datnine åahpenidh.</x>
                <xt>Artig å bli kjent med deg.</xt>
@@ -28390,7 +28390,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-         <t class="IV" pos="V" stem="2syll" vow="a">åahpenadtedh</l>
+         <t class="IV" pos="V" stem="2syll" vow="a">åahpenadtedh</t>
          </tg>
       </mg>
    </e>
