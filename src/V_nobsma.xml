@@ -28372,16 +28372,50 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
+         <l pos="Phrase">bli kjent</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+         <t p3p="åahpene" pos="V" stem="3syll">åahpenidh</l>
+            <xg>
+               <x>Luste datnine åahpenidh.</x>
+               <xt>Artig å bli kjent med deg.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Phrase">bli kjent med flere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+         <t class="IV" pos="V" stem="2syll" vow="a">åahpenadtedh</l>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="V">glemme</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <t class="I" pos="V" umlaut="full" vow="x">åajaldehtedh</t>
-            <t class="I" pos="V" umlaut="A">aajaldehtedh</t>
+            <xg>
+               <x>Dam im åajaldehtieh.</x>
+               <xt>Det glemmer jeg ikke.</xt>
+            </xg>
             <xg>
                <x>Åajaldehtin jïjtjemse.</x>
                <xt>De glemte seg selv.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>sydlig</re>
+            <t class="I" pos="V" umlaut="A">vååjeldehtedh</t>
+            <t class="I" pos="V" umlaut="A">vaajaldehtedh</t>
          </tg>
       </mg>
       <mg>
@@ -28391,19 +28425,14 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t class="I" pos="V" umlaut="A">vaajeldehtedh</t>
-            <t class="I" pos="V" umlaut="A">vååjeldehtedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">vaajaldidh</t>
+            <re>sydlig</re>
             <t pos="V">våajaldidh</t>
+            <t pos="V">vaajaldidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <re>tilgi</re>
+            <re>å tilgi</re>
             <t pos="V">soelkedidh</t>
          </tg>
       </mg>
