@@ -123,6 +123,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Levanger</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N" type="Prop">Levangke</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="N" type="Prop" sem_type="Plc">Meråker</l>
       </lg>
       <mg>
@@ -551,6 +561,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N" type="Prop">Vaapste</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Bjørhusdal</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N" type="Prop">Guertiesmehkie</t>
          </tg>
       </mg>
    </e>
@@ -7340,14 +7360,22 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <re>Grane</re>
-            <t pos="N" type="Prop">Feelpsvuemie</t>
+            <t pos="N" type="Prop">Feelpehtvuemie</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <re>Grane</re>
-            <t pos="N" type="Prop">Feelphvuemie</t>
+            <t pos="N" type="Prop">Fïjhpelogkoenvuemie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Fiplingkroken</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N" type="Prop">Fïjhpelogkoenmåelhkie</t>
          </tg>
       </mg>
    </e>
@@ -8132,7 +8160,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re>Grane</re>
-            <t pos="N" type="Prop">Fijhpelogkoe</t>
+            <t pos="N" type="Prop">Fïjhpelogkoe</t>
          </tg>
       </mg>
    </e>
@@ -8602,17 +8630,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <re>Grane</re>
             <t pos="N" type="Prop">Gabtedurrie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Storfiplingdalen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <re>Grane</re>
-            <t pos="N" type="Prop">Feelpehtvuemie</t>
          </tg>
       </mg>
    </e>
