@@ -1274,6 +1274,27 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>akkurat her</re>
+            <t pos="Adv">daesnie</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>her omkring</re>
+            <t pos="Adv">daebpene</t>
+            <xg>
+               <x>Kommer du innom her i morgen også?</x>
+               <xt>Jirreden aaj daebpene mïnnh?</xt>
+            </xg>
+            <xg>
+               <x>Samene har lenge bodd her i sør.</x>
+               <xt>Saemieh guhkiem daebpene åarjene orreme.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>her, denne vei</re>
             <t pos="Adv">daagkoe</t>
             <xg>
                <x>Her har jeg aldri gått.</x>
@@ -1283,7 +1304,13 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Adv">daelie</t>
+            <re>her omkring</re>
+            <t pos="Adv">daajkoe</t>
+            <t pos="Adv">daajka</t>
+            <xg>
+               <x>Her omkring er det fremdeles barmark.</x>
+               <xt>Daajkoe annje bïevle.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1298,25 +1325,6 @@ For the full license text, see the link above.</lic>
                <x>Her har jeg aldri gått.</x>
                <xt>Im leah aarebi daagkoe vaadtseme.</xt>
             </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">her omkring</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Adv">daajkoe</t>
-            <xg>
-               <x>Her omkring er det fremdeles barmark.</x>
-               <xt>Daajkoe annje bïevle.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Adv">daajka</t>
          </tg>
       </mg>
    </e>
@@ -1431,20 +1439,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="Po">duebpelen</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">her borte</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Adv">daebpene</t>
-            <xg>
-               <x>Samene har lenge bodd her i sør.</x>
-               <xt>Saemieh guhkiem daebpene åarjene orreme.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
