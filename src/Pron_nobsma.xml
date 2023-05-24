@@ -107,7 +107,7 @@ For the full license text, see the link above.</lic>
             <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#P%C3%A5pekende+pronomen">les i grammatikken</t>            
             <xg>
                <x>Hva er det der?</x>
-               <xt>Mij dohte?</xt>
+               <xt>Mij doete?</xt>
             </xg>
             <xg>
                <x>Det kom fra den.</x>
@@ -136,6 +136,136 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Det blir fint med det bordet.</x>
                <xt>Tjaebpie sjædta duejnie buertine.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>både den og det, der borte (fjernere)</re>
+            <t pos="Pron" type="Dem">dohte</t>
+            <xg>
+               <x>Hva er det der borte?</x>
+               <xt>Mij dohte?</xt>
+            </xg>
+            <xg>
+               <x>Gubpede dohte kaarre?</x>
+               <xt>Hvorfra er den der karen?</xt>
+            </xg>
+            <xg>
+               <x>Dohte vaerie luvliegassji.</x>
+               <xt>Det der fjellet tilhører folkene i øst.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Dem">det</l> 
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>både den og det</re>
+            <t pos="Pron" type="Dem">dïhte</t>
+            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#P%C3%A5pekende+pronomen">les i grammatikken</t>            
+            <xg>
+               <x>Den er kommet.</x>
+               <xt>Dïhte lea båateme.</xt>
+            </xg>
+            <xg>
+               <x>Jeg ser den.</x>
+               <xt>Manne dam vuajnam.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>både den og det, foran substantiv</re>
+            <t pos="Pron" type="Dem">dïhte</t>
+            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#P%C3%A5pekende+pronomen+sammen+med+substantiv">les i grammatikken</t>            
+            <xg>
+               <x>Er den lua di?</x>
+               <xt>Dïhte tjohpe lea dov?</xt>
+            </xg>
+            <xg>
+               <x>Har du strikket den lua sjøl?</x>
+               <xt>Dam tjohpem jïjtje gårreme?</xt>
+            </xg>
+            <xg>
+               <x>Den lua har ingen dusk.</x>
+               <xt>Dan tjohpen ij naan duahpa.</xt>
+            </xg>
+            <xg>
+               <x>Til den lua må du knytte en dusk.</x>
+               <xt>Dan tjohpese tjoeverh duahpam gårredidh.</xt>
+            </xg>
+            <xg>
+               <x>Vi to skulle se hva som var i den store pakken.</x>
+               <xt>Månnoeh edtjimen goevlestidh mij dennie stoerre pahkesne.</xt>
+            </xg>
+            <xg>
+               <x>Av den lua ser du hvem det er.</x>
+               <xt>Dehtie tjohpeste vuajna gie lea.</xt>
+            </xg>
+            <xg>
+               <x>Du kan gå til skolen med den lua.</x>
+               <xt>Dejnie tjohpine maahta skuvlese vaedtsedh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>både den og det, nærmere deg enn meg</re>
+            <t pos="Pron" type="Dem">doete</t>
+            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#P%C3%A5pekende+pronomen">les i grammatikken</t>            
+            <xg>
+               <x>Hva er det der?</x>
+               <xt>Mij doete?</xt>
+            </xg>
+            <xg>
+               <x>Det kom fra den.</x>
+               <xt>Duestie bööti.</xt>
+            </xg>
+            <xg>
+               <x>Det bordet ved siden av deg er nytt.</x>
+               <xt>Doete buertie orre.</xt>
+            </xg>
+            <xg>
+               <x>Det bordet har svarte bein.</x>
+               <xt>Doen buertien tjeehpes juelkieh.</xt>
+            </xg>
+            <xg>
+               <x>Det bordet der brakte bestefar hit.</x>
+               <xt>Doem buertiem aajja böökti diekie.</xt>
+            </xg>
+            <xg>
+               <x>Legg boka på det bordet!</x>
+               <xt>Bïejh gærjam doen buartan!</xt>
+            </xg>
+            <xg>
+               <x>Det kom fra det bordet.</x>
+               <xt>Duehtie buerteste bööti.</xt>
+            </xg>
+            <xg>
+               <x>Det blir fint med det bordet.</x>
+               <xt>Tjaebpie sjædta duejnie buertine.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>både den og det, der borte (fjernere)</re>
+            <t pos="Pron" type="Dem">dohte</t>
+            <xg>
+               <x>Hva er det der borte?</x>
+               <xt>Mij dohte?</xt>
+            </xg>
+            <xg>
+               <x>Gubpede dohte kaarre?</x>
+               <xt>Hvorfra er den der karen?</xt>
+            </xg>
+            <xg>
+               <x>Dohte vaerie luvliegassji.</x>
+               <xt>Det der fjellet tilhører folkene i øst.</xt>
             </xg>
          </tg>
       </mg>
@@ -309,6 +439,42 @@ For the full license text, see the link above.</lic>
    <e>
       <lg>
          <l pos="Pron" type="Dem">denne</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>både denne og dette</re>
+            <t pos="Pron" type="Dem">daate</t>
+            <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#P%C3%A5pekende+pronomen">les i grammatikken</t>            
+            <xg>
+               <x>Denne/Dette passer nok.</x>
+               <xt>Daate gujht sjeahta.</xt>
+            </xg>
+            <xg>
+               <x>Jeg vil ikke ta på meg denne/dette.</x> 
+               <xt>Im sïjhth daam tsaekedh.</xt>
+            </xg>
+            <xg>
+               <x>Går det bra å kjøre med denne bilen?</x>
+               <xt>Hijven gåarede daejnie bïjline vuejedh?</xt>
+            </xg>
+            <xg>
+               <x>Dette huset har to dører og tre vinduer.</x>
+               <xt>Daan gåetien göökte oksh jïh golme klaash.</xt>
+            </xg>
+            <xg>
+               <x>Til dette huset flyttet jeg i fjor.</x>
+               <xt>Daan gåatan dæjman juhtiejim.</xt>
+            </xg>
+            <xg>
+               <x>Til dette flyttet jeg i fjor.</x>
+               <xt>Daase dæjman juhtiejim.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Dem">dette</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
