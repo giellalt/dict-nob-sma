@@ -8396,6 +8396,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">vïerpe</t>
+            <t pos="N">veerbe</t>
          </tg>
       </mg>
    </e>
@@ -12773,12 +12774,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">skïebtjehïejme</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">skiemtjehïejme</t>
+            <t pos="N">skïemtjehïejme</t>
          </tg>
       </mg>
     </e>
@@ -20515,6 +20511,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">kurse</t>
+            <t pos="N">kuvsje</t>
          </tg>
       </mg>
    </e>
@@ -41731,7 +41728,20 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="N">daatanehte</t>
          </tg>
-
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">nett</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">viermie</t>
+         </tg>
+         <tg xml:lang="sma">
+            <t pos="N">nehte</t>
+            <t pos="N">nedte</t>
+         </tg>
       </mg>
    </e>
    <e>
