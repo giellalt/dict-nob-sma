@@ -1835,7 +1835,7 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Han er kommet.</x>
                <xt>Dïhte lea båateme.</xt>
-               <xt>Dïhte båateme.</xt>
+               <!-- <xt>Dïhte båateme.</xt> -->
             </xg>
          </tg>
       </mg>
@@ -1866,7 +1866,7 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Hun er kommet.</x>
                <xt>Dïhte lea båateme.</xt>
-               <xt>Dïhte båateme.</xt>
+               <!-- <xt>Dïhte båateme.</xt> -->
             </xg>
          </tg>
       </mg>
