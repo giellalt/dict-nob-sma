@@ -14608,6 +14608,12 @@ For the full license text, see the link above.</lic>
             <t pos="N">guelie</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sma">
+	      <re>fisk etter gytetiden</re>   
+            <t pos="N">slavtjeguelie</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -29699,16 +29705,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">fisk etter gytetiden</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">slavtjeguelie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Phrase">utgytt fisk</l>
       </lg>
       <mg>
@@ -35135,8 +35131,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="N">viermie</t>
             <xg>
-               <x>sette garn vitje fiskegarn for å se om det er fisk i det trekke fiskegarn</x>
-               <xt>viermieh jadtehtidh doeredh viermieh doeredh</xt>
+               <x>sette garn</x>
+               <xt>viermieh jadtehtidh</xt>
+            </xg>
+            <xg>
+               <x>trekke fiskegarn</x>
+               <xt>viermieh doeredh</xt>
             </xg>
          </tg>
       </mg>

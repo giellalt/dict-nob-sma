@@ -3474,32 +3474,36 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="V">brenne</l>
+         <l pos="V">brenne</l> Dålle	buala
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t class="I" pos="V" umlaut="full" vow="x">bissedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
+            <re>intransitiv, noe brenner</re>
             <t class="I" context="3pers" pos="V" umlaut="full" vow="x">bueledh</t>
+            <xg>
+               <x>Bålet brenner.</x>
+               <xt>Dålle buala.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <re>transitiv</re>
+            <re>transitiv, å brenne noe</re>
             <t class="I" pos="V" umlaut="full" vow="x">båeltedh</t>
+            <xg>
+               <x>Tjæreved brukte de å brenne for å få tjære.</x>
+               <xt>Derviemoerh provhkin båeltedh ihke derviem åadtjodh.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="V">njåatskelidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
+            <re>transitiv, å brenne litt, evt. riste brød</re>
             <t p3p="snjierpede" pos="V">snjïerpedidh</t>
+            <xg>
+               <x>Vi rister brød.</x>
+               <xt>Mijjie laejpieh snjïerpebe.</xt>
+            </xg>
             <xg>
                <x>Glørne brente ikke hendene eller poncho hans.</x>
                <xt>Idtjin dah sjïjlh altese gïeth jallh skopmehkem snjïerpedh.</xt>
@@ -9992,6 +9996,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t class="VI" pos="V">firredh</t>
+            <t class="IV" pos="V">fïrredh</t>
          </tg>
       </mg>
       <mg>
@@ -10001,7 +10006,12 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t class="IV" pos="V">fïrredh</t>
+            <re>riste brød</re>
+            <t p3p="snjierpede" pos="V">snjïerpedidh</t>
+            <xg>
+               <x>Vi rister brød.</x>
+               <xt>Mijjie laejpieh snjïerpebe.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
