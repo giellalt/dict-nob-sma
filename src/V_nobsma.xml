@@ -9674,17 +9674,23 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t class="V" pos="V" umlaut="E">vyöjpedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="V">fahkestidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
             <t pos="V">fuhkiestidh</t>
+         </tg>
+      </mg>
+   </e>
+   
+      <e>
+      <lg>
+         <l pos="V">våkne til</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t class="III" p3p="fahkoe" pos="V">fahkajidh</t>
          </tg>
       </mg>
    </e>
@@ -9740,7 +9746,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t class="VI" p3p="feelie" pos="V">feeledh</t>
-            <t class="VI" p3p="feerie" pos="V">feeredh</t>
          </tg>
       </mg>
       <mg>
@@ -9809,22 +9814,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t class="VI" pos="V">feerkedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t diph="yes" pos="V">klaeriedidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="VI" pos="V" umlaut="F">feerjedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">fearjadidh</t>
          </tg>
       </mg>
    </e>
@@ -9926,16 +9916,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t class="VI" pos="V">firredh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="IV" pos="V">fïrredh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t diph="yes" pos="V">sjåavoehtidh</t>
          </tg>
       </mg>
@@ -9944,21 +9924,11 @@ For the full license text, see the link above.</lic>
             <t pos="V">sjöövelidh</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="VI" pos="V" umlaut="F">stulledh</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
          <l pos="V">lugge</l>
       </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="VI" pos="V">firredh</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sma">
             <t class="VI" pos="V" umlaut="F">hurvedh</t>
@@ -9972,16 +9942,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="V">hurvestidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">raskadidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">raskedidh</t>
          </tg>
       </mg>
    </e>
@@ -9998,6 +9958,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="V">firrelidh</t>
+            <xg>
+               <x>Firrelh amma doem!</x>
+               <xt>Rist den!</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
