@@ -1486,25 +1486,40 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t class="I" pos="V" umlaut="full" vow="x">armoedehtedh</t>
-            <t class="I" pos="V" umlaut="full" vow="x">ærmoedehtedh</t>
+	         <re>transitiv: å fornærme (noe/noen)</re>
+            <t class="I" pos="V" umlaut="full" vow="x">iermedh</t>
+            <t class="I" pos="V" umlaut="full" vow="x">iedtedh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+	         <re>transitiv: å fornærme (noe/noen)</re>
             <t diph="yes" pos="V">armoedidh</t>
             <t diph="yes" pos="V">ærmoedidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+	         <re>transitiv: å fornærme (noe/noen)</re>
             <t diph="yes" pos="V">eadtoedidh</t>
-            <t class="I" pos="V" umlaut="full" vow="x">iedtedh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+	         <re>transitiv: å fornærme (noe/noen)</re>
             <t class="I" pos="V" umlaut="full" vow="x">måaskadehtedh</t>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="sma">
+	         <re>intransitiv: å bli fornærmet</re>
+            <t class="I" pos="V" umlaut="full" vow="x">eadtodh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>intransitiv: å bli fornærmet</re>
+            <t class="I" pos="V" umlaut="full" vow="x">ærmodh</t>
          </tg>
       </mg>
    </e>
@@ -3335,17 +3350,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t context="3pers" pos="V">easadidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t class="VI" p3p="lutnjie" pos="V">lutnjedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t p3p="rabnjeste" pos="V">rabnjestidh</t>
          </tg>
       </mg>
       <mg>
@@ -3390,17 +3395,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t class="I" pos="V" umlaut="full" vow="x">bijredh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t class="I" pos="V" umlaut="full" vow="x">bissedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="I" pos="V" umlaut="A">suvredh</t>
          </tg>
       </mg>
    </e>
@@ -9336,11 +9331,13 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
+	         <re>om deig</re>
             <t context="3pers" pos="V">easadidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+	          <re>om deig</re>
             <t class="IV" pos="V" umlaut="D">easalovvedh</t>
          </tg>
       </mg>
@@ -9440,11 +9437,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t class="IV" pos="V" umlaut="full" vow="x">eelesovvedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="V">byjjenidh</t>
          </tg>
       </mg>
@@ -9461,11 +9453,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t class="I" pos="V" umlaut="full" vow="x">fïrnestehtedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="I" pos="V" umlaut="full" vow="x">iermedh</t>
          </tg>
       </mg>
       <mg>
