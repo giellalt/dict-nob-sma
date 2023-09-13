@@ -65939,11 +65939,41 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="gg">
       <lg>
-         <l pos="N">legevitenskap</l>
+         <l pos="N">vitenskap</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">dååkteredaajroe</t>
+            <t pos="N">daajroe</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="gg">
+      <lg>
+         <l pos="N">vitenskap</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">daajroe</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="gg">
+      <lg>
+         <l pos="N">miljøvitenskap</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">byjresedaajroe</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="gg">
+      <lg>
+         <l pos="N">skolevitenskap</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">skuvledaajroe</t>
          </tg>
       </mg>
    </e>
