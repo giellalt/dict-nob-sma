@@ -107,6 +107,17 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
+         <l pos="N">farvel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>å si farvel</re>
+            <t pos="Interj">nåå nåå</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="Phrase">ustadig vind</l>
       </lg>
       <mg>
