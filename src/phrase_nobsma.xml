@@ -124,16 +124,16 @@ For the full license text, see the link above.</lic>
             <t pos="Pron" type="Indef">mij akt</t>
             <xg>
                <x>Der borte i skogen var det et eller annet som rørte på seg.</x>
-               <xt>Dunnie skåajjesne mij akt svïhtji.</xt>
+               <xt>Dunnie skåajjesne mij joem svïhtji.</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="Indef">maam akt</t>
+            <t pos="Pron" type="Indef">maam joem</t>
             <xg>
                <x>Vi må jo gjøre et eller annet.</x>
-               <xt>Mijjieh hov tjoeveribie maam akt darjodh.</xt>
+               <xt>Mijjieh hov tjoeveribie maam joem darjodh.</xt>
             </xg>
          </tg>
       </mg>
@@ -142,7 +142,7 @@ For the full license text, see the link above.</lic>
             <t pos="Pron" type="Indef">man akt</t>
             <xg>
                <x>Og så begynte læreren å fortelle om ett eller annet, men jeg forsto ingenting av det.</x>
-               <xt>Dellie dïhte lohkehtæjja eelki man akt bïjre soptsestidh, men idtjim manne maamkh destie guarkah.</xt>
+               <xt>Dellie dïhte lohkehtæjja eelki man joem bïjre soptsestidh, men idtjim manne maamkh destie guarkah.</xt>
             </xg>
          </tg>
       </mg>
@@ -323,10 +323,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pron" type="Indef">giejnie akt</t>
+            <t pos="Pron" type="Indef">giejnie joem</t>
             <xg>
                <x>Behøver du en eller annen å prate med?</x>
-               <xt>Daarpesjh goh giejnie akt soptsestidh?</xt>
+               <xt>Daarpesjh giejnie joem soptsestidh?</xt>
             </xg>
          </tg>
       </mg>
@@ -492,6 +492,34 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Det er ikke så mye.</x>
                <xt>Ij leah man jarke.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+      <e>
+      <lg>
+         <l pos="Phrase">noe særlig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Po">aevere</t>
+            <xg>
+               <x>Det er ikke noe særlig.</x>
+               <xt>Ij leah man aevere.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e> 
+   <e>
+      <lg>
+         <l pos="Phrase">Snipp snapp snute</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Po">Snipp snapp snute</t>
+            <xg>
+               <x>Snipp snapp snute, så er eventyret ute.</x>
+               <xt>Dïhte lij gaajhke daan aejkien.</xt>
             </xg>
          </tg>
       </mg>
