@@ -14193,7 +14193,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <re xml:lang="lat">garrulus glandarius</re>
             <t pos="N">goetske</t>
-            <t pos="N">nöödte-kruaksa</t>
+            <t pos="N">nöödtekruaksa</t>
          </tg>
       </mg>
    </e>
@@ -14204,11 +14204,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">goeve</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">jåvleaske</t>
          </tg>
       </mg>
    </e>
@@ -14317,11 +14312,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">golke</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">rïhkede</t>
          </tg>
       </mg>
    </e>
@@ -15822,11 +15812,6 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="N">november</l>
       </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">gålkoe</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">rahka</t>
