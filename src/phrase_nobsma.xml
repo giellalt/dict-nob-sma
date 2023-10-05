@@ -524,7 +524,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-      <e>
+   <e>
       <lg>
          <l pos="Phrase">Vet ikke opp ned på en rein</l>
       </lg>
@@ -538,8 +538,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   </e>
-      <e>
+   <e>
       <lg>
          <l pos="Phrase">forsnakke seg</l>
       </lg>
@@ -553,8 +552,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   </e>
-      <e>
+   <e>
       <lg>
          <l pos="Phrase">Det er bedre at dyreliv går tapt istendenfor menneskeliv</l>
       </lg>
@@ -568,8 +566,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   </e>
-      <e>
+   <e>
       <lg>
          <l pos="Phrase">Kunnskap tynger ikke</l>
       </lg>
@@ -583,8 +580,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   </e>
-      <e>
+   <e>
       <lg>
          <l pos="Phrase">Lytt før du snakker</l>
       </lg>
@@ -594,6 +590,20 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Lytt før du snakker</x>
                <xt>Mujhtieh: göökte bieljieh jïh akte njaelmie</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Phrase">Det har ikke vært lett</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Po">Det har ikke vært lett</t>
+            <xg>
+               <x>Det har ikke vært lett</x>
+               <xt>Ij leah baalka dan rïektes munnjien orreme</xt>
             </xg>
          </tg>
       </mg>
