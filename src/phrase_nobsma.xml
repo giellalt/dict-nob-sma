@@ -524,6 +524,82 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+      <e>
+      <lg>
+         <l pos="Phrase">Vet ikke opp ned på en rein</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Po">Vet ikke opp ned på en rein</t>
+            <xg>
+               <x>Vet ikke opp ned på en rein</x>
+               <xt>Båastoeh gïejh guara.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   </e>
+      <e>
+      <lg>
+         <l pos="Phrase">forsnakke seg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Po">forsnakke seg</t>
+            <xg>
+               <x>forsnakke seg</x>
+               <xt>njaelmie bïesele</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   </e>
+      <e>
+      <lg>
+         <l pos="Phrase">Det er bedre at dyreliv går tapt istendenfor menneskeliv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Po">Det er bedre at dyreliv går tapt istendenfor menneskeliv</t>
+            <xg>
+               <x>Det er bedre at dyreliv går tapt istendenfor menneskeliv</x>
+               <xt>Buerebe goelkegaalloeh dåastoehtieh</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   </e>
+      <e>
+      <lg>
+         <l pos="Phrase">Kunnskap tynger ikke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Po">Kunnskap tynger ikke</t>
+            <xg>
+               <x>Kunnskap tynger ikke</x>
+               <xt>Ij leah maahtoe lyövlehke guedtedh</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   </e>
+      <e>
+      <lg>
+         <l pos="Phrase">Lytt før du snakker</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Po">Lytt før du snakker</t>
+            <xg>
+               <x>Lytt før du snakker</x>
+               <xt>Mujhtieh: göökte bieljieh jïh akte njaelmie</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+
+   
    <e>
       <lg>
          <l t_type="expl" pos="Phrase">simla og kalven grynter når de kaller på hverandre</l>
