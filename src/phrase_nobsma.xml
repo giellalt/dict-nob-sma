@@ -608,6 +608,34 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e>
+      <lg>
+         <l pos="Phrase">Ingen røyk uten ild</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Po">Ingen røyk uten ild</t>
+            <xg>
+               <x>Ingen røyk uten ild</x>
+               <xt>Ij naan dålle, ij soeve</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Phrase">Du har ikke vært i mine sko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Po">Du har ikke vært i mine sko</t>
+            <xg>
+               <x>Du har ikke vært i mine sko</x>
+               <xt>Ih leah datne naan aejkien otnerassine mov låavth-gåetesne orreme</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
 
    
    <e>
