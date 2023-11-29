@@ -19289,17 +19289,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">gale gjentatte ganger</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <re>om gjøk</re>
-            <t pos="V">klajkesidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">gale</l>
       </lg>
       <mg>
@@ -19312,6 +19301,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <re>om gjøk</re>
             <t diph="yes" pos="V">klajkoehtidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>gale gjentatte ganger</re>
+            <t pos="V">klajkesidh</t>
          </tg>
       </mg>
    </e>
