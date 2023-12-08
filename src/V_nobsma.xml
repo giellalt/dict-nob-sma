@@ -4621,8 +4621,8 @@ For the full license text, see the link above.</lic>
 	         <re>transitiv</re>
             <t p3p="byöpmede" pos="V">byöpmedidh</t>
             <xg>
-               <x>Manne laejpiem byöpmedem.</x>
-               <xt>Jeg spiser brød.</xt>
+               <x>Jeg spiser brød.</x>
+               <xt>Manne laejpiem byöpmedem.</xt>
             </xg>
          </tg>
       </mg>
@@ -4631,8 +4631,8 @@ For the full license text, see the link above.</lic>
             <re>transitiv</re>
             <t pos="V">sverkiehtidh</t>
             <xg>
-               <x>onn´-ohtjetjem sverkehtem</x>
-               <xt>Jeg spiser litt, slik at jeg blir litt mett</xt>
+               <x>Jeg spiser litt, slik at jeg blir litt mett.</x>
+               <xt>Onn´-ohtjetjem sverkehtem.</xt>
             </xg>
          </tg>
       </mg>
@@ -4641,8 +4641,8 @@ For the full license text, see the link above.</lic>
             <re>transitiv</re>
             <t pos="V">svarkelidh</t>
             <xg>
-               <x>Piere svarkeli</x>
-               <xt>Per spiste seg halvveis mett</xt>
+               <x>Per spiste seg halvveis mett.</x>
+               <xt>Piere svarkeli.</xt>
             </xg>
          </tg>
       </mg>
@@ -4651,8 +4651,8 @@ For the full license text, see the link above.</lic>
 	         <re>transitiv, om klodyr(f.eks hund og rovdyr)</re>
             <t pos="V">bårrelidh</t>
             <xg>
-               <x>Bïenje dejtie sov beapmojde bårrele.</x>
-               <xt>Hunden spiser maten sin.</xt>
+               <x>Hunden spiser maten sin.</x>
+               <xt>Bïenje dejtie sov beapmojde bårrele.</xt>
             </xg>
          </tg>
       </mg>
@@ -4661,8 +4661,8 @@ For the full license text, see the link above.</lic>
 	         <re>transitiv, spise på en stygg og glupsk måte</re>
             <t pos="V">bårrelidh</t>
             <xg>
-               <x>Dohte jis bööti gaajhkem njaalkadahkem bårreli!</x>
-               <xt>Hen der kom og spiste opp alt godteriet vårt!</xt>
+               <x>Hen der kom og spiste opp alt godteriet vårt!</x>
+               <xt>Dohte jis bööti gaajhkem njaalkadahkem bårreli!</xt>
             </xg>
          </tg>
       </mg>
@@ -4671,8 +4671,8 @@ For the full license text, see the link above.</lic>
 	         <re>transitiv, om suppe og annet flytende</re>
             <t pos="V">gadtsedh</t>
             <xg>
-               <x>Piere joptseste gadtsi</x>
-               <xt>Per spiste suppe</xt>
+               <x>Per spiste suppe</x>
+               <xt>Piere joptseste gadtsi</xt>
             </xg>
          </tg>
       </mg>
@@ -23069,8 +23069,8 @@ For the full license text, see the link above.</lic>
             <re>om sko og klær</re>
             <t class="III" context="3pers" p3p="napkoe" pos="V">napkedh</t>
             <xg>
-               <x>Mov måvhkah napkeme.</x>
-               <xt>Mine bukser er blitt slitte.</xt>
+               <x>Mine bukser er blitt slitte.</x>
+               <xt>Mov måvhkah napkeme.</xt>
             </xg>
          </tg>
       </mg>
@@ -23099,8 +23099,8 @@ For the full license text, see the link above.</lic>
             <re>om ild</re>
             <t class="IV" p3p="nasta" pos="V" vow="a">nastedh</t>
             <xg>
-               <x>Dållem nastedh.</x>
-               <xt>Karre veden sammen for å friske opp ilden.</xt>
+               <x>Karre veden sammen for å friske opp ilden.</x>
+               <xt>Dållem nastedh.</xt>
             </xg>
          </tg>
       </mg>
@@ -23114,8 +23114,8 @@ For the full license text, see the link above.</lic>
             <re>om ild</re>
             <t class="IV" p3p="nasta" pos="V" vow="a">nastedh</t>
             <xg>
-               <x>Dållem nastedh.</x>
-               <xt>Karre veden sammen for å friske opp ilden.</xt>
+               <x>Karre veden sammen for å friske opp ilden.</x>
+               <xt>Dållem nastedh.</xt>
             </xg>
          </tg>
       </mg>
@@ -28321,8 +28321,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
          <t p3p="åahpene" pos="V" stem="3syll">åahpenidh</t>
             <xg>
-               <x>Luste datnine åahpenidh.</x>
-               <xt>Artig å bli kjent med deg.</xt>
+               <x>Artig å bli kjent med deg.</x>
+               <xt>Luste datnine åahpenidh.</xt>
             </xg>
          </tg>
       </mg>
@@ -28345,12 +28345,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t class="I" pos="V" umlaut="full" vow="x">åajaldehtedh</t>
             <xg>
-               <x>Dam im åajaldehtieh.</x>
-               <xt>Det glemmer jeg ikke.</xt>
+               <x>Det glemmer jeg ikke.</x>
+               <xt>Dam im åajaldehtieh.</xt>
             </xg>
             <xg>
-               <x>Åajaldehtin jïjtjemse.</x>
-               <xt>De glemte seg selv.</xt>
+               <x>De glemte seg selv.</x>
+               <xt>Åajaldehtin jïjtjemse.</xt>
             </xg>
          </tg>
       </mg>
@@ -52508,8 +52508,8 @@ For the full license text, see the link above.</lic>
             <re>om å eie</re>
             <t pos="V">eekedh</t>
             <xg>
-               <x>Gïe dïhte dam eekie?</x>
-               <xt>Hvem eier den?</xt>
+               <x>Hvem eier den?</x>
+               <xt>Gïe dïhte dam eekie?</xt>
             </xg>
          </tg>
       </mg>
