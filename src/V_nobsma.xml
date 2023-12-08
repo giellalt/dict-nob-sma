@@ -9405,8 +9405,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t class="VI" pos="V">eejsedh</t>
             <xg>
-               <x>Dållem eejsedh.</x>
-               <xt>Oppildne bålet.</xt>
+               <x>Oppildne bålet.</x>
+               <xt>Dållem eejsedh.</xt>
             </xg>
          </tg>
       </mg>
@@ -9946,8 +9946,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="V">firrelidh</t>
             <xg>
-               <x>Firrelh amma doem!</x>
-               <xt>Rist den!</xt>
+               <x>Rist den!</x>
+               <xt>Firrelh amma doem!</xt>
             </xg>
          </tg>
       </mg>

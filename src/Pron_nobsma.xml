@@ -148,12 +148,12 @@ For the full license text, see the link above.</lic>
                <xt>Mij dohte?</xt>
             </xg>
             <xg>
-               <x>Gubpede dohte kaarre?</x>
-               <xt>Hvorfra er den der karen?</xt>
+               <x>Hvorfra er den der karen?</x>
+               <xt>Gubpede dohte kaarre?</xt>
             </xg>
             <xg>
-               <x>Dohte vaerie luvliegassji.</x>
-               <xt>Det der fjellet tilhører folkene i øst.</xt>
+               <x>Det der fjellet tilhører folkene i øst.</x>
+               <xt>Dohte vaerie luvliegassji.</xt>
             </xg>
          </tg>
       </mg>
@@ -260,12 +260,12 @@ For the full license text, see the link above.</lic>
                <xt>Mij dohte?</xt>
             </xg>
             <xg>
-               <x>Gubpede dohte kaarre?</x>
-               <xt>Hvorfra er den der karen?</xt>
+               <x>Hvorfra er den der karen?</x>
+               <xt>Gubpede dohte kaarre?</xt>
             </xg>
             <xg>
-               <x>Dohte vaerie luvliegassji.</x>
-               <xt>Det der fjellet tilhører folkene i øst.</xt>
+               <x>Det der fjellet tilhører folkene i øst.</x>
+               <xt>Dohte vaerie luvliegassji.</xt>
             </xg>
          </tg>
       </mg>
@@ -1775,7 +1775,7 @@ For the full license text, see the link above.</lic>
             <t pos="Pron" type="Logo">sijjese</t>
             <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Personlige+pronomen">les i grammatikken om satne</t>            
             <xg>
-               <x>Lærerene skrøt av at det var til stor nytte for dem.</x>
+               <x>Lærerne skrøt av at det var til stor nytte for dem.</x>
                <xt>Lohkehtæjjah garmerdin sijjese stoerre aevhkine dïhte.</xt>
             </xg>
          </tg>

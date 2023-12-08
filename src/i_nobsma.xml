@@ -396,14 +396,14 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="Interj">vuajnah tjaangh</t>
             <xg>
-               <x>Vær så god, kom inn! (ipmerativ, entall)</x>
+               <x>Vær så god, kom inn! (til en person)</x>
                <xt>Vuajnah tjaangh!</xt>
             </xg>
          </tg>
          <tg xml:lang="sma">
             <t pos="Interj">vuejnede tjaangede</t>
             <xg>
-               <x>Vær så god, kom inn! (imperativ, flertall)</x>
+               <x>Vær så god, kom inn! (til flere personer)</x>
                <xt>Vuejnede tjaangede!</xt>
             </xg>
          </tg>
