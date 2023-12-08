@@ -26909,7 +26909,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
 	       <re>ha mageknip</re>  
-            <t pos="V">skirmieldidh</t>
+            <t pos="V">tj</t>
          </tg>
       </mg>
    </e>
@@ -26935,7 +26935,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">soehpenjereagka</t>
+            <t pos="N">ringsie</t>
          </tg>
       </mg>
    </e>
@@ -26955,12 +26955,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
+	        <t pos="N">ryöjnesjæjja</t>
             <t pos="N">reajnoemaennie</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">ryöjnesjæjja</t>
          </tg>
       </mg>
    </e>
@@ -26970,12 +26966,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
+	        <t pos="N">reakedsbiejjie</t>
             <t pos="N">reakadimmiebiejjie</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">reakedsbiejjie</t>
          </tg>
       </mg>
    </e>
@@ -27015,17 +27007,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">reaktoe</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N">rïektese</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">rïektesvoete</t>
          </tg>
       </mg>
       <mg>
@@ -27076,11 +27058,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">rehpie</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">taatje</t>
          </tg>
       </mg>
    </e>
