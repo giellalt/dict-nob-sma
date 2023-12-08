@@ -3469,7 +3469,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="V">brenne</l> Dålle	buala
+         <l pos="V">brenne</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -10629,6 +10629,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>om mennesker</re>
+            <t p3p="sealede" pos="V">sealadidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
             <re>om dyr</re>
             <t p3p="gaamhpere" pos="V">gaamhparidh</t>
          </tg>
@@ -10640,6 +10646,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
+	          <re>om flere</re>
             <t minip="notSg1" p3p="jaamede" pos="V">jaamedidh</t>
          </tg>
       </mg>
@@ -10650,18 +10657,13 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
+	         <re>plutselig</re>
             <t diph="yes" pos="V">jaemielidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
             <t p3p="jåhtije" pos="V">jåhtajidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <re>om mennesker</re>
-            <t p3p="sealede" pos="V">sealadidh</t>
          </tg>
       </mg>
       <mg>
@@ -21815,7 +21817,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t class="IV" p3p="marnga" pos="V" vow="a">marngedh</t>
+            <t class="IV" p3p="marnga" pos="V" vow="a">jarkelidh</t>
          </tg>
       </mg>
    </e>
@@ -28563,32 +28565,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t p3p="sojjede" pos="V">sojjedidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="I" pos="V" umlaut="full" vow="x">sojjehtehtedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">sojjehtidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">maahtsehtidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t diph="yes" pos="V">maahtsoestidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">dåarmoehtidh</t>
+            <t p3p="sojjede" pos="V">marngestidh</t>
+            <xg>
+               <x>Brett opp ermene!</x>
+               <xt>Marngesth sisside!</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -33044,6 +33025,10 @@ For the full license text, see the link above.</lic>
                <x>Per er her.</x>
                <xt>Piere lea daesnie.</xt>
             </xg>
+            <xg>
+               <x>Dere er flinke.</x>
+               <xt>Dijjieh lidie væjkele.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -33061,11 +33046,15 @@ For the full license text, see the link above.</lic>
                <x>Per har vært her.</x>
                <xt>Piere daesnie orreme.</xt>
             </xg>
+            <xg>
+               <x>Vinteren har vært lang.</x>
+               <xt>Daelvie lea guhkiem orreme.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <re>oppholde seg</re>
+            <re>være</re>
             <t p3p="vearede" pos="V">vearadidh</t>
             <xg>
                <x>Hvor har du vært?</x>
@@ -33086,7 +33075,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t p3p="vearede" pos="V">vearadidh</t>
+            <t p3p="vearede" pos="V">guessine mïnnedh</t>
+            <xg>
+               <x>Jeg har vært hos bestemor på besøk</x>
+               <xt>Manne aahkan luvnie guessine mïnneme</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -33096,36 +33089,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t class="II" p3p="vyöse" pos="V" umlaut="full" vow="x">veasodh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t class="II" p3p="orre" pos="V" umlaut="full" vow="x">årrodh</t>
             <xg>
                <x>Hvor bor du?</x>
                <xt>Gusnie datne årroeminie?</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">hööllestidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">hööltestidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">veasastidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">veasoestidh</t>
          </tg>
       </mg>
       <mg>
@@ -33148,7 +33116,7 @@ For the full license text, see the link above.</lic>
             </xg>
             <xg>
                <x>Du må også huske å gi litt til deg selv.</x>
-               <xt>Tjoerh aaj mujhtedh onnetji jïjtsadth vedtedh.</xt>
+               <xt>Tjoerh aaj mujhtedh ånnetji jïjtsadth vedtedh.</xt>
             </xg>
          </tg>
       </mg>
@@ -36071,11 +36039,6 @@ For the full license text, see the link above.</lic>
             <t diph="yes" pos="V">hammoedidh</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="II" pos="V" umlaut="C">deavjodh</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -36217,11 +36180,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="V">folde</l>
+         <l pos="V">folde seg</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t class="I" pos="V" umlaut="A">baermedh</t>
+	         <re>om klær, skinn</re>
+            <t class="I" pos="V" umlaut="A">krunhtjegidh</t>
+            <xg>
+               <x>skinnet har foldet seg.</x>
+               <xt>Skåerrie krunhtjegamme.</xt>
+            </xg>
          </tg>
       </mg>
    </e>

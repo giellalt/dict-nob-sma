@@ -21814,7 +21814,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">loeve</t>
+            <t pos="N">tjelmieloeve</t>
          </tg>
       </mg>
    </e>
@@ -26877,8 +26877,8 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <re>gå i ring</re>
          <tg xml:lang="sma">
+            <re>gå i ring</re>
             <t class="IV" pos="V" vow="aa">gaavedh</t>
          </tg>
       </mg>
