@@ -21828,6 +21828,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="V">marngestidh</t>
+            <xg>
+               <x>brette opp ermene</x>
+               <xt>sissieh marngestidh</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -28575,6 +28579,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="V">rohtjeldidh</t>
+            <xg>
+               <x>Skjorta har bretta seg</x>
+               <xt>Sjåarhtoe rohtjeldamme</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -28582,11 +28590,6 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="Phrase">snakke lavt</l>
       </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="IV" pos="V" umlaut="full" vow="x">sommedh</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sma">
             <t class="IV" pos="V" umlaut="full" vow="x">sïmmedh</t>
@@ -28597,11 +28600,6 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="Phrase">hviske stadig</l>
       </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">sommedidh</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sma">
             <t pos="V">sïmmedidh</t>
@@ -28659,28 +28657,6 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t diph="yes" p3p="suvtehte" pos="V">suvtiehtidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="IV" pos="V" umlaut="D">dalmedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="IV" pos="V" umlaut="D">salhkedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="IV" pos="V" umlaut="D">salhnjedh</t>
-            <t class="IV" pos="V" umlaut="D">salnjedh</t>
-            <t class="IV" pos="V" umlaut="D">sïlnedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <re>om myr</re>
             <t pos="V">gïevehtidh</t>
          </tg>
@@ -28715,6 +28691,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
 	        <re>spille musikkinstrument</re> 
             <t pos="V">tjoejehtidh</t>
+            <xg>
+               <x>å spille gitar</x>
+               <xt>Gitaarem tjoejehtidh</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -28836,11 +28816,6 @@ For the full license text, see the link above.</lic>
             <t diph="yes" pos="V">staeriedidh</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">staeriemdidh</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -28851,15 +28826,10 @@ For the full license text, see the link above.</lic>
             <t diph="yes" pos="V">staeriedidh</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">staeriemdidh</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">gjøre sterk</l>
+         <l pos="Phrase">gjøre frisk</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -28923,17 +28893,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t class="VI" p3p="steerie" pos="V">steeredh</t>
+            <t class="VI" p3p="steerie" pos="V">steeredidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
             <t diph="yes" p3p="utnehte" pos="V">utniehtidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="VI" pos="V" umlaut="F">steededh</t>
          </tg>
       </mg>
    </e>
@@ -28968,6 +28933,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t p3p="steereste" pos="V">steerestidh</t>
+            <xg>
+               <x>Kom å holde her som snarest!</x>
+               <xt>Båetieh dle daagkoe steeresth!</xt>
+            </xg>
          </tg>
       </mg>
    </e>
