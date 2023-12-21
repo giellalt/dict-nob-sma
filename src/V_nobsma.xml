@@ -33772,7 +33772,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">rette søkelyset mot</l>
+         <l pos="Phrase">gjøre oppmerksom på</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -33818,11 +33818,6 @@ For the full license text, see the link above.</lic>
             <t pos="V">heervenidh</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">jealajidh</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -33850,7 +33845,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t p3p="voetjele" pos="V">voetjelidh</t>
+            <t p3p="voetjele" pos="V">voetjeladtedh</t>
          </tg>
       </mg>
    </e>
