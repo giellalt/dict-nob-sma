@@ -34009,27 +34009,25 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t class="IV" pos="V">vïjredh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="I" pos="V" umlaut="A">hajkeldehtedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="IV" pos="V" umlaut="D">dåålvedahtedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="IV" pos="V" umlaut="D">harredh</t>
+            <t class="IV" pos="V" umlaut="D">dåålvedidh</t>
+            <xg>
+               <x>jage, uten stans</x>
+               <xt>Bïenje bovtside dåålvede.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
             <t class="V" pos="V" umlaut="E">jååkedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t class="IV" pos="V" umlaut="D">vijredh</t>
+            <xg>
+               <x>jage, gå på jakt</x>
+               <xt>Sarvah vijredh</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -34041,8 +34039,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t diph="yes" p3p="vuejehte" pos="V">vuejiehtidh</t>
             <xg>
-               <x>drive den lille flokken Du driver jo meg!</x>
-               <xt>vuejiehtidh bïrhketjem Datne hov mannem vuejehth!</xt>
+               <x>Drive den lille flokken.</x>
+               <xt>Bïrhketjem vuejiehtidh.</xt>
             </xg>
          </tg>
       </mg>
@@ -34067,6 +34065,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="V">vuejniestidh</t>
+            <xg>
+               <x>Jeg så henne knapt</x>
+               <xt>Manne jallan vuejniestim</xt>
+            </xg>
          </tg>
       </mg>
    </e>
