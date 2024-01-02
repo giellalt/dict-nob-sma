@@ -34115,16 +34115,6 @@ For the full license text, see the link above.</lic>
             <t diph="yes" pos="V">vuepsiehtidh</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t diph="yes" pos="V">vuemsiehtidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">voemsehtidh</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -34132,7 +34122,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t diph="yes" p3p="vuepteste" pos="V">vueptiestidh</t>
+            <t diph="yes" p3p="vuepteste" pos="V">fahkedh</t>
+            <xg>
+               <x>Jeg våkna tidlig denne morgenen</x>
+               <xt>Manne varki daan aereden fahkajim</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -34154,8 +34148,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t class="I" p3p="vuarta" pos="V" umlaut="full" vow="x">vuertedh</t>
             <xg>
-               <x>Vent litt!</x>
-               <xt>Vuertieh ånnetji!</xt>
+               <x>Vent!</x>
+               <xt>Vuertieh!</xt>
             </xg>
             <xg>
                <x>Når folk venter på noe morsomt, går dagene langsomt.</x>
@@ -34167,12 +34161,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
 	         <re>vente litt</re>
             <t diph="yes" pos="V">vuertiestidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-	         <re>vente lenge på</re>
-            <t pos="V">gåhkasjidh</t>
+            <xg>
+               <x>Vent litt på meg også!</x>
+               <xt>Vuertesth dle mannem aaj!</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -34216,7 +34208,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t diph="yes" p3p="vuesehte" pos="V">vuesiehtidh</t>
+            <t diph="yes" p3p="vuesehte" pos="V">vuasahtalledh</t>
          </tg>
       </mg>
    </e>
