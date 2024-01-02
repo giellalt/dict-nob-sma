@@ -34239,8 +34239,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
          <re>bli skutt</re>
-            <t pos="V">skimhkelgidh</t>
             <t pos="V">vuatjalgidh</t>
+            <t pos="V">skimhkelgidh</t>
          </tg>
       </mg>
    </e>
@@ -34379,6 +34379,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="V">vyölkedidh</t>
+            <xg>
+               <x>Se hvordan jordene allerede har blitt hvite!</x>
+               <xt>Vuartasjidie guktie ïentjh joe vyölkedamme!</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -34389,6 +34393,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="V">vyölkedidh</t>
+            <xg>
+               <x>Tøy blekes fort når det henger i hvinduet i sola</x>
+               <xt>Vaarjoeh varki vyølkedieh gosse klaaseraejkien bïejjh´guakoen gævnjasjieh</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -34399,6 +34407,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t diph="yes" p3p="våajole" pos="V">våajoelidh</t>
+            <xg>
+               <x>Steinen synker raskt til bunnen</x>
+               <xt>Gierkie varki batnan våajole</xt>
          </tg>
       </mg>
    </e>
