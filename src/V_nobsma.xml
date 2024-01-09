@@ -38728,11 +38728,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t class="III" pos="V" umlaut="B">duahpedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t class="IV" pos="V" umlaut="D">doehpedh</t>
          </tg>
       </mg>
@@ -38788,8 +38783,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t class="III" pos="V" umlaut="B">gatskedh</t>
-            <t class="III" pos="V" umlaut="B">hapkedh</t>
+            <t class="III" pos="V" umlaut="B">hapkelidh</t>
+            <xg>
+               <x>Jeg kveltes nesten.</x>
+               <xt>Manne raaktan hapkelim.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
