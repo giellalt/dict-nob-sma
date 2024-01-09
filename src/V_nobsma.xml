@@ -23442,21 +23442,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t class="IV" p3p="njaama" pos="V" vow="aa">njaamedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">stryke av</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="IV" p3p="njaama" pos="V" vow="aa">njaamedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="VI" pos="V" umlaut="F">strihkedh</t>
+            <xg>
+               <x>Tørk hendene!</x>
+               <xt>Njaamh gïetide!</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -38572,6 +38561,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t class="II" pos="V" umlaut="C">tsahtsodh</t>
+            <xg>
+               <x>Tørk ræva di!</x>
+               <xt>Tsahtsoeh råvvemdh!</xt>
+            </xg>
          </tg>
       </mg>
    </e>
