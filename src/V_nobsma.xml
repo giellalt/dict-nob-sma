@@ -17265,7 +17265,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t class="IV" p3p="hearpa" pos="V" umlaut="full" vow="x">hïerpedh</t>
+            <t class="IV" p3p="hearpa" pos="V" umlaut="full" vow="x">hïerpenidh</t>
+            <xg>
+               <x>Jeg skvatt da du kom inn inn.</x>
+               <xt>Hïerpenim goh faahketji gåatan tjaangih.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -38790,12 +38794,6 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sma">
-	         <re>være nær ved å kveles</re>
-            <t class="IV" pos="V" umlaut="D">adtenjadtedh</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -38833,22 +38831,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t class="V" pos="V" umlaut="E">boltedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="V">hïerpendidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">riegkiedidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">ruehkiehtidh</t>
          </tg>
       </mg>
    </e>
