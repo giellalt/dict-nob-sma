@@ -41656,6 +41656,46 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+    <e>
+      <lg>
+         <l pos="N">lærebok</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">learoehgærja</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">lovbok</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">laakegærja</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">veibok</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">geajnoegærja</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">plantebok</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">sjædtoegærja</t>
+         </tg>
+      </mg>
+   </e>
    <e>
       <lg>
          <l pos="N">kulturarvliste</l>
