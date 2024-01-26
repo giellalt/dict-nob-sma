@@ -2838,14 +2838,27 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="Adv">gosse</t>
+            <xg>
+               <x>Vi tar vare på språket når vi snakker det.</x>
+               <xt>Mijjieh gïelem vaarjelibie gosse saemiestibie.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
             <t pos="Adv">gåessie</t>
             <xg>
-               <x>Når går bussen? Aldri.</x>
-               <xt>Gåessie busse jåhta? Ij gåessie gan.</xt>
+               <x>Når kommer pappa hjem?</x>
+               <xt>Gåessie aehtjie gåetide båata?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">mennie mieresne</t>
+            <xg>
+               <x>Når tid går bussen? Aldri.</x>
+               <xt>Mennie mieresne busse jåhta? Ij gåessie gannah.</xt>
             </xg>
          </tg>
       </mg>
@@ -2940,8 +2953,8 @@ For the full license text, see the link above.</lic>
                <xt>Im manne daejrieh gåabph veedtsi.</xt>
             </xg>
             <xg>
-               <x>Hvor skal du?</x>
-               <xt>Gåabph edtjh?</xt>
+               <x>Hvor skal du hen?</x>
+               <xt>Gåabph edtjh datne?</xt>
             </xg>
          </tg>
       </mg>
@@ -2965,10 +2978,10 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Adv">gogka</t>
+            <t pos="Adv">gogkoe</t>
             <xg>
                <x>Jeg kommer her hvor du har gått.</x>
-               <xt>Båatam dagka gogka datne vaadtseme.</xt>
+               <xt>Båatam dagkoe gogkoe datne vaadtseme.</xt>
             </xg>
          </tg>
       </mg>
@@ -2989,6 +3002,10 @@ For the full license text, see the link above.</lic>
                <x>Den dro langt av sted.</x>
                <xt>Dïhte gåhkese vöölki.</xt>
             </xg>
+            <xg>
+               <x>Ikke dra så langt av sted!</x>
+               <xt>Aellieh man gåhkese vuelkieh!</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3000,8 +3017,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="Adv">guhkiem</t>
             <xg>
-               <x>Du ble jo så lenge borte.</x>
-               <xt>Guhkiem hov sjïdtih.</xt>
+               <x>Ikke bli så lenge borte!</x>
+               <xt>Aellieh man guhkiem gaatoeh!</xt>
+            </xg>
+            <xg>
+               <x>Du ble lenge borte!</x>
+               <xt>Datne guhkiem gaatoejih!</xt>
             </xg>
          </tg>
       </mg>
@@ -3010,15 +3031,6 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="Adv">med</l>
       </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Adv">gujmie</t>
-            <xg>
-               <x>Hun fikk nå ikke reise med.</x>
-               <xt>Idtji badth dïhte fihkh vuelkijh gujmie.</xt>
-            </xg>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sma">
             <t pos="Adv">meatan</t>
@@ -3040,11 +3052,6 @@ For the full license text, see the link above.</lic>
                <x>Hvordan går det med deg?</x>
                <xt>Guktie datnine?</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Adv">nåtsh</t>
          </tg>
       </mg>
       <mg>
@@ -3098,7 +3105,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Adv">gåarhmede</t>
+            <t pos="Adv">mådtsode</t>
          </tg>
       </mg>
    </e>
@@ -3165,8 +3172,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="Adv">gåhkese</t>
             <xg>
-               <x>Den dro langt av sted.</x>
-               <xt>Dïhte gåhkese vöölki.</xt>
+               <x>Ikke dra så langt av sted!</x>
+               <xt>Aellieh man gåhkese vuelkieh!</xt>
             </xg>
          </tg>
       </mg>
