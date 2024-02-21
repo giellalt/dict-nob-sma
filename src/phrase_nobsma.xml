@@ -134,12 +134,13 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
+	</e>
+	<e>
       <lg>
          <l pos="Phrase" type="Indef">til et eller annet</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
- 	         <re>til et eller annet</re>
            <t pos="Pron" type="Indef">mïsse akt</t>
             <t pos="Pron" type="Indef">masse akt</t>
             <xg>
