@@ -10629,6 +10629,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <t class="I" p3p="jaama" pos="V" umlaut="full" vow="x">jaemedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
             <re>om mennesker</re>
             <t p3p="sealede" pos="V">sealadidh</t>
          </tg>
@@ -10637,37 +10642,31 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <re>om dyr</re>
             <t p3p="gaamhpere" pos="V">gaamhparidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t class="V" pos="V">gaamhparostedh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-	          <re>om flere</re>
+	          <re>en etter en</re>
             <t minip="notSg1" p3p="jaamede" pos="V">jaamedidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t class="I" p3p="jaama" pos="V" umlaut="full" vow="x">jaemedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-	         <re>plutselig</re>
+	         <re>brått og uventet</re>
             <t diph="yes" pos="V">jaemielidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <re>gå bort, fare avsted</re>
             <t p3p="jåhtije" pos="V">jåhtajidh</t>
+            <t pos="V">jahtajidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <re>sovne inn</re>
             <t p3p="åarije" pos="V">åarajidh</t>
             <xg>
                <x>Så døde ulven.</x>
@@ -10677,37 +10676,44 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t class="I" pos="V" umlaut="A">sealadestedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
+            <re>krepere</re>
             <t class="IV" pos="V" umlaut="D">roesedh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t class="V" pos="V" umlaut="E">aalterostedh</t>
+            <re>dø, gå bort</re>
+            <t class="I" pos="V" umlaut="A">sealadestedh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <re>dø, gå bort</re>
             <t class="V" pos="V" umlaut="E">sealarostedh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <re>dø, gå bort. Sydlig: eldes</re>
+            <t class="V" pos="V" umlaut="E">aalterostedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>begå selvmord</re>
+            <t class="VI" pos="V" umlaut="F">aemieluesedh</t>
+            <t class="VI" pos="V" umlaut="F">aemiejuetjedh</t>
             <t class="VI" pos="V" umlaut="F">aemiejöösjedh</t>
          </tg>
       </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">krepere</l>
+      </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="V">jahtajidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">sjealadidh</t>
+            <t class="IV" pos="V" umlaut="D">roesedh</t>
          </tg>
       </mg>
    </e>
