@@ -4345,6 +4345,12 @@ For the full license text, see the link above.</lic>
             <t class="IV" p3p="bohtjetjadta" pos="V" vow="a">bohtjehtjadtedh</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sma">
+	      <re>person som melker</re>   
+            <t pos="N">buhtjije</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -11670,6 +11676,13 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="V">bolperdidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>person som er stam</re>
+            <t pos="N">gahkestæjja</t>
+            <t pos="N">gahke</t>
          </tg>
       </mg>
    </e>

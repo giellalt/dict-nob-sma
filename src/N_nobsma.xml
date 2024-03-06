@@ -6411,16 +6411,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">person som melker</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">buhtjije</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">dyrekropp</l>
       </lg>
       <mg>
@@ -12387,16 +12377,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">delen av bellingen som er nærmest kloven</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">gadtsese</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Phrase">ryggsekk med lokk</l>
       </lg>
       <mg>
@@ -12661,26 +12641,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">gaevnievoesse</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">stammende person</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">gahke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">person som er stam</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">gahkestæjja</t>
          </tg>
       </mg>
    </e>
@@ -15068,26 +15028,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">guvhkiehtæjja</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">person som går foran og lokker for at reinen skal komme etter</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">guvhkiehtæjja</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">båten med den som lokker reinen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">guvhkiehtæjjavïnhtse</t>
          </tg>
       </mg>
    </e>
@@ -18410,26 +18350,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">fars eldre brors onkelbarn</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">jiekuve</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">pappa sin eldre bror sitt onkelbarn</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">jiekuve</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">film</l>
       </lg>
       <mg>
@@ -18571,21 +18491,6 @@ For the full license text, see the link above.</lic>
    <e>
       <lg>
          <l pos="N">båre</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">jievege</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">joevege</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">noe som er utbredt</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -21979,6 +21884,12 @@ For the full license text, see the link above.</lic>
          <t pos="V">bïrhtsehtidh</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sma">
+         <re>løs og grov snø som ikke bærer</re>   
+            <t pos="N">saevrie</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -22879,26 +22790,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">maake</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">mannlig onkelbarn til filleonkel</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">maaketje</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">mannlig onkelbarn til onkel som er gift med mammas søster</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">maaketje</t>
          </tg>
       </mg>
    </e>
@@ -24586,28 +24477,30 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">onkelbarn til mors bror</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">neapede</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">onkelbarn</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-         <re>manns søsters eller kusines barn</re>
+         <re>manns søsters eller kusines barn eller barnebarn</re>
             <t pos="N">neapede</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-         <re>manns søsters barnebarn</re>
-            <t pos="N">neapede</t>
+         <re>mannen til mors søsters onkelbarn</re>
+            <t pos="N">maaketje</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+         <re>fars yngre brors onkelbarn</re>
+            <t pos="N">tjietsuve</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+         <re>fars eldre brors onkelbarn</re>
+            <t pos="N">jiekuve</t>
          </tg>
       </mg>
    </e>
@@ -27998,16 +27891,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">løs og grov snø som ikke bærer</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">saevrie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">ondskap</l>
       </lg>
       <mg>
@@ -28363,7 +28246,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">person som skrever</l>
+         <l pos="Phrase">skrevende person</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -32645,16 +32528,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">tjietsie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">onkelbarn til fars yngre bror</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">tjietsuve</t>
          </tg>
       </mg>
    </e>
