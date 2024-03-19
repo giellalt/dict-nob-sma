@@ -7377,6 +7377,14 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="A">tjuavkeds</t>
+            <xg>
+               <x>En lys natt.</x>
+               <xt>Tjuavkeds jïjje.</xt>
+            </xg>
+            <xg>
+               <x>Det er lyst ute.</x>
+               <xt>Ålkone tjuavkede.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -8081,6 +8089,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="A">hååkene</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">lystig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A">lustes</t>
          </tg>
       </mg>
    </e>
