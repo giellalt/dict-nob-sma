@@ -7938,27 +7938,33 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <re>om fiskegarn</re>
-            <t class="IV" pos="V" umlaut="full" vow="x">doeredh</t>
+            <t class="I" p3p="vualka" pos="V" umlaut="full" vow="x">vuelkedh</t>
             <xg>
-               <x>trekke opp fiskegarn</x>
-               <xt>viermieh doeredh</xt>
+               <x>Nå drar jeg.</x>
+               <xt>Daelie vualkam.</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <re>ta en tur</re>
+            <t class="IV" p3p="mænna" pos="V" umlaut="full" vow="x">mïnnedh</t>
+            <xg>
+               <x>Jeg skal dra innom butikken.</x>
+               <xt>Edtjem bovresne mïnnedh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>fare</re>
             <t class="VI" p3p="feerie" pos="V">feeredh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <re>trekke, hale, slepe</re>
             <t class="I" pos="V" umlaut="full" vow="x">giesedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="VI" p3p="sigkie" pos="V">sigkedh</t>
          </tg>
       </mg>
       <mg>
@@ -7971,6 +7977,22 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
 	         <re>bli dratt</re>
             <t class="V" p3p="gyösoe" pos="V">gyösedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>med et rykk</re>
+            <t class="VI" p3p="sigkie" pos="V">sigkedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>om fiskegarn</re>
+            <t class="IV" pos="V" umlaut="full" vow="x">doeredh</t>
+            <xg>
+               <x>trekke opp fiskegarn</x>
+               <xt>viermieh doeredh</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -13119,12 +13141,20 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
+	         <re>dra, slepe</re>
             <t class="I" pos="V" umlaut="full" vow="x">giesedh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+	         <re>dra, rykke (én gang)</re>
             <t class="VI" p3p="sigkie" pos="V">sigkedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	       <re>bli trukket</re>  
+            <t pos="V">sygkesidh</t>
          </tg>
       </mg>
       <mg>
@@ -13135,12 +13165,6 @@ For the full license text, see the link above.</lic>
                <x>Det trekker.</x>
                <xt>Jïelede.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-	       <re>bli trukket</re>  
-            <t pos="V">sygkesidh</t>
          </tg>
       </mg>
    </e>
