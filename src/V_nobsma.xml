@@ -11869,21 +11869,6 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t class="III" pos="V" umlaut="B">fearhkedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="IV" pos="V" umlaut="D">sjïelkedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="V" pos="V" umlaut="E">dahparostedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <re>om is eller skare</re>
             <t pos="V">fearhkelidh</t>
          </tg>
@@ -12010,22 +11995,62 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t class="II" p3p="gojre" pos="V" umlaut="full" vow="x">gajrodh</t>
+	     <re>transitiv: rope lenge om mennesker</re>
+            <t class="II" p3p="gojre" pos="V" umlaut="full" vow="x">gæljodh</t>
+            <xg>
+                <x>Hør, hvordan hun roper!</x>
+                <xt>Govlh ennje, guktie gylje!</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+	     <re>transitiv: skrike til om mennesker bare en gang</re>
+            <t class="II" p3p="gojre" pos="V" umlaut="full" vow="x">gæljadidh</t>
+            <xg>
+                <x>Da skrek Solens datter til, "Nå ser jeg fars øyne!"</x>
+                <xt>Dellie Biejjien nïejte gæljadi, "mov aehtjien tjelmieh vuajnam!"</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	     <re>intransitiv: skrike til om mennesker</re>
+            <t class="II" p3p="gojre" pos="V" umlaut="full" vow="x">hojhkesjidh</t>
+            <xg>
+                <x>Trollkjerringa hørte hvordan mannen skrek av smerte; så hun skulle ta ut øynene sine fra skapet sitt, men hun fant dem ikke.</x>
+                <xt>Rovhtege govli, sov geelle eelki hojhkesjidh; dle varki galki maaje tjelmide vaeltedh dehtie sov vuarhkeste, men idtji annje gaavneh gænnah.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>transitiv: om kua</re>
             <t class="VI" pos="V">geevledh</t>
+            <xg>
+                <x>Kua rauter.</x>
+                <xt>Govse geevlie.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t class="IV" pos="V" umlaut="full" vow="x">gojredh</t>
+	         <re>transitiv: negativt om mennesker</re>
+            <t class="VI" pos="V">geevledh</t>
+            <xg>
+                <x>Hør hvordan han skriker og bærer seg!</x>
+                <xt>Govlh guktie geevlie!</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t class="II" p3p="gylje" pos="V" umlaut="full" vow="x">gæljodh</t>
+	         <re>transitiv: om hunder</re>
+            <t class="IV" pos="V" umlaut="full" vow="x">gajredh</t>
+            <xg>
+                <x>Tispa pistrer.</x>
+                <xt>Råaksoe gojre.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -12036,7 +12061,12 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
+	           <re>om småbarn</re>
             <t class="II" p3p="njyjhke" pos="V" umlaut="full" vow="x">njæjhkodh</t>
+            <xg>
+                <x>Barnet gråter.</x>
+                <xt>Maana njyjhke.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -12046,23 +12076,8 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="V">hojhkesjidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="IV" pos="V" umlaut="D">gaakasadtedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <re>om småbarn</re>
             <t class="VI" pos="V" umlaut="F">meeredh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="VI" pos="V" umlaut="F">rööledh</t>
          </tg>
       </mg>
       <mg>
