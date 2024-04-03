@@ -11922,25 +11922,46 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <re>intransitiv</re>
+            <re>intransitiv: bli tørr</re>
             <t class="IV" minip="notSg1" p3p="gajhka" pos="V" vow="a">gajhkedh</t>
+            <xg>
+               <x>Høyet tørker slik.</x>
+               <xt>Suejnieh nimhtie gejhkieh.</xt>
+            </xg>
+            <xg>
+               <x>Skjorta tørker fort ved ovnen.</x>
+               <xt>Sjåarhtoe varki gajkha vuebnien bealesne.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <re>transitiv</re>
-            <t pos="V">gajhkedidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <re>transitiv</re>
+            <re>intransitiv: bli tørr</re>
             <t pos="V">gajhkesjidh</t>
+             <xg>
+             <x>Før brukte de å spenne ut og la det tørke</x>
+             <xt>Åvtesne provhkin tsagkedh jïh baajedh gajhkesjidh.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <re>transitiv:gjøre tørr, både i lufta og med apparat</re>
+            <t pos="V">gajhkedidh</t>
+            <xg>
+             <x>Husmor brukte å salte noen kjøttstykker og tørke dem</x>
+             <xt>Gåetie-iemede provhki naan bearkoestuhtjetjh såålhtedh jih dejtie gajhkedidh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>transitiv:gjøre tørr fort og litt, både i lufta og med apparat</re>
             <t class="I" pos="V" umlaut="full" vow="x">gajhkestehtedh</t>
+            <xg>
+             <x>Buksene tørker du jo fort med denne!</x>
+             <xt>Måvhkide hov gidtjh varki daejnie gajhkestahtah!</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -11948,25 +11969,38 @@ For the full license text, see the link above.</lic>
             <t class="I" pos="V" umlaut="A">båarkadehtedh</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">tørkes</l>
-      </lg>
       <mg>
          <tg xml:lang="sma">
-            <re>intransitiv</re>
-            <t class="IV" minip="notSg1" p3p="gajhka" pos="V" vow="a">gajhkedh</t>
+            <re>transitiv: tørke bort noe</re>
+            <t class="IV" minip="notSg1" p3p="gajhka" pos="V" vow="a">njaamedh</t>
+            <xg>
+               <x>Barnet tørker bort tårene.</x>
+               <xt>Maana gitnjelidie njaama.</xt>
+            </xg>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">tørke litt</l>
-      </lg>
       <mg>
          <tg xml:lang="sma">
-            <t class="I" pos="V" umlaut="full" vow="x">gajhkehtestedh</t>
+            <re>transitiv: tørke bort noe bare en gang</re>
+            <t class="IV" minip="notSg1" p3p="gajhka" pos="V" vow="a">njaamestidh</t>
+            <xg>
+            <x>Etter at vi har spist må vi rydde og tørke av bordet.</x>
+            <xt>Mænngan goh libie byöpmedamme, tjoeveribie sjeakodh jïh buertiem njaamestidh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>transitiv: om baken</re>
+            <t class="IV" minip="notSg1" p3p="gajhka" pos="V" vow="a">tsahtsodh</t>
+            <xg>
+                <x>Tørke baken.</x>
+                 <xt>Råvvem tsahtsodh.</xt>
+            </xg>
+            <xg>
+                <x>Tørk baken din!</x>
+                 <xt>Tsahtsoeh råvvemdh!.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -38495,20 +38529,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t class="II" pos="V" umlaut="C">tråvsodh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">tørke baken</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="II" pos="V" umlaut="C">tsahtsodh</t>
-            <xg>
-               <x>Tørk ræva di!</x>
-               <xt>Tsahtsoeh råvvemdh!</xt>
-            </xg>
          </tg>
       </mg>
    </e>
