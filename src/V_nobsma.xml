@@ -11948,11 +11948,6 @@ For the full license text, see the link above.</lic>
             <t class="I" pos="V" umlaut="A">båarkadehtedh</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="IV" pos="V" umlaut="D">gapsjedh</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -41717,6 +41712,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
+	     <re>intransitiv</re>
             <t class="IV" pos="V" umlaut="D">skoebredh</t>
          </tg>
       </mg>
@@ -41742,6 +41738,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
+	     <re>intransitiv</re>
             <t class="IV" pos="V" umlaut="D">skromhpedh</t>
          </tg>
       </mg>
@@ -41752,17 +41749,23 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
+	     <re>intransitiv</re>
             <t class="IV" pos="V" umlaut="D">tseegkesovvedh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">kontrollere merke</l>
+         <l pos="Phrase">kontrollere reinmerke</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+	     <re>transitiv</re>
             <t class="V" pos="V" umlaut="E">skyöredh</t>
+            <xg>
+               <x>Dle tjoeveribie skyöredh!</x>
+               <xt>Ja, da må vi kontrollere reinmerkene, om kalveørene er blitt merket etter riktig reinmerke!</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -41772,7 +41775,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
+	     <re>intransitiv</re>
             <t class="V" pos="V" umlaut="E">byssedh</t>
+            <xg>
+               <x>Bearkoeh joe bysseme?</x>
+               <xt>Er kjøttet allerede stekt?</xt>
+            </xg>
          </tg>
       </mg>
    </e>
