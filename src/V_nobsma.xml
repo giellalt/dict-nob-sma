@@ -11944,6 +11944,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
+	     <re>intransitiv</re>
             <t p3p="gajhkene" pos="V">gajhkanidh</t>
          </tg>
       </mg>
@@ -11954,17 +11955,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
+	          <re>intransitiv</re>
             <t p3p="gajhkene" pos="V">gajhkanidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t minip="notSg1" p3p="gæjhkene" pos="V">gæjhkanidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">loedtenidh</t>
          </tg>
       </mg>
    </e>
