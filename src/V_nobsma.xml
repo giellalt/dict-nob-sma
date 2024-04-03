@@ -3594,22 +3594,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="V">boejhkelidh</t>
+            <t pos="V">lohkehtidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t class="VI" p3p="leerie" pos="V">leeredh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">leerehtidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t p3p="lohkehte" pos="V">lohkehtidh</t>
+            <t p3p="lohkehte" pos="V">leerehtidh</t>
          </tg>
       </mg>
       <mg>
@@ -3625,16 +3615,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t class="IV" pos="V" vow="a">ööhpehtalledh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">bïhkemdidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">skuvlestidh</t>
          </tg>
       </mg>
    </e>
@@ -3669,17 +3649,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="V">byjhkesjidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t diph="yes" pos="V">bæjhkoehtidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">bïjhkesjidh</t>
          </tg>
       </mg>
    </e>
@@ -3714,12 +3684,8 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
+	       <re>om naturen</re>
             <t class="IV" minip="notSg1" pos="V" umlaut="full" vow="x">skïjledh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="IV" minip="notSg1" pos="V" umlaut="full" vow="x">viskesovvedh</t>
          </tg>
       </mg>
       <mg>
@@ -4142,16 +4108,6 @@ For the full license text, see the link above.</lic>
                <x>Jeg kan norsk.</x>
                <xt>Manne daaroengïelem maahtam.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">ååjmedidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">båånesjidh</t>
          </tg>
       </mg>
    </e>
@@ -13573,27 +13529,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t class="IV" pos="V" umlaut="full" vow="x">goepedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">goepedidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="IV" p3p="kruahka" pos="V" umlaut="full" vow="x">kroehkedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="IV" pos="V" umlaut="D">sjïepedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="V">siknjiedidh</t>
+            <xg>
+               <x>Når tennene begynner å dukke opp hos barnet, er det snart at det klør.</x>
+               <xt>Gosse maanan baenieh aelkieh jïjhtelidh dellie varki siknjiedidh.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -13609,16 +13549,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="V">sitnjedidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">føle kløe</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">goepedidh</t>
          </tg>
       </mg>
    </e>
@@ -13667,7 +13597,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t class="IV" pos="V" vow="a">goerehtalledh</t>
+            <t class="IV" pos="V" vow="a">gihtjedidh</t>
          </tg>
       </mg>
    </e>
@@ -13772,28 +13702,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="V">goesmeridh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="V">voeksedidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
             <t class="II" pos="V" umlaut="C">gåglodh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="II" pos="V" umlaut="C">tjallodh</t>
-            <t class="II" pos="V" umlaut="C">tjållodh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">voejestidh</t>
          </tg>
       </mg>
       <mg>
@@ -13811,11 +13725,6 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="Phrase">kaste opp</l>
       </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">goesmeridh</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sma">
             <t pos="V">voeksedidh</t>
