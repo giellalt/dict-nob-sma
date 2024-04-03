@@ -41642,7 +41642,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t class="IV" pos="V" umlaut="D">sjaamedh</t>
+	         <re>transitiv</re>
+            <t class="IV" pos="V" umlaut="D">tjöönghkedh</t>
+            <xg>
+               <x>Bovtsh tjöönghkedh.</x>
+               <xt>Å samle rein.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -41658,7 +41663,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="V">skje</l>
+         <l pos="V">skapes</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -41672,7 +41677,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t class="IV" pos="V" umlaut="D">sjåavedh</t>
+	      <re>intransitiv</re>
+            <t class="IV" pos="V" umlaut="D">gadtjedidh</t>
+            <xg>
+               <x>Manne gadtjedem.</x>
+               <xt>Jeg tisser.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
