@@ -12177,11 +12177,17 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
+	        <re>intransitiv</re>
             <t class="III" p3p="galhkoe" pos="V">galhkedh</t>
+            <xg>
+               <x>Jeg må bli ferdig med leksene først.</x>
+               <xt>Voestegh tjoeverem leaksoejgujmie galhkedh.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+	        <re>intransitiv</re>
             <t p3p="orrije" pos="V">orrijidh</t>
             <xg>
                <x>å slutte med rein</x>
@@ -12192,6 +12198,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t class="VI" pos="V" umlaut="F">sluvhtedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	     <re>intransitiv: om regn</re>
+            <t class="VI" pos="V" umlaut="F">böövtedh</t>
+            <xg>
+               <x>Nå sluttet det å regne</x>
+               <xt>Daelie böövti.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
