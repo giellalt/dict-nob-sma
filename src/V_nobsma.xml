@@ -12197,6 +12197,16 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
+	        <re>intransitiv:den ene etter den andre</re>
+            <t p3p="orrije" pos="V">orrijadtedh</t>
+            <xg>
+               <x>De sluttet en etter en med det.</x>
+               <xt>Dah orrijadtin dejnie.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
             <t class="VI" pos="V" umlaut="F">sluvhtedh</t>
          </tg>
       </mg>
