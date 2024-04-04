@@ -51,6 +51,16 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
+	       <re>intransitiv</re>
+            <t pos="V">juhtedh</t>
+            <xg>
+               <x>det går til %$#"%!</x>
+               <xt>Deajese jåhta!</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
             <t pos="V">dijpedh</t>
          </tg>
       </mg>
@@ -4716,11 +4726,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t class="IV" p3p="galka" pos="V" vow="a">galkedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="VI" p3p="luvhtie" pos="V">luvhtedh</t>
+            <xg>
+               <x>Hvor lenge må jeg bære bekymringene i sjelen og sorgen i hjertet hele dagen?</x>
+               <xt>Man guhkiem galkem tjoeperdimmieh sealosne guedtedh jïh abpe biejjiem sårkoem vaajmosne guedtedh?</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -4739,7 +4748,7 @@ For the full license text, see the link above.</lic>
             <t class="II" pos="V" umlaut="C">båavtodh</t>
             <xg>
                <x>Etter uværet ser det ut til å klarne opp.</x>
-               <xt>Elmien mænngan vååjnoes böövti.</xt>
+               <xt>Elmien mænngan vååjnoe böövti.</xt>
             </xg>
          </tg>
       </mg>
@@ -7894,6 +7903,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
+	        <re>Intransitiv</re>
             <t class="I" p3p="vualka" pos="V" umlaut="full" vow="x">vuelkedh</t>
             <xg>
                <x>Nå drar jeg.</x>
@@ -7903,7 +7913,17 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <re>ta en tur</re>
+	        <re>Intransitiv</re>
+            <t class="I" p3p="vualka" pos="V" umlaut="full" vow="x">vuelkedh</t>
+            <xg>
+               <x>Det drar til %6$#%!</x>
+               <xt>Yöjhtede vualka!</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>Intransitiv: ta en tur</re>
             <t class="IV" p3p="mænna" pos="V" umlaut="full" vow="x">mïnnedh</t>
             <xg>
                <x>Jeg skal dra innom butikken.</x>
