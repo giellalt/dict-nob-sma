@@ -10990,6 +10990,26 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sma">
+	      <re>ake, renne utfor på ski eller kjelke</re>
+            <t pos="V">gïerestalledh</t>
+            <xg>
+               <x>Barna renner utfor på ski.</x>
+               <xt>Maanah gïerestellieh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	      <re>Intransitiv: om øyne</re>
+            <t pos="V">gïtnjeldidh</t>
+            <xg>
+               <x>Tårene renner</x>
+               <xt>Tjelmieh gïtnjeldieh.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
