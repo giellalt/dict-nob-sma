@@ -10972,7 +10972,22 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="V">gårkasidh</t>
+	         <re>intransitiv: dryppe</re>
+            <t pos="V">garkasidh</t>
+            <xg>
+               <x>Det drypper fra vannbøtta.</x>
+               <xt>Tjaetsielihteste garkese.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	      <re>intransitiv: om diaré</re>
+            <t pos="V">gåjkedh</t>
+            <xg>
+               <x>Magen renner.</x>
+               <xt>Tjåejjie gåjka.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
