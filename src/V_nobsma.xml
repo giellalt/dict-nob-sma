@@ -10947,13 +10947,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="V">gaarkasidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <re>om væske</re>
+            <re>intransitiv: om noe flytende</re>
             <t class="IV" p3p="galka" pos="V" vow="a">galkedh</t>
+            <xg>
+               <x>Vannet renner i elva.</x>
+               <xt>Tjaetsie johkesne galka.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -10964,11 +10963,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="V">gårkasidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t context="3pers" pos="V">færkasidh</t>
          </tg>
       </mg>
    </e>
