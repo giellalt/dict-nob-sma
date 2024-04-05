@@ -10957,6 +10957,16 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <re>intransitiv: stadig renne om noe flytende</re>
+            <t class="IV" p3p="galka" pos="V" vow="a">galkedidh</t>
+            <xg>
+               <x>Hun var forkjøla og det rant stadig fra både nesa og øynene.</x>
+               <xt>Sovhtine hov jïh dovne njueneste jïh tjelmijste galkedin.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
             <t class="III" pos="V">garkedh</t>
          </tg>
       </mg>
