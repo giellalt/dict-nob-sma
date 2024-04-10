@@ -3863,18 +3863,29 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t minip="notSg1" p3p="bollerde" pos="V">bollerdidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
+	        <re>intransitivː rulle av seg selv</re>
             <t class="IV" pos="V" vow="a">jarredh</t>
             <t class="IV" p3p="jårra" pos="V" umlaut="full" vow="x">jårredh</t>
+            <xg>
+               <x>Ballen ruller.</x>
+               <xt>Tjengkere jårra.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-	         <re>plutselig begynne å rulle</re>
+	        <re>transitivː få noe til å rulle</re>
+            <t class="IV" pos="V" vow="a">jarredh</t>
+            <t class="IV" p3p="jårra" pos="V" umlaut="full" vow="x">jårrehtidh</t>
+            <xg>
+               <x>Berit ruller ballen.</x>
+               <xt>Birje tjengkerem jårrehte.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>intransitivː plutselig rulle av seg selv</re>
             <t p3p="jårrele" pos="V">jårrelidh</t>
          </tg>
       </mg>
