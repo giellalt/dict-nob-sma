@@ -1199,11 +1199,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">tsagkese</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N">dåeriesmoere</t>
             <xg>
                <x>Etter min mening er det et stort problem.</x>
@@ -9759,10 +9754,38 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">dåeriesmoere</t>
+            <t pos="N">tsagkese</t>
             <xg>
-               <x>Etter min mening er det et stort problem.</x>
-               <xt>Mov mïelen mietie dïhte stoerre dåeriesmoere.</xt>
+               <x>Jeg husker en som hadde en hindring for å snakke norsk. </x>
+               <xt>Måjhtam aktem giese lij tsagkese daaroen soptsestidh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">sperre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">tsagkese</t>
+            <xg>
+               <x>Mov mielen mietie lea	tsagkese gïeleevtiedæmman gosse tjïeltenåejvieh eah guarkah guktie maehtieh viehkiehtidh buerebh-laakan lohkehtimmiem saemiengïelese laetjedh.</x>
+               <xt>Jeg mener det er en sperre for språkutviklingen at kommuneledere ikke forstår hvordan de kan hjelpe til å legge til rette for undervisning for samisk språk.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">språksperre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">gïeletsagkese</t>
+            <xg>
+               <x>Naa jïjnjesh giej leah gïeletsagkesh</x>
+               <xt>Det er nokså mange som har språksperrer</xt>
             </xg>
          </tg>
       </mg>
