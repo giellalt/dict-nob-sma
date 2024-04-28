@@ -921,6 +921,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <t pos="N">daarpoe</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
             <t pos="N">daerpiesvoete</t>
          </tg>
       </mg>
@@ -4066,6 +4071,11 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="N">fødsel</l>
       </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">reakadimmie</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">baersieldimmie</t>
@@ -8968,6 +8978,31 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">doedtije</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">fotballspiller</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">tjïektjije</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">tjïektjedæjja</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">fotballproff</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">juelkietjengkereruerrie</t>
          </tg>
       </mg>
    </e>
@@ -20636,6 +20671,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <re>veg</re>
             <t pos="N">laajroe</t>
          </tg>
       </mg>
@@ -21833,6 +21869,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
+         <l pos="N">skrivemåte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">tjaelemevuekie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="N">lesestrategi</l>
       </lg>
       <mg>
@@ -21931,6 +21977,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">lopmefealloe</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">snøball</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">lopmetjengkere</t>
          </tg>
       </mg>
    </e>
@@ -34059,6 +34115,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
+         <l pos="N">tysk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">teevehtjegïele</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="N">syskrin</l>
       </lg>
       <mg>
@@ -34582,6 +34648,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">vaeknie</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">buvvemedïrregh</t>
          </tg>
       </mg>
    </e>
@@ -69148,6 +69219,16 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <re xml:lang="lat">limicola falcinellus</re>
             <t pos="N">vaeriepluevie-roehtije</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="aj">
+      <lg>
+         <l pos="N">sprinter</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">govjehkeroehtije</t>
          </tg>
       </mg>
    </e>

@@ -2088,21 +2088,21 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <t class="I" p3p="reakadahta" pos="V" umlaut="full" vow="x">reakadehtedh</t>
+            <xg>
+               <x>Kona mi har født et barn.</x>
+               <xt>Mov gåmma lea maanam reakadahteme.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
             <t diph="yes" p3p="baerselde" pos="V">baersieldidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
             <t p3p="guaktede" pos="V">guaktadidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="I" p3p="reakadahta" pos="V" umlaut="full" vow="x">reakadehtedh</t>
-            <xg>
-               <x>Kona mi har født et barn.</x>
-               <xt>Mov gåmma lea maanam reakadahteme.</xt>
-            </xg>
          </tg>
       </mg>
       <mg>
@@ -3230,10 +3230,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t class="II" p3p="såårne" pos="V" umlaut="full" vow="x">saarnodh</t>
-            <xg>
-               <x>Hva i all verden!</x>
-               <xt>Saarnoeh amma!</xt>
-            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="V">daajroehtidh</t>
          </tg>
       </mg>
    </e>
@@ -26612,6 +26613,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
+         <l pos="Phrase">gi beskjed</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="V">daajroehtidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="V">respektere</l>
       </lg>
       <mg>
@@ -39805,6 +39816,11 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="Phrase">komme på</l>
       </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="V">måjhtajidh</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="sma">
             <t class="IV" pos="V" umlaut="D">båatahtalledh</t>
