@@ -4423,36 +4423,37 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t class="VI" pos="V">irhkedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
+	         <re>slakte</re>
             <t diph="yes" pos="V">juktiestidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+	         <re>om ulv</re>
             <t class="II" pos="V" umlaut="full" vow="x">laarhkodh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+	         <re>slå ihjel</re>
             <t diph="yes" pos="V">tjaesniestidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+	         <re>gjøre av med</re>
             <t class="I" pos="V" umlaut="full" vow="x">uvhtedh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+	         <re>hogge ned</re>
             <t diph="yes" p3p="vuelede" pos="V">vueliedidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+	         <re>få til å sovne (inn)</re>
             <t class="I" pos="V" umlaut="full" vow="x">åarajehtedh</t>
             <xg>
                <x>Vi må vel selv drepe rovdyrene.</x>
@@ -4462,43 +4463,34 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
+	         <re>(serie)myrde</re>
             <t pos="V">bovvehtjidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+	         <re>den ene etter den andre</re>
             <t class="IV" pos="V" umlaut="D">bovveladtedh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+	         <re>et dyr</re>
             <t pos="V">baktjelidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="V">baskelidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+	         <re>mange</re>
+            <t pos="V">bovvelidh</t>
             <t pos="V">bavvelidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="V">bovvelidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
+	         <re>ta livet av</re>
             <t pos="V">åajmeskidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-	         <re>bli drept</re>
-            <t pos="V">båvvasidh</t>
          </tg>
       </mg>
       <mg>
@@ -17657,16 +17649,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="V">drepes</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="IV" pos="V" umlaut="full" vow="x">irhkesovvedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">ødelegges</l>
       </lg>
       <mg>
@@ -20026,7 +20008,17 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">banke opp flere ganger</l>
+         <l pos="Phrase">banke opp</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t class="II" pos="V" umlaut="full" vow="x">laarhkodh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">denge</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -23130,6 +23122,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t class="IV" pos="V" umlaut="D">nahkesalledh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>dovne bort</re>
+            <t pos="V">båvvasidh</t>
+            <xg>
+               <x>Foten sovnet.</x>
+               <xt>Juelkie båvvasi.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -34855,20 +34857,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">legge seg ned for å dø</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t p3p="åarije" pos="V">åarajidh</t>
-            <xg>
-               <x>Så døde ulven.</x>
-               <xt>Dle dïhte snöölhke åaraji.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Phrase">la forkortes</l>
       </lg>
       <mg>
@@ -39834,11 +39822,17 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">bli dra pt av gift</l>
+         <l pos="Phrase">bli drept</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <t class="IV" pos="V" umlaut="D">båvvasovvedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>av skade el. gift</re>
+            <t pos="V">båvvasidh</t>
          </tg>
       </mg>
    </e>
@@ -51887,6 +51881,16 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="sma">
         <t pos="V">irhkedh</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V" src="fad">mobbes</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sma">
+        <t class="IV" pos="V" umlaut="full" vow="x">irhkesovvedh</t>
       </tg>
     </mg>
   </e>
