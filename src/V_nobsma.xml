@@ -11006,10 +11006,10 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-	      <re>Intransitiv: om øyne</re>
+	      <re>intransitiv: om øyne</re>
             <t pos="V">gïtnjeldidh</t>
             <xg>
-               <x>Tårene renner</x>
+               <x>Tårene renner.</x>
                <xt>Tjelmieh gïtnjeldieh.</xt>
             </xg>
          </tg>
@@ -11987,7 +11987,7 @@ For the full license text, see the link above.</lic>
             <re>intransitiv: bli tørr</re>
             <t pos="V">gajhkesjidh</t>
              <xg>
-             <x>Før brukte de å spenne ut og la det tørke</x>
+             <x>Før brukte de å spenne ut og la det tørke.</x>
              <xt>Åvtesne provhkin tsagkedh jïh baajedh gajhkesjidh.</xt>
             </xg>
          </tg>
@@ -11997,7 +11997,7 @@ For the full license text, see the link above.</lic>
             <re>transitiv:gjøre tørr, både i lufta og med apparat</re>
             <t pos="V">gajhkedidh</t>
             <xg>
-             <x>Husmor brukte å salte noen kjøttstykker og tørke dem</x>
+             <x>Husmor brukte å salte noen kjøttstykker og tørke dem.</x>
              <xt>Gåetie-iemede provhki naan bearkoestuhtjetjh såålhtedh jih dejtie gajhkedidh.</xt>
             </xg>
          </tg>
@@ -12278,7 +12278,7 @@ For the full license text, see the link above.</lic>
 	     <re>intransitiv: om regn</re>
             <t class="VI" pos="V" umlaut="F">böövtedh</t>
             <xg>
-               <x>Nå sluttet det å regne</x>
+               <x>Nå sluttet det å regne.</x>
                <xt>Daelie böövti.</xt>
             </xg>
          </tg>
