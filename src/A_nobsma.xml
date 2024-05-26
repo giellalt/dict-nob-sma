@@ -1519,8 +1519,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="A">båeries</t>
             <xg>
-               <x>10 år gammel .</x>
-               <xt>Luhkien jaepien båeries .</xt>
+               <x>10 år gammel</x>
+               <xt>luhkien jaepien båeries</xt>
             </xg>
             <xg>
                <x>Laara er eldre enn Anne.</x>
@@ -9460,8 +9460,8 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="Phrase">våårkehke  </t>
-        <t pos="Phrase">vuepties  </t>
+        <t pos="Phrase">våårkehke</t>
+        <t pos="Phrase">vuepties</t>
       </tg>
     </mg>
   </e>

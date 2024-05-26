@@ -269,10 +269,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="CS">jalts</t>
             <xg>
-               <x>Nå skal du få se om du får det til, selv om jeg tror at du ikke får det bedre til enn broren
-               din.</x>
-               <xt>Nov edtjh åadtjodh vuejnedh mejtie buektehth, jalts manne straavvem ih datne buerebh buektehth goh
-               vïelledh.</xt>
+               <x>Nå skal du få se om du får det til, selv om jeg tror at du ikke får det bedre til enn broren din.</x>
+               <xt>Nov edtjh åadtjodh vuejnedh mejtie buektehth, jalts manne straavvem ih datne buerebh buektehth goh vïelledh.</xt>
             </xg>
          </tg>
       </mg>
@@ -296,22 +294,30 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="CS">ihkie</t>
             <xg>
-               <x>selv om jeg ikke ser det De klarte ikke å forklare barna sine det, skjønt de gjerne ville.</x>
-               <xt>ihkie im vuejnieh Idtjin buektehth sijjen maanide dam boejhkelidh, ihkie maaje sïjhtin.</xt>
+               <x>Skjønt jeg ikke ser det.</x>
+               <xt>Ihkie im vuejnieh.</xt>
+            </xg>
+            <xg>
+               <x>De klarte ikke å forklare barna sine det, skjønt de gjerne ville.</x>
+               <xt>Idtjin buektehth sijjen maanide dam boejhkelidh, ihkie maaje sïjhtin.</xt>
             </xg>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="CS">om enn</l>
+         <l pos="CS">selv om</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <t pos="CS">ihkie</t>
             <xg>
-               <x>selv om jeg ikke ser det De klarte ikke å forklare barna sine det, skjønt de gjerne ville.</x>
-               <xt>ihkie im vuejnieh Idtjin buektehth sijjen maanide dam boejhkelidh, ihkie maaje sïjhtin.</xt>
+               <x>Selv om jeg ikke ser det.</x>
+               <xt>Ihkie im vuejnieh.</xt>
+            </xg>
+            <xg>
+               <x>De klarte ikke å forklare barna sine det, selv om de gjerne ville.</x>
+               <xt>Idtjin buektehth sijjen maanide dam boejhkelidh, ihkie maaje sïjhtin.</xt>
             </xg>
          </tg>
       </mg>

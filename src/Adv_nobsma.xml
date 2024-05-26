@@ -156,7 +156,7 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">gåaroesgïeti</t>
             <xg>
                <x>Han/Hun måtte vendte tilbake tomhendt.</x>
-               <xt>Tjoeveri gåaroesgïeti bååstede jarkelidh</xt>
+               <xt>Tjoeveri gåaroesgïeti bååstede jarkelidh.</xt>
             </xg>
          </tg>
       </mg>
@@ -1110,7 +1110,7 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">buerielaakan</t>
             <xg>
                <x>Nåtidens menneske lever godt.</x>
-               <xt>Daaletje almetje buerielaakan jeala</xt>
+               <xt>Daaletje almetje buerielaakan jeala.</xt>
             </xg>
          </tg>
       </mg>
@@ -1930,8 +1930,16 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="Adv">joem</t>
             <xg>
-               <x>Hvor hen da? Noen steds hen, men hvor hen? Hva da? noen, en eller annen for et eller annet</x>
-               <xt>Gåabpoeh joem? Maam joem? gïem joem mestie joem</xt>
+               <x>Hvor hen da?</x>
+               <xt>Gåabpoeh joem?</xt>
+            </xg>
+            <xg>
+               <x>Noen steds hen, men hvor hen?</x>
+               <xt>Gåabpoeh joem? Maam joem?</xt>
+            </xg>
+            <xg>
+               <x>noen, en eller annen for et eller annet</x>
+               <xt>gïem joem mestie joem</xt>
             </xg>
          </tg>
       </mg>
@@ -2041,8 +2049,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="Adv">diekie</t>
             <xg>
-               <x>Kom hit! hit og dit</x>
-               <xt>Båetieh diekie! dohkh diekie</xt>
+               <x>Kom hit!</x>
+               <xt>Båetieh diekie!</xt>
+            </xg>
+            <xg>
+               <x>hit og dit</x>
+               <xt>dohkh diekie</xt>
             </xg>
          </tg>
       </mg>
@@ -2666,8 +2678,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="Adv">gaatesjen</t>
             <xg>
-               <x>Det var synd. barn man ber om unnskyldning for</x>
-               <xt>Ov dellie gaatesjen. gaatesjen maana</xt>
+               <x>Det var synd.</x>
+               <xt>Ov dellie gaatesjen.</xt>
+            </xg>
+            <xg>
+               <x>barn man ber om unnskyldning for</x>
+               <xt>gaatesjen maana</xt>
             </xg>
          </tg>
       </mg>
@@ -2680,8 +2696,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="Adv">gaatesjen</t>
             <xg>
-               <x>Det var synd. barn man ber om unnskyldning for</x>
-               <xt>Ov dellie gaatesjen. gaatesjen maana</xt>
+               <x>Beklager.</x>
+               <xt>Ov dellie gaatesjen.</xt>
             </xg>
          </tg>
       </mg>
@@ -2775,8 +2791,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="Pcle">gujht</t>
             <xg>
-               <x>jo visst Brita kom iallfall.</x>
-               <xt>nov gujht Brita gujht bööti.</xt>
+               <x>Jo visst, Brita kom iallfall.</x>
+               <xt>Nov gujht Brita gujht bööti.</xt>
             </xg>
          </tg>
       </mg>

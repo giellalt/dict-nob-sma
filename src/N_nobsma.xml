@@ -702,8 +702,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="N">vuesiehtimmie</t>
             <xg>
-               <x>For eksempel</x>
-               <xt>Vuesiehtimmmien gaavhtan</xt>
+               <x>for eksempel</x>
+               <xt>vuesiehtimmmien gaavhtan</xt>
             </xg>
          </tg>
       </mg>
@@ -1347,6 +1347,20 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">sjugniedæjja</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">mellomtiden</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Po">gaskesne</t>
+            <xg>
+               <x>i mellomtiden</x>
+               <xt>dennie gaskesne</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2254,6 +2268,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">mïele</t>
+            <xg>
+               <x>etter min mening</x>
+               <xt>mov mïelen mietie/mov mïelesne</xt>
+            </xg>
             <xg>
                <x>Etter min mening er det et stort problem.</x>
                <xt>Mov mïelen mietie dïhte stoerre dåeriesmoere.</xt>
@@ -5120,8 +5138,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="N">biejjie</t>
             <xg>
-               <x>i forgårs Barnet ble født 10. desember.</x>
-               <xt>don biejjien Maana reakadi goeven låhkeden biejjien.</xt>
+               <x>i forgårs</x>
+               <xt>don biejjien</xt>
+            </xg>
+            <xg>
+               <x>Barnet ble født 10. desember.</x>
+               <xt>Maana reakadi goeven låhkeden biejjien.</xt>
             </xg>
          </tg>
       </mg>
@@ -8087,8 +8109,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t illpl="no" pos="N">daelhkie</t>
             <xg>
-               <x>når det er fint føre Det ble dårlig føre.</x>
-               <xt>juktie hijven daelhkie Nåake daelhkie sjïdti.</xt>
+               <x>når det er fint føre</x>
+               <xt>juktie hijven daelhkie</xt>
+            </xg>
+            <xg>
+               <x>Det ble dårlig føre.</x>
+               <xt>Nåake daelhkie sjïdti.</xt>
             </xg>
          </tg>
       </mg>
@@ -14736,8 +14762,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="N">guelmie</t>
             <xg>
-               <x>er lik meg Barnet ligner faren sin.</x>
-               <xt>mov guelmesne Maana aehtjeben guelmesne.</xt>
+               <x>er lik meg</x>
+               <xt>mov guelmesne</xt>
+            </xg>
+            <xg>
+               <x>Barnet ligner faren sin.</x>
+               <xt>Maana aehtjeben guelmesne.</xt>
             </xg>
          </tg>
       </mg>
@@ -19275,8 +19305,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="N">jåvlh</t>
             <xg>
-               <x>God jul og godt nytt år</x>
-               <xt>Lahkoe jåvlh jïh buerie orre jaepie</xt>
+               <x>God jul og godt nytt år!</x>
+               <xt>Lahkoe jåvlh jïh buerie orre jaepie!</xt>
             </xg>
          </tg>
       </mg>
@@ -24193,10 +24223,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">mïele</t>
-            <xg>
-               <x>etter min mening etter min mening Etter min mening er det et stort problem.</x>
-               <xt>mov mïelen mietie mov mïelesne Mov mïelen mietie dïhte stoerre dåeriesmoere.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -24207,10 +24233,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">mïele</t>
-            <xg>
-               <x>etter min mening etter min mening Etter min mening er det et stort problem.</x>
-               <xt>mov mïelen mietie mov mïelesne Mov mïelen mietie dïhte stoerre dåeriesmoere.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -25426,10 +25448,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">nuepie</t>
-            <xg>
-               <x>til hvilken anledning/grunn er det?</x>
-               <xt>man gaavhtan dïhte?</xt>
-            </xg>
          </tg>
       </mg>
       <mg>
@@ -26434,8 +26452,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="N" nr="Pl">påaskh</t>
             <xg>
-               <x>God påske</x>
-               <xt>Buerie påaskh</xt>
+               <x>God påske!</x>
+               <xt>Buerie påaskh!</xt>
             </xg>
          </tg>
       </mg>
@@ -35856,10 +35874,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">vueptie</t>
-            <xg>
-               <x>oppdage Da blir også Laara var, og skyter igjen.</x>
-               <xt>vuaptan sjïdtedh Die Laara aaj vuaptan sjædta, jïh dle vuatja vihth.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -36508,8 +36522,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="N">åejjie</t>
             <xg>
-               <x>Jeg har hodepine</x>
-               <xt>Mov åejjieh saejriedieh</xt>
+               <x>Jeg har hodepine.</x>
+               <xt>Mov åejjieh saejriedieh.</xt>
             </xg>
          </tg>
          <tg xml:lang="sma">
@@ -65470,7 +65484,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">gïete</t>
             <xg>
                <x>Hold meg i handa!</x>
-               <xt>Steerh mov gïeteste</xt>
+               <xt>Steerh mov gïeteste!</xt>
             </xg>
          </tg>
       </mg>

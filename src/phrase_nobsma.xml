@@ -57,7 +57,7 @@ For the full license text, see the link above.</lic>
             </xg>
             <xg>
                 <x>Vær så god og sett dere!</x>
-                <xt>Vuejnede tjihkedidie</xt>
+                <xt>Vuejnede tjihkedidie!</xt>
             </xg>
             <xg>
                 <x>Vær så god og ta! (imperativ, entall)</x>
@@ -72,12 +72,12 @@ For the full license text, see the link above.</lic>
                 <xt>Vuejnede byöpmedidie!</xt>
             </xg>
             <xg>
-               <x>Vær så god og ta for deg.</x>
-               <xt>Duelie vuajnah.</xt>
+               <x>Vær så god og ta for deg!</x>
+               <xt>Duelie vuajnah!</xt>
             </xg>
              <xg>
-               <x>Vær så god (som svar til noen som takker).</x>
-               <xt>Vuajnah dellie.</xt>
+               <x>Vær så god! (som svar til noen som takker)</x>
+               <xt>Vuajnah dellie!</xt>
             </xg>
          </tg>
       </mg>
@@ -443,11 +443,11 @@ For the full license text, see the link above.</lic>
    </e> 
    <e>
       <lg>
-         <l pos="Phrase">Snipp snapp snute</l>
+         <l pos="Phrase">snipp snapp snute</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Po">Snipp snapp snute</t>
+            <t pos="Phrase">Snipp snapp snute</t>
             <xg>
                <x>Snipp snapp snute, så er eventyret ute.</x>
                <xt>Dïhte lij gaajhke daan aejkien.</xt>
@@ -457,11 +457,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">Vet ikke opp ned på en rein</l>
+         <l pos="Phrase">vet ikke opp ned på en rein</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Po">Vet ikke opp ned på en rein</t>
+            <t pos="Po">vet ikke opp ned på en rein</t>
             <xg>
                <x>Vet ikke opp ned på en rein</x>
                <xt>Båastoeh gïejh guara.</xt>
