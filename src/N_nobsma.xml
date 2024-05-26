@@ -703,7 +703,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">vuesiehtimmie</t>
             <xg>
                <x>for eksempel</x>
-               <xt>vuesiehtimmmien gaavhtan</xt>
+               <xt>vuesiehtimmien gaavhtan</xt>
             </xg>
          </tg>
       </mg>
@@ -9823,7 +9823,7 @@ For the full license text, see the link above.</lic>
             <t pos="N">tsagkese</t>
             <xg>
                <x>Jeg husker en som hadde en hindring for å snakke norsk.</x>
-               <xt>Måjhtam aktem giese lij tsagkese daaroen soptsestidh.</xt>
+               <xt>Måjhtam aktem gïese lij tsagkese daaroen soptsestidh.</xt>
             </xg>
          </tg>
       </mg>
@@ -9836,8 +9836,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="N">tsagkese</t>
             <xg>
-               <x>Mov mielen mietie lea	tsagkese gïeleevtiedæmman gosse tjïeltenåejvieh eah guarkah guktie maehtieh viehkiehtidh buerebh-laakan lohkehtimmiem saemiengïelese laetjedh.</x>
-               <xt>Jeg mener det er en sperre for språkutviklingen at kommuneledere ikke forstår hvordan de kan hjelpe til å legge til rette for undervisning for samisk språk.</xt>
+               <x>Jeg mener det er en sperre for språkutviklingen at kommuneledere ikke forstår hvordan de kan hjelpe til å legge til rette for undervisning for samisk språk.</x>
+               <xt>Mov mïelen mietie lea tsagkese gïeleevtiedæmman gosse tjïeltenåejvieh eah guarkah guktie maehtieh viehkiehtidh buerebh-laakan lohkehtimmiem saemiengïelese laetjedh.</xt>
             </xg>
          </tg>
       </mg>
@@ -9850,8 +9850,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="N">gïeletsagkese</t>
             <xg>
-               <x>Naa jïjnjesh giej leah gïeletsagkesh.</x>
-               <xt>Det er nokså mange som har språksperrer.</xt>
+               <x>Det er nokså mange som har språksperre.</x>
+               <xt>Naa jïjnjesh giej lea gïeletsagkese.</xt>
             </xg>
          </tg>
       </mg>

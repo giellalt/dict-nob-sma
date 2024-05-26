@@ -4695,7 +4695,7 @@ For the full license text, see the link above.</lic>
             <t class="IV" p3p="galka" pos="V" vow="a">galkedh</t>
             <xg>
                <x>Hvilken av de to koppene skal jeg drikke av?</x>
-               <xt>Gåabpede kåahpijste galkem jovkedh?</xt>
+               <xt>Gåabpede kåahpijste galkem jovkedh?</xt>
             </xg>
             <xg>
                <x>Du skal ut og gjete.</x>
@@ -11998,7 +11998,7 @@ For the full license text, see the link above.</lic>
             <t pos="V">gajhkedidh</t>
             <xg>
              <x>Husmor brukte å salte noen kjøttstykker og tørke dem.</x>
-             <xt>Gåetie-iemede provhki naan bearkoestuhtjetjh såålhtedh jih dejtie gajhkedidh.</xt>
+             <xt>Gåetie-iemede provhki naan bearkoestuhtjetjh såålhtedh jïh dejtie gajhkedidh.</xt>
             </xg>
          </tg>
       </mg>
@@ -12023,7 +12023,7 @@ For the full license text, see the link above.</lic>
             <t class="IV" minip="notSg1" p3p="gajhka" pos="V" vow="a">njaamedh</t>
             <xg>
                <x>Barnet tørker bort tårene.</x>
-               <xt>Maana gitnjelidie njaama.</xt>
+               <xt>Maana gïtnjelidie njaama.</xt>
             </xg>
          </tg>
       </mg>
@@ -26807,6 +26807,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t class="VI" p3p="tjöönghkie" pos="V">tjöönghkedh</t>
+            <xg>
+               <x>å samle rein</x>
+               <xt>bovtsh tjöönghkedh</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -33175,7 +33179,7 @@ For the full license text, see the link above.</lic>
             </xg>
             <xg>
                <x>Du må også huske å gi litt til deg selv.</x>
-               <xt>Tjoerh aaj mujhtedh ånnetji jïjtsadth vedtedh.</xt>
+               <xt>Tjoerh aaj mujhtedh ånnetji jïjtsadth vedtedh.</xt>
             </xg>
          </tg>
       </mg>
@@ -41770,21 +41774,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">samle rein</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-	         <re>transitiv</re>
-            <t class="IV" pos="V" umlaut="D">tjöönghkedh</t>
-            <xg>
-               <x>Bovtsh tjöönghkedh.</x>
-               <xt>Å samle rein.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Phrase">gi lyd i fra seg</l>
       </lg>
       <mg>
@@ -41812,8 +41801,8 @@ For the full license text, see the link above.</lic>
 	      <re>intransitiv</re>
             <t class="IV" pos="V" umlaut="D">gadtjedidh</t>
             <xg>
-               <x>Manne gadtjedem.</x>
-               <xt>Jeg tisser.</xt>
+               <x>Jeg tisser.</x>
+               <xt>Manne gadtjedem.</xt>
             </xg>
          </tg>
       </mg>
@@ -41905,8 +41894,8 @@ For the full license text, see the link above.</lic>
 	     <re>transitiv</re>
             <t class="V" pos="V" umlaut="E">skyöredh</t>
             <xg>
-               <x>Dle tjoeveribie skyöredh!</x>
-               <xt>Ja, da må vi kontrollere reinmerkene, om kalveørene er blitt merket etter riktig reinmerke!</xt>
+               <x>Ja, da må vi kontrollere reinmerkene, om kalveørene er blitt merket etter riktig reinmerke!</x>
+               <xt>Dle tjoeveribie skyöredh!</xt>
             </xg>
          </tg>
       </mg>
@@ -41920,8 +41909,8 @@ For the full license text, see the link above.</lic>
 	     <re>intransitiv</re>
             <t class="V" pos="V" umlaut="E">byssedh</t>
             <xg>
-               <x>Bearkoeh joe bysseme?</x>
-               <xt>Er kjøttet allerede stekt?</xt>
+               <x>Er kjøttet allerede stekt?</x>
+               <xt>Bearkoeh joe bysseme?</xt>
             </xg>
          </tg>
       </mg>
@@ -52524,7 +52513,7 @@ For the full license text, see the link above.</lic>
             </xg>
             <xg>
                <x>Anna har tre barn.</x>
-               <xt>Aannnan leah golme maanah.</xt>
+               <xt>Aannan leah golme maanah.</xt>
             </xg>
          </tg>
       </mg>
@@ -52552,7 +52541,7 @@ For the full license text, see the link above.</lic>
             <t pos="V">eekedh</t>
             <xg>
                <x>Hvem eier den?</x>
-               <xt>Gïe dïhte dam eekie?</xt>
+               <xt>Gie dïhte dam eekie?</xt>
             </xg>
          </tg>
       </mg>
