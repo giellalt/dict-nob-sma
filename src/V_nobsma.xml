@@ -28568,49 +28568,21 @@ boelehtje!</xt>
       <mg>
          <tg xml:lang="sma">
             <re>transitiv</re>
-            <t class="I" pos="V" umlaut="full" vow="x">soevestehtedh</t>
+            <t class="I" pos="V" umlaut="full" vow="x">rïevhkestidh</t>
+            <xg>
+              <x>Det er ikke lov å røyke på offentlige plasser lenger.</x>
+              <xt>Ij leah vielie luhpie byjjes sijjine rïevhkestidh.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
             <re>transitiv</re>
-            <t pos="V">soevestidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">barjestidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">rïevhkestidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <re>om mat</re>
-            <t pos="V">såajtoedidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">lage røykbål</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
             <t class="I" pos="V" umlaut="full" vow="x">soevestehtedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">lage røyk</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">soevestidh</t>
+            <xg>
+              <x>Vi har røkt kjøtt.</x>
+              <xt>Mijjieh libie bearkoeh soevestahteme</xt>
+            </xg>
          </tg>
       </mg>
    </e>
