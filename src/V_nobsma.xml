@@ -19483,23 +19483,11 @@ boelehtje!</xt>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t class="VI" pos="V">kneekedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="IV" pos="V" umlaut="D">bïjredh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <re>om mus</re>
-            <t class="VI" pos="V" umlaut="F">birnjedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t class="VI" pos="V" umlaut="F">geehledh</t>
+            <xg>
+              <x>Hunden gnager bein</x>
+              <xt>Bïenje måaroem geehleminie.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -28543,21 +28531,10 @@ boelehtje!</xt>
       <mg>
          <tg xml:lang="sma">
             <t class="IV" pos="V" umlaut="full" vow="x">soeskedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="I" pos="V" umlaut="A">gaegkedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="IV" pos="V" umlaut="D">gaaledh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="VI" pos="V" umlaut="F">geehledh</t>
+            <xg>
+              <x>Det er bra for tennene å tygge kvae.</x>
+              <xt>Hijven baenide gaessiem soeskedh.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
