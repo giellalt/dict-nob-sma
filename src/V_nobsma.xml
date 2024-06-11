@@ -13401,6 +13401,23 @@ boelehtje!</xt>
          </tg>
       </mg>
    </e>
+    <e>
+      <lg>
+         <l pos="Phrase">dreie</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>intransitivː noe dreier</re>
+            <t pos="V">jårredh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>transitivː å dreie noe</re>
+            <t pos="V">jårrehtidh</t>
+         </tg>
+      </mg>
+   </e>
    <e>
       <lg>
          <l pos="Phrase">fryse ned</l>
