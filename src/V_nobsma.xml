@@ -13267,17 +13267,23 @@ boelehtje!</xt>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t diph="yes" pos="V">gietskiedidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
+	         <re>sende, (en ting)</re>
             <t class="VI" p3p="seedtie" pos="V">seedtedh</t>
+            <xg>
+               <x>Du kan sende en e-post.</x>
+               <xt>Maahtah e-påastem seedtedh.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+	         <re>sende om flere ting</re>
             <t class="II" pos="V" umlaut="C">saadtodh</t>
+            <xg>
+               <x>Hvis vi også kunne ha mange unge kunnskapsrike som vi hadde nådd å sende til mange plasser rundt omkring i verden.</x>
+               <xt>Jis lin dle mijjen aaj jijnjh noere maahtoetjiehpieh mejtie limh nööreme gellide lehkide bijre daam eatnemem	saadtodh.
+</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -13307,22 +13313,11 @@ boelehtje!</xt>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t class="I" pos="V" umlaut="full" vow="x">gïevredehtedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">gïevredidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="I" pos="V" umlaut="full" vow="x">såajjoedehtedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t diph="yes" pos="V">sæjloedidh</t>
+            <t diph="yes" pos="V">sæjloedehtedh</t>
+            <xg>
+               <x>Du tretter meg neste regelrett ut.</x>
+               <xt>Datne raaktan mannem sæjloehdahtah.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -13429,11 +13424,6 @@ boelehtje!</xt>
       <mg>
          <tg xml:lang="sma">
             <t class="IV" pos="V" umlaut="full" vow="x">gïjkedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="I" pos="V" umlaut="full" vow="x">klijkedh</t>
          </tg>
       </mg>
       <mg>
