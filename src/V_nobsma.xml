@@ -3494,6 +3494,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
+         <tg xml:lang="sme">
+             <re>intransitiv: brenne seg</re>
+           <t pos="V">boelehtjidh</t>
+           <xg>
+               <x>Å kjøre vene min kjære bestemor, du har det så varmt i huset at folk nesten brenner seg her!</x>
+               <xt>Åa jemmede, aahkeme, dov jis gåetesne amma bijvele, almetje mahte
+boelehtje!</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
          <tg xml:lang="sma">
             <re>transitiv, å brenne noe</re>
             <t class="I" pos="V" umlaut="full" vow="x">båeltedh</t>
@@ -33092,6 +33103,10 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Dere er flinke.</x>
                <xt>Dijjieh lidie væjkele.</xt>
+            </xg>
+            <xg>
+               <x>Han var lærer i mange år, før han begynte i ny jobb</x>
+               <xt>Gellie jaepiej lij lohkehtæjja, aarebi goh orre barkose eelki.</xt>
             </xg>
          </tg>
       </mg>
