@@ -939,7 +939,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-               <x>bli rådløs</x>
+               <re>bli rådløs</re>
             <t p3p="magkele" pos="V">magkalidh</t>
          </tg>
       </mg>
@@ -2351,7 +2351,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">som mangler</l>
+         <l pos="A">manglende</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -6039,16 +6039,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">som er alene</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="A">oktegs</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="A">særskilt</l>
       </lg>
       <mg>
@@ -7154,6 +7144,12 @@ For the full license text, see the link above.</lic>
             <t pos="A">stööves</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>om rein som er rolig og samlet</re>
+            <t pos="A">tsåeptseles</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -7465,28 +7461,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="A">tjöölle</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">som holder seg på plass</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <re>om rein</re>
-            <t pos="A">tsåeptseles</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">som er rolig og samlet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <re>om rein</re>
-            <t pos="A">tsåeptseles</t>
          </tg>
       </mg>
    </e>
@@ -8289,16 +8263,6 @@ For the full license text, see the link above.</lic>
    <e>
       <lg>
          <l pos="Phrase">ferdig tilberedt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="A">stïeres</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">som er tilstede</l>
       </lg>
       <mg>
          <tg xml:lang="sma">

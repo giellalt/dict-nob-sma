@@ -4271,26 +4271,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">nederste plass i gamma</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t illpl="no" pos="N">bajsjeme</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">plassen fra døra til den første buestanga</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t illpl="no" pos="N">bajsjeme</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">knapp</l>
       </lg>
       <mg>
@@ -28416,6 +28396,12 @@ For the full license text, see the link above.</lic>
 	         <re>gi plass</re>
             <t class="VI" pos="V">tjeekedh</t>
             <t p3p="tjeekede" pos="V">tjeekedidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>om rein som holder seg på plass</re>
+            <t pos="A">tsåeptseles</t>
          </tg>
       </mg>
    </e>
