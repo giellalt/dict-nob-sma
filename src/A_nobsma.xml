@@ -2179,6 +2179,12 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
+	         <re>på en ivrig måte</re>
+            <t pos="Adv">eadtjohkelaakan</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
             <re>bli ivrig</re>
             <t class="IV" p3p="eadtjaldåvva" pos="V" umlaut="full" vow="x">eadtjaldovvedh</t>
          </tg>
@@ -2205,6 +2211,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="A">eadtjohke</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>på en modig måte</re>
+            <t pos="Adv">eadtjohkelaakan</t>
          </tg>
       </mg>
    </e>

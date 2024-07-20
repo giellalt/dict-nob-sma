@@ -1288,6 +1288,27 @@ For the full license text, see the link above.</lic>
             <t pg="no" pos="N">åarjel</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sma">
+         <re>i sør</re>
+            <t pos="Adv">åarjene</t>
+            <xg>
+               <x>Samene har lenge bodd her i sør.</x>
+               <xt>Saemieh guhkiem daebpene åarjene orreme.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+         <re>i sørlig retning</re>
+            <t pos="Adv">åarjege</t>
+            <t pos="Adv">åarjese</t>
+            <xg>
+               <x>Når reiser du sørover igjen?</x>
+               <xt>Gåessie datne viht åarjese vualkah?</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -1298,6 +1319,12 @@ For the full license text, see the link above.</lic>
             <t pg="no" pos="N">jillie</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sma">
+         <re>i vest</re>
+            <t pos="Adv">jillene</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -1306,6 +1333,13 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pg="no" pos="N">luvlie</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+         <re>i øst</re>
+            <t pos="Adv">lulnie</t>
+            <t pos="Adv">luvlene</t>
          </tg>
       </mg>
    </e>
@@ -1795,10 +1829,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">aalkoe</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="N">aalkove</t>
          </tg>
       </mg>
@@ -5129,6 +5159,16 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>om dagen</re>
+            <t pos="Adv">biejjegi</t>
+            <xg>
+               <x>Om dagen er Jåvva i barnehagen.</x>
+               <xt>Biejjegi Jåvva maanagïertesne.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -8100,6 +8140,12 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>om hardt snø- og isføre</re>
+            <t pos="N">gebrie</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -8143,6 +8189,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">daelvie</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>om vinteren</re>
+            <t pos="Adv">daelvege</t>
          </tg>
       </mg>
    </e>
@@ -13148,6 +13200,16 @@ For the full license text, see the link above.</lic>
             <t pos="N">laajroe</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>etter vegen</re>
+            <t pos="Adv">geajnoeraejkien</t>
+            <xg>
+               <x>De kommer gående etter vegen.</x>
+               <xt>Geajnoeraejkien båetieh vaedtsien.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -13171,16 +13233,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">del av seletøyet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">geasastahke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">seletøy</l>
       </lg>
       <mg>
@@ -13188,15 +13240,10 @@ For the full license text, see the link above.</lic>
             <t nr="Pl" pos="N">geasastahkh</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">hardt føre som bærer</l>
-      </lg>
       <mg>
          <tg xml:lang="sma">
-            <re>om snø- og isføre</re>
-            <t pos="N">gebrie</t>
+	         <re>del av seletøy</re>
+            <t pos="N">geasastahke</t>
          </tg>
       </mg>
    </e>
@@ -13687,6 +13734,27 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">giesie</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>om sommeren</re>
+            <t pos="Adv">giesege</t>
+            <xg>
+               <x>Om sommeren hadde vi det alltid travelt.</x>
+               <xt>Giesegi iktesth fuehpiem utnimh.</xt>
+            </xg>
+         </tg>
+      </mg>
+  </e>
+   <e>
+      <lg>
+         <l pos="N">forveksling</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>til forveksling</re>
+            <t pos="Phrase">vihth masten</t>
          </tg>
       </mg>
    </e>
@@ -16601,6 +16669,18 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
+	         <re>om våren</re>
+            <t pos="Adv">gïjrege</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>utover våren</re>
+            <t pos="Phrase">gïjre doekoe</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
 	         <re>bli vår</re>
             <t pos="V">gïjredidh</t>
          </tg>
@@ -17111,6 +17191,23 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
+         <l pos="N">behold</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">aajmene</t>
+            <t pos="Adv">aajmoen</t>
+            <t pos="Adv">aajmojne</t>
+            <t pos="Adv">aajmone</t>
+            <xg>
+               <x>Det er ikke mer i behold.</x>
+               <xt>Ij leah vielie aajmene.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="N">retning</l>
       </lg>
       <mg>
@@ -17121,6 +17218,37 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">otnjege</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>i den retningen</re>
+            <t pos="Adv">dogkoe</t>
+            <xg>
+               <x>Den dro i den retningen.</x>
+               <xt>Dogkoe vöölki.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>i to retninger</re>
+            <t pos="Po">guektelen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>i samme retning</re>
+            <t pos="Adv">ektelen</t>
+             <t pos="Adv">ektielisnie</t>
+           <xg>
+               <x>Hvis man skal komme noen vei i noe samme retning, må man jobbe på samme måte.</x>
+               <xt>Jis edtja ektelen gåabph båetedh dle hov daarah tjoevere sïemeslaakan barkedh.</xt>
+            </xg>
+            <xg>
+               <x>Folkene jobber i samme retning.</x>
+               <xt>Almetjh ektielisnie berkieh.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -25306,13 +25434,15 @@ For the full license text, see the link above.</lic>
             <t illpl="no" pg="no" pos="N">noerhte</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">person nordfra</l>
-      </lg>
       <mg>
          <tg xml:lang="sma">
+         <re>i nord</re>
+            <t pos="Adv">noerhtene</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+         <re>person nordfra</re>
             <t pos="N">noerhtegadtje</t>
          </tg>
       </mg>
@@ -31218,6 +31348,17 @@ For the full license text, see the link above.</lic>
             <t pos="N">syjhtede</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>med vilje</re>
+            <t pos="Adv">eanghkomhte</t>
+            <t pos="Adv">eanghkoen</t>
+            <xg>
+               <x>Han gjorde vel ikke det med vilje?</x>
+               <xt>Idtji sån eanghkomhte dam darjoeh?</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -32229,6 +32370,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">tjaktje</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>om høsten</re>
+            <t pos="Adv">tjaktjege</t>
          </tg>
       </mg>
    </e>

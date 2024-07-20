@@ -219,7 +219,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="Adv">tjarke</t>
-            <t pos="A">tjarki</t>
+            <t pos="Adv">tjarki</t>
             <xg>
                <x>Du må rope kraftig hvis de skal høre deg.</x>
                <xt>Datne tjoerh tjarke gæljodh jis dah edtjieh datnem govledh.</xt>
@@ -258,11 +258,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="Adv">miehtjelde</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Po">minngielistie</t>
          </tg>
       </mg>
    </e>
@@ -451,23 +446,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Adv">i behold</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Adv">aajmene</t>
-            <t pos="Adv">aajmoen</t>
-            <t pos="Adv">aajmojne</t>
-            <t pos="Adv">aajmone</t>
-            <xg>
-               <x>Det er ikke mer i behold.</x>
-               <xt>Ij leah vielie aajmene.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Adv">skikkelig</l>
       </lg>
       <mg>
@@ -645,7 +623,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Adv">for evig</l>
+         <l pos="Adv">evig</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -884,20 +862,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Adv">om dagene</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Adv">biejjegi</t>
-            <xg>
-               <x>Om dagene er Jåvva i barnehagen.</x>
-               <xt>Biejjegi Jåvva maanagïertesne.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Adv">oppe</l>
       </lg>
       <mg>
@@ -927,13 +891,8 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Adv">i øst</l>
+         <l pos="Adv">østpå</l>
       </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Adv">lulnie</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sma">
             <t pos="Adv">luvlene</t>
@@ -951,15 +910,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="Adv">loksese</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="Adv">låvlese</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="Adv">luvlelen</t>
          </tg>
       </mg>
@@ -971,10 +922,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="Adv">jillede</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="Adv">jillelde</t>
          </tg>
       </mg>
@@ -995,21 +942,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
         <tg xml:lang="sma">
-	  <re>fra ovenfor</re>
-            <t pos="Adv">bijjielistie</t>
-            <xg>
-               <x>Vi vet ikke hva som kan komme ovenfra.</x>
-               <xt>Ibie daejrieh mij maahta bijjielistie båetedh.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">fra ovenfor</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
+	  <re>fra ovenfra</re>
             <t pos="Adv">bijjielistie</t>
             <xg>
                <x>Vi vet ikke hva som kan komme ovenfra.</x>
@@ -1350,28 +1283,15 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <t pos="Adv">daamtaj</t>
             <t pos="Adv">daamhtah</t>
             <xg>
-               <x>Store fisker setter seg ofte fast med tennene.</x>
-               <xt>Stoerre guelieh daamhtah baenijste dabranieh.</xt>
+               <x>Det snør stadig.</x>
+               <xt>Tjuatsa daamtaj.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Adv">daamhtaj</t>
             <xg>
-               <x>Store fisker setter seg ofte fast med tennene.</x>
-               <xt>Stoerre guelieh daamhtaj baenijste dabranieh.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Adv">daamtaj</t>
-            <xg>
-               <x>Det snør i ett. Store fisker setter seg ofte fast med tennene.</x>
-               <xt>Tjuatsa daamtaj. Stoerre guelieh daamtaj baenijste dabranieh.</xt>
+               <x>Store fisker setter seg stadig fast med tennene.</x>
+               <xt>Stoerre guelieh daamtaj baenijste dabranieh.</xt>
             </xg>
          </tg>
       </mg>
@@ -1389,8 +1309,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="Adv">daamtaj</t>
             <xg>
-               <x>Det snør i ett. Store fisker setter seg ofte fast med tennene.</x>
-               <xt>Tjuatsa daamtaj. Stoerre guelieh daamtaj baenijste dabranieh.</xt>
+               <x>Det snør ofte.</x>
+               <xt>Tjuatsa daamtaj.</xt>
+            </xg>
+            <xg>
+               <x>Store fisker setter seg ofte fast med tennene.</x>
+               <xt>Stoerre guelieh daamtaj baenijste dabranieh.</xt>
             </xg>
          </tg>
       </mg>
@@ -1462,8 +1386,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="Adv">daelie</t>
             <xg>
-               <x>Hvem er det som kommer nå? Nå for tiden er det annerledes.</x>
-               <xt>Gie daelie båata? Daelie lea jeatjahlaakan.</xt>
+               <x>Hvem er det som kommer nå?</x>
+               <xt>Gie daelie båata?.</xt>
+            </xg>
+            <xg>
+               <x>Nå er det annerledes.</x>
+               <xt>Daelie lea jeatjahlaakan.</xt>
             </xg>
          </tg>
       </mg>
@@ -1490,19 +1418,9 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="Adv">daelie</t>
             <xg>
-               <x>Hvem er det som kommer nå? Nå for tiden er det annerledes.</x>
-               <xt>Gie daelie båata? Daelie lea jeatjahlaakan.</xt>
+               <x>Nå for tiden er det annerledes.</x>
+               <xt>Daelie lea jeatjahlaakan.</xt>
             </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">om vinteren</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Adv">daelvege</t>
          </tg>
       </mg>
    </e>
@@ -1513,20 +1431,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="Adv">daenbiejjien</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="Adv">daenbien</t>
+            <t pos="Adv">daanbien</t>
             <xg>
                <x>Idag er det fint vær.</x>
                <xt>Daenbien buaredh.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Adv">daanbien</t>
             <xg>
                <x>Kommer du i dag?</x>
                <xt>Daanbien båatah?</xt>
@@ -1564,16 +1474,6 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Har du flyttet dit?</x>
                <xt>Datne dahkoe juhteme?</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <re>om tid</re>
-            <t pos="Adv">doekoe</t>
-            <xg>
-               <x>utover ettermiddagen utover vinteren</x>
-               <xt>iehkedsbiejjie doekoe daelvie doekoe</xt>
             </xg>
          </tg>
       </mg>
@@ -1635,8 +1535,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="Adv">dallah</t>
             <xg>
-               <x>Nå med en gang! Det kom en fisk i båten med en gang.</x>
-               <xt>Daelie dallah! Dallah akte guelie vïnhtsese båata.</xt>
+               <x>Øyeblikkelig!</x>
+               <xt>Daelie dallah!</xt>
+            </xg>
+            <xg>
+               <x>Det kom en fisk i båten øyeblikkelig.</x>
+               <xt>Dallah akte guelie vïnhtsese båata.</xt>
             </xg>
          </tg>
       </mg>
@@ -1722,8 +1626,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="Adv">raakth</t>
             <xg>
-               <x>Det var på høstvinteren, straks før jul. De første snøflakene kom straks etter at vi hadde spent på oss skia.</x>
-               <xt>Daate tjaktjedaelvie, raakth jåvli åvtelen. Dah voestes lopmetjelmieh böötin raakth mænngan goh libie joksedamme.</xt>
+               <x>Det var på høstvinteren, straks før jul.</x>
+               <xt>Daate tjaktjedaelvie, raakth jåvli åvtelen.</xt>
+            </xg>
+            <xg>
+               <x>De første snøflakene kom straks etter at vi hadde spent på oss skia.</x>
+               <xt>Dah voestes lopmetjelmieh böötin raakth mænngan goh libie joksedamme.</xt>
             </xg>
          </tg>
       </mg>
@@ -1772,8 +1680,12 @@ For the full license text, see the link above.</lic>
             <re>om tid</re>
             <t pos="Adv">doekoe</t>
             <xg>
-               <x>utover ettermiddagen utover vinteren</x>
-               <xt>iehkedsbiejjie doekoe daelvie doekoe</xt>
+               <x>utover ettermiddagen</x>
+               <xt>iehkedsbiejjie doekoe</xt>
+            </xg>
+            <xg>
+               <x>utover vinteren</x>
+               <xt>daelvie doekoe</xt>
             </xg>
          </tg>
       </mg>
@@ -1790,10 +1702,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="Adv">davvese</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="Adv">dåvvese</t>
          </tg>
       </mg>
@@ -1805,10 +1713,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="Adv">davvese</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="Adv">dåvvese</t>
             <xg>
                <x>Om vinteren flytter vi ut mot kysten.</x>
@@ -1828,31 +1732,24 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Adv">dubpelde</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="Po">debpielistie</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">der borte fra</l>
-      </lg>
       <mg>
          <tg xml:lang="sma">
+	         <re>der borte fra</re>
             <t pos="Adv">debpede</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="Adv">dubpede</t>
             <xg>
                <x>Lyden kom der borte fra.</x>
                <xt>Dïhte tjoeje dubpede bööti.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>litt lenger bortifra</re>
+            <t pos="Adv">dubpelde</t>
          </tg>
       </mg>
    </e>
@@ -1868,6 +1765,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="Adv">dogkoe</t>
+            <t pos="Adv">dogka</t>
          </tg>
       </mg>
       <mg>
@@ -1880,23 +1778,15 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">dubpene</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Adv">dogka</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
-         <l pos="Adv">i gamle dager</l>
+         <l pos="Adv">gamle dager</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+	         <re>i gamle dager</re>
             <t pos="Adv">dejbeeli</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="Adv">dejpeli</t>
          </tg>
       </mg>
@@ -1909,8 +1799,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="Adv">dellie</t>
             <xg>
-               <x>Det var synd. Det var en fin vårdag da gjesten kom.</x>
-               <xt>Ov dellie gaatesjen. Tjaebpies gïjrebiejjien, dellie goh guessie bööti.</xt>
+               <x>Det var en fin vårdag da gjesten kom.</x>
+               <xt>Tjaebpies gïjrebiejjien, dellie goh guessie bööti.</xt>
             </xg>
          </tg>
       </mg>
@@ -1923,8 +1813,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="Adv">dle</t>
             <xg>
-               <x>Noaidien tok opp runebomma fra sekken, og så trommet han litt og joiket. Da de kom til stevneplassen, fikk de vite det.</x>
-               <xt>Nåejtie gievriem vuerpievoesseste jïh dle ånnetji meevri, joejkesti. Goh sjaltan böötin dle åadtjoejin daejredh.</xt>
+               <x>Noaidien tok opp runebomma fra sekken, og da trommet han litt og joiket.</x>
+               <xt>Nåejtie gievriem vuerpievoesseste jïh dle ånnetji meevri, joejkesti.</xt>
+            </xg>
+            <xg>
+               <x>Da de kom til stevneplassen, da fikk de vite det.</x>
+               <xt>Goh sjaltan böötin dle åadtjoejin daejredh.</xt>
             </xg>
          </tg>
       </mg>
@@ -1956,15 +1850,6 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Pcle">hov</t>
-            <xg>
-               <x>Det var bra! Det er ruskevær med sludd, men så er det jo høst. Nei, Sagka er jo den yngste av oss.</x>
-               <xt>Hijven hov! Sliehtieelmie, mohte tjaktje hov lea. Ijje, Sagka hov dïhte nööremes mijjeste.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="Pcle">jam</t>
             <xg>
                <x>Og hvem skal da passe kyrne?</x>
@@ -1985,8 +1870,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="Pcle">badth</t>
             <xg>
-               <x>Slik tenker de, ja. I smug da vel. A nei, da!</x>
-               <xt>Nimhtie badth dah ussjedieh. Suelien badth. Aellieh badth!</xt>
+               <x>I smug da vel.</x>
+               <xt>Suelien badth.</xt>
+            </xg>
+            <xg>
+               <x>Å nei, da!</x>
+               <xt>Aellieh badth!</xt>
             </xg>
          </tg>
       </mg>
@@ -2019,8 +1908,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="Adv">dle</t>
             <xg>
-               <x>Noaidien tok opp runebomma fra sekken, og så trommet han litt og joiket. Da de kom til stevneplassen, fikk de vite det.</x>
-               <xt>Nåejtie gievriem vuerpievoesseste jïh dle ånnetji meevri, joejkesti. Goh sjaltan böötin dle åadtjoejin daejredh.</xt>
+               <x>Noaidien tok opp runebomma fra sekken, og så trommet han litt og joiket.</x>
+               <xt>Nåejtie gievriem vuerpievoesseste jïh dle ånnetji meevri, joejkesti.</xt>
+            </xg>
+            <xg>
+               <x>Da de kom til stevneplassen, så fikk de vite det.</x>
+               <xt>Goh sjaltan böötin dle åadtjoejin daejredh.</xt>
             </xg>
          </tg>
       </mg>
@@ -2037,8 +1930,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="Pcle">darhke</t>
             <xg>
-               <x>Hvem leser egentlig du for? Hvordan gjør du så det? Hvordan gjør så dere det? / Hva gjør så dere? Hvordan så ... ?</x>
-               <xt>Gïese darhke datne jis lohkh? Guktie darhke darjoeh? Guktie darhke dijjieh darjoejidie? Guktie darhke ... ?</xt>
+               <x>Hvordan gjør du så det?</x>
+               <xt>Guktie darhke darjoeh?</xt>
+            </xg>
+            <xg>
+               <x>Hvordan gjør så dere det? / Hva gjør så dere?</x>
+               <xt>Guktie darhke dijjieh darjoejidie?</xt>
             </xg>
          </tg>
       </mg>
@@ -2068,35 +1965,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="Adv">doejkoe</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">bortover</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <re>om tid</re>
-            <t pos="Adv">doekoe</t>
-            <xg>
-               <x>utover ettermiddagen utover vinteren</x>
-               <xt>iehkedsbiejjie doekoe daelvie doekoe</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">i den retningen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Adv">dogkoe</t>
-            <xg>
-               <x>Den dro i den retningen.</x>
-               <xt>Dogkoe vöölki.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -2208,30 +2076,20 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Adv">litt lenger bortifra</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Adv">dubpelde</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Adv">se der</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <t pos="Adv">duelie</t>
-            <xg>
-               <x>Vær så god og ta denne. Der ser du min mors øyne. Se, der kommer gjester.</x>
-               <xt>Duelie daam. Duelie mov tjidtjien tjelmieh. Duelie guessieh båetieh.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="Adv">duvlie</t>
+            <xg>
+               <x>Der ser du min mors øyne</x>
+               <xt>Duelie mov tjidtjien tjelmieh.</xt>
+            </xg>
+            <xg>
+               <x>Se, der kommer gjester.</x>
+               <xt>Duelie guessieh båetieh.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2242,6 +2100,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="Adv">duvlie</t>
+            <xg>
+               <x>Der har du denne.</x>
+               <xt>Duvlie daam.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2258,16 +2120,6 @@ For the full license text, see the link above.</lic>
    <e>
       <lg>
          <l pos="Adv">bortenfor</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Adv">dubpielisnie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">lenger bort</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -2350,49 +2202,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Adv">på en ivrig måte</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Adv">eadtjohkelaakan</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">på en modig måte</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Adv">eadtjohkelaakan</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">med vilje, forsettelig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Adv">eanghkoen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Adv">eanghkomhte</t>
-            <xg>
-               <x>Han gjorde vel ikke det med vilje?</x>
-               <xt>Idtji sån eanghkomhte dam darjoeh?</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Adv">forsettlig</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <t pos="Adv">eanghkomhte</t>
             <t pos="Adv">eanghkoen</t>
          </tg>
       </mg>
@@ -2520,52 +2334,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Adv">i samme retning</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Adv">ektelen</t>
-            <xg>
-               <x>Hvis man skal komme noen vei i noe samme retning, må man jobbe på samme måte.</x>
-               <xt>Jis edtja ektelen gåabph båetedh dle hov daarah tjoevere sïemeslaakan barkedh.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Adv">ektielisnie</t>
-            <xg>
-               <x>Folkene jobber i samme retning.</x>
-               <xt>Almetjh ektielisnie berkieh.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">i en retning</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Adv">ektelen</t>
-            <xg>
-               <x>Hvis man skal komme noen vei i noe samme retning, må man jobbe på samme måte.</x>
-               <xt>Jis edtja ektelen gåabph båetedh dle hov daarah tjoevere sïemeslaakan barkedh.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Adv">ektielisnie</t>
-            <xg>
-               <x>Folkene jobber i samme retning.</x>
-               <xt>Almetjh ektielisnie berkieh.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Adv">lenger nå</l>
       </lg>
       <mg>
@@ -2635,25 +2403,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Adv">nesten for</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Adv">faagka</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Adv">betydelig</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <t pos="Adv">faagka</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="Adv">faagkan</t>
          </tg>
       </mg>
@@ -2734,20 +2488,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Adv">etter vegen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Adv">geajnoeraejkien</t>
-            <xg>
-               <x>De kommer gående etter vegen.</x>
-               <xt>Geajnoeraejkien båetieh vaedtsien.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Adv">på skikkelig vis</l>
       </lg>
       <mg>
@@ -2801,16 +2541,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Adv">om sommeren</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Adv">giesege</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Adv">hvilken veg</l>
       </lg>
       <mg>
@@ -2820,17 +2550,6 @@ For the full license text, see the link above.</lic>
                <x>Jeg kommer her hvor du har gått.</x>
                <xt>Båatam dagkoe gogkoe datne vaadtseme.</xt>
             </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">hvor nærmere bestemt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Adv">gogkoe</t>
-            <t pos="Adv">gogka</t>
          </tg>
       </mg>
    </e>
@@ -2875,8 +2594,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="Adv">mennie mieresne</t>
             <xg>
-               <x>Når tid går bussen? Aldri.</x>
-               <xt>Mennie mieresne busse jåhta? Ij gåessie gænnah.</xt>
+               <x>Når tid går bussen?</x>
+               <xt>Mennie mieresne busse jåhta?</xt>
             </xg>
          </tg>
       </mg>
@@ -2889,7 +2608,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="Adv">gosse</t>
             <xg>
-               <x>Hvor har du lagt det?</x>
+               <x>Hvor hen har du lagt det?</x>
                <xt>Gosse dam bïejeme?</xt>
             </xg>
          </tg>
@@ -2903,7 +2622,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="Adv">gubpede</t>
             <xg>
-               <x>Hvor kommer du fra?</x>
+               <x>Hvorfra kommer du?</x>
                <xt>Gubpede båatah?</xt>
             </xg>
          </tg>
@@ -2935,7 +2654,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="Adv">gubpede</t>
             <xg>
-               <x>Hvor kommer du fra?</x>
+               <x>Fra hvilken kant kommer du?</x>
                <xt>Gubpede båatah?</xt>
             </xg>
          </tg>
@@ -2980,7 +2699,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="Adv">gåebpelen</t>
             <xg>
-               <x>Jeg vet ikke ennå hvorhen de har flyttet reinsflokken.</x>
+               <x>Jeg vet ikke ennå hvor de har flyttet reinsflokken.</x>
                <xt>Im annje daejrieh gåebpelen dah leah krievviem juhteme.</xt>
             </xg>
          </tg>
@@ -2996,6 +2715,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
+	         <re>hvor, nærmere bestemt</re>
             <t pos="Adv">gogkoe</t>
             <xg>
                <x>Jeg kommer her hvor du har gått.</x>
@@ -3094,21 +2814,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Adv">i hvilken retning</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <re>om to</re>
-            <t pos="Adv">gåabpelen</t>
-            <xg>
-               <x>I hvilken av de to retningene dro hun?</x>
-               <xt>Gåabpelen vöölki?</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Adv">feilaktig</l>
       </lg>
       <mg>
@@ -3198,23 +2903,13 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Adv">om våren</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Adv">gïjrege</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Adv">parvis</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <t pos="Phrase">gööktesi gööktesi</t>
             <xg>
-               <x>De gikk parvis framover.</x>
+               <x>De gikk framover parvis.</x>
                <xt>Gööktesi gööktesi åvtese veedtsin.</xt>
             </xg>
          </tg>
@@ -3569,6 +3264,12 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sma">
+         <re>i vestlig retning</re>
+            <t pos="Adv">jillege</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -3612,26 +3313,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="Adv">vuelege</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">i vestlig retning</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Adv">jillege</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">i vest</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Adv">jillene</t>
          </tg>
       </mg>
    </e>
@@ -3767,6 +3448,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
+	         <re>som alternativ</re>
             <t pos="Pcle">vuj</t>
             <xg>
                <x>Kanskje du blir igjen hjemme?</x>
@@ -3865,7 +3547,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="Adv">medtie</t>
             <xg>
-               <x>Det er omtrent 7 mil dit.</x>
+               <x>Det er omtrent sju mil dit.</x>
                <xt>Dahkoe leah medtie tjïjhtje mïjlh.</xt>
             </xg>
          </tg>
@@ -3889,7 +3571,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="Adv">medtie</t>
             <xg>
-               <x>Det er cirka 7 mil dit.</x>
+               <x>Det er cirka sju mil dit.</x>
                <xt>Dahkoe leah medtie tjïjhtje mïjlh.</xt>
             </xg>
          </tg>
@@ -4241,21 +3923,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Adv">nord om</l>
+         <l pos="Adv">nord for</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <t pos="Adv">noerhtelen</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">i nord</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Adv">noerhtene</t>
          </tg>
       </mg>
    </e>
@@ -5145,20 +4817,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Adv">i sør</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Adv">åarjene</t>
-            <xg>
-               <x>Samene har lenge bodd her i sør.</x>
-               <xt>Saemieh guhkiem daebpene åarjene orreme.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Adv">sørpå</l>
       </lg>
       <mg>
@@ -5382,16 +5040,6 @@ For the full license text, see the link above.</lic>
             <t pos="Adv">sisnjelen</t>
             <t pos="Adv">sisnjielisnie</t>
             <t pos="Adv">sjisjnjielisnie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">om høsten</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Adv">tjaktjege</t>
          </tg>
       </mg>
    </e>
@@ -5720,30 +5368,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
 	         <re>ha det hyggelig</re>
             <t diph="yes" p3p="murrede" pos="V">murriedidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">om somrene</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Adv">giesegi</t>
-            <xg>
-               <x>Om somrene hadde vi det alltid travelt.</x>
-               <xt>Giesegi iktesth fuehpiem utnimh.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">i sørlig retning</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Adv">åarjege</t>
          </tg>
       </mg>
    </e>
@@ -6519,16 +6143,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">utover våren</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Phrase">gïjre doekoe</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Phrase">i to deler</l>
       </lg>
       <mg>
@@ -6646,16 +6260,6 @@ For the full license text, see the link above.</lic>
                <x>ja selvfølgelig</x>
                <xt>jaa hævvi</xt>
             </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">til forveksling</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Phrase">vihth masten</t>
          </tg>
       </mg>
    </e>
@@ -6949,21 +6553,12 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">der bortenfra</l>
+         <l pos="Adv">bortenfra</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+	         <re>der bortenfra</re>
             <t pos="Po">duebpielistie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">i to retninger</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Po">guektelen</t>
          </tg>
       </mg>
    </e>
