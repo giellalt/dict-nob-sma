@@ -48,6 +48,17 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
+	        <re>handelsvarer</re> 
+            <t pos="V">vaaroeh</t>
+            <t pos="V">vaarah</t>
+            <xg>
+               <x>Pappa pakket varene fort i sekken og dro hjem</x>
+               <xt>Aehtjie varki vaaroeh voessen sïjse tsagki jïh gåetide vöölki</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
 	       <re>ta vare på</re>  
             <t p3p="geehteste" pos="V">geehtestidh</t>
             <xg>
@@ -71233,6 +71244,66 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <re xml:lang="lat">Filipendula ulmaria</re>
             <t pos="N">jovnesåhkoekraesie</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="BergslandMagga">
+      <lg>
+         <l pos="N">inhabil</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">bealasadtje</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="BergslandMagga">
+      <lg>
+         <l pos="N">hersketeknikk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">diblemevuekie</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="BergslandMagga">
+      <lg>
+         <l pos="N">masteravhandling</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">maasteretjaaleldahke</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="BergslandMagga">
+      <lg>
+         <l pos="N">bacheloreavhandling</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">bacheloretjaaleldahke</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="BergslandMagga">
+      <lg>
+         <l pos="N">doktoravhandling</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">dåakteretjaaleldahke</t>
+         </tg>
+      </mg>
+   </e> 
+      <e src="BergslandMagga">
+      <lg>
+         <l pos="N">verdensrom</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">almadahke</t>
          </tg>
       </mg>
    </e>
