@@ -13986,6 +13986,18 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
+         <l pos="N">sopp på tre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re xml:lang="lat">kjuke</re>
+            <t pos="N">tjaana</t>
+            <t pos="N">daevnie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="N">mugg</l>
       </lg>
       <mg>
@@ -71195,7 +71207,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">Cladonia</re>
-            <t pos="N">dovhke-burhvie</t>
+            <t pos="N">dovhkeburhvie</t>
          </tg>
       </mg>
    </e>
