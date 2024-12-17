@@ -86,6 +86,12 @@ For the full license text, see the link above.</lic>
             <t pos="Interj">buerie iehkede</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>som svar på hilsning</re>
+            <t pos="Interj">buerie buerie</t>
+         </tg>
+      </mg>
   </e>
    <e>
       <lg>
@@ -144,9 +150,40 @@ For the full license text, see the link above.</lic>
                <x>Takk for kaffen!</x>
                <xt>Gudtsien prïhtjegen åvteste!</xt>
             </xg>
+            <xg>
+               <x>Takk for maten!</x>
+               <xt>Gudtsien beapmoej åvteste!</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>for noe ikke spiselig eller drikkelig</re>
+            <t pos="Interj">gæjhtoe</t>
+            <t pos="Interj">gæjhta</t>
+            <xg>
+               <x>Takk for idag!</x>
+               <xt>Gæjhtoe dan biejjien åvteste!</xt>
+               <xt>Gæjhta dan biejjien åvteste!</xt>
+            </xg>
          </tg>
       </mg>
    </e>
+    <e>
+      <lg>
+         <l pos="Interj">Vel bekomme</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>svar på takksigelse for mat og drikke</re>
+            <t pos="Interj">gudtsien</t>
+            <xg>
+               <x>Vel bekomme!</x>
+               <xt>Gussene gussene!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>   
    <e>
       <lg>
          <l pos="Interj">å jøje meg</l>
