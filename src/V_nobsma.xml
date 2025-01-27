@@ -52466,8 +52466,20 @@ boelehtje!</xt>
          </tg>
       </mg>
    </e>
-
-
+      <e src="gg">
+      <lg>
+         <l pos="V">bety</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="V">daejriehtidh</t>
+            <xg>
+               <x>Den samiske kona funderte på hva det skulle bety?</x>
+               <xt>Dïhte saemien gåmma onterdi, maam edtja dïhte daejriehtidh?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e> 
    <e>
       <lg>
          <l pos="V">ha</l>
