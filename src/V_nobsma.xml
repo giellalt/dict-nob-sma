@@ -776,8 +776,14 @@ For the full license text, see the link above.</lic>
          <l pos="V">be</l>
       </lg>
       <mg>
-         <tg xml:lang="sma">
+        <tg xml:lang="sma">
             <t diph="yes" pos="V">aanoestidh</t>
+         </tg>
+      </mg>
+      <mg>
+        <tg xml:lang="sma">
+	  <re>å be om</re>
+            <t diph="yes" pos="V">aanoehtidh</t>
          </tg>
       </mg>
       <mg>
