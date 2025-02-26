@@ -6462,7 +6462,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">mjølkekjørle</l>
+         <l pos="N">melkekar</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -7754,16 +7754,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">daabloe</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">spilleord</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">daabloebaakoe</t>
          </tg>
       </mg>
    </e>
@@ -11099,6 +11089,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
+         <l pos="N">ly</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">faasoe</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="N">kvanne</l>
       </lg>
       <mg>
@@ -13023,7 +13023,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">hårdbrød</l>
+         <l pos="N">hardbrød</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -23978,6 +23978,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
+	         <re>pelskofte</re>
             <t pos="N">muadta</t>
          </tg>
       </mg>
@@ -25387,7 +25388,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">godkvae</l>
+         <l pos="N">tyggekvae</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -71256,7 +71257,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="BergslandMagga">
       <lg>
-         <l pos="N">bacheloreavhandling</l>
+         <l pos="N">bacheloravhandling</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
