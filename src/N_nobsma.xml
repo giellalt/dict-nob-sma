@@ -684,7 +684,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">etteretning</l>
+         <l pos="N">etterretning</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -810,7 +810,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">datareperasjon</l>
+         <l pos="N">datareparasjon</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -10960,7 +10960,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">bærerem</l>
+         <l pos="N">bærereim</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -21171,7 +21171,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">firemenning</l>
+         <l pos="N">firmenning</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -21207,7 +21207,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">firemenninger</l>
+         <l pos="N">firmenninger</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -21699,7 +21699,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">koppskap</l>
+         <l pos="N">koppeskap</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -26648,7 +26648,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">renklær</l>
+         <l pos="Phrase">reine klær</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -30849,7 +30849,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">storkjel</l>
+         <l pos="N">storkjele</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -66246,16 +66246,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="gg">
       <lg>
-         <l pos="N">løsrive</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">loevenehtedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="gg">
-      <lg>
          <l pos="N">løvskog</l>
       </lg>
       <mg>
@@ -67042,7 +67032,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="gg">
       <lg>
-         <l pos="N">smeltvann</l>
+         <l pos="N">smeltevann</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -67704,7 +67694,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">leverpostie</l>
+         <l pos="N">leverpostei</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -67951,16 +67941,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-      <e src="gg">
-      <lg>
-         <l pos="N">vuastasnaejrie</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">vuastasnaejrie</t>
-         </tg>
-      </mg>
-   </e>
    <e src="gg">
       <lg>
          <l pos="N">kjöttrulle</l>
@@ -68003,17 +67983,6 @@ For the full license text, see the link above.</lic>
             <t pos="N">tsietsehthmuerjie</t>
             <t pos="N">gihperemuerjie</t>
             <t pos="N">dållemuerjie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">leverpostei</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">libriepoeste</t>
-            <t pos="N">mueksietjavkese</t>
          </tg>
       </mg>
    </e>
