@@ -28842,6 +28842,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+      <e>
+      <lg>
+         <l pos="N">T-skjorte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">sissehts-sjåarhtoe</t>
+         </tg>
+      </mg>
+   </e>
    <e>
       <lg>
          <l pos="Phrase">rent sted bak gammen</l>
@@ -41277,6 +41287,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">politihkere</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="N">elektrikter</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">elektrihkere</t>
          </tg>
       </mg>
    </e>
