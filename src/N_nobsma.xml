@@ -14603,6 +14603,46 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+      <e>
+      <lg>
+         <l pos="N">forkle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">åvteskuvmie</t>
+         </tg>
+      </mg>
+   </e>
+      <e>
+      <lg>
+         <l pos="N">presenning</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">skuvmie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">dekke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">skuvmie</t>
+         </tg>
+      </mg>
+   </e>
+      <e>
+      <lg>
+         <l pos="N">skinn til dekke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">skuvmiedueljie</t>
+         </tg>
+      </mg>
+   </e>
    <e>
       <lg>
          <l pos="N">strømpebukser</l>
