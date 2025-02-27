@@ -16976,6 +16976,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+     <e>
+      <lg>
+         <l pos="N">penal</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">peannagåetie</t>
+         </tg>
+      </mg>
+   </e>
    <e>
       <lg>
          <l pos="N">teltplass</l>
@@ -33338,12 +33348,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">tjåagkoe</t>
+            <t pos="N">tjåagka</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">tjåagka</t>
+            <t pos="N">tjueptsie</t>
          </tg>
       </mg>
    </e>
@@ -33359,6 +33369,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">tjåagka</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">tjueptsie</t>
          </tg>
       </mg>
    </e>
