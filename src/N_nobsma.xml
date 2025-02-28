@@ -1019,7 +1019,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="N">avstamming</l>
+         <l pos="N">avstamning</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -1029,6 +1029,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">såelie</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">åerie</t>
          </tg>
       </mg>
    </e>
@@ -8021,26 +8026,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">svïenske</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">norsktalende</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">daaroeladtje</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">svensktalende</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">daaroeladtje</t>
          </tg>
       </mg>
    </e>
@@ -36612,16 +36597,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">sørsida</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">åarjelraedtie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Phrase">sørsamisk språk</l>
       </lg>
       <mg>
@@ -36727,6 +36702,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">åarjetjebielie</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">åarjelraedtie</t>
          </tg>
       </mg>
    </e>
@@ -36969,16 +36949,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">åeremevoesse</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">avstamning</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">åerie</t>
          </tg>
       </mg>
    </e>
@@ -37655,7 +37625,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">baktroppen</l>
+         <l pos="N">baktropp</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -68029,7 +67999,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="gg">
       <lg>
-         <l pos="N">kjöttrulle</l>
+         <l pos="N">kjøttrulle</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
