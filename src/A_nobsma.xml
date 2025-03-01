@@ -8501,6 +8501,51 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
   </e>
+    <e>
+      <lg>
+         <l pos="A">erfaringsmessig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Phrase">dååjrehtsi mietie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">naturlig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">iemie</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="A">ansvarlig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">tjåadtjoehtæjja</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">dïedteguedtije</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">tillitsvalgt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">tjirkije</t>
+         </tg>
+      </mg>
+   </e>
   <e>
     <lg>
       <l pos="A" src="fad">svensktalende</l>
@@ -9073,6 +9118,16 @@ For the full license text, see the link above.</lic>
       </tg>
     </mg>
   </e>
+      <e src="BergslandMagga">
+      <lg>
+         <l pos="A">inhabil</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">bealasadtje</t>
+         </tg>
+      </mg>
+   </e>
   <e>
     <lg>
       <l pos="A" src="fad">permanent</l>
