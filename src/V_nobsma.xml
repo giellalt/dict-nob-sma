@@ -6035,12 +6035,12 @@ boelehtje!</xt>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t class="II" pos="V" umlaut="full" vow="x">daajhtodh</t>
+            <t class="II" p3p="dorje" pos="V" umlaut="full" vow="x">darjodh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t class="II" p3p="dorje" pos="V" umlaut="full" vow="x">darjodh</t>
+            <t class="II" pos="V" umlaut="full" vow="x">daajhtodh</t>
          </tg>
       </mg>
       <mg>
@@ -6101,7 +6101,16 @@ boelehtje!</xt>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t class="IV" pos="V" vow="aa">daajkedh</t>
+            <t pos="V">gaarvanidh</t>
+            <xg>
+               <x>Far forsvant og var borte en liten stund.</x>
+               <xt>Aehtjie gaarvani jïh gaatoeji ståantetjem.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t diph="yes" pos="V">gaatoelidh</t>
          </tg>
       </mg>
       <mg>
@@ -6116,17 +6125,8 @@ boelehtje!</xt>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="V">gaarvanidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="II" p3p="gååte" pos="V" umlaut="full" vow="x">gaatodh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="V">haajpanidh</t>
+            <t class="IV" pos="V" vow="aa">daajkedh</t>
          </tg>
       </mg>
       <mg>

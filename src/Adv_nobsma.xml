@@ -68,6 +68,24 @@ For the full license text, see the link above.</lic>
              <re>bli borte</re>
            <t pos="V">gaarvanidh</t>
             <t diph="yes" pos="V">gaatoelidh</t>
+            <xg>
+               <x>Far forsvant og var borte en liten stund.</x>
+               <xt>Aehtjie gaarvani jïh gaatoeji ståantetjem.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+             <re>være borte</re>
+           <t pos="V">gaatodh</t>
+            <xg>
+               <x>Hun skulle være borte i to dager.</x>
+               <xt>Edtji göökte biejjieh gaatodh.</xt>
+            </xg>
+            <xg>
+               <x>Dan mænngan baltastæjja gaatoeji.</x>
+               <xt>Etter det var spøkelset borte.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
