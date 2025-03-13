@@ -234,12 +234,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Num">luhkienieljie</t>
+            <t pos="Num">luhkienjieljie</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Num">luhkienjieljie</t>
+            <t pos="Num">luhkienieljie</t>
          </tg>
       </mg>
       <mg>
@@ -300,6 +300,306 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="Num">luhkieuktsie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">tjue</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Num">göökteluhkie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">tyve</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Num">göökteluhkie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">tjueen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Num">göökteluhkieakte</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">tjueto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Num">göökteluhkiegöökte</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">tjuetre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Num">göökteluhkiegolme</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">tjuefire</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Num">göökteluhkienjieljie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">tjuefem</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Num">göökteluhkievïjhte</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">tjueseks</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Num">göökteluhkiegovhte</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">tjuesju</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Num">göökteluhkietjïjhtje</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">tjueåtte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Num">göökteluhkiegaektsie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">tjueni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Num">göökteluhkieuktsie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">tretti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Num">golmeluhkie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">tredve</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Num">golmeluhkie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">trettien</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Num">golmeluhkieakte</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">trettito</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Num">golmeluhkiegöökte</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">trettitre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Num">golmeluhkiegolme</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">trettifire</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Num">golmeluhkienjieljie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">trettifem</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Num">golmeluhkievïjhte</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">trettiseks</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Num">golmeluhkiegovhte</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">trettisju</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Num">golmeluhkietjïjhtje</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">trettisyv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Num">golmeluhkietjïjhtje</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">trettiåtte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Num">golmeluhkiegaektsie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">trettini</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Num">golmeluhkieuktsie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">førti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Num">njieljieluhkie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">femti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Num">vïjhteluhkie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">seksti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Num">govhteluhkie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">søtti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Num">tjïjhtjeluhkie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">sytti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Num">tjïjhtjeluhkie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">åtti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Num">gaektsieluhkie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">nitti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Num">uktsieluhkie</t>
          </tg>
       </mg>
    </e>
