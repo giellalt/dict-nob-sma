@@ -2011,6 +2011,41 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
+         <l pos="Adv">fram</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">åvtese</t>
+            <xg>
+               <x>De gikk framover.</x>
+               <xt>Åvtese veedtsin.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>fram i dagen</re>
+            <t pos="Adv">byjjebasse</t>
+            <t pos="Adv">byjjobse</t>
+            <xg>
+               <x>Det kom fram i lyset.</x>
+               <xt>Byjjebasse bööti.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>fram og tilbake</re>
+            <t pos="Adv">dohk-diekie</t>
+            <xg>
+               <x>Øynene beveger seg fram og tilbake.</x>
+               <xt>Tjelmieh dohkh-diekie juhtieh.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="Adv">hit og dit</l>
       </lg>
       <mg>
