@@ -15309,16 +15309,28 @@ boelehtje!</xt>
       <mg>
          <tg xml:lang="sma">
             <t class="II" p3p="gååske" pos="V" umlaut="full" vow="x">gåaskodh</t>
+            <xg>
+               <x>Vekk barna så de rekker bussen til skolen!</x>
+               <xt>Gåaskoeh dle maanide, guktie bussem hinnieh skuvlese!</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
             <t class="I" pos="V" umlaut="full" vow="x">gåhtsajehtedh</t>
+            <xg>
+               <x>Lars Levi Læstadius vekket samene religiøst</x>
+               <xt>Lars Levi Læstadius saemide gåhtsajehti.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
             <t class="VI" pos="V" umlaut="F">hööhkedh</t>
+             <xg>
+               <x>Du må ikke (uforvarende) vekke barnet!</x>
+               <xt>Aellieh maa maanam hööhkh!</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
