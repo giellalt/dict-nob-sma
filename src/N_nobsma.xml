@@ -71011,4 +71011,26 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   </e> 
+      <e src="BergslandMagga">
+      <lg>
+         <l pos="N">spennebånd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">gaarhkesbaante</t>
+         </tg>
+      </mg>
+   </e>
+   </e> 
+      <e src="BergslandMagga">
+      <lg>
+         <l pos="N">jekkebånd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">gaarhkesbaante</t>
+         </tg>
+      </mg>
+   </e>
 </r>
