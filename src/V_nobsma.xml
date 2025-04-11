@@ -1377,7 +1377,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t diph="yes" p3p="aervede" pos="V">aerviedidh</t>
             <xg>
-               <x>Det ante meg.</x>
+               <x>Det var det jeg antok.</x>
                <xt>Aerviedim hov.</xt>
             </xg>
          </tg>
@@ -1393,12 +1393,8 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t class="III" pos="V">veanhtedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t class="IV" p3p="veanhta" pos="V" umlaut="full" vow="x">vïenhtedh</t>
+            <t class="III" pos="V">veanhtedh</t>
             <xg>
                <x>Hva antar du?</x>
                <xt>Maam vïenhth?</xt>
@@ -1406,20 +1402,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l pos="V">anta</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t diph="yes" p3p="aervede" pos="V">aerviedidh</t>
-            <xg>
-               <x>Det ante meg.</x>
-               <xt>Aerviedim hov.</xt>
-            </xg>
-         </tg>
-      </mg>
-    </e>
    <e>
       <lg>
          <l pos="V">forstå</l>
