@@ -71001,7 +71001,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e> 
-      <e src="BergslandMagga">
+   <e src="BergslandMagga">
       <lg>
          <l pos="N">verdensrom</l>
       </lg>
@@ -71011,8 +71011,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   </e> 
-      <e src="BergslandMagga">
+   <e src="BergslandMagga">
       <lg>
          <l pos="N">spennebånd</l>
       </lg>
@@ -71022,8 +71021,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   </e> 
-      <e src="BergslandMagga">
+   <e src="BergslandMagga">
       <lg>
          <l pos="N">jekkebånd</l>
       </lg>
