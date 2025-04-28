@@ -891,7 +891,17 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">bildesetning</l>
+         <l pos="N">bildetekst</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">guvvieraajese</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">billedtekst</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -4566,36 +4576,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">fjellbrem</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">barsje</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">darte</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">strekning langs kanten av fjellet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">barsje</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">darte</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">saks</l>
       </lg>
       <mg>
@@ -4966,7 +4946,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">pengemidler</l>
+         <l pos="N">pengebeholdning</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -9667,7 +9647,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">krigsleder</l>
+         <l pos="N">hærfører</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -11094,7 +11074,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">kvannestilk</l>
+         <l pos="N">kvannstilk</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -16436,16 +16416,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">språkforråd</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">gïelelåhkoe</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">språkopphav</l>
       </lg>
       <mg>
@@ -16551,7 +16521,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">toppende</l>
+         <l pos="N">luetopp</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -40307,16 +40277,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">lederprest</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">åejviehearra</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">øvrighetsperson</l>
       </lg>
       <mg>
@@ -41672,21 +41632,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">kirkedepartementet</l>
+         <l pos="N">kirkedepartement</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">gærhkoedepartemente</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">øvrighetspersoner</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">åejvieladtjh</t>
          </tg>
       </mg>
    </e>
