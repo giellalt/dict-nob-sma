@@ -59,7 +59,7 @@ For the full license text, see the link above.</lic>
             <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#P%C3%A5pekende+pronomen">les i grammatikken</t>            
             <xg>
                <x>Den er kommet.</x>
-               <xt>Dïhte lea båateme.</xt>
+               <xt>Dïhte båateme.</xt>
             </xg>
             <xg>
                <x>Jeg ser den.</x>
@@ -74,7 +74,7 @@ For the full license text, see the link above.</lic>
             <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#P%C3%A5pekende+pronomen+sammen+med+substantiv">les i grammatikken</t>            
             <xg>
                <x>Er den lua di?</x>
-               <xt>Dïhte tjohpe lea dov?</xt>
+               <xt>Dïhte tjohpe dov?</xt>
             </xg>
             <xg>
                <x>Har du strikket den lua sjøl?</x>
@@ -838,12 +838,24 @@ For the full license text, see the link above.</lic>
                <xt>ij gaajhken aejkien</xt>
             </xg>
             <xg>
+               <x>Laara tok alt i fra meg.</x>
+               <xt>Laara gaajhkem manneste veelti.</xt>
+            </xg>
+            <xg>
                <x>Eller har kanskje den stygge musa spist alle musene?</x>
                <xt>Vuj dïhte vesties snjeara ojhte gaajhkide snjearide bårrelamme?</xt>
             </xg>
             <xg>
                <x>Marka var veldig oppgravd, byggeredskaper på alle kanter.</x>
                <xt>Deavesne joekoen röödtseldihkie, bigkemedïrregh gaajhkene lehkesne.</xt>
+            </xg>
+            <xg>
+               <x>gaajhkede lehkeste båssa.</x>
+               <xt>det blåser fra alle kanter</xt>
+            </xg>
+            <xg>
+               <x>det fór til alle kanter. </x>
+               <xt>gaajhken lahkan hïspi.</xt>
             </xg>
          </tg>
       </mg>
