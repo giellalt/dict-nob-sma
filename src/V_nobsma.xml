@@ -3146,24 +3146,41 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="V">dasselidh</t>
             <xg>
-               <x>miste (plutselig og fort) reinene til toget</x>
+               <x>miste (plutselig, fort og for godt) reinene til toget</x>
                <xt>bovtside ruevtieraajrose dasselamme</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+	         <re>transitiv: miste, litt nå og da, plutselig miste (flere ting el. flere steder)</re>
+            <t class="I" pos="V" umlaut="A">dassedistedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>transitiv: miste</re>
+            <t diph="yes" p3p="gaervehte" pos="V">gaerviehtidh</t>
+            <xg>
+               <x>Jeg har mista veska.</x>
+               <xt>Manne leam veaskoem gaerviehtamme.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>transitiv: miste, plutselig og fort</re>
             <t class="I" p3p="gaerviehtasta" pos="V" umlaut="full" vow="x">gaerviehtestedh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t diph="yes" p3p="gaervehte" pos="V">gaerviehtidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="I" pos="V" umlaut="A">dassedistedh</t>
+	         <re>intransitiv: miste</re>
+            <t class="I" p3p="gaerviehtasta" pos="V" umlaut="full" vow="x">gaarvanidh</t>
+            <xg>
+               <x>veska er mista.</x>
+               <xt>veaskoe gaarvanamme.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -11014,6 +11031,10 @@ boelehtje!</xt>
       <mg>
          <tg xml:lang="sma">
             <t class="III" pos="V">garkedh</t>
+            <xg>
+               <x>Det drypper jo herfra.</x>
+               <xt>Daestie hov garka.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -11031,7 +11052,7 @@ boelehtje!</xt>
 	         <re>transitiv: la dryppe (svært)</re>
             <t pos="V">gårkastehtedh</t>
             <xg>
-               <x>la det renne av/dryppe av ljoredekke.</x>
+               <x>få det til å renne av/dryppe av ljoredekke.</x>
                <xt>rïehpene-bïerjesem gårkastehtedh.</xt>
             </xg>
          </tg>
