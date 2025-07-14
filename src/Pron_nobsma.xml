@@ -938,10 +938,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Pron">mange mennesker</l>
+         <l pos="Pron">mange</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+	        <re>om personer</re>
             <t pos="Pron" type="Coll">gallesh</t>
             <xg>
                <x>De elevene, som du er sammen med, hvor mange er de?</x>
@@ -979,14 +980,14 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pg="no" pos="Pron" type="Indef">gellieh</t>
+            <t pg="no" pos="Pron" type="Indef">gellie</t>
             <xg>
                <x>Hvor mange bøker har du?</x>
-               <xt>Man gellieh gærjah dov leah?</xt>
+               <xt>Man gellie gærjah dov leah?</xt>
             </xg>
             <xg>
                <x>Like mange som fingrene dine.</x>
-               <xt>Seamma gellieh dov soermijste.</xt>
+               <xt>Seamma gellieh goh dov soermh.</xt>
             </xg>
          </tg>
       </mg>
