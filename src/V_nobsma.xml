@@ -11018,11 +11018,21 @@ boelehtje!</xt>
       </mg>
       <mg>
          <tg xml:lang="sma">
-	         <re>intransitiv: dryppe</re>
-            <t pos="V">garkasidh</t>
+	         <re>intransitiv: dryppe (svært)</re>
+            <t pos="V">gårkasidh</t>
             <xg>
                <x>Det drypper fra vannbøtta.</x>
                <xt>Tjaetsielihteste garkese.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>transitiv: la dryppe (svært)</re>
+            <t pos="V">gårkastehtedh</t>
+            <xg>
+               <x>la det renne av/dryppe av ljoredekke.</x>
+               <xt>rïehpene-bïerjesem gårkastehtedh.</xt>
             </xg>
          </tg>
       </mg>
