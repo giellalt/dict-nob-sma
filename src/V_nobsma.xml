@@ -12507,37 +12507,66 @@ boelehtje!</xt>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="V">garvenidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t class="I" minip="notSg1" p3p="galma" pos="V" umlaut="full" vow="x">gelmedh</t>
+            <xg>
+               <x>Jeg fryser.</x>
+               <xt>Manne galmam.</xt>
+            </xg>
+            <xg>
+               <x>La oss to gå inn i gamma, barnet begynner å fryse</x>
+               <xt>Gåatan tjaengien, maana jis gåålejeminie!</xt>
+            </xg>
+            <xg>
+               <x>Han frøs i hjel ved siden av den steinen.</x>
+               <xt>Don gierkiebealese jis gåarjoeji.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+	     <re>om å fryse til is</re>
             <t class="II" p3p="gååle" pos="V" umlaut="full" vow="x">gåalodh</t>
+            <xg>
+               <x>Jeg (for-)fryser beina.</x>
+               <xt>Mov juelkieh gåaloeh.</xt>
+            </xg>
+            <xg>
+               <x>nesa er forfrosset.</x>
+               <xt>njuenie gååleme.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t class="II" pos="V" umlaut="C">båjjodh</t>
+	      <re>om landskap?</re>
+            <t class="II" pos="V" umlaut="C">jeangodh</t> 
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t class="II" pos="V" umlaut="C">jeangodh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="II" pos="V" umlaut="C">såavodh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
+	     <re>tilbøyelig til å fryse fort, småfrysen av seg (om mennesker)</re>
             <t class="II" pos="V" umlaut="C">tjåajhnodh</t>
+           <xg>
+               <x>Åabpa jis tjåajhnoeminie vihth.</x>
+               <xt>Søster småfryser igjen.</xt>
+          </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>transitiv: få til å fryse</re>
+            <t pos="V" src="fad">galmedidh</t>
+            <t pos="V" src="fad">galmedehtedh</t>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="sme">
+            <re>transitiv: fryse ned noe</re>
+            <t pos="V">gelmiehtidh</t>
+            <xg>
+               <x>Jeg hadde allerede partert skrottene, og nå holdt jeg på å skjære dem i mindre biter før jeg fryser dem.</x>
+               <xt>Manne niestiem smeejveme jïh daelie edtjem barre gelmiehtidh.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -33088,6 +33117,10 @@ boelehtje!</xt>
          <tg xml:lang="sma">
             <re>infinitte former dannes av årrodh</re>
             <t pos="V">lea</t>
+            <xg>
+               <x>Jeg er femten år.</x>
+               <xt>Manne leam luhkievïjhten jaepien båeries.</xt>
+            </xg>
             <xg>
                <x>Per er her.</x>
                <xt>Piere lea daesnie.</xt>
