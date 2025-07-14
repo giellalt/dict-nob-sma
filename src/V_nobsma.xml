@@ -3166,11 +3166,6 @@ For the full license text, see the link above.</lic>
             <t class="I" pos="V" umlaut="A">dassedistedh</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="VI" pos="V" umlaut="F">teehpedh</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -3179,6 +3174,15 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t class="I" p3p="beasta" pos="V" umlaut="full" vow="x">biestedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t class="I" p3p="beasta" pos="V" umlaut="full" vow="x">biestelidh</t>
+            <xg>
+               <x>mista koppen plutselig i gulvet</x>
+               <xt>gualpan kåahpem biestili</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -3202,11 +3206,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t class="V" p3p="slyöhpoe" pos="V">slyöhpedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="V" pos="V">slyöbpedh</t>
          </tg>
       </mg>
    </e>
