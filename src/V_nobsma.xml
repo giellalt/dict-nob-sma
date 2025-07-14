@@ -7891,13 +7891,18 @@ boelehtje!</xt>
       </mg>
       <mg>
          <tg xml:lang="sma">
+	     <re>intransitiv: noe som koker</re>
          <re>komme i kok</re>
             <t pos="V">doeltijidh</t>
+            <xg>
+               <x>kaffekjelen begynner å koke.</x>
+               <xt>prïhtjh-giebnie doeltejeminie.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-	         <re>gi et lite oppkok</re>
+	         <re>transitiv: gi et lite oppkok</re> 
             <t class="I" pos="V" umlaut="A">darhpestehtedh</t>
             <t pos="V">darhpestidh</t>
          </tg>
