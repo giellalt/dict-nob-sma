@@ -1055,6 +1055,15 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="Pron">mer</l>
       </lg>
+            <mg>
+         <tg xml:lang="sma">
+            <t pos="Pron" type="Indef">vielie</t>
+            <xg>
+               <x>Vil du ha mer kaffe?</x>
+               <xt>Sïjhth vielie kaaffeste?</xt>
+            </xg>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="sma">
             <t pos="Pron" type="Indef">jienebe</t>
