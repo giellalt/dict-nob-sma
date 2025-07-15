@@ -14679,23 +14679,32 @@ boelehtje!</xt>
       </lg>
       <mg>
          <tg xml:lang="sma">
+	         <re>transitiv: å velte noe</re>
             <t diph="yes" p3p="gubpmede" pos="V">gupmiehtidh</t>
+            <xg>
+               <x>Jeg velter båten.</x>
+               <xt>Manne vïnhtsem gupmehtem.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+	      <re>intransitivː noe som velter</re>
             <t p3p="gåpmene" pos="V">gåpmanidh</t>
+            <xg>
+               <x>kagga velter.</x>
+               <xt>Geegke gåpmane.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+	         <re>transitiv: å velte noe med hensikt (avlive)</re>
             <t pos="V">gaesvierdidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-	      <re>velte flere ting</re>   
-            <t class="IV" pos="V" vow="a">rïehpestalledh</t>
+             <xg>
+               <x>bror velta en elg.</x>
+               <xt>vïelle sarvam gaesvierdi.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
