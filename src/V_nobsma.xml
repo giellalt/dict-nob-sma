@@ -14695,15 +14695,39 @@ boelehtje!</xt>
                <x>kagga velter.</x>
                <xt>Geegke gåpmane.</xt>
             </xg>
+            <xg>
+               <x>kaffekjelen gled av stangen for meg og veltet.</x>
+               <xt>kaaffe-giebnie njabpesti dehtie mov snagleste jih gåpmani.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-	         <re>transitiv: å velte noe med hensikt (avlive)</re>
+	         <re>transitiv: å velte noe med hensikt (avlive dyr)</re>
             <t pos="V">gaesvierdidh</t>
              <xg>
                <x>bror velta en elg.</x>
                <xt>vïelle sarvam gaesvierdi.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>transitiv: å velte,feie vekk</re>
+            <t pos="V">njïejestidh</t>
+             <xg>
+               <x>snøskredet har feiet vekk trærne.</x>
+               <xt>vyjreme lea njïejestamme moeride.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>transitiv: å velte ut</re>
+            <t pos="V">jullierdidh</t>
+             <xg>
+               <x>velte ut vomma fra slaktet.</x>
+               <xt>faehtiem jullierdidh.</xt>
             </xg>
          </tg>
       </mg>
