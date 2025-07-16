@@ -14695,6 +14695,12 @@ boelehtje!</xt>
       </mg>
       <mg>
          <tg xml:lang="sma">
+	         <re>transitiv: å velte ut noe plutselig ved uhell</re>
+            <t diph="yes" p3p="gubpmede" pos="V">gupmielidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
 	      <re>intransitivː noe som velter</re>
             <t p3p="gåpmene" pos="V">gåpmanidh</t>
             <xg>
@@ -14741,6 +14747,16 @@ boelehtje!</xt>
              <xg>
                <x>velte ut vomma fra slaktet.</x>
                <xt>faehtiem jullierdidh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>intransitiv: velte og sprelle på rygg</re>
+            <t pos="V">vïevtjedidh</t>
+             <xg>
+               <x>fisken ligger og velter seg på rygg.</x>
+               <xt>guelie vïevtjede.</xt>
             </xg>
          </tg>
       </mg>
