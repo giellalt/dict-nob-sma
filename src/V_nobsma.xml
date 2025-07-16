@@ -14689,6 +14689,12 @@ boelehtje!</xt>
       </mg>
       <mg>
          <tg xml:lang="sma">
+	         <re>transitiv: å velte ut som snarest</re>
+            <t diph="yes" p3p="gubpmede" pos="V">gupmiestidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
 	      <re>intransitivː noe som velter</re>
             <t p3p="gåpmene" pos="V">gåpmanidh</t>
             <xg>
@@ -14699,6 +14705,12 @@ boelehtje!</xt>
                <x>kaffekjelen gled av stangen for meg og veltet.</x>
                <xt>kaaffe-giebnie njabpesti dehtie mov snagleste jih gåpmani.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>transitiv: noe som velter som snarest</re>
+            <t diph="yes" p3p="gubpmede" pos="V">gåpmanestedh</t>
          </tg>
       </mg>
       <mg>
