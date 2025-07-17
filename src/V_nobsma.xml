@@ -9811,6 +9811,28 @@ boelehtje!</xt>
             </xg>
          </tg>
       </mg>
+       <mg>
+         <tg xml:lang="sma">
+	         <re>transitiv: reise noe opp</re>
+            <t class="I" p3p="vualka" pos="V" umlaut="full" vow="x">tseegkedh</t>
+            <xg>
+               <x>Jeg reiser en lavvo.</x>
+               <xt>Manne låavth-gåetiem tseegkem.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+          <re>transitiv: reise opp noe fort</re>
+            <t pos="V">tseegkestidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+          <re>intransitiv: noe reiser seg opp</re>
+            <t pos="V">tseagkanidh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
