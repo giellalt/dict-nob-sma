@@ -31615,12 +31615,35 @@ boelehtje!</xt>
       </lg>
       <mg>
          <tg xml:lang="sma">
+	         <re>transitiv: å gjemme noe</re>
             <t class="IV" pos="V" umlaut="full" vow="x">tjïekedh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+	         <re>transitiv: å gjemme noe i en fart</re>
+            <t class="IV" pos="V" umlaut="full" vow="x">tjïekelidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
             <t class="VI" p3p="vöörhkie" pos="V">vöörhkedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>transitiv: å gjemme noe i en fart</re>
+            <t class="VI" p3p="vöörhkie" pos="V">vöörhkelidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>intransitiv: å gjemme seg</re>
+            <t class="IV" pos="V" umlaut="full" vow="x">tjïekedidh</t>
+            <xg>
+               <x>barnet gjemte seg bak stolen.</x>
+               <xt>maana stovlen duakan tjïekedi.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
