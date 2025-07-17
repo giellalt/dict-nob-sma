@@ -1215,6 +1215,24 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t class="I" p3p="aalka" pos="V" umlaut="full" vow="x">aelkedh</t>
+            <xg>
+               <x>Tåamma har startet på skolen.</x>
+               <xt>Tåamma skuvlesne aalkeme.</xt>
+            </xg>
+            <xg>
+               <x>Og så tenkte jeg å begynne å selge reinkjøtt.</x>
+               <xt>Jïh dellie ussjedim aelkedh bearkoeh doekedh.</xt>
+            </xg>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="sma">
+	         <re>transitiv: sette i gang noe</re>
+            <t class="I" p3p="aalka" pos="V" umlaut="full" vow="x">aelkiehtidh</t>
+            <xg>
+               <x>Du får starte din egen butikk.</x>
+               <xt>Åadtjoeh jïjtjedh bovrem aelkiehtidh.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
