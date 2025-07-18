@@ -10197,11 +10197,16 @@ boelehtje!</xt>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">lukte møkk</l>
+         <l pos="Phrase">dufte</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+	         <re>intransitivː noe som dufter</re>
             <t diph="yes" p3p="frievnede" pos="V">frievniedidh</t>
+            <xg>
+               <x>Det lukter(anger) miereles gress.</x>
+               <xt>miereles kraesijste hov frievnede.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
