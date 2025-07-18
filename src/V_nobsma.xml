@@ -17005,14 +17005,22 @@ boelehtje!</xt>
       </lg>
       <mg>
          <tg xml:lang="sma">
-         <re>lukte noe</re>
+          <re>transitivːlukte (noe)</re>
             <t class="I" p3p="hapsa" pos="V" umlaut="full" vow="x">hepsedh</t>
+            <xg>
+               <x>Jeg lukter gress.</x>
+               <xt>Mun kraesieh hepsem</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-          <re>gi fra seg lukt</re>
+          <re>intransitivːå gi fra seg lukt</re>
            <t class="V" pos="V">hopsedh</t>
+           <xg>
+               <x>Det lukter stygt</x>
+               <xt>Vesties-ligke hopsoe.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -17028,8 +17036,12 @@ boelehtje!</xt>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <re>om planter</re>
+            <re>intransitiv: å gi fra seg lukt (om planter)</re>
             <t pos="V">ruengiestidh</t>
+            <xg>
+               <x>det lukter god av rosa.</x>
+               <xt>njaelkieslaakan råvseste ruengeste.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -17040,6 +17052,10 @@ boelehtje!</xt>
       <mg>
          <tg xml:lang="sma">
             <t diph="yes" p3p="hepsehte" pos="V">hepsiehtidh</t>
+            <xg>
+               <x>Lukt!</x>
+               <xt>Hepsedh!</xt>
+            </xg>
          </tg>
       </mg>
    </e>
