@@ -28837,10 +28837,17 @@ boelehtje!</xt>
    </e>
    <e>
       <lg>
-         <l pos="V">bøyes</l>
+         <l pos="V">bøye</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+	         <re>transitiv: å bøye noe</re>
+            <t class="IV" pos="V" umlaut="full" vow="x">sojjehtidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>intransitiv: noe bøyes</re>
             <t class="IV" pos="V" umlaut="full" vow="x">sojjedh</t>
          </tg>
       </mg>
