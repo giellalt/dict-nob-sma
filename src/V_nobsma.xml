@@ -28857,6 +28857,24 @@ boelehtje!</xt>
             <t class="IV" pos="V" umlaut="full" vow="x">preanghkanidh</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>intransitiv: noe bøyes</re>
+            <t class="IV" pos="V" umlaut="full" vow="x">nijvedh</t>
+         </tg>
+      </mg>
+       <mg>
+         <tg xml:lang="sma">
+	         <re>transitiv:bøye</re>
+            <t class="IV" pos="V" umlaut="full" vow="x">najvehtidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>intransitiv:bøye seg opp som i en bue (f.eks penis, hale etc.)</re>
+            <t class="IV" pos="V" umlaut="full" vow="x">najvegidh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
