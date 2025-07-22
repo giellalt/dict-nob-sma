@@ -28870,6 +28870,16 @@ boelehtje!</xt>
             <t class="IV" pos="V" umlaut="full" vow="x">najvegidh</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>intransitiv: å bøye seg</re>
+            <t class="IV" pos="V" umlaut="full" vow="x">njihkedh</t>
+            <xg>
+              <x>han bøyer seg til meg og hvisker.</x>
+              <xt>mov gåajkoe njihkie jïh sæmma.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -28886,11 +28896,12 @@ boelehtje!</xt>
       <lg>
          <l pos="Phrase">tøye seg</l>
       </lg>
-      <mg>
+            <mg>
          <tg xml:lang="sma">
             <t class="IV" pos="V" umlaut="full" vow="x">sojjedh</t>
          </tg>
       </mg>
+
       <mg>
          <tg xml:lang="sma">
             <t class="IV" pos="V" umlaut="full" vow="x">vïtnedh</t>
