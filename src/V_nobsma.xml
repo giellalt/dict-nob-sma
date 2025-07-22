@@ -28827,11 +28827,21 @@ boelehtje!</xt>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">bøye</l>
+         <l pos="Phrase">bøyes</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
 	         <re>intransitiv: noe bøyes</re>
+            <t class="IV" pos="V" umlaut="full" vow="x">sojjedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Phrase">bøye seg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
             <t class="IV" pos="V" umlaut="full" vow="x">sojjedh</t>
          </tg>
       </mg>
@@ -28872,7 +28882,7 @@ boelehtje!</xt>
       </mg>
       <mg>
          <tg xml:lang="sma">
-	         <re>intransitiv: å bøye seg</re>
+	         <re>intransitiv: bøye seg</re>
             <t class="IV" pos="V" umlaut="full" vow="x">njihkedh</t>
             <xg>
               <x>han bøyer seg til meg og hvisker.</x>
