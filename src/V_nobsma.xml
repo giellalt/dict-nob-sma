@@ -28880,6 +28880,16 @@ boelehtje!</xt>
             <t class="IV" pos="V" umlaut="full" vow="x">najvegidh</t>
          </tg>
       </mg>
+       <mg>
+         <tg xml:lang="sma">
+	         <re>transitiv: bøye noe plutselig (hale, tuppen på ski etc.)</re>
+            <t class="IV" pos="V" umlaut="full" vow="x">nijvestidh</t>
+            <xg>
+              <x>bøyer og vifter plutselig med halen.</x>
+              <xt>fahketji batjkam nijveste.</xt>
+            </xg>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="sma">
 	         <re>intransitiv: bøye seg</re>
@@ -28887,6 +28897,16 @@ boelehtje!</xt>
             <xg>
               <x>han bøyer seg til meg og hvisker.</x>
               <xt>mov gåajkoe njihkie jïh sæmma.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>transitiv: bøye noe (noe tøy)</re>
+            <t class="IV" pos="V" umlaut="full" vow="x">marngestidh</t>
+            <xg>
+              <x>skinnet bøyer jeg over (kanten) og syr det (fast) på innersiden.</x>
+              <xt>dam skåerriem marngestem bijjelen jih sisnjielistie gåaroem.</xt>
             </xg>
          </tg>
       </mg>
