@@ -7927,8 +7927,9 @@ boelehtje!</xt>
       </mg>
       <mg>
          <tg xml:lang="sma">
-	     <re>intransitiv: noe som koker</re>
-         <re>komme i kok</re>
+            <re>intransitiv: noe som koker, komme i kok</re>
+                    <!-- ANDERS: Kan ikke ha 2 <re> etter hverandre -->
+            <!--<re>komme i kok</re>-->
             <t pos="V">doeltijidh</t>
             <xg>
                <x>kaffekjelen begynner å koke.</x>
