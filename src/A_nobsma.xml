@@ -1280,8 +1280,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="A">hijven</t>
             <xg>
-               <x>Dette er bra! Det er bra!</x>
-               <xt>Daate hijven! Hijven hov!</xt>
+               <x>Dette er bra!</x>
+               <xt>Daate hijven!</xt>
+            </xg>
+            <xg>
+               <x>Det er bra!</x>
+               <xt>Hijven hov!</xt>
             </xg>
          </tg>
       </mg>
@@ -2583,22 +2587,13 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
+	         <re>i motsetning til flokete</re>
             <t pos="A">garkeles</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
             <t pos="A">vietseles</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">grei i motsetning til flokete</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="A">garkeles</t>
          </tg>
       </mg>
    </e>
@@ -2721,6 +2716,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
+	         <re>ferdig til bruk</re>
             <t pos="A">gaervies</t>
          </tg>
       </mg>
@@ -2763,16 +2759,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
 	         <re>bli ujevn</re>
             <t class="V" pos="V" umlaut="E">rarhmarostedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">ferdig til bruk</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="A">gaervies</t>
          </tg>
       </mg>
    </e>
@@ -3804,6 +3790,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="A">maehtehtje</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>kan litt av hvert</re>
+            <t pos="A">maehteles</t>
          </tg>
       </mg>
       <mg>
@@ -5384,16 +5376,6 @@ For the full license text, see the link above.</lic>
             <t pos="A">maehtehtje</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="A">maehteles</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">som kan litt av hvert</l>
-      </lg>
       <mg>
          <tg xml:lang="sma">
             <t pos="A">maehteles</t>
@@ -7245,16 +7227,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">svært skarpsynt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="A">tjalmerge</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="A">hemmelig</l>
       </lg>
       <mg>
@@ -7485,14 +7457,10 @@ For the full license text, see the link above.</lic>
             <t pos="A">tsåatske</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">snar til å oppfatte</l>
-      </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A">tsåatske</t>
+	         <re>svært skarpsynt</re>
+            <t pos="A">tjalmerge</t>
          </tg>
       </mg>
    </e>
@@ -8389,16 +8357,6 @@ For the full license text, see the link above.</lic>
                <x>Ikke gå ut barhodet!</x>
                <xt>Aellieh båadtsoehåejjien olkese vaedtsieh!</xt>
             </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">det er bra</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="Phrase">hijven hov</t>
          </tg>
       </mg>
    </e>
