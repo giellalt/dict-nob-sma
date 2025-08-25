@@ -3172,8 +3172,8 @@ For the full license text, see the link above.</lic>
 	         <re>miste motet</re>
             <t class="I" p3p="gaarvene" pos="V" umlaut="full" vow="x">njuajjaridh</t>
             <xg>
-               <x>manne njuajjaramme.</x>
-               <xt>jeg har mistet motet.</xt>
+               <x>Jeg har mistet motet.</x>
+               <xt>Manne njuajjaramme.</xt>
             </xg>
          </tg>
       </mg>
@@ -10178,8 +10178,8 @@ boelehtje!</xt>
 	         <re>intransitivː noe som dufter</re>
             <t diph="yes" p3p="frievnede" pos="V">frievniedidh</t>
             <xg>
-               <x>Det lukter(anger) miereles gress.</x>
-               <xt>miereles kraesijste hov frievnede.</xt>
+               <x>Det lukter (anger) miereles gress.</x>
+               <xt>Miereles kraesijste hov frievnede.</xt>
             </xg>
          </tg>
       </mg>
@@ -16997,8 +16997,8 @@ boelehtje!</xt>
             <re>intransitiv: å gi fra seg lukt (om planter)</re>
             <t pos="V">ruengiestidh</t>
             <xg>
-               <x>det lukter god av rosa.</x>
-               <xt>njaelkieslaakan råvseste ruengeste.</xt>
+               <x>Det lukter god av rosa.</x>
+               <xt>Njaelkieslaakan råvseste ruengeste.</xt>
             </xg>
          </tg>
       </mg>
@@ -17007,8 +17007,8 @@ boelehtje!</xt>
             <re>intransitiv: å lukte av brunst (om grarein og  geitebukk)</re>
             <t pos="V">tjievriedidh</t>
             <xg>
-               <x>tjievrede.</x>
-               <xt>det lukter brunst.</xt>
+               <x>Tjievrede.</x>
+               <xt>Det lukter brunst.</xt>
             </xg>
          </tg>
       </mg>
@@ -17017,8 +17017,8 @@ boelehtje!</xt>
             <re>intransitiv: å lukte vondt eller stinke (f.eks fordervet mat)</re>
             <t pos="V">libnjiedidh</t>
             <xg>
-               <x>daestie hov raaktan liebnjede!</x>
-               <xt>det lukter nesten vondt av denne!</xt>
+               <x>Daestie hov raaktan liebnjede!</x>
+               <xt>Det lukter nesten vondt av denne!</xt>
             </xg>
          </tg>
       </mg>
