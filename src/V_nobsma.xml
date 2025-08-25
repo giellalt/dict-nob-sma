@@ -4933,23 +4933,21 @@ boelehtje!</xt>
       </mg>
       <mg>
          <tg xml:lang="sma">
+	         <re>komme på</re>
+            <t class="I" p3p="båata" pos="V" umlaut="full" vow="x">måjhtajidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
             <re>om rovdyr</re>
             <t class="IV" p3p="dalhka" pos="V" vow="a">dalhkedh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t class="IV" p3p="dalva" pos="V" vow="a">dalvedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">komme plutselig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t diph="yes" p3p="båetele" pos="V">båetielidh</t>
+            <re>komme til syne</re>
+            <t class="IV" p3p="dalhka" pos="V" vow="a">dalhkedh</t>
+            <t class="IV" p3p="dalhka" pos="V" vow="a">jijhtedh</t>
          </tg>
       </mg>
    </e>
@@ -16637,17 +16635,6 @@ boelehtje!</xt>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">begynne å sverme</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <re>om mygg</re>
-            <t class="I" pos="V" umlaut="full" vow="x">haasegåetedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">forgå</l>
       </lg>
       <mg>
@@ -19084,6 +19071,12 @@ boelehtje!</xt>
       </mg>
       <mg>
          <tg xml:lang="sma">
+	         <re>begynne å gli</re>
+            <t class="I" p3p="jåhta" pos="V" umlaut="full" vow="x">jåhtajidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
             <t p3p="njalkeste" pos="V">njalhkestidh</t>
          </tg>
       </mg>
@@ -19302,46 +19295,11 @@ boelehtje!</xt>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">begynne å gli</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t p3p="jåhtije" pos="V">jåhtajidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">jahtajidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">snurre</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <t class="IV" p3p="jårra" pos="V" umlaut="full" vow="x">jårredh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">begynne å snurre rundt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="I" p3p="jårregåata" pos="V" umlaut="full" vow="x">jårregåetedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">begynne å snu</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="I" p3p="jårregåata" pos="V" umlaut="full" vow="x">jårregåetedh</t>
          </tg>
       </mg>
    </e>
@@ -22716,7 +22674,6 @@ boelehtje!</xt>
       <mg>
          <tg xml:lang="sma">
             <t class="I" p3p="måjhta" pos="V" umlaut="full" vow="x">mujhtedh</t>
-            <t pos="V">sjugkiehtidh</t>
          </tg>
       </mg>
       <mg>
@@ -22745,16 +22702,6 @@ boelehtje!</xt>
       <mg>
          <tg xml:lang="sma">
             <t pos="V">ieriedidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">begynne å huske</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="I" pos="V" umlaut="full" vow="x">mujhtiegåetedh</t>
          </tg>
       </mg>
    </e>
@@ -40868,6 +40815,7 @@ boelehtje!</xt>
       </lg>
       <mg>
          <tg xml:lang="sma">
+	         <re>fly i sverm</re>
             <t class="IV" pos="V" umlaut="D">haasedh</t>
          </tg>
       </mg>
