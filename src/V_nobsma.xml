@@ -3097,30 +3097,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="V">bøye</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t p3p="kröövvede" pos="V">kröövvedidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t p3p="sojjede" pos="V">sojjedidh</t>
-            <t class="I" pos="V" umlaut="full" vow="x">sojjehtehtedh</t>
-            <t pos="V">sojjehtidh</t>
-            <t pos="V">syjjehtidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-	         <re>på ski</re>
-            <t class="I" pos="V" umlaut="full" vow="x">biesmedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">overtale</l>
       </lg>
       <mg>
@@ -28855,6 +28831,13 @@ boelehtje!</xt>
          <tg xml:lang="sma">
 	         <re>transitiv: å bøye noe</re>
             <t class="IV" pos="V" umlaut="full" vow="x">sojjehtidh</t>
+            <t class="IV" pos="V" umlaut="full" vow="x">syjjehtidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>å bøye seg</re>
+            <t p3p="kröövvede" pos="V">kröövvedidh</t>
          </tg>
       </mg>
       <mg>
@@ -40700,10 +40683,11 @@ boelehtje!</xt>
    </e>
    <e>
       <lg>
-         <l pos="V" re="plutselig">begynne å gjøre noe</l>
+         <l pos="V">begynne å gjøre noe</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+	         <re>plutselig</re>
             <t class="IV" pos="V" umlaut="D">ferriedahtjedh</t>
          </tg>
       </mg>
