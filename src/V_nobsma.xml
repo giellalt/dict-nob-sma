@@ -1204,17 +1204,30 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t class="I" p3p="aalka" pos="V" umlaut="full" vow="x">aelkedh</t>
+            <xg>
+               <x>Jeg begynner i morgen på skolen</x>
+               <xt>manne jirreden skuvlesne aalkam</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t class="IV" p3p="nearhka" pos="V" umlaut="full" vow="x">nïerhkedh</t>
+            <re>ta fatt i</re>
+            <t pos="V">nïerhkedh</t>
+            <xg>
+               <x>hva skal jeg å ta fatt med?</x>
+               <xt>mejnie etjem daelie nïerhkedh</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <re>om uvær</re>
+            <re>plutselig om uvær</re>
             <t pos="V">rurhkiehtidh</t>
+            <xg>
+               <x>nå bryter uværet løs!</x>
+               <xt>dellie hov rurhkehte!</xt>
+            </xg>
          </tg>
       </mg>
    </e>
