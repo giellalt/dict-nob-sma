@@ -1146,6 +1146,16 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
+	         <re>begynne å regne</re> 
+            <t context="upers" minip="notSg1" p3p="obrije" pos="V">obrijidh</t>
+            <xg>
+               <x>Nå begynner det jo å regne.</x>
+               <xt>Daelie hov obreje.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
          <re>pøsregne</re>
             <t class="IV" context="upers" minip="notSg1" pos="V" vow="åa">råanjedh</t>
          </tg>
@@ -2817,37 +2827,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t class="I" pos="V" umlaut="full" vow="x">berkedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t class="IV" p3p="kruahka" pos="V" umlaut="full" vow="x">kroehkedh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t class="VI" pos="V" umlaut="F">rööhtsedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="VI" pos="V" umlaut="F">röövhtsedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="V">kråahkasjidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">grave etter noe</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="I" pos="V" umlaut="full" vow="x">berkedh</t>
          </tg>
       </mg>
    </e>
@@ -2859,6 +2844,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <re>om røyk</re>
             <t diph="yes" minip="notSg1" p3p="berkeste" pos="V">berkiestidh</t>
+            <xg>
+               <x>det stiger røyk opp fra kåta</x>
+               <xt>gåetie-rïehpenistie berkeste</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3175,6 +3164,16 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>veska er mista.</x>
                <xt>veaskoe gaarvanamme.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>miste motet</re>
+            <t class="I" p3p="gaarvene" pos="V" umlaut="full" vow="x">njuajjaridh</t>
+            <xg>
+               <x>manne njuajjaramme.</x>
+               <xt>jeg har mistet motet.</xt>
             </xg>
          </tg>
       </mg>
@@ -12104,11 +12103,6 @@ boelehtje!</xt>
              <x>Buksene tørker du jo fort med denne!</x>
              <xt>Måvhkide hov gidtjh varki daejnie gajhkestahtah!</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="I" pos="V" umlaut="A">båarkadehtedh</t>
          </tg>
       </mg>
       <mg>
@@ -23065,16 +23059,6 @@ boelehtje!</xt>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">begynne å mene</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="I" pos="V" umlaut="full" vow="x">mïelegåetedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">knake</l>
       </lg>
       <mg>
@@ -23704,50 +23688,6 @@ boelehtje!</xt>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">tørke av</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="IV" p3p="njaama" pos="V" vow="aa">njaamedh</t>
-            <xg>
-               <x>Tørk hendene!</x>
-               <xt>Njaamh gïetide!</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">tørke seg</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t p3p="njaamede" pos="V">njaamedidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">begynne å miste tålmodigheten</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="I" pos="V" umlaut="full" vow="x">njaamegåetedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">gå lei</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="I" pos="V" umlaut="full" vow="x">njaamegåetedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">mjaue</l>
       </lg>
       <mg>
@@ -23972,16 +23912,6 @@ boelehtje!</xt>
       <mg>
          <tg xml:lang="sma">
             <t p3p="njimkehte" pos="V">njimkehtidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">begynne å miste motet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="I" p3p="njoejjegåata" pos="V" umlaut="full" vow="x">njoejjegåetedh</t>
          </tg>
       </mg>
    </e>
@@ -24931,11 +24861,6 @@ boelehtje!</xt>
             </xg>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="IV" pos="V" umlaut="D">obrijahtjedh</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -25177,16 +25102,6 @@ boelehtje!</xt>
       <mg>
          <tg xml:lang="sma">
             <t p3p="paajsene" pos="V">paajsanidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">begynne å kjefte uten grunn</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="I" pos="V" umlaut="full" vow="x">parregåetedh</t>
          </tg>
       </mg>
    </e>
