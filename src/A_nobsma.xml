@@ -3928,8 +3928,49 @@ For the full license text, see the link above.</lic>
             <t pos="A">harhtsoeh</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>være slurvete</re>
+            <t pos="V">hertsiedidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>slurve i arbeid</re>
+            <t pos="V">freksiedidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	          <re>om personer</re>
+            <t pos="N">hartja</t>
+         </tg>
+      </mg>
    </e>
-      <e>
+    <e>
+      <lg>
+         <l pos="A">lurvete</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+	          <re>om pels</re>
+            <t pos="A">lårhvoeh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	          <re>om hår</re>
+            <t pos="A">hårvoeh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	          <re>om dyr</re>
+            <t pos="N">lorve</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l pos="A">lur</l>
       </lg>
@@ -3942,6 +3983,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
 	         <re>ta en lur</re>
             <t pos="V">åeriestidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>ligge på lur</re>
+            <t pos="V">njaakedidh</t>
          </tg>
       </mg>
       <mg>
