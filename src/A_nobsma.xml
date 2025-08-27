@@ -2779,6 +2779,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <re>bli mett</re>
             <t p3p="gallene" pos="V">gallanidh</t>
+             <xg>
+               <x>Jeg er blitt mett.</x>
+               <xt>Manne gallanamme.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
