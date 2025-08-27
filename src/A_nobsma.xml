@@ -4000,19 +4000,34 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <t pos="A">slovves</t>
             <t pos="A">smærrehke</t>
          </tg>
       </mg>
+     <ig>
+      <i>lur som en rev</i>
+      <it>slovves goh riepie</it>
+    </ig>
       <mg>
          <tg xml:lang="sma">
-	         <re>ta en lur</re>
+	         <re>ta seg en lur</re>
             <t pos="V">åeriestidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-	         <re>ligge på lur</re>
+	         <re>ligge på lur, ved jakt</re>
             <t pos="V">njaakedidh</t>
+             <xg>
+               <x>katta ligger på lur etter mus</x>
+               <xt>gaahtoe snjearah njaakede</xt>
+            </xg>
+         </tg>
+      </mg>
+       <mg>
+         <tg xml:lang="sma">
+	         <re>prate og fremstå lur</re>
+            <t pos="V">væjsastalledh</t>
          </tg>
       </mg>
       <mg>
