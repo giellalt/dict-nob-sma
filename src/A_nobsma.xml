@@ -2785,6 +2785,26 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
+       <mg>
+         <tg xml:lang="sma">
+            <re>overmett pga. for mye fet mat</re>
+            <t p3p="gallene" pos="V">majkedh</t>
+             <xg>
+               <x>Jeg er blitt overmett av margbein.</x>
+               <xt>Manne jïrremistie majkeme.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>halvveis og foreløpig mett</re>
+            <t p3p="gallene" pos="V">sverkiehtidh</t>
+             <xg>
+               <x>Jada, jeg er halvveis mett.</x>
+               <xt>Nov maa, leam sverkiehtamme.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
