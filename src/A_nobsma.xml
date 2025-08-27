@@ -3929,6 +3929,28 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+      <e>
+      <lg>
+         <l pos="A">lur</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A">smærrehke</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>ta en lur</re>
+            <t pos="V">åeriestidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>blåseinstrument</re>
+            <t pos="N">låvre</t>
+         </tg>
+      </mg>
+   </e>
    <e>
       <lg>
          <l pos="A">uvøren</l>
