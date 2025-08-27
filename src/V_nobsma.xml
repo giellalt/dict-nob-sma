@@ -20625,26 +20625,35 @@ boelehtje!</xt>
          <tg xml:lang="sma">
             <re>om hund</re>
             <t class="IV" minip="notSg1" pos="V" vow="a">lamkedh</t>
+            <xg>
+               <x>hunden ligger på lur</x>
+               <xt>bïenje lamka</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t diph="yes" pos="V">nulliehtidh</t>
+	        <re>transitiv</re>
+            <t diph="yes" pos="V">nollehtidh</t>
+            <xg>
+               <x>Nå skal du få høre hvordan jenta lurte trollet</x>
+               <xt>Daelie edtjh govledh guktie nïejte staaloem nollehti</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t diph="yes" pos="V">snåvsoehtidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
+	         <re>transitiv</re>
             <t class="IV" pos="V" umlaut="full" vow="x">sïektjedh</t>
+             <xg>
+               <x>han holder på å lure seg etter for å se hvordan det går</x>
+               <xt>sïektjeminie hov lea minngesne, edtja vuartasjidh guktie gåarede</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-	         <re>bli lurt</re>
+	         <re>Intransitiv, bli lurt</re>
             <t class="IV" pos="V" vow="a">beahtahtalledh</t>
             <t pos="V">slågkagidh</t>
          </tg>
@@ -20656,20 +20665,16 @@ boelehtje!</xt>
       </lg>
       <mg>
          <tg xml:lang="sma">
+	         <re>om hund</re>
             <t pos="V">lamkedidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">lamkestidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
             <t p3p="tjïekede" pos="V">tjïekedidh</t>
             <xg>
-               <x>Hunden gjemte seg bak døra.</x>
-               <xt>Bïenje oksen duakan tjïekedi.</xt>
+               <x>Jenta gjemte seg bak døra.</x>
+               <xt>Nïejte oksen duakan tjïekedi.</xt>
             </xg>
          </tg>
       </mg>
