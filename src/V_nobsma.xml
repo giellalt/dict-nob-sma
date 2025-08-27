@@ -1220,16 +1220,6 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <re>plutselig om uvær</re>
-            <t pos="V">rurhkiehtidh</t>
-            <xg>
-               <x>nå bryter uværet løs!</x>
-               <xt>dellie hov rurhkehte!</xt>
-            </xg>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -8259,9 +8249,14 @@ boelehtje!</xt>
             <t class="II" p3p="tsååpke" pos="V" umlaut="full" vow="x">tsåapkodh</t>
          </tg>
       </mg>
-      <mg>
+        <mg>
          <tg xml:lang="sma">
-            <t class="IV" pos="V" umlaut="D">dååjestalledh</t>
+            <re>plutselig om uvær</re>
+            <t pos="V">rurhkiehtidh</t>
+            <xg>
+               <x>nå bryter uværet løs!</x>
+               <xt>dellie hov rurhkehte!</xt>
+            </xg>
          </tg>
       </mg>
    </e>
