@@ -20658,6 +20658,16 @@ boelehtje!</xt>
             <t pos="V">slågkagidh</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>transitiv</re>
+            <t class="IV" pos="V" vow="a">rontestidh</t>
+            <xg>
+               <x>rontestem, Aanna jirreden båata</x>
+               <xt>jeg lurer på om Anna kommer i morgen</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
