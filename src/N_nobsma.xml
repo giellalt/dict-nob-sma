@@ -20521,6 +20521,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+    <e>
+      <lg>
+         <l pos="N">lås</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">laesie</t>
+         </tg>
+      </mg>
+   </e>
    <e>
       <lg>
          <l pos="Phrase">kroket snute</l>
@@ -67882,6 +67892,20 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
 	         <re>svineribbe</re>
             <t pos="N">snurkenïehterdahke</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kveike</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>opptenningsved</re> 
+            <t pos="N">dållefaadta</t>
+            <t pos="N">båaltajehtems-moerh</t>
+             <t pos="N">faadta</t>
+              <t pos="N">faadtoe</t>
          </tg>
       </mg>
    </e>
