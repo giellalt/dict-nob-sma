@@ -3850,6 +3850,35 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
+         <l pos="N">løypedall</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">gaasijedaellie</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="N">løypemage</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>reinens fjerde mage</re>
+            <t pos="N">gaasije</t>
+            <t pos="N">snjarhtja</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>den smale delen av kjesemagen</re>
+            <t pos="N">skåtnja</t>
+            <t pos="N">skatnja</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="N">barsok</l>
       </lg>
       <mg>
@@ -22748,7 +22777,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">lööneme</t>
+            <t pos="N">laajkoe</t>
          </tg>
       </mg>
    </e>
