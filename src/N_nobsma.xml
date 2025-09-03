@@ -67839,6 +67839,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+    <e>
+      <lg>
+         <l pos="N">vaskepulver</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">bïssemejaavvoeh</t>
+         </tg>
+      </mg>
+   </e>
    <e>
       <lg>
          <l pos="N">røykakjøtt</l>
@@ -67894,6 +67904,12 @@ For the full license text, see the link above.</lic>
             <t pos="N">snurkenïehterdahke</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>saueribbe</re>
+            <t pos="N">sïrevenïehterdahke</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -67901,7 +67917,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-	         <re>opptenningsved</re> 
+	         <re>ved til å tenne opp bål med</re> 
             <t pos="N">dållefaadta</t>
             <t pos="N">båaltajehtems-moerh</t>
              <t pos="N">faadta</t>
