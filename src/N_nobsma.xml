@@ -67612,7 +67612,36 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">geajnoeviermie</t>
+            <t pos="N">geajnoevearmadahke</t>
+         </tg>
+      </mg>
+   </e>
+      <e src="gg">
+      <lg>
+         <l pos="N">fotsåle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">låapoe</t>
+            <t pos="N">låapa</t>
+            <t pos="N">tjavle</t>
+         </tg>
+      </mg>
+   </e>
+   </e>
+      <e src="gg">
+      <lg>
+         <l pos="N">fotfeste</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">tsåeptsie</t>
+         </tg>
+      </mg>
+        <mg>
+         <tg xml:lang="sma">
+	         <re>miste fotfeste</re>
+            <t pos="V">njahpestidh</t>
          </tg>
       </mg>
    </e>
@@ -67625,6 +67654,17 @@ For the full license text, see the link above.</lic>
             <t pos="N">lissietseegkeme</t>
             <t pos="N">lissiebigkeme</t>
             <t pos="N">vijriedimmie</t>
+         </tg>
+      </mg>
+   </e>
+    <e src="gg">
+      <lg>
+         <l pos="N">fotstø</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">tjïektjestahke</t>
+            <t pos="N">tjïektjesth</t>
          </tg>
       </mg>
    </e>
