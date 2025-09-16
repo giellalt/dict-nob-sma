@@ -53,7 +53,7 @@ For the full license text, see the link above.</lic>
             <t pos="V">vaara</t>
             <xg>
                <x>Pappa pakket varene fort i sekken og dro hjem</x>
-               <xt>Aehtjie varki vaaroeh voessen sïjse tsagki jïh gåetide vöölki</xt>
+               <xt>Aehtjie varki vaaroeh voessen sïjse tsagkesti jïh gåetide vöölki</xt>
             </xg>
          </tg>
       </mg>
@@ -77,7 +77,7 @@ For the full license text, see the link above.</lic>
             <t p3p="gorrede" pos="V">gorredidh</t>
             <xg>
                <x>ta vare på språket</x>
-               <xt>saemien gïelem gorredidh</xt>
+               <xt>saemiengïelem gorredidh</xt>
             </xg>
          </tg>
       </mg>
@@ -41093,6 +41093,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+    <e>
+      <lg>
+         <l pos="Phrase">skår</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+	          <re>etter øksehugg</re>
+            <t pos="N">soedtesh</t>
+         </tg>
+      </mg>
+   </e>
    <e>
       <lg>
          <l pos="N">valgområde</l>
@@ -41710,6 +41721,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">skuvlenåejvie</t>
+         </tg>
+      </mg>
+   </e>
+     <e>
+      <lg>
+         <l pos="N">skolepatrulje</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">skuvlen valkesvaeptie</t>
          </tg>
       </mg>
    </e>
