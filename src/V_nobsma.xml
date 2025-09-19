@@ -4092,20 +4092,6 @@ boelehtje!</xt>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">komme med</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="I" pos="V" umlaut="full" vow="x">buektedh</t>
-            <xg>
-               <x>Jeg kommer med den til deg.</x>
-               <xt>Manne dutnjien dam buaktam.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Phrase">sette frem</l>
       </lg>
       <mg>
@@ -4950,6 +4936,16 @@ boelehtje!</xt>
             <re>komme til syne</re>
             <t class="IV" p3p="dalhka" pos="V" vow="a">dalhkedh</t>
             <t class="IV" p3p="dalhka" pos="V" vow="a">jijhtedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>komme med noe</re>
+            <t class="IV" p3p="dalhka" pos="V" vow="a">buektedh</t>
+            <xg>
+               <x>Jeg kommer med den til deg.</x>
+               <xt>Manne dutnjien dam buaktam.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
