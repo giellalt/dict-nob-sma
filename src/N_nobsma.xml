@@ -12774,6 +12774,26 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+    <e>
+      <lg>
+         <l pos="N">bestyrer</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">tjåadtjoehtæjja</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="N">bestikkelse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">måvhta</t>
+         </tg>
+      </mg>
+   </e>
    <e>
       <lg>
          <l pos="N">caps</l>
@@ -18954,6 +18974,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">johkenjaelmie</t>
+            <t pos="N">johkejaelmie</t>
          </tg>
       </mg>
    </e>
@@ -40388,11 +40409,6 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="N">sameskole</l>
       </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">saemienskåvloe</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">saemienskuvle</t>
@@ -71202,6 +71218,39 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
 	        <re>på klær</re> 
             <t pos="V">gabre</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+     <lg>
+         <l pos="N">elvebakke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+	        <re>bratt</re> 
+            <t pos="V">johken baamere</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+     <lg>
+         <l pos="N">elvedal</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+	        <re>liten</re> 
+            <t pos="V">johkekrohke</t>
+         </tg>
+      </mg>
+   </e>
+      <e>
+     <lg>
+         <l pos="N">elvemel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+	        <re>uthult elvebredd</re> 
+            <t pos="V">vïedtere</t>
          </tg>
       </mg>
    </e>
