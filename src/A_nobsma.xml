@@ -1842,13 +1842,74 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A">dasmoes</t>
-            <t pos="A">dåsmoes</t>
+	        <re>om drikke</re>
+            <t pos="A">laejjies</t>
+            <t pos="A">laehkies</t>
+            <xg>
+               <x>svak kaffe</x>
+               <xt>laejjies prïhtjege</xt>
+            </xg>
+         </tg>
+      </mg>
+       <mg>
+         <tg xml:lang="sma">
+	        <re>om tråd, lasso, sene</re>
+            <t pos="A">sïemhpe</t>
+            <xg>
+               <x>svak lasso</x>
+               <xt>sïemhpe soehpenje</xt>
+            </xg>
+         </tg>
+      </mg>
+
+       <mg>
+         <tg xml:lang="sma">
+	        <re>om fysiske krefter</re>
+            <t pos="A">viesjies</t>
+            <xg>
+               <x>svake krefter</x>
+               <xt>viesjies gaarkh</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+	       <re>om is på vann,bru,sene,töy</re>
             <t pos="A">hiejjehts</t>
+             <xg>
+               <x>svak is</x>
+               <xt>hiejjehts jïenge</xt>
+           </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	       <re>fysisk om mennesker</re>
+            <t pos="A">viejhkies</t>
+             <xg>
+               <x>fysisk svakt menneske</x>
+               <xt>viejhkies almetje</xt>
+           </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	       <re>åndelig svak</re>
+            <t pos="A">faamohts</t>
+             <xg>
+               <x>selv om han fremsto som sterk, var han likevel åndelig svak</x>
+               <xt>jilhts veaksehke vååjni, dle læjhkan faamohth</xt>
+           </xg>
+         </tg>
+      </mg>
+       <mg>
+         <tg xml:lang="sma">
+	       <re>om å arbeide</re>
+            <t pos="A">laejhkies</t>
+             <xg>
+               <x>arbeidsvak menneske</x>
+               <xt>laejhkies almetje</xt>
+           </xg>
          </tg>
       </mg>
       <mg>
