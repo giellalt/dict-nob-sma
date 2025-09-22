@@ -61,22 +61,6 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sma">
-	       <re>intransitiv</re>
-            <t pos="V">juhtedh</t>
-            <xg>
-               <x>det går til %$#"%!</x>
-               <xt>Deajese jåhta!</xt>
-               <xt>Eajtohte jåhta!</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">dijpedh</t>
-         </tg>
-      </mg>
    </e>
     <e>
       <lg>
@@ -19032,13 +19016,18 @@ boelehtje!</xt>
       <mg>
          <tg xml:lang="sma">
             <re>begynne å gå</re>
-            <t class="I" pos="V" umlaut="full" vow="x">mïnnegåetedh</t>
+            <t p3p="vaadtsije" pos="V">vaadtsajidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <re>begynne å gå</re>
-            <t p3p="vaadtsije" pos="V">vaadtsajidh</t>
+	       <re>intransitiv</re>
+            <t pos="V">juhtedh</t>
+            <xg>
+               <x>det går til %$#"%!</x>
+               <xt>Deajese jåhta!</xt>
+               <xt>Eajtohte jåhta!</xt>
+            </xg>
          </tg>
       </mg>
    </e>
