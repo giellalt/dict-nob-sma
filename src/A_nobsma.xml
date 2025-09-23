@@ -4065,10 +4065,6 @@ For the full license text, see the link above.</lic>
             <t pos="A">smærrehke</t>
          </tg>
       </mg>
-     <ig>
-      <i>lur som en rev</i>
-      <it>slovves goh riepie</it>
-    </ig>
       <mg>
          <tg xml:lang="sma">
 	         <re>ta seg en lur</re>
@@ -4097,6 +4093,10 @@ For the full license text, see the link above.</lic>
             <t pos="N">låvre</t>
          </tg>
       </mg>
+     <ig>
+      <i>lur som en rev</i>
+      <it>slovves goh riepie</it>
+    </ig>
    </e>
    <e>
       <lg>
