@@ -1199,8 +1199,8 @@ For the full license text, see the link above.</lic>
             <re>ta fatt i</re>
             <t pos="V">nïerhkedh</t>
             <xg>
-               <x>hva skal jeg å ta fatt med?</x>
-               <xt>mejnie etjem daelie nïerhkedh</xt>
+               <x>Hva skal jeg å ta fatt med?</x>
+               <xt>Mejnie edtjem daelie nïerhkedh?</xt>
             </xg>
          </tg>
       </mg>
@@ -1227,8 +1227,8 @@ For the full license text, see the link above.</lic>
 	         <re>transitiv: sette i gang noe</re>
             <t class="I" p3p="aalka" pos="V" umlaut="full" vow="x">aelkiehtidh</t>
             <xg>
-               <x>Da må du starte din egen butikk!</x>
-               <xt>Tjoeverh jïjtjedh bovrem aelkiehtidh,dellie!</xt>
+               <x>Da må du starte din egen butikk.</x>
+               <xt>Tjoeverh jïjtjedh bovrem aelkiehtidh, dellie.</xt>
             </xg>
          </tg>
       </mg>
@@ -3504,8 +3504,7 @@ For the full license text, see the link above.</lic>
            <t pos="V">boelehtjidh</t>
            <xg>
                <x>Å kjøre vene min kjære bestemor, du har det så varmt i huset at folk nesten brenner seg her!</x>
-               <xt>Åa jemmede, aahkeme, dov jis gåetesne amma bijvele, almetje mahte
-boelehtje!</xt>
+               <xt>Åa jemmede, aahkeme, dov jis gåetesne amma bïjvele, almetje mahte boelehtje!</xt>
             </xg>
          </tg>
       </mg>
@@ -4169,7 +4168,7 @@ boelehtje!</xt>
          <tg xml:lang="sma">
             <t class="IV" pos="V" umlaut="full" vow="x">jïjledh</t>
             <xg>
-               <x>Tannen gjør stadig vondt.</x>
+               <x>Tanna gjør stadig vondt.</x>
                <xt>Baenie jæjla.</xt>
             </xg>
          </tg>
@@ -10148,8 +10147,8 @@ boelehtje!</xt>
 	         <re>intransitivː noe som dufter</re>
             <t diph="yes" p3p="frievnede" pos="V">frievniedidh</t>
             <xg>
-               <x>Det lukter (anger) miereles gress.</x>
-               <xt>Miereles kraesijste hov frievnede.</xt>
+               <x>Det dufter av mïereles gress.</x>
+               <xt>Mïereles kraesijste hov frievnede.</xt>
             </xg>
          </tg>
       </mg>
@@ -11043,7 +11042,7 @@ boelehtje!</xt>
             <t pos="V">gårkastehtedh</t>
             <xg>
                <x>få det til å renne av/dryppe av ljoredekke.</x>
-               <xt>rïehpene-bïerjesem gårkastehtedh.</xt>
+               <xt>riehpene-bïerjesem gårkastehtedh</xt>
             </xg>
          </tg>
       </mg>
@@ -12568,8 +12567,8 @@ boelehtje!</xt>
 	     <re>tilbøyelig til å fryse fort, småfrysen av seg (om mennesker)</re>
             <t class="II" pos="V" umlaut="C">tjåajhnodh</t>
            <xg>
-               <x>Åabpa jis tjåajhnoeminie vihth.</x>
-               <xt>Søster småfryser igjen.</xt>
+               <x>Søster småfryser igjen.</x>
+               <xt>Åabpa jis tjåajhnoeminie vihth.</xt>
           </xg>
          </tg>
       </mg>
@@ -13356,8 +13355,7 @@ boelehtje!</xt>
             <t class="II" pos="V" umlaut="C">saadtodh</t>
             <xg>
                <x>Hvis vi også kunne ha mange unge kunnskapsrike som vi hadde nådd å sende til mange plasser rundt omkring i verden.</x>
-               <xt>Jis lin dle mijjen aaj jijnjh noere maahtoetjiehpieh mejtie limh nööreme gellide lehkide bijre daam eatnemem	saadtodh.
-</xt>
+               <xt>Jis lin dle mijjen aaj jïjnjh noere maahtoetjiehpieh mejtie limh nööreme gellide lehkide bïjre daam eatnemem	saadtodh.</xt>
             </xg>
          </tg>
       </mg>
@@ -14694,7 +14692,7 @@ boelehtje!</xt>
             </xg>
             <xg>
                <x>kaffekjelen gled av stangen for meg og veltet.</x>
-               <xt>kaaffe-giebnie njabpesti dehtie mov snagleste jih gåpmani.</xt>
+               <xt>kaaffe-giebnie njabpesti dehtie mov snagleste jïh gåpmani.</xt>
             </xg>
          </tg>
       </mg>
@@ -16967,7 +16965,7 @@ boelehtje!</xt>
             <re>intransitiv: å gi fra seg lukt (om planter)</re>
             <t pos="V">ruengiestidh</t>
             <xg>
-               <x>Det lukter god av rosa.</x>
+               <x>Det lukter godt av rosa.</x>
                <xt>Njaelkieslaakan råvseste ruengeste.</xt>
             </xg>
          </tg>
@@ -16977,8 +16975,8 @@ boelehtje!</xt>
             <re>intransitiv: å lukte av brunst (om grarein og  geitebukk)</re>
             <t pos="V">tjievriedidh</t>
             <xg>
-               <x>Tjievrede.</x>
-               <xt>Det lukter brunst.</xt>
+               <x>Det lukter brunst.</x>
+               <xt>Tjievrede.</xt>
             </xg>
          </tg>
       </mg>
@@ -16987,8 +16985,8 @@ boelehtje!</xt>
             <re>intransitiv: å lukte vondt eller stinke (f.eks fordervet mat)</re>
             <t pos="V">libnjiedidh</t>
             <xg>
-               <x>Daestie hov raaktan liebnjede!</x>
-               <xt>Det lukter nesten vondt av denne!</xt>
+               <x>Det lukter nesten vondt av denne.</x>
+               <xt>Daestie hov raaktan liebnjede.</xt>
             </xg>
          </tg>
       </mg>
@@ -20630,8 +20628,8 @@ boelehtje!</xt>
 	         <re>transitiv</re>
             <t class="IV" pos="V" vow="a">rontestidh</t>
             <xg>
-               <x>rontestem, Aanna jirreden båata</x>
-               <xt>jeg lurer på om Anna kommer i morgen</xt>
+               <x>Jeg lurer på om Anna kommer i morgen.</x>
+               <xt>Rontestem, Aanna jirreden båata.</xt>
             </xg>
          </tg>
       </mg>
@@ -28707,7 +28705,7 @@ boelehtje!</xt>
             <t class="IV" pos="V" umlaut="full" vow="x">marngestidh</t>
             <xg>
               <x>skinnet bøyer jeg over (kanten) og syr det (fast) på innersiden.</x>
-              <xt>dam skåerriem marngestem bijjelen jih sisnjielistie gåaroem.</xt>
+              <xt>dam skåerriem marngestem bijjelen jïh sisnjielistie gåaroem.</xt>
             </xg>
          </tg>
       </mg>
