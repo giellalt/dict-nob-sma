@@ -30,6 +30,20 @@ For the full license text, see the link above.</lic>
    </lics>
    <e>
       <lg>
+         <l pos="Adv">aller</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">ellen</t>
+            <xg>
+               <x>Pïere kom aller sist.</x>
+               <xt>Pïere ellen minngemes bööti.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="Adv">ferdig</l>
       </lg>
       <mg>
