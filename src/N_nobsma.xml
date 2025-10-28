@@ -30,6 +30,66 @@ For the full license text, see the link above.</lic>
    </lics>
    <e>
       <lg>
+         <l pos="N">lukt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">hopse</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">samfunnsfag</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">seabradahkefaage</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">forskningsarbeid</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">dotkemebarkoe</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">veileder</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">bïhkedæjja</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">lesesal</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">lohkemesavka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">spisesal</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">beapmoesavka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="N">innflytelse</l>
       </lg>
       <mg>
@@ -2661,6 +2721,7 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>to ganger</x>
                <xt>göökten aejkien</xt>
+               <xt>göökth</xt>
             </xg>
             <xg>
                <x>en eller annen gang</x>
@@ -12334,6 +12395,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">tjåanghkoe</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>for 2-6 personer</re>
+            <t pos="N">tjåahkoe</t>
          </tg>
       </mg>
    </e>
@@ -22565,6 +22632,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">læhkoe</t>
+            <t pos="N">aavre</t>
          </tg>
       </mg>
    </e>
@@ -25622,6 +25690,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">faaleldahke</t>
+            <xg>
+               <x>Kommunen har flere tilbud til barn.</x>
+               <xt>Tjïelten gellie faalenassh maanide.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -32124,11 +32196,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">Bibelen</l>
+         <l pos="N">bibel</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">tjaalege</t>
+            <t pos="N">bijpele</t>
          </tg>
       </mg>
    </e>
@@ -34225,6 +34297,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">tsælloe</t>
+            <t pos="N">irhkeme</t>
          </tg>
       </mg>
    </e>
@@ -43714,6 +43787,7 @@ For the full license text, see the link above.</lic>
     <mg>
       <tg xml:lang="sma">
         <t pos="N">kreekedåaktere</t>
+        <t pos="N">veterineere</t>
       </tg>
     </mg>
   </e>
@@ -48122,6 +48196,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
+        <t pos="N">veterineere</t>
         <t pos="N">kreekedåaktere</t>
       </tg>
     </mg>
