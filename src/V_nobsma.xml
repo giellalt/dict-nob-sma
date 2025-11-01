@@ -5652,11 +5652,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t class="IV" p3p="bæksa" pos="V" umlaut="full" vow="x">bïksedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t p3p="doerele" pos="V">doerelidh</t>
+            <xg>
+               <x>Grip den kalven!</x>
+               <xt>Bïksh doem miesiem!</xt>
+            </xg>
             <xg>
                <x>Grip sjansen!</x>
                <xt>Doerelh nuepiem!</xt>
@@ -5666,19 +5666,85 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t class="IV" p3p="dæjpa" pos="V" umlaut="full" vow="x">dïjpedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="VI" p3p="kreemsie" pos="V">kreemsedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t class="VI" pos="V" umlaut="F">dijpedh</t>
+            <xg>
+               <x>Ovla grep tollekniven.</x>
+               <xt>Ovla gulhkem dæjpa.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
+         <tg xml:lang="sma">
+	         <re>gripe etter</re>
+            <t pos="V">foepedidh</t>
+            <xg>
+               <x>Tante griper fort etter kaffekjelen.</x>
+               <xt>Seasa varki prïhtjhgiebniem foepede.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>ta tak i</re>
+            <t class="VI" p3p="kreemsie" pos="V">kreemsedh</t>
+            <xg>
+               <x>Han blei sint på meg og tok tak i meg rundt halsen.</x>
+               <xt>Munnjien måarahtovvi jïh tjovveste kreemsi.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>gripe fast i så man ikke faller</re>
+            <t class="V" pos="V">kreeptjedh</t>
+            <xg>
+               <x>Jeg måtte gripe tak i greina slik at jeg ikke falt i vannet.</x>
+               <xt>Manne tjoerim åekseste kreeptjedh juktie idtjim jaavran gahtjh.</xt>
+            </xg>
+         </tg>
+      </mg>
+       <mg>
+         <tg xml:lang="sma">
+	         <re>gripe med hendene</re>
+            <t pos="V">faagkadidh</t>
+            <xg>
+               <x>Han grep etter meg med hendene, og kastet meg i bekken.</x>
+               <xt>Dïhte mannem faagkedi, slijri dan johkese.</xt>
+            </xg>
+         </tg>
+      </mg>
+     <mg>
+         <tg xml:lang="sma">
+	         <re>gripe brutalt</re>
+            <t class="VI" pos="V">nïerhkedh</t>
+            <t class="VI" pos="V">nïetkedh</t>
+            <xg>
+               <x>Laara kom springende, og grep brutalt tak i meg.</x>
+               <xt>Laara bööti roehten jïh munnjien nïerhki.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>om rovfugl</re>
+            <t class="VI" pos="V" umlaut="F">kreeptsedh</t>
+            <xg>
+               <x>Ørna kom og grep den nyfødte kalven.</x>
+               <xt>Aarhtse bööti slïbnjehkem kreeptsi.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>bli grepet av uhygge eller redsel</re>
+            <t pos="V">alvesidh</t>
+            <xg>
+               <x>Jeg ble grepet av alvorlig uhygge da jeg hørte om ulykken.</x>
+               <xt>Manne alvesim gosse ovlæhkoen bïjre govlim.</xt>
+            </xg>
+         </tg>
+      </mg>
+<!--      <mg>
          <tg xml:lang="sma">
             <t pos="V">atnelidh</t>
          </tg>
@@ -5687,17 +5753,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="V">doebpelidh</t>
          </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">faagkadidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">foepedidh</t>
-         </tg>
-      </mg>
+      </mg> -->
    </e>
    <e>
       <lg>
@@ -8635,10 +8691,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="V">nierhkedidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="V">nïerhkelidh</t>
          </tg>
       </mg>
@@ -24844,26 +24896,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t class="IV" p3p="nearhka" pos="V" umlaut="full" vow="x">nïerhkedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t class="IV" p3p="neatka" pos="V" umlaut="full" vow="x">nïetkedh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
             <t p3p="voejhkele" pos="V">voejhkelidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">begynne på nytt igjen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="IV" p3p="neatka" pos="V" umlaut="full" vow="x">nïetkedh</t>
          </tg>
       </mg>
    </e>
