@@ -1624,16 +1624,27 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">kilde</l>
+         <l pos="N">jordvannskilde</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">aajege</t>
          </tg>
       </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kilde</l>
+      </lg>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">gaaltije</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+         <re>kilde med friskt vann, i eller på kanten av myr</re>
+            <t pos="N">aajege</t>
          </tg>
       </mg>
       <mg>
@@ -2143,6 +2154,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">aamhtese</t>
+            <t pos="N">aamhtse</t>
          </tg>
       </mg>
       <mg>
@@ -2162,6 +2174,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">aamhtese</t>
+            <t pos="N">aamhtse</t>
          </tg>
       </mg>
       <mg>
@@ -3087,9 +3100,19 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t pos="N">aevhkie</t>
             <xg>
-               <x>Til hvilken nytte er det? Hvis du har informasjon som du tror er til fordel for oss...</x>
-               <xt>Mïsse dïhte aevhkie? Jis dov lea bïevnesh maam vïenhth leah mijjese aevhkie...</xt>
+               <x>Til hvilken nytte er det?</x>
+               <xt>Mïsse dïhte aevhkie?</xt>
             </xg>
+            <xg>
+               <x>Hvis du har informasjon som du tror er til fordel for oss...</x>
+               <xt>Jis dov lea bïevnesh maam vïenhth leah mijjese aevhkie...</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">nåhtoe</t>
+            <t pos="N">nåhta</t>
          </tg>
       </mg>
    </e>
