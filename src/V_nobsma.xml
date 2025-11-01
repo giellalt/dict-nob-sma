@@ -18150,31 +18150,89 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">vende om</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="III" p3p="jarkoe" pos="V">jarkedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">vende</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+	         <re>intrasitiv: vende om</re>
+            <t class="III" pos="V">jarkedh</t>
+            <xg>
+               <x>Vend tilbake!</x>
+               <xt>Jarkah bååstide!</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>intrasitiv: vende om plutselig</re>
+            <t class="III" pos="V">jerkiehtidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>vende seg om</re>
+            <t class="IV" pos="V">jårredh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>vende seg plutselig om</re>
+            <t p3p="jårrele" pos="V">jårrelidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>transitiv: vende noe</re>
             <t pos="V">jarkelidh</t>
+            <t class="I" pos="V">jarkelehtedh</t>
+            <t class="I" pos="V">jarkeldehtedh</t>
+            <xg>
+               <x>vende reinflokken helt om</x>
+               <xt>bovtsem jarkelidh</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t class="I" pos="V" umlaut="A">jarkeldehtedh</t>
+	         <re>vende noe så den andre siden kommer opp</re>
+             <t p3p="jårrehte" pos="V">jårrehtidh</t>            
+             <t pos="V">jarkelidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t class="I" pos="V" umlaut="A">jarkelehtedh</t>
+	         <re>vende noe</re>
+             <t class="VI" pos="V">steegledh</t>            
+             <xg>
+               <x>vende skohøy (som er lagt til tørk)</x>
+               <xt>suejnieh steegledh</xt>
+            </xg>
+        </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>vende hit og dit</re>
+             <t class="IV" pos="V">jårrehtalledh</t>            
+            <xg>
+               <x>Laara vender hodet hit og dit.</x>
+               <xt>Laara åejjiem jårrehtalla.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>vende tilbake</re>
+            <t class="IV" pos="V">maahtsedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>transitiv: få til å vende tilbake</re>
+            <t class="I" pos="V">jarkestehtedh</t>
+            <xg>
+               <x>Jeg fikk Laara til å komme tilbake.</x>
+               <xt>Manne Laaram jarkestehtijim.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -19301,17 +19359,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t p3p="jårrehte" pos="V">jårrehtidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">vende seg om</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-	         <re>plutselig</re>
-            <t p3p="jårrele" pos="V">jårrelidh</t>
          </tg>
       </mg>
    </e>
@@ -21940,6 +21987,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <t class="II" pos="V" umlaut="C">mådtsodh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
             <t pos="V">madtsastidh</t>
          </tg>
       </mg>
@@ -21957,11 +22009,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t diph="yes" p3p="madtseste" pos="V">mådtsoestidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="II" pos="V" umlaut="C">mådtsodh</t>
          </tg>
       </mg>
       <mg>
@@ -22062,16 +22109,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="V">marngasidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">vende tilbake</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="IV" p3p="marnga" pos="V" vow="a">jarkelidh</t>
          </tg>
       </mg>
    </e>
