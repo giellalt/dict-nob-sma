@@ -35136,21 +35136,32 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t diph="yes" p3p="åenede" pos="V">åeniedidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="V">åeniemdidh</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">gjøre kortere</l>
+         <l pos="V">kose</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t diph="yes" p3p="åenede" pos="V">åeniedidh</t>
+	         <re>kose seg, ha det hyggelig</re>
+            <t pos="V">murriedidh</t>
+            <xg>
+               <x>I kveld skal vi kose oss.</x>
+               <xt>Dan iehkeden edtjebe murriedidh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>kose med, stryke og klappe</re>
+            <t pos="V">daajesjidh</t>
+            <xg>
+               <x>Jeg koser med hunden.</x>
+               <xt>Manne bïenjine daajesjem.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
