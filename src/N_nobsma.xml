@@ -36958,6 +36958,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">åeremesijjie</t>
+            <xg>
+               <x>Min soveplass i kåten er nærmest arnen.</x>
+               <xt>Mov åeremesijjie gåetesne duvvelde.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -36968,6 +36972,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">åeremetjïehtjele</t>
+            <xg>
+               <x>Vi har tre soverom i huset.</x>
+               <xt>Mijjen golme åeremetjïehjelh gåetesne.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -36988,6 +36996,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">åeremevoesse</t>
+            <xg>
+               <x>Husk å ta med deg sovepose.</x>
+               <xt>Mujhtieh åeremevoessem meatan vaeltedh.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
