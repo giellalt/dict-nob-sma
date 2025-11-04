@@ -10778,6 +10778,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
 	         <re>brått og uventet</re>
             <t diph="yes" pos="V">jaemielidh</t>
+            <xg>
+               <x>Han døde i ung alder.</x>
+               <xt>Dïhte noerine jaemieli.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -19627,6 +19631,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="V">jïjjedidh</t>
+            <xg>
+               <x>Tannen gjør stadig vondt.</x>
+               <xt>Baenie jæjla.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -19643,7 +19651,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t class="IV" pos="V" umlaut="full" vow="x">jïjledh</t>
             <xg>
-               <x>Tannen gjør stadig vondt.</x>
+               <x>Tanna gjør stadig vondt.</x>
                <xt>Baenie jæjla.</xt>
             </xg>
          </tg>
@@ -23438,7 +23446,55 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
+	         <re>sovne, om flere personer</re>
+            <t class="IV" pos="V" umlaut="D">nahkesalledh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>sovne plutselig</re>
+            <t class="I" pos="V">nahkestestedh</t>
+            <t class="I" pos="V">åarajistedh</t>
+            <t pos="V">jemhkiehtidh</t>
+            <xg>
+               <x>Den lille gutten sovnet plutselig mens han spiste.</x>
+               <xt>Baarnetje nahkestehti gosse byöpmedi.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>sovne igjen</re>
+            <t pos="V">ejjiedidh</t>
+            <t pos="V">ejjiemdidh</t>
+            <xg>
+               <x>Heldigvis sovnet jeg igjen denne natta.</x>
+               <xt>Manne maaje ejjiedim vihth daan jïjjen.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>få til å sovne</re>
+            <t class="I" pos="V" umlaut="full" vow="x">åarajehtedh</t>
+            <xg>
+               <x>Jeg skal få barnet til å sove.</x>
+               <xt>Manne edtjem maanam åarajehtedh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t class="I" pos="V" umlaut="A">nahkestehtedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
             <t p3p="åarije" pos="V">åarajidh</t>
+            <xg>
+               <x>Det var vanskelig å få barnet til å sovne.</x>
+               <xt>Geerve maanetjem åarajehtedh.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -23448,16 +23504,27 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t class="IV" pos="V" umlaut="D">nahkesalledh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
 	         <re>dovne bort</re>
             <t pos="V">båvvasidh</t>
             <xg>
                <x>Foten sovnet.</x>
                <xt>Juelkie båvvasi.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">dovne bort</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="V">båvvasidh</t>
+            <t class="IV" pos="V">jaamaldovvedh</t>
+            <t class="IV" pos="V">jaamalgovvedh</t>
+            <xg>
+               <x>Foten dovnet bort.</x>
+               <xt>Juelkie jaamaldovvi/båvvasi.</xt>
             </xg>
          </tg>
       </mg>
@@ -35020,25 +35087,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">få til å sovne</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="I" pos="V" umlaut="full" vow="x">åarajehtedh</t>
-            <xg>
-               <x>Jeg skal få barnet til å sove.</x>
-               <xt>Manne edtjem maanam åarajehtedh.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="I" pos="V" umlaut="A">nahkestehtedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Phrase">få noen til å kjede seg</l>
       </lg>
       <mg>
@@ -35048,16 +35096,6 @@ For the full license text, see the link above.</lic>
                <x>Du kjeder jo nesten gjestene dine!</x>
                <xt>Datne hov raaktan åarajahtah dejtie dov guesside!</xt>
             </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">ta til å sove</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t p3p="åarije" pos="V">åarajidh</t>
          </tg>
       </mg>
    </e>
@@ -35123,12 +35161,138 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t class="I" p3p="åara" pos="V" umlaut="full" vow="x">åeredh</t>
+            <t class="I" pos="V">åedijh</t>
             <xg>
-               <x>Piere sover.</x>
-               <xt>Piere åara.</xt>
+               <x>Barna sover.</x>
+               <xt>Maanah åereminie.</xt>
             </xg>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>sove en liten stund, sove litt nå og da</re>
+            <t class="IV" pos="V">åarehtjadtedh</t>
+            <xg>
+               <x>Hun skulle bare sove en liten stund.</x>
+               <xt>Dïhte edtji berre åarehtjadtedh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>sove litt, en liten stund</re>
+            <t class="I" pos="V">nahkestestedh</t>
+            <t pos="V">åeriestidh</t>
+            <xg>
+               <x>Jeg skal sove en liten stund før jeg drar.</x>
+               <xt>Manne edtjem nahkestestedh eannan vualkam.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>overnatte</re>
+            <t pos="V">jïjjedidh</t>
+            <xg>
+               <x>Vi skulle sove ute den natta.</x>
+               <xt>Mijjieh edtjimh ålkone jïjjedidh dan jïjjen.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>sove trygt, med god samvittighet</re>
+            <t pos="V">sïepestidh</t>
+            <xg>
+               <x>Nå kan han sove med god samvittighet.</x>
+               <xt>Dïhte daelie maahta sïepestidh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>ta seg en liten blund</re>
+            <t class="I" pos="V">skupmestidh</t>
+            <t class="I" pos="V">ejjiedestedh</t>
+            <xg>
+               <x>Det er godt å ta seg en høneblund når man er sliten.</x>
+               <xt>Njaelkies skupmestidh gosse sæjloes.</xt>
+            </xg>
+            <xg>
+               <x>Jeg vil ta meg en liten blund.</x>
+               <xt>Manne sïjhtem ejjiedestedh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>døse</re>
+            <t pos="V">njassedidh</t>
+            <t class="IV" pos="V">njassedh</t>
+            <xg>
+               <x>Bror tar seg en liten blund før han igjen drar til gjerde.</x>
+               <xt>Vïelle njassa eannan geadtan vihth vualka.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>døse</re>
+            <t pos="V">savsesjidh</t>
+            <t pos="V">såvsajidh</t>
+            <xg>
+               <x>Søster ligger bare og døser.</x>
+               <xt>Åabpa berre såvsesjeminie.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>få noen til å sove</re>
+            <t class="I" pos="V">nahkestehtedh</t>
+            <xg>
+               <x>Jeg skal få min lille sønn til å sove nå.</x>
+               <xt>Manne edtjem mov baarnetje nahkestehtedh daelie.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>en som sover</re>
+            <t pos="N">åerije</t>
+            <xg>
+               <x>Mamma sover lett.</x>
+               <xt>Tjidtjie lea geehpes åerije.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>en som sover tungt, er søvnig</re>
+            <t pos="N">sovse</t>
+            <t pos="N">såvsoe</t>
+            <t pos="N">savsa</t>
+            <xg>
+               <x>Denne mannen sover mye.</x>
+               <xt>Daate ålma lea berre sovse.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>en som sover urolig, har mareritt</re>
+            <t pos="A">tjaaradihks</t>
+            <xg>
+               <x>Min lille jente hadde mareritt, og sov urolig i natt.</x>
+               <xt>Mov tjaaradihks nyöjtetje daan jïjjen.</xt>
+            </xg>
+         </tg>
+      </mg>
+    <ig>
+      <i>Den som sover, synder ikke.</i>
+      <id>asdf</id>
+      <it>Åerije ij sådtodh.</it>
+    </ig>
    </e>
    <e>
       <lg>
@@ -36907,21 +37071,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t class="I" pos="V" umlaut="A">meksiehtestedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">sove litt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="I" pos="V" umlaut="A">nahkestestedh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">åeriestidh</t>
          </tg>
       </mg>
    </e>
@@ -45675,21 +45824,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="V">eejselidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">sovne igjen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">ejjiedidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">ejjiemdidh</t>
          </tg>
       </mg>
    </e>
