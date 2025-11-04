@@ -12062,6 +12062,16 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
+	     <re>enkeltsko</re>
+            <t pos="N">gaamehbielie</t>
+            <xg>
+               <x>Da jeg skulle til skolen, fant jeg bare den ene skoen.</x>
+               <xt>Goh edtjim skuvlese, dle barre gaamehbieliem gaavnim.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
 	     <re>vintersko</re>
             <t pos="N">daelviegaamege</t>
          </tg>
@@ -12090,10 +12100,24 @@ For the full license text, see the link above.</lic>
             <t pos="N">vaarremegaamege</t>
          </tg>
       </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">bekksømsko</l>
+      </lg>
       <mg>
          <tg xml:lang="sma">
-	     <re>hestesko, sko til hesten</re>
-            <t pos="N">skoeve</t>
+            <t pos="N">laedtienskåave</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">hestesko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">hierkienskåave</t>
          </tg>
       </mg>
    </e>
