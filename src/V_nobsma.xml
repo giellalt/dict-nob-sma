@@ -2815,7 +2815,7 @@ For the full license text, see the link above.</lic>
             <t diph="yes" minip="notSg1" p3p="berkeste" pos="V">berkiestidh</t>
             <xg>
                <x>det stiger røyk opp fra kåta</x>
-               <xt>gåetie-rïehpenistie berkeste</xt>
+               <xt>gåetie-riehpienistie berkeste</xt>
             </xg>
          </tg>
       </mg>
@@ -3158,10 +3158,10 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t class="I" p3p="beasta" pos="V" umlaut="full" vow="x">biestelidh</t>
+            <t class="I" p3p="beasta" pos="V" umlaut="full" vow="x">biestielidh</t>
             <xg>
                <x>mista koppen plutselig i gulvet</x>
-               <xt>gualpan kåahpem biestili</xt>
+               <xt>gualpan kåahpem biestieli</xt>
             </xg>
          </tg>
       </mg>
@@ -5718,7 +5718,7 @@ For the full license text, see the link above.</lic>
             <t pos="V">faagkadidh</t>
             <xg>
                <x>Han grep etter meg med hendene, og kastet meg i bekken.</x>
-               <xt>Dïhte mannem faagkedi, slijri dan johkese.</xt>
+               <xt>Dïhte mannem faagkadi, slijri dan johkese.</xt>
             </xg>
          </tg>
       </mg>
@@ -12200,7 +12200,7 @@ For the full license text, see the link above.</lic>
             <t class="II" p3p="gojre" pos="V" umlaut="full" vow="x">hojhkesjidh</t>
             <xg>
                 <x>Trollkjerringa hørte hvordan mannen skrek av smerte; så hun skulle ta ut øynene sine fra skapet sitt, men hun fant dem ikke.</x>
-                <xt>Rovhtege govli, sov geelle eelki hojhkesjidh; dle varki galki maaje tjelmide vaeltedh dehtie sov vuarhkeste, men idtji annje gaavneh gænnah.</xt>
+                <xt>Rovhtege govli, sov geelle eelki hojhkesjidh; dle varki galki maaje tjelmide vaeltedh dehtie sov vuarhkeste, men idtji annje gaavnh gænnah.</xt>
             </xg>
          </tg>
       </mg>
@@ -17295,8 +17295,8 @@ For the full license text, see the link above.</lic>
             <re>begynne å bjeffe</re>
             <t class="II" context="3pers" pos="V" umlaut="full" vow="x">röökedh</t>
             <xg>
-               <x>plutselig satte den i å gjø.</x>
-               <xt>fahketji dle rööki.</xt>
+               <x>Plutselig satte den i å gjø.</x>
+               <xt>Faahketji dle rööki.</xt>
             </xg>
          </tg>
       </mg>
@@ -18323,6 +18323,71 @@ For the full license text, see the link above.</lic>
             <t pos="V">jorkesidh</t>
             <t class="IV" pos="V" umlaut="full" vow="x">jorkestovvedh</t>
             <t class="IV" pos="V" umlaut="full" vow="x">jeatjahtovvedh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">innstille</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>justere</re>
+            <t class="IV" pos="V">sjïehtesjidh</t>
+            <xg>
+               <x>TV:m sjïehtesjidh</x>
+               <xt>innstille TVen</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>ha en viss holdning til</re>
+            <t class="IV" pos="V">eajhnadovvedh</t>
+            <xg>
+               <x>Både norske og svenske myndigheter innstilt på å ratifisere og iverksette konvensjonen.</x>
+               <xt>Dovne Nöörje jïh Sveerjen åejvieladtjh eajhnaduvvieh konvensjovnem ratifiseeredh jïh sjïehtesjidh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>belage seg på</re>
+            <t class="IV" pos="V">darjodh</t>
+            <xg>
+               <x>innstille seg på at streiken blir lang</x>
+               <xt>ryöjredidh dïsse, daate streike guhkie sjædta</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>anbefale</re>
+            <t class="IV" pos="V">raeriestidh</t>
+            <xg>
+               <x>Vi har innstilt Laara som første kandidat.</x>
+               <xt>Mijjieh libie raeriestamme Laara galka voestes kandidaatem årrodh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>stoppet</re>
+            <t class="IV" pos="V">galhkedh</t>
+            <xg>
+               <x>Bedriften må innstille aktivitetene.</x>
+               <xt>Sïelte tjoevere darjoemidie galhkedh.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>avlyse</re>
+            <t class="IV" pos="V">tjöödtjestehtedh</t>
+            <xg>
+               <x>På grunn av sykdom blir undervisningen innstilt.</x>
+               <xt>Skïebtjemen gaavhtan tjoevere lohkehtimmiem tjöödtjestehtedh.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -28774,8 +28839,8 @@ For the full license text, see the link above.</lic>
 	         <re>transitiv: bøye noe plutselig (hale, tuppen på ski etc.)</re>
             <t class="IV" pos="V" umlaut="full" vow="x">nijvestidh</t>
             <xg>
-              <x>bøyer og vifter plutselig med halen.</x>
-              <xt>fahketji batjkam nijveste.</xt>
+              <x>bøyer og vifter plutselig med halen</x>
+              <xt>faahketji batjkam nijveste</xt>
             </xg>
          </tg>
       </mg>
@@ -35262,7 +35327,7 @@ For the full license text, see the link above.</lic>
             <t pos="V">gïertedh</t>
             <xg>
                <x>Unnskyld, kunne du si meg veien til byen?</x>
-               <xt>Gïerth mannem, datne gæjnoem voenese buerkesth?</xt>
+               <xt>Gïerth mannem, datne geajnoem voenese buerkesth?</xt>
             </xg>
          </tg>
       </mg>
