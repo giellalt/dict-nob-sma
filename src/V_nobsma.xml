@@ -5677,8 +5677,8 @@ For the full license text, see the link above.</lic>
             <t class="IV" p3p="dæjpa" pos="V" umlaut="full" vow="x">dïjpedh</t>
             <t class="VI" pos="V" umlaut="F">dijpedh</t>
             <xg>
-               <x>Ovla grep tollekniven.</x>
-               <xt>Ovla gulhkem dæjpa.</xt>
+               <x>Ovlla grep tollekniven.</x>
+               <xt>Ovlla gulhkem dæjpa.</xt>
             </xg>
          </tg>
       </mg>
@@ -11083,7 +11083,7 @@ For the full license text, see the link above.</lic>
             <t class="III" pos="V">garkedh</t>
             <xg>
                <x>Det drypper jo herfra.</x>
-               <xt>Daestie hov garka.</xt>
+               <xt>Daestie hov garkoe.</xt>
             </xg>
          </tg>
       </mg>
@@ -13450,7 +13450,7 @@ For the full license text, see the link above.</lic>
             <t diph="yes" pos="V">sæjloedehtedh</t>
             <xg>
                <x>Du tretter meg neste regelrett ut.</x>
-               <xt>Datne raaktan mannem sæjloehdahtah.</xt>
+               <xt>Datne raaktan mannem sæjloedahtah.</xt>
             </xg>
          </tg>
       </mg>
@@ -14748,12 +14748,12 @@ For the full license text, see the link above.</lic>
 	      <re>intransitivː noe som velter</re>
             <t p3p="gåpmene" pos="V">gåpmanidh</t>
             <xg>
-               <x>kagga velter.</x>
-               <xt>Geegke gåpmane.</xt>
+               <x>Kagga velter.</x>
+               <xt>Geegke gåpmene.</xt>
             </xg>
             <xg>
-               <x>kaffekjelen gled av stangen for meg og veltet.</x>
-               <xt>kaaffe-giebnie njabpesti dehtie mov snagleste jïh gåpmani.</xt>
+               <x>Kaffekjelen gled av stangen for meg og veltet.</x>
+               <xt>Kaaffe-giebnie njabpesti dehtie mov snagleste jïh gåpmani.</xt>
             </xg>
          </tg>
       </mg>
@@ -16996,7 +16996,7 @@ For the full license text, see the link above.</lic>
             <t class="I" p3p="hapsa" pos="V" umlaut="full" vow="x">hepsedh</t>
             <xg>
                <x>Jeg lukter gress.</x>
-               <xt>Mun kraesieh hepsem</xt>
+               <xt>Manne kraesieh hapsam.</xt>
             </xg>
          </tg>
       </mg>
@@ -17047,7 +17047,7 @@ For the full license text, see the link above.</lic>
             <t pos="V">libnjiedidh</t>
             <xg>
                <x>Det lukter nesten vondt av denne.</x>
-               <xt>Daestie hov raaktan liebnjede.</xt>
+               <xt>Daestie hov raaktan libnjede.</xt>
             </xg>
          </tg>
       </mg>
@@ -18292,7 +18292,7 @@ For the full license text, see the link above.</lic>
             <t class="I" pos="V">jarkestehtedh</t>
             <xg>
                <x>Jeg fikk Laara vende tilbake.</x>
-               <xt>Manne Laaram jarkestehtijim.</xt>
+               <xt>Manne Laaram jarkestehtim.</xt>
             </xg>
          </tg>
       </mg>
@@ -18333,10 +18333,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
 	         <re>justere</re>
-            <t class="IV" pos="V">sjïehtesjidh</t>
+            <t pos="V">sjïehtesjidh</t>
             <xg>
-               <x>TV:m sjïehtesjidh</x>
-               <xt>innstille TVen</xt>
+               <x>innstille TVen</x>
+               <xt>TV:m sjïehtesjidh</xt>
             </xg>
          </tg>
       </mg>
@@ -18353,7 +18353,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re>belage seg på</re>
-            <t class="IV" pos="V">darjodh</t>
+            <t class="II" pos="V">darjodh</t>
             <xg>
                <x>innstille seg på at streiken blir lang</x>
                <xt>ryöjredidh dïsse, daate streike guhkie sjædta</xt>
@@ -18363,7 +18363,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re>anbefale</re>
-            <t class="IV" pos="V">raeriestidh</t>
+            <t pos="V">raeriestidh</t>
             <xg>
                <x>Vi har innstilt Laara som første kandidat.</x>
                <xt>Mijjieh libie raeriestamme Laara galka voestes kandidaatem årrodh.</xt>
@@ -18373,7 +18373,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re>stoppet</re>
-            <t class="IV" pos="V">galhkedh</t>
+            <t class="III" pos="V">galhkedh</t>
             <xg>
                <x>Bedriften må innstille aktivitetene.</x>
                <xt>Sïelte tjoevere darjoemidie galhkedh.</xt>
@@ -18383,7 +18383,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re>avlyse</re>
-            <t class="IV" pos="V">tjöödtjestehtedh</t>
+            <t class="I" pos="V">tjöödtjestehtedh</t>
             <xg>
                <x>På grunn av sykdom blir undervisningen innstilt.</x>
                <xt>Skïebtjemen gaavhtan tjoevere lohkehtimmiem tjöödtjestehtedh.</xt>
