@@ -4296,12 +4296,18 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-	         <re>framstille, veilede</re>
+	         <re>framstille, skildre</re>
             <t diph="yes" pos="V">buerkiestidh</t>
             <xg>
                <x>Kan du beskrive hvordan lua ser ut?</x>
                <xt>Maahtah buerkiestidh guktie tjohpe vååjnoe?</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>veilede</re>
+            <t diph="yes" pos="V">bïhkedidh</t>
             <xg>
                <x>Bestemor beskriver hvordan man skal strikke sokker.</x>
                <xt>Aahka mannem bïhkede guktie guapah gurredh.</xt>
