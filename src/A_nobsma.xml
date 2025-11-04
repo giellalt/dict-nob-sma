@@ -1829,6 +1829,25 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
+         <l pos="A">koselig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A">lustes</t>
+            <t pos="A">tråjjes</t>
+            <xg>
+               <x>I morgen blir det en hyggelig dag på skolen.</x>
+               <xt>Jirreden lustes biejjie skuvlesne sjädta.</xt>
+            </xg>
+            <xg>
+               <x>Jeg har fått det så koselig.</x>
+               <xt>Manne dan tråjjes åådtjeme.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="A">nødvendig</l>
       </lg>
       <mg>
