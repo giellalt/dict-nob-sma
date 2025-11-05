@@ -35226,7 +35226,7 @@ For the full license text, see the link above.</lic>
             <t class="I" pos="V">skupmestidh</t>
             <t class="I" pos="V">ejjiedestedh</t>
             <xg>
-               <x>Det er godt å ta seg en høneblund når man er sliten.</x>
+               <x>Det er godt å ta seg en blund når man er sliten.</x>
                <xt>Njaelkies skupmestidh gosse sæjloes.</xt>
             </xg>
             <xg>
@@ -35243,17 +35243,6 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Bror tar seg en liten blund før han igjen drar til gjerde.</x>
                <xt>Vïelle njassa eannan geadtan vihth vualka.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-	         <re>døse</re>
-            <t pos="V">savsesjidh</t>
-            <t pos="V">såvsajidh</t>
-            <xg>
-               <x>Søster ligger bare og døser.</x>
-               <xt>Åabpa berre såvsesjeminie.</xt>
             </xg>
          </tg>
       </mg>
@@ -47878,7 +47867,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
          <re>ligge og døse</re>
             <t pos="V">savsesjidh</t>
-            <t pos="V">såvsasjidh</t>
+            <t pos="V">såvsajidh</t>
+            <xg>
+               <x>Søster ligger bare og døser.</x>
+               <xt>Åabpa berre såvsesjeminie.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
