@@ -15966,17 +15966,6 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-         <re>ligge og døse</re>
-            <t pos="V">såvsasjidh</t>
-            <t pos="V">savsesjidh</t>
-            <xg>
-               <x>Ligge og døse i solskinnet.</x>
-               <xt>Biejjh-guakoen såvsasjidh.</xt> 
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
          <re>ligge på lur</re>
             <t pos="V">njaakedidh</t>
          </tg>
@@ -35170,6 +35159,7 @@ For the full license text, see the link above.</lic>
          <l pos="V">sove</l>
       </lg>
       <mg>
+	      <l_ref>døse_v</l_ref>
          <tg xml:lang="sma">
             <t class="I" p3p="åara" pos="V" umlaut="full" vow="x">åeredh</t>
             <t class="I" pos="V">åedijh</t>
@@ -47871,6 +47861,10 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Søster ligger bare og døser.</x>
                <xt>Åabpa berre såvsesjeminie.</xt>
+            </xg>
+            <xg>
+               <x>Ligge og døse i solskinnet.</x>
+               <xt>Biejjh-guakoen såvsasjidh.</xt> 
             </xg>
          </tg>
       </mg>
