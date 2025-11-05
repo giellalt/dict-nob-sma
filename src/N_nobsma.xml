@@ -109,8 +109,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
 	        <re>handelsvarer</re> 
-            <t pos="V">vaaroe</t>
-            <t pos="V">vaara</t>
+            <t pos="N">vaaroe</t>
             <xg>
                <x>Pappa pakket varene fort i sekken og dro hjem</x>
                <xt>Aehtjie varki vaaroeh voessen sïjse tsagkesti jïh gåetide vöölki</xt>
@@ -27176,7 +27175,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
 	       <re>ha mageknip</re>  
-            <t pos="V">tj</t>
+            <t pos="V">skirmieldidh</t>
          </tg>
       </mg>
    </e>
@@ -67642,7 +67641,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">paprïjhke</t>
+            <t pos="N">paprika</t>
          </tg>
       </mg>
    </e>
