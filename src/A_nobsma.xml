@@ -177,7 +177,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A">guassastalledh</t>
+            <t pos="V">guassastalledh</t>
             <xg>
                <x>Du behøver ikke være beskjeden på grunn av meg.</x>
                <xt>Ih daarpesjh mov gaavhtan guassastalledh.</xt>
@@ -187,7 +187,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
 	         <re>om barn og ungdom</re>
-            <t pos="A">dogkestalledh</t>
+            <t pos="V">dogkestalledh</t>
             <xg>
                <x>Jenta stod beskjeden ved matbordet, hun torde ikke øse av maten.</x>
                <xt>Nïejtetje jis buertiebealesne dogkestalleminie, idtji doesth beapmojste gåajvodh.</xt>
@@ -197,7 +197,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
 	         <re>om gjester</re>
-            <t pos="A">kruassjasjidh</t>
+            <t pos="V">kruassjasjidh</t>
          </tg>
       </mg>
    </e>
@@ -233,7 +233,7 @@ For the full license text, see the link above.</lic>
       </mg>
        <mg>
          <tg xml:lang="sma">
-            <t pos="A">baenhtsesne</t>
+            <t pos="Adv">baenhtsesne</t>
          </tg>
       </mg>
       <mg>
@@ -3040,7 +3040,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A">bajhketrehpesne</t>
+            <t pos="Adv">bajhketrehpesne</t>
             <xg>
                <x>Jeg er bæsjetrengt (egtl. jeg må skite).</x>
                <xt>Manne bajhketrehpesne.</xt>
@@ -8764,8 +8764,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="A">bijjie</t>
-        <t pos="A">bijjemes</t>
+        <t pos="A">bijjies</t>
       </tg>
     </mg>
   </e>
@@ -10029,7 +10028,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A">aajnereerije</t>
+            <t pos="N">aajnereerije</t>
          </tg>
       </mg>
    </e>
