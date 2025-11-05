@@ -16542,22 +16542,34 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
+            <re>lene seg, legge seg</re>
             <t p3p="veelede" pos="V">veeledidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+	         <re>legge seg for å sove</re>
             <t p3p="åarije" pos="V">åarajidh</t>
+            <t class="VI" pos="V" umlaut="F">jitnedh</t>
             <xg>
                <x>Gå og legg deg!</x>
                <xt>Vaedtsieh dellie åarajidh!</xt>
             </xg>
-         </tg>
+             <xg>
+               <x>Nå må barna legge seg for å sove.</x>
+               <xt>Daelie tjuerieh maanah åarajidh.</xt>
+            </xg>
+        </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t class="VI" pos="V" umlaut="F">jitnedh</t>
-         </tg>
+	         <re>skynde seg å legge seg for å sove</re>
+            <t class="I" pos="V">åarajistedh</t>
+            <xg>
+               <x>Skynd deg og legg deg nå!</x>
+               <xt>Åarajisth daelie!</xt>
+            </xg>
+        </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
@@ -23470,6 +23482,10 @@ For the full license text, see the link above.</lic>
                <x>Jeg skal få barnet til å sove.</x>
                <xt>Manne edtjem maanam åarajehtedh.</xt>
             </xg>
+            <xg>
+               <x>Det var vanskelig å få barnet til å sovne.</x>
+               <xt>Geerve maanetjem åarajehtedh.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -23479,17 +23495,24 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
+	         <re>legge seg for å sovne</re>
             <t p3p="åarije" pos="V">åarajidh</t>
-            <xg>
-               <x>Det var vanskelig å få barnet til å sovne.</x>
-               <xt>Geerve maanetjem åarajehtedh.</xt>
+            <t class="VI" pos="V" umlaut="F">jitnedh</t>
+             <xg>
+               <x>Nå må barna legge seg for å sove.</x>
+               <xt>Daelie tjuerieh maanah åarajidh.</xt>
             </xg>
-         </tg>
+        </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t class="I" pos="V" umlaut="A">åarajistedh</t>
-         </tg>
+	         <re>skynde seg å legge seg for å sonve</re>
+            <t class="I" pos="V">åarajistedh</t>
+            <xg>
+               <x>Skynd deg og legg deg nå!</x>
+               <xt>Åarajisth daelie!</xt>
+            </xg>
+        </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
