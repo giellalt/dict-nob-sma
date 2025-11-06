@@ -14353,6 +14353,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <t pos="N">ovlæhkoe</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
             <t pos="N">goerpe</t>
             <xg>
                <x>Det var da uheldig.</x>
@@ -58021,6 +58026,36 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="sma">
         <t pos="N">noerehïejme</t>
         <t pos="N">noerebaeliegåetie</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">varamedlem</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sma">
+        <t pos="N">sæjjasadtje</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">stedfortreder</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sma">
+        <t pos="N">sæjjasadtje</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">ungdomstid</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sma">
+        <t pos="N">noerebaelie</t>
       </tg>
     </mg>
   </e>

@@ -376,6 +376,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="A">aajnehke</t>
+            <t pos="A">aajne</t>
          </tg>
       </mg>
    </e>
@@ -8833,6 +8834,26 @@ For the full license text, see the link above.</lic>
   </e>
   <e>
     <lg>
+      <l pos="A">tilknyttet</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sma">
+        <t pos="A">veadtaldihkie</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A">tjoret</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sma">
+        <t pos="A">veadtaldihkie</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
       <l pos="A" src="fad">bevisst</l>
     </lg>
     <mg>
@@ -10193,6 +10214,16 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="sma">
             <t pos="A">sadteres</t>
+         </tg>
+      </mg>
+   </e>
+   <e note="betyr opprinnelig upraktisk" src="gg">
+      <lg>
+         <l pos="A">stedfortredende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A">sæjjasadtje</t>
          </tg>
       </mg>
    </e>
