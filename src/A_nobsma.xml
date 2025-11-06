@@ -2342,17 +2342,21 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
+         <l pos="A">tøff</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A">mavvas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="A">modig</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A">eadtjohke</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-	         <re>på en modig måte</re>
-            <t pos="Adv">eadtjohkelaakan</t>
+            <t pos="A">mavvas</t>
          </tg>
       </mg>
    </e>
@@ -6752,6 +6756,11 @@ For the full license text, see the link above.</lic>
                <x>Du er da flittig!</x>
                <xt>Datne maa vïssjele!</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="A">eadtjohke</t>
          </tg>
       </mg>
       <mg>
