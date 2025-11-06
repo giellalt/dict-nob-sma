@@ -443,15 +443,5 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e> 
-   <e>
-      <lg>
-         <l t_type="expl" pos="Phrase">simla og kalven grynter når de kaller på hverandre</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t class="IV" context="3pers" minip="notSg1" p3p="råavka" pos="V" vow="åa">råavkedh</t>
-         </tg>
-      </mg>
-   </e>
    <xhtml:script xmlns:xhtml="http://www.w3.org/1999/xhtml" src="../../giella-core/dicts/scripts/gt_dictionary.js" type="text/javascript"/>
 </r>

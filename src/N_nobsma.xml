@@ -707,7 +707,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Xxx">vijrije almetjh</t>
+            <t pos="Phrase">vijrije almetjh</t>
          </tg>
       </mg>
    </e>
@@ -717,7 +717,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Xxx">vijrije almetjh</t>
+            <t pos="Phrase">vijrije almetjh</t>
          </tg>
       </mg>
    </e>
@@ -1152,7 +1152,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
 	         <re>generelt: folk, flertall</re>
-            <t pos="N">almetjh</t>
+            <t nr="Pl" pos="N">almetjh</t>
          </tg>
       </mg>
    </e>
@@ -22710,7 +22710,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">tjaaleldahke</t>
+            <t pos="N">tjaalaldahke</t>
          </tg>
       </mg>
    </e>
@@ -32289,11 +32289,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">tjaaladahke</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">tjaaleldahke</t>
          </tg>
       </mg>
    </e>
@@ -43503,7 +43498,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">aamhtesetjaaleldahke</t>
+        <t pos="N">aamhtesetjaalaldahke</t>
         <t pos="N">aamhtesetjaatsege</t>
       </tg>
     </mg>
@@ -45363,7 +45358,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">guektiengïelendåarjoe</t>
+        <t pos="N">guektiengïelehdåarjege</t>
       </tg>
     </mg>
   </e>
@@ -48060,7 +48055,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">eejhteges</t>
+        <t pos="N">eejhtege</t>
       </tg>
     </mg>
   </e>
@@ -53196,7 +53191,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">biejjege</t>
+        <t pos="Adv">biejjege</t>
       </tg>
     </mg>
   </e>
@@ -59954,7 +59949,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">beetneh-vadtese</t>
+        <t pos="N">beetnehvadtese</t>
       </tg>
     </mg>
   </e>
@@ -61220,7 +61215,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">årromedåarjoe</t>
+        <t pos="N">årromedåarjege</t>
       </tg>
     </mg>
   </e>
@@ -63021,7 +63016,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">sosijaaledåarjoe</t>
+        <t pos="N">sosijaaledåarjege</t>
       </tg>
     </mg>
   </e>
@@ -66649,7 +66644,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">beetneh-åesie</t>
+            <t pos="N">beetnehåesie</t>
          </tg>
       </mg>
    </e>
@@ -66679,7 +66674,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">barkijh</t>
+            <t nr="Pl" pos="N">barkijh</t>
          </tg>
       </mg>
    </e>
@@ -67134,7 +67129,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">åarjese</t>
+            <t pos="Adv">åarjese</t>
          </tg>
       </mg>
    </e>
@@ -69258,7 +69253,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">tringa erythropus</re>
-            <t pos="N">tjeehpes-tjïevhtje</t>
+            <t pos="N">tjeehpestjïevhtje</t>
          </tg>
       </mg>
    </e>
@@ -69280,7 +69275,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">tringa nebularia</re>
-            <t pos="N">stoerre-tjïevhtje</t>
+            <t pos="N">stoerretjïevhtje</t>
          </tg>
       </mg>
    </e>
@@ -71087,7 +71082,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">Sarcophagia carnaria</re>
-            <t pos="N">bajhke-bovrege</t>
+            <t pos="N">bajhkebovrege</t>
          </tg>
       </mg>
    </e>
