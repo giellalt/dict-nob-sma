@@ -14632,27 +14632,25 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="V">guajhtsadidh</t>
+	         <re>sette merke på; en gang</re>
+            <t class="IV" pos="V" umlaut="D">mïerhkedh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="V">gåajhtsedidh</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
+	         <re>øremerke rein; flere ganger</re>
             <t p3p="mïerhkesje" pos="V">mïerhkesjidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t class="I" pos="V" umlaut="A">voelestehtedh</t>
+            <t pos="V">guajhtsadidh</t>
+            <t pos="V">gåajhtsedidh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t class="IV" pos="V" umlaut="D">mïerhkedh</t>
+            <t class="I" pos="V" umlaut="A">voelestehtedh</t>
          </tg>
       </mg>
       <mg>

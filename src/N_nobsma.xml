@@ -19829,6 +19829,76 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
+         <l pos="N">ugle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>kattugle</re>
+            <t pos="N">jïjjesnjågloe</t>
+            <t pos="N">gaahtoe-snjagla</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>snøugle</re>
+            <t pos="N">jïjse</t>
+            <t pos="N">jïjsen-ledtie</t>
+            <t pos="N">vaarhuge</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>slagugle</re>
+            <t pos="N">jïhpege</t>
+            <t pos="N">jïjje-snjagla</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>lappugle</re>
+            <t pos="N">noerhte-snjagla</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>haukugle</re>
+            <t pos="N">haepkie-snjagla</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>spurveugle</re>
+            <t pos="N">tsöötsege-snjagla</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>perleugle</re>
+            <t pos="N">gïeken-ledtie</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>hornugle</re>
+            <t pos="N">tjåervie-snjagla</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>jordugle</re>
+            <t pos="N">jåarta-snjagla</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re xml:lang="lat">hubro</re>
+            <t pos="N">jïhpe</t>
+            <t pos="N">spïhtehke</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="N">kattugle</l>
       </lg>
       <mg>
