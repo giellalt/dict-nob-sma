@@ -3892,10 +3892,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">sommersko av barket lær uten hår</l>
+         <l pos="N">sommersko</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+            <t pos="N">giesiegaamege</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>av barket lær uten hår</re>
             <t pos="N">baarhkohke</t>
          </tg>
       </mg>
@@ -12061,6 +12067,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">gaamege</t>
+            <t pos="N">skåave</t>
          </tg>
       </mg>
       <mg>
@@ -12073,39 +12080,9 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sma">
-	     <re>vintersko</re>
-            <t pos="N">daelviegaamege</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-	     <re>sommersko</re>
-            <t pos="N">giesiegaamege</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-	     <re>fotballsko</re>
-            <t pos="N">tjiektjemegaamege</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-	     <re>skisko</re>
-            <t pos="N">tjoejkemegaamege</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-	     <re>løpesko</re>
-            <t pos="N">vaarremegaamege</t>
-         </tg>
-      </mg>
     <ig>
       <i>Du har ikke vært i mine sko.</i>
-      <it>Ih leah datne naan aejkien otnerassine mov låavth-gåetesne orreme.</it>
+      <it>Ih leah datne naan aejkien otnerassine mov låavth-gåetesne orreme (du har ikke vært in buestang i min teltkåte).</it>
     </ig>
    </e>
    <e>
@@ -13501,9 +13478,45 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="N">vintersko</l>
       </lg>
+       <mg>
+         <tg xml:lang="sma">
+            <t pos="N">daelviegaamege</t>
+         </tg>
+      </mg>
+     <mg>
+         <tg xml:lang="sma">
+	         <re>sydd av reinens leggskinn</re>
+            <t pos="N">gejhkehke</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="N">fotballsko</l>
+      </lg>
+     <mg>
+         <tg xml:lang="sma">
+            <t pos="N">tjiektjemegaamege</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+       <lg>
+         <l pos="N">skisko</l>
+      </lg>
+     <mg>
+         <tg xml:lang="sma">
+            <t pos="N">tjoejkemegaamege</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+       <lg>
+         <l pos="N">løpesko</l>
+      </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">gejhkehke</t>
+            <t pos="N">vaarremegaamege</t>
          </tg>
       </mg>
    </e>
