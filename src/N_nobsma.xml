@@ -4734,6 +4734,27 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
+         <l pos="N">skøyer</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">skaadtje</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">skøyerstrek</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>gjøre skøyerstreker</re>
+            <t pos="V">prïehtesjidh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="N">reinhale</l>
       </lg>
       <mg>
@@ -4749,6 +4770,13 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">bealhka</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>få skjenn</re>
+            <t pos="V">bealhkahtovvedh</t>
+            <t pos="V">bealhkasovvedh</t>
          </tg>
       </mg>
    </e>
@@ -5523,6 +5551,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">biessie</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>dekke med never</re>
+            <t pos="V">bïessedh</t>
          </tg>
       </mg>
    </e>
@@ -6881,6 +6915,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">råvna</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>bli bonde</re>
+            <t pos="V">daatjadovvedh</t>
          </tg>
       </mg>
    </e>
@@ -13978,6 +14018,12 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>forme en sirkel</re>
+            <t pos="V">gievledidh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -15154,6 +15200,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">guhtsije</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>holde vakt</re>
+            <t pos="V">vaaktedidh</t>
          </tg>
       </mg>
    </e>
@@ -26734,6 +26786,12 @@ For the full license text, see the link above.</lic>
             <t pos="N">åtnoe</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>ta i bruk</re>
+            <t pos="Phrase">åtnose vaeltedh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -28403,6 +28461,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">sapte</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>bli dekket av skum</re>
+            <t pos="V">saptodh</t>
          </tg>
       </mg>
    </e>
@@ -34948,6 +35012,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">vaartoe</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>sette opp varde</re>
+            <t pos="V">vaaledidh</t>
          </tg>
       </mg>
    </e>
@@ -50733,9 +50803,16 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg xml:lang="sma">
+	      <re>arbeid</re>
         <t pos="N">dïenesje</t>
       </tg>
     </mg>
+      <mg>
+         <tg xml:lang="sma">
+	      <re>be om en tjeneste</re>
+            <t p3p="govlehte" pos="V">govlehtidh</t>
+         </tg>
+      </mg>
   </e>
   <e>
     <lg>
@@ -68151,6 +68228,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">måaroebearkoe</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>spise kjøttbein reint</re>
+            <t p3p="såhpa" pos="V" type="TV">sohpedh</t>
          </tg>
       </mg>
    </e>
