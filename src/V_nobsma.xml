@@ -16367,21 +16367,6 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-	         <re>legge seg for å sove</re>
-            <t p3p="åarije" pos="V">åarajidh</t>
-            <t pos="V">jitnedh</t>
-            <xg>
-               <x>Gå og legg deg!</x>
-               <xt>Vaedtsieh dellie åarajidh!</xt>
-            </xg>
-             <xg>
-               <x>Nå må barna legge seg for å sove.</x>
-               <xt>Daelie tjuerieh maanah åarajidh.</xt>
-            </xg>
-        </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
 	         <re>skynde seg å legge seg for å sove</re>
             <t pos="V">åarajistedh</t>
             <xg>
@@ -34853,21 +34838,25 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
 	         <re>ta seg en liten blund</re>
             <t pos="V">skupmestidh</t>
+            <xg>
+               <x>Det er godt å ta seg en blund når man gjeter.</x>
+               <xt>Njaelkies skupmestidh gosse ryöjnesjeminie.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>duppe</re>
             <t pos="V">ejjiedestedh</t>
             <xg>
-               <x>Det er godt å ta seg en blund når man er sliten.</x>
-               <xt>Njaelkies skupmestidh gosse sæjloes.</xt>
-            </xg>
-            <xg>
-               <x>Jeg vil ta meg en liten blund.</x>
-               <xt>Manne sïjhtem ejjiedestedh.</xt>
+               <x>Det er godt å bare duppe til litt når man er trøtt.</x>
+               <xt>Njaelkies barre ejjiedestedh gosse sæjloes.</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
 	         <re>døse</re>
-            <t pos="V">njassedidh</t>
             <t pos="V">njassedh</t>
             <xg>
                <x>Bror tar seg en liten blund før han igjen drar til gjerde.</x>
