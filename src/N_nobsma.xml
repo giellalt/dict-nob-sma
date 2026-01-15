@@ -71517,5 +71517,20 @@ For the full license text, see the link above.</lic>
             <t pos="V">vïedtere</t>
          </tg>
       </mg>
+      </e>
+      <e>
+      <lg>
+         <l pos="N">innside</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="Adv">sisnjielistie</t>
+            <xg>
+               <x>Skinnet bøyer jeg over (kanten) og syr det (fast) på innsiden.</x>
+               <xt>Dam skåerriem marngestem bijjelen jïh sisnjielistie gåaroem.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
+      
 </r>

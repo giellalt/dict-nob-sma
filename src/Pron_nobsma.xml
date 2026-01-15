@@ -2282,6 +2282,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
+	<tg xml:lang="sma">
+	  <re>seg i mellom</re>
+            <t pos="Po">gaskemsh</t>
+            <xg>
+               <x>De er glade i hverandre.</x>
+               <xt>Dah gaskemsh lyjhkededtieh.</xt>
+            </xg>
+         </tg>
+      </mg>	  
+      <mg>
          <tg xml:lang="sma">
  	         <re>foran postposisjon</re>
            <t pos="Pron" type="Recipr">sinsitnien</t>
