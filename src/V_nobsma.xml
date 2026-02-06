@@ -11189,15 +11189,6 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t p3p="sæjhta" pos="V">sïjhtedh</t>
-            <xg>
-               <x>Laara vil dra.</x>
-               <xt>Laara sæjhta vuelkedh.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
             <t pos="V">gaatedidh</t>
          </tg>
       </mg>
@@ -43524,6 +43515,12 @@ For the full license text, see the link above.</lic>
             <t pos="V">baalkerdidh</t>
          </tg>
       </mg>
+      <mg>
+        <tg xml:lang="sma">
+	  <re>vandre omkring</re>
+            <t pos="V">vaanterdidh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -50058,16 +50055,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="V">vaalmerdidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">vandre omkring</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">vaanterdidh</t>
          </tg>
       </mg>
    </e>
