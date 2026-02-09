@@ -63,13 +63,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="Adv">loddrett</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Adv">tseagkode</t>
+            <t pos="Adv" src="gg">tseagkode</t>
          </tg>
       </mg>
    </e>
@@ -147,23 +147,23 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="Adv">åpenbart</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Adv">tjïelkes</t>
+            <t pos="Adv" src="gg">tjïelkes</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="Adv">tilfeldig</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Adv">veajkoej</t>
+            <t pos="Adv" src="gg">veajkoej</t>
          </tg>
       </mg>
    </e>

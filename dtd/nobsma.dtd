@@ -18,24 +18,11 @@
 <!ELEMENT sourcenote (#PCDATA|a)*>
 <!ELEMENT a (#PCDATA)>
 
-<!ELEMENT e (lg, source?, semantics?, stem*, sources?, mg+, ig*) >
-<!ATTLIST e
-      usage ( mt | vd | dict | other | nds | fad | KB ) #IMPLIED
-      src ( nj | sk | SvSt | gt_fad | gt | fad | other | gg | SK |
-            PS_SA | KAL | nou94 | PS | husbykuhmunen | lmm | sammallahti |
-            BergslandMagga | Lagercrantz | nsr | utsi | aj )  #IMPLIED
-      exclude ( smanob | nobsma ) #IMPLIED
-      reverse ( yes | no ) #IMPLIED
-      illpl ( yes | no ) #IMPLIED
-      id CDATA #IMPLIED
-      xpos CDATA #IMPLIED
-      mc CDATA #IMPLIED
->
-<!ATTLIST e r ( LR | RL ) #IMPLIED > <!-- found in all_smnsme.xml -->
-<!ATTLIST e note CDATA #IMPLIED >
-<!ATTLIST e oa_unif ( done | s | N | E ) #IMPLIED >
+<!ELEMENT e (lg, mg+, ig*) >
 
-<!ELEMENT lg (l+, l_ref*, lemma_ref*, lsub*, lc*, stem*, analysis*, mini_paradigm*, algu?, orig?) >
+<!ATTLIST e note CDATA #IMPLIED >
+
+<!ELEMENT lg (l+, l_ref*, lemma_ref*, lsub*, lc*, analysis*, mini_paradigm*, algu?, orig?) >
 <!ELEMENT lemma_ref (#PCDATA) >
 <!ATTLIST lemma_ref lemmaID CDATA #IMPLIED >
 <!ATTLIST lg freq CDATA #IMPLIED >
@@ -140,7 +127,6 @@
 <!ELEMENT source (book) >
 <!ATTLIST book
     name CDATA #IMPLIED >
-<!ELEMENT semantics (sem | sem* ) >
 <!ATTLIST sem
     name CDATA #IMPLIED >
 
@@ -151,6 +137,11 @@
 <!ATTLIST algu
       sanue_id CDATA #REQUIRED >
 
+<!-- Idiom phrases, faste uttrykk -->
+<!ELEMENT ig ( i+, id?, it+)+ >
+<!ELEMENT i (#PCDATA) >
+<!ELEMENT id (#PCDATA) >
+<!ELEMENT it (#PCDATA) >
 
 <!-- the real stem field -->
 <!ELEMENT stem (#PCDATA) >
@@ -177,26 +168,18 @@
       class CDATA #IMPLIED
 >
 
-<!ELEMENT mg (semantics?, l_ref?, dg?, tg+, xg* ) >
+<!ELEMENT mg (l_ref?, tg+, xg*, ig* ) >
 <!ATTLIST mg
-      xml:lang ( sme | nob | fin | swe | rus | smn ) #IMPLIED
       rest CDATA #IMPLIED
 >
 <!ATTLIST mg id CDATA #IMPLIED >
 <!ATTLIST mg src CDATA #IMPLIED >
-<!ATTLIST mg x ( fad ) #IMPLIED >
 
 <!ELEMENT dg ( d ) >
 <!ELEMENT d (#PCDATA) >
 
-<!-- Idiom phrases, faste uttrykk -->
-<!ELEMENT ig ( i+, id?, it+)+ >
-<!ELEMENT i (#PCDATA) >
-<!ELEMENT id (#PCDATA) >
-<!ELEMENT it (#PCDATA) >
 
-
-<!ELEMENT tg (semantics?, re?,  ( ((t, stem*, l_ref?, morph_expl?) | tf | te ))+, xg*, syng?) >
+<!ELEMENT tg (re?,  ( (t, stem*, l_ref?, morph_expl? ))+, xg*, syng?) >
 <!ATTLIST tg
       xml:lang ( sme | sma | smn | nob | swe | eng | deu | fin | rus | smj | fra | lat) #REQUIRED
       check CDATA #IMPLIED
@@ -286,25 +269,6 @@
 <!ELEMENT l_ref (#PCDATA) >
 
 <!-- translation_comment = for Oahpa use -->
-
-<!ELEMENT tf (#PCDATA) > <!-- Translation phrase -->
-<!ATTLIST tf oa ( first | yes | no ) #IMPLIED >
-<!ATTLIST tf dict (yes | no ) #IMPLIED >
-<!ATTLIST tf pos ( phrase  | phrase_n | phrase_a | phrase_v | phrase_adv ) #IMPLIED >
-<!ATTLIST tf gen ( m | f | n ) #IMPLIED >
-<!ATTLIST tf lang ( swe | nob ) #IMPLIED >
-<!ATTLIST tf xml:lang ( nob | sme | sma | swe | eng | deu ) #IMPLIED >
-<!ATTLIST tf tcomm ( yes | no ) #IMPLIED >
-<!ATTLIST tf stat ( pref ) #IMPLIED >
-
-
-<!ELEMENT te (#PCDATA) > <!-- Translation explanation -->
-<!ATTLIST te lang ( swe | nob ) #IMPLIED >
-<!ATTLIST te xml:lang ( nob | sme | sma | swe | eng | deu ) #IMPLIED >
-<!ATTLIST te dict (yes | no ) #IMPLIED >
-<!ATTLIST te oa ( first | yes | no ) #IMPLIED >
-<!ATTLIST te stat ( pref ) #IMPLIED >
-<!ATTLIST te pos ( phrase  | phrase_n | phrase_a | phrase_v | phrase_adv ) #IMPLIED >
 
 <!ELEMENT morph_expl (#PCDATA) >
 

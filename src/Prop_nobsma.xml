@@ -12948,73 +12948,73 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N" type="Prop" sem_type="Org">Fremskrittspartiet</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" type="Prop">Evtiedimmienkrirrie</t>
+            <t pos="N" type="Prop" src="gg">Evtiedimmienkrirrie</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N" type="Prop" sem_type="Org">Høyesterett</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" type="Prop">Jïllemesreakta</t>
+            <t pos="N" type="Prop" src="gg">Jïllemesreakta</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N" type="Prop" sem_type="Txt">ILO-konvensjonen</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" type="Prop">ILO-konvensjovne</t>
+            <t pos="N" type="Prop" src="gg">ILO-konvensjovne</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N" type="Prop" sem_type="Txt">Reindriftsloven</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" type="Prop">Båatsoelaake</t>
+            <t pos="N" type="Prop" src="gg">Båatsoelaake</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N" type="Prop" sem_type="Org">Utenriksdepartementet</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" type="Prop">Ålkoerïjhkedepartemeente</t>
+            <t pos="N" type="Prop" src="gg">Ålkoerïjhkedepartemeente</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N" type="Prop" sem_type="Org">Venstre</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" type="Prop">Gårroebielien krirrie</t>
+            <t pos="N" type="Prop" src="gg">Gårroebielien krirrie</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N" type="Prop" sem_type="Txt">Sameloven</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" type="Prop">Saemielaake</t>
+            <t pos="N" type="Prop" src="gg">Saemielaake</t>
          </tg>
       </mg>
    </e>

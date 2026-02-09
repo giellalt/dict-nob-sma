@@ -270,25 +270,25 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e note="checked" src="lmm">
+   <e note="checked">
       <lg>
          <l pos="N">lønnsmottaker</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" type="NomAg">dïenesjæjja</t>
-            <t pos="N">baalhkadåastoje</t>
+            <t pos="N" type="NomAg" src="lmm">dïenesjæjja</t>
+            <t pos="N" src="lmm">baalhkadåastoje</t>
          </tg>
       </mg>
    </e>
-   <e note="checked" src="gg">
+   <e note="checked">
       <lg>
          <l pos="N">statsforvalteren</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re>Dïhte mij åvtelen tsïengelenasken 1.b. 2021 lij Fylhkeålma.</re>
-            <t pos="N">staatehaaltoje</t>
+            <t pos="N" src="gg">staatehaaltoje</t>
          </tg>
       </mg>
     </e>
@@ -304,14 +304,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e note="checked" src="lmm">
+   <e note="checked">
       <lg>
          <l pos="N">etterbyrd</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re>egentlig 'etterfødsel': morkake, navlesnor og fosterhinner som kommer ut etter fosteret</re>
-            <t pos="N" nr="Pl">voese</t>
+            <t pos="N" nr="Pl" src="lmm">voese</t>
          </tg>
       </mg>
    </e>
@@ -325,9 +325,9 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e note="checked" src="lmm">
+   <e note="checked">
       <lg>
-         <l pos="N">sæd</l>
+         <l pos="N" src="lmm">sæd</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -366,13 +366,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e note="checked" src="lmm">
+   <e note="checked">
       <lg>
          <l pos="N">favoritt</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">mïelehkodtje</t>
+            <t pos="N" src="lmm">mïelehkodtje</t>
          </tg>
       </mg>
    </e>
@@ -63155,14 +63155,14 @@ For the full license text, see the link above.</lic>
       </tg>
     </mg>
   </e>
-  <e note="checked" src="gg">
+  <e note="checked">
     <lg>
       <l pos="N" src="fad">avtaleperiode</l>
     </lg>
     <mg>
       <tg xml:lang="sma">
-        <t pos="N">sjïehtedimmieboelhke</t>
-        <t pos="N">latjkoeboelhke</t>
+        <t pos="N" src="gg">sjïehtedimmieboelhke</t>
+        <t pos="N" src="gg">latjkoeboelhke</t>
       </tg>
     </mg>
   </e>
@@ -64755,294 +64755,294 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">president</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">presidente</t>
+            <t pos="N" src="gg">presidente</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">albue</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">gernjere</t>
+            <t pos="N" src="gg">gernjere</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">allemannseie</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">gaajhkesieeke</t>
+            <t pos="N" src="gg">gaajhkesieeke</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">alpinanlegg</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">gïerestallemesijjie</t>
+            <t pos="N" src="gg">gïerestallemesijjie</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">annonsekostnad</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">bïevnese-åasa</t>
+            <t pos="N" src="gg">bïevnese-åasa</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">arbeidsgiver</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">barkoefaalije</t>
+            <t pos="N" src="gg">barkoefaalije</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">arbeidsledighetstrygd</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">barkohtsmaaksoe</t>
+            <t pos="N" src="gg">barkohtsmaaksoe</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">arbeidsseminar</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">barkoeseminaare</t>
+            <t pos="N" src="gg">barkoeseminaare</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">arbeidstaker</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">barkije</t>
+            <t pos="N" src="gg">barkije</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">arkitekt</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">arkitekte</t>
+            <t pos="N" src="gg">arkitekte</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">astma</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">astma</t>
+            <t pos="N" src="gg">astma</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">atom</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">atovme</t>
+            <t pos="N" src="gg">atovme</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">atomkraft</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">atomefaamoe</t>
+            <t pos="N" src="gg">atomefaamoe</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">avisredaksjon</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">plaerieredaksjovne</t>
+            <t pos="N" src="gg">plaerieredaksjovne</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">badekar</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">laavkome-lihtie</t>
+            <t pos="N" src="gg">laavkome-lihtie</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">badestrand</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">voejedimmesgaedtie</t>
+            <t pos="N" src="gg">voejedimmesgaedtie</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">bankkonto</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">baanghkekonto</t>
+            <t pos="N" src="gg">baanghkekonto</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">barnehjem</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">maanahïejme</t>
+            <t pos="N" src="gg">maanahïejme</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">befolkningsgruppe</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">almehtjïerte</t>
+            <t pos="N" src="gg">almehtjïerte</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">befolkningsvekst</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">almetje-jeananimmie</t>
+            <t pos="N" src="gg">almetje-jeananimmie</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">bergart</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">bïerjeaarhte</t>
+            <t pos="N" src="gg">bïerjeaarhte</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">beskrivelse</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">buerkiestimmie</t>
+            <t pos="N" src="gg">buerkiestimmie</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">betalingsplan</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">maaksoesoejkesje</t>
+            <t pos="N" src="gg">maaksoesoejkesje</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">bidrag</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">dåarjoe</t>
+            <t pos="N" src="gg">dåarjoe</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">bildemontasje</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">guvviemontaasje</t>
+            <t pos="N" src="gg">guvviemontaasje</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">bilist</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">bïjlevuejije</t>
+            <t pos="N" src="gg">bïjlevuejije</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">bilkolonne</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">bïjleraajroe</t>
+            <t pos="N" src="gg">bïjleraajroe</t>
          </tg>
       </mg>
    </e>
-   <e src="aj">
+   <e>
       <lg>
          <l pos="N">hjul</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">jårrehtse</t>
+            <t pos="N" src="aj">jårrehtse</t>
          </tg>
       </mg>
    </e>
-   <e src="aj">
+   <e>
       <lg>
          <l pos="N">dekk</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
 	       <re>på bil</re>
-            <t pos="N">degke</t>
+            <t pos="N" src="aj">degke</t>
             <xg>
                <x>Å legge nye dekk på bilhjulene.</x>
                <xt>Bïjlen jårrehtsidie orre degkh bïejedh.</xt>
@@ -65050,203 +65050,203 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">billedkunst</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">guvvietjeahpoe</t>
+            <t pos="N" src="gg">guvvietjeahpoe</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">bokanmeldelse</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">gærjahsaernie</t>
+            <t pos="N" src="gg">gærjahsaernie</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">bokhandel</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">gærjabovre</t>
+            <t pos="N" src="gg">gærjabovre</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">bokmerke</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">gærjamïerhke</t>
+            <t pos="N" src="gg">gærjamïerhke</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">bokmål</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">daaroengïele</t>
+            <t pos="N" src="gg">daaroengïele</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">bosetningsområde</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">årromedajve</t>
+            <t pos="N" src="gg">årromedajve</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">brennmerke</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">svirremïerhke</t>
+            <t pos="N" src="gg">svirremïerhke</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">bukser</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">måvhkah</t>
+            <t pos="N" src="gg">måvhkah</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">bulldoser</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">bulldovsere</t>
+            <t pos="N" src="gg">bulldovsere</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">butikksenter</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">bovrejarnge</t>
+            <t pos="N" src="gg">bovrejarnge</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">byplanlegger</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">staaresoejkesjæjja</t>
+            <t pos="N" src="gg">staaresoejkesjæjja</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">bytterett</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">låtnemereakta</t>
+            <t pos="N" src="gg">låtnemereakta</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">bønneskrift</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">tjaalege</t>
+            <t pos="N" src="gg">tjaalege</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">collage</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">collasje</t>
+            <t pos="N" src="gg">collasje</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">dagsorden</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">biejjieöörnege</t>
+            <t pos="N" src="gg">biejjieöörnege</t>
          </tg>
       </mg>
    </e>
-      <e src="gg">
+      <e>
       <lg>
          <l pos="N">innkalling</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">gåhtjome</t>
+            <t pos="N" src="gg">gåhtjome</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">dalbunn</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">daeliemehkie</t>
+            <t pos="N" src="gg">daeliemehkie</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">dampmaskin</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">roehkenassemaskijne</t>
+            <t pos="N" src="gg">roehkenassemaskijne</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">dampskip</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">roehkenasseskïhpe</t>
+            <t pos="N" src="gg">roehkenasseskïhpe</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">datamaskin</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">daatovre</t>
+            <t pos="N" src="gg">daatovre</t>
          </tg>
       </mg>
     <mg>
@@ -65255,314 +65255,314 @@ For the full license text, see the link above.</lic>
       </tg>
     </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">dataoverføring</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">daataseedteme</t>
+            <t pos="N" src="gg">daataseedteme</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">diplomati</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">diplomatije</t>
+            <t pos="N" src="gg">diplomatije</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">diplomatlosje</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">diplomatijelosje</t>
+            <t pos="N" src="gg">diplomatijelosje</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">dokumentvisning</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">tjaatsestimmie-nomme</t>
+            <t pos="N" src="gg">tjaatsestimmie-nomme</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">driftstilskudd</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">gïehtelimmesdåarjoe</t>
+            <t pos="N" src="gg">gïehtelimmesdåarjoe</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">drosje</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">taksije</t>
+            <t pos="N" src="gg">taksije</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">ekspert</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">tjiehpije</t>
+            <t pos="N" src="gg">tjiehpije</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">elvebunn</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">jeanoenbetnie</t>
+            <t pos="N" src="gg">jeanoenbetnie</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">etableringsstipend</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">aalkoedåarjoe</t>
+            <t pos="N" src="gg">aalkoedåarjoe</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">fagforening</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">faagesiebrie</t>
+            <t pos="N" src="gg">faagesiebrie</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">fagkomité</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">faagemoenehtse</t>
+            <t pos="N" src="gg">faagemoenehtse</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">fakkeltog</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">govkijeraajroe</t>
+            <t pos="N" src="gg">govkijeraajroe</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">faktum</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">saetniesdaajroe</t>
+            <t pos="N" src="gg">saetniesdaajroe</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">fangeleir</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">faangkeleejre</t>
+            <t pos="N" src="gg">faangkeleejre</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">ferievane</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">eejehtimmiesviejsjie</t>
+            <t pos="N" src="gg">eejehtimmiesviejsjie</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">finansminister</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">finanseministere</t>
+            <t pos="N" src="gg">finanseministere</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">fjellkart</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">vaerienkaarhte</t>
+            <t pos="N" src="gg">vaerienkaarhte</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">flertallsregjering</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">jienebelåhkoereerenasse</t>
+            <t pos="N" src="gg">jienebelåhkoereerenasse</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">flypassasjer</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">girtiefeelije</t>
+            <t pos="N" src="gg">girtiefeelije</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">flyreise</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">girtiefealadimmie</t>
+            <t pos="N" src="gg">girtiefealadimmie</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">flyttsame</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">juhtijesaemie</t>
+            <t pos="N" src="gg">juhtijesaemie</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">folkerett</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">åålmehreakta</t>
+            <t pos="N" src="gg">åålmehreakta</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">folkeskole</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">almetjeskuvle</t>
+            <t pos="N" src="gg">almetjeskuvle</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">folketelling</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">almetjelohkeme</t>
+            <t pos="N" src="gg">almetjelohkeme</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">forbruk</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">åtnoe</t>
+            <t pos="N" src="gg">åtnoe</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">formynder</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">åeliealmetje</t>
+            <t pos="N" src="gg">åeliealmetje</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">forurensing</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">deerjeldahke</t>
+            <t pos="N" src="gg">deerjeldahke</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">fossekraft</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">garsefaamoe</t>
+            <t pos="N" src="gg">garsefaamoe</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">foto</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">tjoevkeguvvie</t>
+            <t pos="N" src="gg">tjoevkeguvvie</t>
             <t pos="N">guvvie</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">fremmedord</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">ammesbaakoe</t>
+            <t pos="N" src="gg">ammesbaakoe</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">fremmedordbok</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">ammesbaakoegærja</t>
+            <t pos="N" src="gg">ammesbaakoegærja</t>
          </tg>
       </mg>
    </e>
@@ -65578,193 +65578,193 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">fritidsutstyr</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">eejehtimmietjognh</t>
+            <t pos="N" src="gg">eejehtimmietjognh</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">fryser</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">gilmehtahke</t>
+            <t pos="N" src="gg">gilmehtahke</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">førsteside</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">voestessæjroe</t>
+            <t pos="N" src="gg">voestessæjroe</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">gatehjørne</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">gaatene-skaavhte</t>
+            <t pos="N" src="gg">gaatene-skaavhte</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">gatenett</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">gaatenviermie</t>
+            <t pos="N" src="gg">gaatenviermie</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">gjeng</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">håajje</t>
+            <t pos="N" src="gg">håajje</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">gjennomsnittsfamilie</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">gaskemedtiefuelhkie</t>
+            <t pos="N" src="gg">gaskemedtiefuelhkie</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">gjødsel</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">skorresje</t>
+            <t pos="N" src="gg">skorresje</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">grammofon</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">grammofovne</t>
+            <t pos="N" src="gg">grammofovne</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">granskog</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">råhtoe</t>
+            <t pos="N" src="gg">råhtoe</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">grunnfag</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">maadthfaage</t>
+            <t pos="N" src="gg">maadthfaage</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">grunnfagsstudium</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">maadthfaage-lohkeme</t>
+            <t pos="N" src="gg">maadthfaage-lohkeme</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">grunnlegger</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">tseegkije</t>
+            <t pos="N" src="gg">tseegkije</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">gruppepress</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">dåehkie-dïedte</t>
+            <t pos="N" src="gg">dåehkie-dïedte</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">gruvegang</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">gruvagohpege</t>
+            <t pos="N" src="gg">gruvagohpege</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">gymnastikksal</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">vïtnedimmiesavka</t>
+            <t pos="N" src="gg">vïtnedimmiesavka</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">halvtime</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">bielietæjmoe</t>
+            <t pos="N" src="gg">bielietæjmoe</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">halvårsenhet</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">bieliejaepieboelhke</t>
+            <t pos="N" src="gg">bieliejaepieboelhke</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">hand</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">gïete</t>
+            <t pos="N" src="gg">gïete</t>
             <xg>
                <x>Hold meg i handa!</x>
                <xt>Steerh mov gïeteste!</xt>
@@ -65772,1334 +65772,1334 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">havavsetning</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">mearoelaahpehts</t>
+            <t pos="N" src="gg">mearoelaahpehts</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">havbunn</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">mearoebetnie</t>
+            <t pos="N" src="gg">mearoebetnie</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">helseforetak</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">starneråajvarimmie</t>
+            <t pos="N" src="gg">starneråajvarimmie</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">helsesøster</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">skïemtjesåjhtere</t>
+            <t pos="N" src="gg">skïemtjesåjhtere</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">historiker</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">historihkere</t>
+            <t pos="N" src="gg">historihkere</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">noe hjemmelaget</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">jïjtjedorjeme</t>
+            <t pos="N" src="gg">jïjtjedorjeme</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">homofil</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">homofijle</t>
+            <t pos="N" src="gg">homofijle</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">homofili</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">homofijle</t>
+            <t pos="N" src="gg">homofijle</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">hovedkandidat</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">åejviekandidaate</t>
+            <t pos="N" src="gg">åejviekandidaate</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">hurtigbåt</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">spaajhtevïnhtse</t>
+            <t pos="N" src="gg">spaajhtevïnhtse</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">høring</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">govlehtimmie</t>
+            <t pos="N" src="gg">govlehtimmie</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">høyblokk</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">jollegåetie</t>
+            <t pos="N" src="gg">jollegåetie</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">høydeforskjell</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">jalloejoekehtse</t>
+            <t pos="N" src="gg">jalloejoekehtse</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">industriby</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">industrijestaare</t>
+            <t pos="N" src="gg">industrijestaare</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">infobank</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">bïevnesbaanghke</t>
+            <t pos="N" src="gg">bïevnesbaanghke</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">innlandsfylke</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Phrase">maadterisnie fylhkh</t>
+            <t pos="Phrase" src="gg">maadterisnie fylhkh</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">inntektsgrunnlag</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">dïenesjimmie</t>
+            <t pos="N" src="gg">dïenesjimmie</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">invasjon</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">ritneme</t>
+            <t pos="N" src="gg">ritneme</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">isbrefront</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">dielhtienjuenie</t>
+            <t pos="N" src="gg">dielhtienjuenie</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">jernkonstruksjon</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">ruevtiekonstruksjovne</t>
+            <t pos="N" src="gg">ruevtiekonstruksjovne</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">jernmalm</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">ruevtiemaalme</t>
+            <t pos="N" src="gg">ruevtiemaalme</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">jernverk</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">ruevtievierhkie</t>
+            <t pos="N" src="gg">ruevtievierhkie</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">jettegryte</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">jïekngekrovhte</t>
+            <t pos="N" src="gg">jïekngekrovhte</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">jobbintervju</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">barkoegoerehtse</t>
+            <t pos="N" src="gg">barkoegoerehtse</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">jordklode</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">eatneme</t>
+            <t pos="N" src="gg">eatneme</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">jordmor</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">tsegkietnie</t>
+            <t pos="N" src="gg">tsegkietnie</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">jordskorpeplate</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Phrase">eatnemen bijjieskierie</t>
+            <t pos="Phrase" src="gg">eatnemen bijjieskierie</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">kalender</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">biejjielåhkoe</t>
+            <t pos="N" src="gg">biejjielåhkoe</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">kalori</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">kalorije</t>
+            <t pos="N" src="gg">kalorije</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">keramiker</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">mïrrestalleme</t>
+            <t pos="N" src="gg">mïrrestalleme</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">kino</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">kinove</t>
+            <t pos="N" src="gg">kinove</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">kirkebok</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">gærhkoegærja</t>
+            <t pos="N" src="gg">gærhkoegærja</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">kjøretøy</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">vuajahtahke</t>
+            <t pos="N" src="gg">vuajahtahke</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">kobberverk</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">kåahperevierhkie</t>
+            <t pos="N" src="gg">kåahperevierhkie</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">kommuneordfører</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Phrase">tjïelten åejvie</t>
+            <t pos="Phrase" src="gg">tjïelten åejvie</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">kommunikasjon</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">gaskesadteme</t>
+            <t pos="N" src="gg">gaskesadteme</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">kongeskip</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">gunkiesskïhpe</t>
+            <t pos="N" src="gg">gunkiesskïhpe</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">kullgruve</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">tjïrregruva</t>
+            <t pos="N" src="gg">tjïrregruva</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">kultursenter</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">kultuvrejarnge</t>
+            <t pos="N" src="gg">kultuvrejarnge</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">kunstgjødsel</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">skorresje</t>
+            <t pos="N" src="gg">skorresje</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">kunstner</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">tjiehpiedæjja</t>
+            <t pos="N" src="gg">tjiehpiedæjja</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">kuvøse</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">kuvööse</t>
+            <t pos="N" src="gg">kuvööse</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">kvegfarm</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">govsegaertene</t>
+            <t pos="N" src="gg">govsegaertene</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">kvittering</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">vihtiesleahpa</t>
+            <t pos="N" src="gg">vihtiesleahpa</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">kvote</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">veahka</t>
+            <t pos="N" src="gg">veahka</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">landform</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">laanteguvvie</t>
+            <t pos="N" src="gg">laanteguvvie</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">landskapskart</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">dajvenkaarhte</t>
+            <t pos="N" src="gg">dajvenkaarhte</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">vitenskap</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">daajroe</t>
+            <t pos="N" src="gg">daajroe</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">miljøvitenskap</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">byjresedaajroe</t>
+            <t pos="N" src="gg">byjresedaajroe</t>
          </tg>
       </mg>
    </e>
-      <e src="gg">
+      <e>
       <lg>
          <l pos="N">skolevitenskap</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">skuvledaajroe</t>
+            <t pos="N" src="gg">skuvledaajroe</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">naturvitenskap</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">eatnemedaajroe</t>
+            <t pos="N" src="gg">eatnemedaajroe</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">vitenskapsfilosofi</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">daajroefilosofije</t>
+            <t pos="N" src="gg">daajroefilosofije</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">leilending</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">lååjkere</t>
+            <t pos="N" src="gg">lååjkere</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">lokomotiv</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">lokomotijve</t>
+            <t pos="N" src="gg">lokomotijve</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">lydfilm</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">tjoejefilme</t>
+            <t pos="N" src="gg">tjoejefilme</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">læringsnett</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">ööhpehtimmienehte</t>
+            <t pos="N" src="gg">ööhpehtimmienehte</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">læringssenter</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">lohkehtimmiejarnge</t>
+            <t pos="N" src="gg">lohkehtimmiejarnge</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">lønnstrinn</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">baalhkatsiehkie</t>
+            <t pos="N" src="gg">baalhkatsiehkie</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">løvskog</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">boelte</t>
+            <t pos="N" src="gg">boelte</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">maktkamp</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">faamoegæmhpome</t>
+            <t pos="N" src="gg">faamoegæmhpome</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">mappesystem</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">mappesysteeme</t>
+            <t pos="N" src="gg">mappesysteeme</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">marine</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">marijne</t>
+            <t pos="N" src="gg">marijne</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">markplanlegger</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">laantesoejkesjæjja</t>
+            <t pos="N" src="gg">laantesoejkesjæjja</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">massakre</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">bovvelimmie</t>
+            <t pos="N" src="gg">bovvelimmie</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">matbutikk</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">beapmoebovre</t>
+            <t pos="N" src="gg">beapmoebovre</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">medhjelper</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">viehkiehtæjja</t>
+            <t pos="N" src="gg">viehkiehtæjja</t>
          </tg>
       </mg>
    </e>
-    <e src="gg">
+    <e>
       <lg>
          <l pos="N">meglingsfrist</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">liktememierie</t>
+            <t pos="N" src="gg">liktememierie</t>
          </tg>
       </mg>
    </e>
-    <e src="gg">
+    <e>
       <lg>
          <l pos="N">klipp</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">byötskese</t>
+            <t pos="N" src="gg">byötskese</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">melodi</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">vuelie</t>
+            <t pos="N" src="gg">vuelie</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">merkeklær</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">mïerhkevaarjoeh</t>
+            <t pos="N" src="gg">mïerhkevaarjoeh</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">midnattssol</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">jïjjegåårtesebiejjie</t>
+            <t pos="N" src="gg">jïjjegåårtesebiejjie</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">miljøproblem</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">byjresketjoepere</t>
+            <t pos="N" src="gg">byjresketjoepere</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">miljøteam</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">byjreskedåehkie</t>
+            <t pos="N" src="gg">byjreskedåehkie</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">minister</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">ministeere</t>
+            <t pos="N" src="gg">ministeere</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">minnepinne</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">mojhtessaegkie</t>
+            <t pos="N" src="gg">mojhtessaegkie</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">modell</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">modelle</t>
+            <t pos="N" src="gg">modelle</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">montasje</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">montaasje</t>
+            <t pos="N" src="gg">montaasje</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">moteklær</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Phrase">daaletje vaarjoeh</t>
+            <t pos="Phrase" src="gg">daaletje vaarjoeh</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">motorkjøretøy</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">motovrevuajahtahke</t>
+            <t pos="N" src="gg">motovrevuajahtahke</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">motstandsgruppe</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">vuastalimmesdåehkie</t>
+            <t pos="N" src="gg">vuastalimmesdåehkie</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">månedsmagasin</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">askeplaerie</t>
+            <t pos="N" src="gg">askeplaerie</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">naturmedisin</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">sjædtoedaalhkesh</t>
+            <t pos="N" src="gg">sjædtoedaalhkesh</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">naturminne</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">eatnememojhtese</t>
+            <t pos="N" src="gg">eatnememojhtese</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">naturreservat</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">vaarjelimmietjahta</t>
+            <t pos="N" src="gg">vaarjelimmietjahta</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">nedbør</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">træjpoe</t>
+            <t pos="N" src="gg">træjpoe</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">nedbørfelt</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">måekie-dajve</t>
+            <t pos="N" src="gg">måekie-dajve</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">nettvettregler</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Phrase">nedtevihte njoelkedassh</t>
+            <t pos="Phrase" src="gg">nedtevihte njoelkedassh</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">notat</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">notaate</t>
+            <t pos="N" src="gg">notaate</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">næringsgruppe</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">jieliemassedåehkie</t>
+            <t pos="N" src="gg">jieliemassedåehkie</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">næringsoppgave</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">jielemesbïevnese</t>
+            <t pos="N" src="gg">jielemesbïevnese</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">observatorium</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">observatorijume</t>
+            <t pos="N" src="gg">observatorijume</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">omgangsskole</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">juhtijeskuvle</t>
+            <t pos="N" src="gg">juhtijeskuvle</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">oppfinner</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">gaavnehtæjja</t>
+            <t pos="N" src="gg">gaavnehtæjja</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">oppvekstsjef</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">byjjenimmie-åejvie</t>
+            <t pos="N" src="gg">byjjenimmie-åejvie</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">oppvekstvilkår</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">byjjenimmesnuepie</t>
+            <t pos="N" src="gg">byjjenimmesnuepie</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">pakketur</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">peehkemetuvre</t>
+            <t pos="N" src="gg">peehkemetuvre</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">park</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">såafoe</t>
+            <t pos="N" src="gg">såafoe</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">part</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">paarhte</t>
+            <t pos="N" src="gg">paarhte</t>
             <t pos="N">bielie</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">partigruppe</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">krirriedåehkie</t>
+            <t pos="N" src="gg">krirriedåehkie</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">pengebeløp</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">beetnehåesie</t>
+            <t pos="N" src="gg">beetnehåesie</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">pengesekk</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">beetnehvoesse</t>
+            <t pos="N" src="gg">beetnehvoesse</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">pensjonist</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">pensjoniste</t>
+            <t pos="N" src="gg">pensjoniste</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">personale</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t nr="Pl" pos="N">barkijh</t>
+            <t nr="Pl" pos="N" src="gg">barkijh</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">personalrom</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">barkijetjïehtjele</t>
+            <t pos="N" src="gg">barkijetjïehtjele</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">plantegift</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">sjædtoe-dilhkesh</t>
+            <t pos="N" src="gg">sjædtoe-dilhkesh</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">porto</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">påastemïerhke</t>
+            <t pos="N" src="gg">påastemïerhke</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">postordre</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Phrase">påasten tjïrrh dyngkeme</t>
+            <t pos="Phrase" src="gg">påasten tjïrrh dyngkeme</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">presselosje</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">presselosje</t>
+            <t pos="N" src="gg">presselosje</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">propaganda</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">propaganda</t>
+            <t pos="N" src="gg">propaganda</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">rasjoneringskort</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">tsibpeldimmeskåarhte</t>
+            <t pos="N" src="gg">tsibpeldimmeskåarhte</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">reindriftsforvaltning</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">båatsoereereme</t>
+            <t pos="N" src="gg">båatsoereereme</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">reindriftsorganisasjon</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">båatsoeorganisasjovne</t>
+            <t pos="N" src="gg">båatsoeorganisasjovne</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">rekkefølge</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Adv">iktemearan</t>
+            <t pos="Adv" src="gg">iktemearan</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">reklamasjonsfrist</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">aangkerdimmesraaje</t>
+            <t pos="N" src="gg">aangkerdimmesraaje</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">reklame</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">reklaame</t>
+            <t pos="N" src="gg">reklaame</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">reklameavtale</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">reklaamelatjkoe</t>
+            <t pos="N" src="gg">reklaamelatjkoe</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">reklamefilm</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">reklaamefilme</t>
+            <t pos="N" src="gg">reklaamefilme</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">restaurering</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">dåvvome</t>
+            <t pos="N" src="gg">dåvvome</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">rettssikkerhet</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">reaktatjïrkeme</t>
+            <t pos="N" src="gg">reaktatjïrkeme</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">returporto</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">båastoeh-påastemïerhke</t>
+            <t pos="N" src="gg">båastoeh-påastemïerhke</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">riksrettssak</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">rïjhkereaktanaamhtese</t>
+            <t pos="N" src="gg">rïjhkereaktanaamhtese</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">rock</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">rocke</t>
+            <t pos="N" src="gg">rocke</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">rosa</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">råvsa</t>
+            <t pos="N" src="gg">råvsa</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">saksgang</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">aamhteseöörnege</t>
+            <t pos="N" src="gg">aamhteseöörnege</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">salgssjef</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">doekemeåejvie</t>
+            <t pos="N" src="gg">doekemeåejvie</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">samarbeidsoppgave</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">laavenjasse</t>
+            <t pos="N" src="gg">laavenjasse</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">savanne</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">savanne</t>
+            <t pos="N" src="gg">savanne</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">selvbilde</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">jïjtjeguvvie</t>
+            <t pos="N" src="gg">jïjtjeguvvie</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">sjørøver</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">mearoerapmere</t>
+            <t pos="N" src="gg">mearoerapmere</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">skipsfart</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">skïhpevalkese</t>
+            <t pos="N" src="gg">skïhpevalkese</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">skipsverft</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">skïhpebigkemevierhkie</t>
+            <t pos="N" src="gg">skïhpebigkemevierhkie</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">sklie</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">gierese</t>
+            <t pos="N" src="gg">gierese</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">skolegård</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">skuvlensjåljoe</t>
+            <t pos="N" src="gg">skuvlensjåljoe</t>
          </tg>
       </mg>
       <mg>
@@ -67108,543 +67108,543 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">skyllerom</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">skuvlemetjïehtjele</t>
+            <t pos="N" src="gg">skuvlemetjïehtjele</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">slep</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">slaepie</t>
+            <t pos="N" src="gg">slaepie</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">smakstilsetning</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">læssedsaelmie</t>
+            <t pos="N" src="gg">læssedsaelmie</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">smeltevann</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">ruvvesketjaetsie</t>
+            <t pos="N" src="gg">ruvvesketjaetsie</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">småbarnsmor</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">tjidtjie</t>
+            <t pos="N" src="gg">tjidtjie</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">snøbrøyting</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">lopmeröönjeme</t>
+            <t pos="N" src="gg">lopmeröönjeme</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">spillautomat</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">spïeleautomaate</t>
+            <t pos="N" src="gg">spïeleautomaate</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">sprøytemiddel</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">stratjkomemehtie</t>
+            <t pos="N" src="gg">stratjkomemehtie</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">statsborger</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">staatenårroje</t>
+            <t pos="N" src="gg">staatenårroje</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">statsborgerskap</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">staatenårroedahke</t>
+            <t pos="N" src="gg">staatenårroedahke</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">stattholder</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">rïjhkenåvtehke</t>
+            <t pos="N" src="gg">rïjhkenåvtehke</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">stemmelokale</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">veeljemesijjie</t>
+            <t pos="N" src="gg">veeljemesijjie</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">stereo</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">stereove</t>
+            <t pos="N" src="gg">stereove</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">stumfilm</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">tjoejehtsfilme</t>
+            <t pos="N" src="gg">tjoejehtsfilme</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">syden</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Adv">åarjese</t>
+            <t pos="Adv" src="gg">åarjese</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">symmetri</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">symmetrije</t>
+            <t pos="N" src="gg">symmetrije</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">søring</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">åarjehke</t>
+            <t pos="N" src="gg">åarjehke</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">talerstol</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">håalomestovle</t>
+            <t pos="N" src="gg">håalomestovle</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">tariffoppgjør</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">tariffelatjkoe</t>
+            <t pos="N" src="gg">tariffelatjkoe</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">tast</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">båaloe</t>
+            <t pos="N" src="gg">båaloe</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">telegraf</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">telegraafe</t>
+            <t pos="N" src="gg">telegraafe</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">telegrafnett</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">telegraafeviermie</t>
+            <t pos="N" src="gg">telegraafeviermie</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">terrorist</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">terroriste</t>
+            <t pos="N" src="gg">terroriste</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">tidevann</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Phrase">flööreme njååreme</t>
+            <t pos="Phrase" src="gg">flööreme njååreme</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">tilskuer</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">vuartasjæjja</t>
+            <t pos="N" src="gg">vuartasjæjja</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">tilværelse</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">veasome</t>
+            <t pos="N" src="gg">veasome</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">transportmiddel</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">dïeske</t>
+            <t pos="N" src="gg">dïeske</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">transportnæring</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">skovhtestimmieveasoe</t>
+            <t pos="N" src="gg">skovhtestimmieveasoe</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">trener</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">heerjehtæjja</t>
+            <t pos="N" src="gg">heerjehtæjja</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">trikk</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">trïhke</t>
+            <t pos="N" src="gg">trïhke</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">tukthus</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">pliktegåetie</t>
+            <t pos="N" src="gg">pliktegåetie</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">turisthytte</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">turistehæhtjoe</t>
+            <t pos="N" src="gg">turistehæhtjoe</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">union</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">unijovne</t>
+            <t pos="N" src="gg">unijovne</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">unionsmerke</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">unijovnemïerhke</t>
+            <t pos="N" src="gg">unijovnemïerhke</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">utenriksminister</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">ålkoerïjhkeministeere</t>
+            <t pos="N" src="gg">ålkoerïjhkeministeere</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">utstillingsdukke</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">vuesiehtimmesdåahka</t>
+            <t pos="N" src="gg">vuesiehtimmesdåahka</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">valgresultat</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">veeljemenilleldahke</t>
+            <t pos="N" src="gg">veeljemenilleldahke</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">vindkraftverk</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">bïegkefaamoevierhkie</t>
+            <t pos="N" src="gg">bïegkefaamoevierhkie</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">vogn</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">våågne</t>
+            <t pos="N" src="gg">våågne</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">volleyball</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">vollytjengkere</t>
+            <t pos="N" src="gg">vollytjengkere</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">ørkenlandskap</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">saadtergemaajeh</t>
+            <t pos="N" src="gg">saadtergemaajeh</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">havn</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">sïelkedahke</t>
+            <t pos="N" src="gg">sïelkedahke</t>
             <t pos="N">staarhvoe</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">heltid</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">elliestijje</t>
+            <t pos="N" src="gg">elliestijje</t>
             <t pos="N">abpetïjje</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">idrettsstadion</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">gaarsjestadijumme</t>
+            <t pos="N" src="gg">gaarsjestadijumme</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">lokalpolitiker</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">lïhkesdajvepolitihkere</t>
+            <t pos="N" src="gg">lïhkesdajvepolitihkere</t>
             <t pos="N">voengepolitihkere</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">nettleser</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">weblohkije</t>
+            <t pos="N" src="gg">weblohkije</t>
             <t pos="N">viermielohkije</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">posesuppe</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">pååssajoptse</t>
+            <t pos="N" src="gg">pååssajoptse</t>
             <t pos="N">passajoptse</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">rengjøringsassistent</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">sjïekedæjja</t>
+            <t pos="N" src="gg">sjïekedæjja</t>
             <t pos="N">sjeakoje</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">returpakning</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">råaptoehpaantje</t>
+            <t pos="N" src="gg">råaptoehpaantje</t>
             <t pos="N">bååstedepaantje</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">sagbruk</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">saakevierhkie</t>
+            <t pos="N" src="gg">saakevierhkie</t>
             <t pos="N">sååkesjhvierhkie</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">stortingsrepresentant</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">stoerredigkietjirkije</t>
+            <t pos="N" src="gg">stoerredigkietjirkije</t>
             <t pos="N">stoerredigkiesaadthalmetje</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">svømmehall</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">voejedimssavka</t>
+            <t pos="N" src="gg">voejedimssavka</t>
             <t pos="N">voejedimmessavka</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">tannhelsetjeneste</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">baeniehealsoesåjhtoe</t>
+            <t pos="N" src="gg">baeniehealsoesåjhtoe</t>
             <t pos="N">baeniesåjhtoe</t>
          </tg>
       </mg>
@@ -67902,35 +67902,35 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">veinett</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">geajnoevearmadahke</t>
+            <t pos="N" src="gg">geajnoevearmadahke</t>
          </tg>
       </mg>
    </e>
-      <e src="gg">
+      <e>
       <lg>
          <l pos="N">fotsåle</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">låapoe</t>
+            <t pos="N" src="gg">låapoe</t>
             <t pos="N">låapa</t>
             <t pos="N">tjavle</t>
          </tg>
       </mg>
    </e>
-      <e src="gg">
+      <e>
       <lg>
          <l pos="N">fotfeste</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">tsåeptsie</t>
+            <t pos="N" src="gg">tsåeptsie</t>
          </tg>
       </mg>
         <mg>
@@ -67940,170 +67940,170 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">utbygging</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">lissietseegkeme</t>
+            <t pos="N" src="gg">lissietseegkeme</t>
             <t pos="N">lissiebigkeme</t>
             <t pos="N">vijriedimmie</t>
          </tg>
       </mg>
    </e>
-    <e src="gg">
+    <e>
       <lg>
          <l pos="N">fotstø</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">tjïektjestahke</t>
+            <t pos="N" src="gg">tjïektjestahke</t>
             <t pos="N">tjïektjesth</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">ostesmørbrød</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">vuastavoejesnaejrie</t>
+            <t pos="N" src="gg">vuastavoejesnaejrie</t>
          </tg>
       </mg>
    </e>
-    <e src="gg">
+    <e>
       <lg>
          <l pos="N">rundstykke</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">gaavnjeresgaahkoe</t>
+            <t pos="N" src="gg">gaavnjeresgaahkoe</t>
          </tg>
       </mg>
     </e>
-    <e src="gg">
+    <e>
       <lg>
          <l pos="N">flatbrød</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">jissehtslaejpie</t>
+            <t pos="N" src="gg">jissehtslaejpie</t>
          </tg>
       </mg>
      </e>
-     <e src="gg">
+     <e>
       <lg>
          <l pos="N">glokake</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">sjïjlelaejpie</t>
+            <t pos="N" src="gg">sjïjlelaejpie</t>
          </tg>
       </mg>
      </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">bløtkake</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">måasasgaahkoe</t>
+            <t pos="N" src="gg">måasasgaahkoe</t>
             <t pos="N">måasoehgaahkoe</t>
             <t pos="N">måasoehlaejpie</t>
             <t pos="N">gïhpelaejpie</t>
          </tg>
       </mg>
    </e>
-      <e src="gg">
+      <e>
       <lg>
          <l pos="N">gulrotkake</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">viskesroehtsegaahkoe</t>
+            <t pos="N" src="gg">viskesroehtsegaahkoe</t>
          </tg>
       </mg>
    </e>
-      <e src="gg">
+      <e>
       <lg>
          <l pos="N">banankake</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">banaanegaahkoe</t>
+            <t pos="N" src="gg">banaanegaahkoe</t>
          </tg>
       </mg>
    </e>
-      <e src="gg">
+      <e>
       <lg>
          <l pos="N">marsipankake</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">marsipaanegaahkoe</t>
+            <t pos="N" src="gg">marsipaanegaahkoe</t>
          </tg>
       </mg>
    </e>
-      <e src="gg">
+      <e>
       <lg>
          <l pos="N">ostekake</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">vuastagaahkoe</t>
+            <t pos="N" src="gg">vuastagaahkoe</t>
          </tg>
       </mg>
    </e>
-      <e src="gg">
+      <e>
       <lg>
          <l pos="N">fruktkake</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">muerjiegaahkoe</t>
+            <t pos="N" src="gg">muerjiegaahkoe</t>
          </tg>
       </mg>
    </e>
-      <e src="gg">
+      <e>
       <lg>
          <l pos="N">iskake</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">tjastegaahkoe</t>
+            <t pos="N" src="gg">tjastegaahkoe</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">kjøttrulle</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">skompe</t>
+            <t pos="N" src="gg">skompe</t>
             <t pos="N">gïebremegoerve</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="N">nugatti</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">nugattije</t>
+            <t pos="N" src="gg">nugattije</t>
          </tg>
       </mg>
    </e>
-    <e src="gg">
+    <e>
       <lg>
          <l pos="N">kaviar</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">kavijaare</t>
+            <t pos="N" src="gg">kavijaare</t>
          </tg>
       </mg>
    </e>
@@ -68353,2773 +68353,2773 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">struts</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">struthio camelus</re>
-            <t pos="N">strutse</t>
+            <t pos="N" src="husbykuhmunen">strutse</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">islom</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">gavia immer</re>
-            <t pos="N">jïengegohtere</t>
+            <t pos="N" src="husbykuhmunen">jïengegohtere</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">gulnebblom</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">gavia adamsii</re>
-            <t pos="N">njuenie-gohtere</t>
+            <t pos="N" src="husbykuhmunen">njuenie-gohtere</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">dvergdykker</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">tachybaptus ruficollis</re>
-            <t pos="N">tjavre-tjarnije</t>
+            <t pos="N" src="husbykuhmunen">tjavre-tjarnije</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">gråstrupedykker</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">podiceps grisegena</re>
-            <t pos="N">kraevies-tjarnije</t>
+            <t pos="N" src="husbykuhmunen">kraevies-tjarnije</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">toppdykker</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">podiceps cristatus</re>
-            <t pos="N">gïereh-tjarnije</t>
+            <t pos="N" src="husbykuhmunen">gïereh-tjarnije</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">horndykker</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">podiceps auritus</re>
-            <t pos="N">liejpie-tjarnije</t>
+            <t pos="N" src="husbykuhmunen">liejpie-tjarnije</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">svarthalsdykker</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">podiceps nigricollis</re>
-            <t pos="N">tjeehpes-tjarnije</t>
+            <t pos="N" src="husbykuhmunen">tjeehpes-tjarnije</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">havhest</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">fulmarus glacialis</re>
-            <t pos="N">væjroeledtie</t>
+            <t pos="N" src="husbykuhmunen">væjroeledtie</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">gulnebblire</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">calonectris diomedea</re>
-            <t pos="N">viskesnjuenie-lijre</t>
+            <t pos="N" src="husbykuhmunen">viskesnjuenie-lijre</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">grålire</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">puffinus griseus</re>
-            <t pos="N">kraevies-lijre</t>
+            <t pos="N" src="husbykuhmunen">kraevies-lijre</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">havlire</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">puffinus puffinus</re>
-            <t pos="N">haave-lijre</t>
+            <t pos="N" src="husbykuhmunen">haave-lijre</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">havsvale</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">hydrobates pelagicus</re>
-            <t pos="N">haave-svaala</t>
+            <t pos="N" src="husbykuhmunen">haave-svaala</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">stormsvale</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">oceanodroma leucorhoa</re>
-            <t pos="N">væjroesvaala</t>
+            <t pos="N" src="husbykuhmunen">væjroesvaala</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">havsule</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">morus bassanus</re>
-            <t pos="N">mearoe-suvle</t>
+            <t pos="N" src="husbykuhmunen">mearoe-suvle</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">storskarv</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">phalacrocorax carbo</re>
-            <t pos="N">stoerre-skaarve</t>
+            <t pos="N" src="husbykuhmunen">stoerre-skaarve</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">toppskarv</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">phalacrocorax</re>
-            <t pos="N">gïereh-skaarve</t>
+            <t pos="N" src="husbykuhmunen">gïereh-skaarve</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">gråhegre</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">ardea cinerea</re>
-            <t pos="N">kraeviesheegre</t>
+            <t pos="N" src="husbykuhmunen">kraeviesheegre</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">egretthegre</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">egretta alba</re>
-            <t pos="N">egretteheegre</t>
+            <t pos="N" src="husbykuhmunen">egretteheegre</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">rørdrum</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">botaurus stellaris</re>
-            <t pos="N">boehtelaavloje</t>
+            <t pos="N" src="husbykuhmunen">boehtelaavloje</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">stork</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">ciconia ciconia</re>
-            <t pos="N">storke</t>
+            <t pos="N" src="husbykuhmunen">storke</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">flamingo</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">phoenicopterus ruber</re>
-            <t pos="N">flamingo</t>
+            <t pos="N" src="husbykuhmunen">flamingo</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">knoppsvane</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">cygnus olor</re>
-            <t pos="N">dohpere-njoktje</t>
+            <t pos="N" src="husbykuhmunen">dohpere-njoktje</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">sangsvane</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">cygnus cygnus</re>
-            <t pos="N">njoktje</t>
+            <t pos="N" src="husbykuhmunen">njoktje</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">dvergsvane</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">cygnus columbianus</re>
-            <t pos="N">tjavre-njoktje</t>
+            <t pos="N" src="husbykuhmunen">tjavre-njoktje</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">sædgås</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">anser fabalis fabalis</re>
-            <t pos="N">skaenjehke</t>
+            <t pos="N" src="husbykuhmunen">skaenjehke</t>
             <t pos="N">gaase</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">kortnebbgås</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">anser brachyrhynchus</re>
-            <t pos="N">njuenie-gaase</t>
+            <t pos="N" src="husbykuhmunen">njuenie-gaase</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">tundragås</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">anser albifrons</re>
-            <t pos="N">plïejhke-gaase</t>
+            <t pos="N" src="husbykuhmunen">plïejhke-gaase</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">dverggås</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">anser erythropus</re>
-            <t pos="N">skaanja</t>
+            <t pos="N" src="husbykuhmunen">skaanja</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">grågås</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">anser anser</re>
-            <t pos="N">kraevies-gaase</t>
+            <t pos="N" src="husbykuhmunen">kraevies-gaase</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">stripegås</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">anser indicus</re>
-            <t pos="N">straenjiegaase</t>
+            <t pos="N" src="husbykuhmunen">straenjiegaase</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">snøgås</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">anser caerulescens</re>
-            <t pos="N">lopmegaase</t>
+            <t pos="N" src="husbykuhmunen">lopmegaase</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">kanadagås</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">branta canadensis</re>
-            <t pos="N">kaanadagaase</t>
+            <t pos="N" src="husbykuhmunen">kaanadagaase</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">hvitkinngås</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">branta leucopsis</re>
-            <t pos="N">skiehriegaase</t>
+            <t pos="N" src="husbykuhmunen">skiehriegaase</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">ringgås</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">branta bernicla</re>
-            <t pos="N">ringsijegaase</t>
+            <t pos="N" src="husbykuhmunen">ringsijegaase</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">gravand</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">tadorna tadorna</re>
-            <t pos="N">kroehketjååtsele</t>
+            <t pos="N" src="husbykuhmunen">kroehketjååtsele</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">brunnakke</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">anas penelope</re>
-            <t pos="N">rohtjehke-tjovrese</t>
+            <t pos="N" src="husbykuhmunen">rohtjehke-tjovrese</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">snadderand</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">anas strepera</re>
-            <t pos="N">gaegkietjååtsele</t>
+            <t pos="N" src="husbykuhmunen">gaegkietjååtsele</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">krikkand</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">anas crecca</re>
-            <t pos="N">strïktje</t>
+            <t pos="N" src="husbykuhmunen">strïktje</t>
             <t pos="N">strïtjke</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">stokkand</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">anas platyrhynchos</re>
-            <t pos="N">våånjke</t>
+            <t pos="N" src="husbykuhmunen">våånjke</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">stjertand</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">anas acuta</re>
-            <t pos="N">siejpie-tjååtsele</t>
+            <t pos="N" src="husbykuhmunen">siejpie-tjååtsele</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">knekkand</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">anas querquedula</re>
-            <t pos="N">knïjhtjetjååtsele</t>
+            <t pos="N" src="husbykuhmunen">knïjhtjetjååtsele</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">skjeand</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">anas clypeata</re>
-            <t pos="N">bustetjååtsele</t>
+            <t pos="N" src="husbykuhmunen">bustetjååtsele</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">taffeland</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">aythya ferina</re>
-            <t pos="N">provnetjååtsele</t>
+            <t pos="N" src="husbykuhmunen">provnetjååtsele</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">toppand</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">aythya fuligula</re>
-            <t pos="N">gïereh-tjååtsele</t>
+            <t pos="N" src="husbykuhmunen">gïereh-tjååtsele</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">bergand</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">aythya marila</re>
-            <t pos="N">bïerje-tjååtsele</t>
+            <t pos="N" src="husbykuhmunen">bïerje-tjååtsele</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">ærfugl</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">somateria mollissima</re>
-            <t pos="N">nååke</t>
+            <t pos="N" src="husbykuhmunen">nååke</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">praktærfugl</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">somateria spectabilis</re>
-            <t pos="N">nååkegånka</t>
+            <t pos="N" src="husbykuhmunen">nååkegånka</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">stellerand</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">polysticta stelleri</re>
-            <t pos="N">stelleretjååtsele</t>
+            <t pos="N" src="husbykuhmunen">stelleretjååtsele</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">havelle</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">clangula hyemalis</re>
-            <t pos="N">aahalla</t>
+            <t pos="N" src="husbykuhmunen">aahalla</t>
             <t pos="N">aah´la</t>
             <t pos="N">haah´la</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">svartand</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">melanitta nigra</re>
-            <t pos="N">njorke</t>
+            <t pos="N" src="husbykuhmunen">njorke</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">sjøorre</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">melanitta fusca</re>
-            <t pos="N">skåårre</t>
+            <t pos="N" src="husbykuhmunen">skåårre</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">kvinand</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">bucephala clangula</re>
-            <t pos="N">tjåerkie</t>
+            <t pos="N" src="husbykuhmunen">tjåerkie</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">lappfiskand</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">mergellus albellus</re>
-            <t pos="N">noerhte-gåelsie</t>
+            <t pos="N" src="husbykuhmunen">noerhte-gåelsie</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">siland</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">mergus serrator</re>
-            <t pos="N">voeptegåelsie</t>
+            <t pos="N" src="husbykuhmunen">voeptegåelsie</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">laksand</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">mergus merganser</re>
-            <t pos="N">gåelsie</t>
+            <t pos="N" src="husbykuhmunen">gåelsie</t>
             <t pos="N">liejpiegåelsie</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">fiskeørn</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">pandion haliaetus</re>
-            <t pos="N">gïerkehtse</t>
+            <t pos="N" src="husbykuhmunen">gïerkehtse</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">vepsevåk</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">pernis apivorus</re>
-            <t pos="N">veapsa-spåajme</t>
+            <t pos="N" src="husbykuhmunen">veapsa-spåajme</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">glente</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">milvus milvus</re>
-            <t pos="N">geerje</t>
+            <t pos="N" src="husbykuhmunen">geerje</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">havørn</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">haliaeetus albicilla</re>
-            <t pos="N">jaevrien-aarhtse</t>
+            <t pos="N" src="husbykuhmunen">jaevrien-aarhtse</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">myrhauk</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">circus cyaneus</re>
-            <t pos="N">pluevie-haepkie</t>
+            <t pos="N" src="husbykuhmunen">pluevie-haepkie</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">sivhauk</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">circus aeruginosus</re>
-            <t pos="N">raavre-haepkie</t>
+            <t pos="N" src="husbykuhmunen">raavre-haepkie</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">spurvehauk</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">accipiter nisus</re>
-            <t pos="N">tsohtsije</t>
+            <t pos="N" src="husbykuhmunen">tsohtsije</t>
             <t pos="N">tsohtsije-haepkie</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">hønsehauk</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">accipiter gentilis</re>
-            <t pos="N">gåehpele-haepkie</t>
+            <t pos="N" src="husbykuhmunen">gåehpele-haepkie</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">musvåk</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">buteo buteo</re>
-            <t pos="N">snjeara-spåajme</t>
+            <t pos="N" src="husbykuhmunen">snjeara-spåajme</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">kongeørn</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">aquila chrysaetos</re>
-            <t pos="N">tjahken-aarhtse</t>
+            <t pos="N" src="husbykuhmunen">tjahken-aarhtse</t>
             <t pos="N">sååjte</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">tårnfalk</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">falco tinnunculus</re>
-            <t pos="N">rehpie-falhke</t>
+            <t pos="N" src="husbykuhmunen">rehpie-falhke</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">dvergfalk</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">falco columbarius</re>
-            <t pos="N">ohtje-falhke</t>
+            <t pos="N" src="husbykuhmunen">ohtje-falhke</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">lerkefalk</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">falco subbuteo</re>
-            <t pos="N">leerke-falhke</t>
+            <t pos="N" src="husbykuhmunen">leerke-falhke</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">jaktfalk</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">falco rusticolus</re>
-            <t pos="N">vijrije-falhke</t>
+            <t pos="N" src="husbykuhmunen">vijrije-falhke</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">vandrefalk</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">falco peregrinus</re>
-            <t pos="N">valvedhfalhke</t>
+            <t pos="N" src="husbykuhmunen">valvedhfalhke</t>
             <t pos="N">valvemefalhke</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">orrfugl</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">tetrao tetrix</re>
-            <t pos="N">hurrie</t>
+            <t pos="N" src="husbykuhmunen">hurrie</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">storfugl</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">tetrao urogallus</re>
-            <t pos="N">tjaktje</t>
+            <t pos="N" src="husbykuhmunen">tjaktje</t>
             <t pos="N">tjuktjie</t>
             <t pos="N">tjåktja</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">rapphøne</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">perdix perdix</re>
-            <t pos="N">sneehpes-vöönhtse</t>
+            <t pos="N" src="husbykuhmunen">sneehpes-vöönhtse</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">vaktel</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">coturnix coturnix</re>
-            <t pos="N">vaktele</t>
+            <t pos="N" src="husbykuhmunen">vaktele</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">fasan</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">phasianus colchicus</re>
-            <t pos="N">fasaane</t>
+            <t pos="N" src="husbykuhmunen">fasaane</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">vannrikse</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">rallus aquaticus</re>
-            <t pos="N">tjaetsie-gilkije</t>
+            <t pos="N" src="husbykuhmunen">tjaetsie-gilkije</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">åkerrikse</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">crex crex</re>
-            <t pos="N">åakere-ledtie</t>
+            <t pos="N" src="husbykuhmunen">åakere-ledtie</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">myrrikse</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">porzana porzana</re>
-            <t pos="N">aajeh-vöönhtse</t>
+            <t pos="N" src="husbykuhmunen">aajeh-vöönhtse</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">sivhøne</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">gallinula chloropus</re>
-            <t pos="N">rööjre-vöönhtse</t>
+            <t pos="N" src="husbykuhmunen">rööjre-vöönhtse</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">sothøne</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">fulica atra</re>
-            <t pos="N">tjïrre-vöönhtse</t>
+            <t pos="N" src="husbykuhmunen">tjïrre-vöönhtse</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">tjeld</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">haematopus ostralegus</re>
-            <t pos="N">tjïelle</t>
+            <t pos="N" src="husbykuhmunen">tjïelle</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">vipe</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">vanellus vanellus</re>
-            <t pos="N">vïjpe</t>
+            <t pos="N" src="husbykuhmunen">vïjpe</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">heilo</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">pluvialis apricaria</re>
-            <t pos="N">sjorjehke</t>
+            <t pos="N" src="husbykuhmunen">sjorjehke</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">tundralo</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">pluvialis squatarola</re>
-            <t pos="N">mïerege</t>
+            <t pos="N" src="husbykuhmunen">mïerege</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">sandlo</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">charadrius hiaticula</re>
-            <t pos="N">gaedtege</t>
+            <t pos="N" src="husbykuhmunen">gaedtege</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">dverglo</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">charadrius dubius</re>
-            <t pos="N">onnegaedtege</t>
+            <t pos="N" src="husbykuhmunen">onnegaedtege</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">boltit</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">charadrius morinellus</re>
-            <t pos="N">laejjere</t>
+            <t pos="N" src="husbykuhmunen">laejjere</t>
             <t pos="N">laejvere</t>
             <t pos="N">njurke</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">svarthalespove</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">limosa limosa</re>
-            <t pos="N">rööpses-skutjke</t>
+            <t pos="N" src="husbykuhmunen">rööpses-skutjke</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">lappspove</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">limosa lapponica</re>
-            <t pos="N">pluevie-skutjke</t>
+            <t pos="N" src="husbykuhmunen">pluevie-skutjke</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">småspove</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">numenius phaeopus</re>
-            <t pos="N">onne-skutjke</t>
+            <t pos="N" src="husbykuhmunen">onne-skutjke</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">storspove</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">numenius arquata</re>
-            <t pos="N">stoerre-skutjke</t>
+            <t pos="N" src="husbykuhmunen">stoerre-skutjke</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">sotsnipe</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">tringa erythropus</re>
-            <t pos="N">tjeehpestjïevhtje</t>
+            <t pos="N" src="husbykuhmunen">tjeehpestjïevhtje</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">rødstilk</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">tringa totanus</re>
-            <t pos="N">tjevhtje</t>
+            <t pos="N" src="husbykuhmunen">tjevhtje</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">gluttsnipe</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">tringa nebularia</re>
-            <t pos="N">stoerretjïevhtje</t>
+            <t pos="N" src="husbykuhmunen">stoerretjïevhtje</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">skogsnipe</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">tringa ochropus</re>
-            <t pos="N">skåake-tjïevhtje</t>
+            <t pos="N" src="husbykuhmunen">skåake-tjïevhtje</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">grønnstilk</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">tringa glareola</re>
-            <t pos="N">kruana-stïelhke</t>
+            <t pos="N" src="husbykuhmunen">kruana-stïelhke</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">steinvender</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">arenaria interpres</re>
-            <t pos="N">gierkie-jarkije</t>
+            <t pos="N" src="husbykuhmunen">gierkie-jarkije</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">svømmesnipe</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">phalaropus lobatus</re>
-            <t pos="N">voejije-tjïevhtje</t>
+            <t pos="N" src="husbykuhmunen">voejije-tjïevhtje</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">rugde</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">scolopax rusticola</re>
-            <t pos="N">daknge</t>
+            <t pos="N" src="husbykuhmunen">daknge</t>
             <t pos="N">goetske</t>
             <t pos="N">jïjjegoetske</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">dobbeltbekkasin</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">gallinago media</re>
-            <t pos="N">gïerthbekkasijne</t>
+            <t pos="N" src="husbykuhmunen">gïerthbekkasijne</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">enkeltbekkasin</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">gallinago gallinago</re>
-            <t pos="N">baapalohke</t>
+            <t pos="N" src="husbykuhmunen">baapalohke</t>
             <t pos="N">baapelge</t>
             <t pos="N">humhke</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">kvartbekkasin</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">lymnocryptes minimus</re>
-            <t pos="N">goerhtebekkasijne</t>
+            <t pos="N" src="husbykuhmunen">goerhtebekkasijne</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">polarsnipe</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">calidris canutus</re>
-            <t pos="N">noerhte-tjïevhtje</t>
+            <t pos="N" src="husbykuhmunen">noerhte-tjïevhtje</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">sandløper</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">calidris alba</re>
-            <t pos="N">saedtie-roehtije</t>
+            <t pos="N" src="husbykuhmunen">saedtie-roehtije</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">dvergsnipe</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">calidris minuta</re>
-            <t pos="N">onne-tjïevhtje</t>
+            <t pos="N" src="husbykuhmunen">onne-tjïevhtje</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">temmincksnipe</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">calidris temminckii</re>
-            <t pos="N">goelpe-tjïevhtje</t>
+            <t pos="N" src="husbykuhmunen">goelpe-tjïevhtje</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">fjæreplytt</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">calidris maritima</re>
-            <t pos="N">feavroe-tjïevhtje</t>
+            <t pos="N" src="husbykuhmunen">feavroe-tjïevhtje</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">myrsnipe</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">calidris alpina</re>
-            <t pos="N">pluevie-tjïevhtje</t>
+            <t pos="N" src="husbykuhmunen">pluevie-tjïevhtje</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">tundrasnipe</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">calidris ferruginea</re>
-            <t pos="N">guevtele-tjïevhtje</t>
+            <t pos="N" src="husbykuhmunen">guevtele-tjïevhtje</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">fjellmyrløper</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">limicola falcinellus</re>
-            <t pos="N">vaeriepluevie-roehtije</t>
+            <t pos="N" src="husbykuhmunen">vaeriepluevie-roehtije</t>
          </tg>
       </mg>
    </e>
-   <e src="aj">
+   <e>
       <lg>
          <l pos="N">sprinter</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">govjehkeroehtije</t>
+            <t pos="N" src="aj">govjehkeroehtije</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">brushane</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">philomachus pugnax</re>
-            <t pos="N">gåahke-ledtie</t>
+            <t pos="N" src="husbykuhmunen">gåahke-ledtie</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">storjo</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">catharacta skua</re>
-            <t pos="N">stoerre-skaejhtie</t>
+            <t pos="N" src="husbykuhmunen">stoerre-skaejhtie</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">polarjo</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">stercorarius pomarinus</re>
-            <t pos="N">noerhte-skaejhtie</t>
+            <t pos="N" src="husbykuhmunen">noerhte-skaejhtie</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">tyvjo</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">stercorarius</re>
-            <t pos="N">soeleh-skaejhtie</t>
+            <t pos="N" src="husbykuhmunen">soeleh-skaejhtie</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">fjelljo</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">stercorarius</re>
-            <t pos="N">skaajhta</t>
+            <t pos="N" src="husbykuhmunen">skaajhta</t>
             <t pos="N">skaajhtoe</t>
             <t pos="N">skaejhtie</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">ismåke</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">pagophila eburnea</re>
-            <t pos="N">jïenge-moevse</t>
+            <t pos="N" src="husbykuhmunen">jïenge-moevse</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">fiskemåke</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">larus canus</re>
-            <t pos="N">guelie-moevse</t>
+            <t pos="N" src="husbykuhmunen">guelie-moevse</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">gråmåke</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">larus argentatus</re>
-            <t pos="N">kraevies-moevse</t>
+            <t pos="N" src="husbykuhmunen">kraevies-moevse</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">sildemåke</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">larus fuscus</re>
-            <t pos="N">siltie-moevse</t>
+            <t pos="N" src="husbykuhmunen">siltie-moevse</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">svartbak</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">larus marinus</re>
-            <t pos="N">tjeehpes-maerhvie</t>
+            <t pos="N" src="husbykuhmunen">tjeehpes-maerhvie</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">polarmåke</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">larus hyperboreus</re>
-            <t pos="N">noerhte-moevse</t>
+            <t pos="N" src="husbykuhmunen">noerhte-moevse</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">grønlandsmåke</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">larus glaucoides</re>
-            <t pos="N">veelkes-moevse</t>
+            <t pos="N" src="husbykuhmunen">veelkes-moevse</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">hettemåke</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">larus ridibundus</re>
-            <t pos="N">tjohpe-moevse</t>
+            <t pos="N" src="husbykuhmunen">tjohpe-moevse</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">dvergmåke</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">larus minutus</re>
-            <t pos="N">tjavre-moevse</t>
+            <t pos="N" src="husbykuhmunen">tjavre-moevse</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">krykkje</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">rissa tridactyla</re>
-            <t pos="N">krydtja</t>
+            <t pos="N" src="husbykuhmunen">krydtja</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">svartterne</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">chlidonias niger</re>
-            <t pos="N">tjeehpes-dearne</t>
+            <t pos="N" src="husbykuhmunen">tjeehpes-dearne</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">makrellterne</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">sterna hirundo</re>
-            <t pos="N">makrelle-dearne</t>
+            <t pos="N" src="husbykuhmunen">makrelle-dearne</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">rødnebbterne</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">sterna paradisaea</re>
-            <t pos="N">rööpsesnjuenie-dearne</t>
+            <t pos="N" src="husbykuhmunen">rööpsesnjuenie-dearne</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">alkekonge</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">alle alle</re>
-            <t pos="N">aangagånka</t>
+            <t pos="N" src="husbykuhmunen">aangagånka</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">alke</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">alca torda</re>
-            <t pos="N">aanga</t>
+            <t pos="N" src="husbykuhmunen">aanga</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">polarlomvi</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">uria lomvia</re>
-            <t pos="N">noerhte-aanga</t>
+            <t pos="N" src="husbykuhmunen">noerhte-aanga</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">lomvi</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">uria aalge</re>
-            <t pos="N">snjuhtjienjuenie-aalhka</t>
+            <t pos="N" src="husbykuhmunen">snjuhtjienjuenie-aalhka</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">teist</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">cepphus grylle</re>
-            <t pos="N">teejste</t>
+            <t pos="N" src="husbykuhmunen">teejste</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">lunde</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">fratercula arctica</re>
-            <t pos="N">lunda</t>
+            <t pos="N" src="husbykuhmunen">lunda</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">geirfugl</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">pinguinus impennis</re>
-            <t pos="N">geejreledtie</t>
+            <t pos="N" src="husbykuhmunen">geejreledtie</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">klippedue</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">columba livia</re>
-            <t pos="N">baektie-duvvege</t>
+            <t pos="N" src="husbykuhmunen">baektie-duvvege</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">skogdue</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">columba oenas</re>
-            <t pos="N">skåake-duvvege</t>
+            <t pos="N" src="husbykuhmunen">skåake-duvvege</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">ringdue</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">columba palumbus</re>
-            <t pos="N">reagka-duvvege</t>
+            <t pos="N" src="husbykuhmunen">reagka-duvvege</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">turteldue</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">streptopelia turtur</re>
-            <t pos="N">turteleduvvege</t>
+            <t pos="N" src="husbykuhmunen">turteleduvvege</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">tyrkerdue</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">streptopelia decaocto</re>
-            <t pos="N">tyrkereduvvege</t>
+            <t pos="N" src="husbykuhmunen">tyrkereduvvege</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">slagugle</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">strix uralensis</re>
-            <t pos="N">jïhpege</t>
+            <t pos="N" src="husbykuhmunen">jïhpege</t>
             <t pos="N">jïjje-snjagla</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">lappugle</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">strix nebulosa</re>
-            <t pos="N">noerhte-snjagla</t>
+            <t pos="N" src="husbykuhmunen">noerhte-snjagla</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">haukugle</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">surnia ulula</re>
-            <t pos="N">haepkie-snjagla</t>
+            <t pos="N" src="husbykuhmunen">haepkie-snjagla</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">spurveugle</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">glaucidium passerinum</re>
-            <t pos="N">tsöötsege-snjagla</t>
+            <t pos="N" src="husbykuhmunen">tsöötsege-snjagla</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">perleugle</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">aegolius funereus</re>
-            <t pos="N">gïeken-ledtie</t>
+            <t pos="N" src="husbykuhmunen">gïeken-ledtie</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">hornugle</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">asio otus</re>
-            <t pos="N">tjåervie-snjagla</t>
+            <t pos="N" src="husbykuhmunen">tjåervie-snjagla</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">jordugle</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">asio flammeus</re>
-            <t pos="N">jåarta-snjagla</t>
+            <t pos="N" src="husbykuhmunen">jåarta-snjagla</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">nattravn</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">caprimulgus europaeus</re>
-            <t pos="N">jïjjeravne</t>
+            <t pos="N" src="husbykuhmunen">jïjjeravne</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">tårnseiler</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">apus apus</re>
-            <t pos="N">tåarne-siglije</t>
+            <t pos="N" src="husbykuhmunen">tåarne-siglije</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">isfugl</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">alcedo atthis</re>
-            <t pos="N">jïenge-ledtie</t>
+            <t pos="N" src="husbykuhmunen">jïenge-ledtie</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">hærfugl</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">upupa epops</re>
-            <t pos="N">foeve-ledtie</t>
+            <t pos="N" src="husbykuhmunen">foeve-ledtie</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">vendehals</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">jynx torquilla</re>
-            <t pos="N">tjaajnaledtie</t>
+            <t pos="N" src="husbykuhmunen">tjaajnaledtie</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">dvergspett</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">dendrocopos minor</re>
-            <t pos="N">moere-gïeletje</t>
+            <t pos="N" src="husbykuhmunen">moere-gïeletje</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">hvitryggspett</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">dendrocopos leucotos</re>
-            <t pos="N">veelkesrudtjetsöölhke</t>
+            <t pos="N" src="husbykuhmunen">veelkesrudtjetsöölhke</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">flaggspett</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">dendrocopos major</re>
-            <t pos="N">goese-tsoelhke</t>
+            <t pos="N" src="husbykuhmunen">goese-tsoelhke</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">tretåspett</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">picoides tridactylus</re>
-            <t pos="N">moere-tsöölhke</t>
+            <t pos="N" src="husbykuhmunen">moere-tsöölhke</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">svartspett</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">dryocopus martius</re>
-            <t pos="N">moere-gaarenes</t>
+            <t pos="N" src="husbykuhmunen">moere-gaarenes</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">grønnspett</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">picus viridis</re>
-            <t pos="N">kruanatsöölhke</t>
+            <t pos="N" src="husbykuhmunen">kruanatsöölhke</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">gråspett</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">picus canus</re>
-            <t pos="N">kraeviestsöölhke</t>
+            <t pos="N" src="husbykuhmunen">kraeviestsöölhke</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">sanglerke</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">alauda arvensis</re>
-            <t pos="N">voelere-ledtie</t>
+            <t pos="N" src="husbykuhmunen">voelere-ledtie</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">fjellerke</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">eremophila alpestris</re>
-            <t pos="N">vaerie-ledtie</t>
+            <t pos="N" src="husbykuhmunen">vaerie-ledtie</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">sandsvale</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">riparia riparia</re>
-            <t pos="N">saedtie-svaala</t>
+            <t pos="N" src="husbykuhmunen">saedtie-svaala</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">låvesvale</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">hirundo rustica</re>
-            <t pos="N">laaroe-svaala</t>
+            <t pos="N" src="husbykuhmunen">laaroe-svaala</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">taksvale</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">delichon urbica</re>
-            <t pos="N">rehpie-svaala</t>
+            <t pos="N" src="husbykuhmunen">rehpie-svaala</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">gulerle</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">motacilla flava</re>
-            <t pos="N">siessele</t>
+            <t pos="N" src="husbykuhmunen">siessele</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">vintererle</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">motacilla cinerea</re>
-            <t pos="N">daelvie-siessele</t>
+            <t pos="N" src="husbykuhmunen">daelvie-siessele</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">heipiplerke</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">anthus pratensis</re>
-            <t pos="N">hiejjeplæhtjege</t>
+            <t pos="N" src="husbykuhmunen">hiejjeplæhtjege</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">trepiplerke</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">anthus trivialis</re>
-            <t pos="N">moereplæhtjege</t>
+            <t pos="N" src="husbykuhmunen">moereplæhtjege</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">lappiplerke</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">anthus cervinus</re>
-            <t pos="N">noerhteplæhtjege</t>
+            <t pos="N" src="husbykuhmunen">noerhteplæhtjege</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">skjærpiplerke</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">anthus petrosus</re>
-            <t pos="N">skæjroeplæhtjege</t>
+            <t pos="N" src="husbykuhmunen">skæjroeplæhtjege</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">linerle</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">motacilla alba</re>
-            <t pos="N">tjoejhke-ledtie</t>
+            <t pos="N" src="husbykuhmunen">tjoejhke-ledtie</t>
             <t pos="N">sjetnele</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">tornskate</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">lanius collurio</re>
-            <t pos="N">tåarne-skæjroe</t>
+            <t pos="N" src="husbykuhmunen">tåarne-skæjroe</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">varsler</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">lanius excubitor</re>
-            <t pos="N">bïerkele</t>
+            <t pos="N" src="husbykuhmunen">bïerkele</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">sidensvans</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">bombycilla garrulus</re>
-            <t pos="N">silhke-siejpie</t>
+            <t pos="N" src="husbykuhmunen">silhke-siejpie</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">fossekall</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">cinclus cinclus</re>
-            <t pos="N">voeknge</t>
+            <t pos="N" src="husbykuhmunen">voeknge</t>
             <t pos="N">snjïetjke</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">gjerdesmett</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">troglodytes</re>
-            <t pos="N">tseagkoe-siejpie</t>
+            <t pos="N" src="husbykuhmunen">tseagkoe-siejpie</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">jernspurv</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">prunella modularis</re>
-            <t pos="N">ruevtie-tsyjhtsehke</t>
+            <t pos="N" src="husbykuhmunen">ruevtie-tsyjhtsehke</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">rødstrupe</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">erithacus rubecula</re>
-            <t pos="N">rööpses-skuvmie</t>
+            <t pos="N" src="husbykuhmunen">rööpses-skuvmie</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">nattergal</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">luscinia luscinia</re>
-            <t pos="N">jïjje-voelere</t>
+            <t pos="N" src="husbykuhmunen">jïjje-voelere</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">svartrødstjert</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">phoenicurus ochruros</re>
-            <t pos="N">tjeehpesrööpses-siejpie</t>
+            <t pos="N" src="husbykuhmunen">tjeehpesrööpses-siejpie</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">rødstjert</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">phoenicurus</re>
-            <t pos="N">rööpses-siejpie</t>
+            <t pos="N" src="husbykuhmunen">rööpses-siejpie</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">buskskvett</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">saxicola rubetra</re>
-            <t pos="N">båskoestrïjhtje</t>
+            <t pos="N" src="husbykuhmunen">båskoestrïjhtje</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">svartstrupe</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">saxicola torquata</re>
-            <t pos="N">tjeehpes-gealoe</t>
+            <t pos="N" src="husbykuhmunen">tjeehpes-gealoe</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">steinskvett</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">oenanthe oenanthe</re>
-            <t pos="N">gierkiestrïjhtje</t>
+            <t pos="N" src="husbykuhmunen">gierkiestrïjhtje</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">ringtrost</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">turdus torquatus</re>
-            <t pos="N">gievlie-traasta</t>
+            <t pos="N" src="husbykuhmunen">gievlie-traasta</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">svarttrost</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">turdus merula</re>
-            <t pos="N">tjeehpes-traasta</t>
+            <t pos="N" src="husbykuhmunen">tjeehpes-traasta</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">gråtrost</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">turdus pilaris</re>
-            <t pos="N">kraevies-traasta</t>
+            <t pos="N" src="husbykuhmunen">kraevies-traasta</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">rødvingetrost</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">turdus iliacus</re>
-            <t pos="N">liejpie-traasta</t>
+            <t pos="N" src="husbykuhmunen">liejpie-traasta</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">måltrost</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">turdus philomelos</re>
-            <t pos="N">vijhtsele</t>
+            <t pos="N" src="husbykuhmunen">vijhtsele</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">duetrost</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">turdus viscivorus</re>
-            <t pos="N">duvvege-traasta</t>
+            <t pos="N" src="husbykuhmunen">duvvege-traasta</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">gresshoppesanger</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">locustella naevia</re>
-            <t pos="N">njålhtjavijhtsere</t>
+            <t pos="N" src="husbykuhmunen">njålhtjavijhtsere</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">elvesanger</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">locustella fluviatilis</re>
-            <t pos="N">jeanoevijhtsere</t>
+            <t pos="N" src="husbykuhmunen">jeanoevijhtsere</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">sivsanger</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">acrocephalus</re>
-            <t pos="N">raavrevijhtsere</t>
+            <t pos="N" src="husbykuhmunen">raavrevijhtsere</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">rørsanger</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">acrocephalus</re>
-            <t pos="N">rööjrevijhtsere</t>
+            <t pos="N" src="husbykuhmunen">rööjrevijhtsere</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">myrsanger</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">acrocephalus palustris</re>
-            <t pos="N">pluevievijhtsere</t>
+            <t pos="N" src="husbykuhmunen">pluevievijhtsere</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">trostesanger</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">acrocephalus</re>
-            <t pos="N">traastevijhtsere</t>
+            <t pos="N" src="husbykuhmunen">traastevijhtsere</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">gulsanger</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">hippolais icterina</re>
-            <t pos="N">viskesvijhtsere</t>
+            <t pos="N" src="husbykuhmunen">viskesvijhtsere</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">løvsanger</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">phylloscopus trochilus</re>
-            <t pos="N">skajjere</t>
+            <t pos="N" src="husbykuhmunen">skajjere</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">gransanger</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">phylloscopus collybita</re>
-            <t pos="N">goesevijhtsere</t>
+            <t pos="N" src="husbykuhmunen">goesevijhtsere</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">bøksanger</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">phylloscopus</re>
-            <t pos="N">boekevijhtsere</t>
+            <t pos="N" src="husbykuhmunen">boekevijhtsere</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">gulbrynsanger</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">phylloscopus inornatus</re>
-            <t pos="N">råhtoevijhtsere</t>
+            <t pos="N" src="husbykuhmunen">råhtoevijhtsere</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">lappsanger</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">phylloscopus borealis</re>
-            <t pos="N">noerhtevijhtsere</t>
+            <t pos="N" src="husbykuhmunen">noerhtevijhtsere</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">munk</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">sylvia atricapilla</re>
-            <t pos="N">tjohpevijhtsere</t>
+            <t pos="N" src="husbykuhmunen">tjohpevijhtsere</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">hagesanger</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">sylvia borin</re>
-            <t pos="N">såafoevijhtsere</t>
+            <t pos="N" src="husbykuhmunen">såafoevijhtsere</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">tornsanger</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">sylvia communis</re>
-            <t pos="N">tåarnevijhtsere</t>
+            <t pos="N" src="husbykuhmunen">tåarnevijhtsere</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">møller</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">sylvia curruca</re>
-            <t pos="N">earhtenevijhtsere</t>
+            <t pos="N" src="husbykuhmunen">earhtenevijhtsere</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">hauksanger</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">sylvia nisoria</re>
-            <t pos="N">haepkievijhtsere</t>
+            <t pos="N" src="husbykuhmunen">haepkievijhtsere</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">fuglekonge</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">regulus regulus</re>
-            <t pos="N">ledtie-gånka</t>
+            <t pos="N" src="husbykuhmunen">ledtie-gånka</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">gråfluesnapper</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">muscicapa striata</re>
-            <t pos="Phrase">kraevies tjovrehke-dijpije</t>
+            <t pos="Phrase" src="husbykuhmunen">kraevies tjovrehke-dijpije</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">svarthvit</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">ficedula hypoleuca</re>
-            <t pos="Phrase">derhvie tjööse-dijpije</t>
+            <t pos="Phrase" src="husbykuhmunen">derhvie tjööse-dijpije</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">stjertmeis</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">aegithalos caudatus</re>
-            <t pos="N">siejpie-tsyjhtsehke</t>
+            <t pos="N" src="husbykuhmunen">siejpie-tsyjhtsehke</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">løvmeis</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">parus palustris</re>
-            <t pos="N">laste-tsyjhtsehke</t>
+            <t pos="N" src="husbykuhmunen">laste-tsyjhtsehke</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">granmeis</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">parus montanus</re>
-            <t pos="N">tjïjhtjatja</t>
+            <t pos="N" src="husbykuhmunen">tjïjhtjatja</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">lappmeis</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">parus cinctus</re>
-            <t pos="N">noerhte-tsyjhtsehke</t>
+            <t pos="N" src="husbykuhmunen">noerhte-tsyjhtsehke</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">svartmeis</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">parus ater</re>
-            <t pos="N">tjeehpes-tsyjhtsehke</t>
+            <t pos="N" src="husbykuhmunen">tjeehpes-tsyjhtsehke</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">toppmeis</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">parus cristatus</re>
-            <t pos="N">voepte-tsyjhtsehke</t>
+            <t pos="N" src="husbykuhmunen">voepte-tsyjhtsehke</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">blåmeis</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">parus caeruleus</re>
-            <t pos="N">plaave-tsyjhtsehke</t>
+            <t pos="N" src="husbykuhmunen">plaave-tsyjhtsehke</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">spettmeis</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">sitta europaea</re>
-            <t pos="N">tsïjtsele</t>
+            <t pos="N" src="husbykuhmunen">tsïjtsele</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">trekryper</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">certhia familiaris</re>
-            <t pos="N">moere-kråapije</t>
+            <t pos="N" src="husbykuhmunen">moere-kråapije</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">gulspurv</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">emberiza citrinella</re>
-            <t pos="N">viskes-tsöötsege</t>
+            <t pos="N" src="husbykuhmunen">viskes-tsöötsege</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">hortulan</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">emberiza hortulana</re>
-            <t pos="N">hortulaane</t>
+            <t pos="N" src="husbykuhmunen">hortulaane</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">dvergspurv</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">emberiza pusilla</re>
-            <t pos="N">tjavre-tsöötsege</t>
+            <t pos="N" src="husbykuhmunen">tjavre-tsöötsege</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">vierspurv</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">emberiza rustica</re>
-            <t pos="N">sïerke-tsöötsege</t>
+            <t pos="N" src="husbykuhmunen">sïerke-tsöötsege</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">sivspurv</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">emberiza schoeniclus</re>
-            <t pos="N">raavre-tsöötsege</t>
+            <t pos="N" src="husbykuhmunen">raavre-tsöötsege</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">lappspurv</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">calcarius lapponicus</re>
-            <t pos="N">noerhte-tsöötsege</t>
+            <t pos="N" src="husbykuhmunen">noerhte-tsöötsege</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">bokfink</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">fringilla coelebs</re>
-            <t pos="N">boekefæntoe</t>
+            <t pos="N" src="husbykuhmunen">boekefæntoe</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">bjørkefink</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">fringilla</re>
-            <t pos="N">såekiefæntoe</t>
+            <t pos="N" src="husbykuhmunen">såekiefæntoe</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">grønnfink</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">carduelis chloris</re>
-            <t pos="N">kruanafæntoe</t>
+            <t pos="N" src="husbykuhmunen">kruanafæntoe</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">grønnsisik</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">carduelis spinus</re>
-            <t pos="N">kruanatjijhtjehke</t>
+            <t pos="N" src="husbykuhmunen">kruanatjijhtjehke</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">stillits</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">carduelis carduelis</re>
-            <t pos="N">stïjlitse</t>
+            <t pos="N" src="husbykuhmunen">stïjlitse</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">brunsisik</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">carduelis cabaret</re>
-            <t pos="N">provnetjijhtjehke</t>
+            <t pos="N" src="husbykuhmunen">provnetjijhtjehke</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">bergirisk</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">carduelis flavirostris</re>
-            <t pos="N">bïerje-ïjriske</t>
+            <t pos="N" src="husbykuhmunen">bïerje-ïjriske</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">tornirisk</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">carduelis cannabina</re>
-            <t pos="N">tåarne-ïjriske</t>
+            <t pos="N" src="husbykuhmunen">tåarne-ïjriske</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">rosenfink</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">carpodacus erythrinus</re>
-            <t pos="N">rovsefæntoe</t>
+            <t pos="N" src="husbykuhmunen">rovsefæntoe</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">konglebit</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">pinicola enucleator</re>
-            <t pos="N">bietsie-bæhta</t>
+            <t pos="N" src="husbykuhmunen">bietsie-bæhta</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">furukorsnebb</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">loxia pytyopsittacus</re>
-            <t pos="N">bietsie-njuenie</t>
+            <t pos="N" src="husbykuhmunen">bietsie-njuenie</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">grankorsnebb</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">loxia curvirostra</re>
-            <t pos="N">goese-njuenie</t>
+            <t pos="N" src="husbykuhmunen">goese-njuenie</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">båndkorsnebb</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">loxia leucoptera</re>
-            <t pos="N">baante-njuenie</t>
+            <t pos="N" src="husbykuhmunen">baante-njuenie</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">dompap</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">pyrrhula pyrrhula</re>
-            <t pos="N">rööpses-mïelke</t>
+            <t pos="N" src="husbykuhmunen">rööpses-mïelke</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">kjernebiter</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">coccothraustes</re>
-            <t pos="N">gierkie-gaetskije</t>
+            <t pos="N" src="husbykuhmunen">gierkie-gaetskije</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">gråsisik</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">carduelis flammea</re>
-            <t pos="N">kraeviestjijhtjehke</t>
+            <t pos="N" src="husbykuhmunen">kraeviestjijhtjehke</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">polarsisik</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">carduelis hornemanni</re>
-            <t pos="N">lopmetjijhtjehke</t>
+            <t pos="N" src="husbykuhmunen">lopmetjijhtjehke</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">gråspurv</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">passer domesticus</re>
-            <t pos="N">kraevies-tsöötsege</t>
+            <t pos="N" src="husbykuhmunen">kraevies-tsöötsege</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">pilfink</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">passer montanus</re>
-            <t pos="N">njoelefæntoe</t>
+            <t pos="N" src="husbykuhmunen">njoelefæntoe</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">rosenstær</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">sturnus roseus</re>
-            <t pos="N">rovse-stiere</t>
+            <t pos="N" src="husbykuhmunen">rovse-stiere</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">stær</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">sturnus vulgaris</re>
-            <t pos="N">stiere</t>
+            <t pos="N" src="husbykuhmunen">stiere</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">pirol</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">oriolus oriolus</re>
-            <t pos="N">giesie-vyskehke</t>
+            <t pos="N" src="husbykuhmunen">giesie-vyskehke</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">lavskrike</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">perisoreus infaustus</re>
-            <t pos="N">goeksege</t>
+            <t pos="N" src="husbykuhmunen">goeksege</t>
             <t pos="N">guaksa</t>
             <t pos="N">kruaksa</t>
          </tg>
@@ -71139,231 +71139,231 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">nøttekråke</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">nucifraga</re>
-            <t pos="N">nöödte-voerhtje</t>
+            <t pos="N" src="husbykuhmunen">nöödte-voerhtje</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">kaie</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">corvus monedula</re>
-            <t pos="N">voerhtjetje</t>
+            <t pos="N" src="husbykuhmunen">voerhtjetje</t>
             <t pos="N">kaaja</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">kornkråke</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">corvus frugilegus</re>
-            <t pos="N">gernie-voerhtje</t>
+            <t pos="N" src="husbykuhmunen">gernie-voerhtje</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">svartkråke</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">corvus corone</re>
-            <t pos="N">tjeehpes-voerhtje</t>
+            <t pos="N" src="husbykuhmunen">tjeehpes-voerhtje</t>
          </tg>
       </mg>
    </e>
-   <e src="husbykuhmunen">
+   <e>
       <lg>
          <l pos="N">bydue</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">columba livia</re>
-            <t pos="N">staare-duvvege</t>
+            <t pos="N" src="husbykuhmunen">staare-duvvege</t>
          </tg>
       </mg>
    </e>
-   <e src="BergslandMagga">
+   <e>
       <lg>
          <l pos="N">greplyng</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">Loiseleuria procumbens</re>
-            <t pos="N">bahkenhïngse</t>
+            <t pos="N" src="BergslandMagga">bahkenhïngse</t>
          </tg>
       </mg>
    </e>
-   <e src="BergslandMagga">
+   <e>
       <lg>
          <l pos="N">kjøttflue</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">Sarcophagia carnaria</re>
-            <t pos="N">bajhkebovrege</t>
+            <t pos="N" src="BergslandMagga">bajhkebovrege</t>
          </tg>
       </mg>
    </e>
-   <e src="BergslandMagga">
+   <e>
       <lg>
          <l pos="N">blåstrupe</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">Luscinia suecica</re>
-            <t pos="N">bealloeladtetje</t>
+            <t pos="N" src="BergslandMagga">bealloeladtetje</t>
          </tg>
       </mg>
    </e>
-   <e src="BergslandMagga">
+   <e>
       <lg>
          <l pos="N">blokkebær</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">Vaccinium uliginosum</re>
-            <t pos="N">bïekerenmuerjie</t>
+            <t pos="N" src="BergslandMagga">bïekerenmuerjie</t>
          </tg>
       </mg>
    </e>
-   <e src="BergslandMagga">
+   <e>
       <lg>
          <l pos="N">mikkelsbær</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">Vaccinium uliginosum</re>
-            <t pos="N">bïekerenmuerjie</t>
+            <t pos="N" src="BergslandMagga">bïekerenmuerjie</t>
          </tg>
       </mg>
    </e>
-   <e src="BergslandMagga">
+   <e>
       <lg>
          <l pos="N">skinntryte</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">Vaccinium uliginosum</re>
-            <t pos="N">bïekerenmuerjie</t>
+            <t pos="N" src="BergslandMagga">bïekerenmuerjie</t>
          </tg>
       </mg>
    </e>
-   <e src="BergslandMagga">
+   <e>
       <lg>
          <l pos="N">do</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">boetskes-gåetie</t>
+            <t pos="N" src="BergslandMagga">boetskes-gåetie</t>
          </tg>
       </mg>
    </e>   
-      <e src="BergslandMagga">
+      <e>
       <lg>
          <l pos="N">fotograf</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">guvviedæjja</t>
+            <t pos="N" src="BergslandMagga">guvviedæjja</t>
          </tg>
       </mg>
    </e>
-      <e src="BergslandMagga">
+      <e>
       <lg>
          <l pos="N">smokk</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">dåmhpa</t>
+            <t pos="N" src="BergslandMagga">dåmhpa</t>
          </tg>
       </mg>
    </e>
-      <e src="BergslandMagga">
+      <e>
       <lg>
          <l pos="N">propp</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">dåmhpa</t>
+            <t pos="N" src="BergslandMagga">dåmhpa</t>
          </tg>
       </mg>
    </e>  
-   <e src="BergslandMagga">
+   <e>
       <lg>
          <l pos="N">WC</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">boetskesgåetie</t>
-            <t pos="N">onnegåetie</t>
+            <t pos="N" src="BergslandMagga">onnegåetie</t>
          </tg>
       </mg>
    </e>
-   <e src="BergslandMagga">
+   <e>
       <lg>
          <l pos="N">blinding</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">Chrysops caecutiens</re>
-            <t pos="N">deatjalommes</t>
+            <t pos="N" src="BergslandMagga">deatjalommes</t>
          </tg>
       </mg>
    </e>
-   <e src="BergslandMagga">
+   <e>
       <lg>
          <l pos="N">lusegras</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">Lycopodium selago</re>
-            <t pos="N">dihkienkraesie</t>
+            <t pos="N" src="BergslandMagga">dihkienkraesie</t>
          </tg>
       </mg>
    </e>
-   <e src="BergslandMagga">
+   <e>
       <lg>
          <l pos="N">marikåpe</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">Alchemilla vulgaris</re>
-            <t pos="N">doerehke</t>
+            <t pos="N" src="BergslandMagga">doerehke</t>
          </tg>
       </mg>
    </e>
-   <e src="BergslandMagga">
+   <e>
       <lg>
          <l pos="N">begerlav</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">Cladonia</re>
-            <t pos="N">dovhkeburhvie</t>
+            <t pos="N" src="BergslandMagga">dovhkeburhvie</t>
          </tg>
       </mg>
    </e>
-   <e src="BergslandMagga">
+   <e>
       <lg>
          <l pos="N">tepperot</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">Potentilla erecta</re>
-            <t pos="N">fïerpene</t>
+            <t pos="N" src="BergslandMagga">fïerpene</t>
             <t pos="N">fïerpese</t>
             <t pos="N">fïerpenroehtse</t>
          </tg>
@@ -71380,97 +71380,97 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e src="BergslandMagga">
+   <e>
       <lg>
          <l pos="N">tranebær</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">Oxycoccus quadripetalus</re>
-            <t pos="N">gïekenmuerjie</t>
+            <t pos="N" src="BergslandMagga">gïekenmuerjie</t>
             <t pos="N">bealhtoenmuerjie</t>
             <t pos="N">bïekerenmuerjie</t>
          </tg>
       </mg>
    </e>
-   <e src="BergslandMagga">
+   <e>
       <lg>
          <l pos="N">mjødurt</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">Filipendula ulmaria</re>
-            <t pos="N">jovnesåhkoekraesie</t>
+            <t pos="N" src="BergslandMagga">jovnesåhkoekraesie</t>
          </tg>
       </mg>
    </e>
-   <e src="BergslandMagga">
+   <e>
       <lg>
          <l pos="N">hersketeknikk</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">diblemevuekie</t>
+            <t pos="N" src="BergslandMagga">diblemevuekie</t>
          </tg>
       </mg>
    </e>
-   <e src="BergslandMagga">
+   <e>
       <lg>
          <l pos="N">masteravhandling</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">maasteretjaalaldahke</t>
+            <t pos="N" src="BergslandMagga">maasteretjaalaldahke</t>
          </tg>
       </mg>
    </e>
-   <e src="BergslandMagga">
+   <e>
       <lg>
          <l pos="N">bacheloravhandling</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">bacheloretjaalaldahke</t>
+            <t pos="N" src="BergslandMagga">bacheloretjaalaldahke</t>
          </tg>
       </mg>
    </e>
-   <e src="BergslandMagga">
+   <e>
       <lg>
          <l pos="N">doktoravhandling</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">dåakteretjaalaldahke</t>
+            <t pos="N" src="BergslandMagga">dåakteretjaalaldahke</t>
          </tg>
       </mg>
    </e> 
-   <e src="BergslandMagga">
+   <e>
       <lg>
          <l pos="N">verdensrom</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">almadahke</t>
+            <t pos="N" src="BergslandMagga">almadahke</t>
          </tg>
       </mg>
    </e>
-   <e src="BergslandMagga">
+   <e>
       <lg>
          <l pos="N">spennebånd</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">gaarhkesbaante</t>
+            <t pos="N" src="BergslandMagga">gaarhkesbaante</t>
          </tg>
       </mg>
    </e>
-   <e src="BergslandMagga">
+   <e>
       <lg>
          <l pos="N">jekkebånd</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">gaarhkesbaante</t>
+            <t pos="N" src="BergslandMagga">gaarhkesbaante</t>
          </tg>
       </mg>
    </e>

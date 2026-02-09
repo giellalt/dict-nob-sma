@@ -3612,23 +3612,23 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-    <e note="checked" src="lmm">
+    <e note="checked">
       <lg>
          <l pos="A">midlertidig</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A">annjebodts</t>
+            <t pos="A" src="lmm">annjebodts</t>
          </tg>
       </mg>
    </e>
-   <e note="checked" src="lmm">
+   <e note="checked">
       <lg>
          <l pos="A">foreløpig</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A">annjebodts</t>
+            <t pos="A" src="lmm">annjebodts</t>
          </tg>
       </mg>
    </e>
@@ -9616,13 +9616,13 @@ For the full license text, see the link above.</lic>
       </tg>
     </mg>
   </e>
-      <e src="BergslandMagga">
+      <e>
       <lg>
          <l pos="A">inhabil</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">bealasadtje</t>
+            <t pos="N" src="BergslandMagga">bealasadtje</t>
          </tg>
       </mg>
    </e>
@@ -10311,227 +10311,225 @@ For the full license text, see the link above.</lic>
       </tg>
     </mg>
   </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="A">arbeidskrevende</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A">barkoes</t>
+            <t pos="A" src="gg">barkoes</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="A">digital</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A">digitaale</t>
+            <t pos="A" src="gg">digitaale</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="A">eneveldig</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">aajnereerije</t>
+            <t pos="N" src="gg">aajnereerije</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="A">folkevalgt</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A">almetjiveeljeme</t>
+            <t pos="A" src="gg">almetjiveeljeme</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="A">grufull</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A">ïskeres</t>
+            <t pos="A" src="gg">ïskeres</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="A">grunnleggende</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A">maadthvåarome</t>
+            <t pos="A" src="gg">maadthvåarome</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="A">homofil</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A">homofïjle</t>
+            <t pos="A" src="gg">homofïjle</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="A">kjedelig</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A">ov-rovne</t>
+            <t pos="A" src="gg">ov-rovne</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="A">kommersiell</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A">åesiestimmes</t>
+            <t pos="A" src="gg">åesiestimmes</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="A">konservativ</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A">konservatijve</t>
+            <t pos="A" src="gg">konservatijve</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="A">loddrett</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A">tseagkode</t>
+            <t pos="A" src="gg">tseagkode</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="A">magisk</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A">åavtoes</t>
+            <t pos="A" src="gg">åavtoes</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="A">negativ</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A">negatijve</t>
+            <t pos="A" src="gg">negatijve</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="A">oppfinnsom</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A">hæhtadihks</t>
+            <t pos="A" src="gg">hæhtadihks</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="A">protestantisk</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A">protestantiske</t>
+            <t pos="A" src="gg">protestantiske</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="A">radikal</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A">radikaale</t>
+            <t pos="A" src="gg">radikaale</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="A">ren</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A">raajne</t>
+            <t pos="A" src="gg">raajne</t>
             <t pos="A">raejnies</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="A">rosa</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A">råvsa</t>
+            <t pos="A" src="gg">råvsa</t>
          </tg>
       </mg>
    </e>
-   <e note="checked" src="lmm">
+   <e note="checked">
       <lg>
          <l pos="A">syndig</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A">sådteres</t>
-         </tg>
-         <tg xml:lang="sma">
-            <t pos="A">sadteres</t>
+            <t pos="A" src="lmm">sådteres</t>
+            <t pos="A" src="lmm">sadteres</t>
          </tg>
       </mg>
    </e>
-   <e note="betyr opprinnelig upraktisk" src="gg">
+   <e note="betyr opprinnelig upraktisk">
       <lg>
          <l pos="A">stedfortredende</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A">sæjjasadtje</t>
+            <t pos="A" src="gg">sæjjasadtje</t>
          </tg>
       </mg>
    </e>
-   <e note="betyr opprinnelig upraktisk" src="gg">
+   <e note="betyr opprinnelig upraktisk">
       <lg>
          <l pos="A">ugyldig</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A">ovdæjpele</t>
+            <t pos="A" src="gg">ovdæjpele</t>
          </tg>
       </mg>
    </e>
-   <e src="gg">
+   <e>
       <lg>
          <l pos="A">sammenhengende</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="A">ektenes</t>
+            <t pos="A" src="gg">ektenes</t>
          </tg>
       </mg>
    </e>
