@@ -2019,7 +2019,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Phrase">dohkh diekie</t>
+            <t t_type="phrase">dohkh diekie</t>
             <xg>
                <x>Øynene beveger seg fram og tilbake.</x>
                <xt>Tjelmieh vååjnoeh dohkh diekie juhtieh.</xt>
@@ -2096,7 +2096,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Phrase">dohkh diekie</t>
+            <t t_type="phrase">dohkh diekie</t>
             <xg>
                <x>Øynene beveger seg fram og tilbake.</x>
                <xt>Tjelmieh vååjnoeh dohkh diekie juhtieh.</xt>
@@ -2317,7 +2317,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">først nå</l>
+         <l t_type="phrase">først nå</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -2997,7 +2997,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Phrase">gööktesi gööktesi</t>
+            <t t_type="phrase">gööktesi gööktesi</t>
             <xg>
                <x>De gikk framover parvis.</x>
                <xt>Gööktesi gööktesi åvtese veedtsin.</xt>
@@ -3011,7 +3011,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Phrase">gööktesi gööktesi</t>
+            <t t_type="phrase">gööktesi gööktesi</t>
             <xg>
                <x>De gikk to og to framover.</x>
                <xt>Gööktesi gööktesi åvtese veedtsin.</xt>
@@ -3072,7 +3072,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Phrase">dellie maajetjh</t>
+            <t t_type="phrase">dellie maajetjh</t>
          </tg>
       </mg>
       <mg>
@@ -3519,7 +3519,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Phrase">don biejjien</t>
+            <t t_type="phrase">don biejjien</t>
          </tg>
       </mg>
    </e>
@@ -3625,7 +3625,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Phrase">man åvteste</t>
+            <t t_type="phrase">man åvteste</t>
          </tg>
       </mg>
    </e>
@@ -3848,8 +3848,8 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Phrase">muvhten aejkien</t>
-            <t pos="Phrase">naan aejkien</t>
+            <t t_type="phrase">muvhten aejkien</t>
+            <t t_type="phrase">naan aejkien</t>
          </tg>
       </mg>
    </e>
@@ -6108,7 +6108,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Phrase">biejjeste måbpan</t>
+            <t t_type="phrase">biejjeste måbpan</t>
          </tg>
       </mg>
    </e>
@@ -6118,7 +6118,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Phrase">dan man jïjnjem</t>
+            <t t_type="phrase">dan man jïjnjem</t>
          </tg>
       </mg>
    </e>
@@ -6128,7 +6128,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Phrase">dan man jïjnjem</t>
+            <t t_type="phrase">dan man jïjnjem</t>
          </tg>
       </mg>
    </e>
@@ -6138,7 +6138,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Phrase">dan soe</t>
+            <t t_type="phrase">dan soe</t>
          </tg>
       </mg>
    </e>
@@ -6148,7 +6148,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Phrase">dellie maajetjh</t>
+            <t t_type="phrase">dellie maajetjh</t>
          </tg>
       </mg>
       <mg>
@@ -6167,7 +6167,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Phrase">dellie maajetjh</t>
+            <t t_type="phrase">dellie maajetjh</t>
          </tg>
       </mg>
    </e>
@@ -6177,7 +6177,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Phrase">don biejjien</t>
+            <t t_type="phrase">don biejjien</t>
          </tg>
       </mg>
    </e>
@@ -6187,7 +6187,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Phrase">dunnie bealesne</t>
+            <t t_type="phrase">dunnie bealesne</t>
          </tg>
       </mg>
    </e>
@@ -6197,7 +6197,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Phrase">dusnie daesnie</t>
+            <t t_type="phrase">dusnie daesnie</t>
          </tg>
       </mg>
    </e>
@@ -6207,37 +6207,37 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Phrase">gaajhkene lehkesne</t>
+            <t t_type="phrase">gaajhkene lehkesne</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">på mange steder</l>
+         <l t_type="phrase">på mange steder</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Phrase">gellene lehkesne</t>
+            <t t_type="phrase">gellene lehkesne</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">i to</l>
+         <l t_type="phrase">i to</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Phrase">guektien haerien</t>
+            <t t_type="phrase">guektien haerien</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">i to deler</l>
+         <l t_type="phrase">i to deler</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Phrase">göökten haaran</t>
+            <t t_type="phrase">göökten haaran</t>
          </tg>
       </mg>
       <mg>
@@ -6248,41 +6248,41 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">innen rekkevidde</l>
+         <l t_type="phrase">innen rekkevidde</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Phrase">jakseme mieresne</t>
+            <t t_type="phrase">jakseme mieresne</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">knapt nok</l>
+         <l t_type="phrase">knapt nok</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Phrase">madtan laakan</t>
+            <t t_type="phrase">madtan laakan</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">i hvilken hensikt</l>
+         <l t_type="phrase">i hvilken hensikt</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Phrase">man gaavhtan</t>
+            <t t_type="phrase">man gaavhtan</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">hva er i veien</l>
+         <l t_type="phrase">hva er i veien</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Phrase">mij faatoes</t>
+            <t t_type="phrase">mij faatoes</t>
          </tg>
       </mg>
    </e>
@@ -6292,7 +6292,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Phrase">novh amma</t>
+            <t t_type="phrase">novh amma</t>
          </tg>
       </mg>
       <mg>
@@ -6325,7 +6325,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Phrase">novh amma</t>
+            <t t_type="phrase">novh amma</t>
          </tg>
       </mg>
       <mg>
@@ -6344,7 +6344,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Phrase">novh hævvi</t>
+            <t t_type="phrase">novh hævvi</t>
             <t pos="Pcle">hævvi</t>
             <xg>
                <x>ja selvfølgelig</x>
@@ -6359,7 +6359,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Phrase">voestes gietjeste</t>
+            <t t_type="phrase">voestes gietjeste</t>
          </tg>
       </mg>
    </e>
@@ -6460,7 +6460,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">er det slik at</l>
+         <l t_type="phrase">er det slik at</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -6503,7 +6503,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">slik nå jeg forstår</l>
+         <l t_type="phrase">slik nå jeg forstår</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -6633,7 +6633,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">der bortenfor</l>
+         <l t_type="phrase">der bortenfor</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -6669,7 +6669,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">borte i det fjerne</l>
+         <l t_type="phrase">borte i det fjerne</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -6693,8 +6693,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Phrase">ij gåessie</t>
-            <t pos="Phrase">ij gåessie gænnah</t>
+            <t t_type="phrase">ij gåessie</t>
+            <t t_type="phrase">ij gåessie gænnah</t>
             <t type="grammar" href="https://oahpa.no/sma/gramm/adverb.nob.html#Tidsadverb">les i grammatikken</t>            
             <xg>
                <x>Jeg tenker aldri på den måten.</x>

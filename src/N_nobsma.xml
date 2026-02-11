@@ -95,10 +95,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
          <re>ha innflytelse</re>
-            <t pos="Phrase">maehtedh maam mïsse darjodh</t>
-            <t pos="Phrase">maehtedh maam gïese jiehtedh</t>
-            <t pos="Phrase">maam/giem dijpedh</t>
-            <t pos="Phrase">gogkoe maehtedh dijpedh</t>
+            <t t_type="phrase">maehtedh maam mïsse darjodh</t>
+            <t t_type="phrase">maehtedh maam gïese jiehtedh</t>
+            <t t_type="phrase">maam/giem dijpedh</t>
+            <t t_type="phrase">gogkoe maehtedh dijpedh</t>
          </tg>
       </mg>
    </e>
@@ -165,7 +165,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">trykkende vær</l>
+         <l t_type="phrase">trykkende vær</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -201,7 +201,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">ustadig vind</l>
+         <l t_type="phrase">ustadig vind</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -231,7 +231,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">usikkert vær</l>
+         <l t_type="phrase">usikkert vær</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -707,7 +707,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Phrase">vijrije almetjh</t>
+            <t t_type="phrase">vijrije almetjh</t>
          </tg>
       </mg>
    </e>
@@ -717,7 +717,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Phrase">vijrije almetjh</t>
+            <t t_type="phrase">vijrije almetjh</t>
          </tg>
       </mg>
    </e>
@@ -804,7 +804,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">offentlig dokument</l>
+         <l t_type="phrase">offentlig dokument</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -1263,11 +1263,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">venstre side</l>
+         <l t_type="phrase">venstre side</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Phrase">gårroeh bielie</t>
+            <t t_type="phrase">gårroeh bielie</t>
          </tg>
       </mg>
       <mg>
@@ -1278,11 +1278,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">høyre side</l>
+         <l t_type="phrase">høyre side</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Phrase">åelkies bielie</t>
+            <t t_type="phrase">åelkies bielie</t>
          </tg>
       </mg>
    </e>
@@ -1603,7 +1603,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">eldre kvinne</l>
+         <l t_type="phrase">eldre kvinne</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -1613,7 +1613,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">bestemors barnebarn</l>
+         <l t_type="phrase">bestemors barnebarn</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -1684,7 +1684,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">eldre mann</l>
+         <l t_type="phrase">eldre mann</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -1694,7 +1694,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">bestefars barnebarn</l>
+         <l t_type="phrase">bestefars barnebarn</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -1743,7 +1743,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">søskenbarn innbyrdes</l>
+         <l t_type="phrase">søskenbarn innbyrdes</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -1861,7 +1861,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">spor etter reinflokk</l>
+         <l t_type="phrase">spor etter reinflokk</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -1871,7 +1871,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">flyttevei på snø eller sumpig mark</l>
+         <l t_type="phrase">flyttevei på snø eller sumpig mark</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -2275,7 +2275,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">steinet område</l>
+         <l t_type="phrase">steinet område</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -2908,7 +2908,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">melankolisk sinn</l>
+         <l t_type="phrase">melankolisk sinn</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -2944,7 +2944,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">god smak</l>
+         <l t_type="phrase">god smak</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -3008,7 +3008,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">hårside av barket skinn</l>
+         <l t_type="phrase">hårside av barket skinn</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -3150,7 +3150,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">frodig eng</l>
+         <l t_type="phrase">frodig eng</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -3200,7 +3200,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">stang til å henge noe på</l>
+         <l t_type="phrase">stang til å henge noe på</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -3387,7 +3387,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">god tid</l>
+         <l t_type="phrase">god tid</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -3447,7 +3447,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">varmt vær</l>
+         <l t_type="phrase">varmt vær</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -3727,7 +3727,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">rim og regler</l>
+         <l t_type="phrase">rim og regler</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -3767,7 +3767,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">snor til å henge ting på</l>
+         <l t_type="phrase">snor til å henge ting på</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -3924,7 +3924,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">liten gutt</l>
+         <l t_type="phrase">liten gutt</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -3988,7 +3988,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">St. Bartolomeusmesse den 24. august</l>
+         <l t_type="phrase">St. Bartolomeusmesse den 24. august</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -4076,7 +4076,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">del av reinhorn</l>
+         <l t_type="phrase">del av reinhorn</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -4101,7 +4101,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">bratt berg</l>
+         <l t_type="phrase">bratt berg</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -4121,7 +4121,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">bestemt tid</l>
+         <l t_type="phrase">bestemt tid</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -5128,7 +5128,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">liten haug</l>
+         <l t_type="phrase">liten haug</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -5361,7 +5361,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">daglig gjest</l>
+         <l t_type="phrase">daglig gjest</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -5450,7 +5450,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">halv omkrets</l>
+         <l t_type="phrase">halv omkrets</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -5868,7 +5868,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">liten stund</l>
+         <l t_type="phrase">liten stund</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -5878,7 +5878,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">kort veistykke</l>
+         <l t_type="phrase">kort veistykke</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -5888,7 +5888,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">liten avstand</l>
+         <l t_type="phrase">liten avstand</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -6376,7 +6376,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">bratt skogvokst helling</l>
+         <l t_type="phrase">bratt skogvokst helling</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -6453,7 +6453,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">kanting av tøy eller skinn</l>
+         <l t_type="phrase">kanting av tøy eller skinn</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -6550,7 +6550,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">god nyhet</l>
+         <l t_type="phrase">god nyhet</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -6680,7 +6680,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">liten skje</l>
+         <l t_type="phrase">liten skje</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -6810,7 +6810,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">offentlig bygning</l>
+         <l t_type="phrase">offentlig bygning</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -6820,7 +6820,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">offentlig språk</l>
+         <l t_type="phrase">offentlig språk</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -6830,7 +6830,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">offentlige papirer</l>
+         <l t_type="phrase">offentlige papirer</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -6926,7 +6926,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">bofast person</l>
+         <l t_type="phrase">bofast person</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -7006,7 +7006,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">matplassen innerst i gamma</l>
+         <l t_type="phrase">matplassen innerst i gamma</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -7016,7 +7016,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">åpning ovenfor matplassen i gamma, midt imot døråpningen</l>
+         <l t_type="phrase">åpning ovenfor matplassen i gamma, midt imot døråpningen</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -7202,7 +7202,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">ås som er treløs på toppen</l>
+         <l t_type="phrase">ås som er treløs på toppen</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -7530,7 +7530,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">lurvet hund</l>
+         <l t_type="phrase">lurvet hund</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -7540,7 +7540,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">hund med tykk pels</l>
+         <l t_type="phrase">hund med tykk pels</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -7791,7 +7791,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Phrase">ij mij</t>
+            <t t_type="phrase">ij mij</t>
             <xg>
                <x>Det står ingenting om det her.</x>
                <xt>Ij mij daesnie tjåadtjoeh dan bïjre.</xt>
@@ -7977,7 +7977,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">fullvokst gress</l>
+         <l t_type="phrase">fullvokst gress</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -8179,7 +8179,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">norsk språk</l>
+         <l t_type="phrase">norsk språk</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -8195,7 +8195,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">svensk språk</l>
+         <l t_type="phrase">svensk språk</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -8497,7 +8497,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">gift datter</l>
+         <l t_type="phrase">gift datter</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -8557,7 +8557,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">fjellkam mot horisonten</l>
+         <l t_type="phrase">fjellkam mot horisonten</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -8688,7 +8688,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">pulk til teltstenger</l>
+         <l t_type="phrase">pulk til teltstenger</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -8738,7 +8738,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">underlag for å servere mat</l>
+         <l t_type="phrase">underlag for å servere mat</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -8916,7 +8916,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">midlertidig byggverk av lang vannrett stokk dekt med skråstilte stranger med ris og torv oppå</l>
+         <l t_type="phrase">midlertidig byggverk av lang vannrett stokk dekt med skråstilte stranger med ris og torv oppå</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -8946,7 +8946,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">verdiløs ting</l>
+         <l t_type="phrase">verdiløs ting</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -8987,7 +8987,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">remse av skinn eller klede i sømmen</l>
+         <l t_type="phrase">remse av skinn eller klede i sømmen</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -9083,7 +9083,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">økonomisk støtte</l>
+         <l t_type="phrase">økonomisk støtte</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -9248,7 +9248,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">ond ånd</l>
+         <l t_type="phrase">ond ånd</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -9303,7 +9303,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">ris på jordgolvet</l>
+         <l t_type="phrase">ris på jordgolvet</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -9373,7 +9373,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">skinnet på undersiden av reinens hode</l>
+         <l t_type="phrase">skinnet på undersiden av reinens hode</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -9383,7 +9383,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">rund reinbjelle</l>
+         <l t_type="phrase">rund reinbjelle</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -9403,7 +9403,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">lite skinn</l>
+         <l t_type="phrase">lite skinn</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -9821,7 +9821,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">fangarm til reingjerde</l>
+         <l t_type="phrase">fangarm til reingjerde</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -10325,7 +10325,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">ferdigkokt kjøtt</l>
+         <l t_type="phrase">ferdigkokt kjøtt</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -10335,7 +10335,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">mørt kjøtt</l>
+         <l t_type="phrase">mørt kjøtt</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -10463,7 +10463,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">dump lyd</l>
+         <l t_type="phrase">dump lyd</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -10503,7 +10503,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">kragefett omkring tynntarmen</l>
+         <l t_type="phrase">kragefett omkring tynntarmen</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -10746,7 +10746,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">gift sønn</l>
+         <l t_type="phrase">gift sønn</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -10856,7 +10856,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">felles mål</l>
+         <l t_type="phrase">felles mål</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -10932,7 +10932,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">første regndråpen</l>
+         <l t_type="phrase">første regndråpen</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -11632,7 +11632,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">uskikkelig unge</l>
+         <l t_type="phrase">uskikkelig unge</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -12002,7 +12002,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">fottøy av skalleskinn med hår</l>
+         <l t_type="phrase">fottøy av skalleskinn med hår</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -12062,7 +12062,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">kjølig regnvær</l>
+         <l t_type="phrase">kjølig regnvær</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -12082,7 +12082,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">liten bekk fra kilde</l>
+         <l t_type="phrase">liten bekk fra kilde</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -12092,7 +12092,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">avbarket tørt tre</l>
+         <l t_type="phrase">avbarket tørt tre</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -12336,7 +12336,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">korsrygg på slakt</l>
+         <l t_type="phrase">korsrygg på slakt</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -12417,7 +12417,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">sving i elv eller bekk</l>
+         <l t_type="phrase">sving i elv eller bekk</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -12427,7 +12427,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">trang til å gjespe</l>
+         <l t_type="phrase">trang til å gjespe</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -12540,7 +12540,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">liten skål</l>
+         <l t_type="phrase">liten skål</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -12550,7 +12550,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">flat haug</l>
+         <l t_type="phrase">flat haug</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -12570,7 +12570,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">kjertel mellom klovene på reinens bakfot</l>
+         <l t_type="phrase">kjertel mellom klovene på reinens bakfot</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -12615,7 +12615,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">ryggsekk med lokk</l>
+         <l t_type="phrase">ryggsekk med lokk</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -12645,7 +12645,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">rykende ild uten flamme</l>
+         <l t_type="phrase">rykende ild uten flamme</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -12695,7 +12695,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">høy bratt fjelltopp</l>
+         <l t_type="phrase">høy bratt fjelltopp</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -12720,7 +12720,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">grav ute i marka</l>
+         <l t_type="phrase">grav ute i marka</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -12864,7 +12864,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">pose til sysaker</l>
+         <l t_type="phrase">pose til sysaker</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -12874,7 +12874,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">pose til leker</l>
+         <l t_type="phrase">pose til leker</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -12939,7 +12939,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">sted i elv med sterk strøm</l>
+         <l t_type="phrase">sted i elv med sterk strøm</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -12949,7 +12949,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">strøm i bekk</l>
+         <l t_type="phrase">strøm i bekk</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -12959,7 +12959,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">frossen fisk</l>
+         <l t_type="phrase">frossen fisk</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -12969,7 +12969,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">kaldt vann</l>
+         <l t_type="phrase">kaldt vann</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -13034,7 +13034,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">hanske av leggskinn</l>
+         <l t_type="phrase">hanske av leggskinn</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -13166,7 +13166,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">midt på dagen</l>
+         <l t_type="phrase">midt på dagen</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -13358,7 +13358,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">liten stein</l>
+         <l t_type="phrase">liten stein</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -13627,7 +13627,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">foss i bekk</l>
+         <l t_type="phrase">foss i bekk</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -13657,7 +13657,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">klandresyk person</l>
+         <l t_type="phrase">klandresyk person</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -13732,7 +13732,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">kjepp som man holder kaffekjelen med over bålet</l>
+         <l t_type="phrase">kjepp som man holder kaffekjelen med over bålet</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -13842,7 +13842,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">tre hvor det er festet skavjern for å trekke skinn gjennom for mykgjøring</l>
+         <l t_type="phrase">tre hvor det er festet skavjern for å trekke skinn gjennom for mykgjøring</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -13872,7 +13872,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">jern for å trekke skinn gjennom for mykgjøring</l>
+         <l t_type="phrase">jern for å trekke skinn gjennom for mykgjøring</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -13926,7 +13926,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
 	         <re>til forveksling</re>
-            <t pos="Phrase">vihth masten</t>
+            <t t_type="phrase">vihth masten</t>
          </tg>
       </mg>
    </e>
@@ -13952,7 +13952,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">husgeråd for sommeren</l>
+         <l t_type="phrase">husgeråd for sommeren</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -14067,7 +14067,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">messe til minne om Jesusbarnet den 2. februar</l>
+         <l t_type="phrase">messe til minne om Jesusbarnet den 2. februar</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -14194,7 +14194,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">skinnsko av bellinger med hårene på</l>
+         <l t_type="phrase">skinnsko av bellinger med hårene på</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -14308,7 +14308,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">kvart alen</l>
+         <l t_type="phrase">kvart alen</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -14611,7 +14611,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">utmattet hannrein etter brunst</l>
+         <l t_type="phrase">utmattet hannrein etter brunst</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -14621,7 +14621,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">dårlig kniv</l>
+         <l t_type="phrase">dårlig kniv</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -14696,7 +14696,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">grafisk bilde</l>
+         <l t_type="phrase">grafisk bilde</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -14731,7 +14731,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">liten fisk</l>
+         <l t_type="phrase">liten fisk</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -14816,7 +14816,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">liten gjest</l>
+         <l t_type="phrase">liten gjest</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -14881,7 +14881,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">lyden av reinens klover</l>
+         <l t_type="phrase">lyden av reinens klover</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -14916,7 +14916,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">kaldt vær om sommeren</l>
+         <l t_type="phrase">kaldt vær om sommeren</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -14997,7 +14997,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">fiskerik sjø</l>
+         <l t_type="phrase">fiskerik sjø</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -15185,7 +15185,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">sprekk mellom snøbre og fjell</l>
+         <l t_type="phrase">sprekk mellom snøbre og fjell</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -15357,7 +15357,7 @@ For the full license text, see the link above.</lic>
    </e> 
    <e>
       <lg>
-         <l pos="Phrase">tvunnet bånd</l>
+         <l t_type="phrase">tvunnet bånd</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -15367,7 +15367,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">tvunnet garn</l>
+         <l t_type="phrase">tvunnet garn</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -15407,7 +15407,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">innbilsk person</l>
+         <l t_type="phrase">innbilsk person</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -15488,7 +15488,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">levret blod</l>
+         <l t_type="phrase">levret blod</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -15498,7 +15498,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">lang smal ås med utsikt til begge sider</l>
+         <l t_type="phrase">lang smal ås med utsikt til begge sider</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -15508,7 +15508,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">lem i fjellsiden</l>
+         <l t_type="phrase">lem i fjellsiden</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -15588,7 +15588,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">snøfokk langs bakken</l>
+         <l t_type="phrase">snøfokk langs bakken</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -15675,7 +15675,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">hjulbeint person</l>
+         <l t_type="phrase">hjulbeint person</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -15796,7 +15796,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">redskap til å bøye ski</l>
+         <l t_type="phrase">redskap til å bøye ski</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -15816,7 +15816,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">mors eldre søster</l>
+         <l t_type="phrase">mors eldre søster</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -15826,7 +15826,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">mors eldre kusine</l>
+         <l t_type="phrase">mors eldre kusine</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -15836,7 +15836,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">mormors eldre søster</l>
+         <l t_type="phrase">mormors eldre søster</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -15846,7 +15846,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">tantebarn til mors eldre søster</l>
+         <l t_type="phrase">tantebarn til mors eldre søster</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -16211,7 +16211,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">løkke av lær for feste av bånd</l>
+         <l t_type="phrase">løkke av lær for feste av bånd</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -16293,7 +16293,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">oppholdssted for natten</l>
+         <l t_type="phrase">oppholdssted for natten</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -16348,7 +16348,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">skrikende person eller vesen</l>
+         <l t_type="phrase">skrikende person eller vesen</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -16535,7 +16535,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">lite spor</l>
+         <l t_type="phrase">lite spor</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -16756,7 +16756,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">siderom i reingjerde for skilling</l>
+         <l t_type="phrase">siderom i reingjerde for skilling</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -16827,7 +16827,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">fremste pulken</l>
+         <l t_type="phrase">fremste pulken</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -16878,7 +16878,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">litt fløte eller rømme</l>
+         <l t_type="phrase">litt fløte eller rømme</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -16904,7 +16904,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
 	         <re>utover våren</re>
-            <t pos="Phrase">gïjre doekoe</t>
+            <t t_type="phrase">gïjre doekoe</t>
          </tg>
       </mg>
       <mg>
@@ -17023,7 +17023,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">pinne til å tre fiskegarn på</l>
+         <l t_type="phrase">pinne til å tre fiskegarn på</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -17156,7 +17156,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">øvre margbein på reinens framfot</l>
+         <l t_type="phrase">øvre margbein på reinens framfot</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -17221,7 +17221,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">dårlig side</l>
+         <l t_type="phrase">dårlig side</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -17231,7 +17231,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">svak side</l>
+         <l t_type="phrase">svak side</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -17757,7 +17757,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">fnugg som flyr omkring</l>
+         <l t_type="phrase">fnugg som flyr omkring</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -18012,7 +18012,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">den nederste del av et fjell</l>
+         <l t_type="phrase">den nederste del av et fjell</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -18052,7 +18052,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">dyp kulp</l>
+         <l t_type="phrase">dyp kulp</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -18168,7 +18168,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">forkastet eller oppgitt noe</l>
+         <l t_type="phrase">forkastet eller oppgitt noe</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -18238,7 +18238,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">sent på dagen</l>
+         <l t_type="phrase">sent på dagen</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -18248,7 +18248,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">noe man må bøte for</l>
+         <l t_type="phrase">noe man må bøte for</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -18448,7 +18448,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">slette mellom to elver</l>
+         <l t_type="phrase">slette mellom to elver</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -18527,7 +18527,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">flat og åpen dal</l>
+         <l t_type="phrase">flat og åpen dal</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -18650,7 +18650,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">stor elv</l>
+         <l t_type="phrase">stor elv</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -18710,7 +18710,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">eiendom i form av reinflokk</l>
+         <l t_type="phrase">eiendom i form av reinflokk</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -18810,7 +18810,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">levende vesen</l>
+         <l t_type="phrase">levende vesen</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -18820,7 +18820,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">livmor med foster</l>
+         <l t_type="phrase">livmor med foster</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -18865,7 +18865,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">rundt hårlag på reinens bakfot på innsiden av hasen</l>
+         <l t_type="phrase">rundt hårlag på reinens bakfot på innsiden av hasen</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -18994,7 +18994,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">tantebarn til filletante</l>
+         <l t_type="phrase">tantebarn til filletante</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -19004,7 +19004,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">filletante sitt tantebarn</l>
+         <l t_type="phrase">filletante sitt tantebarn</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -19059,7 +19059,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">dagen i morgen</l>
+         <l t_type="phrase">dagen i morgen</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -19069,7 +19069,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">kjøttsiden på skinn</l>
+         <l t_type="phrase">kjøttsiden på skinn</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -19124,7 +19124,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">område langs elv</l>
+         <l t_type="phrase">område langs elv</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -19170,7 +19170,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">tåstropp på skibinding</l>
+         <l t_type="phrase">tåstropp på skibinding</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -19320,7 +19320,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">hull i reinskinn etter framføttene</l>
+         <l t_type="phrase">hull i reinskinn etter framføttene</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -19330,7 +19330,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">reim til å knytte kløvkorga fast med</l>
+         <l t_type="phrase">reim til å knytte kløvkorga fast med</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -19340,7 +19340,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">bakreim på skibinding eller kløv</l>
+         <l t_type="phrase">bakreim på skibinding eller kløv</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -19375,7 +19375,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">kaldt vær</l>
+         <l t_type="phrase">kaldt vær</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -19540,7 +19540,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">mors fetter</l>
+         <l t_type="phrase">mors fetter</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -19581,7 +19581,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">videregående skole</l>
+         <l t_type="phrase">videregående skole</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -19786,7 +19786,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">flat åpen dal</l>
+         <l t_type="phrase">flat åpen dal</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -19817,7 +19817,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">storparten av reinhjorden</l>
+         <l t_type="phrase">storparten av reinhjorden</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -19889,7 +19889,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">svarteste natta</l>
+         <l t_type="phrase">svarteste natta</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -19994,7 +19994,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">hvit som rim</l>
+         <l t_type="phrase">hvit som rim</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -20044,7 +20044,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">morbror- og søsterbarn</l>
+         <l t_type="phrase">morbror- og søsterbarn</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -20250,7 +20250,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">melk blandet med vann</l>
+         <l t_type="phrase">melk blandet med vann</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -20270,7 +20270,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">snøblind person</l>
+         <l t_type="phrase">snøblind person</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -20368,7 +20368,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">lyden av reinhjord som kommer</l>
+         <l t_type="phrase">lyden av reinhjord som kommer</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -20428,7 +20428,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">litt gress</l>
+         <l t_type="phrase">litt gress</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -20438,7 +20438,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">lite gresstrå</l>
+         <l t_type="phrase">lite gresstrå</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -20458,7 +20458,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">landskap med berg og ur</l>
+         <l t_type="phrase">landskap med berg og ur</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -20498,7 +20498,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">kaffetilsetning av fløte, ost eller kjøtt</l>
+         <l t_type="phrase">kaffetilsetning av fløte, ost eller kjøtt</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -20564,7 +20564,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">samlet reinhjord</l>
+         <l t_type="phrase">samlet reinhjord</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -20594,7 +20594,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">forsamling av mennesker</l>
+         <l t_type="phrase">forsamling av mennesker</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -20679,7 +20679,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">lite gressbevokst område i fjellet</l>
+         <l t_type="phrase">lite gressbevokst område i fjellet</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -20789,7 +20789,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">kroket snute</l>
+         <l t_type="phrase">kroket snute</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -20940,7 +20940,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">udøpt spebarn</l>
+         <l t_type="phrase">udøpt spebarn</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -21115,7 +21115,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">lite brød</l>
+         <l t_type="phrase">lite brød</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -21221,7 +21221,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">hengeløv på sølje</l>
+         <l t_type="phrase">hengeløv på sølje</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -21339,7 +21339,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">engelsk syke</l>
+         <l t_type="phrase">engelsk syke</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -21349,7 +21349,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">liten fugl</l>
+         <l t_type="phrase">liten fugl</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -21577,7 +21577,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">avsats i fjellsiden</l>
+         <l t_type="phrase">avsats i fjellsiden</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -21612,7 +21612,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">bakstykke i pulk eller komse</l>
+         <l t_type="phrase">bakstykke i pulk eller komse</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -21838,7 +21838,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">ubestemt sted eller kant</l>
+         <l t_type="phrase">ubestemt sted eller kant</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -21927,7 +21927,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">smittsom sykdom i reinens klover</l>
+         <l t_type="phrase">smittsom sykdom i reinens klover</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -21967,7 +21967,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">kopper og kar</l>
+         <l t_type="phrase">kopper og kar</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -22072,7 +22072,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">kalv som en eldre simle tar til seg som sin egen</l>
+         <l t_type="phrase">kalv som en eldre simle tar til seg som sin egen</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -22162,7 +22162,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">spor etter reinflokk i snøen</l>
+         <l t_type="phrase">spor etter reinflokk i snøen</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -22182,7 +22182,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">lukket pulk med lokk og lås</l>
+         <l t_type="phrase">lukket pulk med lokk og lås</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -22242,7 +22242,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">kalv uten mor</l>
+         <l t_type="phrase">kalv uten mor</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -22252,7 +22252,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">spener som sitter så tett at de kan melkes samtidig</l>
+         <l t_type="phrase">spener som sitter så tett at de kan melkes samtidig</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -22460,7 +22460,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">reinens hviletid</l>
+         <l t_type="phrase">reinens hviletid</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -22640,7 +22640,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">skinn med pels av stort dyr</l>
+         <l t_type="phrase">skinn med pels av stort dyr</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -22660,7 +22660,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">sitteplassen på hver side av arnen i gamma</l>
+         <l t_type="phrase">sitteplassen på hver side av arnen i gamma</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -22725,7 +22725,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">liten gressdal</l>
+         <l t_type="phrase">liten gressdal</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -22745,7 +22745,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">fint bjørkeris med løv</l>
+         <l t_type="phrase">fint bjørkeris med løv</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -22846,7 +22846,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">pyntebånd langs nerkanten på kofta</l>
+         <l t_type="phrase">pyntebånd langs nerkanten på kofta</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -22921,7 +22921,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">isterdekke rundt vommen</l>
+         <l t_type="phrase">isterdekke rundt vommen</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -22975,7 +22975,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">ryggrad med kjøtt av slaktet dyr</l>
+         <l t_type="phrase">ryggrad med kjøtt av slaktet dyr</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -23020,7 +23020,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">kalv som får kalv</l>
+         <l t_type="phrase">kalv som får kalv</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -23080,7 +23080,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">saft fra trær</l>
+         <l t_type="phrase">saft fra trær</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -23249,7 +23249,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">lang veg</l>
+         <l t_type="phrase">lang veg</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -23259,7 +23259,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">stor avstand</l>
+         <l t_type="phrase">stor avstand</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -23289,7 +23289,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">varmt vær uten sol om dagen eller natten</l>
+         <l t_type="phrase">varmt vær uten sol om dagen eller natten</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -23299,7 +23299,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">myggplage etter solnedgang</l>
+         <l t_type="phrase">myggplage etter solnedgang</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -23319,7 +23319,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">svoger gift med eldre søster</l>
+         <l t_type="phrase">svoger gift med eldre søster</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -23344,7 +23344,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">konas yngre bror</l>
+         <l t_type="phrase">konas yngre bror</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -23688,7 +23688,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">skinn av nyfødt reinkalv</l>
+         <l t_type="phrase">skinn av nyfødt reinkalv</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -23698,7 +23698,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">liten reinkalv</l>
+         <l t_type="phrase">liten reinkalv</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -23708,7 +23708,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">mors yngre søster</l>
+         <l t_type="phrase">mors yngre søster</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -23728,7 +23728,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">mors yngre kusine</l>
+         <l t_type="phrase">mors yngre kusine</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -23784,7 +23784,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">dal som går over fjellet</l>
+         <l t_type="phrase">dal som går over fjellet</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -23853,7 +23853,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">listig person</l>
+         <l t_type="phrase">listig person</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -24030,7 +24030,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">barn av en kvinnes kusine</l>
+         <l t_type="phrase">barn av en kvinnes kusine</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -24040,7 +24040,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">fallende snø</l>
+         <l t_type="phrase">fallende snø</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -24060,7 +24060,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">kraftig snøvær</l>
+         <l t_type="phrase">kraftig snøvær</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -24085,7 +24085,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">sykdomsstyggen sjøl</l>
+         <l t_type="phrase">sykdomsstyggen sjøl</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -24095,7 +24095,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">den onde</l>
+         <l t_type="phrase">den onde</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -24234,7 +24234,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">pulsåren nærmest hjertet</l>
+         <l t_type="phrase">pulsåren nærmest hjertet</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -24275,7 +24275,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">emne til pels</l>
+         <l t_type="phrase">emne til pels</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -24285,7 +24285,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">lite bær</l>
+         <l t_type="phrase">lite bær</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -24295,7 +24295,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">liten frukt</l>
+         <l t_type="phrase">liten frukt</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -24305,7 +24305,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">tiltale til eldre kvinne</l>
+         <l t_type="phrase">tiltale til eldre kvinne</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -24390,7 +24390,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">overskyet vær</l>
+         <l t_type="phrase">overskyet vær</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -24410,7 +24410,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">fugl som legger egg</l>
+         <l t_type="phrase">fugl som legger egg</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -24499,7 +24499,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">gammel kjerring</l>
+         <l t_type="phrase">gammel kjerring</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -24552,7 +24552,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">ektemannens yngre søster</l>
+         <l t_type="phrase">ektemannens yngre søster</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -24562,7 +24562,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">ektemannens yngre kusine</l>
+         <l t_type="phrase">ektemannens yngre kusine</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -24589,7 +24589,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">irritabel person</l>
+         <l t_type="phrase">irritabel person</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -24599,7 +24599,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">pels som er hel foran</l>
+         <l t_type="phrase">pels som er hel foran</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -24694,7 +24694,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">same som lever som jordbruker</l>
+         <l t_type="phrase">same som lever som jordbruker</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -24814,7 +24814,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">del av fisk</l>
+         <l t_type="phrase">del av fisk</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -24834,7 +24834,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">trekopp for melking</l>
+         <l t_type="phrase">trekopp for melking</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -24854,7 +24854,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">skinn på gevir</l>
+         <l t_type="phrase">skinn på gevir</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -24884,7 +24884,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">kjepp for å rote i ilden eller glørne med</l>
+         <l t_type="phrase">kjepp for å rote i ilden eller glørne med</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -24929,7 +24929,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">liten kniv</l>
+         <l t_type="phrase">liten kniv</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -24959,7 +24959,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">kjepp for å rote i ilden eller glørne</l>
+         <l t_type="phrase">kjepp for å rote i ilden eller glørne</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -24969,7 +24969,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">kjepp for å rote i ilden eller for å karre sammen veden</l>
+         <l t_type="phrase">kjepp for å rote i ilden eller for å karre sammen veden</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -25112,7 +25112,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">planke som en skraper skinn på</l>
+         <l t_type="phrase">planke som en skraper skinn på</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -25182,7 +25182,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">nederste margbein på bakfoten</l>
+         <l t_type="phrase">nederste margbein på bakfoten</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -25218,7 +25218,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">muntlig språk</l>
+         <l t_type="phrase">muntlig språk</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -25248,7 +25248,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">større utløper av fjellparti</l>
+         <l t_type="phrase">større utløper av fjellparti</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -25278,7 +25278,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">stor hannrein</l>
+         <l t_type="phrase">stor hannrein</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -25288,7 +25288,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">lange reinhår under reinens hals</l>
+         <l t_type="phrase">lange reinhår under reinens hals</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -25298,7 +25298,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">stabbur på stolpe</l>
+         <l t_type="phrase">stabbur på stolpe</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -25308,7 +25308,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">flådd fot</l>
+         <l t_type="phrase">flådd fot</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -25387,7 +25387,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">tørrlendt voll</l>
+         <l t_type="phrase">tørrlendt voll</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -25397,7 +25397,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">gressbevokst voll</l>
+         <l t_type="phrase">gressbevokst voll</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -25585,7 +25585,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">utløper av fjell</l>
+         <l t_type="phrase">utløper av fjell</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -25648,7 +25648,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">lang og bøyelig kjepp</l>
+         <l t_type="phrase">lang og bøyelig kjepp</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -25658,7 +25658,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">lett overskyet vær</l>
+         <l t_type="phrase">lett overskyet vær</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -25678,7 +25678,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">nedre margebein bak</l>
+         <l t_type="phrase">nedre margebein bak</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -25688,7 +25688,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">menneskets leggbein</l>
+         <l t_type="phrase">menneskets leggbein</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -25774,7 +25774,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">margbein øverst i bog og lår</l>
+         <l t_type="phrase">margbein øverst i bog og lår</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -25784,7 +25784,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">vanntette vårsko</l>
+         <l t_type="phrase">vanntette vårsko</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -25897,7 +25897,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">ende av et ikke helt oppbrent vedtre</l>
+         <l t_type="phrase">ende av et ikke helt oppbrent vedtre</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -25962,7 +25962,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">gravid kvinne</l>
+         <l t_type="phrase">gravid kvinne</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -26012,7 +26012,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">bakreim på ski</l>
+         <l t_type="phrase">bakreim på ski</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -26022,7 +26022,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">niese til filleonkel</l>
+         <l t_type="phrase">niese til filleonkel</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -26032,7 +26032,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">niese til inngiftet onkel</l>
+         <l t_type="phrase">niese til inngiftet onkel</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -26052,7 +26052,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">lita jente</l>
+         <l t_type="phrase">lita jente</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -26072,7 +26072,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">tynntarmene og tarmfettet</l>
+         <l t_type="phrase">tynntarmene og tarmfettet</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -26180,7 +26180,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">letende etter noe</l>
+         <l t_type="phrase">letende etter noe</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -26226,7 +26226,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">rand under skia</l>
+         <l t_type="phrase">rand under skia</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -26306,7 +26306,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">nykastrert reinsbukk</l>
+         <l t_type="phrase">nykastrert reinsbukk</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -26338,7 +26338,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">buestang i gammereisverket</l>
+         <l t_type="phrase">buestang i gammereisverket</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -26439,7 +26439,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">del av hjorden</l>
+         <l t_type="phrase">del av hjorden</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -26459,7 +26459,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">bedre halvdel</l>
+         <l t_type="phrase">bedre halvdel</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -26559,7 +26559,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">flatt sted</l>
+         <l t_type="phrase">flatt sted</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -26669,7 +26669,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">frekk person</l>
+         <l t_type="phrase">frekk person</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -26789,7 +26789,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
 	         <re>ta i bruk</re>
-            <t pos="Phrase">åtnose vaeltedh</t>
+            <t t_type="phrase">åtnose vaeltedh</t>
          </tg>
       </mg>
    </e>
@@ -26830,7 +26830,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">malt kaffe</l>
+         <l t_type="phrase">malt kaffe</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -26945,7 +26945,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">reine klær</l>
+         <l t_type="phrase">reine klær</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -26985,7 +26985,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">person i flytteraiden</l>
+         <l t_type="phrase">person i flytteraiden</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -27005,7 +27005,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">reinmerke med tre hakk langs kanten</l>
+         <l t_type="phrase">reinmerke med tre hakk langs kanten</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -27015,7 +27015,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">bratt skråning</l>
+         <l t_type="phrase">bratt skråning</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -27025,7 +27025,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">kløft mellom bar skråning og snømark</l>
+         <l t_type="phrase">kløft mellom bar skråning og snømark</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -27148,7 +27148,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">hardt føre med lite snø</l>
+         <l t_type="phrase">hardt føre med lite snø</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -27158,7 +27158,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">hund som er flink til å passe kanten av reinflokken</l>
+         <l t_type="phrase">hund som er flink til å passe kanten av reinflokken</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -27232,7 +27232,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">tett granskog</l>
+         <l t_type="phrase">tett granskog</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -27247,7 +27247,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">tett skogslandskap</l>
+         <l t_type="phrase">tett skogslandskap</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -27262,7 +27262,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">fint regn</l>
+         <l t_type="phrase">fint regn</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -27365,7 +27365,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">tiden når det er rovdyr i flokken</l>
+         <l t_type="phrase">tiden når det er rovdyr i flokken</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -27528,7 +27528,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">kjetting til å henge gryte i</l>
+         <l t_type="phrase">kjetting til å henge gryte i</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -27628,7 +27628,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">ubehagelig menneske</l>
+         <l t_type="phrase">ubehagelig menneske</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -27638,7 +27638,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">ryggstripen på skinn</l>
+         <l t_type="phrase">ryggstripen på skinn</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -27747,7 +27747,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">verktøy laget av jern</l>
+         <l t_type="phrase">verktøy laget av jern</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -27937,7 +27937,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">mislykket kastrat</l>
+         <l t_type="phrase">mislykket kastrat</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -27978,7 +27978,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">rett vinkel</l>
+         <l t_type="phrase">rett vinkel</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -27998,7 +27998,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">kaldt vær med regn</l>
+         <l t_type="phrase">kaldt vær med regn</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -28124,7 +28124,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">underjordisk vesen</l>
+         <l t_type="phrase">underjordisk vesen</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -28189,7 +28189,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">oppsmeltet og lettsaltet marg av rein, brukt som smør</l>
+         <l t_type="phrase">oppsmeltet og lettsaltet marg av rein, brukt som smør</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -28336,7 +28336,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">nautisk mil</l>
+         <l t_type="phrase">nautisk mil</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -28371,7 +28371,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">samisk språk</l>
+         <l t_type="phrase">samisk språk</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -28522,7 +28522,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">knokkel i kloven</l>
+         <l t_type="phrase">knokkel i kloven</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -28532,7 +28532,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">fett kokt av klover</l>
+         <l t_type="phrase">fett kokt av klover</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -28552,7 +28552,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">laveste passasje mellom to fjell</l>
+         <l t_type="phrase">laveste passasje mellom to fjell</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -28662,7 +28662,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">fars kusine</l>
+         <l t_type="phrase">fars kusine</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -28672,7 +28672,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">fars faster</l>
+         <l t_type="phrase">fars faster</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -28682,7 +28682,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">mors faster</l>
+         <l t_type="phrase">mors faster</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -28712,7 +28712,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">tykk løvskog</l>
+         <l t_type="phrase">tykk løvskog</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -28742,7 +28742,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">skinn som er lagt for avhåring</l>
+         <l t_type="phrase">skinn som er lagt for avhåring</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -28772,7 +28772,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">godt beite</l>
+         <l t_type="phrase">godt beite</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -28782,7 +28782,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">gode forhold</l>
+         <l t_type="phrase">gode forhold</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -28802,7 +28802,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">skrevende person</l>
+         <l t_type="phrase">skrevende person</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -28822,7 +28822,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">plattform på fire par høye stranger for oppbevaring av kjøtt og andre ting</l>
+         <l t_type="phrase">plattform på fire par høye stranger for oppbevaring av kjøtt og andre ting</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -28832,7 +28832,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">ostehylle i gamme</l>
+         <l t_type="phrase">ostehylle i gamme</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -28923,7 +28923,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">spor etter reinbeiting</l>
+         <l t_type="phrase">spor etter reinbeiting</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -29014,7 +29014,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">stort arrangement</l>
+         <l t_type="phrase">stort arrangement</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -29039,7 +29039,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">metall i komsekalesje</l>
+         <l t_type="phrase">metall i komsekalesje</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -29080,7 +29080,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">varsel om dødsfall</l>
+         <l t_type="phrase">varsel om dødsfall</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -29115,7 +29115,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">rent sted bak gammen</l>
+         <l t_type="phrase">rent sted bak gammen</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -29205,7 +29205,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">bryllupsgave gitt av brud og brudgom til svigerforeldre og andre</l>
+         <l t_type="phrase">bryllupsgave gitt av brud og brudgom til svigerforeldre og andre</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -29215,7 +29215,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">metall på klær eller i komsekalesje</l>
+         <l t_type="phrase">metall på klær eller i komsekalesje</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -29340,7 +29340,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">mellomrom mellom spirer</l>
+         <l t_type="phrase">mellomrom mellom spirer</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -29350,7 +29350,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">framoverretta spire</l>
+         <l t_type="phrase">framoverretta spire</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -29360,7 +29360,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">bakoverretta spire</l>
+         <l t_type="phrase">bakoverretta spire</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -29400,7 +29400,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">begynnende skare på snø</l>
+         <l t_type="phrase">begynnende skare på snø</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -29473,7 +29473,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">bukser av barket skinn</l>
+         <l t_type="phrase">bukser av barket skinn</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -29513,7 +29513,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">gående ut og inn dørene</l>
+         <l t_type="phrase">gående ut og inn dørene</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -29533,7 +29533,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">ytterplagg som er hel framme, uten ermer og når til livet</l>
+         <l t_type="phrase">ytterplagg som er hel framme, uten ermer og når til livet</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -29856,7 +29856,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">spunnet senetråd lagt på yttersiden av søm</l>
+         <l t_type="phrase">spunnet senetråd lagt på yttersiden av søm</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -29866,7 +29866,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">marg i tre</l>
+         <l t_type="phrase">marg i tre</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -29876,7 +29876,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">mannshøy småskog</l>
+         <l t_type="phrase">mannshøy småskog</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -29906,7 +29906,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">liten reinkvige</l>
+         <l t_type="phrase">liten reinkvige</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -29916,7 +29916,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">liten elgkvige</l>
+         <l t_type="phrase">liten elgkvige</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -29941,7 +29941,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">barket skinn uten hår</l>
+         <l t_type="phrase">barket skinn uten hår</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -29951,7 +29951,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">fotpose på en fell</l>
+         <l t_type="phrase">fotpose på en fell</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -29961,7 +29961,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">snauslitt skinnfell</l>
+         <l t_type="phrase">snauslitt skinnfell</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -30059,7 +30059,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">grarein som har feiet hornene</l>
+         <l t_type="phrase">grarein som har feiet hornene</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -30074,7 +30074,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">reinens store ryggsene</l>
+         <l t_type="phrase">reinens store ryggsene</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -30129,7 +30129,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">utgytt fisk</l>
+         <l t_type="phrase">utgytt fisk</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -30139,7 +30139,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">fillet klesplagg</l>
+         <l t_type="phrase">fillet klesplagg</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -30149,7 +30149,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">lav og vid gamme</l>
+         <l t_type="phrase">lav og vid gamme</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -30159,7 +30159,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">bløt snø</l>
+         <l t_type="phrase">bløt snø</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -30169,7 +30169,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">gjennomslagsføre om våren</l>
+         <l t_type="phrase">gjennomslagsføre om våren</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -30179,7 +30179,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">nyfødt kalv</l>
+         <l t_type="phrase">nyfødt kalv</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -30199,7 +30199,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">ruskevær med sludd</l>
+         <l t_type="phrase">ruskevær med sludd</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -30337,7 +30337,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">lite spedbarn</l>
+         <l t_type="phrase">lite spedbarn</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -30347,7 +30347,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">lite nyfødt barn</l>
+         <l t_type="phrase">lite nyfødt barn</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -30357,7 +30357,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">våt person</l>
+         <l t_type="phrase">våt person</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -30469,7 +30469,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">avskåret stykke</l>
+         <l t_type="phrase">avskåret stykke</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -30499,7 +30499,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">spiss fjelltopp</l>
+         <l t_type="phrase">spiss fjelltopp</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -30524,7 +30524,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">lang smal spiss kniv</l>
+         <l t_type="phrase">lang smal spiss kniv</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -30554,7 +30554,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">første gresspirer om våren</l>
+         <l t_type="phrase">første gresspirer om våren</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -30714,7 +30714,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">røykt kjøtt</l>
+         <l t_type="phrase">røykt kjøtt</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -30784,7 +30784,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">øre med utydelig merke</l>
+         <l t_type="phrase">øre med utydelig merke</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -30804,7 +30804,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">muntlig fortelling</l>
+         <l t_type="phrase">muntlig fortelling</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -30891,7 +30891,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">stilleflytende utvidelse av elv</l>
+         <l t_type="phrase">stilleflytende utvidelse av elv</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -30965,7 +30965,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">glatt bergflate som heller</l>
+         <l t_type="phrase">glatt bergflate som heller</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -31060,7 +31060,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">vanskelig situasjon</l>
+         <l t_type="phrase">vanskelig situasjon</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -31160,7 +31160,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">stort bål</l>
+         <l t_type="phrase">stort bål</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -31170,7 +31170,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">stor vei</l>
+         <l t_type="phrase">stor vei</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -31230,7 +31230,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">liten sprøyte</l>
+         <l t_type="phrase">liten sprøyte</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -31291,7 +31291,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">liten del</l>
+         <l t_type="phrase">liten del</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -31301,7 +31301,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">liten flokk</l>
+         <l t_type="phrase">liten flokk</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -31431,7 +31431,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">tiden da de fleste simler kalver</l>
+         <l t_type="phrase">tiden da de fleste simler kalver</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -31496,7 +31496,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">sted for skjæring av sennegras</l>
+         <l t_type="phrase">sted for skjæring av sennegras</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -31536,7 +31536,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">byssende på et barn</l>
+         <l t_type="phrase">byssende på et barn</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -31591,7 +31591,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">svalt vær</l>
+         <l t_type="phrase">svalt vær</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -31601,7 +31601,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">tiden straks etter solnedgang</l>
+         <l t_type="phrase">tiden straks etter solnedgang</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -31611,7 +31611,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">kjølig vær</l>
+         <l t_type="phrase">kjølig vær</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -31631,7 +31631,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">kastrert rein som skal temmes</l>
+         <l t_type="phrase">kastrert rein som skal temmes</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -31723,7 +31723,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">frodig område med løvtrær</l>
+         <l t_type="phrase">frodig område med løvtrær</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -31759,7 +31759,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">lunt sted</l>
+         <l t_type="phrase">lunt sted</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -31931,7 +31931,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">spire på reinhorn</l>
+         <l t_type="phrase">spire på reinhorn</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -31951,7 +31951,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">tørrfuru som ved</l>
+         <l t_type="phrase">tørrfuru som ved</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -31961,7 +31961,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">snøsørpe på is</l>
+         <l t_type="phrase">snøsørpe på is</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -31971,7 +31971,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">tørt beite under snøen</l>
+         <l t_type="phrase">tørt beite under snøen</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -31991,7 +31991,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">noe som oser svidd</l>
+         <l t_type="phrase">noe som oser svidd</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -32001,7 +32001,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">svevende fugl</l>
+         <l t_type="phrase">svevende fugl</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -32096,7 +32096,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">tantebarn av fars søster</l>
+         <l t_type="phrase">tantebarn av fars søster</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -32415,7 +32415,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">plass i lendet hvor man driver reinen</l>
+         <l t_type="phrase">plass i lendet hvor man driver reinen</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -32425,7 +32425,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">litt vann</l>
+         <l t_type="phrase">litt vann</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -32469,7 +32469,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">skriftlig arbeide</l>
+         <l t_type="phrase">skriftlig arbeide</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -32533,7 +32533,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">skriftlig fremstillingsevne</l>
+         <l t_type="phrase">skriftlig fremstillingsevne</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -32573,7 +32573,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">lite rundt fjell som ligger for seg i høgfjellet</l>
+         <l t_type="phrase">lite rundt fjell som ligger for seg i høgfjellet</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -32623,7 +32623,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">fast mark</l>
+         <l t_type="phrase">fast mark</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -32717,7 +32717,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">tidlig vinter</l>
+         <l t_type="phrase">tidlig vinter</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -32802,7 +32802,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">skare som bærer</l>
+         <l t_type="phrase">skare som bærer</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -32832,7 +32832,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">våt kornsnø</l>
+         <l t_type="phrase">våt kornsnø</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -32944,7 +32944,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">sko av nederste del av en fetling</l>
+         <l t_type="phrase">sko av nederste del av en fetling</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -32954,7 +32954,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">skinnet mellom klovene på rein</l>
+         <l t_type="phrase">skinnet mellom klovene på rein</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -32964,7 +32964,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">hår mellom klovene</l>
+         <l t_type="phrase">hår mellom klovene</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -33004,7 +33004,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">mors far</l>
+         <l t_type="phrase">mors far</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -33059,7 +33059,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">fars yngre bror</l>
+         <l t_type="phrase">fars yngre bror</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -33086,7 +33086,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">fars yngre fetter</l>
+         <l t_type="phrase">fars yngre fetter</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -33138,7 +33138,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">kjeft på rovdyr</l>
+         <l t_type="phrase">kjeft på rovdyr</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -33148,7 +33148,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">høy røst</l>
+         <l t_type="phrase">høy røst</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -33158,7 +33158,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">avskjær av lær eller tøy</l>
+         <l t_type="phrase">avskjær av lær eller tøy</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -33320,7 +33320,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">sidekile i sko</l>
+         <l t_type="phrase">sidekile i sko</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -33415,7 +33415,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">uthogd skog</l>
+         <l t_type="phrase">uthogd skog</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -33459,7 +33459,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">isskorpe på marken</l>
+         <l t_type="phrase">isskorpe på marken</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -33529,7 +33529,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">nakkebein på hund</l>
+         <l t_type="phrase">nakkebein på hund</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -33559,7 +33559,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">fiende i samiske sagn</l>
+         <l t_type="phrase">fiende i samiske sagn</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -33614,7 +33614,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">lite fjell</l>
+         <l t_type="phrase">lite fjell</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -33624,7 +33624,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">liten fjellknaus</l>
+         <l t_type="phrase">liten fjellknaus</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -33634,7 +33634,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">litt husgeråd</l>
+         <l t_type="phrase">litt husgeråd</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -33694,7 +33694,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">innmat av fisk</l>
+         <l t_type="phrase">innmat av fisk</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -33724,7 +33724,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">øvre margbein i reinens bakfot</l>
+         <l t_type="phrase">øvre margbein i reinens bakfot</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -33794,7 +33794,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">reinmelk med løype</l>
+         <l t_type="phrase">reinmelk med løype</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -34096,7 +34096,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">stridt vær</l>
+         <l t_type="phrase">stridt vær</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -34213,7 +34213,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">opprettstående gamme uten buestenger</l>
+         <l t_type="phrase">opprettstående gamme uten buestenger</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -34223,7 +34223,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">nederste leggbein på reinens framfot</l>
+         <l t_type="phrase">nederste leggbein på reinens framfot</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -34297,7 +34297,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">kløftstang i gammereisverk</l>
+         <l t_type="phrase">kløftstang i gammereisverk</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -34386,7 +34386,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">tåke eller snø så en ikke ser høydeforskjell</l>
+         <l t_type="phrase">tåke eller snø så en ikke ser høydeforskjell</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -34813,7 +34813,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">nedsenket område i fjellet avgrenset av fjell rundt</l>
+         <l t_type="phrase">nedsenket område i fjellet avgrenset av fjell rundt</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -34877,7 +34877,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">åpning i terrenget</l>
+         <l t_type="phrase">åpning i terrenget</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -34887,7 +34887,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">knytte båret på ryggen uten sekk</l>
+         <l t_type="phrase">knytte båret på ryggen uten sekk</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -34897,7 +34897,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">vindfelt tre</l>
+         <l t_type="phrase">vindfelt tre</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -34907,7 +34907,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">kjøttet på reinens bakfot</l>
+         <l t_type="phrase">kjøttet på reinens bakfot</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -34927,7 +34927,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">haseknoke på rein</l>
+         <l t_type="phrase">haseknoke på rein</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -34992,7 +34992,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">lavt snaufjell med krattskog omkring</l>
+         <l t_type="phrase">lavt snaufjell med krattskog omkring</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -35023,7 +35023,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">oppmurt steinrøys</l>
+         <l t_type="phrase">oppmurt steinrøys</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -35033,7 +35033,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">enden av vola</l>
+         <l t_type="phrase">enden av vola</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -35073,7 +35073,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">bred dal</l>
+         <l t_type="phrase">bred dal</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -35083,7 +35083,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">lavtliggende slette</l>
+         <l t_type="phrase">lavtliggende slette</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -35129,7 +35129,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">sjelelig lidelse</l>
+         <l t_type="phrase">sjelelig lidelse</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -35164,7 +35164,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">dreven reinskar</l>
+         <l t_type="phrase">dreven reinskar</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -35254,7 +35254,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">stille, dypt stykke i elv</l>
+         <l t_type="phrase">stille, dypt stykke i elv</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -35392,7 +35392,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">plassen foran gamme</l>
+         <l t_type="phrase">plassen foran gamme</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -35472,7 +35472,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">bein i foten</l>
+         <l t_type="phrase">bein i foten</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -35482,7 +35482,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">ring av sammensnodde skohøydotter</l>
+         <l t_type="phrase">ring av sammensnodde skohøydotter</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -35695,7 +35695,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">ektefelles stefar</l>
+         <l t_type="phrase">ektefelles stefar</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -35725,7 +35725,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">svømmested for reinflokken over elv eller vatn</l>
+         <l t_type="phrase">svømmested for reinflokken over elv eller vatn</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -35760,7 +35760,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">stillas til tørke fiskegarn på</l>
+         <l t_type="phrase">stillas til tørke fiskegarn på</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -35790,7 +35790,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">liten venn</l>
+         <l t_type="phrase">liten venn</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -35931,7 +35931,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">tiden da reinen feier hornene</l>
+         <l t_type="phrase">tiden da reinen feier hornene</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -35941,7 +35941,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">midtparti i vann</l>
+         <l t_type="phrase">midtparti i vann</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -35981,7 +35981,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">liten sekk</l>
+         <l t_type="phrase">liten sekk</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -36058,7 +36058,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">lavereliggende terreng</l>
+         <l t_type="phrase">lavereliggende terreng</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -36082,7 +36082,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">konas stemor</l>
+         <l t_type="phrase">konas stemor</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -36132,7 +36132,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">tverrstang i gamme</l>
+         <l t_type="phrase">tverrstang i gamme</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -36162,7 +36162,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">driver av flokken</l>
+         <l t_type="phrase">driver av flokken</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -36247,7 +36247,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">nedre kant</l>
+         <l t_type="phrase">nedre kant</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -36271,7 +36271,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">billett til befordringsmiddel</l>
+         <l t_type="phrase">billett til befordringsmiddel</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -36291,7 +36291,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">vid dal med skog</l>
+         <l t_type="phrase">vid dal med skog</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -36488,7 +36488,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">trebart område</l>
+         <l t_type="phrase">trebart område</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -36498,7 +36498,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">vid åpen plass i lavlandet</l>
+         <l t_type="phrase">vid åpen plass i lavlandet</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -36508,7 +36508,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">vidt synsfelt</l>
+         <l t_type="phrase">vidt synsfelt</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -36518,7 +36518,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">bakke med fritt utsyn</l>
+         <l t_type="phrase">bakke med fritt utsyn</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -36588,7 +36588,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">lang vei</l>
+         <l t_type="phrase">lang vei</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -36658,7 +36658,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">kanten av marbakke</l>
+         <l t_type="phrase">kanten av marbakke</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -36678,7 +36678,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">mann gift med yngre kvinnelig slektning</l>
+         <l t_type="phrase">mann gift med yngre kvinnelig slektning</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -36729,7 +36729,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">beinfritt kjøtt</l>
+         <l t_type="phrase">beinfritt kjøtt</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -36749,7 +36749,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">kjent person</l>
+         <l t_type="phrase">kjent person</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -36804,7 +36804,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">sørsamisk språk</l>
+         <l t_type="phrase">sørsamisk språk</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -36884,7 +36884,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">sørlig vær</l>
+         <l t_type="phrase">sørlig vær</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -36894,7 +36894,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">sydlig vær</l>
+         <l t_type="phrase">sydlig vær</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -36929,7 +36929,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">hett vær</l>
+         <l t_type="phrase">hett vær</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -37183,7 +37183,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">kvinnelig tremenning</l>
+         <l t_type="phrase">kvinnelig tremenning</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -37213,7 +37213,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">små søsken</l>
+         <l t_type="phrase">små søsken</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -37337,7 +37337,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">mannlig venn</l>
+         <l t_type="phrase">mannlig venn</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -37387,7 +37387,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">fremre del</l>
+         <l t_type="phrase">fremre del</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -37417,7 +37417,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">kjøttet nederst på reinens framfot</l>
+         <l t_type="phrase">kjøttet nederst på reinens framfot</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -37447,7 +37447,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">de som leder</l>
+         <l t_type="phrase">de som leder</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -37533,7 +37533,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">ivrig person</l>
+         <l t_type="phrase">ivrig person</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -37814,7 +37814,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">bakre del av reinflokken</l>
+         <l t_type="phrase">bakre del av reinflokken</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -37874,7 +37874,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">litt salt</l>
+         <l t_type="phrase">litt salt</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -37962,7 +37962,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">grunne med svaberg</l>
+         <l t_type="phrase">grunne med svaberg</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -37982,7 +37982,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">utkanten av busk og kjerr</l>
+         <l t_type="phrase">utkanten av busk og kjerr</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -38102,7 +38102,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">liten bunt</l>
+         <l t_type="phrase">liten bunt</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -38112,7 +38112,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">liten gruppe</l>
+         <l t_type="phrase">liten gruppe</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -38132,7 +38132,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">lite stilleflytende dypt sted i elv</l>
+         <l t_type="phrase">lite stilleflytende dypt sted i elv</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -38183,7 +38183,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">liten åre</l>
+         <l t_type="phrase">liten åre</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -38203,7 +38203,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">kjøttsiden av skinn</l>
+         <l t_type="phrase">kjøttsiden av skinn</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -38218,7 +38218,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">sikksakkmønster på belte eller skoband</l>
+         <l t_type="phrase">sikksakkmønster på belte eller skoband</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -38238,7 +38238,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">diagonal flettebåndmønster</l>
+         <l t_type="phrase">diagonal flettebåndmønster</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -38258,7 +38258,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">materiale til søm</l>
+         <l t_type="phrase">materiale til søm</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -38268,7 +38268,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">materiale til hanskefor</l>
+         <l t_type="phrase">materiale til hanskefor</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -38278,7 +38278,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">materiale til slire</l>
+         <l t_type="phrase">materiale til slire</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -38288,7 +38288,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">materiale til sko</l>
+         <l t_type="phrase">materiale til sko</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -38298,7 +38298,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">materiale til kopp</l>
+         <l t_type="phrase">materiale til kopp</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -38308,7 +38308,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">materiale til bukse</l>
+         <l t_type="phrase">materiale til bukse</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -38318,7 +38318,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">materiale til skulderkappe</l>
+         <l t_type="phrase">materiale til skulderkappe</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -38328,7 +38328,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">materiale til lue</l>
+         <l t_type="phrase">materiale til lue</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -38338,7 +38338,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">materiale til skoband</l>
+         <l t_type="phrase">materiale til skoband</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -38348,7 +38348,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">sted ved kneet ved framfoten på leggskinnet</l>
+         <l t_type="phrase">sted ved kneet ved framfoten på leggskinnet</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -38358,7 +38358,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">knapp av skinn</l>
+         <l t_type="phrase">knapp av skinn</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -38368,7 +38368,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">utsiden av leggskinn med tykt hår</l>
+         <l t_type="phrase">utsiden av leggskinn med tykt hår</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -38378,7 +38378,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">tykkhåret skinn med hår</l>
+         <l t_type="phrase">tykkhåret skinn med hår</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -38388,7 +38388,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">øverste del av leggskinn fra framfoten</l>
+         <l t_type="phrase">øverste del av leggskinn fra framfoten</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -38398,7 +38398,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">stav til å forme og mykgjøre sko</l>
+         <l t_type="phrase">stav til å forme og mykgjøre sko</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -38418,7 +38418,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">spunnet senetråd lagt på yttersiden av sømmen</l>
+         <l t_type="phrase">spunnet senetråd lagt på yttersiden av sømmen</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -38438,7 +38438,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">belte med tinn</l>
+         <l t_type="phrase">belte med tinn</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -38473,7 +38473,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">hornskive med hull til draging av tinntråd</l>
+         <l t_type="phrase">hornskive med hull til draging av tinntråd</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -38483,7 +38483,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">midt etter skinnet</l>
+         <l t_type="phrase">midt etter skinnet</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -38493,7 +38493,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">materiale til dørstokk</l>
+         <l t_type="phrase">materiale til dørstokk</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -38534,7 +38534,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">trekk foran komsa</l>
+         <l t_type="phrase">trekk foran komsa</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -38567,7 +38567,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">hard substans i reinhorn</l>
+         <l t_type="phrase">hard substans i reinhorn</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -38577,7 +38577,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">syl av margbein og andre materialer</l>
+         <l t_type="phrase">syl av margbein og andre materialer</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -38587,7 +38587,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">egg på skjærenål</l>
+         <l t_type="phrase">egg på skjærenål</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -38607,7 +38607,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">små felt hvor hårene er borte</l>
+         <l t_type="phrase">små felt hvor hårene er borte</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -38668,7 +38668,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">halvmåneformet mønsterstykke</l>
+         <l t_type="phrase">halvmåneformet mønsterstykke</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -38678,7 +38678,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">rutet mønsterstykke på bringeklede</l>
+         <l t_type="phrase">rutet mønsterstykke på bringeklede</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -38688,7 +38688,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">belteveske til menn</l>
+         <l t_type="phrase">belteveske til menn</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -38698,7 +38698,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">notarm av teger</l>
+         <l t_type="phrase">notarm av teger</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -38783,7 +38783,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">kvinnelue med kam</l>
+         <l t_type="phrase">kvinnelue med kam</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -38793,7 +38793,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">kvinnelue uten kiler</l>
+         <l t_type="phrase">kvinnelue uten kiler</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -38803,7 +38803,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">saltflaske i teger</l>
+         <l t_type="phrase">saltflaske i teger</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -38813,7 +38813,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">vedheng på enden av belte</l>
+         <l t_type="phrase">vedheng på enden av belte</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -38823,7 +38823,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">lue sydd av kiler med brem og dusk</l>
+         <l t_type="phrase">lue sydd av kiler med brem og dusk</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -38833,7 +38833,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">jern til å mykgjøre skinn</l>
+         <l t_type="phrase">jern til å mykgjøre skinn</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -38843,7 +38843,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">halvråtten ved</l>
+         <l t_type="phrase">halvråtten ved</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -38853,7 +38853,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">svakt horn</l>
+         <l t_type="phrase">svakt horn</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -38883,7 +38883,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">belte av skinnsnor</l>
+         <l t_type="phrase">belte av skinnsnor</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -38913,7 +38913,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">redskap til å risse linjer med</l>
+         <l t_type="phrase">redskap til å risse linjer med</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -38923,7 +38923,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">horn uten spirer</l>
+         <l t_type="phrase">horn uten spirer</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -38943,7 +38943,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">belte med perler</l>
+         <l t_type="phrase">belte med perler</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -38963,7 +38963,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">bøyd horndel over baktaggene</l>
+         <l t_type="phrase">bøyd horndel over baktaggene</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -38973,7 +38973,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">søm rundt skoens overstykke</l>
+         <l t_type="phrase">søm rundt skoens overstykke</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -38983,7 +38983,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">gran tenar</l>
+         <l t_type="phrase">gran tenar</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -39003,7 +39003,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">knusk av morken gran eller bjørk i komsebunnen</l>
+         <l t_type="phrase">knusk av morken gran eller bjørk i komsebunnen</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -39013,7 +39013,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">rundhøvel for å lage rand under ski</l>
+         <l t_type="phrase">rundhøvel for å lage rand under ski</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -39033,7 +39033,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">snor av tvunnet skinn</l>
+         <l t_type="phrase">snor av tvunnet skinn</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -39053,7 +39053,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">kalesje på komse</l>
+         <l t_type="phrase">kalesje på komse</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -39063,7 +39063,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">materiale til kofte</l>
+         <l t_type="phrase">materiale til kofte</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -39083,7 +39083,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">hull laget av gormflue</l>
+         <l t_type="phrase">hull laget av gormflue</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -39093,7 +39093,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">ferdigbundet ting</l>
+         <l t_type="phrase">ferdigbundet ting</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -39113,7 +39113,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">framstykke på sølvkrage</l>
+         <l t_type="phrase">framstykke på sølvkrage</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -39143,7 +39143,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">knusktørt leggskinn</l>
+         <l t_type="phrase">knusktørt leggskinn</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -39168,7 +39168,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">halvgjort emne</l>
+         <l t_type="phrase">halvgjort emne</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -39178,7 +39178,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">hæl med runde hjørner</l>
+         <l t_type="phrase">hæl med runde hjørner</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -39198,7 +39198,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">farget glassperle</l>
+         <l t_type="phrase">farget glassperle</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -39208,7 +39208,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">melkeaktig plastperle</l>
+         <l t_type="phrase">melkeaktig plastperle</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -39218,7 +39218,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">hvit glassperle</l>
+         <l t_type="phrase">hvit glassperle</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -39228,7 +39228,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">hæl med rette hjørner</l>
+         <l t_type="phrase">hæl med rette hjørner</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -39288,7 +39288,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">skinntrekk på komse</l>
+         <l t_type="phrase">skinntrekk på komse</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -39318,7 +39318,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">tynn bark nær veden</l>
+         <l t_type="phrase">tynn bark nær veden</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -39338,7 +39338,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">sko med sømmene inn</l>
+         <l t_type="phrase">sko med sømmene inn</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -39418,7 +39418,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">skinnet under buken</l>
+         <l t_type="phrase">skinnet under buken</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -39433,7 +39433,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">lange hår under halsen</l>
+         <l t_type="phrase">lange hår under halsen</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -39463,7 +39463,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">tyntflytende kvae fra blemmer i bark</l>
+         <l t_type="phrase">tyntflytende kvae fra blemmer i bark</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -39473,7 +39473,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">bukk med felt horn</l>
+         <l t_type="phrase">bukk med felt horn</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -39483,7 +39483,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">materiale til skaft</l>
+         <l t_type="phrase">materiale til skaft</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -39503,7 +39503,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">et stykke lagt innpå den andre</l>
+         <l t_type="phrase">et stykke lagt innpå den andre</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -39513,7 +39513,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">tvunnet ornament</l>
+         <l t_type="phrase">tvunnet ornament</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -39528,7 +39528,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">horn med alle taggene framover</l>
+         <l t_type="phrase">horn med alle taggene framover</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -39548,7 +39548,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">skaftet av sko</l>
+         <l t_type="phrase">skaftet av sko</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -39558,7 +39558,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">tørr gran</l>
+         <l t_type="phrase">tørr gran</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -39568,7 +39568,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">opptrevlet sener</l>
+         <l t_type="phrase">opptrevlet sener</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -39588,7 +39588,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">syl av horn</l>
+         <l t_type="phrase">syl av horn</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -39628,7 +39628,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">belte med sølvknapper og maljer</l>
+         <l t_type="phrase">belte med sølvknapper og maljer</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -39638,7 +39638,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">jern til å lage spon med</l>
+         <l t_type="phrase">jern til å lage spon med</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -39668,7 +39668,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">utskåret støpeform for tinnstøping</l>
+         <l t_type="phrase">utskåret støpeform for tinnstøping</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -39678,7 +39678,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">utoverbøyd horn</l>
+         <l t_type="phrase">utoverbøyd horn</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -39717,7 +39717,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">splitt i klær</l>
+         <l t_type="phrase">splitt i klær</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -39727,7 +39727,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">innsiden av leggskinn med tynt hår</l>
+         <l t_type="phrase">innsiden av leggskinn med tynt hår</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -39782,7 +39782,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">belte flettet av sener</l>
+         <l t_type="phrase">belte flettet av sener</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -39841,7 +39841,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">stødig underlag under klede</l>
+         <l t_type="phrase">stødig underlag under klede</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -39851,7 +39851,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">forgrenet kalvehorn</l>
+         <l t_type="phrase">forgrenet kalvehorn</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -39861,7 +39861,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">bukreim i kløvsal</l>
+         <l t_type="phrase">bukreim i kløvsal</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -39891,7 +39891,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">marg i horn</l>
+         <l t_type="phrase">marg i horn</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -39911,7 +39911,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">lue sydd sammen av kiler</l>
+         <l t_type="phrase">lue sydd sammen av kiler</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -39921,7 +39921,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">vanntette skallesko</l>
+         <l t_type="phrase">vanntette skallesko</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -39931,7 +39931,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">gjennomsiktig glassperle</l>
+         <l t_type="phrase">gjennomsiktig glassperle</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -39941,7 +39941,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">kantbord med klipte hakk</l>
+         <l t_type="phrase">kantbord med klipte hakk</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -39951,7 +39951,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">nederste del av leggskinn</l>
+         <l t_type="phrase">nederste del av leggskinn</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -39961,7 +39961,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">stivt hår rundt kløvene</l>
+         <l t_type="phrase">stivt hår rundt kløvene</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -39971,7 +39971,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">fremste bunnstykke</l>
+         <l t_type="phrase">fremste bunnstykke</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -39981,7 +39981,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">øverste stykket eller halsen av pung eller kaffepose</l>
+         <l t_type="phrase">øverste stykket eller halsen av pung eller kaffepose</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -39991,7 +39991,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">sying av for løse sting så tråden danner løkke</l>
+         <l t_type="phrase">sying av for løse sting så tråden danner løkke</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -40001,7 +40001,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">lyst merke ved hasen</l>
+         <l t_type="phrase">lyst merke ved hasen</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -40011,7 +40011,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">innsiden av bakfoten</l>
+         <l t_type="phrase">innsiden av bakfoten</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -40021,7 +40021,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">materiale til ski</l>
+         <l t_type="phrase">materiale til ski</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -40050,7 +40050,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">enden av ikke helt oppbrent ved</l>
+         <l t_type="phrase">enden av ikke helt oppbrent ved</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -40060,7 +40060,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">sko med sømmen ut</l>
+         <l t_type="phrase">sko med sømmen ut</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -40085,7 +40085,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">perlevedheng til belte</l>
+         <l t_type="phrase">perlevedheng til belte</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -40095,7 +40095,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">tinnvedheng til belte</l>
+         <l t_type="phrase">tinnvedheng til belte</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -40105,7 +40105,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">liten hakke</l>
+         <l t_type="phrase">liten hakke</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -40135,7 +40135,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">tørt skinn med hår</l>
+         <l t_type="phrase">tørt skinn med hår</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -40145,7 +40145,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">siden av leggskinn med tykt hår</l>
+         <l t_type="phrase">siden av leggskinn med tykt hår</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -40165,7 +40165,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">halslinning på barmkledet</l>
+         <l t_type="phrase">halslinning på barmkledet</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -40175,7 +40175,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">skallesko med overstykke av lær</l>
+         <l t_type="phrase">skallesko med overstykke av lær</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -40210,7 +40210,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">sidestykke med hårene på tvers</l>
+         <l t_type="phrase">sidestykke med hårene på tvers</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -40220,7 +40220,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">sidestykke med hårene på langs</l>
+         <l t_type="phrase">sidestykke med hårene på langs</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -40230,7 +40230,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">vertikale sidestykker på sko</l>
+         <l t_type="phrase">vertikale sidestykker på sko</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -40240,7 +40240,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">kile eller stykke som skjøtes på i bredden</l>
+         <l t_type="phrase">kile eller stykke som skjøtes på i bredden</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -40250,7 +40250,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">redskapsvedheng på belte hvor man kan bære nålehus og saks</l>
+         <l t_type="phrase">redskapsvedheng på belte hvor man kan bære nålehus og saks</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -40270,7 +40270,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">glinsende gjenstand</l>
+         <l t_type="phrase">glinsende gjenstand</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -40280,7 +40280,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">bærereim over brystet</l>
+         <l t_type="phrase">bærereim over brystet</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -40300,7 +40300,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">flink praktiker</l>
+         <l t_type="phrase">flink praktiker</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -40321,7 +40321,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">leggskinn fra bakfoten</l>
+         <l t_type="phrase">leggskinn fra bakfoten</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -40331,7 +40331,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">leggskinn fra framfoten</l>
+         <l t_type="phrase">leggskinn fra framfoten</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -40391,7 +40391,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">baktagg på reinshorn</l>
+         <l t_type="phrase">baktagg på reinshorn</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -40401,7 +40401,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">horn med få eller ingen spirer</l>
+         <l t_type="phrase">horn med få eller ingen spirer</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -40411,7 +40411,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">framoverbøyd horn med mange spirer</l>
+         <l t_type="phrase">framoverbøyd horn med mange spirer</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -40449,7 +40449,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">Kongens råd</l>
+         <l t_type="phrase">Kongens råd</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -40667,7 +40667,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">land nedenfor høyfjellene</l>
+         <l t_type="phrase">land nedenfor høyfjellene</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -40677,7 +40677,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">skogs- og kystland</l>
+         <l t_type="phrase">skogs- og kystland</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -40913,7 +40913,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">gressbevokst, skogløs bakkeknaus</l>
+         <l t_type="phrase">gressbevokst, skogløs bakkeknaus</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -40958,7 +40958,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">nordsamisk språk</l>
+         <l t_type="phrase">nordsamisk språk</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -41003,7 +41003,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">lulesamisk språk</l>
+         <l t_type="phrase">lulesamisk språk</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -41033,7 +41033,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">godt menneske</l>
+         <l t_type="phrase">godt menneske</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -41043,7 +41043,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">snilt dyr</l>
+         <l t_type="phrase">snilt dyr</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -41341,7 +41341,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">skåret kjøtt</l>
+         <l t_type="phrase">skåret kjøtt</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -41351,7 +41351,7 @@ For the full license text, see the link above.</lic>
    </e>
     <e>
       <lg>
-         <l pos="Phrase">skår</l>
+         <l t_type="phrase">skår</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -41518,7 +41518,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">lov om sameting</l>
+         <l t_type="phrase">lov om sameting</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -41684,7 +41684,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">to mennesker sammen</l>
+         <l t_type="phrase">to mennesker sammen</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -41942,7 +41942,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">avstanden mellom tommel og pekefinger</l>
+         <l t_type="phrase">avstanden mellom tommel og pekefinger</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -42212,7 +42212,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">mindre skogløs slette</l>
+         <l t_type="phrase">mindre skogløs slette</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -42262,7 +42262,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">samenomadefamilier som flytter sammen i gruppe</l>
+         <l t_type="phrase">samenomadefamilier som flytter sammen i gruppe</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -65928,7 +65928,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Phrase" src="gg">maadterisnie fylhkh</t>
+            <t t_type="phrase" src="gg">maadterisnie fylhkh</t>
          </tg>
       </mg>
    </e>
@@ -66038,7 +66038,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Phrase" src="gg">eatnemen bijjieskierie</t>
+            <t t_type="phrase" src="gg">eatnemen bijjieskierie</t>
          </tg>
       </mg>
    </e>
@@ -66118,7 +66118,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Phrase" src="gg">tjïelten åejvie</t>
+            <t t_type="phrase" src="gg">tjïelten åejvie</t>
          </tg>
       </mg>
    </e>
@@ -66548,7 +66548,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Phrase" src="gg">daaletje vaarjoeh</t>
+            <t t_type="phrase" src="gg">daaletje vaarjoeh</t>
          </tg>
       </mg>
    </e>
@@ -66638,7 +66638,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Phrase" src="gg">nedtevihte njoelkedassh</t>
+            <t t_type="phrase" src="gg">nedtevihte njoelkedassh</t>
          </tg>
       </mg>
    </e>
@@ -66839,7 +66839,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Phrase" src="gg">påasten tjïrrh dyngkeme</t>
+            <t t_type="phrase" src="gg">påasten tjïrrh dyngkeme</t>
          </tg>
       </mg>
    </e>
@@ -67344,7 +67344,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Phrase" src="gg">flööreme njååreme</t>
+            <t t_type="phrase" src="gg">flööreme njååreme</t>
          </tg>
       </mg>
    </e>
@@ -70690,7 +70690,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">muscicapa striata</re>
-            <t pos="Phrase" src="husbykuhmunen">kraevies tjovrehke-dijpije</t>
+            <t t_type="phrase" src="husbykuhmunen">kraevies tjovrehke-dijpije</t>
          </tg>
       </mg>
    </e>
@@ -70701,7 +70701,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re xml:lang="lat">ficedula hypoleuca</re>
-            <t pos="Phrase" src="husbykuhmunen">derhvie tjööse-dijpije</t>
+            <t t_type="phrase" src="husbykuhmunen">derhvie tjööse-dijpije</t>
          </tg>
       </mg>
    </e>

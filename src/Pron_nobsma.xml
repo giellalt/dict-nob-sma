@@ -30,21 +30,21 @@ For the full license text, see the link above.</lic>
    </lics>
    <e>
       <lg>
-         <l pos="Phrase">ett eller annet</l>
+         <l t_type="phrase">ett eller annet</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Phrase">maam joem</t>
+            <t t_type="phrase">maam joem</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">hvor mange</l>
+         <l t_type="phrase">hvor mange</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Phrase">man gellie</t>
+            <t t_type="phrase">man gellie</t>
          </tg>
       </mg>
    </e>
@@ -682,7 +682,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">en og annen</l>
+         <l t_type="phrase">en og annen</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -696,7 +696,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Phrase">ij naan</t>
+            <t t_type="phrase">ij naan</t>
             <xg>
                <x>Den lua har ingen dusk.</x>
                <xt>Dan tjohpen ij naan duahpa.</xt>
@@ -710,8 +710,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
 	         <re>om personer</re>
-            <t pos="Phrase">ij gie</t>
-            <t pos="Phrase">ij guhte</t>
+            <t t_type="phrase">ij gie</t>
+            <t t_type="phrase">ij guhte</t>
             <xg>
                <x>Har ingen kommet enda?</x>
                <xt>Ij gie annje leah båateme?</xt>
@@ -725,7 +725,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
 	         <re>om to</re>
-            <t pos="Phrase">ij gåabpa</t>
+            <t t_type="phrase">ij gåabpa</t>
             <xg>
                <x>Ingen av de to hører at døra går opp og mor og far står og ser på dem.</x>
                <xt>Ij gåabpa govlh okse rïhpese jïh aehtjie gon tjidtjieh tjåadtjoeminie vuartesjeminie.</xt>

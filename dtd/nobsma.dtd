@@ -34,8 +34,8 @@
 <!ATTLIST l
       pos ( A | N | V | Adv | Po | Pr | Pron | Rel | Pers | Det | I | Interj | Pcle |
             Num | CC | CS | Prop | Proppl | G3 | Actor | Npl | Adp |
-            Prsprc | Phrase | Fp-Cmp | Lp-Cmp | Cmp | mwe | X | Xxx | Qu | Abbr | Clt |
-            Phrase_N | Phrase_A | Phrase_V | Phrase_Adv ) #REQUIRED
+            Prsprc  | Fp-Cmp | Lp-Cmp | Cmp | mwe | X | Xxx | Qu | Abbr | Clt |
+            Phrase_N | Phrase_A | Phrase_V | Phrase_Adv ) #IMPLIED
       nr ( Sg | Du | Pl ) #IMPLIED
       context CDATA #IMPLIED
       type ( Rel | Pers | Indef | Refl | Dem | interr |
@@ -46,7 +46,7 @@
 <!ATTLIST l sem_type ( Obj | Plc | Fem | Org | Mal | Txt ) #IMPLIED >
 <!ATTLIST l src CDATA #IMPLIED >
 <!ATTLIST l value CDATA #IMPLIED >
-<!ATTLIST l t_type ( Pers | expl ) #IMPLIED  >
+<!ATTLIST l t_type ( Pers | expl | phrase ) #IMPLIED  >
 <!ATTLIST l re CDATA #IMPLIED >
 
 <!-- decl: i indeclineable -->
@@ -85,12 +85,12 @@
 <!ATTLIST re comment CDATA #IMPLIED >
 
 <!ELEMENT t (#PCDATA) >
-<!ATTLIST t t_type ( Pers | expl ) #IMPLIED  >
+<!ATTLIST t t_type ( Pers | expl | phrase ) #IMPLIED  >
 <!ATTLIST t nr ( Sg | Pl ) #IMPLIED  >
 <!ATTLIST t pos ( A | S  | N  | V | Adp | Clt |
             Adv | P | Pr | Po | Det |
             Pron | Prop | I | Interj | CC | CS | Im | Npl | Num |
-            Pcle | Prsprc | Phrase | Fp-Cmp | Lp-Cmp | Cmp | X  | Xxx |
+            Pcle | Prsprc | Fp-Cmp | Lp-Cmp | Cmp | X  | Xxx |
       phrase_N | phrase_A | phrase_V | phrase_Adv | g3 | NomAg | mwe | fp-cmp
           | Abbr | Foc_ba
           | Adv-N | N-Pron | Adv-CC | Adv-Pron | Adv-CS | CC-CS | A-N | Adv-Po | CMP | A-Adv | Adv-Po-Pron | A-Adv-Pron | A-Adv-N | Adv-N-Po | N-Po | Po-Pron | A-Pron | Foc_gis | Foc_han ) #IMPLIED >
@@ -123,6 +123,7 @@
 <!ATTLIST t case CDATA #IMPLIED >
 <!ATTLIST t umlaut ( full | A | C | B | D | E | F ) #IMPLIED >
 <!ATTLIST t diph CDATA #IMPLIED >
+<!ATTLIST t mod (ind) #IMPLIED >
 
 <!-- perhaps not first for attlist oa, if reverse-leksa shall be taken from nobsma -->
 

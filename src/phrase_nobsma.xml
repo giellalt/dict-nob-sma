@@ -30,21 +30,21 @@ For the full license text, see the link above.</lic>
    </lics>
    <e>
       <lg>
-         <l pos="Phrase">ditt og datt</l>
+         <l t_type="phrase">ditt og datt</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Phrase">dom daam</t>
+            <t t_type="phrase">dom daam</t>
          </tg>
       </mg>
    </e>
       <e>
       <lg>
-         <l pos="Phrase" type="Indef">vær så god</l>
+         <l t_type="phrase" type="Indef">vær så god</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="Phrase" type="Indef">vuajnah X</t>
+            <t t_type="phrase" type="Indef">vuajnah X</t>
             <xg>
                 <x>Vær så god og stig på! (imperativ, entall)</x>
                 <xt>Vuajnah tjaangh!</xt>
@@ -104,7 +104,7 @@ For the full license text, see the link above.</lic>
    </e>
 	<e>
       <lg>
-         <l pos="Phrase" type="Indef">et eller annet</l>
+         <l t_type="phrase" type="Indef">et eller annet</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -139,7 +139,7 @@ For the full license text, see the link above.</lic>
 	</e>
 	<e>
       <lg>
-         <l pos="Phrase" type="Indef">til et eller annet</l>
+         <l t_type="phrase" type="Indef">til et eller annet</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -191,7 +191,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase" type="Indef">en eller annen</l>
+         <l t_type="phrase" type="Indef">en eller annen</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -279,7 +279,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l t_type="expl" pos="Phrase">formodning eller forundring</l>
+         <l t_type="expl">formodning eller forundring</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -389,7 +389,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l t_type="expl" pos="Phrase">selvfølge eller visshet</l>
+         <l t_type="expl">selvfølge eller visshet</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -417,7 +417,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">så mye</l>
+         <l t_type="phrase">så mye</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -431,7 +431,7 @@ For the full license text, see the link above.</lic>
    </e>
       <e>
       <lg>
-         <l pos="Phrase">noe særlig</l>
+         <l t_type="phrase">noe særlig</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
