@@ -6695,7 +6695,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <t t_type="phrase">ij gåessie</t>
             <t t_type="phrase">ij gåessie gænnah</t>
-            <t type="grammar" href="https://oahpa.no/sma/gramm/adverb.nob.html#Tidsadverb">les i grammatikken</t>            
+            <t t_type="grammar" href="https://oahpa.no/sma/gramm/adverb.nob.html#Tidsadverb">les i grammatikken</t>            
             <xg>
                <x>Jeg tenker aldri på den måten.</x>
                <xt>Im manne gåessie gænnah nimhtie ussjedh.</xt>
@@ -6714,7 +6714,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="V">ij</t>
-            <t type="grammar" href="https://oahpa.no/sma/gramm/verb.nob.html#Nektelse">les i grammatikken om nektelse</t>            
+            <t t_type="grammar" href="https://oahpa.no/sma/gramm/verb.nob.html#Nektelse">les i grammatikken om nektelse</t>            
             <xg>
                <x>Hun kan ikke sy.</x>
                <xt>Ij dïhte maehtieh gåarodh.</xt>
@@ -6777,7 +6777,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <re>ved forbud eller avvisning</re>
             <t pos="V">aellies</t>
-            <t type="grammar" href="https://oahpa.no/sma/gramm/verb.nob.html#Nektelse">les i grammatikken om nektelse</t>            
+            <t t_type="grammar" href="https://oahpa.no/sma/gramm/verb.nob.html#Nektelse">les i grammatikken om nektelse</t>            
             <xg>
                <x>Pass på så den ikke går ned.</x>
                <xt>Geehth aellies våålese tjaangh.</xt>

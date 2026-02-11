@@ -49,7 +49,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="Pron">mij</t>
-             <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Sp%C3%B8rrende+og+relative+pronomen">les om bruken</t>            
+             <t t_type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Sp%C3%B8rrende+og+relative+pronomen">les om bruken</t>            
              <xg>
                <x>Det som skjer, det skjer.</x>
                <xt>Dïhte mij heannade, dïhte heannade.</xt>
@@ -76,7 +76,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
 	         <re>om personer</re>
             <t pos="Pron">gie</t>
-             <t type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Sp%C3%B8rrende+og+relative+pronomen">les om bruken</t>            
+             <t t_type="grammar" href="https://oahpa.no/sma/gramm/pronomen.nob.html#Sp%C3%B8rrende+og+relative+pronomen">les om bruken</t>            
             <xg>
                <x>Den som kommer først, skal koke kaffe.</x>
                <xt>Dïhte gie voestegh båata, edtja kaaffem voessjedh.</xt>
@@ -463,7 +463,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sma">
-           <t type="grammar" href="https://oahpa.no/sma/gramm/substantiv.nob.html#Elativ">elativ</t>            
+           <t t_type="grammar" href="https://oahpa.no/sma/gramm/substantiv.nob.html#Elativ">elativ</t>            
             <xg>
                <x>Jeg kommer til å leve mye bedre enn deg, Karius.</x>
                <xt>Manne båatam sagke buerebe datneste jieledh, Karijuse.</xt>

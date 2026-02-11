@@ -32,21 +32,14 @@
 <!ELEMENT mini_paradigm (analysis+) >
 <!ELEMENT l (#PCDATA) >
 <!ATTLIST l
-      pos ( A | N | V | Adv | Po | Pr | Pron | Rel | Pers | Det | I | Interj | Pcle |
-            Num | CC | CS | Prop | Proppl | G3 | Actor | Npl | Adp |
-            Prsprc  | Fp-Cmp | Lp-Cmp | Cmp | mwe | X | Xxx | Qu | Abbr | Clt |
-            Phrase_N | Phrase_A | Phrase_V | Phrase_Adv ) #IMPLIED
-      nr ( Sg | Du | Pl ) #IMPLIED
-      context CDATA #IMPLIED
-      type ( Rel | Pers | Indef | Refl | Dem | interr |
-            pre | post | ord | TV | IV | actor | G3 | G7 | NomAg | Ord
-            | Prop | Recipr | Coll | Interr | Logo ) #IMPLIED
-      pg ( yes | no ) #IMPLIED
+      pos ( A | N | V | Adv | Pr | Pron | Interj |
+            Num | CC | CS ) #IMPLIED
+      type ( Prop | Dem | Indef ) #IMPLIED
 >
-<!ATTLIST l sem_type ( Obj | Plc | Fem | Org | Mal | Txt ) #IMPLIED >
+<!ATTLIST l sem_type ( Plc | Fem | Org | Txt ) #IMPLIED >
 <!ATTLIST l src CDATA #IMPLIED >
 <!ATTLIST l value CDATA #IMPLIED >
-<!ATTLIST l t_type ( Pers | expl | phrase ) #IMPLIED  >
+<!ATTLIST l t_type ( expl | phrase ) #IMPLIED  >
 <!ATTLIST l re CDATA #IMPLIED >
 
 <!-- decl: i indeclineable -->
@@ -85,27 +78,16 @@
 <!ATTLIST re comment CDATA #IMPLIED >
 
 <!ELEMENT t (#PCDATA) >
-<!ATTLIST t t_type ( Pers | expl | phrase ) #IMPLIED  >
+<!ATTLIST t t_type ( expl | phrase | grammar ) #IMPLIED  >
 <!ATTLIST t nr ( Sg | Pl ) #IMPLIED  >
-<!ATTLIST t pos ( A | S  | N  | V | Adp | Clt |
-            Adv | P | Pr | Po | Det |
-            Pron | Prop | I | Interj | CC | CS | Im | Npl | Num |
-            Pcle | Prsprc | Fp-Cmp | Lp-Cmp | Cmp | X  | Xxx |
-      phrase_N | phrase_A | phrase_V | phrase_Adv | g3 | NomAg | mwe | fp-cmp
-          | Abbr | Foc_ba
-          | Adv-N | N-Pron | Adv-CC | Adv-Pron | Adv-CS | CC-CS | A-N | Adv-Po | CMP | A-Adv | Adv-Po-Pron | A-Adv-Pron | A-Adv-N | Adv-N-Po | N-Po | Po-Pron | A-Pron | Foc_gis | Foc_han ) #IMPLIED >
+<!ATTLIST t pos ( A | N  | V |
+            Adv | Pr | Po |
+            Pron | Interj | CC | CS | Num |
+            Pcle | Xxx ) #IMPLIED >
 
-<!--
-<!ATTLIST t pos ( a | S  | n  | v |
-            adv | p | pr | po | det |
-            pron | prop | i | interj | cc | cs | im | npl | num |
-            pcle | s  | prsprc | phrase | fp-cmp | lp-cmp | cmp | x  | xxx |
-      phrase_n | phrase_a | phrase_v | phrase_adv | g3 | NomAg | mwe ) #IMPLIED >
--->
-<!ATTLIST t type ( expl
-                  | grammarexpl |Prop | Indef | G3 | NomAg | Coll | Recipr | Pers
-                  | grammar | Refl | Dem | Poss | Logo | Rel | Interr | TV | IV ) #IMPLIED >
-<!ATTLIST t decl ( 1 | 2 | 3 | 4 | 5 | x | irr | i | yyy ) #IMPLIED> <!-- irr irregular -->
+<!ATTLIST t type ( IV | TV | 
+      Interr | Pers | Indef | Dem | Logo | Recopr | Refl | Rel | Recipr |
+      Coll | NomAg | Prop ) #IMPLIED >
 <!ATTLIST t dialect CDATA #IMPLIED >
 <!ATTLIST t src CDATA #IMPLIED >
 <!ATTLIST t attr CDATA #IMPLIED >
@@ -125,7 +107,6 @@
 <!ATTLIST t diph CDATA #IMPLIED >
 <!ATTLIST t mod (ind) #IMPLIED >
 
-<!-- perhaps not first for attlist oa, if reverse-leksa shall be taken from nobsma -->
 
 <!ELEMENT l_ref (#PCDATA) >
 

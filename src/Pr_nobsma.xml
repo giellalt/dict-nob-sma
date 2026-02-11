@@ -2086,7 +2086,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-          <t type="grammar" href="https://oahpa.no/sma/gramm/substantiv.nob.html#Inessiv">Bruk inessiv</t>            
+          <t t_type="grammar" href="https://oahpa.no/sma/gramm/substantiv.nob.html#Inessiv">Bruk inessiv</t>            
             <xg>
                <x>i Norge</x>
                <xt>Nöörjesne</xt>
@@ -3447,7 +3447,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-          <t type="grammar" href="https://oahpa.no/sma/gramm/substantiv.nob.html#Illativ">Bruk illativ</t>            
+          <t t_type="grammar" href="https://oahpa.no/sma/gramm/substantiv.nob.html#Illativ">Bruk illativ</t>            
             <xg>
                <x>Vi må gjøre innen fredag.</x>
                <xt>Dam tjoeveribie bearjadahkese darjodh.</xt>
