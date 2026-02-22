@@ -50,16 +50,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">forskningsarbeid</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">dotkemebarkoe</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">veileder</l>
       </lg>
       <mg>
@@ -36608,16 +36598,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">elvemel</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">vïedtere</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">vegg</l>
       </lg>
       <mg>
@@ -71514,11 +71494,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
 	        <re>uthult elvebredd</re> 
-            <t pos="V">vïedtere</t>
+            <t pos="N">vïedtere</t>
          </tg>
       </mg>
-      </e>
-      <e>
+   </e>
+   <e>
       <lg>
          <l pos="N">innside</l>
       </lg>
