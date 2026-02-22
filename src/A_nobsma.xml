@@ -818,17 +818,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="A">forekommende</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-	         <re>være forekommende</re>
-            <t diph="yes" pos="V">faepieldidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="A">tvilrådig</l>
       </lg>
       <mg>
@@ -862,17 +851,6 @@ For the full license text, see the link above.</lic>
 	         <re>være jevnbyrdig med noen</re>
             <t pos="V">earadidh</t>
             <t class="IV" pos="V" vow="a">mïrrestalledh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">hardhendt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-	         <re>være hardhendt</re>
-            <t pos="V">daaresjidh</t>
          </tg>
       </mg>
    </e>
@@ -1635,17 +1613,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="V">oppblåst</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-	         <re>bli plutselig oppblåst i magen</re>
-            <t diph="yes" p3p="pregkehte" pos="V">pregkiehtidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="A">rasende</l>
       </lg>
       <mg>
@@ -2325,6 +2292,12 @@ For the full license text, see the link above.</lic>
                <x>høflig og forekommende menneske</x>
                <xt>sjiehteles almetje</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>være forekommende</re>
+            <t diph="yes" pos="V">faepieldidh</t>
          </tg>
       </mg>
    </e>
@@ -3353,22 +3326,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="A">passende</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="A">sjiehteles</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-	         <re>være passende</re>
-            <t pos="V">heavadidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="A">arg</l>
       </lg>
       <mg>
@@ -3868,6 +3825,12 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>være passende</re>
+            <t pos="V">heavadidh</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -4325,6 +4288,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
 	        <re>være hardhendt med saker som ikke tåler det</re>
             <t pos="V">redtsiedidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>være hardhendt</re>
+            <t pos="V">daaresjidh</t>
          </tg>
       </mg>
    </e>
@@ -4859,11 +4828,6 @@ For the full license text, see the link above.</lic>
             <t pos="A">jueskies</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">kjølig</l>
-      </lg>
       <mg>
          <tg xml:lang="sma">
             <re>bli kjølig, om været</re>
@@ -5669,6 +5633,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
             <re>bli oppblåst, om mage</re>
             <t pos="V">bosseldidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>bli plutselig oppblåst i magen</re>
+            <t diph="yes" p3p="pregkehte" pos="V">pregkiehtidh</t>
          </tg>
       </mg>
    </e>
@@ -8913,16 +8883,6 @@ For the full license text, see the link above.</lic>
    </e>
   <e>
     <lg>
-      <l pos="A" src="fad">ond</l>
-    </lg>
-    <mg>
-      <tg xml:lang="sma">
-        <t pos="A">vesties</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="A" src="fad">norsktalende</l>
     </lg>
     <mg>
@@ -8943,31 +8903,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t t_type="phrase">dååjrehtsi mietie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">naturlig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">iemie</t>
-         </tg>
-      </mg>
-   </e>
-    <e>
-      <lg>
-         <l pos="A">ansvarlig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">tjåadtjoehtæjja</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">dïedteguedtije</t>
          </tg>
       </mg>
    </e>
