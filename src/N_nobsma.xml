@@ -58269,6 +58269,36 @@ For the full license text, see the link above.</lic>
       </tg>
     </mg>
   </e>
+    <e>
+    <lg>
+      <l pos="N" src="fad">arkivdirektør</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sma">
+        <t pos="N">våarhkoedirektööre</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">arkivassistent</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sma">
+        <t pos="N">våarhkoeklahke</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" src="fad">arkivleder</l>
+    </lg>
+    <mg>
+      <tg xml:lang="sma">
+        <t pos="N">våarhkoeåvtehke</t>
+      </tg>
+    </mg>
+  </e>
   <e>
     <lg>
       <l pos="N" src="fad">styrerom</l>
