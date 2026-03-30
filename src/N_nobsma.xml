@@ -21945,7 +21945,27 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   
+      <e>
+      <lg>
+         <l pos="N">billettbestilling</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">leahpadongkeme</t>
+         </tg>
+      </mg>
+   </e>    
+      </e>
+      <e>
+      <lg>
+         <l pos="N">landskapsarkitekt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <t pos="N">laantearkitekte</t>
+         </tg>
+      </mg>
+   </e>  
       <e>
       <lg>
          <l pos="N">pårørende</l>
