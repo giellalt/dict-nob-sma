@@ -11622,26 +11622,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l t_type="phrase">uskikkelig unge</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">fuerege</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">trollunge</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">fuerege</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">foss</l>
       </lg>
       <mg>
@@ -18072,21 +18052,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">skrikerunge</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">håjnoesmaana</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">snjæjroehtæjja</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">honning</l>
       </lg>
       <mg>
@@ -23536,6 +23501,12 @@ For the full license text, see the link above.</lic>
             <t pos="N">ångkenefuara</t>
          </tg>
       </mg>
+       <mg>
+         <tg xml:lang="sma">
+	        <re>unge som er uskikkelig</re>
+            <t pos="N">fuerege</t>
+         </tg>
+      </mg>
 	  <mg>
          <tg xml:lang="sma">
 	        <re>unge som griser mye</re>
@@ -23545,6 +23516,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
 	         <re>froskunge</re>
+            <t pos="N">tsanghke</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="N">rumpetroll</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
             <t pos="N">tsanghke</t>
          </tg>
       </mg>
