@@ -23518,42 +23518,33 @@ For the full license text, see the link above.</lic>
             <t pos="N">ångkene</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">unge</l>
-      </lg>
       <mg>
-         <tg xml:lang="sma">
-            <t pos="N">maana</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">ångkene</t>
-         </tg>
-      </mg>
-        <mg>
          <tg xml:lang="sma">
 	         <re>bjørnens unge</re>
             <t pos="N">læhla</t>
          </tg>
-        </mg>
-        <mg>
+      </mg>
+      <mg>
          <tg xml:lang="sma">
 	         <re>dyr-fugleunge</re>
             <t pos="N">tjovke</t>
          </tg>
-        </mg>
-          <mg>
+      </mg>
+      <mg>
          <tg xml:lang="sma">
-	        <re>en vidløftig unge, som farewr rundt</re>
+	        <re>vidløftig unge, som farer rundt</re>
             <t pos="N">ångkenefuara</t>
          </tg>
-          </mg>
-        <mg>
+      </mg>
+	  <mg>
          <tg xml:lang="sma">
-	         <re>frosk</re>
+	        <re>unge som griser mye</re>
+            <t pos="N">smiegrie</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>froskunge</re>
             <t pos="N">tsanghke</t>
          </tg>
       </mg>
