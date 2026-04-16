@@ -12457,39 +12457,41 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
+	         <re>transitiv</re>
             <t minip="notSg1" p3p="galma" pos="V">gelmedh</t>
             <xg>
                <x>Jeg fryser.</x>
                <xt>Manne galmam.</xt>
             </xg>
             <xg>
-               <x>La oss to gå inn i gamma, barnet begynner å fryse</x>
+               <x>La oss to gå inn i gamma, barnet holder på å fryse</x>
                <xt>Gåatan tjaengien, maana jis gelmieminie!</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <re>om å fryse til is</re>
+            <re>intransitiv</re>
             <t p3p="gååle" pos="V">gåalodh</t>
             <xg>
                <x>Jeg (for-)fryser beina.</x>
                <xt>Mov juelkieh gåaloeh.</xt>
             </xg>
             <xg>
-               <x>nesa er forfrosset.</x>
+               <x>nesa er blitt forfrosset.</x>
                <xt>njuenie gååleme.</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <re>om landskap?</re>
+	        <re>intransitiv</re>
             <t pos="V">jeangodh</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+	        <re>intransitiv</re>
             <re>tilbøyelig til å fryse fort, småfrysen av seg (om mennesker)</re>
             <t pos="V">tjåajhnodh</t>
             <xg>
@@ -12507,13 +12509,27 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>transitiv: fryse ned noe</re>
+            <re>transitiv: få noe til å fryse</re>
             <t pos="V">gelmiehtidh</t>
             <xg>
                <x>Jeg hadde allerede partert skrottene, og nå holdt jeg på å skjære dem i mindre biter før jeg fryser
                dem.</x>
                <xt>Manne niestiem smeejveme jïh daelie edtjem barre gelmiehtidh.</xt>
             </xg>
+         </tg>
+      </mg>
+        <mg>
+         <tg xml:lang="sme">
+            <re>intransitiv: bli skåevie, fryse på, få tynn isskorpe</re>
+            <t pos="V" src="fad">skaavodh</t>
+            <t pos="V" src="fad">skeevedh</t>
+             <t pos="V" src="fad">skååvedh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>intransitiv: fryse (om marken</re>
+            <t pos="V" src="fad">såavodh</t>
          </tg>
       </mg>
    </e>
