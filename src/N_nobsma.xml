@@ -14144,26 +14144,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">dyrehår</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">goelke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">kroppshår</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">goelke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l t_type="phrase">skinnsko av bellinger med hårene på</l>
       </lg>
       <mg>
@@ -35901,7 +35881,19 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <re>om menneske</re>
-            <t pos="N">voepte</t>
+            <t pos="N">voepteh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>om kjønnshår</re>
+            <t pos="N">sïebpeh</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>om dyrehår</re>
+            <t pos="N">goelkeh</t>
          </tg>
       </mg>
    </e>
@@ -38918,7 +38910,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">aegkiegoelke</t>
+            <t pos="N">aegkiegoelkeh</t>
          </tg>
       </mg>
    </e>
