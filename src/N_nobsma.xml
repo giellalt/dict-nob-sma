@@ -888,6 +888,27 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+    <e>
+      <lg>
+         <l pos="N">bar</l>
+      </lg>
+       <mg>
+         <tg xml:lang="sma">
+	        <re>grener og kvister av nåletrær</re>
+            <t pos="N">laanoeh</t>
+         </tg>
+      </mg>
+       <mg>
+         <tg xml:lang="sma">
+	        <re>uteplass</re>
+            <t pos="N">baare</t>
+            <xg>
+               <x>gå på bar</x>
+               <xt>baaresne mïnnedh</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e>
       <lg>
          <l pos="N">bue</l>
@@ -16482,6 +16503,12 @@ For the full license text, see the link above.</lic>
             <t pos="N">gïeje</t>
          </tg>
       </mg>
+         <mg>
+         <tg xml:lang="sma">
+            <re>etter ski</re>
+            <t pos="N">laatege</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -17552,6 +17579,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">ståapoe</t>
+         </tg>
+      </mg>
+         <mg>
+         <tg xml:lang="sma">
+	        <re>av granbar</re>
+            <t pos="N">laanoegåetie</t>
          </tg>
       </mg>
    </e>
@@ -21198,6 +21231,12 @@ For the full license text, see the link above.</lic>
             <t pos="N">laavkome</t>
          </tg>
       </mg>
+        <mg>
+         <tg xml:lang="sma">
+	        <re>baderom</re>
+            <t pos="N">laavkometjïehtjele</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -21234,16 +21273,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">laavkome</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">baderom</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">laavkometjïehtjele</t>
          </tg>
       </mg>
    </e>
