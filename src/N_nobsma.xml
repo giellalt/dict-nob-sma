@@ -29746,6 +29746,29 @@ For the full license text, see the link above.</lic>
             <t pos="N">skråavva</t>
          </tg>
       </mg>
+       <mg>
+         <tg xml:lang="sma">
+            <re>om baking</re>
+            <t pos="N">daanjeldahke</t>
+         </tg>
+      </mg>
+   </e>
+      <e>
+      <lg>
+         <l pos="N">hestehale</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sma">
+            <re>halen på hesten</re>
+            <t pos="N">hierkien-siejpie</t>
+         </tg>
+      </mg>
+       <mg>
+         <tg xml:lang="sma">
+            <re>om frisyre</re>
+            <t pos="N">voepte-seajpetje</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
