@@ -66198,7 +66198,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N" src="gg">eatneme</t>
+            <t pos="N" src="gg">eatnemeravra</t>
          </tg>
       </mg>
    </e>
@@ -71646,11 +71646,24 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">jekkebånd</l>
+         <l pos="N">bånd</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+	         <re>jekkebånd til motorisert bruk</re> 
             <t pos="N" src="BergslandMagga">gaarhkesbaante</t>
+         </tg>
+      </mg>
+       <mg>
+         <tg xml:lang="sma">
+	         <re>reip</re> 
+            <t pos="N" src="BergslandMagga">rïejhpe</t>
+         </tg>
+      </mg>
+       <mg>
+         <tg xml:lang="sma">
+	         <re>lydbånd</re> 
+            <t pos="N" src="BergslandMagga">tjoejenesbaante</t>
          </tg>
       </mg>
    </e>
