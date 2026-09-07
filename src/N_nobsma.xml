@@ -24899,26 +24899,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">fiskehode</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">naehkie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l t_type="phrase">del av fisk</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">naehkie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">melkekopp</l>
       </lg>
       <mg>
@@ -28851,7 +28831,29 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
+	        <re>på ulv og hund</re>
             <t pos="N">siejpie</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	        <re>på fisk</re>
+            <t pos="N">bïrsje</t>
+            <t pos="N">tjatska</t>
+            <t pos="N">sïejpege</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	        <re>på rein</re>
+            <t pos="N">batska</t>
+            <t pos="N">batjka</t>
+         </tg>
+      </mg>
+       <mg>
+         <tg xml:lang="sma">
+	        <re>på fugl</re>
+            <t pos="N">sïejpege</t>
          </tg>
       </mg>
    </e>
@@ -29515,21 +29517,19 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">fiskeskjell</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">skiblie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">skjell</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
+	         <re>på fisk</re>
             <t pos="N">skiblie</t>
+            <t pos="N">reeste</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	         <re>hvert av to skall på en musling</re>
+            <t pos="N">skaaltjoe</t>
          </tg>
       </mg>
    </e>
@@ -31870,8 +31870,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <re>om fisk</re>
-            <t pos="N">såajoe</t>
+            <re>på ryggen på fisk</re>
+            <t pos="N">haerjeme</t>
+         </tg>
+         <tg xml:lang="sma">
+            <re>på undersiden av fisken</re>
+            <t pos="N">såelie</t>
+            <t pos="N">såaja</t>
+            <t pos="N">voejehtahke</t>
          </tg>
       </mg>
    </e>
@@ -32050,16 +32056,6 @@ For the full license text, see the link above.</lic>
    <e>
       <lg>
          <l t_type="phrase">spire på reinhorn</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">såelie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">fiskefinne</l>
       </lg>
       <mg>
          <tg xml:lang="sma">
@@ -37083,6 +37079,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
+	         <re>om mennesker</re>
             <t pos="N">åejjie</t>
             <xg>
                <x>Jeg har hodepine.</x>
@@ -37096,6 +37093,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
 	         <re>om rovdyr</re>
             <t pos="N">tsehkie</t>
+         </tg>
+          <tg xml:lang="sma">
+	         <re>om fisk</re>
+            <t pos="N">naehkie</t>
+            <t pos="N">guelienåejjie</t>
          </tg>
       </mg>
    </e>
