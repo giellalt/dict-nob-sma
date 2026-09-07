@@ -31874,10 +31874,14 @@ For the full license text, see the link above.</lic>
             <t pos="N">haerjeme</t>
          </tg>
          <tg xml:lang="sma">
-            <re>på undersiden av fisken</re>
+            <re>på undersiden av fisk</re>
             <t pos="N">såelie</t>
             <t pos="N">såaja</t>
             <t pos="N">voejehtahke</t>
+         </tg>
+          <tg xml:lang="sma">
+            <re>på brystet på fisk</re>
+            <t pos="N">sæjroensåaja</t>
          </tg>
       </mg>
    </e>
