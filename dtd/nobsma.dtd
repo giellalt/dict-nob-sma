@@ -67,12 +67,12 @@
 
 <!ELEMENT tg (re?,  ( (t, stem*, l_ref?, morph_expl? ))+, xg*, syng?) >
 <!ATTLIST tg
-      xml:lang ( sme | sma | smn | nob | swe | eng | deu | fin | rus | smj | fra | lat) #REQUIRED
+      xml:lang ( sma ) #REQUIRED
       check CDATA #IMPLIED
 >
 <!ELEMENT re (#PCDATA) > <!-- Domain restriction: bot, phys, ... -->
 <!ATTLIST re
-    xml:lang ( nob | sme | sma | smn | swe | eng | deu | lat) #IMPLIED
+    xml:lang ( nob | sma| lat) #IMPLIED
 >
 <!ATTLIST re x ( fad ) #IMPLIED >
 <!ATTLIST re comment CDATA #IMPLIED >
