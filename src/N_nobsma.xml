@@ -19168,27 +19168,78 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">jollejuelkie</t>
+            <t pos="N" nr="Pl">sarve</t>
+            <t pos="N" nr="Pl">ïelje</t>
+            <xg>
+               <x>Elgen står på en liten snauflekk</x>
+               <xt>Sarve tjåådtje ohtje deava-sporjehken nelnie</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">sarve</t>
+	       <re>elgokse</re>
+            <t pos="N">prodte</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
+	        <re>elgokse, nord</re>
             <t pos="N">stööhtje</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">vaejsjie</t>
+	         <re>elgokse, syd</re>
+            <t pos="N">prïdte</t>
+             <t pos="N">vaejsjien-sarva</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">ïelje</t>
+	        <re>elgku</re>
+            <t pos="N">deavene</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	        <re>elgku</re>
+            <t pos="N">mænnele</t>
+            <t pos="N">mænngole</t>
+            <t pos="N">minngeles-sarve</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	        <re>elgkua i forhold til kalv</re>
+            <t pos="N">ietnemes</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	        <re>elgku som er ung</re>
+            <t pos="N">skåaknge</t>
+            <t pos="N">skoeknge</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	        <re>elgkalv</re>
+            <t pos="N">sarven-miesie</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	        <re>elgkalv</re>
+            <t pos="N">sarven-miesie</t>
+            <t pos="N">såehpele</t>
+            <t pos="N">jollejuelkie</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sma">
+	        <re>elg i syd</re>
+            <t pos="N">vaejsjie</t>
          </tg>
       </mg>
    </e>
@@ -24714,16 +24765,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="N">elgku</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">mænngole</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">svigerdatter</l>
       </lg>
       <mg>
@@ -30009,16 +30050,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="N">kvæjkoe</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">elgkvige</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="N">skåaknge</t>
          </tg>
       </mg>
    </e>
