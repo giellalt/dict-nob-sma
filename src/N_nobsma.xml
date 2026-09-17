@@ -19189,11 +19189,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="sma">
-            <t pos="N">prodte</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
 	        <re>elgokse, nord</re>
             <t pos="N">stööhtje</t>
          </tg>
@@ -19202,6 +19197,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
 	         <re>elgokse, syd</re>
             <t pos="N">prïdte</t>
+            <t pos="N">prodte</t>
             <t pos="N">vaejsjien-sarva</t>
          </tg>
       </mg>
