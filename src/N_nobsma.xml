@@ -19176,9 +19176,19 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
+        <mg>
+         <tg xml:lang="sma">
+	        <re>elg, syd</re>
+            <t pos="N">vaejsjie</t>
+         </tg>
+      </mg>
+    </e>
+    <e>
+      <lg>
+         <l pos="N">elgokse</l>
+      </lg>
       <mg>
          <tg xml:lang="sma">
-	       <re>elgokse</re>
             <t pos="N">prodte</t>
          </tg>
       </mg>
@@ -19192,18 +19202,18 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sma">
 	         <re>elgokse, syd</re>
             <t pos="N">prïdte</t>
-             <t pos="N">vaejsjien-sarva</t>
+            <t pos="N">vaejsjien-sarva</t>
          </tg>
       </mg>
+    </e>
+    <e>
+	  <lg>
+         <l pos="N">elgku</l>
+      </lg>
       <mg>
          <tg xml:lang="sma">
 	        <re>elgku</re>
             <t pos="N">deavene</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-	        <re>elgku</re>
             <t pos="N">mænnele</t>
             <t pos="N">mænngole</t>
             <t pos="N">minngeles-sarve</t>
@@ -19222,24 +19232,17 @@ For the full license text, see the link above.</lic>
             <t pos="N">skoeknge</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sma">
-	        <re>elgkalv</re>
-            <t pos="N">sarven-miesie</t>
-         </tg>
-      </mg>
+     </e>
+      <e>
+	     <lg>
+         <l pos="N">elgkalv</l>
+      </lg>
       <mg>
          <tg xml:lang="sma">
 	        <re>elgkalv</re>
             <t pos="N">sarven-miesie</t>
             <t pos="N">såehpele</t>
             <t pos="N">jollejuelkie</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sma">
-	        <re>elg i syd</re>
-            <t pos="N">vaejsjie</t>
          </tg>
       </mg>
    </e>
