@@ -66,10 +66,9 @@
 <!ATTLIST mg src CDATA #IMPLIED >
 
 <!ELEMENT tg (re?,  ( (t, stem*, l_ref?, morph_expl? ))+, xg*, syng?) >
-<!ATTLIST tg
-      xml:lang ( sma ) #REQUIRED
-      check CDATA #IMPLIED
->
+<!ATTLIST tg check CDATA #IMPLIED >
+<!ATTLIST tg xml:lang NMTOKEN #FIXED "sma" >
+
 <!ELEMENT re (#PCDATA) > <!-- Domain restriction: bot, phys, ... -->
 <!ATTLIST re
     xml:lang ( nob | sma| lat) #IMPLIED
@@ -85,7 +84,7 @@
             Pron | Interj | CC | CS | Num |
             Pcle | Xxx ) #IMPLIED >
 
-<!ATTLIST t type ( IV | TV | 
+<!ATTLIST t type ( IV | TV |
       Interr | Pers | Indef | Dem | Logo | Recopr | Refl | Rel | Recipr |
       Coll | NomAg | Prop ) #IMPLIED >
 <!ATTLIST t dialect CDATA #IMPLIED >
