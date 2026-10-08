@@ -71747,4 +71747,34 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e>
+      <lg>
+         <l pos="N">vannpytt</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">lovhtje</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">vassdam</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">lovhtje</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">vanndam</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">lovhtje</t>
+         </tg>
+      </mg>
+   </e>
 </r>
