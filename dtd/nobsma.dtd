@@ -58,7 +58,7 @@
 <!ELEMENT id (#PCDATA) >
 <!ELEMENT it (#PCDATA) >
 
-<!ELEMENT mg (l_ref?, tg+, re? ) >
+<!ELEMENT mg (l_ref?, re?, tg+ ) >
 <!ATTLIST mg
       rest CDATA #IMPLIED
 >
@@ -66,8 +66,8 @@
 <!ATTLIST mg src CDATA #IMPLIED >
 
 <!ELEMENT tg (re?,  ( (t, l_ref? ))+, xg*) >
+<!ATTLIST tg xml:lang ( sma ) #REQUIRED >
 <!ATTLIST tg check CDATA #IMPLIED >
-<!ATTLIST tg xml:lang NMTOKEN #FIXED "sma" >
 
 <!ELEMENT re (#PCDATA) > <!-- Domain restriction: bot, phys, ... -->
 <!ATTLIST re

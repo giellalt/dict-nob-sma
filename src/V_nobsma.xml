@@ -8123,16 +8123,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l t_type="phrase">flytte lenger unna</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">duebpiedidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l t_type="phrase">holde ut i hardt vær</l>
       </lg>
       <mg>
@@ -18665,26 +18655,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l t_type="phrase">drive på å flytte</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t p3p="johtehtje" pos="V">johtehtjidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l t_type="phrase">flytte flere ganger</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t p3p="johtehtje" pos="V">johtehtjidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">spenne på seg</l>
       </lg>
       <mg>
@@ -18899,12 +18869,36 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="sma">
             <t pos="V">jahtajidh</t>
+            <t pos="V">jåhtajidh</t>
+         </tg>
+         <tg xml:lang="sma">
+            <t pos="V">sertiestidh</t>
+         </tg>
+         <tg xml:lang="sma">
+            <re>flytte nærmere</re>
+            <t pos="V">lïhkedidh</t>
+         </tg>
+         <tg xml:lang="sma">
+            <re>flytte lenger unna</re>
+            <t pos="V">duebpiedidh</t>
          </tg>
       </mg>
       <mg>
-         <tg>
-            <re>flytte seg</re>
-            <t pos="V">dabpanridh</t>
+         <tg xml:lang="sma">
+            <re>drive på å flytte</re>
+            <t pos="V">johtehtjidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <re>flytte seg</re>
+         <tg xml:lang="sma">
+            <t pos="V">dabpanrrreidh</t>
+         </tg>
+      </mg>
+      <mg>
+         <re>gjøre seg klar til å flytte</re>
+         <tg xml:lang="sma">
+            <t pos="V">bofferdidh</t>
          </tg>
       </mg>
    </e>
@@ -19196,16 +19190,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="V">jåerhkedh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l t_type="phrase">flytte av sted</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t p3p="jåhtije" pos="V">jåhtajidh</t>
          </tg>
       </mg>
    </e>
@@ -43597,16 +43581,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l t_type="phrase">gjøre seg klar til å flytte</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">bofferdidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l t_type="phrase">snuble ofte</l>
       </lg>
       <mg>
@@ -46512,16 +46486,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l t_type="phrase">flytte nærmere</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">lïhkedidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l t_type="phrase">lese litt</l>
       </lg>
       <mg>
@@ -47794,16 +47758,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="sma">
             <t pos="V">serhkielidh</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l t_type="phrase">flytte noe</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sma">
-            <t pos="V">sertiestidh</t>
          </tg>
       </mg>
    </e>
